@@ -36,9 +36,7 @@ export default async function TasksPage() {
             {overdue.map(task => (
               <TaskCard 
                 key={task.id} 
-                task={task} 
-                onComplete={() => {}} 
-              />
+                task={task}/>
             ))}
             {overdue.length === 0 && (
               <p className="text-sm text-slate-500 text-center py-8">Nothing overdue</p>
@@ -53,9 +51,7 @@ export default async function TasksPage() {
             {thisWeek.map(task => (
               <TaskCard 
                 key={task.id} 
-                task={task} 
-                onComplete={() => {}} 
-              />
+                task={task}/>
             ))}
             {thisWeek.length === 0 && (
               <p className="text-sm text-slate-500 text-center py-8">Nothing due</p>
@@ -70,9 +66,7 @@ export default async function TasksPage() {
             {nextWeek.map(task => (
               <TaskCard 
                 key={task.id} 
-                task={task} 
-                onComplete={() => {}} 
-              />
+                task={task}/>
             ))}
             {nextWeek.length === 0 && (
               <p className="text-sm text-slate-500 text-center py-8">Nothing scheduled</p>
@@ -87,9 +81,7 @@ export default async function TasksPage() {
             {later.map(task => (
               <TaskCard 
                 key={task.id} 
-                task={task} 
-                onComplete={() => {}} 
-              />
+                task={task}/>
             ))}
             {later.length === 0 && (
               <p className="text-sm text-slate-500 text-center py-8">Nothing scheduled</p>
@@ -104,9 +96,7 @@ export default async function TasksPage() {
             {parked.map(task => (
               <TaskCard 
                 key={task.id} 
-                task={task} 
-                onComplete={() => {}} 
-              />
+                task={task}/>
             ))}
             {parked.length === 0 && (
               <p className="text-sm text-slate-500 text-center py-8">Nothing parked</p>

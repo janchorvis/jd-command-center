@@ -7,10 +7,9 @@ import { CheckCircleIcon as CheckCircleSolidIcon } from '@heroicons/react/24/sol
 
 interface TaskCardProps {
   task: Task;
-  onComplete: (taskId: string) => void;
 }
 
-export default function TaskCard({ task, onComplete }: TaskCardProps) {
+export default function TaskCard({ task }: TaskCardProps) {
   const healthColor = task.isOverdue ? 'border-red-500' : 
                       task.daysUntilDue !== null && task.daysUntilDue <= 3 ? 'border-yellow-500' : 
                       'border-slate-700';
@@ -49,16 +48,9 @@ export default function TaskCard({ task, onComplete }: TaskCardProps) {
           )}
         </div>
 
-        <button
-          onClick={(e) => {
-            e.stopPropagation();
-            onComplete(task.id);
-          }}
-          className="flex-shrink-0 text-slate-500 hover:text-green-400 transition"
-          title="Mark complete"
-        >
+        <div className="flex-shrink-0 text-slate-600" title="Complete coming soon">
           <CheckCircleIcon className="w-6 h-6" />
-        </button>
+        </div>
       </div>
     </div>
   );
