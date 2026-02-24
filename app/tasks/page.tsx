@@ -1,6 +1,7 @@
-import { fetchTasks, groupTasksByStatus, completeTask } from '@/lib/asana';
+import { fetchTasks, groupTasksByStatus } from '@/lib/asana';
 import TaskCard from '@/components/TaskCard';
 import StatCard from '@/components/StatCard';
+import Top3Today from '@/components/Top3Today';
 
 export const dynamic = 'force-dynamic';
 
@@ -17,7 +18,12 @@ export default async function TasksPage() {
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-      <h1 className="text-3xl font-bold mb-8">📋 Tasks</h1>
+      <h1 className="text-3xl font-bold mb-8">📋 Command Center</h1>
+
+      {/* Top 3 Today + Timeline */}
+      <div className="mb-8">
+        <Top3Today tasks={tasks} />
+      </div>
 
       {/* Stats */}
       <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-8">
@@ -36,7 +42,9 @@ export default async function TasksPage() {
             {overdue.map(task => (
               <TaskCard 
                 key={task.id} 
-                task={task}/>
+                task={task}
+                draggable={true}
+              />
             ))}
             {overdue.length === 0 && (
               <p className="text-sm text-slate-500 text-center py-8">Nothing overdue</p>
@@ -51,7 +59,9 @@ export default async function TasksPage() {
             {thisWeek.map(task => (
               <TaskCard 
                 key={task.id} 
-                task={task}/>
+                task={task}
+                draggable={true}
+              />
             ))}
             {thisWeek.length === 0 && (
               <p className="text-sm text-slate-500 text-center py-8">Nothing due</p>
@@ -66,7 +76,9 @@ export default async function TasksPage() {
             {nextWeek.map(task => (
               <TaskCard 
                 key={task.id} 
-                task={task}/>
+                task={task}
+                draggable={true}
+              />
             ))}
             {nextWeek.length === 0 && (
               <p className="text-sm text-slate-500 text-center py-8">Nothing scheduled</p>
@@ -81,7 +93,9 @@ export default async function TasksPage() {
             {later.map(task => (
               <TaskCard 
                 key={task.id} 
-                task={task}/>
+                task={task}
+                draggable={true}
+              />
             ))}
             {later.length === 0 && (
               <p className="text-sm text-slate-500 text-center py-8">Nothing scheduled</p>
@@ -96,7 +110,9 @@ export default async function TasksPage() {
             {parked.map(task => (
               <TaskCard 
                 key={task.id} 
-                task={task}/>
+                task={task}
+                draggable={true}
+              />
             ))}
             {parked.length === 0 && (
               <p className="text-sm text-slate-500 text-center py-8">Nothing parked</p>
