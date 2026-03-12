@@ -81,6 +81,11 @@ function transformDeal(pipedriveDeal: PipedriveDeal): Deal {
   };
 }
 
+export async function fetchHotDeals(hotDealIds: number[]): Promise<Deal[]> {
+  const deals = await fetchDeals();
+  return deals.filter(d => hotDealIds.includes(Number(d.id)));
+}
+
 export async function fetchDeals(): Promise<Deal[]> {
   const deals = await pipedriveFetch(
     `/deals?pipeline_id=${LEASING_PIPELINE_ID}&status=open`

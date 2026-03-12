@@ -1,14 +1,17 @@
 import Link from 'next/link';
 import { fetchTasks, groupTasksByStatus } from '@/lib/asana';
-import { fetchDeals, getStaleDeals } from '@/lib/pipedrive';
+import { fetchDeals, fetchHotDeals, getStaleDeals } from '@/lib/pipedrive';
+import { HOT_DEAL_IDS, SIDE_DEALS } from '@/lib/hot-deals';
 import StatCard from '@/components/StatCard';
+import HotDealsSection from '@/components/HotDealsSection';
 
 export const dynamic = 'force-dynamic';
 
 export default async function Home() {
-  const [tasks, deals] = await Promise.all([
+  const [tasks, deals, hotDeals] = await Promise.all([
     fetchTasks(),
     fetchDeals(),
+    fetchHotDeals(HOT_DEAL_IDS),
   ]);
 
   const { overdue, thisWeek, parked } = groupTasksByStatus(tasks);
@@ -18,6 +21,9 @@ export default async function Home() {
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <h1 className="text-4xl font-bold mb-2">⚡ Command Center</h1>
       <p className="text-slate-400 mb-8">Your personal dashboard for tasks & deals</p>
+
+      {/* Focus Deals */}
+      <HotDealsSection hotDeals={hotDeals} sideDeals={SIDE_DEALS} />
 
       {/* Alert Banners */}
       {overdue.length > 0 && (
