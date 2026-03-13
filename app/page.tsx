@@ -1,11 +1,8 @@
 import Link from 'next/link';
 import { fetchTasks, groupTasksByStatus } from '@/lib/asana';
-import { fetchDeals, getStaleDeals } from '@/lib/pipedrive';
+import { fetchDeals } from '@/lib/pipedrive';
 import { getHotDealsData } from '@/lib/hot-deals';
 import HotDealsSection from '@/components/HotDealsSection';
-import StaleContacts from '@/components/StaleContacts';
-import WeeklyDiff from '@/components/WeeklyDiff';
-import PipelineFunnel from '@/components/PipelineFunnel';
 import BrainDump from '@/components/BrainDump';
 import ActionItems from '@/components/ActionItems';
 
@@ -26,7 +23,6 @@ export default async function Home() {
 
   const hotDealsData = getHotDealsData();
   const { overdue, thisWeek } = groupTasksByStatus(tasks);
-  const staleDeals = getStaleDeals(deals);
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -36,7 +32,7 @@ export default async function Home() {
         <p className="text-slate-500">{hotDealsData.today.greeting}</p>
       </div>
 
-      {/* Today's Context */}
+      {/* 1. Today's Schedule + Top Priorities */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-8">
         {/* Meetings */}
         <div className="bg-white border border-slate-200 shadow-sm rounded-xl p-5">
@@ -73,47 +69,20 @@ export default async function Home() {
         </div>
       </div>
 
-      {/* Alert Banners */}
-      {(overdue.length > 0 || staleDeals.length > 0) && (
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
-          {overdue.length > 0 && (
-            <div className="bg-red-50 border border-red-200 rounded-xl p-4">
-              <h3 className="font-semibold text-red-600 mb-1">🚨 {overdue.length} Overdue Tasks</h3>
-              <p className="text-sm text-slate-700">You have tasks that need attention</p>
-            </div>
-          )}
-          {staleDeals.length > 0 && (
-            <div className="bg-yellow-50 border border-yellow-200 rounded-xl p-4">
-              <h3 className="font-semibold text-yellow-600 mb-1">⚠️ {staleDeals.length} Stale Deals</h3>
-              <p className="text-sm text-slate-700">Some deals haven&apos;t been touched in 14+ days</p>
-            </div>
-          )}
-        </div>
-      )}
+      {/* 2. Action Items */}
+      <ActionItems items={hotDealsData.actionItems ?? []} />
 
-      {/* Focus Deals */}
+      {/* 3. Focus Deals (no dropped balls on home page) */}
       <HotDealsSection
         pipelineDeals={hotDealsData.pipelineDeals}
         sideDeals={hotDealsData.sideDeals}
-        droppedBalls={hotDealsData.droppedBalls}
+        droppedBalls={[]}
         lastUpdated={hotDealsData.lastUpdated}
         sourceDoc={hotDealsData.sourceDoc}
       />
 
-      {/* Stale Contacts */}
-      <StaleContacts contacts={hotDealsData.staleContacts} />
-
-      {/* Weekly Diff */}
-      <WeeklyDiff diff={hotDealsData.weeklyDiff} />
-
-      {/* Action Items from prep doc */}
-      <ActionItems items={hotDealsData.actionItems ?? []} />
-
-      {/* Pipeline Funnel + Brain Dump side by side */}
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-8">
-        <PipelineFunnel funnel={hotDealsData.funnel} />
-        <BrainDump />
-      </div>
+      {/* 4. Brain Dump — collapsible, bottom of page */}
+      <BrainDump />
 
       {/* Quick Links */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -145,7 +114,6 @@ export default async function Home() {
             <div className="mt-4 flex gap-4 text-sm">
               <span className="text-emerald-600">{deals.filter(d => d.health === 'active').length} active</span>
               <span className="text-yellow-600">{deals.filter(d => d.health === 'watch').length} watch</span>
-              <span className="text-red-600">{staleDeals.length} stale</span>
             </div>
           </div>
         </Link>

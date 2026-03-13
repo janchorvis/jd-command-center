@@ -3,6 +3,7 @@ import { getHotDealsData } from '@/lib/hot-deals';
 import StatCard from '@/components/StatCard';
 import DealCard from '@/components/DealCard';
 import HotDealsSection from '@/components/HotDealsSection';
+import PipelineFunnel from '@/components/PipelineFunnel';
 
 export const dynamic = 'force-dynamic';
 
@@ -59,6 +60,11 @@ export default async function DealsPage() {
           </div>
         </div>
       )}
+
+      {/* Pipeline Funnel */}
+      <div className="mb-8">
+        <PipelineFunnel funnel={hotDealsData.funnel} />
+      </div>
 
       {/* Deal Cards by Stage */}
       <div className="space-y-8">

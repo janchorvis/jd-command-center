@@ -2,7 +2,6 @@
 
 import Link from 'next/link';
 import { SideDeal } from '@/lib/hot-deals';
-import { ClockIcon } from '@heroicons/react/24/outline';
 
 interface SideDealCardProps {
   deal: SideDeal;
@@ -20,13 +19,20 @@ const typeBadgeColors: Record<string, string> = {
   'Tenant Rep': 'bg-[#7a9a8a]/10 text-[#7a9a8a]',
 };
 
-function daysAgo(isoDate: string): number {
-  const diff = new Date().getTime() - new Date(isoDate).getTime();
-  return Math.floor(diff / (1000 * 60 * 60 * 24));
+function getLastContactDays(timeline: SideDeal['timeline']): string {
+  if (!timeline || timeline.length === 0) return '';
+  const sorted = [...timeline].sort(
+    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+  );
+  const diff = new Date().getTime() - new Date(sorted[0].date).getTime();
+  const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+  if (days === 0) return 'Today';
+  if (days === 1) return '1 day ago';
+  return `${days} days ago`;
 }
 
 export default function SideDealCard({ deal }: SideDealCardProps) {
-  const days = daysAgo(deal.lastUpdate);
+  const lastContact = getLastContactDays(deal.timeline);
 
   return (
     <Link href={`/deals/${deal.id}`}>
@@ -44,16 +50,17 @@ export default function SideDealCard({ deal }: SideDealCardProps) {
           </span>
         </div>
 
-        <p className="text-sm text-slate-700 mb-2">{deal.status}</p>
+        <p className="text-sm text-slate-700 mb-1">{deal.status}</p>
+        {lastContact ? (
+          <p className="text-xs text-slate-400 mb-2">Last contact: {lastContact}</p>
+        ) : (
+          <p className="text-xs text-amber-400 mb-2">No contact history</p>
+        )}
 
         <div className="mt-3 pt-3 border-t border-slate-200">
           <p className="text-xs text-[#7a9a8a] font-medium mb-2">→ {deal.nextStep}</p>
-          <div className="flex items-center justify-between text-xs text-slate-500">
+          <div className="text-xs text-slate-500">
             <span>{deal.contacts.join(', ')}</span>
-            <span className="flex items-center gap-1">
-              <ClockIcon className="w-3 h-3" />
-              {days === 0 ? 'Today' : `${days}d ago`}
-            </span>
           </div>
         </div>
       </div>
