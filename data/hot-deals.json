@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-03-13T14:30:08.175759",
+  "lastUpdated": "2026-03-13T15:00:52.990525",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/9/26",
   "today": {
     "date": "2026-03-13",
-    "greeting": "Good morning, Jacob. You have 9 overdue items.",
+    "greeting": "Good afternoon, Jacob. You have 6 overdue items.",
     "meetings": [
       {
         "time": "12:00 AM",
@@ -48,13 +48,13 @@
     ],
     "priorities": [
       "Send clean job description email to Micah — for recruiter Robbie (overdue — due 2026-03-12)",
-      "Follow up on Charles Hawkins guarantor financials — Emerson Hall (overdue — due 2026-03-11)",
       "Call Brether group — Emerson Hall interest, clarify show details (overdue — due 2026-03-11)",
       "Confirm with Melissa that signed docs were received and sent back (overdue — due 2026-03-12)",
-      "Put Store Crafters on timeline for work letter review — Malone (overdue — due 2026-03-11)",
-      "Run LOI redline comparison (Shoe Dept/Tracy) and email to Micah (overdue — due 2026-03-12)",
       "Send AI resources to Anchor team (overdue — due 2026-03-11)",
-      "Connect with Shelby Hall — Hope Smiles TI counter (overdue — due 2026-03-12)"
+      "Connect with Shelby Hall — Hope Smiles TI counter (overdue — due 2026-03-12)",
+      "Harrison Trampoline LOI (overdue — due 2026-02-27)",
+      "Commission instructions to Carol — Feb invoices",
+      "Redline Emerson Hall prospect lease"
     ]
   },
   "pipelineDeals": [
@@ -1471,7 +1471,8 @@
     },
     {
       "title": "Team vs. Individual accounts",
-      "detail": ""
+      "detail": "",
+      "completed": true
     },
     {
       "title": "Job Listing",
@@ -1479,7 +1480,8 @@
     },
     {
       "title": "Feb Commissions",
-      "detail": "I prepped everything yesterday to send you my February permissions. Just leaving this here to remind myself to talk about some of the Anchor commissions so that way we don't have to do it completely over email"
+      "detail": "I prepped everything yesterday to send you my February permissions. Just leaving this here to remind myself to talk about some of the Anchor commissions so that way we don't have to do it completely over email",
+      "completed": true
     }
   ],
   "crossRefAlerts": [
