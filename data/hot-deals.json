@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12T20:58:04.718695",
+  "lastUpdated": "2026-03-12T21:06:47.389205",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/9/26",
   "today": {
     "date": "2026-03-12",
@@ -548,7 +548,10 @@
       "name": "QT Nails",
       "property": "Montgomery (1642 Atlanta HWY)",
       "status": "Full lease application received 3/5. 5-year term, opening May 2026.",
-      "stage": "Obtain Financials",
+      "stage": "Lease Signed",
+      "stageOverride": "Lease Signed",
+      "stageOverrideDate": "2026-03-12",
+      "stageOverrideSource": "email-signal: DocuSign completion",
       "nextStep": "Process application, prepare lease draft",
       "priority": "medium",
       "timeline": [
@@ -1197,6 +1200,7 @@
     "Trading Terms": 2,
     "LOI": 5,
     "Lease Draft & Review": 4,
+    "Lease Signed": 0,
     "Stalled": 32
   },
   "brainDumps": []
