@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T07:16:01.045322",
+  "lastUpdated": "2026-03-13T10:32:58.129453",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/9/26",
   "today": {
     "date": "2026-03-13",
@@ -12,7 +12,7 @@
       },
       {
         "time": "6:00 AM",
-        "title": "NO West End Men\u2019s Bible Study",
+        "title": "NO West End Men’s Bible Study",
         "dealContext": null
       },
       {
@@ -47,14 +47,14 @@
       }
     ],
     "priorities": [
-      "Send clean job description email to Micah \u2014 for recruiter Robbie (overdue \u2014 due 2026-03-12)",
-      "Follow up on Charles Hawkins guarantor financials \u2014 Emerson Hall (overdue \u2014 due 2026-03-11)",
-      "Call Brether group \u2014 Emerson Hall interest, clarify show details (overdue \u2014 due 2026-03-11)",
-      "Confirm with Melissa that signed docs were received and sent back (overdue \u2014 due 2026-03-12)",
-      "Put Store Crafters on timeline for work letter review \u2014 Malone (overdue \u2014 due 2026-03-11)",
-      "Run LOI redline comparison (Shoe Dept/Tracy) and email to Micah (overdue \u2014 due 2026-03-12)",
-      "Send AI resources to Anchor team (overdue \u2014 due 2026-03-11)",
-      "Connect with Shelby Hall \u2014 Hope Smiles TI counter (overdue \u2014 due 2026-03-12)"
+      "Send clean job description email to Micah — for recruiter Robbie (overdue — due 2026-03-12)",
+      "Follow up on Charles Hawkins guarantor financials — Emerson Hall (overdue — due 2026-03-11)",
+      "Call Brether group — Emerson Hall interest, clarify show details (overdue — due 2026-03-11)",
+      "Confirm with Melissa that signed docs were received and sent back (overdue — due 2026-03-12)",
+      "Put Store Crafters on timeline for work letter review — Malone (overdue — due 2026-03-11)",
+      "Run LOI redline comparison (Shoe Dept/Tracy) and email to Micah (overdue — due 2026-03-12)",
+      "Send AI resources to Anchor team (overdue — due 2026-03-11)",
+      "Connect with Shelby Hall — Hope Smiles TI counter (overdue — due 2026-03-12)"
     ]
   },
   "pipelineDeals": [
@@ -79,7 +79,7 @@
         },
         {
           "date": "2026-03-12",
-          "event": "Kevin Trujillo \u2014 Re: River Parkway Plaza - LOI - CosmoProf [6 msgs]",
+          "event": "Kevin Trujillo — Re: River Parkway Plaza - LOI - CosmoProf [6 msgs]",
           "type": "email"
         },
         {
@@ -94,7 +94,7 @@
         },
         {
           "date": "2026-03-11",
-          "event": "Steven Silverman \u2014 \u00b113% Cap Rate! | Terre Haute Plaza | Auction April 13-15",
+          "event": "Steven Silverman — ±13% Cap Rate! | Terre Haute Plaza | Auction April 13-15",
           "type": "email"
         },
         {
@@ -192,7 +192,7 @@
         },
         {
           "date": "2026-03-11",
-          "event": "Email from Steven Silverman: \u00b113% Cap Rate! | Terre Haute Plaza | Auction April 13-15",
+          "event": "Email from Steven Silverman: ±13% Cap Rate! | Terre Haute Plaza | Auction April 13-15",
           "type": "email"
         },
         {
@@ -296,7 +296,7 @@
         },
         {
           "date": "2026-03-11",
-          "event": "Email from Steven Silverman: \u00b113% Cap Rate! | Terre Haute Plaza | Auction April 13-15",
+          "event": "Email from Steven Silverman: ±13% Cap Rate! | Terre Haute Plaza | Auction April 13-15",
           "type": "email"
         },
         {
@@ -368,6 +368,11 @@
       "nextStep": "Counter: grant $30K extra TI, bump rent $0.50-1.00/SF",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-13",
+          "event": "Email from Terrell D.: Terrell D. is requesting Information on Gastonia, NC .5-1 Acre Outparcel in Gast",
+          "type": "email"
+        },
         {
           "date": "2026-03-13",
           "event": "Email from Catherine F.: Catherine F. opened brochure on Dixie Village",
@@ -512,7 +517,7 @@
         },
         {
           "date": "2026-03-12",
-          "event": "Melissa Eddy via Vimcal \u2014 Canceled event with note: 930 Prayer for Anchor  (from meddy@anchorinv.com)",
+          "event": "Melissa Eddy via Vimcal — Canceled event with note: 930 Prayer for Anchor  (from meddy@anchorinv.com)",
           "type": "email"
         },
         {
@@ -560,6 +565,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-03-13",
+          "event": "Email from LinkedIn: Jacob, follow Stephen A. Smith - Journalist/Commentator at ESPN",
+          "type": "email"
+        },
+        {
           "date": "2026-03-12",
           "event": "Email from Shelby Hall: HopeSmiles",
           "type": "email"
@@ -586,7 +596,7 @@
         },
         {
           "date": "2026-03-12",
-          "event": "Donnie Thomas \u2014 Emerson Hall [3 msgs]",
+          "event": "Donnie Thomas — Emerson Hall [3 msgs]",
           "type": "email"
         },
         {
@@ -674,7 +684,7 @@
         },
         {
           "date": "2026-03-12",
-          "event": "Micah Lacher \u2014 Fwd: Completed: Complete with Docusign: Montgomery Community Partners, LLC - QT Nails by Dwaine LLC QT Na",
+          "event": "Micah Lacher — Fwd: Completed: Complete with Docusign: Montgomery Community Partners, LLC - QT Nails by Dwaine LLC QT Na",
           "type": "email"
         },
         {
@@ -886,6 +896,16 @@
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
+          "date": "2026-03-13",
+          "event": "Email from Cole Tarlas: Cole/Jacob Lunch",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-13",
+          "event": "Email from Jacob Delk: 2433 Buena Vista Pike - 15 acres",
+          "type": "email"
+        },
+        {
           "date": "2026-03-12",
           "event": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our second prospective coffee of 2026 on April",
           "type": "email"
@@ -902,7 +922,7 @@
         },
         {
           "date": "2026-03-12",
-          "event": "Email from Nashville Business Journal: Plant Your Sustainability Story in Front of the Right Audience \u00a0",
+          "event": "Email from Nashville Business Journal: Plant Your Sustainability Story in Front of the Right Audience  ",
           "type": "email"
         },
         {
@@ -1027,6 +1047,11 @@
       "lastUpdate": "2026-03-09",
       "timeline": [
         {
+          "date": "2026-03-13",
+          "event": "Email from LinkedIn: Jacob, follow Stephen A. Smith - Journalist/Commentator at ESPN",
+          "type": "email"
+        },
+        {
           "date": "2026-03-12",
           "event": "Email from Shelby Hall: HopeSmiles",
           "type": "email"
@@ -1058,7 +1083,7 @@
         },
         {
           "date": "2026-03-12",
-          "event": "Email from Nashville Business Journal: Plant Your Sustainability Story in Front of the Right Audience \u00a0",
+          "event": "Email from Nashville Business Journal: Plant Your Sustainability Story in Front of the Right Audience  ",
           "type": "email"
         },
         {
@@ -1078,7 +1103,7 @@
         },
         {
           "date": "2026-03-11",
-          "event": "Micah Lacher \u2014 Invitation: 11am: Entertainment Venue Catch Up (The Gallatin) @ Tue Mar 17, 2026 11am - 11:30am (CDT) (Ja",
+          "event": "Micah Lacher — Invitation: 11am: Entertainment Venue Catch Up (The Gallatin) @ Tue Mar 17, 2026 11am - 11:30am (CDT) (Ja",
           "type": "email"
         },
         {
@@ -1188,143 +1213,143 @@
   "staleContacts": [
     {
       "name": "Derek Tucker",
-      "deal": "Anytime Fitness (Derek Tucker) \u2014 Shelbyville",
+      "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
       "daysSinceContact": 2,
       "lastAction": "Email from Jacob Delk: Shelbyville Big Lots",
       "urgency": "low"
     },
     {
       "name": "Paul",
-      "deal": "Five Below \u2014 Malone Plaza",
+      "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 1,
       "lastAction": "Email from Malone Chamber of Commerce: Happy St. Patrick's Day!",
       "urgency": "low"
     },
     {
       "name": "Paul",
-      "deal": "Shoe Dept \u2014 Malone Plaza",
+      "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 1,
       "lastAction": "Email from Malone Chamber of Commerce: Happy St. Patrick's Day!",
       "urgency": "low"
     },
     {
       "name": "Ajay Secore",
-      "deal": "Ajay Secore - Golf Simulator \u2014 Malone Plaza (Unit 3)",
+      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 1,
       "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: Montgomery Comm",
       "urgency": "low"
     },
     {
-      "name": "Stephen Prather",
-      "deal": "Charles Hawkins Co. \u2014 Emerson Hall - Hotel Space",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Shelby Hall: HopeSmiles",
-      "urgency": "low"
-    },
-    {
-      "name": "Lexy & Austin",
-      "deal": "Charles Hawkins Co. \u2014 Emerson Hall - Hotel Space",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Shelby Hall: HopeSmiles",
-      "urgency": "low"
-    },
-    {
       "name": "Nhung Pham",
-      "deal": "QT Nails \u2014 Montgomery (1642 Atlanta HWY)",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
       "daysSinceContact": 1,
       "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: Montgomery Comm",
       "urgency": "low"
     },
     {
       "name": "Dwaine High",
-      "deal": "QT Nails \u2014 Montgomery (1642 Atlanta HWY)",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
       "daysSinceContact": 1,
       "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: Montgomery Comm",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
-      "deal": "HopeSmiles \u2014 44 Vantage Way, Cool Springs",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 1,
       "lastAction": "Email from Shelby Hall: HopeSmiles",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
-      "deal": "HopeSmiles \u2014 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Shelby Hall: HopeSmiles",
-      "urgency": "low"
-    },
-    {
-      "name": "Julie Robbins",
-      "deal": "Buena Vista \u2014 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our seco",
-      "urgency": "low"
-    },
-    {
-      "name": "Michael Dunn",
-      "deal": "Buena Vista \u2014 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our seco",
-      "urgency": "low"
-    },
-    {
-      "name": "Cole @ DR Horton",
-      "deal": "Buena Vista \u2014 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our seco",
-      "urgency": "low"
-    },
-    {
-      "name": "Charles Hawkins",
-      "deal": "Emerson Hall \u2014 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Shelby Hall: HopeSmiles",
-      "urgency": "low"
-    },
-    {
-      "name": "Brether group",
-      "deal": "Emerson Hall \u2014 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Shelby Hall: HopeSmiles",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Emerson Hall \u2014 2512 Gallatin Ave, Nashville",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 1,
       "lastAction": "Email from Shelby Hall: HopeSmiles",
       "urgency": "low"
     },
     {
       "name": "Chad Vang",
-      "deal": "Chad Vang - Laundromat \u2014 Gastonia - Dixie Village",
+      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Catherine F.: Catherine F. opened brochure on Dixie Village",
+      "lastAction": "Email from Terrell D.: Terrell D. is requesting Information on Gastonia, NC .5-1",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
-      "deal": "ABC Retail \u2014 Russellville",
+      "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
       "lastAction": "Email from CRE Daily: Retail Revives Lending",
       "urgency": "low"
     },
     {
+      "name": "Stephen Prather",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LinkedIn: Jacob, follow Stephen A. Smith - Journalist/Commentator at ",
+      "urgency": "low"
+    },
+    {
+      "name": "Lexy & Austin",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LinkedIn: Jacob, follow Stephen A. Smith - Journalist/Commentator at ",
+      "urgency": "low"
+    },
+    {
       "name": "Jon Petty",
-      "deal": "UPS Store Franchisee \u2014 McMinnville",
+      "deal": "UPS Store Franchisee — McMinnville",
       "daysSinceContact": 0,
       "lastAction": "Email from Chain Store Age: DayBreaker: Dollar General to open new format; Whole",
+      "urgency": "low"
+    },
+    {
+      "name": "Julie Robbins",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Cole Tarlas: Cole/Jacob Lunch",
+      "urgency": "low"
+    },
+    {
+      "name": "Michael Dunn",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Cole Tarlas: Cole/Jacob Lunch",
+      "urgency": "low"
+    },
+    {
+      "name": "Cole @ DR Horton",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Cole Tarlas: Cole/Jacob Lunch",
+      "urgency": "low"
+    },
+    {
+      "name": "Charles Hawkins",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LinkedIn: Jacob, follow Stephen A. Smith - Journalist/Commentator at ",
+      "urgency": "low"
+    },
+    {
+      "name": "Brether group",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LinkedIn: Jacob, follow Stephen A. Smith - Journalist/Commentator at ",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LinkedIn: Jacob, follow Stephen A. Smith - Journalist/Commentator at ",
       "urgency": "low"
     }
   ],
   "weeklyDiff": {
     "weekOf": "3/9/26",
     "advanced": [
-      "QT Nails: Application received \u2192 Lease sent for signature",
-      "Coaches Bargainz: Lease draft \u2192 Tenant welcome email sent",
+      "QT Nails: Application received → Lease sent for signature",
+      "Coaches Bargainz: Lease draft → Tenant welcome email sent",
       "HopeSmiles: Counter sent ($27/SF + $60-65 TI)"
     ],
     "newLeads": [
