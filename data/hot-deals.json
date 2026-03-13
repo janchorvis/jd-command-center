@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T15:01:02.830302",
+  "lastUpdated": "2026-03-13T15:01:33.887143",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/9/26",
   "today": {
     "date": "2026-03-13",
@@ -1788,12 +1788,12 @@
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/12, Pipedrive not updated since 9/19",
+      "message": "Last email 3/13, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-12",
+        "lastEmailDate": "2026-03-13",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 175
       }
     },
@@ -1801,12 +1801,12 @@
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/12, Pipedrive not updated since 9/19",
+      "message": "Last email 3/13, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-12",
+        "lastEmailDate": "2026-03-13",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 175
       }
     },
@@ -1814,12 +1814,12 @@
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/12, Pipedrive not updated since 11/25",
+      "message": "Last email 3/13, Pipedrive not updated since 11/25",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-12",
+        "lastEmailDate": "2026-03-13",
         "lastPipedriveDate": "2025-11-25",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 108
       }
     },
@@ -1827,12 +1827,12 @@
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/12, Pipedrive not updated since 9/19",
+      "message": "Last email 3/13, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-12",
+        "lastEmailDate": "2026-03-13",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 175
       }
     },
@@ -1840,12 +1840,12 @@
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/12, Pipedrive not updated since 9/19",
+      "message": "Last email 3/13, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-12",
+        "lastEmailDate": "2026-03-13",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 175
       }
     },
@@ -1853,12 +1853,12 @@
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/12, Pipedrive not updated since 9/19",
+      "message": "Last email 3/13, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-12",
+        "lastEmailDate": "2026-03-13",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 175
       }
     },
@@ -2100,12 +2100,12 @@
       "deal": "Buena Vista",
       "property": "2433 Buena Vista Pike, Nashville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/12, Pipedrive not updated since 9/19",
+      "message": "Last email 3/13, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-12",
+        "lastEmailDate": "2026-03-13",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 175
       }
     },
@@ -2113,12 +2113,12 @@
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/12, Pipedrive not updated since 9/19",
+      "message": "Last email 3/13, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-12",
+        "lastEmailDate": "2026-03-13",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 175
       }
     },
@@ -2126,12 +2126,12 @@
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/12, Pipedrive not updated since 9/19",
+      "message": "Last email 3/13, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-12",
+        "lastEmailDate": "2026-03-13",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 175
       }
     },
@@ -2139,12 +2139,12 @@
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/12, Pipedrive not updated since 9/19",
+      "message": "Last email 3/13, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-12",
+        "lastEmailDate": "2026-03-13",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 175
       }
     },
@@ -2152,12 +2152,12 @@
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/12, Pipedrive not updated since 9/19",
+      "message": "Last email 3/13, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-12",
+        "lastEmailDate": "2026-03-13",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 175
       }
     },
@@ -2165,12 +2165,12 @@
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/12, Pipedrive not updated since 9/19",
+      "message": "Last email 3/13, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-12",
+        "lastEmailDate": "2026-03-13",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 175
       }
     },
@@ -2178,12 +2178,12 @@
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/12, Pipedrive not updated since 9/19",
+      "message": "Last email 3/13, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-12",
+        "lastEmailDate": "2026-03-13",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 175
       }
     },
@@ -2191,12 +2191,12 @@
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/12, Pipedrive not updated since 3/26",
+      "message": "Last email 3/13, Pipedrive not updated since 3/26",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-12",
+        "lastEmailDate": "2026-03-13",
         "lastPipedriveDate": "2025-03-26",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 352
       }
     },
@@ -2321,12 +2321,12 @@
       "deal": "Shoe Dept",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/12, Pipedrive not updated since 9/19",
+      "message": "Last email 3/13, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-12",
+        "lastEmailDate": "2026-03-13",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 175
       }
     },
@@ -2334,12 +2334,12 @@
       "deal": "Shoe Dept",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/12, Pipedrive not updated since 9/19",
+      "message": "Last email 3/13, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-12",
+        "lastEmailDate": "2026-03-13",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 175
       }
     },
@@ -2347,12 +2347,12 @@
       "deal": "Shoe Dept",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/12, Pipedrive not updated since 8/26",
+      "message": "Last email 3/13, Pipedrive not updated since 8/26",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-12",
+        "lastEmailDate": "2026-03-13",
         "lastPipedriveDate": "2025-08-26",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 199
       }
     },
@@ -2477,12 +2477,12 @@
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/12, Pipedrive not updated since 2/19",
+      "message": "Last email 3/13, Pipedrive not updated since 2/19",
       "severity": "medium",
       "details": {
-        "lastEmailDate": "2026-03-12",
+        "lastEmailDate": "2026-03-13",
         "lastPipedriveDate": "2026-02-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 22
       }
     },
