@@ -154,7 +154,7 @@ def get_latest_prep_doc() -> tuple[str, str]:
 
     print(f"[INFO] Reading doc: {doc_title} ({doc_id})")
     ok, doc_text = run_gog([
-        "docs", "get", doc_id,
+        "docs", "cat", doc_id,
         "--account", GOG_ACCOUNT,
     ])
     if not ok:
