@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { getHotDealsData, writeHotDealsData } from '@/lib/hot-deals';
+import { getEffectiveSweep, writeHotDealsData, getHotDealsData } from '@/lib/hot-deals';
+import { saveSweepState } from '@/lib/sweep-state';
 
 export async function POST(request: NextRequest) {
   const { itemId, toLane, detail } = await request.json();
@@ -13,18 +14,18 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ error: 'Invalid lane' }, { status: 400 });
   }
 
-  const data = getHotDealsData();
+  const sweep = getEffectiveSweep();
 
-  if (!data.todaySweep) {
+  if (!sweep) {
     return NextResponse.json({ error: 'No sweep data' }, { status: 404 });
   }
 
   // Find and remove item from its current lane
   let foundItem = null;
   for (const lane of validLanes) {
-    const idx = data.todaySweep[lane].findIndex((i) => i.id === itemId);
+    const idx = sweep[lane].findIndex((i) => i.id === itemId);
     if (idx !== -1) {
-      foundItem = data.todaySweep[lane].splice(idx, 1)[0];
+      foundItem = sweep[lane].splice(idx, 1)[0];
       break;
     }
   }
@@ -39,14 +40,17 @@ export async function POST(request: NextRequest) {
   }
 
   // Add to target lane
-  data.todaySweep[toLane as typeof validLanes[number]].push(foundItem);
+  sweep[toLane as typeof validLanes[number]].push(foundItem);
 
+  // Primary persistence: /tmp (works on Vercel)
+  saveSweepState(sweep);
+
+  // Backup: try writing to hot-deals.json (works locally, read-only on Vercel)
   try {
+    const data = getHotDealsData();
+    data.todaySweep = sweep;
     writeHotDealsData(data);
-  } catch {
-    // On Vercel, the file is read-only. That's fine — the optimistic
-    // client update still works and cron scripts handle persistence.
-  }
+  } catch {}
 
-  return NextResponse.json({ sweep: data.todaySweep });
+  return NextResponse.json({ sweep });
 }

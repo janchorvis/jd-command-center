@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { getHotDealsData, writeHotDealsData } from '@/lib/hot-deals';
+import { getEffectiveSweep, writeHotDealsData, getHotDealsData } from '@/lib/hot-deals';
+import { saveSweepState } from '@/lib/sweep-state';
 
 export async function POST(request: NextRequest) {
   const { itemId, lane } = await request.json();
@@ -13,13 +14,13 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ error: 'Invalid lane' }, { status: 400 });
   }
 
-  const data = getHotDealsData();
+  const sweep = getEffectiveSweep();
 
-  if (!data.todaySweep) {
+  if (!sweep) {
     return NextResponse.json({ error: 'No sweep data' }, { status: 404 });
   }
 
-  const laneItems = data.todaySweep[lane as typeof validLanes[number]];
+  const laneItems = sweep[lane as typeof validLanes[number]];
   const item = laneItems.find((i) => i.id === itemId);
 
   if (!item) {
@@ -30,12 +31,15 @@ export async function POST(request: NextRequest) {
   item.completedAt = new Date().toISOString();
   item.completedBy = 'manual';
 
-  try {
-    writeHotDealsData(data);
-  } catch {
-    // On Vercel, the file is read-only. That's fine — the optimistic
-    // client update still works and cron scripts handle persistence.
-  }
+  // Primary persistence: /tmp (works on Vercel)
+  saveSweepState(sweep);
 
-  return NextResponse.json({ sweep: data.todaySweep });
+  // Backup: try writing to hot-deals.json (works locally, read-only on Vercel)
+  try {
+    const data = getHotDealsData();
+    data.todaySweep = sweep;
+    writeHotDealsData(data);
+  } catch {}
+
+  return NextResponse.json({ sweep });
 }
