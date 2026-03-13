@@ -1,13 +1,18 @@
 {
-  "lastUpdated": "2026-03-12T19:55:00-06:00",
+  "lastUpdated": "2026-03-12T20:34:51.536543",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/9/26",
   "today": {
     "date": "2026-03-12",
-    "greeting": "Thursday - The Players kicks off today. 5 deals need attention.",
+    "greeting": "Good evening, Jacob. Happy Thursday.",
     "meetings": [
       {
-        "time": "No meetings today",
-        "title": "Clear schedule",
+        "time": "11:30 AM",
+        "title": "Coffee with John Hardy (Hideout 8th Ave)",
+        "dealContext": null
+      },
+      {
+        "time": "9:00 - 2:00",
+        "title": "Parker (Intern)",
         "dealContext": null
       }
     ],
@@ -29,15 +34,44 @@
       "nextStep": "Review LOI, prepare briefing document for Micah",
       "priority": "high",
       "timeline": [
-        { "date": "2026-03-09", "event": "LOI received from Five Below", "type": "milestone" },
-        { "date": "2026-03-07", "event": "Sent LOI proposal", "type": "email" },
-        { "date": "2026-02-24", "event": "Discussed LOI terms with Micah", "type": "meeting" },
-        { "date": "2026-02-16", "event": "Initial proposal sent", "type": "email" }
+        {
+          "date": "2026-03-11",
+          "event": "Tracy Lauer (Wide Waters) - Five Below proposal for JoAnn space [14-msg thread]",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "LOI received from Five Below",
+          "type": "milestone"
+        },
+        {
+          "date": "2026-03-07",
+          "event": "Sent LOI proposal",
+          "type": "email"
+        },
+        {
+          "date": "2026-02-24",
+          "event": "Discussed LOI terms with Micah",
+          "type": "meeting"
+        },
+        {
+          "date": "2026-02-16",
+          "event": "Initial proposal sent",
+          "type": "email"
+        }
       ],
-      "contacts": ["Paul (Five Below rep)"],
+      "contacts": [
+        "Paul (Five Below rep)"
+      ],
       "actions": [
-        { "label": "Review LOI redline", "type": "task" },
-        { "label": "Draft counter to Five Below", "type": "email" }
+        {
+          "label": "Review LOI redline",
+          "type": "task"
+        },
+        {
+          "label": "Draft counter to Five Below",
+          "type": "email"
+        }
       ]
     },
     {
@@ -49,13 +83,30 @@
       "nextStep": "Send revised shared access language to Paul",
       "priority": "high",
       "timeline": [
-        { "date": "2026-03-09", "event": "Discussed shared access language with Paul", "type": "call" },
-        { "date": "2026-03-07", "event": "Received lease draft feedback", "type": "email" },
-        { "date": "2026-02-24", "event": "Lease draft sent to tenant", "type": "email" }
+        {
+          "date": "2026-03-09",
+          "event": "Discussed shared access language with Paul",
+          "type": "call"
+        },
+        {
+          "date": "2026-03-07",
+          "event": "Received lease draft feedback",
+          "type": "email"
+        },
+        {
+          "date": "2026-02-24",
+          "event": "Lease draft sent to tenant",
+          "type": "email"
+        }
       ],
-      "contacts": ["Paul (Shoe Dept)"],
+      "contacts": [
+        "Paul (Shoe Dept)"
+      ],
       "actions": [
-        { "label": "Send revised access language", "type": "email" }
+        {
+          "label": "Send revised access language",
+          "type": "email"
+        }
       ]
     },
     {
@@ -67,12 +118,25 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
-        { "date": "2026-03-02", "event": "Call held - sent architectural drawing + lockbox code", "type": "call" },
-        { "date": "2026-03-01", "event": "Inbound inquiry for Unit 3", "type": "lead" }
+        {
+          "date": "2026-03-02",
+          "event": "Call held - sent architectural drawing + lockbox code",
+          "type": "call"
+        },
+        {
+          "date": "2026-03-01",
+          "event": "Inbound inquiry for Unit 3",
+          "type": "lead"
+        }
       ],
-      "contacts": ["Ajay Secore"],
+      "contacts": [
+        "Ajay Secore"
+      ],
       "actions": [
-        { "label": "Follow up on tour", "type": "call" }
+        {
+          "label": "Follow up on tour",
+          "type": "call"
+        }
       ]
     },
     {
@@ -84,13 +148,35 @@
       "nextStep": "Counter: grant $30K extra TI, bump rent $0.50-1.00/SF",
       "priority": "high",
       "timeline": [
-        { "date": "2026-03-05", "event": "Responded to LOI with counter terms", "type": "email" },
-        { "date": "2026-02-28", "event": "LOI received requesting $80K TI", "type": "milestone" },
-        { "date": "2026-02-16", "event": "Initial discussions", "type": "call" }
+        {
+          "date": "2026-03-12",
+          "event": "Kate Yoon inquiry - Ste 2591, Dixie Village [3-msg thread]",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-05",
+          "event": "Responded to LOI with counter terms",
+          "type": "email"
+        },
+        {
+          "date": "2026-02-28",
+          "event": "LOI received requesting $80K TI",
+          "type": "milestone"
+        },
+        {
+          "date": "2026-02-16",
+          "event": "Initial discussions",
+          "type": "call"
+        }
       ],
-      "contacts": ["Chad Vang"],
+      "contacts": [
+        "Chad Vang"
+      ],
       "actions": [
-        { "label": "Send TI counter", "type": "email" }
+        {
+          "label": "Send TI counter",
+          "type": "email"
+        }
       ]
     },
     {
@@ -102,13 +188,39 @@
       "nextStep": "Call Derek Tucker back",
       "priority": "high",
       "timeline": [
-        { "date": "2026-03-10", "event": "Voicemail from Derek Tucker", "type": "call" },
-        { "date": "2026-03-05", "event": "LOI discussions started", "type": "milestone" }
+        {
+          "date": "2026-03-11",
+          "event": "Derek Tucker - Big Lots / Shelbyville CoStar listing [11-msg thread]",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Jacob sent: Shelbyville Big Lots (awaiting reply)",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-10",
+          "event": "Voicemail from Derek Tucker",
+          "type": "call"
+        },
+        {
+          "date": "2026-03-05",
+          "event": "LOI discussions started",
+          "type": "milestone"
+        }
       ],
-      "contacts": ["Derek Tucker"],
+      "contacts": [
+        "Derek Tucker"
+      ],
       "actions": [
-        { "label": "Call Derek back", "type": "call" },
-        { "label": "Draft LOI terms", "type": "task" }
+        {
+          "label": "Call Derek back",
+          "type": "call"
+        },
+        {
+          "label": "Draft LOI terms",
+          "type": "task"
+        }
       ]
     },
     {
@@ -120,12 +232,25 @@
       "nextStep": "Coordinate getting copies signed by Micah and returned",
       "priority": "medium",
       "timeline": [
-        { "date": "2026-03-03", "event": "Lease received in mail from Melissa Eddy", "type": "milestone" },
-        { "date": "2026-02-24", "event": "Lease terms finalized", "type": "meeting" }
+        {
+          "date": "2026-03-03",
+          "event": "Lease received in mail from Melissa Eddy",
+          "type": "milestone"
+        },
+        {
+          "date": "2026-02-24",
+          "event": "Lease terms finalized",
+          "type": "meeting"
+        }
       ],
-      "contacts": ["Melissa Eddy"],
+      "contacts": [
+        "Melissa Eddy"
+      ],
       "actions": [
-        { "label": "Get Micah to sign", "type": "task" }
+        {
+          "label": "Get Micah to sign",
+          "type": "task"
+        }
       ]
     },
     {
@@ -137,14 +262,45 @@
       "nextStep": "Review LOI, respond to Prather",
       "priority": "high",
       "timeline": [
-        { "date": "2026-03-09", "event": "LOI submitted by Stephen Prather", "type": "milestone" },
-        { "date": "2026-03-04", "event": "Jacob toured property", "type": "meeting" },
-        { "date": "2026-02-18", "event": "Listing copy drafted", "type": "task" }
+        {
+          "date": "2026-03-12",
+          "event": "Stephen Prather - 'Lexy and Austin' update [12-msg thread]",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-12",
+          "event": "Donnie Thomas - Emerson Hall inquiry [3-msg thread]",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "LOI submitted by Stephen Prather",
+          "type": "milestone"
+        },
+        {
+          "date": "2026-03-04",
+          "event": "Jacob toured property",
+          "type": "meeting"
+        },
+        {
+          "date": "2026-02-18",
+          "event": "Listing copy drafted",
+          "type": "task"
+        }
       ],
-      "contacts": ["Stephen Prather (Charles Hawkins Co.)", "Lexy & Austin (tenants)"],
+      "contacts": [
+        "Stephen Prather (Charles Hawkins Co.)",
+        "Lexy & Austin (tenants)"
+      ],
       "actions": [
-        { "label": "Follow up on guarantor financials", "type": "call" },
-        { "label": "Review LOI terms", "type": "task" }
+        {
+          "label": "Follow up on guarantor financials",
+          "type": "call"
+        },
+        {
+          "label": "Review LOI terms",
+          "type": "task"
+        }
       ]
     },
     {
@@ -156,13 +312,31 @@
       "nextStep": "Process application, prepare lease draft",
       "priority": "medium",
       "timeline": [
-        { "date": "2026-03-12", "event": "Lease sent for signature", "type": "milestone" },
-        { "date": "2026-03-05", "event": "Full lease application received", "type": "milestone" },
-        { "date": "2026-02-28", "event": "Initial inquiry", "type": "lead" }
+        {
+          "date": "2026-03-12",
+          "event": "Lease sent for signature",
+          "type": "milestone"
+        },
+        {
+          "date": "2026-03-05",
+          "event": "Full lease application received",
+          "type": "milestone"
+        },
+        {
+          "date": "2026-02-28",
+          "event": "Initial inquiry",
+          "type": "lead"
+        }
       ],
-      "contacts": ["Nhung Pham", "Dwaine High (QT Nails by Dwaine LLC)"],
+      "contacts": [
+        "Nhung Pham",
+        "Dwaine High (QT Nails by Dwaine LLC)"
+      ],
       "actions": [
-        { "label": "Process application", "type": "task" }
+        {
+          "label": "Process application",
+          "type": "task"
+        }
       ]
     },
     {
@@ -174,11 +348,25 @@
       "nextStep": "Site visit 3/18 - also Matterport and look at other spaces",
       "priority": "medium",
       "timeline": [
-        { "date": "2026-03-09", "event": "Coordinating site visit with Jon Petty", "type": "call" }
+        {
+          "date": "2026-03-10",
+          "event": "Jon Petty - Hope Smiles / Donelson Plaza [16-msg thread]",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Coordinating site visit with Jon Petty",
+          "type": "call"
+        }
       ],
-      "contacts": ["Jon Petty"],
+      "contacts": [
+        "Jon Petty"
+      ],
       "actions": [
-        { "label": "Prep for 3/18 site visit", "type": "task" }
+        {
+          "label": "Prep for 3/18 site visit",
+          "type": "task"
+        }
       ]
     }
   ],
@@ -190,18 +378,53 @@
       "type": "Tenant Rep",
       "status": "Counter sent at $27/SF + $60-65/SF TI. Waiting on landlord response.",
       "nextStep": "Follow up with Shelby Hall if no response by 3/14",
-      "contacts": ["Amy Harper (Tenant)", "Shelby Hall (Landlord Rep @ Foundry Commercial)"],
+      "contacts": [
+        "Amy Harper (Tenant)",
+        "Shelby Hall (Landlord Rep @ Foundry Commercial)"
+      ],
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
-        { "date": "2026-03-11", "event": "Counter sent: $27/SF + $60-65/SF TI", "type": "milestone" },
-        { "date": "2026-03-03", "event": "Landlord counter received", "type": "email" },
-        { "date": "2026-02-17", "event": "Landlord responded to RFP", "type": "email" },
-        { "date": "2026-02-05", "event": "RFP sent", "type": "email" }
+        {
+          "date": "2026-03-11",
+          "event": "Counter sent: $27/SF + $60-65/SF TI",
+          "type": "milestone"
+        },
+        {
+          "date": "2026-03-10",
+          "event": "Jacob sent: RFP - Hope Smiles - Cool Springs Commons [7-msg thread]",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-10",
+          "event": "Jon Petty forwarded Hope Smiles - Donelson Plaza thread",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-03",
+          "event": "Landlord counter received",
+          "type": "email"
+        },
+        {
+          "date": "2026-02-17",
+          "event": "Landlord responded to RFP",
+          "type": "email"
+        },
+        {
+          "date": "2026-02-05",
+          "event": "RFP sent",
+          "type": "email"
+        }
       ],
       "actions": [
-        { "label": "Follow up with Shelby Hall", "type": "call" },
-        { "label": "Draft email to Amy Harper", "type": "email" }
+        {
+          "label": "Follow up with Shelby Hall",
+          "type": "call"
+        },
+        {
+          "label": "Draft email to Amy Harper",
+          "type": "email"
+        }
       ]
     },
     {
@@ -211,19 +434,78 @@
       "type": "Land/Development",
       "status": "Listed at $10M. Infrastructure confirmed built. Multiple inquiries active.",
       "nextStep": "Install physical for-sale sign, walk site before spring vegetation",
-      "contacts": ["Julie Robbins (TerraVest)", "Michael Dunn (CBRE)", "Cole @ DR Horton"],
+      "contacts": [
+        "Julie Robbins (TerraVest)",
+        "Michael Dunn (CBRE)",
+        "Cole @ DR Horton"
+      ],
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
-        { "date": "2026-03-11", "event": "DR Horton outreach drafted", "type": "email" },
-        { "date": "2026-03-09", "event": "Pricing sent to Michael Dunn at $10M", "type": "email" },
-        { "date": "2026-03-09", "event": "Ryan Sullivan passed (topo too challenging)", "type": "milestone" },
-        { "date": "2026-03-09", "event": "Infrastructure confirmed: BL2023-28", "type": "milestone" }
+        {
+          "date": "2026-03-11",
+          "event": "DR Horton outreach drafted",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Jacob sent: 2433 Buena Vista Pike - 15 acres (2 threads)",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Drew Mixson (CPS Land) - Sewer information request [6-msg thread]",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Madeline Forte (Pedcor) - 2433 Buena Vista Pike inquiry [3 msgs]",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Pricing sent to Michael Dunn at $10M",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Ryan Sullivan passed (topo too challenging)",
+          "type": "milestone"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Infrastructure confirmed: BL2023-28",
+          "type": "milestone"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Julie Robbins (TerraVest) - Listing inquiry response [4 msgs]",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Michael Dunn (CBRE) - 2433 Buena Vista Pike [4 msgs]",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Jacob sent: Buena Vista - Drive Folder + Dirt Company to Micah",
+          "type": "email"
+        }
       ],
       "actions": [
-        { "label": "Install for-sale sign", "type": "task" },
-        { "label": "Walk site", "type": "task" },
-        { "label": "Send Julie Robbins follow-up", "type": "email" }
+        {
+          "label": "Install for-sale sign",
+          "type": "task"
+        },
+        {
+          "label": "Walk site",
+          "type": "task"
+        },
+        {
+          "label": "Send Julie Robbins follow-up",
+          "type": "email"
+        }
       ]
     },
     {
@@ -233,17 +515,39 @@
       "type": "For Lease",
       "status": "Active negotiations - Hawkins LOI + Brether group interested",
       "nextStep": "Follow up on Hawkins guarantor financials, call Brether group",
-      "contacts": ["Charles Hawkins (LOI)", "Brether group (Event/Entertainment)", "Stephen Prather"],
+      "contacts": [
+        "Charles Hawkins (LOI)",
+        "Brether group (Event/Entertainment)",
+        "Stephen Prather"
+      ],
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
-        { "date": "2026-03-09", "event": "Hawkins LOI submitted via Stephen Prather", "type": "milestone" },
-        { "date": "2026-03-04", "event": "Jacob toured property", "type": "meeting" },
-        { "date": "2026-02-18", "event": "Listing copy drafted", "type": "task" }
+        {
+          "date": "2026-03-09",
+          "event": "Hawkins LOI submitted via Stephen Prather",
+          "type": "milestone"
+        },
+        {
+          "date": "2026-03-04",
+          "event": "Jacob toured property",
+          "type": "meeting"
+        },
+        {
+          "date": "2026-02-18",
+          "event": "Listing copy drafted",
+          "type": "task"
+        }
       ],
       "actions": [
-        { "label": "Call Brether group", "type": "call" },
-        { "label": "Follow up Hawkins financials", "type": "call" }
+        {
+          "label": "Call Brether group",
+          "type": "call"
+        },
+        {
+          "label": "Follow up Hawkins financials",
+          "type": "call"
+        }
       ]
     }
   ],
@@ -286,10 +590,17 @@
   ],
   "staleContacts": [
     {
+      "name": "Donnie Thomas",
+      "deal": "Emerson Hall",
+      "daysSinceContact": 0,
+      "lastAction": "Emailed today about Emerson Hall",
+      "urgency": "medium"
+    },
+    {
       "name": "Derek Tucker",
       "deal": "Shelbyville - Anytime Fitness",
-      "daysSinceContact": 2,
-      "lastAction": "Left voicemail 3/10",
+      "daysSinceContact": 1,
+      "lastAction": "CoStar thread active 3/11",
       "urgency": "high"
     },
     {
@@ -302,23 +613,51 @@
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall - Hawkins LOI",
-      "daysSinceContact": 3,
-      "lastAction": "LOI received 3/9",
+      "daysSinceContact": 0,
+      "lastAction": "Lexy & Austin email today [12 msgs]",
       "urgency": "medium"
     },
     {
-      "name": "Jon Petty",
-      "deal": "McMinnville - UPS Store",
+      "name": "Tracy Lauer",
+      "deal": "Malone - Five Below",
+      "daysSinceContact": 1,
+      "lastAction": "Five Below proposal thread 3/11 [14 msgs]",
+      "urgency": "high"
+    },
+    {
+      "name": "Kate Yoon",
+      "deal": "Dixie Village - Ste 2591",
+      "daysSinceContact": 0,
+      "lastAction": "Inquiry today about Ste 2591",
+      "urgency": "medium"
+    },
+    {
+      "name": "Julie Robbins",
+      "deal": "Buena Vista",
       "daysSinceContact": 3,
-      "lastAction": "Coordinating site visit 3/9",
+      "lastAction": "Listing inquiry response 3/9",
       "urgency": "low"
+    },
+    {
+      "name": "Madeline Forte",
+      "deal": "Buena Vista",
+      "daysSinceContact": 1,
+      "lastAction": "Inquiry from Pedcor 3/11",
+      "urgency": "medium"
+    },
+    {
+      "name": "Drew Mixson",
+      "deal": "Buena Vista - Sewer Info",
+      "daysSinceContact": 1,
+      "lastAction": "Sewer info request 3/11 (UNREAD)",
+      "urgency": "high"
     }
   ],
   "weeklyDiff": {
     "weekOf": "3/9/26",
     "advanced": [
-      "QT Nails: Application received → Lease sent for signature",
-      "Coaches Bargainz: Lease draft → Tenant welcome email sent",
+      "QT Nails: Application received \u2192 Lease sent for signature",
+      "Coaches Bargainz: Lease draft \u2192 Tenant welcome email sent",
       "HopeSmiles: Counter sent ($27/SF + $60-65 TI)"
     ],
     "newLeads": [
