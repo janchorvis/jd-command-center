@@ -17,7 +17,7 @@ import os
 import re
 import subprocess
 import sys
-from datetime import datetime, date
+from datetime import datetime, date, timedelta
 from pathlib import Path
 import urllib.request
 import urllib.parse
@@ -44,6 +44,9 @@ STAGE_MAP = {
     29: "Stalled",
 }
 
+ASANA_BASE = "https://app.asana.com/api/1.0"
+ASANA_PROJECT_GID = "1204790859570747"
+
 # ─── Env loading ──────────────────────────────────────────────────────────────
 
 def load_env(path: Path) -> dict:
@@ -65,6 +68,74 @@ def load_env(path: Path) -> dict:
 def load_json(path: Path) -> dict:
     with open(path) as f:
         return json.load(f)
+
+
+# ─── Asana helpers ────────────────────────────────────────────────────────────
+
+def asana_request(method: str, path: str, token: str, body: dict = None) -> tuple[bool, dict]:
+    """Make an Asana API request using curl (avoids external Python deps)."""
+    url = f"{ASANA_BASE}{path}"
+    cmd = [
+        "curl", "-s", "-X", method,
+        "-H", f"Authorization: Bearer {token}",
+        "-H", "Content-Type: application/json",
+    ]
+    if body:
+        cmd += ["--data", json.dumps(body)]
+    cmd.append(url)
+
+    try:
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=30)
+        if result.returncode != 0:
+            print(f"[WARN] curl failed for {method} {path}", file=sys.stderr)
+            return False, {}
+        data = json.loads(result.stdout)
+        if "errors" in data:
+            print(f"[WARN] Asana error on {path}: {data['errors']}", file=sys.stderr)
+            return False, data
+        return True, data
+    except Exception as e:
+        print(f"[WARN] Asana request error: {e}", file=sys.stderr)
+        return False, {}
+
+
+def fetch_asana_open_tasks(token: str) -> list[dict]:
+    """
+    Fetch open tasks from Big Board with due dates.
+    Returns all incomplete tasks (caller filters by due date).
+    """
+    if not token:
+        return []
+    print("[INFO] Fetching open Asana tasks from Big Board...")
+    fields = "name,completed,gid,due_on,assignee.name"
+    path = f"/projects/{ASANA_PROJECT_GID}/tasks?opt_fields={fields}&completed_since=now"
+    ok, data = asana_request("GET", path, token)
+    if not ok:
+        return []
+    tasks = data.get("data", [])
+    open_tasks = [t for t in tasks if not t.get("completed", False)]
+    print(f"[INFO] Found {len(open_tasks)} open tasks in Big Board.")
+    return open_tasks
+
+
+def fetch_asana_completed_tasks(token: str) -> list[dict]:
+    """
+    Fetch tasks completed in the last 7 days from Big Board.
+    Used for cross-referencing action items.
+    """
+    if not token:
+        return []
+    print("[INFO] Fetching recently completed Asana tasks...")
+    seven_days_ago = (date.today() - timedelta(days=7)).isoformat() + "T00:00:00.000Z"
+    fields = "name,completed,completed_at,gid"
+    path = f"/projects/{ASANA_PROJECT_GID}/tasks?opt_fields={fields}&completed_since={seven_days_ago}"
+    ok, data = asana_request("GET", path, token)
+    if not ok:
+        return []
+    tasks = data.get("data", [])
+    completed = [t for t in tasks if t.get("completed", False)]
+    print(f"[INFO] Found {len(completed)} recently completed Asana tasks.")
+    return completed
 
 
 # ─── gog helpers ──────────────────────────────────────────────────────────────
@@ -528,11 +599,18 @@ def enrich_meetings(meetings: list[dict], hot_deals_data: dict) -> list[dict]:
 
 # ─── 3. Greeting ──────────────────────────────────────────────────────────────
 
-def generate_greeting() -> str:
-    """Generate a time-appropriate greeting for the current day."""
+def generate_greeting(
+    overdue_count: int = 0,
+    meetings: list = None,
+    deal_progressed: str = None,
+) -> str:
+    """
+    Generate a contextual greeting based on what's actually happening today.
+    Priority order: overdue tasks > deal progression > heavy calendar > default.
+    """
     now = datetime.now()
     hour = now.hour
-    day = now.strftime("%A")  # Monday, Tuesday, etc.
+    day = now.strftime("%A")
 
     if hour < 12:
         time_of_day = "morning"
@@ -541,7 +619,214 @@ def generate_greeting() -> str:
     else:
         time_of_day = "evening"
 
+    # Overdue tasks — highest urgency
+    if overdue_count > 0:
+        noun = "item" if overdue_count == 1 else "items"
+        return f"Good {time_of_day}, Jacob. You have {overdue_count} overdue {noun}."
+
+    # Deal progressed yesterday
+    if deal_progressed:
+        return f"Good {time_of_day}, Jacob. {deal_progressed}"
+
+    # Heavy calendar
+    meeting_count = len(meetings) if meetings else 0
+    if meeting_count >= 4:
+        return f"Good {time_of_day}, Jacob. Busy day — {meeting_count} meetings."
+
+    # Default
     return f"Good {time_of_day}, Jacob. Happy {day}."
+
+
+# ─── 3b. Dynamic priorities & action item cross-ref ──────────────────────────
+
+def parse_prep_doc_date(doc_title: str) -> date | None:
+    """
+    Try to parse the week date from a prep doc title.
+    Handles formats like:
+      "Leasing Meeting Prep - Week of 3/9/26"
+      "Leasing Meeting Prep - Week of 3/9/2026"
+      "Leasing Weekly Prep 3/9/26"
+    Returns a date object or None if unparseable.
+    """
+    if not doc_title:
+        return None
+    # Match M/D/YY or M/D/YYYY
+    m = re.search(r'(\d{1,2})/(\d{1,2})/(\d{2,4})', doc_title)
+    if not m:
+        return None
+    try:
+        month, day, year = int(m.group(1)), int(m.group(2)), int(m.group(3))
+        if year < 100:
+            year += 2000
+        return date(year, month, day)
+    except (ValueError, OverflowError):
+        return None
+
+
+def _get_last_timeline_date(deal: dict) -> date | None:
+    """Return the most recent timeline event date for a deal."""
+    timeline = deal.get("timeline", [])
+    if not timeline:
+        return None
+    dates = []
+    for ev in timeline:
+        d_str = ev.get("date", "")
+        if d_str:
+            try:
+                dates.append(date.fromisoformat(d_str))
+            except ValueError:
+                pass
+    return max(dates) if dates else None
+
+
+def _days_since(d: date) -> int:
+    """Days since a date."""
+    return (date.today() - d).days
+
+
+def _deal_progressed_yesterday(hot_deals_data: dict) -> str | None:
+    """
+    Check if any deal had a timeline event yesterday.
+    Returns a short description string, or None.
+    """
+    yesterday = date.today() - timedelta(days=1)
+
+    all_deals = (
+        hot_deals_data.get("pipelineDeals", []) +
+        hot_deals_data.get("sideDeals", [])
+    )
+    for deal in all_deals:
+        for ev in deal.get("timeline", []):
+            try:
+                ev_date = date.fromisoformat(ev.get("date", ""))
+            except ValueError:
+                continue
+            if ev_date == yesterday:
+                stage = deal.get("stageOverride") or deal.get("stage", "")
+                name = deal.get("name", "")
+                if name and stage:
+                    return f"{name} moved to {stage} yesterday."
+    return None
+
+
+def generate_dynamic_priorities(
+    asana_tasks: list,
+    meetings: list,
+    hot_deals_data: dict,
+    doc_info: dict,
+    prep_doc_date: date | None,
+) -> list[str]:
+    """
+    Generate priorities dynamically from multiple live sources, ranked by urgency:
+    1. Overdue Asana tasks
+    2. Tasks due today
+    3. Stale high-priority deals (no contact in 5+ days)
+    4. Meeting prep items (meetings with deal context)
+    5. Prep doc next steps (only if no recent email activity)
+    Capped at 8 items.
+    """
+    today_date = date.today()
+    priorities = []
+
+    # Separate overdue vs due-today tasks
+    overdue_tasks = []
+    due_today_tasks = []
+    for task in asana_tasks:
+        due_str = task.get("due_on", "")
+        if not due_str:
+            continue
+        try:
+            due = date.fromisoformat(due_str)
+        except ValueError:
+            continue
+        if due < today_date:
+            overdue_tasks.append(task)
+        elif due == today_date:
+            due_today_tasks.append(task)
+
+    # 1. Overdue tasks (highest urgency)
+    for task in overdue_tasks:
+        priorities.append(f"{task['name']} (overdue — due {task['due_on']})")
+
+    # 2. Tasks due today
+    for task in due_today_tasks:
+        priorities.append(task["name"])
+
+    # 3. Stale high-priority deals
+    all_deals = (
+        hot_deals_data.get("pipelineDeals", []) +
+        hot_deals_data.get("sideDeals", [])
+    )
+    for deal in all_deals:
+        if deal.get("priority") != "high":
+            continue
+        last_date = _get_last_timeline_date(deal)
+        if last_date is None:
+            continue
+        days_stale = _days_since(last_date)
+        if days_stale >= 5:
+            name = deal.get("name", "")
+            priorities.append(f"Follow up: {name} — no contact in {days_stale} days")
+
+    # 4. Meeting prep items
+    for meeting in (meetings or []):
+        ctx = meeting.get("dealContext")
+        if ctx:
+            title = meeting.get("title", "meeting")
+            priorities.append(f"Prep: {title} — {ctx[:80]}")
+
+    # 5. Prep doc next steps (only if no recent email activity after the prep doc date)
+    if doc_info:
+        deal_updates = doc_info.get("deal_updates", {})
+        for doc_name, info in deal_updates.items():
+            next_step = info.get("nextStep", "").strip()
+            if not next_step:
+                continue
+            # Find the matching deal
+            matched = match_doc_deal_to_existing(doc_name, all_deals)
+            if not matched:
+                continue
+            # Only include if no timeline activity after prep doc date
+            last_date = _get_last_timeline_date(matched)
+            if prep_doc_date and last_date and last_date > prep_doc_date:
+                continue  # Deal has been acted on — skip
+            deal_name = matched.get("name", doc_name)
+            priorities.append(f"{deal_name}: {next_step}")
+
+    # Cap at 8
+    return priorities[:8]
+
+
+def cross_reference_action_items(action_items: list, completed_tasks: list) -> list[dict]:
+    """
+    Cross-reference action items with recently completed Asana tasks.
+    If an action item fuzzy-matches a completed task name, mark it completed: true.
+    """
+    if not action_items or not completed_tasks:
+        return action_items
+
+    completed_names = [t.get("name", "").lower() for t in completed_tasks]
+
+    result = []
+    for item in action_items:
+        item_copy = dict(item)
+        title = item.get("title", "").lower()
+
+        # Extract significant keywords (len > 3, skip common words)
+        skip = {"with", "from", "that", "this", "have", "been", "will", "just",
+                 "like", "them", "they", "what", "when", "then", "than", "some"}
+        keywords = [w for w in re.split(r'\W+', title) if len(w) > 3 and w not in skip]
+
+        if keywords:
+            for completed_name in completed_names:
+                # Check if any keyword appears in completed task name
+                if any(kw in completed_name for kw in keywords):
+                    item_copy["completed"] = True
+                    break
+
+        result.append(item_copy)
+
+    return result
 
 
 # ─── 4. Pipedrive funnel ──────────────────────────────────────────────────────
@@ -759,18 +1044,25 @@ def enrich_rent_comps(hot_deals_data: dict) -> dict:
 
 # ─── 6. Merge + write ─────────────────────────────────────────────────────────
 
-def merge_updates(existing: dict, doc_title: str, doc_info: dict,
-                  meetings: list, funnel: dict) -> dict:
+def merge_updates(
+    existing: dict,
+    doc_title: str,
+    doc_info: dict,
+    meetings: list,
+    funnel: dict,
+    asana_tasks: list = None,
+    completed_tasks: list = None,
+    prep_doc_date: date | None = None,
+) -> dict:
     """
     Merge live data into the existing hot-deals.json structure.
-    PRESERVES: timelines, contacts, actions, droppedBalls, staleContacts, weeklyDiff, brainDumps, actionItems
-    UPDATES: lastUpdated, sourceDoc, today, funnel, deal status/nextStep from prep doc
+    PRESERVES: timelines, contacts, actions, droppedBalls, staleContacts, weeklyDiff, brainDumps
+    UPDATES: lastUpdated, sourceDoc, today, funnel, deal status/nextStep, actionItems freshness
     """
-    updated = json.loads(json.dumps(existing))  # deep copy
+    asana_tasks     = asana_tasks or []
+    completed_tasks = completed_tasks or []
 
-    # Preserve actionItems — these are written by prep-doc-diff.py, not sync
-    # (sync only touches today/funnel/deal statuses from live sources)
-    # actionItems is already in `updated` via the deep copy above — no action needed.
+    updated = json.loads(json.dumps(existing))  # deep copy
 
     # lastUpdated
     updated["lastUpdated"] = datetime.now().isoformat()
@@ -779,58 +1071,109 @@ def merge_updates(existing: dict, doc_title: str, doc_info: dict,
     if doc_title:
         updated["sourceDoc"] = doc_title
 
-    # today section
-    today_date = date.today().isoformat()
-    raw_meetings = meetings if meetings else existing.get("today", {}).get("meetings", [])
-    updated["today"] = {
-        "date": today_date,
-        "greeting": generate_greeting(),
-        "meetings": raw_meetings,
-        "priorities": (
-            doc_info.get("priorities")
-            if doc_info.get("priorities")
-            else existing.get("today", {}).get("priorities", [])
-        ),
-    }
-
-    # Enrich meetings with deal context now that full deal data is in `updated`
-    updated["today"]["meetings"] = enrich_meetings(
-        updated["today"]["meetings"], updated
-    )
-
+    # ── Funnel ────────────────────────────────────────────────────────────────
     # funnel — merge Pipedrive counts with local "Lease Signed" count
     # (Pipedrive marks signed deals as "won", so we count them locally)
+    lease_signed_count = sum(
+        1 for d in updated.get("pipelineDeals", [])
+        if (d.get("stageOverride") or d.get("stage", "")) == "Lease Signed"
+    )
     if funnel:
-        lease_signed_count = sum(
-            1 for d in updated.get("pipelineDeals", [])
-            if (d.get("stageOverride") or d.get("stage", "")) == "Lease Signed"
-        )
         funnel["Lease Signed"] = lease_signed_count
         updated["funnel"] = funnel
     else:
-        # Even without Pipedrive, keep Lease Signed count accurate
-        lease_signed_count = sum(
-            1 for d in updated.get("pipelineDeals", [])
-            if (d.get("stageOverride") or d.get("stage", "")) == "Lease Signed"
-        )
         updated.setdefault("funnel", {})["Lease Signed"] = lease_signed_count
 
-    # Deal status / nextStep from prep doc
+    # ── Deal status / nextStep — with freshness check ─────────────────────────
     # stageOverride always takes priority — never clobber it with prep doc data
     deal_updates = doc_info.get("deal_updates", {})
     if deal_updates:
         all_deals = updated.get("pipelineDeals", []) + updated.get("sideDeals", [])
         for doc_name, info in deal_updates.items():
             matched = match_doc_deal_to_existing(doc_name, all_deals)
-            if matched and (info.get("status") or info.get("nextStep")):
-                if info.get("status"):
+            if not matched:
+                continue
+
+            # Check timeline freshness vs prep doc date
+            last_timeline = _get_last_timeline_date(matched)
+            has_recent_activity = (
+                prep_doc_date is not None
+                and last_timeline is not None
+                and last_timeline > prep_doc_date
+            )
+
+            if info.get("status"):
+                if has_recent_activity:
+                    # Deal has been updated since the prep doc — keep existing status
+                    # but mark it "current" so the UI knows it's fresh
+                    matched.setdefault("statusFreshness", "current")
+                    print(f"[INFO] Skipping prep doc status for '{matched.get('name','')}' "
+                          f"— timeline is more recent ({last_timeline} > {prep_doc_date})")
+                else:
                     matched["status"] = info["status"]
-                if info.get("nextStep"):
+                    matched["statusFreshness"] = "from_prep_doc"
+
+            if info.get("nextStep"):
+                # Always update nextStep from prep doc (unless there's very recent activity
+                # suggesting the next step was already acted on)
+                if not has_recent_activity:
                     matched["nextStep"] = info["nextStep"]
-                # If the deal has a stageOverride, use it — don't let prep doc clobber it
-                if matched.get("stageOverride"):
-                    matched["stage"] = matched["stageOverride"]
-                    print(f"[INFO] Preserving stageOverride for {matched.get('name', '')}: {matched['stageOverride']}")
+
+            # Preserve stageOverride
+            if matched.get("stageOverride"):
+                matched["stage"] = matched["stageOverride"]
+                print(f"[INFO] Preserving stageOverride for {matched.get('name', '')}: {matched['stageOverride']}")
+
+    # ── Enrich meetings first (needs deal data in `updated`) ─────────────────
+    raw_meetings = meetings if meetings else existing.get("today", {}).get("meetings", [])
+    enriched_meetings = enrich_meetings(list(raw_meetings), updated)
+
+    # ── Compute overdue count for greeting ────────────────────────────────────
+    today_date = date.today()
+    overdue_tasks = [
+        t for t in asana_tasks
+        if not t.get("completed", False) and t.get("due_on")
+        and date.fromisoformat(t["due_on"]) < today_date
+    ]
+    overdue_count = len(overdue_tasks)
+
+    # Check if any deal progressed yesterday (for greeting context)
+    deal_progressed_msg = _deal_progressed_yesterday(updated)
+
+    # ── Dynamic priorities ─────────────────────────────────────────────────────
+    dynamic_priorities = generate_dynamic_priorities(
+        asana_tasks=asana_tasks,
+        meetings=enriched_meetings,
+        hot_deals_data=updated,
+        doc_info=doc_info,
+        prep_doc_date=prep_doc_date,
+    )
+
+    # Fall back to prep doc priorities if we got nothing dynamic
+    if not dynamic_priorities:
+        dynamic_priorities = (
+            doc_info.get("priorities")
+            or existing.get("today", {}).get("priorities", [])
+        )
+
+    # ── today section ─────────────────────────────────────────────────────────
+    updated["today"] = {
+        "date": today_date.isoformat(),
+        "greeting": generate_greeting(
+            overdue_count=overdue_count,
+            meetings=enriched_meetings,
+            deal_progressed=deal_progressed_msg,
+        ),
+        "meetings": enriched_meetings,
+        "priorities": dynamic_priorities,
+    }
+
+    # ── Action items freshness: cross-reference with completed Asana tasks ────
+    existing_action_items = updated.get("actionItems", [])
+    if existing_action_items and completed_tasks:
+        updated["actionItems"] = cross_reference_action_items(
+            existing_action_items, completed_tasks
+        )
 
     return updated
 
@@ -881,14 +1224,35 @@ def main():
     env      = load_env(ENV_FILE)
     existing = load_json(DATA_FILE)
 
+    # Load Asana token from env
+    asana_token = env.get("ASANA_TOKEN", "")
+    if not asana_token:
+        print("[WARN] ASANA_TOKEN not found in .env — Asana features disabled.", file=sys.stderr)
+
     # Gather from all sources (failures are logged but don't abort)
     doc_title, doc_text = get_latest_prep_doc()
     doc_info            = parse_prep_doc(doc_text)
     meetings            = get_today_meetings()
     funnel              = get_pipedrive_funnel(env)
 
+    # Asana: open tasks (for dynamic priorities) + completed tasks (for action item freshness)
+    asana_open_tasks  = fetch_asana_open_tasks(asana_token) if asana_token else []
+    completed_tasks   = fetch_asana_completed_tasks(asana_token) if asana_token else []
+
+    # Parse prep doc date so we can determine status freshness
+    prep_doc_date = parse_prep_doc_date(doc_title)
+    if prep_doc_date:
+        print(f"[INFO] Prep doc date parsed: {prep_doc_date}")
+    else:
+        print("[WARN] Could not parse prep doc date from title — status freshness check disabled.")
+
     # Merge
-    updated = merge_updates(existing, doc_title, doc_info, meetings, funnel)
+    updated = merge_updates(
+        existing, doc_title, doc_info, meetings, funnel,
+        asana_tasks=asana_open_tasks,
+        completed_tasks=completed_tasks,
+        prep_doc_date=prep_doc_date,
+    )
 
     # Enrich with rent comp data from suites.csv
     updated = enrich_rent_comps(updated)
@@ -897,6 +1261,7 @@ def main():
         print("\n[DRY-RUN] Would write the following to hot-deals.json:")
         print(f"  lastUpdated: {updated['lastUpdated']}")
         print(f"  sourceDoc:   {updated.get('sourceDoc', '')}")
+        print(f"  prep_doc_date: {prep_doc_date}")
         print(f"  today.date:  {updated['today']['date']}")
         print(f"  greeting:    {updated['today']['greeting']}")
         print(f"  meetings:    {len(updated['today']['meetings'])} events")
@@ -906,9 +1271,19 @@ def main():
             print(f"    [{marker}] {m.get('time', '?'):8s}  {m.get('title', '')}")
             if ctx:
                 print(f"           → {ctx}")
-        print(f"  priorities:  {len(updated['today']['priorities'])} items")
+        today_date_val = date.today()
+        overdue = [t for t in asana_open_tasks if t.get("due_on") and date.fromisoformat(t["due_on"]) < today_date_val]
+        due_today = [t for t in asana_open_tasks if t.get("due_on") and date.fromisoformat(t["due_on"]) == today_date_val]
+        print(f"  asana open tasks: {len(asana_open_tasks)} total, {len(overdue)} overdue, {len(due_today)} due today")
+        print(f"  asana completed (7d): {len(completed_tasks)} tasks")
+        print(f"  priorities ({len(updated['today']['priorities'])} items, dynamic):")
+        for p in updated['today']['priorities']:
+            print(f"    · {p}")
         print(f"  funnel:      {updated.get('funnel', {})}")
         print(f"  deal_updates from doc: {list(doc_info.get('deal_updates', {}).keys())[:5]}")
+        # Action items freshness
+        completed_action_items = [ai for ai in updated.get("actionItems", []) if ai.get("completed")]
+        print(f"  actionItems: {len(updated.get('actionItems',[]))} total, {len(completed_action_items)} marked completed")
         # Show rent comp summary
         all_deals = updated.get("pipelineDeals", []) + updated.get("sideDeals", [])
         enriched = [(d.get("name","?"), d["rentComps"]) for d in all_deals if "rentComps" in d]

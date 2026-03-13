@@ -102,6 +102,7 @@ export interface BrainDump {
 export interface ActionItem {
   title: string;
   detail: string;
+  completed?: boolean;
 }
 
 export interface HotDealsData {
