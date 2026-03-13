@@ -11,6 +11,7 @@ Usage:
 """
 
 import argparse
+import csv
 import json
 import os
 import re
@@ -30,6 +31,8 @@ ENV_FILE       = WORKSPACE_ROOT / ".env"
 GOG_BIN        = "/opt/homebrew/bin/gog"
 DRIVE_FOLDER   = "1VjGsjf8_m2Ucws3eUDAk2G3ejI72lVal"
 GOG_ACCOUNT    = "jdelk@anchorinv.com"
+
+SUITES_CSV = WORKSPACE_ROOT / "fostr" / "suites.csv"
 
 STAGE_MAP = {
     22: "Contact Made",
@@ -362,6 +365,167 @@ def get_today_meetings() -> list[dict]:
     return meetings
 
 
+# ─── 2b. Meeting enrichment ───────────────────────────────────────────────────
+
+def _build_leasing_context(pipeline_deals: list, side_deals: list,
+                            weekly_diff: dict, stale_contacts: list) -> str | None:
+    """Build a human-readable context string for a Leasing Meeting."""
+    parts = []
+
+    # Total active deal count
+    total_active = len(pipeline_deals) + len(side_deals)
+    parts.append(f"{total_active} active deals")
+
+    # Deals advanced this week — extract name + new stage from "Name: old → new" items
+    advanced = weekly_diff.get("advanced", [])
+    if advanced:
+        adv_snippets = []
+        for item in advanced[:3]:
+            name_m  = re.match(r'^([^:]+):', item)
+            arrow_m = re.search(r'→\s*(.+)$', item)
+            if name_m and arrow_m:
+                adv_snippets.append(f"{name_m.group(1).strip()}→{arrow_m.group(1).strip()}")
+            elif name_m:
+                adv_snippets.append(name_m.group(1).strip())
+        adv_str = ", ".join(adv_snippets)
+        parts.append(f"{len(advanced)} advanced this week ({adv_str})")
+
+    # Top 3 high-priority deals
+    high_priority = [d for d in pipeline_deals + side_deals if d.get("priority") == "high"]
+    if high_priority:
+        snippets = []
+        for d in high_priority[:3]:
+            stage = d.get("stageOverride") or d.get("stage", "")
+            snippets.append(f"{d.get('name', 'Unknown')} ({stage})")
+        parts.append("Top deals: " + ", ".join(snippets))
+
+    # Stale contacts needing attention
+    urgent_stale = [c for c in stale_contacts if c.get("urgency") in ("high", "medium")]
+    if urgent_stale:
+        parts.append(f"{len(urgent_stale)} stale contacts need follow-up")
+    elif stale_contacts:
+        # Surface the count even if all are low-urgency so Jacob has a heads-up
+        parts.append(f"{len(stale_contacts)} contacts tracked")
+
+    return ". ".join(parts) + "." if parts else None
+
+
+def _build_l10_context(pipeline_deals: list, side_deals: list, weekly_diff: dict) -> str | None:
+    """Build a context string for an L10 / Commercial L10 meeting."""
+    pieces = []
+
+    advanced  = weekly_diff.get("advanced",  [])
+    completed = weekly_diff.get("completed", [])
+    stalled   = weekly_diff.get("stalled",   [])
+
+    if advanced:
+        pieces.append(f"{len(advanced)} deals advanced")
+    if completed:
+        pieces.append(f"{len(completed)} completed")
+    if stalled:
+        pieces.append(f"{len(stalled)} stalled/dropped")
+
+    high_p = [d for d in pipeline_deals + side_deals if d.get("priority") == "high"]
+    if high_p:
+        pieces.append(f"{len(high_p)} high-priority deals active")
+
+    return "Week scorecard: " + ". ".join(pieces) + "." if pieces else None
+
+
+def _find_deal_in_title(title: str, all_deals: list) -> dict | None:
+    """
+    Check if a meeting title contains a known deal name, tenant, or property.
+    Returns the first matching deal, or None.
+    """
+    title_lower = title.lower()
+    # Generic words that should never trigger a match
+    skip_words = {
+        'meeting', 'call', 'with', 'from', 'and', 'the', 'for', 'jacob',
+        'anchor', 'delk', 'jack', 'john', 'call', 'chat', 'sync', 'review',
+    }
+
+    for deal in all_deals:
+        name_words = [
+            w.lower() for w in re.split(r'\W+', deal.get("name", ""))
+            if len(w) > 3 and w.lower() not in skip_words
+        ]
+        prop_words = [
+            w.lower() for w in re.split(r'\W+', deal.get("property", ""))
+            if len(w) > 3 and w.lower() not in skip_words
+        ]
+        for word in name_words + prop_words:
+            if word in title_lower:
+                return deal
+    return None
+
+
+def _build_deal_context(deal: dict) -> str | None:
+    """Build a short context string for a specific deal."""
+    stage     = deal.get("stageOverride") or deal.get("stage", "")
+    status    = deal.get("status", "")
+    next_step = deal.get("nextStep", "")
+
+    parts = []
+    if stage:
+        parts.append(f"Stage: {stage}")
+    if status:
+        # Truncate long status strings
+        short = (status[:80] + "…") if len(status) > 80 else status
+        parts.append(short)
+    if next_step:
+        parts.append(f"Next: {next_step}")
+
+    return " | ".join(parts) if parts else None
+
+
+def enrich_meetings(meetings: list[dict], hot_deals_data: dict) -> list[dict]:
+    """
+    Enrich each meeting with a human-readable dealContext string pulled from
+    hot-deals.json data.  Modifies meetings in place and returns the list.
+
+    Rules:
+      - "Leasing Meeting" / "Leasing" title  → full pipeline summary
+      - L10 / Commercial L10                 → weekly scorecard
+      - Title contains a deal/tenant/property name → that deal's status + next step
+      - Everything else                      → dealContext stays None
+    """
+    if not meetings or not hot_deals_data:
+        return meetings
+
+    pipeline_deals  = hot_deals_data.get("pipelineDeals",  [])
+    side_deals      = hot_deals_data.get("sideDeals",      [])
+    all_deals       = pipeline_deals + side_deals
+    weekly_diff     = hot_deals_data.get("weeklyDiff",     {})
+    stale_contacts  = hot_deals_data.get("staleContacts",  [])
+
+    for meeting in meetings:
+        title       = meeting.get("title", "")
+        title_lower = title.lower().strip()
+
+        # ── Leasing Meeting ────────────────────────────────────────────────
+        if (
+            title_lower in ("leasing", "leasing meeting")
+            or "leasing meeting" in title_lower
+        ):
+            meeting["dealContext"] = _build_leasing_context(
+                pipeline_deals, side_deals, weekly_diff, stale_contacts
+            )
+
+        # ── L10 / Commercial L10 ───────────────────────────────────────────
+        elif re.search(r'\bl10\b', title_lower):
+            meeting["dealContext"] = _build_l10_context(
+                pipeline_deals, side_deals, weekly_diff
+            )
+
+        # ── Deal-name match ────────────────────────────────────────────────
+        elif meeting.get("dealContext") is None:
+            matched = _find_deal_in_title(title, all_deals)
+            if matched:
+                meeting["dealContext"] = _build_deal_context(matched)
+
+    return meetings
+
+
 # ─── 3. Greeting ──────────────────────────────────────────────────────────────
 
 def generate_greeting() -> str:
@@ -428,7 +592,172 @@ def get_pipedrive_funnel(env: dict) -> dict:
     return {k: v for k, v in counts.items()}
 
 
-# ─── 5. Merge + write ─────────────────────────────────────────────────────────
+# ─── 5. Rent comp enrichment ──────────────────────────────────────────────────
+
+def _normalize_prop(name: str) -> str:
+    """Lowercase + strip for fuzzy property matching."""
+    return re.sub(r'\s+', ' ', name.lower().strip())
+
+
+def _props_match(deal_prop: str, suite_prop: str) -> bool:
+    """
+    Return True if deal_prop and suite_prop refer to the same property.
+    Strategy (in order):
+      1. Exact match after normalization
+      2. Either is a substring of the other
+      3. Token overlap — any non-trivial token (len > 3) present in both
+    """
+    dp = _normalize_prop(deal_prop)
+    sp = _normalize_prop(suite_prop)
+
+    if dp == sp:
+        return True
+    if sp in dp or dp in sp:
+        return True
+
+    # Token overlap
+    dp_tokens = set(t for t in re.split(r'\W+', dp) if len(t) > 3)
+    sp_tokens = set(t for t in re.split(r'\W+', sp) if len(t) > 3)
+    if dp_tokens and sp_tokens and dp_tokens & sp_tokens:
+        return True
+
+    return False
+
+
+def load_suite_comps() -> dict:
+    """
+    Load suites.csv and return a dict keyed by normalized property name:
+      {
+        "malone": {
+          "property": "Malone",         # original name from CSV
+          "suites": [...],               # all suite rows for this property
+        },
+        ...
+      }
+    """
+    if not SUITES_CSV.exists():
+        print(f"[WARN] suites.csv not found at {SUITES_CSV}", file=sys.stderr)
+        return {}
+
+    by_prop: dict = {}
+    with open(SUITES_CSV, newline="", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            prop = (row.get("property") or "").strip()
+            if not prop:
+                continue
+            key = _normalize_prop(prop)
+            if key not in by_prop:
+                by_prop[key] = {"property": prop, "suites": []}
+            by_prop[key]["suites"].append(row)
+
+    return by_prop
+
+
+def calc_rent_comps(suites: list[dict], property_name: str) -> dict | None:
+    """
+    Calculate rent comp stats for a list of suite rows.
+    Returns a rentComps dict, or None if no usable rate data.
+    """
+    rates = []
+    sq_fts = []
+    total_count = len(suites)
+    vacant_count = 0
+
+    for s in suites:
+        # Vacancy: status != "Active" counts as vacant
+        status = (s.get("status") or "").strip()
+        if status.lower() != "active":
+            vacant_count += 1
+
+        # Square footage
+        try:
+            sf = float(s.get("square_feet") or 0)
+            if sf > 0:
+                sq_fts.append(sf)
+        except (ValueError, TypeError):
+            pass
+
+        # Rate — skip empty or zero
+        try:
+            rate = float(s.get("market_rent_psf") or 0)
+            if rate > 0:
+                rates.append(rate)
+        except (ValueError, TypeError):
+            pass
+
+    if not rates:
+        # No rate data for this property — still return basic suite stats
+        # so the card shows something useful (suite count, sq ft)
+        if not sq_fts and total_count == 0:
+            return None
+        return {
+            "property": property_name,
+            "avgRate": None,
+            "minRate": None,
+            "maxRate": None,
+            "avgSqFt": round(sum(sq_fts) / len(sq_fts)) if sq_fts else None,
+            "suiteCount": total_count,
+            "vacantCount": vacant_count,
+        }
+
+    avg_sq_ft = round(sum(sq_fts) / len(sq_fts)) if sq_fts else None
+
+    return {
+        "property": property_name,
+        "avgRate": round(sum(rates) / len(rates), 2),
+        "minRate": round(min(rates), 2),
+        "maxRate": round(max(rates), 2),
+        "avgSqFt": avg_sq_ft,
+        "suiteCount": total_count,
+        "vacantCount": vacant_count,
+    }
+
+
+def enrich_rent_comps(hot_deals_data: dict) -> dict:
+    """
+    Add rentComps to each pipeline/side deal whose property matches a suite in suites.csv.
+    Mutates hot_deals_data in place and returns it.
+    """
+    suite_data = load_suite_comps()
+    if not suite_data:
+        print("[WARN] No suite data loaded — skipping rent comp enrichment.", file=sys.stderr)
+        return hot_deals_data
+
+    enriched = 0
+    all_deals = (
+        hot_deals_data.get("pipelineDeals", []) +
+        hot_deals_data.get("sideDeals", [])
+    )
+
+    for deal in all_deals:
+        deal_prop = (deal.get("property") or "").strip()
+        if not deal_prop:
+            continue
+
+        # Find matching property in suite data
+        matched_key = None
+        for suite_key, suite_info in suite_data.items():
+            if _props_match(deal_prop, suite_info["property"]):
+                matched_key = suite_key
+                break
+
+        if matched_key is None:
+            continue
+
+        suite_info = suite_data[matched_key]
+        comps = calc_rent_comps(suite_info["suites"], suite_info["property"])
+        if comps:
+            deal["rentComps"] = comps
+            enriched += 1
+            print(f"[INFO] Rent comps added for '{deal.get('name', '')}' → {suite_info['property']} "
+                  f"(suites: {comps['suiteCount']}, rate: {comps.get('avgRate', 'N/A')} PSF)")
+
+    print(f"[INFO] Rent comp enrichment: {enriched}/{len(all_deals)} deals matched.")
+    return hot_deals_data
+
+
+# ─── 6. Merge + write ─────────────────────────────────────────────────────────
 
 def merge_updates(existing: dict, doc_title: str, doc_info: dict,
                   meetings: list, funnel: dict) -> dict:
@@ -448,16 +777,22 @@ def merge_updates(existing: dict, doc_title: str, doc_info: dict,
 
     # today section
     today_date = date.today().isoformat()
+    raw_meetings = meetings if meetings else existing.get("today", {}).get("meetings", [])
     updated["today"] = {
         "date": today_date,
         "greeting": generate_greeting(),
-        "meetings": meetings if meetings else existing.get("today", {}).get("meetings", []),
+        "meetings": raw_meetings,
         "priorities": (
             doc_info.get("priorities")
             if doc_info.get("priorities")
             else existing.get("today", {}).get("priorities", [])
         ),
     }
+
+    # Enrich meetings with deal context now that full deal data is in `updated`
+    updated["today"]["meetings"] = enrich_meetings(
+        updated["today"]["meetings"], updated
+    )
 
     # funnel — merge Pipedrive counts with local "Lease Signed" count
     # (Pipedrive marks signed deals as "won", so we count them locally)
@@ -551,6 +886,9 @@ def main():
     # Merge
     updated = merge_updates(existing, doc_title, doc_info, meetings, funnel)
 
+    # Enrich with rent comp data from suites.csv
+    updated = enrich_rent_comps(updated)
+
     if args.dry_run:
         print("\n[DRY-RUN] Would write the following to hot-deals.json:")
         print(f"  lastUpdated: {updated['lastUpdated']}")
@@ -558,9 +896,22 @@ def main():
         print(f"  today.date:  {updated['today']['date']}")
         print(f"  greeting:    {updated['today']['greeting']}")
         print(f"  meetings:    {len(updated['today']['meetings'])} events")
+        for m in updated['today']['meetings']:
+            ctx = m.get('dealContext')
+            marker = "✓" if ctx else " "
+            print(f"    [{marker}] {m.get('time', '?'):8s}  {m.get('title', '')}")
+            if ctx:
+                print(f"           → {ctx}")
         print(f"  priorities:  {len(updated['today']['priorities'])} items")
         print(f"  funnel:      {updated.get('funnel', {})}")
         print(f"  deal_updates from doc: {list(doc_info.get('deal_updates', {}).keys())[:5]}")
+        # Show rent comp summary
+        all_deals = updated.get("pipelineDeals", []) + updated.get("sideDeals", [])
+        enriched = [(d.get("name","?"), d["rentComps"]) for d in all_deals if "rentComps" in d]
+        print(f"  rentComps enriched:    {len(enriched)}/{len(all_deals)} deals")
+        for name, rc in enriched:
+            rate_str = f"${rc['avgRate']} PSF avg" if rc.get("avgRate") else "no rate data"
+            print(f"    · {name} → {rc['property']} ({rc['suiteCount']} suites, {rate_str})")
         print("\n[DRY-RUN] No files written.")
         return
 
