@@ -47,7 +47,7 @@ export default async function DealsPage() {
 
       {/* Priority Deals - What to Do Next */}
       {priorityDeals.length > 0 && (
-        <div className="mb-8 bg-gradient-to-r from-red-900/30 to-orange-900/30 rounded-lg p-6 border border-red-800/50">
+        <div className="mb-8 bg-red-50 rounded-xl p-6 border border-red-200">
           <h2 className="text-xl font-bold mb-4 flex items-center gap-2">
             <span>⚠️</span>
             <span>Needs Attention ({priorityDeals.length})</span>

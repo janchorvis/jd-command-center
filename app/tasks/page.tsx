@@ -36,12 +36,12 @@ export default async function TasksPage() {
       {/* Kanban Columns */}
       <div className="grid grid-cols-1 md:grid-cols-5 gap-6">
         {/* Overdue */}
-        <div className="bg-slate-800/50 rounded-lg p-4">
-          <h2 className="text-lg font-semibold mb-4 text-red-400">🔴 Overdue ({overdue.length})</h2>
+        <div className="bg-white border border-slate-200 shadow-sm rounded-xl p-4">
+          <h2 className="text-lg font-semibold mb-4 text-red-600">🔴 Overdue ({overdue.length})</h2>
           <div className="space-y-3">
             {overdue.map(task => (
-              <TaskCard 
-                key={task.id} 
+              <TaskCard
+                key={task.id}
                 task={task}
                 draggable={true}
               />
@@ -53,12 +53,12 @@ export default async function TasksPage() {
         </div>
 
         {/* This Week */}
-        <div className="bg-slate-800/50 rounded-lg p-4">
-          <h2 className="text-lg font-semibold mb-4 text-yellow-400">🟡 This Week ({thisWeek.length})</h2>
+        <div className="bg-white border border-slate-200 shadow-sm rounded-xl p-4">
+          <h2 className="text-lg font-semibold mb-4 text-yellow-600">🟡 This Week ({thisWeek.length})</h2>
           <div className="space-y-3">
             {thisWeek.map(task => (
-              <TaskCard 
-                key={task.id} 
+              <TaskCard
+                key={task.id}
                 task={task}
                 draggable={true}
               />
@@ -70,12 +70,12 @@ export default async function TasksPage() {
         </div>
 
         {/* Next Week */}
-        <div className="bg-slate-800/50 rounded-lg p-4">
-          <h2 className="text-lg font-semibold mb-4 text-blue-400">🔵 Next Week ({nextWeek.length})</h2>
+        <div className="bg-white border border-slate-200 shadow-sm rounded-xl p-4">
+          <h2 className="text-lg font-semibold mb-4 text-blue-600">🔵 Next Week ({nextWeek.length})</h2>
           <div className="space-y-3">
             {nextWeek.map(task => (
-              <TaskCard 
-                key={task.id} 
+              <TaskCard
+                key={task.id}
                 task={task}
                 draggable={true}
               />
@@ -87,12 +87,12 @@ export default async function TasksPage() {
         </div>
 
         {/* Later */}
-        <div className="bg-slate-800/50 rounded-lg p-4">
-          <h2 className="text-lg font-semibold mb-4 text-green-400">🟢 Later ({later.length})</h2>
+        <div className="bg-white border border-slate-200 shadow-sm rounded-xl p-4">
+          <h2 className="text-lg font-semibold mb-4 text-emerald-600">🟢 Later ({later.length})</h2>
           <div className="space-y-3">
             {later.map(task => (
-              <TaskCard 
-                key={task.id} 
+              <TaskCard
+                key={task.id}
                 task={task}
                 draggable={true}
               />
@@ -104,12 +104,12 @@ export default async function TasksPage() {
         </div>
 
         {/* Parked */}
-        <div className="bg-slate-800/50 rounded-lg p-4">
-          <h2 className="text-lg font-semibold mb-4 text-slate-400">📦 Parked ({parked.length})</h2>
+        <div className="bg-white border border-slate-200 shadow-sm rounded-xl p-4">
+          <h2 className="text-lg font-semibold mb-4 text-slate-500">📦 Parked ({parked.length})</h2>
           <div className="space-y-3">
             {parked.map(task => (
-              <TaskCard 
-                key={task.id} 
+              <TaskCard
+                key={task.id}
                 task={task}
                 draggable={true}
               />

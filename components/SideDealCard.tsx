@@ -8,16 +8,16 @@ interface SideDealCardProps {
   deal: SideDeal;
 }
 
-const priorityColors = {
-  high: 'border-red-500',
-  medium: 'border-yellow-500',
-  low: 'border-blue-500',
+const priorityDots = {
+  high: 'bg-red-500',
+  medium: 'bg-yellow-500',
+  low: 'bg-[#7a9a8a]',
 };
 
 const typeBadgeColors: Record<string, string> = {
-  'Land/Development': 'bg-purple-900/30 text-purple-300',
-  'For Lease': 'bg-blue-900/30 text-blue-300',
-  'Tenant Rep': 'bg-emerald-900/30 text-emerald-300',
+  'Land/Development': 'bg-[#7a9a8a]/10 text-[#7a9a8a]',
+  'For Lease': 'bg-[#7a9a8a]/10 text-[#7a9a8a]',
+  'Tenant Rep': 'bg-[#7a9a8a]/10 text-[#7a9a8a]',
 };
 
 function daysAgo(isoDate: string): number {
@@ -30,21 +30,24 @@ export default function SideDealCard({ deal }: SideDealCardProps) {
 
   return (
     <Link href={`/deals/${deal.id}`}>
-      <div className={`bg-slate-800 border-l-4 ${priorityColors[deal.priority]} rounded-lg p-4 hover:bg-slate-750 transition cursor-pointer`}>
+      <div className="bg-white border border-slate-200 shadow-sm rounded-xl p-4 hover:bg-slate-50 transition cursor-pointer">
         <div className="flex items-start justify-between mb-2">
           <div className="flex-1">
-            <h3 className="font-semibold text-white mb-1">{deal.name}</h3>
-            <p className="text-sm text-slate-400">{deal.property}</p>
+            <div className="flex items-center gap-2 mb-1">
+              <span className={`w-2 h-2 rounded-full inline-block ${priorityDots[deal.priority]}`} />
+              <h3 className="font-semibold text-slate-900">{deal.name}</h3>
+            </div>
+            <p className="text-sm text-slate-500">{deal.property}</p>
           </div>
-          <span className={`text-xs px-2 py-1 rounded whitespace-nowrap ${typeBadgeColors[deal.type] || 'bg-slate-700 text-slate-300'}`}>
+          <span className={`text-xs px-2 py-1 rounded whitespace-nowrap ${typeBadgeColors[deal.type] || 'bg-[#7a9a8a]/10 text-[#7a9a8a]'}`}>
             {deal.type}
           </span>
         </div>
 
-        <p className="text-sm text-slate-300 mb-2">{deal.status}</p>
+        <p className="text-sm text-slate-700 mb-2">{deal.status}</p>
 
-        <div className="mt-3 pt-3 border-t border-slate-700">
-          <p className="text-xs text-yellow-300 font-medium mb-2">→ {deal.nextStep}</p>
+        <div className="mt-3 pt-3 border-t border-slate-200">
+          <p className="text-xs text-[#7a9a8a] font-medium mb-2">→ {deal.nextStep}</p>
           <div className="flex items-center justify-between text-xs text-slate-500">
             <span>{deal.contacts.join(', ')}</span>
             <span className="flex items-center gap-1">

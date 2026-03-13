@@ -78,54 +78,52 @@ export default function Top3Today({ tasks }: Top3TodayProps) {
   return (
     <div className="space-y-6">
       {/* Top 3 Focus */}
-      <div className="bg-gradient-to-r from-blue-900/30 to-purple-900/30 rounded-lg p-6 border border-blue-800/50">
+      <div className="bg-[#7a9a8a]/5 rounded-xl p-6 border border-[#7a9a8a]/20">
         <h2 className="text-xl font-bold mb-4 flex items-center gap-2">
           <span>🎯</span>
           <span>Top 3 Today</span>
         </h2>
-        
+
         {top3.length === 0 ? (
-          <p className="text-slate-400 text-center py-8">No urgent tasks - you're all clear! 🎉</p>
+          <p className="text-slate-500 text-center py-8">No urgent tasks - you're all clear! 🎉</p>
         ) : (
           <div className="space-y-3">
             {top3.map((task, index) => (
               <div
                 key={task.id}
-                className={`bg-slate-800/70 rounded-lg p-4 border-l-4 ${
-                  task.isOverdue ? 'border-red-500' : 'border-blue-500'
-                } flex items-start justify-between gap-3`}
+                className="bg-white border border-slate-200 rounded-xl p-4 flex items-start justify-between gap-3"
               >
                 <div className="flex-1">
                   <div className="flex items-center gap-2 mb-1">
-                    <span className="text-lg font-bold text-blue-400">#{index + 1}</span>
-                    <h3 className="text-sm font-medium text-white">{task.name}</h3>
+                    <span className="w-6 h-6 rounded-full bg-[#7a9a8a] text-white text-xs font-bold flex items-center justify-center">{index + 1}</span>
+                    <h3 className="text-sm font-medium text-slate-900">{task.name}</h3>
                   </div>
-                  
-                  <div className="flex items-center gap-2 text-xs text-slate-400 mt-2">
+
+                  <div className="flex items-center gap-2 text-xs text-slate-500 mt-2">
                     <ClockIcon className="w-4 h-4" />
                     <span>{task.dueDate && format(task.dueDate, 'MMM d')}</span>
                     {task.daysUntilDue !== null && (
-                      <span className={task.isOverdue ? 'text-red-400 font-medium' : 'text-slate-400'}>
+                      <span className={task.isOverdue ? 'text-red-400 font-medium' : 'text-slate-500'}>
                         ({task.isOverdue ? `${Math.abs(task.daysUntilDue)}d overdue` : `in ${task.daysUntilDue}d`})
                       </span>
                     )}
                   </div>
 
                   {task.notes && (
-                    <p className="text-xs text-slate-500 mt-2 line-clamp-1">{task.notes}</p>
+                    <p className="text-xs text-slate-400 mt-2 line-clamp-1">{task.notes}</p>
                   )}
                 </div>
 
                 <button
                   onClick={() => handleComplete(task.id)}
                   disabled={completingId === task.id}
-                  className="flex-shrink-0 p-2 hover:bg-slate-700 rounded-lg transition"
+                  className="flex-shrink-0 p-2 hover:bg-slate-100 rounded-xl transition"
                   title="Mark complete"
                 >
-                  <CheckCircleSolidIcon 
+                  <CheckCircleSolidIcon
                     className={`w-6 h-6 ${
-                      completingId === task.id ? 'text-green-400' : 'text-slate-600 hover:text-green-400'
-                    }`} 
+                      completingId === task.id ? 'text-green-400' : 'text-slate-400 hover:text-emerald-500'
+                    }`}
                   />
                 </button>
               </div>
@@ -135,11 +133,11 @@ export default function Top3Today({ tasks }: Top3TodayProps) {
       </div>
 
       {/* 7-Day Timeline */}
-      <div className="bg-slate-800/50 rounded-lg p-6">
+      <div className="bg-white border border-slate-200 shadow-sm rounded-xl p-6">
         <h2 className="text-xl font-bold mb-4 flex items-center gap-2">
           <span>📅</span>
           <span>7-Day Timeline</span>
-          <span className="text-sm font-normal text-slate-400 ml-2">(drag tasks to reschedule)</span>
+          <span className="text-sm font-normal text-slate-500 ml-2">(drag tasks to reschedule)</span>
         </h2>
 
         <div className="grid grid-cols-7 gap-2">
@@ -150,23 +148,23 @@ export default function Top3Today({ tasks }: Top3TodayProps) {
             return (
               <div
                 key={date.toISOString()}
-                className={`rounded-lg p-3 min-h-[120px] border-2 border-dashed transition ${
-                  isToday 
-                    ? 'bg-blue-900/20 border-blue-600' 
-                    : 'bg-slate-900/50 border-slate-700 hover:border-slate-600'
+                className={`rounded-xl p-3 min-h-[120px] border-2 border-dashed transition ${
+                  isToday
+                    ? 'bg-[#7a9a8a]/10 border-[#7a9a8a]'
+                    : 'bg-slate-50 border-slate-200 hover:border-slate-300'
                 }`}
                 onDrop={(e) => handleDrop(e, date)}
                 onDragOver={handleDragOver}
               >
                 <div className="text-center mb-2">
-                  <div className={`text-xs font-medium ${isToday ? 'text-blue-400' : 'text-slate-400'}`}>
+                  <div className={`text-xs font-medium ${isToday ? 'text-[#7a9a8a]' : 'text-slate-500'}`}>
                     {format(date, 'EEE')}
                   </div>
-                  <div className={`text-lg font-bold ${isToday ? 'text-blue-300' : 'text-white'}`}>
+                  <div className={`text-lg font-bold ${isToday ? 'text-[#7a9a8a]' : 'text-slate-900'}`}>
                     {format(date, 'd')}
                   </div>
                   {dayCount > 0 && (
-                    <div className="text-xs mt-1 px-2 py-0.5 rounded bg-blue-900/40 text-blue-300 inline-block">
+                    <div className="text-xs mt-1 px-2 py-0.5 rounded bg-[#7a9a8a]/10 text-[#7a9a8a] inline-block">
                       {dayCount}
                     </div>
                   )}
@@ -176,7 +174,7 @@ export default function Top3Today({ tasks }: Top3TodayProps) {
                   {dayTasks.slice(0, 3).map(task => (
                     <div
                       key={task.id}
-                      className="text-xs p-1.5 bg-slate-800 rounded border border-slate-700 cursor-grab active:cursor-grabbing hover:bg-slate-750"
+                      className="text-xs p-1.5 bg-white rounded border border-slate-200 cursor-grab active:cursor-grabbing hover:bg-slate-50"
                       draggable
                       onDragStart={(e) => {
                         e.dataTransfer.setData('application/json', JSON.stringify({
@@ -185,11 +183,11 @@ export default function Top3Today({ tasks }: Top3TodayProps) {
                         }));
                       }}
                     >
-                      <div className="truncate text-white">{task.name}</div>
+                      <div className="truncate text-slate-900">{task.name}</div>
                     </div>
                   ))}
                   {dayTasks.length > 3 && (
-                    <div className="text-xs text-slate-500 text-center">
+                    <div className="text-xs text-slate-400 text-center">
                       +{dayTasks.length - 3} more
                     </div>
                   )}

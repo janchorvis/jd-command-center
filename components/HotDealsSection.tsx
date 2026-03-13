@@ -23,12 +23,12 @@ export default function HotDealsSection({ pipelineDeals, sideDeals, droppedBalls
   });
 
   return (
-    <div className="mb-8 bg-gradient-to-r from-orange-900/20 to-red-900/20 rounded-lg p-6 border border-orange-800/50">
+    <div className="mb-8 bg-[#7a9a8a]/5 rounded-xl p-6 border border-[#7a9a8a]/20">
       <h2 className="text-xl font-bold mb-6">🔥 Focus Deals</h2>
 
       {pipelineDeals.length > 0 && (
         <div className="mb-6">
-          <h3 className="text-sm font-semibold text-slate-400 uppercase tracking-wider mb-3">Pipeline</h3>
+          <h3 className="text-sm font-semibold text-slate-500 uppercase tracking-wider mb-3">Pipeline</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             {pipelineDeals.map(deal => (
               <PipelineDealCard key={deal.id} deal={deal} />
@@ -39,7 +39,7 @@ export default function HotDealsSection({ pipelineDeals, sideDeals, droppedBalls
 
       {sideDeals.length > 0 && (
         <div className="mb-6">
-          <h3 className="text-sm font-semibold text-slate-400 uppercase tracking-wider mb-3">Side Deals</h3>
+          <h3 className="text-sm font-semibold text-slate-500 uppercase tracking-wider mb-3">Side Deals</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             {sideDeals.map(deal => (
               <SideDealCard key={deal.id} deal={deal} />
@@ -50,7 +50,7 @@ export default function HotDealsSection({ pipelineDeals, sideDeals, droppedBalls
 
       {droppedBalls.length > 0 && (
         <div className="mb-4">
-          <h3 className="text-sm font-semibold text-orange-400 uppercase tracking-wider mb-3">⚠️ Dropped Balls</h3>
+          <h3 className="text-sm font-semibold text-red-500 uppercase tracking-wider mb-3">⚠️ Dropped Balls</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {droppedBalls.map(deal => (
               <DroppedBallCard key={deal.id} deal={deal} />
@@ -59,7 +59,7 @@ export default function HotDealsSection({ pipelineDeals, sideDeals, droppedBalls
         </div>
       )}
 
-      <div className="mt-4 pt-3 border-t border-slate-700/50 flex items-center justify-between text-xs text-slate-500">
+      <div className="mt-4 pt-3 border-t border-slate-200 flex items-center justify-between text-xs text-slate-400">
         <span>Last updated: {formattedDate}</span>
         <span>Source: {sourceDoc}</span>
       </div>

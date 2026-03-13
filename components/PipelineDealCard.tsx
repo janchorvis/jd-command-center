@@ -7,39 +7,33 @@ interface PipelineDealCardProps {
   deal: PipelineDeal;
 }
 
-const priorityColors = {
-  high: 'border-red-500',
-  medium: 'border-yellow-500',
-  low: 'border-blue-500',
-};
-
-const stageBadgeColors: Record<string, string> = {
-  'LOI': 'bg-orange-900/30 text-orange-300',
-  'Lease Draft & Review': 'bg-blue-900/30 text-blue-300',
-  'Touring': 'bg-emerald-900/30 text-emerald-300',
-  'Obtain Financials': 'bg-purple-900/30 text-purple-300',
-  'Trading Terms': 'bg-cyan-900/30 text-cyan-300',
-  'Contact Made': 'bg-slate-700 text-slate-300',
+const priorityDots = {
+  high: 'bg-red-500',
+  medium: 'bg-yellow-500',
+  low: 'bg-[#7a9a8a]',
 };
 
 export default function PipelineDealCard({ deal }: PipelineDealCardProps) {
   return (
     <Link href={`/deals/${deal.id}`}>
-      <div className={`bg-slate-800 border-l-4 ${priorityColors[deal.priority]} rounded-lg p-4 hover:bg-slate-750 transition cursor-pointer`}>
+      <div className="bg-white border border-slate-200 shadow-sm rounded-xl p-4 hover:bg-slate-50 transition cursor-pointer">
         <div className="flex items-start justify-between mb-2">
           <div className="flex-1">
-            <h3 className="font-semibold text-white mb-1">{deal.name}</h3>
-            <p className="text-sm text-slate-400">{deal.property}</p>
+            <div className="flex items-center gap-2 mb-1">
+              <span className={`w-2 h-2 rounded-full inline-block ${priorityDots[deal.priority]}`} />
+              <h3 className="font-semibold text-slate-900">{deal.name}</h3>
+            </div>
+            <p className="text-sm text-slate-500">{deal.property}</p>
           </div>
-          <span className={`text-xs px-2 py-1 rounded whitespace-nowrap ${stageBadgeColors[deal.stage] || 'bg-slate-700 text-slate-300'}`}>
+          <span className="text-xs px-2 py-1 rounded whitespace-nowrap bg-[#7a9a8a]/10 text-[#7a9a8a]">
             {deal.stage}
           </span>
         </div>
 
-        <p className="text-sm text-slate-300 mb-2">{deal.status}</p>
+        <p className="text-sm text-slate-700 mb-2">{deal.status}</p>
 
-        <div className="mt-3 pt-3 border-t border-slate-700">
-          <p className="text-xs text-yellow-300 font-medium">→ {deal.nextStep}</p>
+        <div className="mt-3 pt-3 border-t border-slate-200">
+          <p className="text-xs text-[#7a9a8a] font-medium">→ {deal.nextStep}</p>
         </div>
       </div>
     </Link>

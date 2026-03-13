@@ -29,26 +29,26 @@ export default function BrainDump() {
   }
 
   return (
-    <div className="bg-slate-800 border border-slate-700 rounded-lg p-6">
+    <div className="bg-white border border-slate-200 shadow-sm rounded-xl p-6">
       <h2 className="text-lg font-bold mb-4">🧠 Brain Dump</h2>
       <form onSubmit={handleSubmit}>
         <textarea
           value={text}
           onChange={e => setText(e.target.value)}
           placeholder="What's on your mind?"
-          className="w-full bg-slate-900 border border-slate-600 rounded-lg p-3 text-sm text-white placeholder-slate-500 resize-none focus:outline-none focus:border-blue-500 transition"
+          className="w-full bg-white border border-slate-300 rounded-xl p-3 text-sm text-slate-900 placeholder-slate-400 resize-none focus:outline-none focus:border-[#7a9a8a] focus:ring-1 focus:ring-[#7a9a8a] transition"
           rows={3}
         />
         <div className="flex items-center justify-between mt-3">
           <button
             type="submit"
             disabled={!text.trim() || submitting}
-            className="bg-blue-600 hover:bg-blue-500 disabled:opacity-40 disabled:cursor-not-allowed text-white text-sm font-medium px-4 py-2 rounded-lg transition"
+            className="bg-[#7a9a8a] hover:bg-[#7a9a8a]/90 disabled:opacity-40 disabled:cursor-not-allowed text-white text-sm font-medium px-4 py-2 rounded-xl transition"
           >
             {submitting ? 'Sending...' : 'Send to Jarvis'}
           </button>
           {submitted && (
-            <span className="text-sm text-green-400 animate-pulse">Jarvis got it ⚡</span>
+            <span className="text-sm text-emerald-600 animate-pulse">Jarvis got it ⚡</span>
           )}
         </div>
       </form>
