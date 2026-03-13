@@ -331,6 +331,9 @@ export default function MorningSweep({ sweep }: MorningSweepProps) {
   const [data, setData] = useState(sweep);
   const [mounted, setMounted] = useState(false);
   const [activeMenuId, setActiveMenuId] = useState<string | null>(null);
+  const [syncStatus, setSyncStatus] = useState<'idle' | 'syncing' | 'synced'>('idle');
+  const syncTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const userMutatedRef = useRef(false);
 
   // After hydration, check localStorage for persisted state
   useEffect(() => {
@@ -341,10 +344,35 @@ export default function MorningSweep({ sweep }: MorningSweepProps) {
     setMounted(true);
   }, [sweep.generatedAt]);
 
-  // Persist to localStorage on every user-driven mutation (after mount)
+  // Persist to localStorage + debounced GitHub sync on every user-driven mutation
   useEffect(() => {
     if (!mounted) return;
     saveSweepToStorage(data);
+
+    // Only sync to GitHub after user mutations, not on initial load
+    if (!userMutatedRef.current) return;
+
+    // Debounce: 3s after last change
+    if (syncTimerRef.current) clearTimeout(syncTimerRef.current);
+    syncTimerRef.current = setTimeout(() => {
+      setSyncStatus('syncing');
+      fetch('/api/sweep/sync', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data),
+      })
+        .then(() => {
+          setSyncStatus('synced');
+          setTimeout(() => setSyncStatus('idle'), 2000);
+        })
+        .catch(() => {
+          setSyncStatus('idle');
+        });
+    }, 3000);
+
+    return () => {
+      if (syncTimerRef.current) clearTimeout(syncTimerRef.current);
+    };
   }, [data, mounted]);
 
   const allItems = [
@@ -371,6 +399,7 @@ export default function MorningSweep({ sweep }: MorningSweepProps) {
     const itemLane = getLaneForItem(itemId);
 
     // Optimistic update — find item across all lanes
+    userMutatedRef.current = true;
     setData((prev) => {
       const lanes: Lane[] = ['yourPlate', 'prepping', 'handling', 'deferred'];
       const next = { ...prev };
@@ -402,6 +431,7 @@ export default function MorningSweep({ sweep }: MorningSweepProps) {
 
   async function handleMove(itemId: string, toLane: Lane, detail?: string) {
     // Optimistic update
+    userMutatedRef.current = true;
     setData((prev) => {
       const lanes: Lane[] = ['yourPlate', 'prepping', 'handling', 'deferred'];
       let movedItem: SweepItem | null = null;
@@ -458,7 +488,16 @@ export default function MorningSweep({ sweep }: MorningSweepProps) {
         <h2 className="text-sm font-semibold text-slate-500 uppercase tracking-wider">
           Morning Sweep
         </h2>
-        <span className="ml-auto text-xs text-slate-400">
+        <span className="ml-auto text-xs text-slate-400 flex items-center gap-2">
+          {syncStatus === 'syncing' && (
+            <span className="flex items-center gap-1 text-[#7a9a8a]">
+              <span className="w-1.5 h-1.5 rounded-full bg-[#7a9a8a] animate-pulse" />
+              syncing…
+            </span>
+          )}
+          {syncStatus === 'synced' && (
+            <span className="text-[#7a9a8a]">synced</span>
+          )}
           Updated {formatTime(data.generatedAt)}
         </span>
       </div>
