@@ -1,50 +1,60 @@
 {
-  "lastUpdated": "2026-03-12T22:21:46.169978",
+  "lastUpdated": "2026-03-13T07:15:29.693181",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/9/26",
   "today": {
-    "date": "2026-03-12",
-    "greeting": "Good evening, Jacob. You have 5 overdue items.",
+    "date": "2026-03-13",
+    "greeting": "Good morning, Jacob. You have 9 overdue items.",
     "meetings": [
       {
         "time": "12:00 AM",
-        "title": "Parker (9-2)",
+        "title": "Weekly Report Due: See Notes",
         "dealContext": null
       },
       {
         "time": "6:00 AM",
-        "title": "Carter Bible Study Green Hills Mall",
+        "title": "NO West End Men’s Bible Study",
+        "dealContext": null
+      },
+      {
+        "time": "7:00 AM",
+        "title": "Clarity Break",
         "dealContext": null
       },
       {
         "time": "8:00 AM",
-        "title": "Jacob Delk & Jack Beachboard Coffee",
+        "title": "Jacob Delk + Larry Kloess Coffee",
         "dealContext": null
       },
       {
-        "time": "11:30 AM",
-        "title": "Hideout 8th Ave -JD x JH ",
+        "time": "9:00 AM",
+        "title": "Shout - Outs",
         "dealContext": null
       },
       {
-        "time": "1:30 PM",
-        "title": "Jacob / Carson",
+        "time": "9:30 AM",
+        "title": "930 Prayer for Anchor ",
         "dealContext": null
       },
       {
-        "time": "5:00 PM",
-        "title": "Anchor Trash Cans",
+        "time": "11:45 AM",
+        "title": "Jacque's Final Anchor Fiesta Friday",
+        "dealContext": null
+      },
+      {
+        "time": "12:00 PM",
+        "title": "Weekly Report - Fill out by 12 on Fridays",
         "dealContext": null
       }
     ],
     "priorities": [
+      "Send clean job description email to Micah — for recruiter Robbie (overdue — due 2026-03-12)",
       "Follow up on Charles Hawkins guarantor financials — Emerson Hall (overdue — due 2026-03-11)",
       "Call Brether group — Emerson Hall interest, clarify show details (overdue — due 2026-03-11)",
+      "Confirm with Melissa that signed docs were received and sent back (overdue — due 2026-03-12)",
       "Put Store Crafters on timeline for work letter review — Malone (overdue — due 2026-03-11)",
+      "Run LOI redline comparison (Shoe Dept/Tracy) and email to Micah (overdue — due 2026-03-12)",
       "Send AI resources to Anchor team (overdue — due 2026-03-11)",
-      "Harrison Trampoline LOI (overdue — due 2026-02-27)",
-      "Send clean job description email to Micah — for recruiter Robbie",
-      "Confirm with Melissa that signed docs were received and sent back",
-      "Run LOI redline comparison (Shoe Dept/Tracy) and email to Micah"
+      "Connect with Shelby Hall — Hope Smiles TI counter (overdue — due 2026-03-12)"
     ]
   },
   "pipelineDeals": [
