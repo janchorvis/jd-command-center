@@ -459,11 +459,25 @@ def merge_updates(existing: dict, doc_title: str, doc_info: dict,
         ),
     }
 
-    # funnel
+    # funnel — merge Pipedrive counts with local "Lease Signed" count
+    # (Pipedrive marks signed deals as "won", so we count them locally)
     if funnel:
+        lease_signed_count = sum(
+            1 for d in updated.get("pipelineDeals", [])
+            if (d.get("stageOverride") or d.get("stage", "")) == "Lease Signed"
+        )
+        funnel["Lease Signed"] = lease_signed_count
         updated["funnel"] = funnel
+    else:
+        # Even without Pipedrive, keep Lease Signed count accurate
+        lease_signed_count = sum(
+            1 for d in updated.get("pipelineDeals", [])
+            if (d.get("stageOverride") or d.get("stage", "")) == "Lease Signed"
+        )
+        updated.setdefault("funnel", {})["Lease Signed"] = lease_signed_count
 
     # Deal status / nextStep from prep doc
+    # stageOverride always takes priority — never clobber it with prep doc data
     deal_updates = doc_info.get("deal_updates", {})
     if deal_updates:
         all_deals = updated.get("pipelineDeals", []) + updated.get("sideDeals", [])
@@ -474,6 +488,10 @@ def merge_updates(existing: dict, doc_title: str, doc_info: dict,
                     matched["status"] = info["status"]
                 if info.get("nextStep"):
                     matched["nextStep"] = info["nextStep"]
+                # If the deal has a stageOverride, use it — don't let prep doc clobber it
+                if matched.get("stageOverride"):
+                    matched["stage"] = matched["stageOverride"]
+                    print(f"[INFO] Preserving stageOverride for {matched.get('name', '')}: {matched['stageOverride']}")
 
     return updated
 

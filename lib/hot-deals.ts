@@ -12,17 +12,30 @@ export interface DealAction {
   type: 'email' | 'call' | 'task';
 }
 
+export type DealStage =
+  | 'Contact Made'
+  | 'Touring'
+  | 'Obtain Financials'
+  | 'Trading Terms'
+  | 'LOI'
+  | 'Lease Draft & Review'
+  | 'Lease Signed'
+  | 'Stalled';
+
 export interface PipelineDeal {
   id: string;
   name: string;
   property: string;
   status: string;
-  stage: string;
+  stage: DealStage | string;
   nextStep: string;
   priority: 'high' | 'medium' | 'low';
   timeline: TimelineEvent[];
   contacts: string[];
   actions: DealAction[];
+  stageOverride?: string;
+  stageOverrideDate?: string;
+  stageOverrideSource?: string;
 }
 
 export interface SideDeal {

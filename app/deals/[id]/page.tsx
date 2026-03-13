@@ -15,6 +15,7 @@ const typeIcons: Record<TimelineEvent['type'], string> = {
 const stageBadgeColors: Record<string, string> = {
   'LOI': 'bg-[#7a9a8a]/10 text-[#7a9a8a]',
   'Lease Draft & Review': 'bg-[#7a9a8a]/10 text-[#7a9a8a]',
+  'Lease Signed': 'bg-emerald-100 text-emerald-700',
   'Touring': 'bg-[#7a9a8a]/10 text-[#7a9a8a]',
   'Obtain Financials': 'bg-[#7a9a8a]/10 text-[#7a9a8a]',
   'Trading Terms': 'bg-[#7a9a8a]/10 text-[#7a9a8a]',

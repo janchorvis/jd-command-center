@@ -36,6 +36,75 @@ STALE_THRESHOLDS = {
     "low":    21,
 }
 
+# ─── Stage signal detection ────────────────────────────────────────────────────
+
+# Keywords in email subject/snippet that indicate a stage advancement
+STAGE_SIGNALS: dict[str, list[str]] = {
+    "Lease Signed": [
+        "complete with docusign",
+        "fully executed",
+        "lease signed",
+        "lease executed",
+        "completed: complete",
+        "signing complete",
+        "all parties signed",
+    ],
+    "LOI": [
+        "loi signed",
+        "loi executed",
+        "letter of intent signed",
+        "loi fully executed",
+    ],
+    "Lease Draft & Review": [
+        "lease draft attached",
+        "draft lease for review",
+        "lease sent for review",
+        "please review the attached lease",
+    ],
+    "Touring": [
+        "tour scheduled",
+        "showing confirmed",
+        "tour confirmation",
+        "site visit scheduled",
+    ],
+}
+
+# Forward-only ordering — only advance stages, never regress
+STAGE_ORDER = [
+    "Contact Made",
+    "Touring",
+    "Obtain Financials",
+    "Trading Terms",
+    "LOI",
+    "Lease Draft & Review",
+    "Lease Signed",
+]
+
+
+def stage_index(stage: str) -> int:
+    """Return the position of a stage in the pipeline. Returns -1 if unknown."""
+    try:
+        return STAGE_ORDER.index(stage)
+    except ValueError:
+        return -1
+
+
+def detect_stage_signal(email: dict) -> tuple[str, str] | None:
+    """
+    Scan email subject + snippet for stage-advancing keywords.
+    Returns (detected_stage, matched_phrase) or None.
+    """
+    haystack = " ".join([
+        email.get("subject", ""),
+        email.get("snippet", ""),
+    ]).lower()
+
+    for stage, phrases in STAGE_SIGNALS.items():
+        for phrase in phrases:
+            if phrase.lower() in haystack:
+                return stage, phrase
+    return None
+
 # ─── Helpers ──────────────────────────────────────────────────────────────────
 
 def load_json(path: Path) -> dict:
@@ -372,6 +441,28 @@ def match_and_update(data: dict, emails: list[dict], dry_run: bool = False) -> d
                     "email": event_text,
                     "date": event_date,
                 })
+
+            # ── Stage signal detection ──────────────────────────────────────
+            signal = detect_stage_signal(email)
+            if signal:
+                detected_stage, matched_phrase = signal
+                current_stage = deal.get("stageOverride") or deal.get("stage", "")
+                current_idx   = stage_index(current_stage)
+                detected_idx  = stage_index(detected_stage)
+
+                # Only advance forward — never regress
+                if detected_idx > current_idx:
+                    deal_name_label = deal.get("name", "Unknown")
+                    source_subject  = email.get("subject", matched_phrase)[:80]
+                    print(f'[INFO] Stage signal detected: {deal_name_label} → {detected_stage} (source: "{source_subject}")')
+
+                    if not dry_run:
+                        deal["stageOverride"]       = detected_stage
+                        deal["stageOverrideDate"]   = event_date
+                        deal["stageOverrideSource"] = f"email-signal: {matched_phrase}"
+                        deal["stage"]               = detected_stage
+                    else:
+                        print(f"  [DRY-RUN] Would set stageOverride={detected_stage} on {deal_name_label}")
 
         # Sort timeline by date descending after all insertions
         if not dry_run:

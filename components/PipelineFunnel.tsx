@@ -11,6 +11,7 @@ const stageColors: Record<string, string> = {
   'Trading Terms': 'bg-yellow-300',
   'LOI': 'bg-orange-300',
   'Lease Draft & Review': 'bg-green-300',
+  'Lease Signed': 'bg-emerald-400',
   'Stalled': 'bg-red-300',
 };
 
@@ -21,6 +22,7 @@ const stageOrder = [
   'Trading Terms',
   'LOI',
   'Lease Draft & Review',
+  'Lease Signed',
   'Stalled',
 ];
 
