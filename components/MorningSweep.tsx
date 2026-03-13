@@ -303,9 +303,49 @@ function CollapsibleLane({
 
 // --- Main Component ---
 
+const STORAGE_KEY = 'jd-sweep-state';
+
+function loadSweepFromStorage(serverGeneratedAt: string): MorningSweepType | null {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (!raw) return null;
+    const stored = JSON.parse(raw) as MorningSweepType;
+    if (stored.generatedAt === serverGeneratedAt) return stored;
+    // Stale (different day's sweep) — clear it
+    localStorage.removeItem(STORAGE_KEY);
+  } catch {
+    // localStorage unavailable or corrupt
+  }
+  return null;
+}
+
+function saveSweepToStorage(sweep: MorningSweepType): void {
+  try {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(sweep));
+  } catch {
+    // quota exceeded or unavailable — silent fail
+  }
+}
+
 export default function MorningSweep({ sweep }: MorningSweepProps) {
   const [data, setData] = useState(sweep);
+  const [mounted, setMounted] = useState(false);
   const [activeMenuId, setActiveMenuId] = useState<string | null>(null);
+
+  // After hydration, check localStorage for persisted state
+  useEffect(() => {
+    const stored = loadSweepFromStorage(sweep.generatedAt);
+    if (stored) {
+      setData(stored);
+    }
+    setMounted(true);
+  }, [sweep.generatedAt]);
+
+  // Persist to localStorage on every user-driven mutation (after mount)
+  useEffect(() => {
+    if (!mounted) return;
+    saveSweepToStorage(data);
+  }, [data, mounted]);
 
   const allItems = [
     ...data.yourPlate,

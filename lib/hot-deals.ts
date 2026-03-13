@@ -1,6 +1,5 @@
 import { readFileSync, writeFileSync } from 'fs';
 import { join } from 'path';
-import { getSweepState, clearSweepState } from './sweep-state';
 
 export interface TimelineEvent {
   date: string;
@@ -160,19 +159,3 @@ export function getDealById(data: HotDealsData, id: string): PipelineDeal | Side
   return getAllDeals(data).find(d => d.id === id);
 }
 
-export function getEffectiveSweep(): MorningSweep | undefined {
-  const base = getHotDealsData().todaySweep;
-  if (!base) return undefined;
-
-  const tmp = getSweepState();
-  if (!tmp) return base;
-
-  // If the /tmp state is from the same sweep generation, use it (has latest mutations)
-  if (tmp.generatedAt === base.generatedAt) {
-    return tmp;
-  }
-
-  // Stale /tmp state from a previous day — discard it
-  clearSweepState();
-  return base;
-}

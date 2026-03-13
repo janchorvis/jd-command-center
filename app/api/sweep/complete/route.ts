@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { getEffectiveSweep, writeHotDealsData, getHotDealsData } from '@/lib/hot-deals';
-import { saveSweepState } from '@/lib/sweep-state';
+import { writeHotDealsData, getHotDealsData } from '@/lib/hot-deals';
+import { getSweepState, saveSweepState } from '@/lib/sweep-state';
 
 export async function POST(request: NextRequest) {
   const { itemId, lane } = await request.json();
@@ -14,7 +14,12 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ error: 'Invalid lane' }, { status: 400 });
   }
 
-  const sweep = getEffectiveSweep();
+  const base = getHotDealsData().todaySweep;
+  if (!base) {
+    return NextResponse.json({ error: 'No sweep data' }, { status: 404 });
+  }
+  const tmp = getSweepState();
+  const sweep = (tmp && tmp.generatedAt === base.generatedAt) ? tmp : base;
 
   if (!sweep) {
     return NextResponse.json({ error: 'No sweep data' }, { status: 404 });

@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { fetchTasks, groupTasksByStatus } from '@/lib/asana';
 import { fetchDeals } from '@/lib/pipedrive';
-import { getHotDealsData, getEffectiveSweep } from '@/lib/hot-deals';
+import { getHotDealsData } from '@/lib/hot-deals';
 import HotDealsSection from '@/components/HotDealsSection';
 import BrainDump from '@/components/BrainDump';
 import ActionItems from '@/components/ActionItems';
@@ -23,7 +23,6 @@ export default async function Home() {
   ]);
 
   const hotDealsData = getHotDealsData();
-  const effectiveSweep = getEffectiveSweep();
   const { overdue, thisWeek } = groupTasksByStatus(tasks);
 
   return (
@@ -35,8 +34,8 @@ export default async function Home() {
       </div>
 
       {/* 1. Morning Sweep — primary daily driver */}
-      {effectiveSweep ? (
-        <MorningSweep sweep={effectiveSweep} />
+      {hotDealsData.todaySweep ? (
+        <MorningSweep sweep={hotDealsData.todaySweep} />
       ) : (
         <div className="bg-white border border-slate-200 shadow-sm rounded-xl p-5 mb-8">
           <p className="text-sm text-slate-500">Morning sweep not yet generated. Check back after 7:30 AM.</p>
