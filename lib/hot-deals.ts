@@ -1,4 +1,4 @@
-import { readFileSync } from 'fs';
+import { readFileSync, writeFileSync } from 'fs';
 import { join } from 'path';
 
 export interface TimelineEvent {
@@ -103,6 +103,14 @@ export function getHotDealsData(): HotDealsData {
   const filePath = join(process.cwd(), 'data', 'hot-deals.json');
   const raw = readFileSync(filePath, 'utf-8');
   return JSON.parse(raw) as HotDealsData;
+}
+
+export function getHotDealsPath(): string {
+  return join(process.cwd(), 'data', 'hot-deals.json');
+}
+
+export function writeHotDealsData(data: HotDealsData): void {
+  writeFileSync(getHotDealsPath(), JSON.stringify(data, null, 2));
 }
 
 export function getAllDeals(data: HotDealsData): (PipelineDeal | SideDeal)[] {

@@ -6,6 +6,7 @@ export default function BrainDump() {
   const [text, setText] = useState('');
   const [submitted, setSubmitted] = useState(false);
   const [submitting, setSubmitting] = useState(false);
+  const [lastSubmitted, setLastSubmitted] = useState('');
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
@@ -19,6 +20,7 @@ export default function BrainDump() {
         body: JSON.stringify({ text: text.trim(), timestamp: new Date().toISOString() }),
       });
       if (res.ok) {
+        setLastSubmitted(text.trim());
         setText('');
         setSubmitted(true);
         setTimeout(() => setSubmitted(false), 3000);
@@ -51,6 +53,11 @@ export default function BrainDump() {
             <span className="text-sm text-emerald-600 animate-pulse">Jarvis got it ⚡</span>
           )}
         </div>
+        {submitted && lastSubmitted && (
+          <div className="mt-2 text-xs text-slate-400">
+            ✅ Jarvis got it: {lastSubmitted.length > 50 ? lastSubmitted.slice(0, 50) + '...' : lastSubmitted}
+          </div>
+        )}
       </form>
     </div>
   );

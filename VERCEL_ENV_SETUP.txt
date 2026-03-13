@@ -1,7 +1,7 @@
 Environment Variables for Vercel Deployment
 =============================================
 
-Add these 6 variables in Vercel > Settings > Environment Variables
+Add these 7 variables in Vercel > Settings > Environment Variables
 For each one, check all three environments: Production, Preview, Development
 
 1. ASANA_TOKEN
@@ -22,4 +22,8 @@ For each one, check all three environments: Production, Preview, Development
 6. PIPEDRIVE_LEASING_PIPELINE_ID
    Value: 4
 
-After adding all 6, go back to the Deployments tab and click "Redeploy"
+7. SYNC_SECRET
+   Value: (generate a strong random secret, e.g. openssl rand -hex 32)
+   Used by: /api/deals/sync endpoint — Jarvis sends this in x-sync-secret header
+
+After adding all 7, go back to the Deployments tab and click "Redeploy"
