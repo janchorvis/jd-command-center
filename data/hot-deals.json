@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T10:33:05.310568",
+  "lastUpdated": "2026-03-13T11:30:12.234167",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/9/26",
   "today": {
     "date": "2026-03-13",
@@ -67,6 +67,11 @@
       "nextStep": "Review LOI, prepare briefing document for Micah",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-13",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
         {
           "date": "2026-03-12",
           "event": "Email from Malone Chamber of Commerce: Happy St. Patrick's Day!",
@@ -176,6 +181,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-03-13",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
+        {
           "date": "2026-03-12",
           "event": "Email from Malone Chamber of Commerce: Happy St. Patrick's Day!",
           "type": "email"
@@ -264,6 +274,16 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-13",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-13",
+          "event": "Email from ICSC Commerce + Communities Today: Prologis Goes Mixed-Use, $1.1B Savills-Eastdil Merger, $530M Lifestyle Center Sa",
+          "type": "email"
+        },
         {
           "date": "2026-03-12",
           "event": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: Montgomery Community Partners, LLC - QT ",
@@ -512,6 +532,11 @@
       "timeline": [
         {
           "date": "2026-03-13",
+          "event": "Email from ICSC Commerce + Communities Today: Prologis Goes Mixed-Use, $1.1B Savills-Eastdil Merger, $530M Lifestyle Center Sa",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-13",
           "event": "Email from CRE Daily: Retail Revives Lending",
           "type": "email"
         },
@@ -739,6 +764,11 @@
       "timeline": [
         {
           "date": "2026-03-13",
+          "event": "Email from ICSC Commerce + Communities Today: Prologis Goes Mixed-Use, $1.1B Savills-Eastdil Merger, $530M Lifestyle Center Sa",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-13",
           "event": "Email from Chain Store Age: DayBreaker: Dollar General to open new format; Whole Foods in UK expansion; Dick",
           "type": "email"
         },
@@ -897,6 +927,11 @@
       "timeline": [
         {
           "date": "2026-03-13",
+          "event": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike in Nashville",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-13",
           "event": "Email from Cole Tarlas: Cole/Jacob Lunch",
           "type": "email"
         },
@@ -1046,6 +1081,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-03-13",
+          "event": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike in Nashville",
+          "type": "email"
+        },
         {
           "date": "2026-03-13",
           "event": "Email from LinkedIn: Jacob, follow Stephen A. Smith - Journalist/Commentator at ESPN",
@@ -1219,27 +1259,6 @@
       "urgency": "low"
     },
     {
-      "name": "Paul",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Malone Chamber of Commerce: Happy St. Patrick's Day!",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
-      "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Malone Chamber of Commerce: Happy St. Patrick's Day!",
-      "urgency": "low"
-    },
-    {
-      "name": "Ajay Secore",
-      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: Montgomery Comm",
-      "urgency": "low"
-    },
-    {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
       "daysSinceContact": 1,
@@ -1268,6 +1287,27 @@
       "urgency": "low"
     },
     {
+      "name": "Paul",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Ajay Secore",
+      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
       "daysSinceContact": 0,
@@ -1278,7 +1318,7 @@
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from CRE Daily: Retail Revives Lending",
+      "lastAction": "Email from ICSC Commerce + Communities Today: Prologis Goes Mixed-Use, $1.1B Sav",
       "urgency": "low"
     },
     {
@@ -1299,49 +1339,49 @@
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Dollar General to open new format; Whole",
+      "lastAction": "Email from ICSC Commerce + Communities Today: Prologis Goes Mixed-Use, $1.1B Sav",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Cole Tarlas: Cole/Jacob Lunch",
+      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Cole Tarlas: Cole/Jacob Lunch",
+      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Cole Tarlas: Cole/Jacob Lunch",
+      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from LinkedIn: Jacob, follow Stephen A. Smith - Journalist/Commentator at ",
+      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from LinkedIn: Jacob, follow Stephen A. Smith - Journalist/Commentator at ",
+      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from LinkedIn: Jacob, follow Stephen A. Smith - Journalist/Commentator at ",
+      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
       "urgency": "low"
     }
   ],
