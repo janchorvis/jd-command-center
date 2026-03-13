@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12T21:06:47.389205",
+  "lastUpdated": "2026-03-12T21:10:36.365112",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/9/26",
   "today": {
     "date": "2026-03-12",
@@ -115,6 +115,11 @@
           "type": "email"
         },
         {
+          "date": "2026-03-03",
+          "event": "Email from Tony Grillo: Shoe Dept. Encore - Malone, NY",
+          "type": "email"
+        },
+        {
           "date": "2026-02-24",
           "event": "Discussed LOI terms with Micah",
           "type": "meeting"
@@ -196,6 +201,11 @@
         {
           "date": "2026-03-06",
           "event": "Email from Ajay Secore: Malone NY Property",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-03",
+          "event": "Email from Tony Grillo: Shoe Dept. Encore - Malone, NY",
           "type": "email"
         },
         {
@@ -284,6 +294,11 @@
           "type": "email"
         },
         {
+          "date": "2026-03-03",
+          "event": "Email from Tony Grillo: Shoe Dept. Encore - Malone, NY",
+          "type": "email"
+        },
+        {
           "date": "2026-03-02",
           "event": "Call held - sent architectural drawing + lockbox code",
           "type": "call"
@@ -326,6 +341,16 @@
         {
           "date": "2026-03-05",
           "event": "Responded to LOI with counter terms",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-04",
+          "event": "Email from Micah Lacher: Gastonia, NC follow up",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-03",
+          "event": "Email from Terrell D.: Terrell D. is requesting Information on Gastonia, NC .5-1 Acre Outparcel in Gast",
           "type": "email"
         },
         {
@@ -579,6 +604,11 @@
           "date": "2026-03-05",
           "event": "Full lease application received",
           "type": "milestone"
+        },
+        {
+          "date": "2026-03-04",
+          "event": "Email from Sam High: PCON Update 2026",
+          "type": "email"
         },
         {
           "date": "2026-02-28",
@@ -853,6 +883,11 @@
         {
           "date": "2026-03-06",
           "event": "Email from Mack Furlow: 2434 Buena Vista Pike",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-04",
+          "event": "Email from Jacob Delk: For Sale: 15 Acres - 2433 Buena Vista Pike",
           "type": "email"
         }
       ],
