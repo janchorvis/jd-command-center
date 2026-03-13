@@ -1263,6 +1263,34 @@
       "property": "Evansville",
       "lastSeen": "Week of 2/24",
       "note": "Toured and liked it - dropped from 3/2 and 3/9 docs"
+    },
+    {
+      "id": "coaches-bargainz-russellville-lease-fully-executed-feb-25",
+      "name": "Coaches Bargainz (Russellville) lease fully executed Feb 25",
+      "property": "Coaches Bargainz (Russellville) lease fully executed Feb 25",
+      "lastSeen": "Week Of 3/2/26",
+      "note": "Dropped from prep doc. Last status: AGENDA ITEMS"
+    },
+    {
+      "id": "review-five-below-loi-information-in-slack",
+      "name": "Review five below LOI. (information in Slack)",
+      "property": "Review five below LOI. (information in Slack)",
+      "lastSeen": "Week Of 3/2/26",
+      "note": "Dropped from prep doc with no status recorded."
+    },
+    {
+      "id": "runnings-marshalls-q",
+      "name": "Runnings",
+      "property": "Marshalls Q",
+      "lastSeen": "Week Of 3/2/26",
+      "note": "Dropped from prep doc. Last status: There was no definitive timeline in the lease around us getting the Memorandum of Exclusive signed by Runnings. Do we even want to try to get them to sign it, or just move on to the alternative? I can explain more in depth in our meeting."
+    },
+    {
+      "id": "emerson-tour",
+      "name": "Emerson Tour",
+      "property": "Emerson Tour",
+      "lastSeen": "Week Of 3/2/26",
+      "note": "Dropped from prep doc with no status recorded."
     }
   ],
   "staleContacts": [
@@ -1439,7 +1467,11 @@
   "actionItems": [
     {
       "title": "AI/Claude",
-      "detail": "Team vs. Individual accounts"
+      "detail": ""
+    },
+    {
+      "title": "Team vs. Individual accounts",
+      "detail": ""
     },
     {
       "title": "Job Listing",
@@ -1447,8 +1479,7 @@
     },
     {
       "title": "Feb Commissions",
-      "detail": "I prepped everything yesterday to send you my February permissions. Just leaving this here to remind myself to talk about some of the Anchor commissions so that way we don't have to do it completely over email",
-      "completed": true
+      "detail": "I prepped everything yesterday to send you my February permissions. Just leaving this here to remind myself to talk about some of the Anchor commissions so that way we don't have to do it completely over email"
     }
   ],
   "crossRefAlerts": [
@@ -2603,5 +2634,87 @@
         "completed": false
       }
     ]
+  },
+  "prepDocDiff": {
+    "generatedAt": "2026-03-13T15:00:18.450057",
+    "thisWeek": "Leasing Meeting Prep - Week of 3/9/26",
+    "lastWeek": "Leasing Meeting Prep - Week of 3/2/26",
+    "new": [
+      {
+        "name": "Malone Plaza",
+        "property": "Multiple Active Deals",
+        "status": "Five Below - They just sent back their LOI this morning. Finishing my briefing document, and then I will review and we can talk about Shoe Dept - I talked to Paul at the end of last week and will fill you in. I am revising the shared access language and going to send it back to them after this meeting Ajay Secore - Golf Simulator (New Lead) - Inbound inquiry 3/1 for Unit 3. Wants to open a golf simulator business. Has existing hat/boarding business. $100K liquid cash, ~$200K total buildout budget. Call held 3/2 - Jacob sent architectural drawing, virtual tour, and lockbox code. Prospect is engaged and following up.",
+        "nextStep": ""
+      },
+      {
+        "name": "Gastonia",
+        "property": "Dixie Village (Laundromat Space)",
+        "status": "I responded to the LOI. They are requesting an extra $30,000(from 50-80) in TI to fix the front doors and some of the side windows that have been busted. We will also need to fix this roof and most likely replace it- it is already on the asset management dashboard for this year. We are currently at 12.50 for rent. My thought is to go back to them and tell them we can give them the 30,000, and since we're going to have to replace the roof and give them HVACs. We need to bump the starting rent up $.50-1.00. I think that gets a deal done, and they seem like a good operator, and we've been sitting on this space for a while so I think we should do it.",
+        "nextStep": ""
+      },
+      {
+        "name": "Russellville ABC Retail",
+        "property": "Russellville ABC Retail",
+        "status": "Stage: Lease Draft & Review | Lease received in the mail (email from Melissa Eddy 3/3). Requires 3 hand-signed copies - not DocuSign. Melissa asking if Micah is good to sign. Need to coordinate getting copies signed and returned.",
+        "nextStep": ""
+      },
+      {
+        "name": "Charles Hawkins Co.",
+        "property": "Hotel Space",
+        "status": "Stephen Prather (Charles Hawkins Co.) submitted LOI for hotel space. Tenants are Lexy and Austin - \"very excited about getting a deal done\" and believe they'll drive traffic to the hotel. Want to be in the space ASAP but understand there are moving parts. Awaiting response.",
+        "nextStep": ""
+      },
+      {
+        "name": "Montgomery",
+        "property": "Montgomery",
+        "status": "QT Nails (1642 Atlanta HWY) - Full lease application received 3/5. QT Nails by Dwaine LLC, principals Nhung Pham and Dwaine High from Montgomery, AL. Pedicure/nail shop. Looking for 5-year term, projected opening May 1, 2026. They have another location at 3980 Atlanta HWY. Tax docs uploaded. We are working on all these to get to them. Hoping to move through this one quickly.",
+        "nextStep": ""
+      },
+      {
+        "name": "McMinnville",
+        "property": "McMinnville",
+        "status": "I've been coordinating with Jon Petty, their UPS store franchisee has interest in one of our small shops. I am going to meet them on site on the 18th. It is a good excuse to go out there in Matterport, the haunted house, and look at some other spaces as well.",
+        "nextStep": ""
+      }
+    ],
+    "dropped": [
+      {
+        "name": "Coaches Bargainz (Russellville) lease fully executed Feb 25",
+        "property": "Coaches Bargainz (Russellville) lease fully executed Feb 25",
+        "lastStatus": "AGENDA ITEMS"
+      },
+      {
+        "name": "Review five below LOI. (information in Slack)",
+        "property": "Review five below LOI. (information in Slack)",
+        "lastStatus": ""
+      },
+      {
+        "name": "Runnings",
+        "property": "Marshalls Q",
+        "lastStatus": "There was no definitive timeline in the lease around us getting the Memorandum of Exclusive signed by Runnings. Do we even want to try to get them to sign it, or just move on to the alternative? I can explain more in depth in our meeting."
+      },
+      {
+        "name": "Emerson Tour",
+        "property": "Emerson Tour",
+        "lastStatus": ""
+      }
+    ],
+    "progressed": [],
+    "stalled": [],
+    "updated": [
+      {
+        "name": "Hope Smiles",
+        "property": "Hope Smiles",
+        "from": "",
+        "to": "All good here. Hoping to connect with Shelby after this"
+      },
+      {
+        "name": "Buena Vista",
+        "property": "Buena Vista",
+        "from": "",
+        "to": "Do you have more documents besides this folder? Asking in light of looking for a survey, etc."
+      }
+    ],
+    "noChange": []
   }
 }
