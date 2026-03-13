@@ -1,18 +1,38 @@
 {
-  "lastUpdated": "2026-03-12T20:44:51.466672",
+  "lastUpdated": "2026-03-12T20:57:54.343399",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/9/26",
   "today": {
     "date": "2026-03-12",
     "greeting": "Good evening, Jacob. Happy Thursday.",
     "meetings": [
       {
-        "time": "11:30 AM",
-        "title": "Coffee with John Hardy (Hideout 8th Ave)",
+        "time": "12:00 AM",
+        "title": "Parker (9-2)",
         "dealContext": null
       },
       {
-        "time": "9:00 - 2:00",
-        "title": "Parker (Intern)",
+        "time": "6:00 AM",
+        "title": "Carter Bible Study Green Hills Mall",
+        "dealContext": null
+      },
+      {
+        "time": "8:00 AM",
+        "title": "Jacob Delk & Jack Beachboard Coffee",
+        "dealContext": null
+      },
+      {
+        "time": "11:30 AM",
+        "title": "Hideout 8th Ave -JD x JH ",
+        "dealContext": null
+      },
+      {
+        "time": "1:30 PM",
+        "title": "Jacob / Carson",
+        "dealContext": null
+      },
+      {
+        "time": "5:00 PM",
+        "title": "Anchor Trash Cans",
         "dealContext": null
       }
     ],
@@ -36,7 +56,7 @@
       "timeline": [
         {
           "date": "2026-03-12",
-          "event": "Kevin Trujillo \u2014 Re: River Parkway Plaza - LOI - CosmoProf [6 msgs]",
+          "event": "Kevin Trujillo — Re: River Parkway Plaza - LOI - CosmoProf [6 msgs]",
           "type": "email"
         },
         {
@@ -46,7 +66,7 @@
         },
         {
           "date": "2026-03-11",
-          "event": "Steven Silverman \u2014 \u00b113% Cap Rate! | Terre Haute Plaza | Auction April 13-15",
+          "event": "Steven Silverman — ±13% Cap Rate! | Terre Haute Plaza | Auction April 13-15",
           "type": "email"
         },
         {
@@ -244,7 +264,7 @@
       "timeline": [
         {
           "date": "2026-03-12",
-          "event": "Melissa Eddy via Vimcal \u2014 Canceled event with note: 930 Prayer for Anchor  (from meddy@anchorinv.com)",
+          "event": "Melissa Eddy via Vimcal — Canceled event with note: 930 Prayer for Anchor  (from meddy@anchorinv.com)",
           "type": "email"
         },
         {
@@ -289,7 +309,7 @@
         },
         {
           "date": "2026-03-12",
-          "event": "Donnie Thomas \u2014 Emerson Hall [3 msgs]",
+          "event": "Donnie Thomas — Emerson Hall [3 msgs]",
           "type": "email"
         },
         {
@@ -344,7 +364,7 @@
         },
         {
           "date": "2026-03-12",
-          "event": "Micah Lacher \u2014 Fwd: Completed: Complete with Docusign: Montgomery Community Partners, LLC - QT Nails by Dwaine LLC QT Na",
+          "event": "Micah Lacher — Fwd: Completed: Complete with Docusign: Montgomery Community Partners, LLC - QT Nails by Dwaine LLC QT Na",
           "type": "email"
         },
         {
@@ -555,7 +575,7 @@
       "timeline": [
         {
           "date": "2026-03-11",
-          "event": "Micah Lacher \u2014 Invitation: 11am: Entertainment Venue Catch Up (The Gallatin) @ Tue Mar 17, 2026 11am - 11:30am (CDT) (Ja",
+          "event": "Micah Lacher — Invitation: 11am: Entertainment Venue Catch Up (The Gallatin) @ Tue Mar 17, 2026 11am - 11:30am (CDT) (Ja",
           "type": "email"
         },
         {
@@ -626,35 +646,35 @@
   "staleContacts": [
     {
       "name": "Steven Silverman",
-      "deal": "Five Below \u2014 Malone Plaza",
+      "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 1,
-      "lastAction": "\u00b113% Cap Rate! | Terre Haute Plaza | Auction April 13-15",
+      "lastAction": "±13% Cap Rate! | Terre Haute Plaza | Auction April 13-15",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy via Vimcal",
-      "deal": "ABC Retail \u2014 Russellville",
+      "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
       "lastAction": "Canceled event with note: 930 Prayer for Anchor  (from meddy",
       "urgency": "low"
     },
     {
       "name": "Kevin Trujillo",
-      "deal": "Five Below \u2014 Malone Plaza",
+      "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
       "lastAction": "Re: River Parkway Plaza - LOI - CosmoProf",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
-      "deal": "QT Nails \u2014 Montgomery (1642 Atlanta HWY)",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
       "daysSinceContact": 0,
       "lastAction": "Fwd: Completed: Complete with Docusign: Montgomery Community",
       "urgency": "low"
     },
     {
       "name": "Donnie Thomas",
-      "deal": "Charles Hawkins Co. \u2014 Emerson Hall - Hotel Space",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
       "lastAction": "Emerson Hall",
       "urgency": "low"
@@ -663,8 +683,8 @@
   "weeklyDiff": {
     "weekOf": "3/9/26",
     "advanced": [
-      "QT Nails: Application received \u2192 Lease sent for signature",
-      "Coaches Bargainz: Lease draft \u2192 Tenant welcome email sent",
+      "QT Nails: Application received → Lease sent for signature",
+      "Coaches Bargainz: Lease draft → Tenant welcome email sent",
       "HopeSmiles: Counter sent ($27/SF + $60-65 TI)"
     ],
     "newLeads": [
@@ -683,13 +703,13 @@
     ]
   },
   "funnel": {
-    "Contact Made": 5,
-    "Touring": 8,
-    "Obtain Financials": 3,
+    "Contact Made": 3,
+    "Touring": 4,
+    "Obtain Financials": 1,
     "Trading Terms": 2,
-    "LOI": 6,
+    "LOI": 5,
     "Lease Draft & Review": 4,
-    "Stalled": 12
+    "Stalled": 32
   },
   "brainDumps": []
 }
