@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12T20:57:54.343399",
+  "lastUpdated": "2026-03-12T20:58:04.718695",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/9/26",
   "today": {
     "date": "2026-03-12",
@@ -56,7 +56,22 @@
       "timeline": [
         {
           "date": "2026-03-12",
+          "event": "Email from Malone Chamber of Commerce: Happy St. Patrick's Day!",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-12",
+          "event": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-12",
           "event": "Kevin Trujillo — Re: River Parkway Plaza - LOI - CosmoProf [6 msgs]",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
         },
         {
@@ -70,6 +85,21 @@
           "type": "email"
         },
         {
+          "date": "2026-03-10",
+          "event": "Email from Jon Petty: FW: Hope Smiles- Donelson Plaza",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnville- The Hut, Russellvil",
+          "type": "email"
+        },
+        {
           "date": "2026-03-09",
           "event": "LOI received from Five Below",
           "type": "milestone"
@@ -77,6 +107,11 @@
         {
           "date": "2026-03-07",
           "event": "Sent LOI proposal",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-06",
+          "event": "Email from Ajay Secore: Malone NY Property",
           "type": "email"
         },
         {
@@ -114,6 +149,41 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-03-12",
+          "event": "Email from Malone Chamber of Commerce: Happy St. Patrick's Day!",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-12",
+          "event": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Email from Steven Silverman: ±13% Cap Rate! | Terre Haute Plaza | Auction April 13-15",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-10",
+          "event": "Email from Jon Petty: FW: Hope Smiles- Donelson Plaza",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnville- The Hut, Russellvil",
+          "type": "email"
+        },
+        {
           "date": "2026-03-09",
           "event": "Discussed shared access language with Paul",
           "type": "call"
@@ -121,6 +191,11 @@
         {
           "date": "2026-03-07",
           "event": "Received lease draft feedback",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-06",
+          "event": "Email from Ajay Secore: Malone NY Property",
           "type": "email"
         },
         {
@@ -148,6 +223,66 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-12",
+          "event": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: Montgomery Community Partners, LLC - QT ",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-12",
+          "event": "Email from Malone Chamber of Commerce: Happy St. Patrick's Day!",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-12",
+          "event": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Email from Derek Tucker: Big Lots, 1840 E Michigan Rd, Shelbyville, IN 46176, United States, PID: 1339630",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Email from Baudett, Carlos: Opportunities to maximize your presence at ICSC LAS VEGAS",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Email from Steven Silverman: ±13% Cap Rate! | Terre Haute Plaza | Auction April 13-15",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-10",
+          "event": "Email from Jon Petty: FW: Hope Smiles- Donelson Plaza",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnville- The Hut, Russellvil",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-07",
+          "event": "Email from Jon Isbell: 1032 Vann Dr, Jackson, TN 38305, United States, PID: 6847238",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-06",
+          "event": "Email from Ajay Secore: Malone NY Property",
+          "type": "email"
+        },
         {
           "date": "2026-03-02",
           "event": "Call held - sent architectural drawing + lockbox code",
@@ -178,6 +313,11 @@
       "nextStep": "Counter: grant $30K extra TI, bump rent $0.50-1.00/SF",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-12",
+          "event": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
+          "type": "email"
+        },
         {
           "date": "2026-03-12",
           "event": "Kate Yoon inquiry - Ste 2591, Dixie Village [3-msg thread]",
@@ -218,6 +358,16 @@
       "nextStep": "Call Derek Tucker back",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-11",
+          "event": "Email from Jacob Delk: Shelbyville Big Lots",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Email from Derek Tucker: Big Lots, 1840 E Michigan Rd, Shelbyville, IN 46176, United States, PID: 1339630",
+          "type": "email"
+        },
         {
           "date": "2026-03-11",
           "event": "Derek Tucker - Big Lots / Shelbyville CoStar listing [11-msg thread]",
@@ -268,6 +418,11 @@
           "type": "email"
         },
         {
+          "date": "2026-03-09",
+          "event": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnville- The Hut, Russellvil",
+          "type": "email"
+        },
+        {
           "date": "2026-03-03",
           "event": "Lease received in mail from Melissa Eddy",
           "type": "milestone"
@@ -299,6 +454,21 @@
       "timeline": [
         {
           "date": "2026-03-12",
+          "event": "Email from Shelby Hall: HopeSmiles",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-12",
+          "event": "Email from R. Stephen Prather: Lexy and Austin",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-12",
+          "event": "Email from Donnie Thomas: Emerson Hall",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-12",
           "event": "Stephen Prather - 'Lexy and Austin' update [12-msg thread]",
           "type": "email"
         },
@@ -314,13 +484,38 @@
         },
         {
           "date": "2026-03-11",
+          "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Email from Google Workspace Alerts: Alert: Gmail potential employee spoofing  from  Micah Lacher <info@alumni.strata",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
           "event": "Jacob sent: Shelby County Office Space",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnville- The Hut, Russellvil",
           "type": "email"
         },
         {
           "date": "2026-03-09",
           "event": "LOI submitted by Stephen Prather",
           "type": "milestone"
+        },
+        {
+          "date": "2026-03-06",
+          "event": "Email from Kellen Rooney: 803-1025 Martin St S - Space Inquiry",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-06",
+          "event": "Email from R. Stephen Prather: Let's Do a Deal",
+          "type": "email"
         },
         {
           "date": "2026-03-04",
@@ -359,12 +554,22 @@
       "timeline": [
         {
           "date": "2026-03-12",
+          "event": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: Montgomery Community Partners, LLC - QT ",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-12",
           "event": "Lease sent for signature",
           "type": "milestone"
         },
         {
           "date": "2026-03-12",
           "event": "Micah Lacher — Fwd: Completed: Complete with Docusign: Montgomery Community Partners, LLC - QT Nails by Dwaine LLC QT Na",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-06",
+          "event": "Email from Nhung Pham: Re: Lease Application - Nhung Pham",
           "type": "email"
         },
         {
@@ -399,8 +604,23 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-03-12",
+          "event": "Email from Chain Store Age: DayBreaker: Target cuts prices again; Quince in big valuation; Shopping center v",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-10",
+          "event": "Email from Jon Petty: FW: Hope Smiles- Donelson Plaza",
+          "type": "email"
+        },
+        {
           "date": "2026-03-10",
           "event": "Jon Petty - Hope Smiles / Donelson Plaza [16-msg thread]",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnville- The Hut, Russellvil",
           "type": "email"
         },
         {
@@ -436,9 +656,39 @@
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
+          "date": "2026-03-12",
+          "event": "Email from Shelby Hall: HopeSmiles",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-12",
+          "event": "Email from Donnie Thomas: Emerson Hall",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Email from Jacob Delk: Shelbyville Big Lots",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Email from Derek Tucker: Big Lots, 1840 E Michigan Rd, Shelbyville, IN 46176, United States, PID: 1339630",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Email from Jacob Delk: Shelby County Office Space",
+          "type": "email"
+        },
+        {
           "date": "2026-03-11",
           "event": "Counter sent: $27/SF + $60-65/SF TI",
           "type": "milestone"
+        },
+        {
+          "date": "2026-03-10",
+          "event": "Email from Jacob Delk: RFP- Hope Smiles - Cool Springs Commons",
+          "type": "email"
         },
         {
           "date": "2026-03-10",
@@ -448,6 +698,11 @@
         {
           "date": "2026-03-10",
           "event": "Jon Petty forwarded Hope Smiles - Donelson Plaza thread",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnville- The Hut, Russellvil",
           "type": "email"
         },
         {
@@ -493,6 +748,41 @@
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
+          "date": "2026-03-12",
+          "event": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our second prospective coffee of 2026 on April",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-12",
+          "event": "Email from Phoenix Club of Nashville: Please share feedback about Jack Beachboard",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-12",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Barrett Freeman",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-12",
+          "event": "Email from Nashville Business Journal: Plant Your Sustainability Story in Front of the Right Audience  ",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Email from Madeline Forte: 2433 Buena Vista Pike",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Email from Drew Mixson: Request for Sewer Information 2433 Buena Vista Pike Nashville TN",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Jim Briggs",
+          "type": "email"
+        },
+        {
           "date": "2026-03-11",
           "event": "DR Horton outreach drafted",
           "type": "email"
@@ -510,6 +800,21 @@
         {
           "date": "2026-03-11",
           "event": "Madeline Forte (Pedcor) - 2433 Buena Vista Pike inquiry [3 msgs]",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Email from Dunn, Michael @ Nashville: 2433 Buena Vista Pike",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Email from Ryan Sullivan: 2433 Buena Vista Pike, Nashville - LAC Interest",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Email from Jrobbins@terravest.net: Listing Inquiry - 2433 Buena Vista Pike, Nashville TN",
           "type": "email"
         },
         {
@@ -540,6 +845,11 @@
         {
           "date": "2026-03-09",
           "event": "Jacob sent: Buena Vista - Drive Folder + Dirt Company to Micah",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-06",
+          "event": "Email from Mack Furlow: 2434 Buena Vista Pike",
           "type": "email"
         }
       ],
@@ -574,14 +884,94 @@
       "lastUpdate": "2026-03-09",
       "timeline": [
         {
+          "date": "2026-03-12",
+          "event": "Email from Shelby Hall: HopeSmiles",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-12",
+          "event": "Email from R. Stephen Prather: Lexy and Austin",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-12",
+          "event": "Email from Donnie Thomas: Emerson Hall",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-12",
+          "event": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our second prospective coffee of 2026 on April",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-12",
+          "event": "Email from Phoenix Club of Nashville: Please share feedback about Jack Beachboard",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-12",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Barrett Freeman",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-12",
+          "event": "Email from Nashville Business Journal: Plant Your Sustainability Story in Front of the Right Audience  ",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Email from Drew Mixson: Request for Sewer Information 2433 Buena Vista Pike Nashville TN",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Email from Micah Lacher: Invitation: 11am: Entertainment Venue Catch Up (The Gallatin) @ Tue Mar 17, 2026",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-11",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Jim Briggs",
+          "type": "email"
+        },
+        {
           "date": "2026-03-11",
           "event": "Micah Lacher — Invitation: 11am: Entertainment Venue Catch Up (The Gallatin) @ Tue Mar 17, 2026 11am - 11:30am (CDT) (Ja",
           "type": "email"
         },
         {
           "date": "2026-03-09",
+          "event": "Email from Dunn, Michael @ Nashville: 2433 Buena Vista Pike",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Email from Ryan Sullivan: 2433 Buena Vista Pike, Nashville - LAC Interest",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Email from Jrobbins@terravest.net: Listing Inquiry - 2433 Buena Vista Pike, Nashville TN",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
+          "event": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnville- The Hut, Russellvil",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-09",
           "event": "Hawkins LOI submitted via Stephen Prather",
           "type": "milestone"
+        },
+        {
+          "date": "2026-03-06",
+          "event": "Email from Mack Furlow: 2434 Buena Vista Pike",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-06",
+          "event": "Email from R. Stephen Prather: Let's Do a Deal",
+          "type": "email"
         },
         {
           "date": "2026-03-04",
@@ -645,38 +1035,136 @@
   ],
   "staleContacts": [
     {
-      "name": "Steven Silverman",
-      "deal": "Five Below — Malone Plaza",
+      "name": "Derek Tucker",
+      "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
       "daysSinceContact": 1,
-      "lastAction": "±13% Cap Rate! | Terre Haute Plaza | Auction April 13-15",
+      "lastAction": "Email from Jacob Delk: Shelbyville Big Lots",
       "urgency": "low"
     },
     {
-      "name": "Melissa Eddy via Vimcal",
+      "name": "Paul",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Malone Chamber of Commerce: Happy St. Patrick's Day!",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Malone Chamber of Commerce: Happy St. Patrick's Day!",
+      "urgency": "low"
+    },
+    {
+      "name": "Ajay Secore",
+      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: Montgomery Comm",
+      "urgency": "low"
+    },
+    {
+      "name": "Chad Vang",
+      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
+      "urgency": "low"
+    },
+    {
+      "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Canceled event with note: 930 Prayer for Anchor  (from meddy",
+      "lastAction": "Melissa Eddy via Vimcal — Canceled event with note: 930 Prayer for Anchor  (from",
       "urgency": "low"
     },
     {
-      "name": "Kevin Trujillo",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Re: River Parkway Plaza - LOI - CosmoProf",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 0,
-      "lastAction": "Fwd: Completed: Complete with Docusign: Montgomery Community",
-      "urgency": "low"
-    },
-    {
-      "name": "Donnie Thomas",
+      "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Emerson Hall",
+      "lastAction": "Email from Shelby Hall: HopeSmiles",
+      "urgency": "low"
+    },
+    {
+      "name": "Lexy & Austin",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Shelby Hall: HopeSmiles",
+      "urgency": "low"
+    },
+    {
+      "name": "Nhung Pham",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: Montgomery Comm",
+      "urgency": "low"
+    },
+    {
+      "name": "Dwaine High",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: Montgomery Comm",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Target cuts prices again; Quince in big ",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Shelby Hall: HopeSmiles",
+      "urgency": "low"
+    },
+    {
+      "name": "Shelby Hall",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Shelby Hall: HopeSmiles",
+      "urgency": "low"
+    },
+    {
+      "name": "Julie Robbins",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our seco",
+      "urgency": "low"
+    },
+    {
+      "name": "Michael Dunn",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our seco",
+      "urgency": "low"
+    },
+    {
+      "name": "Cole @ DR Horton",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our seco",
+      "urgency": "low"
+    },
+    {
+      "name": "Charles Hawkins",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Shelby Hall: HopeSmiles",
+      "urgency": "low"
+    },
+    {
+      "name": "Brether group",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Shelby Hall: HopeSmiles",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Shelby Hall: HopeSmiles",
       "urgency": "low"
     }
   ],
