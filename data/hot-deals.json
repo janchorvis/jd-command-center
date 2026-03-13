@@ -1238,5 +1238,19 @@
     "Lease Signed": 0,
     "Stalled": 32
   },
-  "brainDumps": []
+  "brainDumps": [],
+  "actionItems": [
+    {
+      "title": "AI/Claude",
+      "detail": "Team vs. Individual accounts"
+    },
+    {
+      "title": "Job Listing",
+      "detail": "I texted Luke at the end of last week, just letting him know we were going to launch a job listing in the next couple of weeks. Can you let me know what I need to do with the recruiter in order to launch it, or if you'd rather wait one more week?"
+    },
+    {
+      "title": "Feb Commissions",
+      "detail": "I prepped everything yesterday to send you my February permissions. Just leaving this here to remind myself to talk about some of the Anchor commissions so that way we don't have to do it completely over email"
+    }
+  ]
 }

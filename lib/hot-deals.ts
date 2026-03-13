@@ -99,6 +99,11 @@ export interface BrainDump {
   processed: boolean;
 }
 
+export interface ActionItem {
+  title: string;
+  detail: string;
+}
+
 export interface HotDealsData {
   lastUpdated: string;
   sourceDoc: string;
@@ -110,6 +115,7 @@ export interface HotDealsData {
   weeklyDiff: WeeklyDiff;
   funnel: FunnelData;
   brainDumps: BrainDump[];
+  actionItems: ActionItem[];
 }
 
 export function getHotDealsData(): HotDealsData {

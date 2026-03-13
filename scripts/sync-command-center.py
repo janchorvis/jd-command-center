@@ -763,10 +763,14 @@ def merge_updates(existing: dict, doc_title: str, doc_info: dict,
                   meetings: list, funnel: dict) -> dict:
     """
     Merge live data into the existing hot-deals.json structure.
-    PRESERVES: timelines, contacts, actions, droppedBalls, staleContacts, weeklyDiff, brainDumps
+    PRESERVES: timelines, contacts, actions, droppedBalls, staleContacts, weeklyDiff, brainDumps, actionItems
     UPDATES: lastUpdated, sourceDoc, today, funnel, deal status/nextStep from prep doc
     """
     updated = json.loads(json.dumps(existing))  # deep copy
+
+    # Preserve actionItems — these are written by prep-doc-diff.py, not sync
+    # (sync only touches today/funnel/deal statuses from live sources)
+    # actionItems is already in `updated` via the deep copy above — no action needed.
 
     # lastUpdated
     updated["lastUpdated"] = datetime.now().isoformat()

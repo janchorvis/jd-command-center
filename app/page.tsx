@@ -7,6 +7,7 @@ import StaleContacts from '@/components/StaleContacts';
 import WeeklyDiff from '@/components/WeeklyDiff';
 import PipelineFunnel from '@/components/PipelineFunnel';
 import BrainDump from '@/components/BrainDump';
+import ActionItems from '@/components/ActionItems';
 
 export const dynamic = 'force-dynamic';
 
@@ -104,6 +105,9 @@ export default async function Home() {
 
       {/* Weekly Diff */}
       <WeeklyDiff diff={hotDealsData.weeklyDiff} />
+
+      {/* Action Items from prep doc */}
+      <ActionItems items={hotDealsData.actionItems ?? []} />
 
       {/* Pipeline Funnel + Brain Dump side by side */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-8">

@@ -251,13 +251,32 @@ def parse_prep_doc_deals(doc_text: str) -> list:
         re.IGNORECASE,
     )
 
-    # Non-deal agenda items that should be filtered out
-    NON_DEAL_HEADERS = re.compile(
-        r'^(wins|agenda items?|ai[/\s]|team vs|job listing|feb\s+commissions?|'
-        r'commissions?|expense|misc|other|admin|internal|'
-        r'prepared\s|recruitment|hiring|hr\b|staffing)',
+    # Non-deal agenda items — some are section headers to skip entirely,
+    # others should be captured as action items
+    SKIP_HEADERS = re.compile(
+        r'^(wins\b|agenda items?|prepared\s)',
         re.IGNORECASE,
     )
+    NON_DEAL_HEADERS = re.compile(
+        r'^(ai[/\s]|team vs|job listing|feb\s+commissions?|'
+        r'commissions?|expense|misc|other|admin|internal|'
+        r'recruitment|hiring|hr\b|staffing)',
+        re.IGNORECASE,
+    )
+
+    # Storage for captured action items
+    action_items: list = []
+    current_action_title: str | None = None
+    current_action_lines: list = []
+
+    def _flush_action():
+        """Save current action item to list."""
+        nonlocal current_action_title, current_action_lines
+        if current_action_title:
+            detail = " ".join(current_action_lines).strip()
+            action_items.append({"title": current_action_title, "detail": detail})
+        current_action_title = None
+        current_action_lines = []
 
     for raw_line in lines:
         stripped = raw_line.strip()
@@ -287,6 +306,9 @@ def parse_prep_doc_deals(doc_text: str) -> list:
             collecting = None
             if current_header:
                 current_lines.append("")
+            elif current_action_title:
+                # Empty line ends accumulation for action item body
+                pass
             continue
 
         # ── Detect new deal header ────────────────────────────────────────
@@ -306,11 +328,22 @@ def parse_prep_doc_deals(doc_text: str) -> list:
         )
 
         if is_header:
-            # Skip non-deal agenda items
-            if NON_DEAL_HEADERS.match(stripped):
+            # Skip section-header-only non-deal items (wins, agenda items, prepared)
+            if SKIP_HEADERS.match(stripped):
                 _flush()
+                _flush_action()
                 current_header = None
                 collecting = None
+                continue
+
+            # Capture non-deal agenda items as action items
+            if NON_DEAL_HEADERS.match(stripped):
+                _flush()
+                _flush_action()
+                current_action_title = stripped
+                current_action_lines = []
+                collecting = None
+                current_header = None
                 continue
 
             # Check if this looks like a deal header vs generic text.
@@ -349,9 +382,13 @@ def parse_prep_doc_deals(doc_text: str) -> list:
                 current_status.append(stripped)
             elif collecting == 'next':
                 current_next.append(stripped)
+        elif current_action_title:
+            # Accumulate body text for action item
+            current_action_lines.append(stripped)
 
-    _flush()  # Save last deal
-    return deals
+    _flush()        # Save last deal
+    _flush_action() # Save last action item
+    return deals, action_items
 
 
 # ─── Fuzzy matching ───────────────────────────────────────────────────────────
@@ -705,11 +742,12 @@ def main():
 
     # Parse deal blocks from both docs
     print("\n[INFO] Parsing deal blocks...")
-    this_deals = parse_prep_doc_deals(this_text)
-    last_deals = parse_prep_doc_deals(last_text)
+    this_deals, this_action_items = parse_prep_doc_deals(this_text)
+    last_deals, _ = parse_prep_doc_deals(last_text)
 
     print(f"[INFO] This week: {len(this_deals)} deals found")
     print(f"[INFO] Last week: {len(last_deals)} deals found")
+    print(f"[INFO] Action items found: {len(this_action_items)}")
 
     if args.verbose:
         print("\n--- This week's deals ---")
@@ -761,11 +799,22 @@ def main():
         print(json.dumps(diff, indent=2))
         if dropped_deals:
             print(f"\n[DRY-RUN] {len(dropped_deals)} deals would be added to droppedBalls")
+        if this_action_items:
+            print(f"\n[DRY-RUN] {len(this_action_items)} action items would be written:")
+            for item in this_action_items:
+                print(f"  · {item['title']}: {item['detail'][:80]}")
         print("\n[DRY-RUN] No files written.")
         return
 
     # Write to hot-deals.json
     existing_data["prepDocDiff"] = diff
+
+    # Write action items (replace entirely — these come fresh from this week's doc)
+    if this_action_items:
+        existing_data["actionItems"] = this_action_items
+        print(f"[INFO] Wrote {len(this_action_items)} action items.")
+        for item in this_action_items:
+            print(f"  · {item['title']}: {item['detail'][:60]}...")
 
     # Update droppedBalls
     if dropped_deals:
