@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-03-12T21:10:36.365112",
+  "lastUpdated": "2026-03-12T22:21:46.169978",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/9/26",
   "today": {
     "date": "2026-03-12",
-    "greeting": "Good evening, Jacob. Happy Thursday.",
+    "greeting": "Good evening, Jacob. You have 5 overdue items.",
     "meetings": [
       {
         "time": "12:00 AM",
@@ -37,11 +37,14 @@
       }
     ],
     "priorities": [
-      "Call Derek Tucker back - Anytime Fitness LOI",
-      "Follow up with Shelby Hall - HopeSmiles counter (deadline 3/14)",
-      "Review Five Below LOI with Micah",
-      "Process QT Nails lease application",
-      "Call Parker (intern)"
+      "Follow up on Charles Hawkins guarantor financials — Emerson Hall (overdue — due 2026-03-11)",
+      "Call Brether group — Emerson Hall interest, clarify show details (overdue — due 2026-03-11)",
+      "Put Store Crafters on timeline for work letter review — Malone (overdue — due 2026-03-11)",
+      "Send AI resources to Anchor team (overdue — due 2026-03-11)",
+      "Harrison Trampoline LOI (overdue — due 2026-02-27)",
+      "Send clean job description email to Micah — for recruiter Robbie",
+      "Confirm with Melissa that signed docs were received and sent back",
+      "Run LOI redline comparison (Shoe Dept/Tracy) and email to Micah"
     ]
   },
   "pipelineDeals": [
@@ -142,7 +145,16 @@
           "label": "Draft counter to Five Below",
           "type": "email"
         }
-      ]
+      ],
+      "rentComps": {
+        "property": "Malone",
+        "avgRate": null,
+        "minRate": null,
+        "maxRate": null,
+        "avgSqFt": 7342,
+        "suiteCount": 2,
+        "vacantCount": 0
+      }
     },
     {
       "id": "malone-shoe-dept",
@@ -222,7 +234,16 @@
           "label": "Send revised access language",
           "type": "email"
         }
-      ]
+      ],
+      "rentComps": {
+        "property": "Malone",
+        "avgRate": null,
+        "minRate": null,
+        "maxRate": null,
+        "avgSqFt": 7342,
+        "suiteCount": 2,
+        "vacantCount": 0
+      }
     },
     {
       "id": "malone-golf-sim",
@@ -317,7 +338,16 @@
           "label": "Follow up on tour",
           "type": "call"
         }
-      ]
+      ],
+      "rentComps": {
+        "property": "Malone",
+        "avgRate": null,
+        "minRate": null,
+        "maxRate": null,
+        "avgSqFt": 7342,
+        "suiteCount": 2,
+        "vacantCount": 0
+      }
     },
     {
       "id": "gastonia-laundromat",
@@ -372,7 +402,16 @@
           "label": "Send TI counter",
           "type": "email"
         }
-      ]
+      ],
+      "rentComps": {
+        "property": "Gastonia",
+        "avgRate": null,
+        "minRate": null,
+        "maxRate": null,
+        "avgSqFt": 9209,
+        "suiteCount": 23,
+        "vacantCount": 0
+      }
     },
     {
       "id": "shelbyville-anytime",
@@ -426,7 +465,16 @@
           "label": "Draft LOI terms",
           "type": "task"
         }
-      ]
+      ],
+      "rentComps": {
+        "property": "Shelbyville",
+        "avgRate": null,
+        "minRate": null,
+        "maxRate": null,
+        "avgSqFt": null,
+        "suiteCount": 3,
+        "vacantCount": 0
+      }
     },
     {
       "id": "russellville-abc",
@@ -466,7 +514,16 @@
           "label": "Get Micah to sign",
           "type": "task"
         }
-      ]
+      ],
+      "rentComps": {
+        "property": "Russellville",
+        "avgRate": null,
+        "minRate": null,
+        "maxRate": null,
+        "avgSqFt": 5908,
+        "suiteCount": 18,
+        "vacantCount": 0
+      }
     },
     {
       "id": "emerson-hawkins",
@@ -625,7 +682,16 @@
           "label": "Process application",
           "type": "task"
         }
-      ]
+      ],
+      "rentComps": {
+        "property": "Montgomery",
+        "avgRate": 14.0,
+        "minRate": 14.0,
+        "maxRate": 14.0,
+        "avgSqFt": 4405,
+        "suiteCount": 19,
+        "vacantCount": 0
+      }
     },
     {
       "id": "mcminnville-ups",
@@ -670,7 +736,16 @@
           "label": "Prep for 3/18 site visit",
           "type": "task"
         }
-      ]
+      ],
+      "rentComps": {
+        "property": "McMinnville",
+        "avgRate": null,
+        "minRate": null,
+        "maxRate": null,
+        "avgSqFt": 3255,
+        "suiteCount": 45,
+        "vacantCount": 0
+      }
     }
   ],
   "sideDeals": [
@@ -1031,7 +1106,16 @@
           "label": "Follow up Hawkins financials",
           "type": "call"
         }
-      ]
+      ],
+      "rentComps": {
+        "property": "Gallatin",
+        "avgRate": null,
+        "minRate": null,
+        "maxRate": null,
+        "avgSqFt": 12304,
+        "suiteCount": 2,
+        "vacantCount": 0
+      }
     }
   ],
   "droppedBalls": [
@@ -1235,8 +1319,8 @@
     "Trading Terms": 2,
     "LOI": 5,
     "Lease Draft & Review": 4,
-    "Lease Signed": 0,
-    "Stalled": 32
+    "Stalled": 32,
+    "Lease Signed": 1
   },
   "brainDumps": [],
   "actionItems": [
@@ -1250,7 +1334,8 @@
     },
     {
       "title": "Feb Commissions",
-      "detail": "I prepped everything yesterday to send you my February permissions. Just leaving this here to remind myself to talk about some of the Anchor commissions so that way we don't have to do it completely over email"
+      "detail": "I prepped everything yesterday to send you my February permissions. Just leaving this here to remind myself to talk about some of the Anchor commissions so that way we don't have to do it completely over email",
+      "completed": true
     }
   ]
 }
