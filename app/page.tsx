@@ -5,6 +5,7 @@ import { getHotDealsData } from '@/lib/hot-deals';
 import HotDealsSection from '@/components/HotDealsSection';
 import BrainDump from '@/components/BrainDump';
 import ActionItems from '@/components/ActionItems';
+import MorningSweep from '@/components/MorningSweep';
 
 export const dynamic = 'force-dynamic';
 
@@ -32,40 +33,30 @@ export default async function Home() {
         <p className="text-slate-500">{hotDealsData.today.greeting}</p>
       </div>
 
-      {/* 1. Today's Schedule + Top Priorities */}
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-8">
-        {/* Meetings */}
-        <div className="bg-white border border-slate-200 shadow-sm rounded-xl p-5">
-          <h2 className="text-sm font-semibold text-slate-500 uppercase tracking-wider mb-3">Today&apos;s Schedule</h2>
-          <div className="space-y-2">
-            {hotDealsData.today.meetings.map((meeting, i) => (
-              <div key={i} className="flex items-start gap-3">
-                <span className="text-sm text-[#3b82f6] font-medium shrink-0 w-28">{meeting.time}</span>
-                <div>
-                  <p className="text-sm text-slate-900">{meeting.title}</p>
-                  {meeting.dealContext && (
-                    <p className="text-xs text-slate-500 mt-0.5">{meeting.dealContext}</p>
-                  )}
-                </div>
-              </div>
-            ))}
-          </div>
+      {/* 1. Morning Sweep — primary daily driver */}
+      {hotDealsData.todaySweep ? (
+        <MorningSweep sweep={hotDealsData.todaySweep} />
+      ) : (
+        <div className="bg-white border border-slate-200 shadow-sm rounded-xl p-5 mb-8">
+          <p className="text-sm text-slate-500">Morning sweep not yet generated. Check back after 7:30 AM.</p>
         </div>
+      )}
 
-        {/* Priorities */}
-        <div className="bg-white border border-slate-200 shadow-sm rounded-xl p-5">
-          <h2 className="text-sm font-semibold text-slate-500 uppercase tracking-wider mb-3">Top Priorities</h2>
-          <div className="space-y-2">
-            {hotDealsData.today.priorities.map((priority, i) => (
-              <label key={i} className="flex items-start gap-3 group cursor-pointer">
-                <input
-                  type="checkbox"
-                  className="mt-0.5 rounded border-slate-300 bg-white text-[#7a9a8a] focus:ring-[#7a9a8a]"
-                />
-                <span className="text-sm text-slate-700 group-hover:text-[#7a9a8a] transition">{priority}</span>
-              </label>
-            ))}
-          </div>
+      {/* 2. Today's Schedule */}
+      <div className="bg-white border border-slate-200 shadow-sm rounded-xl p-5 mb-8">
+        <h2 className="text-sm font-semibold text-slate-500 uppercase tracking-wider mb-3">Today&apos;s Schedule</h2>
+        <div className="space-y-2">
+          {hotDealsData.today.meetings.map((meeting, i) => (
+            <div key={i} className="flex items-start gap-3">
+              <span className="text-sm text-[#3b82f6] font-medium shrink-0 w-28">{meeting.time}</span>
+              <div>
+                <p className="text-sm text-slate-900">{meeting.title}</p>
+                {meeting.dealContext && (
+                  <p className="text-xs text-slate-500 mt-0.5">{meeting.dealContext}</p>
+                )}
+              </div>
+            </div>
+          ))}
         </div>
       </div>
 

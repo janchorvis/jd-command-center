@@ -105,6 +105,23 @@ export interface ActionItem {
   completed?: boolean;
 }
 
+export interface SweepItem {
+  id: string;
+  text: string;
+  detail?: string;
+  completed: boolean;
+  completedAt?: string;
+  completedBy?: string;
+}
+
+export interface MorningSweep {
+  generatedAt: string;
+  yourPlate: SweepItem[];
+  prepping: SweepItem[];
+  handling: SweepItem[];
+  deferred: SweepItem[];
+}
+
 export interface HotDealsData {
   lastUpdated: string;
   sourceDoc: string;
@@ -117,6 +134,7 @@ export interface HotDealsData {
   funnel: FunnelData;
   brainDumps: BrainDump[];
   actionItems: ActionItem[];
+  todaySweep?: MorningSweep;
 }
 
 export function getHotDealsData(): HotDealsData {
