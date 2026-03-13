@@ -1,5 +1,5 @@
-import { fetchDeals, fetchHotDeals, groupDealsByStage, getStaleDeals } from '@/lib/pipedrive';
-import { HOT_DEAL_IDS, SIDE_DEALS } from '@/lib/hot-deals';
+import { fetchDeals, groupDealsByStage, getStaleDeals } from '@/lib/pipedrive';
+import { getHotDealsData } from '@/lib/hot-deals';
 import StatCard from '@/components/StatCard';
 import DealCard from '@/components/DealCard';
 import HotDealsSection from '@/components/HotDealsSection';
@@ -7,10 +7,8 @@ import HotDealsSection from '@/components/HotDealsSection';
 export const dynamic = 'force-dynamic';
 
 export default async function DealsPage() {
-  const [deals, hotDeals] = await Promise.all([
-    fetchDeals(),
-    fetchHotDeals(HOT_DEAL_IDS),
-  ]);
+  const deals = await fetchDeals();
+  const hotDealsData = getHotDealsData();
   const staleDeals = getStaleDeals(deals);
   const grouped = groupDealsByStage(deals);
 
@@ -31,7 +29,13 @@ export default async function DealsPage() {
       <h1 className="text-3xl font-bold mb-8">💼 Leasing Pipeline</h1>
 
       {/* Focus Deals */}
-      <HotDealsSection hotDeals={hotDeals} sideDeals={SIDE_DEALS} />
+      <HotDealsSection
+        pipelineDeals={hotDealsData.pipelineDeals}
+        sideDeals={hotDealsData.sideDeals}
+        droppedBalls={hotDealsData.droppedBalls}
+        lastUpdated={hotDealsData.lastUpdated}
+        sourceDoc={hotDealsData.sourceDoc}
+      />
 
       {/* Stats */}
       <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-8">

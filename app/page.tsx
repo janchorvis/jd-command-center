@@ -1,19 +1,19 @@
 import Link from 'next/link';
 import { fetchTasks, groupTasksByStatus } from '@/lib/asana';
-import { fetchDeals, fetchHotDeals, getStaleDeals } from '@/lib/pipedrive';
-import { HOT_DEAL_IDS, SIDE_DEALS } from '@/lib/hot-deals';
+import { fetchDeals, getStaleDeals } from '@/lib/pipedrive';
+import { getHotDealsData } from '@/lib/hot-deals';
 import StatCard from '@/components/StatCard';
 import HotDealsSection from '@/components/HotDealsSection';
 
 export const dynamic = 'force-dynamic';
 
 export default async function Home() {
-  const [tasks, deals, hotDeals] = await Promise.all([
+  const [tasks, deals] = await Promise.all([
     fetchTasks(),
     fetchDeals(),
-    fetchHotDeals(HOT_DEAL_IDS),
   ]);
 
+  const hotDealsData = getHotDealsData();
   const { overdue, thisWeek, parked } = groupTasksByStatus(tasks);
   const staleDeals = getStaleDeals(deals);
 
@@ -23,7 +23,13 @@ export default async function Home() {
       <p className="text-slate-400 mb-8">Your personal dashboard for tasks & deals</p>
 
       {/* Focus Deals */}
-      <HotDealsSection hotDeals={hotDeals} sideDeals={SIDE_DEALS} />
+      <HotDealsSection
+        pipelineDeals={hotDealsData.pipelineDeals}
+        sideDeals={hotDealsData.sideDeals}
+        droppedBalls={hotDealsData.droppedBalls}
+        lastUpdated={hotDealsData.lastUpdated}
+        sourceDoc={hotDealsData.sourceDoc}
+      />
 
       {/* Alert Banners */}
       {overdue.length > 0 && (
@@ -42,29 +48,29 @@ export default async function Home() {
 
       {/* Stats Grid */}
       <div className="grid grid-cols-1 md:grid-cols-4 gap-6 mb-8">
-        <StatCard 
-          label="Overdue Tasks" 
-          value={overdue.length} 
-          emoji="⏰" 
-          color={overdue.length > 5 ? 'red' : 'blue'} 
+        <StatCard
+          label="Overdue Tasks"
+          value={overdue.length}
+          emoji="⏰"
+          color={overdue.length > 5 ? 'red' : 'blue'}
         />
-        <StatCard 
-          label="This Week" 
-          value={thisWeek.length} 
-          emoji="📅" 
-          color={thisWeek.length > 10 ? 'yellow' : 'blue'} 
+        <StatCard
+          label="This Week"
+          value={thisWeek.length}
+          emoji="📅"
+          color={thisWeek.length > 10 ? 'yellow' : 'blue'}
         />
-        <StatCard 
-          label="Active Deals" 
-          value={deals.length} 
-          emoji="💰" 
-          color="blue" 
+        <StatCard
+          label="Active Deals"
+          value={deals.length}
+          emoji="💰"
+          color="blue"
         />
-        <StatCard 
-          label="Stale Deals" 
-          value={staleDeals.length} 
-          emoji="🚨" 
-          color={staleDeals.length > 5 ? 'red' : 'blue'} 
+        <StatCard
+          label="Stale Deals"
+          value={staleDeals.length}
+          emoji="🚨"
+          color={staleDeals.length > 5 ? 'red' : 'blue'}
         />
       </div>
 

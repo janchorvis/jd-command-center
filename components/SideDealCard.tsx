@@ -44,7 +44,7 @@ export default function SideDealCard({ deal }: SideDealCardProps) {
       <div className="mt-3 pt-3 border-t border-slate-700">
         <p className="text-xs text-yellow-300 font-medium mb-2">→ {deal.nextStep}</p>
         <div className="flex items-center justify-between text-xs text-slate-500">
-          <span>{deal.contacts.map(c => c.name).join(', ')}</span>
+          <span>{deal.contacts.join(', ')}</span>
           <span className="flex items-center gap-1">
             <ClockIcon className="w-3 h-3" />
             {days === 0 ? 'Today' : `${days}d ago`}

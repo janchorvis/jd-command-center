@@ -1,0 +1,159 @@
+{
+  "lastUpdated": "2026-03-12T19:40:00-06:00",
+  "sourceDoc": "Leasing Meeting Prep - Week of 3/9/26",
+  "pipelineDeals": [
+    {
+      "id": "malone-five-below",
+      "name": "Five Below",
+      "property": "Malone Plaza",
+      "status": "LOI received back from tenant. Review and discuss with Micah.",
+      "stage": "LOI",
+      "nextStep": "Review LOI, prepare briefing document for Micah",
+      "priority": "high"
+    },
+    {
+      "id": "malone-shoe-dept",
+      "name": "Shoe Dept",
+      "property": "Malone Plaza",
+      "status": "Revising shared access language, sending back after meeting.",
+      "stage": "Lease Draft & Review",
+      "nextStep": "Send revised shared access language to Paul",
+      "priority": "high"
+    },
+    {
+      "id": "malone-golf-sim",
+      "name": "Ajay Secore - Golf Simulator",
+      "property": "Malone Plaza (Unit 3)",
+      "status": "New lead. $100K liquid, ~$200K buildout budget. Sent drawings + lockbox code.",
+      "stage": "Touring",
+      "nextStep": "Follow up on site visit",
+      "priority": "medium"
+    },
+    {
+      "id": "gastonia-laundromat",
+      "name": "Chad Vang - Laundromat",
+      "property": "Gastonia - Dixie Village",
+      "status": "LOI counter - requesting extra $30K TI (to $80K) for doors/windows. Roof replacement needed.",
+      "stage": "LOI",
+      "nextStep": "Counter: grant $30K extra TI, bump rent $0.50-1.00/SF",
+      "priority": "high"
+    },
+    {
+      "id": "russellville-abc",
+      "name": "ABC Retail",
+      "property": "Russellville",
+      "status": "Lease received in mail. Requires 3 hand-signed copies (no DocuSign).",
+      "stage": "Lease Draft & Review",
+      "nextStep": "Coordinate getting copies signed by Micah and returned",
+      "priority": "medium"
+    },
+    {
+      "id": "emerson-hawkins",
+      "name": "Charles Hawkins Co.",
+      "property": "Emerson Hall - Hotel Space",
+      "status": "LOI submitted by Stephen Prather. Tenants very excited.",
+      "stage": "LOI",
+      "nextStep": "Review LOI, respond to Prather",
+      "priority": "high"
+    },
+    {
+      "id": "montgomery-qt-nails",
+      "name": "QT Nails",
+      "property": "Montgomery (1642 Atlanta HWY)",
+      "status": "Full lease application received 3/5. 5-year term, opening May 2026.",
+      "stage": "Obtain Financials",
+      "nextStep": "Process application, prepare lease draft",
+      "priority": "medium"
+    },
+    {
+      "id": "mcminnville-ups",
+      "name": "UPS Store Franchisee",
+      "property": "McMinnville",
+      "status": "Coordinating with Jon Petty. Meeting on-site 3/18.",
+      "stage": "Touring",
+      "nextStep": "Site visit 3/18 - also Matterport and look at other spaces",
+      "priority": "medium"
+    },
+    {
+      "id": "shelbyville-anytime",
+      "name": "Anytime Fitness (Derek Tucker)",
+      "property": "Shelbyville",
+      "status": "LOI in progress. Relocation, wants in by November.",
+      "stage": "LOI",
+      "nextStep": "Call Derek Tucker back",
+      "priority": "high"
+    }
+  ],
+  "sideDeals": [
+    {
+      "id": "hopesmiles",
+      "name": "HopeSmiles",
+      "property": "44 Vantage Way, Cool Springs",
+      "type": "Tenant Rep",
+      "status": "Counter sent at $27/SF + $60-65/SF TI. Waiting on landlord response.",
+      "nextStep": "Follow up with Shelby Hall if no response by 3/14",
+      "contacts": ["Amy Harper (Tenant)", "Shelby Hall (Landlord Rep @ Foundry Commercial)"],
+      "priority": "high",
+      "lastUpdate": "2026-03-11"
+    },
+    {
+      "id": "buena-vista",
+      "name": "Buena Vista",
+      "property": "2433 Buena Vista Pike, Nashville",
+      "type": "Land/Development",
+      "status": "Listed at $10M. Infrastructure confirmed built. Multiple inquiries active.",
+      "nextStep": "Install physical for-sale sign, walk site before spring vegetation",
+      "contacts": ["Julie Robbins (TerraVest)", "Michael Dunn (CBRE)"],
+      "priority": "high",
+      "lastUpdate": "2026-03-11"
+    },
+    {
+      "id": "emerson-hall",
+      "name": "Emerson Hall",
+      "property": "2512 Gallatin Ave, Nashville",
+      "type": "For Lease",
+      "status": "Active negotiations - Hawkins LOI + Brether group interested",
+      "nextStep": "Follow up on Hawkins guarantor financials, call Brether group",
+      "contacts": ["Charles Hawkins (LOI)", "Brether group (Event/Entertainment)"],
+      "priority": "medium",
+      "lastUpdate": "2026-03-09"
+    }
+  ],
+  "droppedBalls": [
+    {
+      "id": "cosmoprof-sevierville",
+      "name": "CosmoProf",
+      "property": "Sevierville",
+      "lastSeen": "Week of 2/16",
+      "note": "Was 'working on a response' - disappeared from prep docs for 3 weeks"
+    },
+    {
+      "id": "mcminnville-wingstop",
+      "name": "WingStop",
+      "property": "McMinnville",
+      "lastSeen": "Week of 2/16",
+      "note": "Was 'close on LOI at $17 net / $90K TI' - completely disappeared"
+    },
+    {
+      "id": "sally-beauty",
+      "name": "Sally Beauty",
+      "property": "McMinnville",
+      "lastSeen": "Week of 2/16",
+      "note": "Initial interest, 1,700-2,000 SF - never mentioned again"
+    },
+    {
+      "id": "fat-boys-pizza",
+      "name": "Fat Boys Pizza",
+      "property": "Russellville",
+      "lastSeen": "Week of 2/16",
+      "note": "Prospect 'really liked it, working through details' - gone"
+    },
+    {
+      "id": "evansville-peddlers",
+      "name": "Peddlers Mall",
+      "property": "Evansville",
+      "lastSeen": "Week of 2/24",
+      "note": "Toured and liked it - dropped from 3/2 and 3/9 docs"
+    }
+  ]
+}
