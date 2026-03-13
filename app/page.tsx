@@ -2,10 +2,20 @@ import Link from 'next/link';
 import { fetchTasks, groupTasksByStatus } from '@/lib/asana';
 import { fetchDeals, getStaleDeals } from '@/lib/pipedrive';
 import { getHotDealsData } from '@/lib/hot-deals';
-import StatCard from '@/components/StatCard';
 import HotDealsSection from '@/components/HotDealsSection';
+import StaleContacts from '@/components/StaleContacts';
+import WeeklyDiff from '@/components/WeeklyDiff';
+import PipelineFunnel from '@/components/PipelineFunnel';
+import BrainDump from '@/components/BrainDump';
 
 export const dynamic = 'force-dynamic';
+
+function getGreetingTime(): string {
+  const hour = new Date().getHours();
+  if (hour < 12) return 'morning';
+  if (hour < 17) return 'afternoon';
+  return 'evening';
+}
 
 export default async function Home() {
   const [tasks, deals] = await Promise.all([
@@ -14,13 +24,71 @@ export default async function Home() {
   ]);
 
   const hotDealsData = getHotDealsData();
-  const { overdue, thisWeek, parked } = groupTasksByStatus(tasks);
+  const { overdue, thisWeek } = groupTasksByStatus(tasks);
   const staleDeals = getStaleDeals(deals);
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-      <h1 className="text-4xl font-bold mb-2">⚡ Command Center</h1>
-      <p className="text-slate-400 mb-8">Your personal dashboard for tasks & deals</p>
+      {/* Greeting */}
+      <div className="mb-8">
+        <h1 className="text-3xl font-bold mb-1">Good {getGreetingTime()}, Jacob</h1>
+        <p className="text-slate-400">{hotDealsData.today.greeting}</p>
+      </div>
+
+      {/* Today's Context */}
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-8">
+        {/* Meetings */}
+        <div className="bg-slate-800 border border-slate-700 rounded-lg p-5">
+          <h2 className="text-sm font-semibold text-slate-400 uppercase tracking-wider mb-3">Today&apos;s Schedule</h2>
+          <div className="space-y-2">
+            {hotDealsData.today.meetings.map((meeting, i) => (
+              <div key={i} className="flex items-start gap-3">
+                <span className="text-sm text-blue-400 font-medium shrink-0 w-28">{meeting.time}</span>
+                <div>
+                  <p className="text-sm text-white">{meeting.title}</p>
+                  {meeting.dealContext && (
+                    <p className="text-xs text-slate-500 mt-0.5">{meeting.dealContext}</p>
+                  )}
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        {/* Priorities */}
+        <div className="bg-slate-800 border border-slate-700 rounded-lg p-5">
+          <h2 className="text-sm font-semibold text-slate-400 uppercase tracking-wider mb-3">Top Priorities</h2>
+          <div className="space-y-2">
+            {hotDealsData.today.priorities.map((priority, i) => (
+              <label key={i} className="flex items-start gap-3 group cursor-pointer">
+                <input
+                  type="checkbox"
+                  className="mt-0.5 rounded border-slate-600 bg-slate-900 text-blue-500 focus:ring-blue-500"
+                />
+                <span className="text-sm text-slate-300 group-hover:text-white transition">{priority}</span>
+              </label>
+            ))}
+          </div>
+        </div>
+      </div>
+
+      {/* Alert Banners */}
+      {(overdue.length > 0 || staleDeals.length > 0) && (
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+          {overdue.length > 0 && (
+            <div className="bg-red-900/20 border border-red-500 rounded-lg p-4">
+              <h3 className="font-semibold text-red-400 mb-1">🚨 {overdue.length} Overdue Tasks</h3>
+              <p className="text-sm text-slate-300">You have tasks that need attention</p>
+            </div>
+          )}
+          {staleDeals.length > 0 && (
+            <div className="bg-yellow-900/20 border border-yellow-500 rounded-lg p-4">
+              <h3 className="font-semibold text-yellow-400 mb-1">⚠️ {staleDeals.length} Stale Deals</h3>
+              <p className="text-sm text-slate-300">Some deals haven&apos;t been touched in 14+ days</p>
+            </div>
+          )}
+        </div>
+      )}
 
       {/* Focus Deals */}
       <HotDealsSection
@@ -31,47 +99,16 @@ export default async function Home() {
         sourceDoc={hotDealsData.sourceDoc}
       />
 
-      {/* Alert Banners */}
-      {overdue.length > 0 && (
-        <div className="bg-red-900/20 border border-red-500 rounded-lg p-4 mb-6">
-          <h3 className="font-semibold text-red-400 mb-1">🚨 {overdue.length} Overdue Tasks</h3>
-          <p className="text-sm text-slate-300">You have tasks that need attention</p>
-        </div>
-      )}
+      {/* Stale Contacts */}
+      <StaleContacts contacts={hotDealsData.staleContacts} />
 
-      {staleDeals.length > 0 && (
-        <div className="bg-yellow-900/20 border border-yellow-500 rounded-lg p-4 mb-6">
-          <h3 className="font-semibold text-yellow-400 mb-1">⚠️ {staleDeals.length} Stale Deals</h3>
-          <p className="text-sm text-slate-300">Some deals haven't been touched in 14+ days</p>
-        </div>
-      )}
+      {/* Weekly Diff */}
+      <WeeklyDiff diff={hotDealsData.weeklyDiff} />
 
-      {/* Stats Grid */}
-      <div className="grid grid-cols-1 md:grid-cols-4 gap-6 mb-8">
-        <StatCard
-          label="Overdue Tasks"
-          value={overdue.length}
-          emoji="⏰"
-          color={overdue.length > 5 ? 'red' : 'blue'}
-        />
-        <StatCard
-          label="This Week"
-          value={thisWeek.length}
-          emoji="📅"
-          color={thisWeek.length > 10 ? 'yellow' : 'blue'}
-        />
-        <StatCard
-          label="Active Deals"
-          value={deals.length}
-          emoji="💰"
-          color="blue"
-        />
-        <StatCard
-          label="Stale Deals"
-          value={staleDeals.length}
-          emoji="🚨"
-          color={staleDeals.length > 5 ? 'red' : 'blue'}
-        />
+      {/* Pipeline Funnel + Brain Dump side by side */}
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-8">
+        <PipelineFunnel funnel={hotDealsData.funnel} />
+        <BrainDump />
       </div>
 
       {/* Quick Links */}
@@ -88,7 +125,6 @@ export default async function Home() {
             <div className="mt-4 flex gap-4 text-sm">
               <span className="text-red-400">{overdue.length} overdue</span>
               <span className="text-yellow-400">{thisWeek.length} this week</span>
-              <span className="text-slate-400">{parked.length} parked</span>
             </div>
           </div>
         </Link>

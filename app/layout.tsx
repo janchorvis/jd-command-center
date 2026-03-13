@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import Link from "next/link";
 import "./globals.css";
+import MobileNav from "@/components/MobileNav";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -17,25 +18,23 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="dark">
-      <body className={`${inter.className} bg-slate-900 text-white`}>
+      <body className={`${inter.className} bg-slate-950 text-white`}>
         <div className="min-h-screen flex flex-col">
-          <nav className="bg-slate-800 border-b border-slate-700">
+          <nav className="bg-slate-900 border-b border-slate-700">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-              <div className="flex items-center justify-between h-16">
+              <div className="flex items-center justify-between h-14">
                 <div className="flex items-center gap-8">
-                  <h1 className="text-xl font-bold">⚡ Command Center</h1>
-                  <div className="flex gap-4">
-                    <Link href="/" className="text-slate-300 hover:text-white transition">
-                      Home
-                    </Link>
-                    <Link href="/tasks" className="text-slate-300 hover:text-white transition">
-                      Tasks
-                    </Link>
-                    <Link href="/deals" className="text-slate-300 hover:text-white transition">
-                      Deals
-                    </Link>
+                  <Link href="/" className="text-lg font-bold hover:opacity-80 transition">
+                    ⚡ Command Center
+                  </Link>
+                  <div className="hidden md:flex gap-1">
+                    <NavLink href="/">Home</NavLink>
+                    <NavLink href="/deals">Deals</NavLink>
+                    <NavLink href="/prep">Prep</NavLink>
+                    <NavLink href="/tasks">Tasks</NavLink>
                   </div>
                 </div>
+                <MobileNav />
               </div>
             </div>
           </nav>
@@ -46,5 +45,16 @@ export default function RootLayout({
         </div>
       </body>
     </html>
+  );
+}
+
+function NavLink({ href, children }: { href: string; children: React.ReactNode }) {
+  return (
+    <Link
+      href={href}
+      className="text-sm text-slate-400 hover:text-white hover:bg-slate-800 px-3 py-1.5 rounded-md transition"
+    >
+      {children}
+    </Link>
   );
 }
