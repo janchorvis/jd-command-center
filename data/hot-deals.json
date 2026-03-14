@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T09:40:00-05:00",
+  "lastUpdated": "2026-03-14T09:42:00-05:00",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/9/26",
   "today": {
     "date": "2026-03-13",
@@ -829,7 +829,7 @@
       "status": "Lease executed 2/13/26. Memo of Exclusive delegated to Melissa/Ashby 3/14. Declarant estoppel letter also outstanding.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Waiting on Melissa \u2014 she's calling Ashby re: Memo of Exclusive path + Declarant estoppel. Follow up by 3/21 if no update.",
+      "nextStep": "Waiting on Melissa Eddy (Asana due 3/20) \u2014 reaching out to Ashby re: Memo of Exclusive + Declarant estoppel.",
       "priority": "high",
       "timeline": [
         {
@@ -1529,10 +1529,11 @@
     },
     {
       "title": "Waiting on Melissa: Marshalls Memo of Exclusive",
-      "detail": "Delegated 3/14. Melissa calling Ashby to determine path forward on Memo of Exclusive (Runnings unlikely to sign) + Declarant estoppel letter (past due). Follow up if no response by EOW 3/21.",
+      "detail": "Delegated 3/14. Asana task 1213647529863453 assigned to Melissa Eddy, due 3/20. She's reaching out to Ashby re: Memo of Exclusive path (Runnings unlikely to sign) + Declarant estoppel letter (past due).",
       "completed": false,
       "delegatedTo": "Melissa",
-      "delegatedDate": "2026-03-14"
+      "delegatedDate": "2026-03-14",
+      "asanaTaskId": "1213647529863453"
     }
   ],
   "crossRefAlerts": [
