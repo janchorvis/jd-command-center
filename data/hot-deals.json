@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T09:35:00-05:00",
+  "lastUpdated": "2026-03-14T09:40:00-05:00",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/9/26",
   "today": {
     "date": "2026-03-13",
@@ -826,10 +826,10 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "Lease fully executed 2/13/26. Memo of Exclusive and Declarant estoppel letter outstanding.",
+      "status": "Lease executed 2/13/26. Memo of Exclusive delegated to Melissa/Ashby 3/14. Declarant estoppel letter also outstanding.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Melissa calling Ashby re: Memo of Exclusive path (Runnings unlikely to sign voluntarily). Also need Declarant estoppel letter under REA.",
+      "nextStep": "Waiting on Melissa \u2014 she's calling Ashby re: Memo of Exclusive path + Declarant estoppel. Follow up by 3/21 if no update.",
       "priority": "high",
       "timeline": [
         {
@@ -1528,9 +1528,11 @@
       "completed": true
     },
     {
-      "title": "Marshalls Memo of Exclusive \u2014 Melissa/Ashby",
-      "detail": "Melissa calling Ashby to determine path: get Runnings to sign Memo of Exclusive, or send notification and rely on REA enforcement. Also need Declarant estoppel letter (past due). Asana task created 3/14.",
-      "completed": false
+      "title": "Waiting on Melissa: Marshalls Memo of Exclusive",
+      "detail": "Delegated 3/14. Melissa calling Ashby to determine path forward on Memo of Exclusive (Runnings unlikely to sign) + Declarant estoppel letter (past due). Follow up if no response by EOW 3/21.",
+      "completed": false,
+      "delegatedTo": "Melissa",
+      "delegatedDate": "2026-03-14"
     }
   ],
   "crossRefAlerts": [
