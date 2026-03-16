@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T11:30:10.025187",
+  "lastUpdated": "2026-03-16T12:30:09.749606",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/16/26",
   "today": {
     "date": "2026-03-16",
@@ -1089,6 +1089,11 @@
       "timeline": [
         {
           "date": "2026-03-16",
+          "event": "Email from Crexi: George R. opened offering memorandum on 2433 Buena Vista Pike in Nashville",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-16",
           "event": "Email from Nashville Business Journal: Jacob ⏰ This Starts Soon!",
           "type": "email"
         },
@@ -1283,6 +1288,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-03-16",
+          "event": "Email from Crexi: George R. opened offering memorandum on 2433 Buena Vista Pike in Nashville",
+          "type": "email"
+        },
         {
           "date": "2026-03-16",
           "event": "Email from Nashville Business Journal: Jacob ⏰ This Starts Soon!",
@@ -1632,42 +1642,42 @@
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Jacob ⏰ This Starts Soon!",
+      "lastAction": "Email from Crexi: George R. opened offering memorandum on 2433 Buena Vista Pike ",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Jacob ⏰ This Starts Soon!",
+      "lastAction": "Email from Crexi: George R. opened offering memorandum on 2433 Buena Vista Pike ",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Jacob ⏰ This Starts Soon!",
+      "lastAction": "Email from Crexi: George R. opened offering memorandum on 2433 Buena Vista Pike ",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Jacob ⏰ This Starts Soon!",
+      "lastAction": "Email from Crexi: George R. opened offering memorandum on 2433 Buena Vista Pike ",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Jacob ⏰ This Starts Soon!",
+      "lastAction": "Email from Crexi: George R. opened offering memorandum on 2433 Buena Vista Pike ",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Jacob ⏰ This Starts Soon!",
+      "lastAction": "Email from Crexi: George R. opened offering memorandum on 2433 Buena Vista Pike ",
       "urgency": "low"
     }
   ],
