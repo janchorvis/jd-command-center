@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T09:31:22.259653",
+  "lastUpdated": "2026-03-16T10:30:19.848509",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/16/26",
   "today": {
     "date": "2026-03-16",
@@ -388,6 +388,11 @@
       "nextStep": "Send counter with TI/rent adjustment, get Micah's sign-off on roof timeline.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-16",
+          "event": "Email from Justin Schad, CCIM: SEEKING SITES IN TENNESSEE | America's Thrift Stores",
+          "type": "email"
+        },
         {
           "date": "2026-03-15",
           "event": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
@@ -799,6 +804,11 @@
       "timeline": [
         {
           "date": "2026-03-16",
+          "event": "Email from Justin Schad, CCIM: SEEKING SITES IN TENNESSEE | America's Thrift Stores",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-16",
           "event": "Email from Chain Store Age: DayBreaker: Amazon reportedly moving Prime Day; BNPL usage surges; Mattress reta",
           "type": "email"
         },
@@ -1039,6 +1049,16 @@
       "timeline": [
         {
           "date": "2026-03-16",
+          "event": "Email from Nashville Business Journal: Jacob ⏰ This Starts Soon!",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-16",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-16",
           "event": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike in Nashville",
           "type": "email"
         },
@@ -1223,6 +1243,16 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-03-16",
+          "event": "Email from Nashville Business Journal: Jacob ⏰ This Starts Soon!",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-16",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
         {
           "date": "2026-03-16",
           "event": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike in Nashville",
@@ -1489,13 +1519,6 @@
       "urgency": "low"
     },
     {
-      "name": "Chad Vang",
-      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
-      "urgency": "low"
-    },
-    {
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 1,
@@ -1514,6 +1537,13 @@
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 1,
       "lastAction": "Email from Melissa Eddy: Updated invitation: Annual Property Reviews @ Mon Mar 1",
+      "urgency": "low"
+    },
+    {
+      "name": "Chad Vang",
+      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Justin Schad, CCIM: SEEKING SITES IN TENNESSEE | America's Thrift Sto",
       "urgency": "low"
     },
     {
@@ -1541,7 +1571,7 @@
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Amazon reportedly moving Prime Day; BNPL",
+      "lastAction": "Email from Justin Schad, CCIM: SEEKING SITES IN TENNESSEE | America's Thrift Sto",
       "urgency": "low"
     },
     {
@@ -1562,42 +1592,42 @@
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
+      "lastAction": "Email from Nashville Business Journal: Jacob ⏰ This Starts Soon!",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
+      "lastAction": "Email from Nashville Business Journal: Jacob ⏰ This Starts Soon!",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
+      "lastAction": "Email from Nashville Business Journal: Jacob ⏰ This Starts Soon!",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
+      "lastAction": "Email from Nashville Business Journal: Jacob ⏰ This Starts Soon!",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
+      "lastAction": "Email from Nashville Business Journal: Jacob ⏰ This Starts Soon!",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
+      "lastAction": "Email from Nashville Business Journal: Jacob ⏰ This Starts Soon!",
       "urgency": "low"
     }
   ],
