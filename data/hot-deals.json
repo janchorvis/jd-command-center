@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T14:30:09.320751",
+  "lastUpdated": "2026-03-16T15:30:07.757282",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/16/26",
   "today": {
     "date": "2026-03-16",
@@ -52,6 +52,11 @@
       "nextStep": "Follow up on site visit status.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-16",
+          "event": "Email from Fiverr: [Action requested] There’s still time to review Yas",
+          "type": "email"
+        },
         {
           "date": "2026-03-16",
           "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
@@ -1099,6 +1104,11 @@
       "timeline": [
         {
           "date": "2026-03-16",
+          "event": "Email from Dillon Eakes: Folx Table x PCON Actives - 04.14.2026 ",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-16",
           "event": "Email from Lis Norton | Meagan Glazier | Miller Chandler, CCIM: FOR LEASE | ±2,200 SF of Retail/Office Space Available for Lease",
           "type": "email"
         },
@@ -1303,6 +1313,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-03-16",
+          "event": "Email from Dillon Eakes: Folx Table x PCON Actives - 04.14.2026 ",
+          "type": "email"
+        },
         {
           "date": "2026-03-16",
           "event": "Email from Lis Norton | Meagan Glazier | Miller Chandler, CCIM: FOR LEASE | ±2,200 SF of Retail/Office Space Available for Lease",
@@ -1571,7 +1586,7 @@
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Fiverr: [Action requested] There’s still time to review Yas",
       "urgency": "low"
     },
     {
@@ -1662,42 +1677,42 @@
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lis Norton | Meagan Glazier | Miller Chandler, CCIM: FOR LEASE | ±2,2",
+      "lastAction": "Email from Dillon Eakes: Folx Table x PCON Actives - 04.14.2026 ",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lis Norton | Meagan Glazier | Miller Chandler, CCIM: FOR LEASE | ±2,2",
+      "lastAction": "Email from Dillon Eakes: Folx Table x PCON Actives - 04.14.2026 ",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lis Norton | Meagan Glazier | Miller Chandler, CCIM: FOR LEASE | ±2,2",
+      "lastAction": "Email from Dillon Eakes: Folx Table x PCON Actives - 04.14.2026 ",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lis Norton | Meagan Glazier | Miller Chandler, CCIM: FOR LEASE | ±2,2",
+      "lastAction": "Email from Dillon Eakes: Folx Table x PCON Actives - 04.14.2026 ",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lis Norton | Meagan Glazier | Miller Chandler, CCIM: FOR LEASE | ±2,2",
+      "lastAction": "Email from Dillon Eakes: Folx Table x PCON Actives - 04.14.2026 ",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lis Norton | Meagan Glazier | Miller Chandler, CCIM: FOR LEASE | ±2,2",
+      "lastAction": "Email from Dillon Eakes: Folx Table x PCON Actives - 04.14.2026 ",
       "urgency": "low"
     }
   ],
