@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T07:15:29.614949",
+  "lastUpdated": "2026-03-17T07:15:39.261168",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/16/26",
   "today": {
     "date": "2026-03-17",
@@ -596,6 +596,11 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-03-17",
+          "event": "Email from Chain Store Age: Connected Retail: Amazon Prime Day’s new month?; Kroger offers spring deals; Per",
+          "type": "email"
+        },
+        {
           "date": "2026-03-16",
           "event": "Email from Lis Norton | Meagan Glazier | Miller Chandler, CCIM: FOR LEASE | ±2,200 SF of Retail/Office Space Available for Lease",
           "type": "email"
@@ -873,6 +878,16 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-03-17",
+          "event": "Email from Chain Store Age: DayBreaker: Dollar Tree to open 400 stores; Amazon, Target to offer spring savin",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-17",
+          "event": "Email from Chain Store Age: Connected Retail: Amazon Prime Day’s new month?; Kroger offers spring deals; Per",
+          "type": "email"
+        },
+        {
           "date": "2026-03-16",
           "event": "Email from Jacob Delk: McMinnville Plaza Shopping Center - Wednesday 3/18",
           "type": "email"
@@ -1143,6 +1158,11 @@
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
+          "date": "2026-03-17",
+          "event": "Email from Kelsey Cornillie, Publisher: CRE giant returns to Nashville",
+          "type": "email"
+        },
+        {
           "date": "2026-03-16",
           "event": "Email from Dillon Eakes: Folx Table x PCON Actives - 04.14.2026 ",
           "type": "email"
@@ -1353,6 +1373,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-03-17",
+          "event": "Email from Kelsey Cornillie, Publisher: CRE giant returns to Nashville",
+          "type": "email"
+        },
         {
           "date": "2026-03-16",
           "event": "Email from Dillon Eakes: Folx Table x PCON Actives - 04.14.2026 ",
@@ -1604,155 +1629,155 @@
     {
       "name": "Derek Tucker",
       "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
-      "daysSinceContact": 5,
+      "daysSinceContact": 6,
       "lastAction": "Email from Jacob Delk: Shelbyville Big Lots",
       "urgency": "low"
     },
     {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 4,
+      "daysSinceContact": 5,
       "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: Montgomery Comm",
       "urgency": "low"
     },
     {
       "name": "Dwaine High",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 4,
+      "daysSinceContact": 5,
       "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: Montgomery Comm",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza Shopping Center - Wednesday 3/18",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza Shopping Center - Wednesday 3/18",
       "urgency": "low"
     },
     {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza Shopping Center - Wednesday 3/18",
       "urgency": "low"
     },
     {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Justin Schad, CCIM: SEEKING SITES IN TENNESSEE | America's Thrift Sto",
-      "urgency": "low"
-    },
-    {
-      "name": "Melissa Eddy",
-      "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Lis Norton | Meagan Glazier | Miller Chandler, CCIM: FOR LEASE | ±2,2",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Lis Norton | Meagan Glazier | Miller Chandler, CCIM: FOR LEASE | ±2,2",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Lis Norton | Meagan Glazier | Miller Chandler, CCIM: FOR LEASE | ±2,2",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Shopping Center - Wednesday 3/18",
       "urgency": "low"
     },
     {
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza Shopping Center - Wednesday 3/18",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza Shopping Center - Wednesday 3/18",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza Shopping Center - Wednesday 3/18",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Donnie Thomas: Emerson Hall",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Donnie Thomas: Emerson Hall",
+      "urgency": "low"
+    },
+    {
+      "name": "Melissa Eddy",
+      "deal": "ABC Retail — Russellville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: Connected Retail: Amazon Prime Day’s new month?; Kro",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Dollar Tree to open 400 stores; Amazon, ",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Dillon Eakes: Folx Table x PCON Actives - 04.14.2026 ",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: CRE giant returns to Nashville",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Dillon Eakes: Folx Table x PCON Actives - 04.14.2026 ",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: CRE giant returns to Nashville",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Dillon Eakes: Folx Table x PCON Actives - 04.14.2026 ",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: CRE giant returns to Nashville",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Dillon Eakes: Folx Table x PCON Actives - 04.14.2026 ",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: CRE giant returns to Nashville",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Dillon Eakes: Folx Table x PCON Actives - 04.14.2026 ",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: CRE giant returns to Nashville",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Dillon Eakes: Folx Table x PCON Actives - 04.14.2026 ",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: CRE giant returns to Nashville",
       "urgency": "low"
     }
   ],
