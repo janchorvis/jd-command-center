@@ -1,34 +1,49 @@
 {
-  "lastUpdated": "2026-03-16T17:30:08.618302",
+  "lastUpdated": "2026-03-17T07:15:29.614949",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/16/26",
   "today": {
-    "date": "2026-03-16",
-    "greeting": "Good morning, Jacob. You have 10 overdue items.",
+    "date": "2026-03-17",
+    "greeting": "Good morning, Jacob. You have 19 overdue items.",
     "meetings": [
       {
         "time": "12:00 AM",
-        "title": "Parker (12-5)",
+        "title": "Parker (9-2)",
         "dealContext": null
       },
       {
-        "time": "6:30 AM",
-        "title": "Bible Study",
-        "dealContext": null
-      },
-      {
-        "time": "8:00 AM",
-        "title": "Annual Property Reviews",
+        "time": "7:30 AM",
+        "title": "Call Justin",
         "dealContext": null
       },
       {
         "time": "8:30 AM",
-        "title": "Approve Payroll Hours in Gusto",
+        "title": "Rock/Scorecard/Occupancy + New Lease Checklists",
         "dealContext": null
       },
       {
-        "time": "10:30 AM",
-        "title": "Leasing Meeting",
-        "dealContext": "13 active deals. 3 advanced this week (QT Nails→Lease sent for signature, Coaches Bargainz→Tenant welcome email sent, HopeSmiles). Top deals: Five Below (LOI), Shoe Dept (Lease Draft & Review), Chad Vang - Laundromat (LOI). 19 contacts tracked."
+        "time": "9:00 AM",
+        "title": "Commercial L10 Meeting",
+        "dealContext": "Week scorecard: 3 deals advanced. 11 completed. 3 stalled/dropped. 8 high-priority deals active."
+      },
+      {
+        "time": "11:00 AM",
+        "title": "11am: Entertainment Venue Catch Up (The Gallatin)",
+        "dealContext": "Active negotiations - Hawkins LOI + Brether group interested | Next: Follow up on Hawkins guarantor financials, call Brether group"
+      },
+      {
+        "time": "2:00 PM",
+        "title": "Anchor Investments + Fostr AI | Weekly Check-In",
+        "dealContext": null
+      },
+      {
+        "time": "5:00 PM",
+        "title": "Call Joan",
+        "dealContext": null
+      },
+      {
+        "time": "8:00 PM",
+        "title": "Trash Day Tomorrow",
+        "dealContext": null
       }
     ],
     "priorities": [
