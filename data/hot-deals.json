@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T14:30:27.155681",
+  "lastUpdated": "2026-03-17T15:30:11.314057",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/16/26",
   "today": {
     "date": "2026-03-17",
@@ -1217,6 +1217,11 @@
       "timeline": [
         {
           "date": "2026-03-17",
+          "event": "Email from Jacob Delk: Re: 44 Vantage Way - Hope Smiles",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-17",
           "event": "Email from Josh L.: Josh L. opened brochure on Emerson Hall - The Gallatin",
           "type": "email"
         },
@@ -1322,6 +1327,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-03-17",
+          "event": "Email from Cole Tarlas: Cole/Jacob Lunch",
+          "type": "email"
+        },
         {
           "date": "2026-03-17",
           "event": "Email from Michael Check: DON’T MISS IT, we are 9 days away from the annual Men of Valor breakfast with ou",
@@ -1923,35 +1933,35 @@
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
-      "lastAction": "Email from Josh L.: Josh L. opened brochure on Emerson Hall - The Gallatin",
+      "lastAction": "Email from Jacob Delk: Re: 44 Vantage Way - Hope Smiles",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
-      "lastAction": "Email from Josh L.: Josh L. opened brochure on Emerson Hall - The Gallatin",
+      "lastAction": "Email from Jacob Delk: Re: 44 Vantage Way - Hope Smiles",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Michael Check: DON’T MISS IT, we are 9 days away from the annual Men ",
+      "lastAction": "Email from Cole Tarlas: Cole/Jacob Lunch",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Michael Check: DON’T MISS IT, we are 9 days away from the annual Men ",
+      "lastAction": "Email from Cole Tarlas: Cole/Jacob Lunch",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Michael Check: DON’T MISS IT, we are 9 days away from the annual Men ",
+      "lastAction": "Email from Cole Tarlas: Cole/Jacob Lunch",
       "urgency": "low"
     },
     {
