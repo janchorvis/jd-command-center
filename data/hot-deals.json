@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T15:30:16.025553",
+  "lastUpdated": "2026-03-17T16:30:09.082054",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/16/26",
   "today": {
     "date": "2026-03-17",
@@ -67,6 +67,11 @@
       "nextStep": "Follow up on site visit status.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-17",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
         {
           "date": "2026-03-17",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
@@ -227,6 +232,11 @@
       "timeline": [
         {
           "date": "2026-03-17",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-17",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
         },
@@ -359,6 +369,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-17",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
         {
           "date": "2026-03-17",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
@@ -677,6 +692,16 @@
       "timeline": [
         {
           "date": "2026-03-17",
+          "event": "Email from Melissa Eddy: Accepted: Anchor Recycling Bins @ Every 2 weeks from 5pm to 5pm on Wednesday (CD",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-17",
+          "event": "Email from Melissa Eddy: Accepted: Anchor Trash Cans @ Weekly from 5pm to 5pm on Wednesday (CDT) (Jacob D",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-17",
           "event": "Email from Ashley Cusker | Katz & Associates: Fat Rosie's Seeking Sites in the Nashville MSA",
           "type": "email"
         },
@@ -769,6 +794,16 @@
       "nextStep": "Review LOI, respond to Prather. Redline Emerson Hall prospect lease (on Jacob's priority list).",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-17",
+          "event": "Email from Donnie Thomas: Emerson Hall",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-17",
+          "event": "Email from Shelby Hall: HopeSmiles at 44V",
+          "type": "email"
+        },
         {
           "date": "2026-03-17",
           "event": "Email from The Google Workspace Team: Your Google Workspace data transfer failed for Jacque Jordan",
@@ -929,6 +964,11 @@
       "timeline": [
         {
           "date": "2026-03-17",
+          "event": "Email from Sam High: Re: PCON March Madness - \"Hoops for Youth\"",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-17",
           "event": "Email from Sam High: FW: PCON Leadership Dinner 2026",
           "type": "email"
         },
@@ -997,6 +1037,11 @@
       "nextStep": "Site visit 3/18. Bring Matterport equipment.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-17",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
         {
           "date": "2026-03-17",
           "event": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Wednesday 3/18",
@@ -1102,6 +1147,21 @@
       "nextStep": "Waiting on Melissa Eddy (Asana due 3/20) — reaching out to Ashby re: Memo of Exclusive + Declarant estoppel.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-17",
+          "event": "Email from Melissa Eddy: Accepted: Anchor Recycling Bins @ Every 2 weeks from 5pm to 5pm on Wednesday (CD",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-17",
+          "event": "Email from Melissa Eddy: Accepted: Anchor Trash Cans @ Weekly from 5pm to 5pm on Wednesday (CDT) (Jacob D",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-17",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
         {
           "date": "2026-03-17",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
@@ -1215,6 +1275,16 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-03-17",
+          "event": "Email from Donnie Thomas: Emerson Hall",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-17",
+          "event": "Email from Shelby Hall: HopeSmiles at 44V",
+          "type": "email"
+        },
         {
           "date": "2026-03-17",
           "event": "Email from Jacob Delk: Re: 44 Vantage Way - Hope Smiles",
@@ -1560,6 +1630,16 @@
       "timeline": [
         {
           "date": "2026-03-17",
+          "event": "Email from Donnie Thomas: Emerson Hall",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-17",
+          "event": "Email from Shelby Hall: HopeSmiles at 44V",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-17",
           "event": "Email from Josh L.: Josh L. opened brochure on Emerson Hall - The Gallatin",
           "type": "email"
         },
@@ -1842,21 +1922,21 @@
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
       "urgency": "low"
     },
     {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
       "urgency": "low"
     },
     {
@@ -1870,77 +1950,77 @@
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker | Katz & Associates: Fat Rosie's Seeking Sites in the N",
+      "lastAction": "Email from Melissa Eddy: Accepted: Anchor Recycling Bins @ Every 2 weeks from 5p",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from The Google Workspace Team: Your Google Workspace data transfer failed",
+      "lastAction": "Email from Donnie Thomas: Emerson Hall",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from The Google Workspace Team: Your Google Workspace data transfer failed",
+      "lastAction": "Email from Donnie Thomas: Emerson Hall",
       "urgency": "low"
     },
     {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Sam High: FW: PCON Leadership Dinner 2026",
+      "lastAction": "Email from Sam High: Re: PCON March Madness - \"Hoops for Youth\"",
       "urgency": "low"
     },
     {
       "name": "Dwaine High",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Sam High: FW: PCON Leadership Dinner 2026",
+      "lastAction": "Email from Sam High: Re: PCON March Madness - \"Hoops for Youth\"",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Wednesday 3/18",
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
       "urgency": "low"
     },
     {
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Melissa Eddy: Accepted: Anchor Recycling Bins @ Every 2 weeks from 5p",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Melissa Eddy: Accepted: Anchor Recycling Bins @ Every 2 weeks from 5p",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Melissa Eddy: Accepted: Anchor Recycling Bins @ Every 2 weeks from 5p",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Re: 44 Vantage Way - Hope Smiles",
+      "lastAction": "Email from Donnie Thomas: Emerson Hall",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Re: 44 Vantage Way - Hope Smiles",
+      "lastAction": "Email from Donnie Thomas: Emerson Hall",
       "urgency": "low"
     },
     {
@@ -1968,21 +2048,21 @@
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Josh L.: Josh L. opened brochure on Emerson Hall - The Gallatin",
+      "lastAction": "Email from Donnie Thomas: Emerson Hall",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Josh L.: Josh L. opened brochure on Emerson Hall - The Gallatin",
+      "lastAction": "Email from Donnie Thomas: Emerson Hall",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Josh L.: Josh L. opened brochure on Emerson Hall - The Gallatin",
+      "lastAction": "Email from Donnie Thomas: Emerson Hall",
       "urgency": "low"
     }
   ],
