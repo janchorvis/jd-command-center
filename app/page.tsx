@@ -6,6 +6,7 @@ import HotDealsSection from '@/components/HotDealsSection';
 import BrainDump from '@/components/BrainDump';
 import ActionItems from '@/components/ActionItems';
 import MorningSweep from '@/components/MorningSweep';
+import PropertyReviewTodos from '@/components/PropertyReviewTodos';
 
 export const dynamic = 'force-dynamic';
 
@@ -40,6 +41,11 @@ export default async function Home() {
         <div className="bg-white border border-slate-200 shadow-sm rounded-xl p-5 mb-8">
           <p className="text-sm text-slate-500">Morning sweep not yet generated. Check back after 7:30 AM.</p>
         </div>
+      )}
+
+      {/* 1b. Property Review Action Items */}
+      {hotDealsData.propertyReviewTodos && (
+        <PropertyReviewTodos data={hotDealsData.propertyReviewTodos} />
       )}
 
       {/* 2. Today's Schedule */}

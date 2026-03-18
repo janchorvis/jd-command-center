@@ -135,6 +135,21 @@ export interface HotDealsData {
   brainDumps: BrainDump[];
   actionItems: ActionItem[];
   todaySweep?: MorningSweep;
+  propertyReviewTodos?: {
+    generatedAt: string;
+    source: string;
+    byProperty: {
+      property: string;
+      items: {
+        id: string;
+        text: string;
+        detail?: string;
+        completed: boolean;
+        completedAt?: string;
+        property?: string;
+      }[];
+    }[];
+  };
 }
 
 export function getHotDealsData(): HotDealsData {
