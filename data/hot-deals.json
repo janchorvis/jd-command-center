@@ -1025,9 +1025,9 @@
       ],
       "rentComps": {
         "property": "Montgomery",
-        "avgRate": 14.0,
-        "minRate": 14.0,
-        "maxRate": 14.0,
+        "avgRate": 14,
+        "minRate": 14,
+        "maxRate": 14,
         "avgSqFt": 4405,
         "suiteCount": 19,
         "vacantCount": 0
@@ -3460,15 +3460,19 @@
         "id": "sweep-1",
         "text": "Call Derek Tucker — Anytime Fitness LOI, Shelbyville",
         "detail": "Relocation, wants in by November. Rolled twice, priority.",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-03-18T01:48:03.697Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-2",
         "text": "Call Parker (intern)",
         "detail": "Rolled from 3/11.",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-03-18T01:48:06.217Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-3",
