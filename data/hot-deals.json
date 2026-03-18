@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T07:18:28.872537",
+  "lastUpdated": "2026-03-18T09:30:37.660004",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/16/26",
   "today": {
     "date": "2026-03-18",
@@ -801,6 +801,16 @@
       "timeline": [
         {
           "date": "2026-03-18",
+          "event": "Email from The Google Workspace Team: Your deletion of Jacque Jordan from Google Workspace was successful",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-18",
+          "event": "Email from Shelby Hall: HopeSmiles at 44V",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-18",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
         },
@@ -972,6 +982,11 @@
       "nextStep": "Confirm with Melissa that signed docs were received and sent back.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-18",
+          "event": "Email from Sam High: FW: PCON Leadership Dinner 2026",
+          "type": "email"
+        },
         {
           "date": "2026-03-17",
           "event": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
@@ -1310,6 +1325,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-03-18",
+          "event": "Email from Shelby Hall: HopeSmiles at 44V",
+          "type": "email"
+        },
         {
           "date": "2026-03-17",
           "event": "Email from Donnie Thomas: Emerson Hall",
@@ -1664,6 +1684,11 @@
       "lastUpdate": "2026-03-09",
       "timeline": [
         {
+          "date": "2026-03-18",
+          "event": "Email from Shelby Hall: HopeSmiles at 44V",
+          "type": "email"
+        },
+        {
           "date": "2026-03-17",
           "event": "Email from Donnie Thomas: Emerson Hall",
           "type": "email"
@@ -1968,34 +1993,6 @@
       "urgency": "low"
     },
     {
-      "name": "Nhung Pham",
-      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
-      "urgency": "low"
-    },
-    {
-      "name": "Dwaine High",
-      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Donnie Thomas: Emerson Hall",
-      "urgency": "low"
-    },
-    {
-      "name": "Shelby Hall",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Donnie Thomas: Emerson Hall",
-      "urgency": "low"
-    },
-    {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 1,
@@ -2014,27 +2011,6 @@
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 1,
       "lastAction": "Email from Cole Tarlas: Cole/Jacob Lunch",
-      "urgency": "low"
-    },
-    {
-      "name": "Charles Hawkins",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Donnie Thomas: Emerson Hall",
-      "urgency": "low"
-    },
-    {
-      "name": "Brether group",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Donnie Thomas: Emerson Hall",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Donnie Thomas: Emerson Hall",
       "urgency": "low"
     },
     {
@@ -2062,14 +2038,28 @@
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from The Google Workspace Team: Your deletion of Jacque Jordan from Google",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from The Google Workspace Team: Your deletion of Jacque Jordan from Google",
+      "urgency": "low"
+    },
+    {
+      "name": "Nhung Pham",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Sam High: FW: PCON Leadership Dinner 2026",
+      "urgency": "low"
+    },
+    {
+      "name": "Dwaine High",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Sam High: FW: PCON Leadership Dinner 2026",
       "urgency": "low"
     },
     {
@@ -2098,6 +2088,41 @@
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
       "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "urgency": "low"
+    },
+    {
+      "name": "Shelby Hall",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "urgency": "low"
+    },
+    {
+      "name": "Charles Hawkins",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "urgency": "low"
+    },
+    {
+      "name": "Brether group",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
       "urgency": "low"
     }
   ],
