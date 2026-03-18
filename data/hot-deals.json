@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T07:16:33.323488",
+  "lastUpdated": "2026-03-18T07:17:06.510042",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/16/26",
   "today": {
     "date": "2026-03-18",
@@ -52,6 +52,11 @@
       "nextStep": "Follow up on site visit status.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-18",
+          "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+          "type": "email"
+        },
         {
           "date": "2026-03-17",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
@@ -216,6 +221,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-03-18",
+          "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+          "type": "email"
+        },
+        {
           "date": "2026-03-17",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
           "type": "email"
@@ -354,6 +364,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-18",
+          "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+          "type": "email"
+        },
         {
           "date": "2026-03-17",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
@@ -518,6 +533,11 @@
       "nextStep": "Send counter with TI/rent adjustment, get Micah's sign-off on roof timeline.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-17",
+          "event": "Email from محمد الدعاس: LoopNet Lead for Dixie Village Shopping Center",
+          "type": "email"
+        },
         {
           "date": "2026-03-17",
           "event": "Email from Parker Forbes (via Google Docs): Share request for \"Gastonia Restoration Partners, LLC - Chad Vang [d/b/a] - Leas",
@@ -780,6 +800,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-03-18",
+          "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+          "type": "email"
+        },
+        {
           "date": "2026-03-17",
           "event": "Email from Donnie Thomas: Emerson Hall",
           "type": "email"
@@ -1028,6 +1053,16 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-03-18",
+          "event": "Email from Will Ramey: Quick Call? 200 Hobson St, McMinnville, Tennessee 37110",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-18",
+          "event": "Email from Chain Store Age: DayBreaker: Family Dollar to test new format; Amazon adds faster delivery option",
+          "type": "email"
+        },
+        {
           "date": "2026-03-17",
           "event": "Email from David Baker: McMinnville",
           "type": "email"
@@ -1142,6 +1177,11 @@
       "nextStep": "Waiting on Melissa Eddy (Asana due 3/20) — reaching out to Ashby re: Memo of Exclusive + Declarant estoppel.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-18",
+          "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+          "type": "email"
+        },
         {
           "date": "2026-03-17",
           "event": "Email from Melissa Eddy: Accepted: Anchor Recycling Bins @ Every 2 weeks from 5pm to 5pm on Wednesday (CD",
@@ -1909,155 +1949,155 @@
     {
       "name": "Derek Tucker",
       "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
-      "daysSinceContact": 6,
+      "daysSinceContact": 7,
       "lastAction": "Email from Jacob Delk: Shelbyville Big Lots",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
-      "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
-      "urgency": "low"
-    },
-    {
-      "name": "Ajay Secore",
-      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
       "urgency": "low"
     },
     {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes (via Google Docs): Share request for \"Gastonia Restorat",
+      "daysSinceContact": 1,
+      "lastAction": "Email from محمد الدعاس: LoopNet Lead for Dixie Village Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Melissa Eddy: Accepted: Anchor Recycling Bins @ Every 2 weeks from 5p",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Donnie Thomas: Emerson Hall",
-      "urgency": "low"
-    },
-    {
-      "name": "Lexy & Austin",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Donnie Thomas: Emerson Hall",
       "urgency": "low"
     },
     {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
       "urgency": "low"
     },
     {
       "name": "Dwaine High",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from David Baker: McMinnville",
-      "urgency": "low"
-    },
-    {
-      "name": "Melissa",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Melissa Eddy: Accepted: Anchor Recycling Bins @ Every 2 weeks from 5p",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Melissa Eddy: Accepted: Anchor Recycling Bins @ Every 2 weeks from 5p",
-      "urgency": "low"
-    },
-    {
-      "name": "Lisa Schwartz, Esq.",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Melissa Eddy: Accepted: Anchor Recycling Bins @ Every 2 weeks from 5p",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Donnie Thomas: Emerson Hall",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Donnie Thomas: Emerson Hall",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Cole Tarlas: Cole/Jacob Lunch",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Cole Tarlas: Cole/Jacob Lunch",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Cole Tarlas: Cole/Jacob Lunch",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Donnie Thomas: Emerson Hall",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Donnie Thomas: Emerson Hall",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Donnie Thomas: Emerson Hall",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "urgency": "low"
+    },
+    {
+      "name": "Ajay Secore",
+      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "urgency": "low"
+    },
+    {
+      "name": "Lexy & Austin",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Will Ramey: Quick Call? 200 Hobson St, McMinnville, Tennessee 37110",
+      "urgency": "low"
+    },
+    {
+      "name": "Melissa",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "urgency": "low"
+    },
+    {
+      "name": "Lisa Schwartz, Esq.",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
       "urgency": "low"
     }
   ],
