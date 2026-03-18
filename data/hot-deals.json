@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T11:30:18.964758",
+  "lastUpdated": "2026-03-18T12:30:22.048621",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/16/26",
   "today": {
     "date": "2026-03-18",
@@ -1347,6 +1347,11 @@
       "timeline": [
         {
           "date": "2026-03-18",
+          "event": "Email from Jacob Delk: Re: 44 Vantage Way - Hope Smiles",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-18",
           "event": "Email from Shelby Hall: HopeSmiles at 44V",
           "type": "email"
         },
@@ -2114,14 +2119,14 @@
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "lastAction": "Email from Jacob Delk: Re: 44 Vantage Way - Hope Smiles",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "lastAction": "Email from Jacob Delk: Re: 44 Vantage Way - Hope Smiles",
       "urgency": "low"
     },
     {
