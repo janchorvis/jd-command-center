@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T10:30:22.880209",
+  "lastUpdated": "2026-03-18T11:30:18.964758",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/16/26",
   "today": {
     "date": "2026-03-18",
@@ -366,6 +366,11 @@
       "timeline": [
         {
           "date": "2026-03-18",
+          "event": "Email from ICSC Commerce + Communities Today: How Community Ownership Is Reviving a Columbus Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-18",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
         },
@@ -533,6 +538,11 @@
       "nextStep": "Send counter with TI/rent adjustment, get Micah's sign-off on roof timeline.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-18",
+          "event": "Email from Justin Schad: Sevierville, TN - 201 Forks of the River Pkwy (Big Lot's) - America's Thrift Sto",
+          "type": "email"
+        },
         {
           "date": "2026-03-17",
           "event": "Email from محمد الدعاس: LoopNet Lead for Dixie Village Shopping Center",
@@ -1067,6 +1077,16 @@
       "nextStep": "Site visit 3/18. Bring Matterport equipment.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-18",
+          "event": "Email from Justin Schad: Sevierville, TN - 201 Forks of the River Pkwy (Big Lot's) - America's Thrift Sto",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-18",
+          "event": "Email from Craige Pearson: NEW LISTING | 14,000 SF Building on 3.5 AC | McMinnville, TN",
+          "type": "email"
+        },
         {
           "date": "2026-03-18",
           "event": "Email from Will Ramey: Quick Call? 200 Hobson St, McMinnville, Tennessee 37110",
@@ -1979,13 +1999,6 @@
       "urgency": "low"
     },
     {
-      "name": "Chad Vang",
-      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
-      "daysSinceContact": 1,
-      "lastAction": "Email from محمد الدعاس: LoopNet Lead for Dixie Village Shopping Center",
-      "urgency": "low"
-    },
-    {
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 1,
@@ -2031,7 +2044,14 @@
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from ICSC Commerce + Communities Today: How Community Ownership Is Revivin",
+      "urgency": "low"
+    },
+    {
+      "name": "Chad Vang",
+      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Justin Schad: Sevierville, TN - 201 Forks of the River Pkwy (Big Lot'",
       "urgency": "low"
     },
     {
@@ -2066,7 +2086,7 @@
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Will Ramey: Quick Call? 200 Hobson St, McMinnville, Tennessee 37110",
+      "lastAction": "Email from Justin Schad: Sevierville, TN - 201 Forks of the River Pkwy (Big Lot'",
       "urgency": "low"
     },
     {
