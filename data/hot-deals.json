@@ -3492,8 +3492,10 @@
         "id": "sweep-5",
         "text": "McMinnville — site visit Wednesday",
         "detail": "Matterport haunted house space, measure Royal Furniture space, meet John Petty/UPS franchisee.",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-03-18T01:48:15.644Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-6",
