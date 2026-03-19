@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T07:18:00.713287",
+  "lastUpdated": "2026-03-19T09:30:30.083557",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/16/26",
   "today": {
     "date": "2026-03-19",
@@ -47,6 +47,11 @@
       "nextStep": "Follow up on site visit status.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-19",
+          "event": "Email from Men of Valor: Put a Word on it – Season 9, Episode 2 Paul Mills ~ plus MOV breakfast details",
+          "type": "email"
+        },
         {
           "date": "2026-03-19",
           "event": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Wednesday 3/18",
@@ -245,6 +250,11 @@
       "nextStep": "Send revised shared access language to Paul",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-19",
+          "event": "Email from Men of Valor: Put a Word on it – Season 9, Episode 2 Paul Mills ~ plus MOV breakfast details",
+          "type": "email"
+        },
         {
           "date": "2026-03-19",
           "event": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Wednesday 3/18",
@@ -1496,6 +1506,11 @@
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
+          "date": "2026-03-19",
+          "event": "Email from Jacob Delk: Re: 44 Vantage Way - Hope Smiles",
+          "type": "email"
+        },
+        {
           "date": "2026-03-18",
           "event": "Email from Jacob Delk: Re: 44 Vantage Way - Hope Smiles",
           "type": "email"
@@ -1627,6 +1642,21 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-03-19",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Joe Bulovas",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-19",
+          "event": "Email from Michael Check: DON’T MISS IT, we are 1 WEEK away from the annual Men of Valor breakfast with ou",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-19",
+          "event": "Email from NAIOP Nashville: Last Chance to Buy NAIOP Awards Gala Tickets!",
+          "type": "email"
+        },
         {
           "date": "2026-03-18",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - William Barnette",
@@ -1863,6 +1893,16 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-03-19",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Joe Bulovas",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-19",
+          "event": "Email from NAIOP Nashville: Last Chance to Buy NAIOP Awards Gala Tickets!",
+          "type": "email"
+        },
         {
           "date": "2026-03-18",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - William Barnette",
@@ -2185,73 +2225,17 @@
       "urgency": "low"
     },
     {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: Re: 44 Vantage Way - Hope Smiles",
-      "urgency": "low"
-    },
-    {
-      "name": "Shelby Hall",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: Re: 44 Vantage Way - Hope Smiles",
-      "urgency": "low"
-    },
-    {
-      "name": "Julie Robbins",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - William Barnette",
-      "urgency": "low"
-    },
-    {
-      "name": "Michael Dunn",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - William Barnette",
-      "urgency": "low"
-    },
-    {
-      "name": "Cole @ DR Horton",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - William Barnette",
-      "urgency": "low"
-    },
-    {
-      "name": "Charles Hawkins",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - William Barnette",
-      "urgency": "low"
-    },
-    {
-      "name": "Brether group",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - William Barnette",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - William Barnette",
-      "urgency": "low"
-    },
-    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Wednesday 3/18",
+      "lastAction": "Email from Men of Valor: Put a Word on it – Season 9, Episode 2 Paul Mills ~ plu",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Wednesday 3/18",
+      "lastAction": "Email from Men of Valor: Put a Word on it – Season 9, Episode 2 Paul Mills ~ plu",
       "urgency": "low"
     },
     {
@@ -2308,6 +2292,62 @@
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Wednesday 3/18",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: Re: 44 Vantage Way - Hope Smiles",
+      "urgency": "low"
+    },
+    {
+      "name": "Shelby Hall",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: Re: 44 Vantage Way - Hope Smiles",
+      "urgency": "low"
+    },
+    {
+      "name": "Julie Robbins",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Joe Bulovas",
+      "urgency": "low"
+    },
+    {
+      "name": "Michael Dunn",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Joe Bulovas",
+      "urgency": "low"
+    },
+    {
+      "name": "Cole @ DR Horton",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Joe Bulovas",
+      "urgency": "low"
+    },
+    {
+      "name": "Charles Hawkins",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Joe Bulovas",
+      "urgency": "low"
+    },
+    {
+      "name": "Brether group",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Joe Bulovas",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Joe Bulovas",
       "urgency": "low"
     }
   ],
