@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T10:31:03.810861",
+  "lastUpdated": "2026-03-19T11:30:25.646331",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/16/26",
   "today": {
     "date": "2026-03-19",
@@ -926,6 +926,11 @@
       "timeline": [
         {
           "date": "2026-03-19",
+          "event": "Email from R. Stephen Prather: Let's Do a Deal",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-19",
           "event": "Email from Topher Stephenson from CRE AI Studio & ChatCRE: OpenClaw for CRE Prospecting + The AI for CRE Attorneys Program is HERE",
           "type": "email"
         },
@@ -1202,6 +1207,11 @@
       "nextStep": "Site visit 3/18. Bring Matterport equipment.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-19",
+          "event": "Email from Kevin Trujillo: FW: McMinnville Wingstop",
+          "type": "email"
+        },
         {
           "date": "2026-03-19",
           "event": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Wednesday 3/18",
@@ -1915,6 +1925,11 @@
       "timeline": [
         {
           "date": "2026-03-19",
+          "event": "Email from R. Stephen Prather: Let's Do a Deal",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-19",
           "event": "Email from Topher Stephenson from CRE AI Studio & ChatCRE: OpenClaw for CRE Prospecting + The AI for CRE Attorneys Program is HERE",
           "type": "email"
         },
@@ -2267,14 +2282,14 @@
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Topher Stephenson from CRE AI Studio & ChatCRE: OpenClaw for CRE Pros",
+      "lastAction": "Email from R. Stephen Prather: Let's Do a Deal",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Topher Stephenson from CRE AI Studio & ChatCRE: OpenClaw for CRE Pros",
+      "lastAction": "Email from R. Stephen Prather: Let's Do a Deal",
       "urgency": "low"
     },
     {
@@ -2295,7 +2310,7 @@
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Wednesday 3/18",
+      "lastAction": "Email from Kevin Trujillo: FW: McMinnville Wingstop",
       "urgency": "low"
     },
     {
@@ -2358,21 +2373,21 @@
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Topher Stephenson from CRE AI Studio & ChatCRE: OpenClaw for CRE Pros",
+      "lastAction": "Email from R. Stephen Prather: Let's Do a Deal",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Topher Stephenson from CRE AI Studio & ChatCRE: OpenClaw for CRE Pros",
+      "lastAction": "Email from R. Stephen Prather: Let's Do a Deal",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Topher Stephenson from CRE AI Studio & ChatCRE: OpenClaw for CRE Pros",
+      "lastAction": "Email from R. Stephen Prather: Let's Do a Deal",
       "urgency": "low"
     }
   ],
