@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T11:30:25.646331",
+  "lastUpdated": "2026-03-19T12:30:23.296477",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/16/26",
   "today": {
     "date": "2026-03-19",
@@ -1532,6 +1532,11 @@
       "timeline": [
         {
           "date": "2026-03-19",
+          "event": "Email from Jacob Delk: 44 Vantage LOI",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-19",
           "event": "Email from Jacob Delk: RFP- Hope Smiles - Cool Springs Commons",
           "type": "email"
         },
@@ -1672,6 +1677,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-03-19",
+          "event": "Email from NASHtoday x Nashville Zoo: Snag tickets to DinoTrek at the Nashville Zoo",
+          "type": "email"
+        },
         {
           "date": "2026-03-19",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Joe Bulovas",
@@ -1923,6 +1933,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-03-19",
+          "event": "Email from NASHtoday x Nashville Zoo: Snag tickets to DinoTrek at the Nashville Zoo",
+          "type": "email"
+        },
         {
           "date": "2026-03-19",
           "event": "Email from R. Stephen Prather: Let's Do a Deal",
@@ -2338,56 +2353,56 @@
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: RFP- Hope Smiles - Cool Springs Commons",
+      "lastAction": "Email from Jacob Delk: 44 Vantage LOI",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: RFP- Hope Smiles - Cool Springs Commons",
+      "lastAction": "Email from Jacob Delk: 44 Vantage LOI",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Joe Bulovas",
+      "lastAction": "Email from NASHtoday x Nashville Zoo: Snag tickets to DinoTrek at the Nashville ",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Joe Bulovas",
+      "lastAction": "Email from NASHtoday x Nashville Zoo: Snag tickets to DinoTrek at the Nashville ",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Joe Bulovas",
+      "lastAction": "Email from NASHtoday x Nashville Zoo: Snag tickets to DinoTrek at the Nashville ",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from R. Stephen Prather: Let's Do a Deal",
+      "lastAction": "Email from NASHtoday x Nashville Zoo: Snag tickets to DinoTrek at the Nashville ",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from R. Stephen Prather: Let's Do a Deal",
+      "lastAction": "Email from NASHtoday x Nashville Zoo: Snag tickets to DinoTrek at the Nashville ",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from R. Stephen Prather: Let's Do a Deal",
+      "lastAction": "Email from NASHtoday x Nashville Zoo: Snag tickets to DinoTrek at the Nashville ",
       "urgency": "low"
     }
   ],
