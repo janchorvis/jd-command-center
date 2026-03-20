@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T11:30:19.635227",
+  "lastUpdated": "2026-03-20T12:30:26.062356",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/16/26",
   "today": {
     "date": "2026-03-20",
@@ -1857,6 +1857,11 @@
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
+          "date": "2026-03-20",
+          "event": "Email from Phoenix Club of Nashville: Please share feedback about Jake DeFrance",
+          "type": "email"
+        },
+        {
           "date": "2026-03-19",
           "event": "Email from Ashley Cusker | Katz & Associates: Candy Cloud: Quick-Service Beverage Shop is Seeking Sites in Williamson County a",
           "type": "email"
@@ -2117,6 +2122,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-03-20",
+          "event": "Email from Phoenix Club of Nashville: Please share feedback about Jake DeFrance",
+          "type": "email"
+        },
         {
           "date": "2026-03-19",
           "event": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnville- The Hut, Russellvil",
@@ -2479,48 +2489,6 @@
       "urgency": "low"
     },
     {
-      "name": "Julie Robbins",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Ashley Cusker | Katz & Associates: Candy Cloud: Quick-Service Beverag",
-      "urgency": "low"
-    },
-    {
-      "name": "Michael Dunn",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Ashley Cusker | Katz & Associates: Candy Cloud: Quick-Service Beverag",
-      "urgency": "low"
-    },
-    {
-      "name": "Cole @ DR Horton",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Ashley Cusker | Katz & Associates: Candy Cloud: Quick-Service Beverag",
-      "urgency": "low"
-    },
-    {
-      "name": "Charles Hawkins",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnvil",
-      "urgency": "low"
-    },
-    {
-      "name": "Brether group",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnvil",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnvil",
-      "urgency": "low"
-    },
-    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
@@ -2602,6 +2570,48 @@
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
       "lastAction": "Email from Carson Knight: Welcome to Bell Plaza! (Signed Lease & Next Steps)",
+      "urgency": "low"
+    },
+    {
+      "name": "Julie Robbins",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Jake DeFrance",
+      "urgency": "low"
+    },
+    {
+      "name": "Michael Dunn",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Jake DeFrance",
+      "urgency": "low"
+    },
+    {
+      "name": "Cole @ DR Horton",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Jake DeFrance",
+      "urgency": "low"
+    },
+    {
+      "name": "Charles Hawkins",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Jake DeFrance",
+      "urgency": "low"
+    },
+    {
+      "name": "Brether group",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Jake DeFrance",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Jake DeFrance",
       "urgency": "low"
     }
   ],
