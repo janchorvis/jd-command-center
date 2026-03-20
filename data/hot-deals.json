@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T12:30:26.062356",
+  "lastUpdated": "2026-03-20T13:30:16.917811",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/16/26",
   "today": {
     "date": "2026-03-20",
@@ -483,6 +483,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-20",
+          "event": "Email from LoopNet Auctions by Ten-X: Your Weekly CRE Auction Alert – Don’t Miss These Opportunities!",
+          "type": "email"
+        },
         {
           "date": "2026-03-20",
           "event": "Email from ICSC Commerce + Communities Today: 3 Chains Add 600 Stores, CBL's $600M Refi, Cedars-Sinai Buys Shopping Center and",
@@ -1858,6 +1863,11 @@
       "timeline": [
         {
           "date": "2026-03-20",
+          "event": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike in Nashville",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-20",
           "event": "Email from Phoenix Club of Nashville: Please share feedback about Jake DeFrance",
           "type": "email"
         },
@@ -2122,6 +2132,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-03-20",
+          "event": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike in Nashville",
+          "type": "email"
+        },
         {
           "date": "2026-03-20",
           "event": "Email from Phoenix Club of Nashville: Please share feedback about Jake DeFrance",
@@ -2506,7 +2521,7 @@
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: 3 Chains Add 600 Stores, CBL's $60",
+      "lastAction": "Email from LoopNet Auctions by Ten-X: Your Weekly CRE Auction Alert – Don’t Miss",
       "urgency": "low"
     },
     {
@@ -2576,42 +2591,42 @@
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Jake DeFrance",
+      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Jake DeFrance",
+      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Jake DeFrance",
+      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Jake DeFrance",
+      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Jake DeFrance",
+      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Jake DeFrance",
+      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
       "urgency": "low"
     }
   ],
