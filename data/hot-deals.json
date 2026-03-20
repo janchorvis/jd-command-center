@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T15:01:09.530584",
+  "lastUpdated": "2026-03-20T15:30:23.009791",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/16/26",
   "today": {
     "date": "2026-03-20",
@@ -1034,6 +1034,11 @@
       "nextStep": "Review LOI, respond to Prather. Redline Emerson Hall prospect lease (on Jacob's priority list).",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-20",
+          "event": "Email from The Google Workspace Team: Your deletion of Jacque Jordan from Google Workspace was successful",
+          "type": "email"
+        },
         {
           "date": "2026-03-20",
           "event": "Email from R. Stephen Prather: Let's Do a Deal",
@@ -2559,14 +2564,14 @@
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from R. Stephen Prather: Let's Do a Deal",
+      "lastAction": "Email from The Google Workspace Team: Your deletion of Jacque Jordan from Google",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from R. Stephen Prather: Let's Do a Deal",
+      "lastAction": "Email from The Google Workspace Team: Your deletion of Jacque Jordan from Google",
       "urgency": "low"
     },
     {
