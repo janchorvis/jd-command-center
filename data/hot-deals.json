@@ -2507,6 +2507,13 @@
       "property": "Emerson Tour",
       "lastSeen": "Week Of 3/2/26",
       "note": "Dropped from prep doc with no status recorded."
+    },
+    {
+      "id": "malone-plaza-multiple-active-deals",
+      "name": "Malone Plaza",
+      "property": "Multiple Active Deals",
+      "lastSeen": "Week Of 3/9/26",
+      "note": "Dropped from prep doc. Last status: Five Below - They just sent back their LOI this morning. Finishing my briefing document, and then I will review and we can talk about Shoe Dept - I talked to Paul at the end of last week and will fill you in. I am revising the shared access language and going to send it back to them after this meeting Ajay Secore - Golf Simulator (New Lead) - Inbound inquiry 3/1 for Unit 3. Wants to open a golf simulator business. Has existing hat/boarding business. $100K liquid cash, ~$200K total buildout budget. Call held 3/2 - Jacob sent architectural drawing, virtual tour, and lockbox code. Prospect is engaged and following up."
     }
   ],
   "staleContacts": [
@@ -2717,31 +2724,16 @@
   "brainDumps": [],
   "actionItems": [
     {
-      "title": "AI/Claude",
+      "title": "Job Listing - Luke texted, recruiter Robbie ready, need instructions to launch",
       "detail": ""
     },
     {
-      "title": "Team vs. Individual accounts",
-      "detail": "",
-      "completed": true
+      "title": "AI/Claude - [details TBD]",
+      "detail": "Jacob's Overdue Items Send clean job description email to Micah for recruiter Robbie (due 3/12)"
     },
     {
-      "title": "Job Listing",
-      "detail": "I texted Luke at the end of last week, just letting him know we were going to launch a job listing in the next couple of weeks. Can you let me know what I need to do with the recruiter in order to launch it, or if you'd rather wait one more week?",
-      "completed": true
-    },
-    {
-      "title": "Feb Commissions",
-      "detail": "I prepped everything yesterday to send you my February permissions. Just leaving this here to remind myself to talk about some of the Anchor commissions so that way we don't have to do it completely over email",
-      "completed": true
-    },
-    {
-      "title": "Waiting on Melissa: Marshalls Memo of Exclusive",
-      "detail": "Delegated 3/14. Asana task 1213647529863453 assigned to Melissa Eddy, due 3/20. She's reaching out to Ashby re: Memo of Exclusive path (Runnings unlikely to sign) + Declarant estoppel letter (past due).",
-      "completed": true,
-      "delegatedTo": "Melissa",
-      "delegatedDate": "2026-03-14",
-      "asanaTaskId": "1213647529863453"
+      "title": "Commission instructions to Carol - Feb invoices",
+      "detail": ""
     }
   ],
   "crossRefAlerts": [
@@ -4149,83 +4141,243 @@
     ]
   },
   "prepDocDiff": {
-    "generatedAt": "2026-03-13T15:00:18.450057",
-    "thisWeek": "Leasing Meeting Prep - Week of 3/9/26",
-    "lastWeek": "Leasing Meeting Prep - Week of 3/2/26",
+    "generatedAt": "2026-03-20T15:00:15.376220",
+    "thisWeek": "Leasing Meeting Prep - Week of 3/16/26",
+    "lastWeek": "Leasing Meeting Prep - Week of 3/9/26",
     "new": [
       {
+        "name": "DEAL UPDATES",
+        "property": "DEAL UPDATES",
+        "status": "",
+        "nextStep": ""
+      },
+      {
         "name": "Malone Plaza",
-        "property": "Multiple Active Deals",
-        "status": "Five Below - They just sent back their LOI this morning. Finishing my briefing document, and then I will review and we can talk about Shoe Dept - I talked to Paul at the end of last week and will fill you in. I am revising the shared access language and going to send it back to them after this meeting Ajay Secore - Golf Simulator (New Lead) - Inbound inquiry 3/1 for Unit 3. Wants to open a golf simulator business. Has existing hat/boarding business. $100K liquid cash, ~$200K total buildout budget. Call held 3/2 - Jacob sent architectural drawing, virtual tour, and lockbox code. Prospect is engaged and following up.",
+        "property": "Five Below (LOI)",
+        "status": "Five Below sent back their LOI (received 3/11 via Tracy Lauer at Wide Waters). Briefing document being prepared for Micah review. This is for the former JoAnn space. Open Asana items: Put them on a timeframe. Send ML the comparison for Five Below.",
+        "nextStep": "Review LOI redline, prepare counter if needed, discuss terms with Micah."
+      },
+      {
+        "name": "Malone Plaza",
+        "property": "Shoe Dept (Lease Draft & Review)",
+        "status": "Jacob spoke with Paul end of last week regarding shared access language. Revising that language and sending back after Monday meeting. LaTrisha Vinci sent updated info 3/13.",
+        "nextStep": "Send revised shared access language to Paul."
+      },
+      {
+        "name": "Malone Plaza",
+        "property": "Ajay Secore / Golf Simulator (Touring)",
+        "status": "New lead - inbound inquiry 3/1 for Unit 3. Wants to open a golf simulator business with existing hat/boarding business. $100K liquid cash, ~$200K total buildout budget. Call held 3/2 - Jacob sent architectural drawing, virtual tour, and lockbox code. Ajay emailed 3/6 following up.",
+        "nextStep": "Follow up on site visit status."
+      },
+      {
+        "name": "Shelbyville",
+        "property": "Anytime Fitness / Derek Tucker (LOI)",
+        "status": "LOI in progress. Derek Tucker is relocating, wants to be in by November. Derek sent Big Lots listing info 3/11. Multiple Pipedrive entries for this deal are stale (last updated Dec 2025 in some cases). Open Asana: Get a physical sign.",
+        "nextStep": "Call Derek Tucker back, update Pipedrive."
+      },
+      {
+        "name": "Malone Plaza (Five Below / Shoe Dept / Ajay Secore consolidated)",
+        "property": "Malone Plaza (Five Below / Shoe Dept / Ajay Secore consolidated)",
+        "status": "",
         "nextStep": ""
       },
       {
         "name": "Gastonia",
-        "property": "Dixie Village (Laundromat Space)",
-        "status": "I responded to the LOI. They are requesting an extra $30,000(from 50-80) in TI to fix the front doors and some of the side windows that have been busted. We will also need to fix this roof and most likely replace it- it is already on the asset management dashboard for this year. We are currently at 12.50 for rent. My thought is to go back to them and tell them we can give them the 30,000, and since we're going to have to replace the roof and give them HVACs. We need to bump the starting rent up $.50-1.00. I think that gets a deal done, and they seem like a good operator, and we've been sitting on this space for a while so I think we should do it.",
+        "property": "Dixie Village Laundromat",
+        "status": "",
         "nextStep": ""
       },
       {
         "name": "Russellville ABC Retail",
         "property": "Russellville ABC Retail",
-        "status": "Stage: Lease Draft & Review | Lease received in the mail (email from Melissa Eddy 3/3). Requires 3 hand-signed copies - not DocuSign. Melissa asking if Micah is good to sign. Need to coordinate getting copies signed and returned.",
+        "status": "",
         "nextStep": ""
       },
       {
         "name": "Charles Hawkins Co.",
         "property": "Hotel Space",
-        "status": "Stephen Prather (Charles Hawkins Co.) submitted LOI for hotel space. Tenants are Lexy and Austin - \"very excited about getting a deal done\" and believe they'll drive traffic to the hotel. Want to be in the space ASAP but understand there are moving parts. Awaiting response.",
+        "status": "",
         "nextStep": ""
       },
       {
         "name": "Montgomery",
-        "property": "Montgomery",
-        "status": "QT Nails (1642 Atlanta HWY) - Full lease application received 3/5. QT Nails by Dwaine LLC, principals Nhung Pham and Dwaine High from Montgomery, AL. Pedicure/nail shop. Looking for 5-year term, projected opening May 1, 2026. They have another location at 3980 Atlanta HWY. Tax docs uploaded. We are working on all these to get to them. Hoping to move through this one quickly.",
+        "property": "QT Nails",
+        "status": "",
         "nextStep": ""
       },
       {
         "name": "McMinnville",
-        "property": "McMinnville",
-        "status": "I've been coordinating with Jon Petty, their UPS store franchisee has interest in one of our small shops. I am going to meet them on site on the 18th. It is a good excuse to go out there in Matterport, the haunted house, and look at some other spaces as well.",
+        "property": "UPS Store",
+        "status": "Dropped from Prep Doc (4 from 3/2) Coaches Bargainz (Russellville) - lease fully executed Feb 25 [WIN - closed deal]",
+        "nextStep": ""
+      },
+      {
+        "name": "Five Below LOI review",
+        "property": "moved to Malone Plaza section (not actually dropped)",
+        "status": "Runnings / Marshalls Q - question about Memorandum of Exclusive timeline, alternative path discussed",
+        "nextStep": ""
+      },
+      {
+        "name": "Emerson Tour",
+        "property": "now appears as Charles Hawkins Co. LOI (progressed, not dropped)",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Dropped Balls",
+        "property": "Missing from Recent Prep Docs",
+        "status": "CosmoProf (Sevierville) - last seen 2/16, was \"working on a response.\" Gone 3 weeks. WingStop (McMinnville) - last seen 2/16, was \"close on LOI at $17 net / $90K TI.\" Completely disappeared. Sally Beauty (McMinnville) - last seen 2/16, initial interest 1,700-2,000 SF. Never mentioned again. Fat Boys Pizza (Russellville) - last seen 2/16, prospect \"really liked it, working through details.\" Gone. Peddlers Mall (Evansville) - last seen 2/24, toured and liked it. Dropped from 3/2 and 3/9. AGENDA / ACTION ITEMS",
+        "nextStep": ""
+      },
+      {
+        "name": "From Asana (Leasing Meeting project",
+        "property": "open)",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Put Five Below on a timeframe",
+        "property": "Put Five Below on a timeframe",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Send ML the comparison for Five Below",
+        "property": "Send ML the comparison for Five Below",
+        "status": "Connect with ABC store to make sure they get [copies]",
+        "nextStep": ""
+      },
+      {
+        "name": "More details on the shows",
+        "property": "is this a strip club?",
+        "status": "Get a physical sign Send Micah the job description",
+        "nextStep": ""
+      },
+      {
+        "name": "We'll pay Russellville this year",
+        "property": "put it in this year and Malone",
+        "status": "From Prep Doc (3/9)",
+        "nextStep": ""
+      },
+      {
+        "name": "Call Brether group",
+        "property": "Emerson Hall interest (due 3/11)",
+        "status": "Confirm with Melissa re: signed docs received (due 3/12) Send AI resources to Anchor team (due 3/11)",
+        "nextStep": ""
+      },
+      {
+        "name": "Connect with Shelby Hall",
+        "property": "Hope Smiles TI counter (due 3/12)",
+        "status": "Harrison Trampoline LOI (due 2/27)",
+        "nextStep": ""
+      },
+      {
+        "name": "Redline Emerson Hall prospect lease",
+        "property": "Redline Emerson Hall prospect lease",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "PIPEDRIVE HYGIENE",
+        "property": "PIPEDRIVE HYGIENE",
+        "status": "79 cross-reference alerts found. Deals with active email threads but stale Pipedrive entries: ABC Retail / Russellville - 17 stale Pipedrive entries (some not updated since Aug 2024)",
+        "nextStep": ""
+      },
+      {
+        "name": "Anytime Fitness / Shelbyville",
+        "property": "14 stale entries (oldest: Aug 2025)",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "QT Nails / Montgomery",
+        "property": "9 stale entries (oldest: Sep 2025)",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Five Below / Malone",
+        "property": "7 stale entries (oldest: Sep 2025)",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Ajay Secore / Malone",
+        "property": "6 stale entries (oldest: Sep 2025)",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Shoe Dept / Malone",
+        "property": "3 stale entries",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "UPS Store / McMinnville",
+        "property": "5 stale entries",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Buena Vista",
+        "property": "1 stale entry",
+        "status": "",
         "nextStep": ""
       }
     ],
     "dropped": [
       {
-        "name": "Coaches Bargainz (Russellville) lease fully executed Feb 25",
-        "property": "Coaches Bargainz (Russellville) lease fully executed Feb 25",
-        "lastStatus": "AGENDA ITEMS"
-      },
-      {
-        "name": "Review five below LOI. (information in Slack)",
-        "property": "Review five below LOI. (information in Slack)",
-        "lastStatus": ""
-      },
-      {
-        "name": "Runnings",
-        "property": "Marshalls Q",
-        "lastStatus": "There was no definitive timeline in the lease around us getting the Memorandum of Exclusive signed by Runnings. Do we even want to try to get them to sign it, or just move on to the alternative? I can explain more in depth in our meeting."
-      },
-      {
-        "name": "Emerson Tour",
-        "property": "Emerson Tour",
-        "lastStatus": ""
+        "name": "Malone Plaza",
+        "property": "Multiple Active Deals",
+        "lastStatus": "Five Below - They just sent back their LOI this morning. Finishing my briefing document, and then I will review and we can talk about Shoe Dept - I talked to Paul at the end of last week and will fill you in. I am revising the shared access language and going to send it back to them after this meeting Ajay Secore - Golf Simulator (New Lead) - Inbound inquiry 3/1 for Unit 3. Wants to open a golf simulator business. Has existing hat/boarding business. $100K liquid cash, ~$200K total buildout budget. Call held 3/2 - Jacob sent architectural drawing, virtual tour, and lockbox code. Prospect is engaged and following up."
       }
     ],
-    "progressed": [],
+    "progressed": [
+      {
+        "name": "Russellville",
+        "property": "ABC Retail (Lease Draft & Review)",
+        "from": "Stage: Lease Draft & Review | Lease received in the mail (email from Melissa Eddy 3/3). Requires 3 hand-signed copies - not DocuSign. Melissa asking if Micah is good to sign. Need to coordinate getting copies signed and returned.",
+        "to": "Lease received in the mail (Melissa Eddy emailed 3/3). Requires 3 hand-signed copies - no DocuSign. Melissa asking if Micah is good to sign. Active email thread as of 3/13. Open Asana: Connect with ABC store to make sure they get [copies]. We'll pay Russellville this year - put it in this year and Malone."
+      },
+      {
+        "name": "Emerson Hall",
+        "property": "Charles Hawkins Co. / Hotel Space (LOI)",
+        "from": "Stephen Prather (Charles Hawkins Co.) submitted LOI for hotel space. Tenants are Lexy and Austin - \"very excited about getting a deal done\" and believe they'll drive traffic to the hotel. Want to be in the space ASAP but understand there are moving parts. Awaiting response.",
+        "to": "Stephen Prather (Charles Hawkins Co.) submitted LOI. Tenants are Lexy and Austin - \"very excited about getting a deal done\" and believe they'll drive traffic to the hotel. Want to be in the space ASAP but understand there are moving parts. Open Asana: More details on the shows - is this a strip club? Call Brether group - Emerson Hall interest, clarify show details."
+      }
+    ],
     "stalled": [],
     "updated": [
       {
-        "name": "Hope Smiles",
-        "property": "Hope Smiles",
-        "from": "",
-        "to": "All good here. Hoping to connect with Shelby after this"
+        "name": "Gastonia / Dixie Village",
+        "property": "Chad Vang Laundromat (LOI)",
+        "from": "I responded to the LOI. They are requesting an extra $30,000(from 50-80) in TI to fix the front doors and some of the side windows that have been busted. We will also need to fix this roof and most likely replace it- it is already on the asset management dashboard for this year. We are currently at 12.50 for rent. My thought is to go back to them and tell them we can give them the 30,000, and since we're going to have to replace the roof and give them HVACs. We need to bump the starting rent up $.50-1.00. I think that gets a deal done, and they seem like a good operator, and we've been sitting on this space for a while so I think we should do it.",
+        "to": "LOI counter received. They're requesting extra $30K in TI (from $50K to $80K) for front doors and side windows that have been busted. Roof replacement also needed (already on asset management dashboard for this year). Currently at $12.50/SF rent. Jacob's recommendation: grant the extra $30K TI, bump starting rent $0.50-$1.00/SF to offset. Good operator, space has been sitting."
       },
       {
-        "name": "Buena Vista",
-        "property": "Buena Vista",
-        "from": "",
-        "to": "Do you have more documents besides this folder? Asking in light of looking for a survey, etc."
+        "name": "Montgomery",
+        "property": "QT Nails / 1642 Atlanta HWY (Lease Signed)",
+        "from": "QT Nails (1642 Atlanta HWY) - Full lease application received 3/5. QT Nails by Dwaine LLC, principals Nhung Pham and Dwaine High from Montgomery, AL. Pedicure/nail shop. Looking for 5-year term, projected opening May 1, 2026. They have another location at 3980 Atlanta HWY. Tax docs uploaded. We are working on all these to get to them. Hoping to move through this one quickly.",
+        "to": "Full lease application received 3/5. QT Nails by Dwaine LLC (principals Nhung Pham and Dwaine High, Montgomery AL). Pedicure/nail shop, 5-year term, projected opening May 1, 2026. They have another location at 3980 Atlanta HWY. Tax docs uploaded. Lease completed via DocuSign (Micah forwarded 3/12). Multiple Pipedrive entries stale (last updated Sep-Nov 2025)."
+      },
+      {
+        "name": "McMinnville",
+        "property": "UPS Store Franchisee (Touring)",
+        "from": "I've been coordinating with Jon Petty, their UPS store franchisee has interest in one of our small shops. I am going to meet them on site on the 18th. It is a good excuse to go out there in Matterport, the haunted house, and look at some other spaces as well.",
+        "to": "Jacob coordinating with Jon Petty. On-site meeting scheduled 3/18. Also planning to Matterport the haunted house and look at other spaces while there. Email active as of 3/13, but Pipedrive not updated since Feb."
+      },
+      {
+        "name": "Hope Smiles (Updated)",
+        "property": "Hope Smiles (Updated)",
+        "from": "All good here. Hoping to connect with Shelby after this",
+        "to": "\"All good here. Hoping to connect with Shelby after this.\" Jacob has an overdue Asana item to connect with Shelby Hall on TI counter."
+      },
+      {
+        "name": "Buena Vista / 2433 Buena Vista Pike (Updated)",
+        "property": "Buena Vista / 2433 Buena Vista Pike (Updated)",
+        "from": "Do you have more documents besides this folder? Asking in light of looking for a survey, etc.",
+        "to": "\"Do you have more documents besides this folder? Asking in light of looking for a survey, etc.\" Active email thread as of 3/13."
       }
     ],
     "noChange": []
