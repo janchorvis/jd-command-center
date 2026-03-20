@@ -1,28 +1,38 @@
 {
-  "lastUpdated": "2026-03-19T17:30:22.659507",
+  "lastUpdated": "2026-03-20T07:16:44.142407",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/16/26",
   "today": {
-    "date": "2026-03-19",
-    "greeting": "Good morning, Jacob. You have 8 overdue items.",
+    "date": "2026-03-20",
+    "greeting": "Good morning, Jacob. You have 6 overdue items.",
     "meetings": [
       {
         "time": "12:00 AM",
-        "title": "Parker (9-2)",
+        "title": "Weekly Report Due: See Notes",
         "dealContext": null
       },
       {
         "time": "6:00 AM",
-        "title": "Carter Bible Study Green Hills Mall",
+        "title": "West End Men’s Bible Study",
         "dealContext": null
       },
       {
-        "time": "1:30 PM",
-        "title": "Jacob / Carson",
+        "time": "7:30 AM",
+        "title": "Call Justin",
         "dealContext": null
       },
       {
-        "time": "3:00 PM",
-        "title": "PCON",
+        "time": "8:00 AM",
+        "title": "Jacob Delk x Mitchell Hehn Coffee",
+        "dealContext": null
+      },
+      {
+        "time": "9:00 AM",
+        "title": "Shout - Outs",
+        "dealContext": null
+      },
+      {
+        "time": "12:00 PM",
+        "title": "Weekly Report - Fill out by 12 on Fridays",
         "dealContext": null
       }
     ],
@@ -30,11 +40,11 @@
       "PCON: Submit feedback form for Jack Beachboard (overdue — due 2026-03-17)",
       "Call Sheldon - Aldi (overdue — due 2026-03-17)",
       "Commission instructions to Carol — Feb invoices (overdue — due 2026-03-13)",
-      "Send AI resources to Anchor team (overdue — due 2026-03-11)",
       "Redline Emerson Hall prospect lease (overdue — due 2026-03-13)",
       "See when Dallas could meet with carter (overdue — due 2026-03-13)",
-      "Send an email to guthries - Fwd: New Listing: Smalls Sliders in Flowood MS | New 15 Yr Absolute NNN Sale-Leaseback - jdelk@anchorinv.com - Anchor Investments Mail (overdue — due 2026-03-16)",
-      "Harrison Trampoline LOI (overdue — due 2026-02-27)"
+      "Harrison Trampoline LOI (overdue — due 2026-02-27)",
+      "Send Evansville info to TSCG (America's Thrift Stores site search)",
+      "Make flyer for mattresses listing"
     ]
   },
   "pipelineDeals": [
@@ -2588,7 +2598,8 @@
     },
     {
       "title": "Job Listing",
-      "detail": "I texted Luke at the end of last week, just letting him know we were going to launch a job listing in the next couple of weeks. Can you let me know what I need to do with the recruiter in order to launch it, or if you'd rather wait one more week?"
+      "detail": "I texted Luke at the end of last week, just letting him know we were going to launch a job listing in the next couple of weeks. Can you let me know what I need to do with the recruiter in order to launch it, or if you'd rather wait one more week?",
+      "completed": true
     },
     {
       "title": "Feb Commissions",
