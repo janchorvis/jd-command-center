@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T13:30:16.917811",
+  "lastUpdated": "2026-03-20T14:30:19.446270",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/16/26",
   "today": {
     "date": "2026-03-20",
@@ -1040,6 +1040,16 @@
       "timeline": [
         {
           "date": "2026-03-20",
+          "event": "Email from R. Stephen Prather: Let's Do a Deal",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-20",
+          "event": "Email from Crexi: Josh L. opened floorplan on Emerson Hall - The Gallatin",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-20",
           "event": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  jcerquitella@ggis.hu",
           "type": "email"
         },
@@ -1700,6 +1710,11 @@
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
+          "date": "2026-03-20",
+          "event": "Email from Crexi: Josh L. opened floorplan on Emerson Hall - The Gallatin",
+          "type": "email"
+        },
+        {
           "date": "2026-03-19",
           "event": "Email from Jacob Delk: Shelbyville, IN",
           "type": "email"
@@ -1861,6 +1876,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-03-20",
+          "event": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
+          "type": "email"
+        },
         {
           "date": "2026-03-20",
           "event": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike in Nashville",
@@ -2132,6 +2152,21 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-03-20",
+          "event": "Email from R. Stephen Prather: Let's Do a Deal",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-20",
+          "event": "Email from Crexi: Josh L. opened floorplan on Emerson Hall - The Gallatin",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-20",
+          "event": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
+          "type": "email"
+        },
         {
           "date": "2026-03-20",
           "event": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike in Nashville",
@@ -2490,20 +2525,6 @@
       "urgency": "low"
     },
     {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: Shelbyville, IN",
-      "urgency": "low"
-    },
-    {
-      "name": "Shelby Hall",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: Shelbyville, IN",
-      "urgency": "low"
-    },
-    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
@@ -2535,14 +2556,14 @@
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  jcerquit",
+      "lastAction": "Email from R. Stephen Prather: Let's Do a Deal",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  jcerquit",
+      "lastAction": "Email from R. Stephen Prather: Let's Do a Deal",
       "urgency": "low"
     },
     {
@@ -2588,45 +2609,59 @@
       "urgency": "low"
     },
     {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Crexi: Josh L. opened floorplan on Emerson Hall - The Gallatin",
+      "urgency": "low"
+    },
+    {
+      "name": "Shelby Hall",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Crexi: Josh L. opened floorplan on Emerson Hall - The Gallatin",
+      "urgency": "low"
+    },
+    {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
+      "lastAction": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
+      "lastAction": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
+      "lastAction": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
+      "lastAction": "Email from R. Stephen Prather: Let's Do a Deal",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
+      "lastAction": "Email from R. Stephen Prather: Let's Do a Deal",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brian D.: Drobnick L. requesting Information on 2433 Buena Vista Pike",
+      "lastAction": "Email from R. Stephen Prather: Let's Do a Deal",
       "urgency": "low"
     }
   ],
