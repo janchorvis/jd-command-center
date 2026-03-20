@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T07:16:44.142407",
+  "lastUpdated": "2026-03-20T07:17:14.806203",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/16/26",
   "today": {
     "date": "2026-03-20",
@@ -57,6 +57,16 @@
       "nextStep": "Follow up on site visit status.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-20",
+          "event": "Email from Chain Store Age: DayBreaker: Five Below to open 150 stores; Sporting goods spending falls; Costco",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-19",
+          "event": "Email from Fiverr: You’ve got new messages from Vinh.th",
+          "type": "email"
+        },
         {
           "date": "2026-03-19",
           "event": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnville- The Hut, Russellvil",
@@ -866,6 +876,16 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-03-20",
+          "event": "Email from Chain Store Age: DayBreaker: Five Below to open 150 stores; Sporting goods spending falls; Costco",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-20",
+          "event": "Email from CoStar News: CoStar Today: Retail’s new playbook takes shape on an eclectic Los Angeles boule",
+          "type": "email"
+        },
+        {
           "date": "2026-03-19",
           "event": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnville- The Hut, Russellvil",
           "type": "email"
@@ -1282,6 +1302,11 @@
       "nextStep": "Site visit 3/18. Bring Matterport equipment.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-20",
+          "event": "Email from Chain Store Age: DayBreaker: Five Below to open 150 stores; Sporting goods spending falls; Costco",
+          "type": "email"
+        },
         {
           "date": "2026-03-19",
           "event": "Email from Henry F. Kushner: New Ideal 1031 Opportunity: Store Opened Feb 9th 2026 /  Huntsville MSA Starbuck",
@@ -2384,155 +2409,155 @@
     {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Email from Justin Schad: Sevierville, TN - 201 Forks of the River Pkwy (Big Lot'",
       "urgency": "low"
     },
     {
       "name": "Paul",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnvil",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnvil",
       "urgency": "low"
     },
     {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Henry F. Kushner: New Ideal 1031 Opportunity: Store Opened Feb 9th 20",
       "urgency": "low"
     },
     {
       "name": "Derek Tucker",
       "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Shelbyville, IN",
-      "urgency": "low"
-    },
-    {
-      "name": "Melissa Eddy",
-      "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnvil",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnvil",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnvil",
       "urgency": "low"
     },
     {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
       "urgency": "low"
     },
     {
       "name": "Dwaine High",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Henry F. Kushner: New Ideal 1031 Opportunity: Store Opened Feb 9th 20",
       "urgency": "low"
     },
     {
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnvil",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnvil",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnvil",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Shelbyville, IN",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Shelbyville, IN",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Ashley Cusker | Katz & Associates: Candy Cloud: Quick-Service Beverag",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Ashley Cusker | Katz & Associates: Candy Cloud: Quick-Service Beverag",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Ashley Cusker | Katz & Associates: Candy Cloud: Quick-Service Beverag",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnvil",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnvil",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Anchor Commission Approval (Malone - Marshalls, McMinnvil",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Five Below to open 150 stores; Sporting ",
+      "urgency": "low"
+    },
+    {
+      "name": "Melissa Eddy",
+      "deal": "ABC Retail — Russellville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Five Below to open 150 stores; Sporting ",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Five Below to open 150 stores; Sporting ",
       "urgency": "low"
     }
   ],
