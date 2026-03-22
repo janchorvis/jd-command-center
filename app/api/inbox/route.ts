@@ -131,9 +131,13 @@ export async function GET(request: NextRequest) {
 
     const inbox = readInbox();
     const statusFilter = request.nextUrl.searchParams.get('status');
+    const idFilter = request.nextUrl.searchParams.get('id');
     const limit = parseInt(request.nextUrl.searchParams.get('limit') || '20', 10);
 
     let items = inbox.items;
+    if (idFilter) {
+      items = items.filter(i => i.id === idFilter);
+    }
     if (statusFilter) {
       items = items.filter(i => i.status === statusFilter);
     }
