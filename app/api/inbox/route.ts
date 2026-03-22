@@ -115,14 +115,61 @@ export async function GET(request: NextRequest) {
     }
 
     const inbox = readInbox();
-    const recent = inbox.items.slice(0, 20);
+    const statusFilter = request.nextUrl.searchParams.get('status');
+    const limit = parseInt(request.nextUrl.searchParams.get('limit') || '20', 10);
+
+    let items = inbox.items;
+    if (statusFilter) {
+      items = items.filter(i => i.status === statusFilter);
+    }
 
     return NextResponse.json({
-      items: recent,
-      total: inbox.items.length,
+      items: items.slice(0, limit),
+      total: items.length,
     });
   } catch (error) {
     console.error('[inbox GET]', error);
     return NextResponse.json({ error: 'Failed to read inbox' }, { status: 500 });
+  }
+}
+
+export async function PATCH(request: NextRequest) {
+  try {
+    if (!checkAuth(request)) {
+      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
+    }
+
+    const body = await request.json();
+    const { id, status, result } = body;
+
+    if (!id || !status) {
+      return NextResponse.json({ error: 'id and status are required' }, { status: 400 });
+    }
+
+    if (!['processing', 'completed', 'failed'].includes(status)) {
+      return NextResponse.json({ error: 'status must be processing, completed, or failed' }, { status: 400 });
+    }
+
+    const inbox = readInbox();
+    const item = inbox.items.find(i => i.id === id);
+
+    if (!item) {
+      return NextResponse.json({ error: 'Item not found' }, { status: 404 });
+    }
+
+    item.status = status;
+    if (result) item.result = result;
+    if (status === 'completed' || status === 'failed') {
+      (item as any).processedAt = new Date().toISOString();
+    }
+
+    writeInbox(inbox);
+
+    console.log('[inbox PATCH]', { id, status });
+
+    return NextResponse.json({ id, status: item.status, message: 'Updated' });
+  } catch (error) {
+    console.error('[inbox PATCH]', error);
+    return NextResponse.json({ error: 'Failed to update inbox item' }, { status: 500 });
   }
 }
