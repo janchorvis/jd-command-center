@@ -3,7 +3,9 @@ import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { join } from 'path';
 import crypto from 'crypto';
 
-const INBOX_PATH = join(process.cwd(), 'data', 'inbox.json');
+// Vercel: read seed from repo data/, write to /tmp (ephemeral but writable)
+const INBOX_SEED = join(process.cwd(), 'data', 'inbox.json');
+const INBOX_PATH = '/tmp/inbox.json';
 
 interface InboxContext {
   type: string;
@@ -33,6 +35,10 @@ function readInbox(): InboxData {
   try {
     if (existsSync(INBOX_PATH)) {
       return JSON.parse(readFileSync(INBOX_PATH, 'utf-8'));
+    }
+    // First call on this Lambda: seed from repo
+    if (existsSync(INBOX_SEED)) {
+      return JSON.parse(readFileSync(INBOX_SEED, 'utf-8'));
     }
   } catch {}
   return { items: [] };
