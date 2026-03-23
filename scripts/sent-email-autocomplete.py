@@ -352,7 +352,7 @@ def score_match(task: dict, email: dict, verbose: bool = False) -> tuple[float, 
     # "Call X" tasks can only match if there's evidence of a call, not just an email
     # "Redline X" tasks need redline/markup evidence, not just mentioning the property
     CALL_ONLY_VERBS = {"call", "text", "ping"}
-    NON_EMAIL_VERBS = {"redline", "review", "sign", "print", "scan", "notarize"}
+    NON_EMAIL_VERBS = {"redline", "review", "sign", "print", "scan", "notarize", "install", "create", "build", "order"}
     task_first_word = task_lower.split()[0] if task_lower.split() else ""
     if task_first_word in CALL_ONLY_VERBS:
         # An email can't complete a "call" task — skip entirely
@@ -360,6 +360,15 @@ def score_match(task: dict, email: dict, verbose: bool = False) -> tuple[float, 
     if task_first_word in NON_EMAIL_VERBS:
         # These need specific evidence in the email body, not just property name match
         return 0.0, "action type mismatch (non-email task)"
+
+    # ── Guard: physical action phrases anywhere in task name ─────────────
+    # Tasks like "Get a sign for X", "Install X", "Pick up X" can't be completed by email
+    PHYSICAL_PHRASES = [
+        r'\bget a sign\b', r'\binstall\b', r'\bpick up\b', r'\bprint and\b',
+        r'\bphysical\b', r'\bmail out\b', r'\bdrop off\b',
+    ]
+    if any(re.search(p, task_lower) for p in PHYSICAL_PHRASES):
+        return 0.0, "physical action task — cannot be completed by sent email"
 
     # ── Strategy 2: Subject keyword match ─────────────────────────────────
     # "Send Five Below LOI" → subject contains "Five Below" AND "LOI"
@@ -399,9 +408,10 @@ def score_match(task: dict, email: dict, verbose: bool = False) -> tuple[float, 
     # Take highest-scoring signal
     best_score, best_reason = max(signals, key=lambda x: x[0])
 
-    # Boost if task and email are same day
+    # Boost if task and email are same day — only applies if already a strong match.
+    # A weak single-keyword match (0.65) should NOT be boosted over the threshold.
     email_date = email.get("date", "")
-    if email_date and date.today().isoformat() in str(email_date):
+    if email_date and date.today().isoformat() in str(email_date) and best_score >= MATCH_THRESHOLD:
         best_score = min(best_score + 0.05, 1.0)
         best_reason += " [+same-day]"
 
