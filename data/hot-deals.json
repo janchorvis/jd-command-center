@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-23T16:48:00.000000",
+  "lastUpdated": "2026-03-23T17:30:09.074434",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/23/26",
   "today": {
     "date": "2026-03-23",
@@ -57,6 +57,11 @@
       "nextStep": "Wait for REC meeting 4/22. Follow up with Shaun on facade renderings.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-23",
+          "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+          "type": "email"
+        },
         {
           "date": "2026-03-23",
           "event": "Leasing meeting: confirmed LOI signed, REC meeting 4/22",
@@ -312,6 +317,11 @@
       "timeline": [
         {
           "date": "2026-03-23",
+          "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-23",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
         },
@@ -524,6 +534,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-23",
+          "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+          "type": "email"
+        },
         {
           "date": "2026-03-23",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
@@ -1494,6 +1509,11 @@
       "timeline": [
         {
           "date": "2026-03-23",
+          "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-23",
           "event": "Leasing meeting: LOI received, Petty visited, move forward. 'Get it done.'",
           "type": "meeting"
         },
@@ -1703,12 +1723,40 @@
       "timeline": [
         {
           "date": "2026-03-23",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-23",
           "event": "Leasing meeting: Wingstop sent back counter. Jacob called after site visit. Exploring suites.",
           "type": "meeting"
+        },
+        {
+          "date": "2026-03-19",
+          "event": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Wednesday 3/18",
+          "type": "email"
         }
       ],
-      "contacts": ["Kevin True (Broker)", "Bell (Wingstop)"],
-      "actions": [{"label": "Call Bell", "type": "call"}]
+      "contacts": [
+        "Kevin True (Broker)",
+        "Bell (Wingstop)"
+      ],
+      "actions": [
+        {
+          "label": "Call Bell",
+          "type": "call"
+        }
+      ]
     },
     {
       "id": "mcminnville-prather",
@@ -1721,12 +1769,53 @@
       "timeline": [
         {
           "date": "2026-03-23",
+          "event": "Email from Christopher Keenan: PCON Summary of Upcoming Events",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-23",
           "event": "Leasing meeting: decided to move forward. Micah said explore $55/ft sale option as alternative.",
           "type": "meeting"
+        },
+        {
+          "date": "2026-03-19",
+          "event": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Wednesday 3/18",
+          "type": "email"
         }
       ],
-      "contacts": ["Ashby (attorney)"],
-      "actions": [{"label": "Draft lease", "type": "task"}, {"label": "Send to Ashby", "type": "email"}]
+      "contacts": [
+        "Ashby (attorney)"
+      ],
+      "actions": [
+        {
+          "label": "Draft lease",
+          "type": "task"
+        },
+        {
+          "label": "Send to Ashby",
+          "type": "email"
+        }
+      ]
     },
     {
       "id": "malone-marshalls",
@@ -1738,6 +1827,11 @@
       "nextStep": "Waiting on Melissa Eddy (Asana due 3/20) - reaching out to Ashby re: Memo of Exclusive + Declarant estoppel.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-23",
+          "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+          "type": "email"
+        },
         {
           "date": "2026-03-23",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
@@ -2794,7 +2888,6 @@
       "lastSeen": "Week of 2/16",
       "note": "Was 'working on a response' - disappeared from prep docs for 3 weeks"
     },
-
     {
       "id": "sally-beauty",
       "name": "Sally Beauty",
@@ -2995,154 +3088,175 @@
   "staleContacts": [
     {
       "name": "Derek Tucker",
-      "deal": "Anytime Fitness (Derek Tucker) - Shelbyville",
+      "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
       "daysSinceContact": 4,
       "lastAction": "Email from Jacob Delk: Shelbyville, IN",
       "urgency": "low"
     },
     {
       "name": "Nhung Pham",
-      "deal": "QT Nails - Montgomery (1642 Atlanta HWY)",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
       "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
       "urgency": "low"
     },
     {
       "name": "Dwaine High",
-      "deal": "QT Nails - Montgomery (1642 Atlanta HWY)",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
       "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
       "urgency": "low"
     },
     {
       "name": "Paul",
-      "deal": "Five Below - Malone Plaza",
+      "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
       "urgency": "low"
     },
     {
       "name": "Paul",
-      "deal": "Shoe Dept - Malone Plaza",
+      "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
       "urgency": "low"
     },
     {
       "name": "Ajay Secore",
-      "deal": "Ajay Secore - Golf Simulator - Malone Plaza (Unit 3)",
+      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
       "urgency": "low"
     },
     {
       "name": "Chad Vang",
-      "deal": "Chad Vang - Laundromat - Gastonia - Dixie Village",
+      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
       "daysSinceContact": 0,
       "lastAction": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
-      "deal": "ABC Retail - Russellville",
+      "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
       "lastAction": "Email from Joseph Dougherty and David Judd: Chester, PA: ±13,500 SF Available fo",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
-      "deal": "Charles Hawkins Co. - Emerson Hall - Hotel Space",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
       "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
-      "deal": "Charles Hawkins Co. - Emerson Hall - Hotel Space",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
       "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
-      "deal": "UPS Store Franchisee - McMinnville",
+      "deal": "UPS Store Franchisee — McMinnville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "urgency": "low"
+    },
+    {
+      "name": "Kevin True",
+      "deal": "Wingstop — McMinnville Plaza",
       "daysSinceContact": 0,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
       "urgency": "low"
     },
     {
-      "name": "Melissa",
-      "deal": "Marshalls - Malone Plaza",
+      "name": "Bell",
+      "deal": "Wingstop — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
       "urgency": "low"
     },
     {
       "name": "Ashby",
-      "deal": "Marshalls - Malone Plaza",
+      "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Christopher Keenan: PCON Summary of Upcoming Events",
+      "urgency": "low"
+    },
+    {
+      "name": "Melissa",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
-      "deal": "Marshalls - Malone Plaza",
+      "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
-      "deal": "HopeSmiles - 44 Vantage Way, Cool Springs",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
       "lastAction": "Email from Jacob Delk: RFP- Hope Smiles - Cool Springs Commons",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
-      "deal": "HopeSmiles - 44 Vantage Way, Cool Springs",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
       "lastAction": "Email from Jacob Delk: RFP- Hope Smiles - Cool Springs Commons",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
-      "deal": "Buena Vista - 2433 Buena Vista Pike, Nashville",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
       "lastAction": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
-      "deal": "Buena Vista - 2433 Buena Vista Pike, Nashville",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
       "lastAction": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
-      "deal": "Buena Vista - 2433 Buena Vista Pike, Nashville",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
       "lastAction": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
-      "deal": "Emerson Hall - 2512 Gallatin Ave, Nashville",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
       "lastAction": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
       "urgency": "low"
     },
     {
       "name": "Brether group",
-      "deal": "Emerson Hall - 2512 Gallatin Ave, Nashville",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
       "lastAction": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
-      "deal": "Emerson Hall - 2512 Gallatin Ave, Nashville",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
       "lastAction": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
       "urgency": "low"
