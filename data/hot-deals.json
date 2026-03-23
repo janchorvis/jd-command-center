@@ -1,38 +1,38 @@
 {
-  "lastUpdated": "2026-03-22T20:43:45.617746",
+  "lastUpdated": "2026-03-23T07:15:29.327465",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/23/26",
   "today": {
-    "date": "2026-03-22",
-    "greeting": "Good evening, Jacob. You have 7 overdue items.",
+    "date": "2026-03-23",
+    "greeting": "Good morning, Jacob. You have 7 overdue items.",
     "meetings": [
       {
         "time": "12:00 AM",
-        "title": "Weekly Report Due: See Notes",
+        "title": "Parker (12-5)",
         "dealContext": null
       },
       {
-        "time": "6:00 AM",
-        "title": "West End Men’s Bible Study",
+        "time": "6:30 AM",
+        "title": "Bible Study",
         "dealContext": null
       },
       {
-        "time": "7:30 AM",
-        "title": "Call Justin",
+        "time": "8:30 AM",
+        "title": "Monday Morning Meeting",
         "dealContext": null
       },
       {
-        "time": "8:00 AM",
-        "title": "Jacob Delk x Mitchell Hehn Coffee",
+        "time": "9:15 AM",
+        "title": "Generosity Committee Meeting",
         "dealContext": null
       },
       {
-        "time": "9:00 AM",
-        "title": "Shout - Outs",
-        "dealContext": null
+        "time": "10:30 AM",
+        "title": "Leasing Meeting",
+        "dealContext": "13 active deals. 3 advanced this week (QT Nails→Lease sent for signature, Coaches Bargainz→Tenant welcome email sent, HopeSmiles). Top deals: Five Below (LOI), Shoe Dept (Lease Draft & Review), Chad Vang - Laundromat (LOI). 22 contacts tracked."
       },
       {
         "time": "12:00 PM",
-        "title": "Weekly Report - Fill out by 12 on Fridays",
+        "title": "Cole/Jacob Lunch",
         "dealContext": null
       }
     ],
@@ -44,7 +44,7 @@
       "Redline Emerson Hall prospect lease (overdue — due 2026-03-13)",
       "See when Dallas could meet with carter (overdue — due 2026-03-13)",
       "Harrison Trampoline LOI (overdue — due 2026-02-27)",
-      "Five Below: Review LOI terms, finalize counter with Micah, discuss at Monday meeting."
+      "Send Evansville info to TSCG (America's Thrift Stores site search)"
     ]
   },
   "pipelineDeals": [
