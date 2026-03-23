@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-23T11:30:09.809450",
+  "lastUpdated": "2026-03-23T12:30:12.219176",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/23/26",
   "today": {
     "date": "2026-03-23",
@@ -509,6 +509,16 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-23",
+          "event": "Email from Brendan Mulligan and Grace Daniels: Dallas, PA: ±1,500 – 43,155 SF Available For Lease – Anchor Opportunity in North",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Email from ICSC Commerce + Communities Today: Simon CEO Has Passed Away. Also: JLL’s Digital and Data-Driven Marketing Strateg",
+          "type": "email"
+        },
         {
           "date": "2026-03-23",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
@@ -2937,7 +2947,7 @@
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+      "lastAction": "Email from Brendan Mulligan and Grace Daniels: Dallas, PA: ±1,500 – 43,155 SF Av",
       "urgency": "low"
     },
     {
