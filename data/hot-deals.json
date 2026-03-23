@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-23T07:15:36.603632",
+  "lastUpdated": "2026-03-23T07:16:00.220130",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/23/26",
   "today": {
     "date": "2026-03-23",
@@ -3030,377 +3030,377 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 12/16",
+      "message": "Last email 3/23, Pipedrive not updated since 12/16",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2024-12-16",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 459
+        "pipedriveDaysAgo": 462
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 8/22",
+      "message": "Last email 3/23, Pipedrive not updated since 8/22",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2024-08-22",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 575
+        "pipedriveDaysAgo": 578
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 11/19",
+      "message": "Last email 3/23, Pipedrive not updated since 11/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2024-11-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 486
+        "pipedriveDaysAgo": 489
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 8/26",
+      "message": "Last email 3/23, Pipedrive not updated since 8/26",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-08-26",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 206
+        "pipedriveDaysAgo": 209
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 3/19",
+      "message": "Last email 3/23, Pipedrive not updated since 3/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-03-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 366
+        "pipedriveDaysAgo": 369
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 3/19",
+      "message": "Last email 3/23, Pipedrive not updated since 3/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-03-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 366
+        "pipedriveDaysAgo": 369
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 1/28",
+      "message": "Last email 3/23, Pipedrive not updated since 1/28",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2026-01-28",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 51
+        "pipedriveDaysAgo": 54
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 2/19",
+      "message": "Last email 3/23, Pipedrive not updated since 2/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2026-02-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 29
+        "pipedriveDaysAgo": 32
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 2/19",
+      "message": "Last email 3/23, Pipedrive not updated since 2/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2026-02-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 29
+        "pipedriveDaysAgo": 32
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 1/5",
+      "message": "Last email 3/23, Pipedrive not updated since 1/5",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2026-01-05",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 74
+        "pipedriveDaysAgo": 77
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 1/28",
+      "message": "Last email 3/23, Pipedrive not updated since 1/28",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2026-01-28",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 51
+        "pipedriveDaysAgo": 54
       }
     },
     {
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 11/25",
+      "message": "Last email 3/23, Pipedrive not updated since 11/25",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-11-25",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 115
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 118
       }
     },
     {
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
@@ -3412,8 +3412,8 @@
       "details": {
         "lastEmailDate": "2026-03-19",
         "lastPipedriveDate": "2025-03-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 366
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 369
       }
     },
     {
@@ -3425,8 +3425,8 @@
       "details": {
         "lastEmailDate": "2026-03-19",
         "lastPipedriveDate": "2025-03-24",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 361
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 364
       }
     },
     {
@@ -3438,8 +3438,8 @@
       "details": {
         "lastEmailDate": "2026-03-19",
         "lastPipedriveDate": "2025-08-26",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 206
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 209
       }
     },
     {
@@ -3451,8 +3451,8 @@
       "details": {
         "lastEmailDate": "2026-03-19",
         "lastPipedriveDate": "2025-12-12",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 98
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 101
       }
     },
     {
@@ -3464,8 +3464,8 @@
       "details": {
         "lastEmailDate": "2026-03-19",
         "lastPipedriveDate": "2025-12-12",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 98
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 101
       }
     },
     {
@@ -3477,8 +3477,8 @@
       "details": {
         "lastEmailDate": "2026-03-19",
         "lastPipedriveDate": "2025-12-02",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 108
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 111
       }
     },
     {
@@ -3490,8 +3490,8 @@
       "details": {
         "lastEmailDate": "2026-03-19",
         "lastPipedriveDate": "2025-12-02",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 108
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 111
       }
     },
     {
@@ -3503,8 +3503,8 @@
       "details": {
         "lastEmailDate": "2026-03-19",
         "lastPipedriveDate": "2025-12-02",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 108
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 111
       }
     },
     {
@@ -3516,8 +3516,8 @@
       "details": {
         "lastEmailDate": "2026-03-19",
         "lastPipedriveDate": "2025-12-02",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 108
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 111
       }
     },
     {
@@ -3529,8 +3529,8 @@
       "details": {
         "lastEmailDate": "2026-03-19",
         "lastPipedriveDate": "2025-12-02",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 108
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 111
       }
     },
     {
@@ -3542,8 +3542,8 @@
       "details": {
         "lastEmailDate": "2026-03-19",
         "lastPipedriveDate": "2025-12-02",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 108
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 111
       }
     },
     {
@@ -3555,8 +3555,8 @@
       "details": {
         "lastEmailDate": "2026-03-19",
         "lastPipedriveDate": "2025-12-02",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 108
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 111
       }
     },
     {
@@ -3568,8 +3568,8 @@
       "details": {
         "lastEmailDate": "2026-03-19",
         "lastPipedriveDate": "2025-03-25",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 360
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 363
       }
     },
     {
@@ -3581,8 +3581,8 @@
       "details": {
         "lastEmailDate": "2026-03-19",
         "lastPipedriveDate": "2025-03-26",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 359
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 362
       }
     },
     {
@@ -3594,8 +3594,8 @@
       "details": {
         "lastEmailDate": "2026-03-19",
         "lastPipedriveDate": "2025-03-25",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 360
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 363
       }
     },
     {
@@ -3607,8 +3607,8 @@
       "details": {
         "lastEmailDate": "2026-03-19",
         "lastPipedriveDate": "2025-08-02",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 230
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 233
       }
     },
     {
@@ -3620,8 +3620,8 @@
       "details": {
         "lastEmailDate": "2026-03-19",
         "lastPipedriveDate": "2025-09-24",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 177
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 180
       }
     },
     {
@@ -3633,8 +3633,8 @@
       "details": {
         "lastEmailDate": "2026-03-19",
         "lastPipedriveDate": "2025-11-04",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 136
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 139
       }
     },
     {
@@ -3646,539 +3646,526 @@
       "details": {
         "lastEmailDate": "2026-03-19",
         "lastPipedriveDate": "2026-02-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 29
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 32
       }
     },
     {
       "deal": "Buena Vista",
       "property": "2433 Buena Vista Pike, Nashville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/22, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-22",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 3/26",
+      "message": "Last email 3/23, Pipedrive not updated since 3/26",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-03-26",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 359
+        "pipedriveDaysAgo": 362
       }
     },
     {
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 2/19",
+      "message": "Last email 3/23, Pipedrive not updated since 2/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2026-02-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 29
+        "pipedriveDaysAgo": 32
       }
     },
     {
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 12/20",
+      "message": "Last email 3/23, Pipedrive not updated since 12/20",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2024-12-20",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 455
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 458
       }
     },
     {
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 3/11",
+      "message": "Last email 3/23, Pipedrive not updated since 3/11",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-03-11",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 374
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 377
       }
     },
     {
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 1/23",
+      "message": "Last email 3/23, Pipedrive not updated since 1/23",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2026-01-23",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 56
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 59
       }
     },
     {
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/12",
+      "message": "Last email 3/23, Pipedrive not updated since 9/12",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-12",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 189
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 192
       }
     },
     {
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 10/15",
+      "message": "Last email 3/23, Pipedrive not updated since 10/15",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-10-15",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 156
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 159
       }
     },
     {
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "QT Nails",
       "property": "Montgomery (1642 Atlanta HWY)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/22, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-22",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "QT Nails",
       "property": "Montgomery (1642 Atlanta HWY)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/22, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-22",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "QT Nails",
       "property": "Montgomery (1642 Atlanta HWY)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/22, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-22",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "QT Nails",
       "property": "Montgomery (1642 Atlanta HWY)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/22, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-22",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "QT Nails",
       "property": "Montgomery (1642 Atlanta HWY)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 11/26",
+      "message": "Last email 3/22, Pipedrive not updated since 11/26",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-22",
         "lastPipedriveDate": "2025-11-26",
         "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 114
+        "pipedriveDaysAgo": 117
       }
     },
     {
       "deal": "QT Nails",
       "property": "Montgomery (1642 Atlanta HWY)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 10/15",
+      "message": "Last email 3/22, Pipedrive not updated since 10/15",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-22",
         "lastPipedriveDate": "2025-10-15",
         "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 156
+        "pipedriveDaysAgo": 159
       }
     },
     {
       "deal": "QT Nails",
       "property": "Montgomery (1642 Atlanta HWY)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/22, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-22",
         "lastPipedriveDate": "2025-09-19",
         "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Shoe Dept",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Shoe Dept",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 9/19",
+      "message": "Last email 3/23, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 182
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 185
       }
     },
     {
       "deal": "Shoe Dept",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 8/26",
+      "message": "Last email 3/23, Pipedrive not updated since 8/26",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-08-26",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 206
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 209
       }
     },
     {
       "deal": "UPS Store Franchisee",
       "property": "McMinnville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 2/2",
+      "message": "Last email 3/23, Pipedrive not updated since 2/2",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2026-02-02",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 46
+        "pipedriveDaysAgo": 49
       }
     },
     {
       "deal": "UPS Store Franchisee",
       "property": "McMinnville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 11/21",
+      "message": "Last email 3/23, Pipedrive not updated since 11/21",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-11-21",
-        "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 119
-      }
-    },
-    {
-      "deal": "UPS Store Franchisee",
-      "property": "McMinnville",
-      "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 11/18",
-      "severity": "high",
-      "details": {
-        "lastEmailDate": "2026-03-20",
-        "lastPipedriveDate": "2025-11-18",
         "emailDaysAgo": 0,
         "pipedriveDaysAgo": 122
       }
@@ -4187,65 +4174,78 @@
       "deal": "UPS Store Franchisee",
       "property": "McMinnville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 12/9",
+      "message": "Last email 3/23, Pipedrive not updated since 11/18",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
+        "lastPipedriveDate": "2025-11-18",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 125
+      }
+    },
+    {
+      "deal": "UPS Store Franchisee",
+      "property": "McMinnville",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 3/23, Pipedrive not updated since 12/9",
+      "severity": "high",
+      "details": {
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2025-12-09",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 101
+        "pipedriveDaysAgo": 104
       }
     },
     {
       "deal": "UPS Store Franchisee",
       "property": "McMinnville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 1/27",
+      "message": "Last email 3/23, Pipedrive not updated since 1/27",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2026-01-27",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 52
+        "pipedriveDaysAgo": 55
       }
     },
     {
       "deal": "UPS Store Franchisee",
       "property": "McMinnville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 2/19",
+      "message": "Last email 3/23, Pipedrive not updated since 2/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2026-02-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 29
+        "pipedriveDaysAgo": 32
       }
     },
     {
       "deal": "UPS Store Franchisee",
       "property": "McMinnville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/20, Pipedrive not updated since 2/19",
+      "message": "Last email 3/23, Pipedrive not updated since 2/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-03-20",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2026-02-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 29
+        "pipedriveDaysAgo": 32
       }
     },
     {
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 3/19, Pipedrive not updated since 3/2",
+      "message": "Last email 3/23, Pipedrive not updated since 3/2",
       "severity": "medium",
       "details": {
-        "lastEmailDate": "2026-03-19",
+        "lastEmailDate": "2026-03-23",
         "lastPipedriveDate": "2026-03-02",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 18
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 21
       }
     },
     {
@@ -4257,8 +4257,8 @@
       "details": {
         "lastEmailDate": "2026-03-19",
         "lastPipedriveDate": "2026-03-06",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 14
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 17
       }
     },
     {
@@ -4270,8 +4270,8 @@
       "details": {
         "lastEmailDate": "2026-03-19",
         "lastPipedriveDate": "2026-02-24",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 24
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 27
       }
     }
   ],
