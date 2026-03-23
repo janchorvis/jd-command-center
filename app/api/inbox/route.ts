@@ -65,21 +65,6 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
     }
 
-    // Process Now signal — just store a flag for the cron to pick up
-    const action = request.nextUrl.searchParams.get('action');
-    if (action === 'process-now') {
-      const inbox = readInbox();
-      (inbox as any).processNowRequested = new Date().toISOString();
-      writeInbox(inbox);
-      const pending = inbox.items.filter(i => i.status === 'received').length;
-      console.log('[inbox process-now]', { pending });
-      return NextResponse.json({
-        status: 'ok',
-        message: `Processing ${pending} pending item${pending !== 1 ? 's' : ''}`,
-        pending,
-      });
-    }
-
     const body = await request.json();
     const { context, comment, action, priority } = body;
 
