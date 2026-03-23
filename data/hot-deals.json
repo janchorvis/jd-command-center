@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-23T07:16:00.220130",
+  "lastUpdated": "2026-03-23T09:30:54.314870",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/23/26",
   "today": {
     "date": "2026-03-23",
@@ -753,6 +753,11 @@
       "nextStep": "Send counter with TI/rent adjustment. Get Micah's sign-off on roof timeline.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-23",
+          "event": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
+          "type": "email"
+        },
         {
           "date": "2026-03-22",
           "event": "Email from محمد الدعاس: LoopNet Lead for Dixie Village Shopping Center",
@@ -1802,6 +1807,11 @@
       "timeline": [
         {
           "date": "2026-03-23",
+          "event": "Email from Jacob Delk: RFP- Hope Smiles - Cool Springs Commons",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-23",
           "event": "Email from Jacob Delk: Anchor Commissions (Malone - Marshalls, McMinnville - The Hut, Russellville - Co",
           "type": "email"
         },
@@ -1977,6 +1987,16 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-03-23",
+          "event": "Email from PCON Secretary: Action Requested - PCON 2025 Annual Report Review",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Email from Phoenix Club of Nashville: PCON Bird Word Submissions | March 2026",
+          "type": "email"
+        },
         {
           "date": "2026-03-22",
           "event": "Email from PCON Secretary: Action Requested - PCON 2025 Annual Report Review",
@@ -2273,6 +2293,16 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-03-23",
+          "event": "Email from PCON Secretary: Action Requested - PCON 2025 Annual Report Review",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Email from Phoenix Club of Nashville: PCON Bird Word Submissions | March 2026",
+          "type": "email"
+        },
         {
           "date": "2026-03-23",
           "event": "Email from Jacob Delk: Anchor Commissions (Malone - Marshalls, McMinnville - The Hut, Russellville - Co",
@@ -2811,13 +2841,6 @@
       "urgency": "low"
     },
     {
-      "name": "Chad Vang",
-      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
-      "daysSinceContact": 1,
-      "lastAction": "Email from محمد الدعاس: LoopNet Lead for Dixie Village Shopping Center",
-      "urgency": "low"
-    },
-    {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
       "daysSinceContact": 1,
@@ -2829,27 +2852,6 @@
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
       "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
-      "urgency": "low"
-    },
-    {
-      "name": "Julie Robbins",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from PCON Secretary: Action Requested - PCON 2025 Annual Report Review",
-      "urgency": "low"
-    },
-    {
-      "name": "Michael Dunn",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from PCON Secretary: Action Requested - PCON 2025 Annual Report Review",
-      "urgency": "low"
-    },
-    {
-      "name": "Cole @ DR Horton",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from PCON Secretary: Action Requested - PCON 2025 Annual Report Review",
       "urgency": "low"
     },
     {
@@ -2871,6 +2873,13 @@
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
       "lastAction": "Email from Jacob Delk: Anchor Commissions (Malone - Marshalls, McMinnville - The",
+      "urgency": "low"
+    },
+    {
+      "name": "Chad Vang",
+      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
       "urgency": "low"
     },
     {
@@ -2926,35 +2935,56 @@
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commissions (Malone - Marshalls, McMinnville - The",
+      "lastAction": "Email from Jacob Delk: RFP- Hope Smiles - Cool Springs Commons",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commissions (Malone - Marshalls, McMinnville - The",
+      "lastAction": "Email from Jacob Delk: RFP- Hope Smiles - Cool Springs Commons",
+      "urgency": "low"
+    },
+    {
+      "name": "Julie Robbins",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from PCON Secretary: Action Requested - PCON 2025 Annual Report Review",
+      "urgency": "low"
+    },
+    {
+      "name": "Michael Dunn",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from PCON Secretary: Action Requested - PCON 2025 Annual Report Review",
+      "urgency": "low"
+    },
+    {
+      "name": "Cole @ DR Horton",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from PCON Secretary: Action Requested - PCON 2025 Annual Report Review",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commissions (Malone - Marshalls, McMinnville - The",
+      "lastAction": "Email from PCON Secretary: Action Requested - PCON 2025 Annual Report Review",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commissions (Malone - Marshalls, McMinnville - The",
+      "lastAction": "Email from PCON Secretary: Action Requested - PCON 2025 Annual Report Review",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commissions (Malone - Marshalls, McMinnville - The",
+      "lastAction": "Email from PCON Secretary: Action Requested - PCON 2025 Annual Report Review",
       "urgency": "low"
     }
   ],
