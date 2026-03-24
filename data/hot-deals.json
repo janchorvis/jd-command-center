@@ -5744,7 +5744,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-03-24T17:36:44",
+    "generatedAt": "2026-03-24T17:37:12",
     "items": [
       {
         "id": "focus-task-T054",
@@ -5765,11 +5765,11 @@
         "type": "task"
       },
       {
-        "id": "focus-malone-shoe-dept",
-        "dealName": "Shoe Dept",
-        "property": "Malone Plaza",
-        "action": "Send revised shared access language to Paul",
-        "why": "High-energy deal. Lease Draft & Review stage. Activity 0d ago.",
+        "id": "focus-emerson-hawkins",
+        "dealName": "Charles Hawkins Co.",
+        "property": "Emerson Hall - Hotel Space",
+        "action": "Discuss counter with Micah early next week",
+        "why": "High-energy deal. LOI stage. Activity 0d ago.",
         "urgency": "high",
         "type": "pipeline"
       }
