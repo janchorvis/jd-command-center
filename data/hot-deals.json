@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T13:30:12.324519",
+  "lastUpdated": "2026-03-24T13:50:45.965536",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
     "date": "2026-03-24",
@@ -64,7 +64,15 @@
       "Redline Emerson Hall prospect lease (overdue — due 2026-03-13)",
       "Send Evansville info to TSCG (America's Thrift Stores site search) (overdue — due 2026-03-23)",
       "Make flyer for mattresses listing (overdue — due 2026-03-23)",
-      "put mattresses on the market (overdue — due 2026-03-23)"
+      "put mattresses on the market (overdue — due 2026-03-23)",
+      "Draft Prather event company lease (AI-assisted), send to Ashby for event-specific review",
+      "Call Bell re: Wingstop McMinnville LOI - clarify TI vs white box + DA approach",
+      "Follow up with Amy/Dr. Camp on Hope Smiles expansion timing",
+      "Follow up on government deal board meeting timeline",
+      "Follow up with Peter Adams on McMinnville demographics (A-Stock)",
+      "Send Micah email with JD description for Scott (UT real estate program)",
+      "Give Robbie clear candidate parameters: younger, max 2-3 years, recent grads",
+      "Send Micah calendar invite for PCON dinner April 22"
     ]
   },
   "pipelineDeals": [
@@ -72,9 +80,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "LOI signed and returned 3/17. REC meeting 4/22. Facade renderings requested from Shaun.",
+      "status": "LOI signed and returned 3/17. REC meeting 4/22. Facade renderings requested from Shaun Andriano.",
       "stage": "LOI",
-      "nextStep": "Wait for REC meeting 4/22. Follow up with Shaun on facade renderings.",
+      "nextStep": "Wait for REC approval 4/22. Follow up with Shaun on facade renderings.",
       "priority": "high",
       "timeline": [
         {
@@ -111,6 +119,11 @@
           "date": "2026-03-23",
           "event": "Email from Jacob Delk: Anchor Commissions (Malone - Marshalls, McMinnville - The Hut, Russellville - Co",
           "type": "email"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Meeting: Confirmed LOI signed, REC meeting 4/22, renderings requested",
+          "type": "meeting"
         },
         {
           "date": "2026-03-22",
@@ -340,7 +353,7 @@
       "id": "malone-shoe-dept",
       "name": "Shoe Dept",
       "property": "Malone Plaza",
-      "status": "Revising shared access language, sending back after meeting.",
+      "status": "Active lease negotiation. Shared corridor language removal resolved - side door emergency exit only. Full demo of McMinnville haunted house approved (keep ceiling grid).",
       "stage": "Lease Draft & Review",
       "nextStep": "Send revised shared access language to Paul",
       "priority": "high",
@@ -374,6 +387,11 @@
           "date": "2026-03-23",
           "event": "Email from Jacob Delk: Anchor Commissions (Malone - Marshalls, McMinnville - The Hut, Russellville - Co",
           "type": "email"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Meeting: McMinnville haunted house full demo approved (keep ceiling grid only)",
+          "type": "meeting"
         },
         {
           "date": "2026-03-22",
@@ -992,11 +1010,16 @@
       "id": "shelbyville-anytime",
       "name": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
-      "status": "LOI in progress. Relocation, wants in by November.",
+      "status": "LOI in progress with Derek Tucker.",
       "stage": "LOI",
       "nextStep": "Call Derek Tucker back. Clean up Pipedrive entries.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-23",
+          "event": "Meeting: Status reviewed, LOI in progress",
+          "type": "meeting"
+        },
         {
           "date": "2026-03-19",
           "event": "Email from Jacob Delk: Shelbyville, IN",
@@ -1234,9 +1257,9 @@
       "id": "emerson-hawkins",
       "name": "Charles Hawkins Co.",
       "property": "Emerson Hall - Hotel Space",
-      "status": "Event company (Prather) wants comedy/smaller shows venue. $200/ft ask + 4% fee on 20-25yr term. Lease draft in progress.",
+      "status": "Prather sent LOI counter - agrees to rate, wants 8yr term, 3 more months free, 2% bumps. ~30% SF increase noted. Live counter pending Micah input.",
       "stage": "LOI",
-      "nextStep": "Jacob/Jarvis draft lease using base lease + AI review for event concerns (noise, security, nuisance). Send to Ashby this week.",
+      "nextStep": "Discuss counter with Micah early next week. Competing with Live Nation inquiry.",
       "priority": "high",
       "timeline": [
         {
@@ -1263,6 +1286,11 @@
           "date": "2026-03-23",
           "event": "Email from Jacob Delk: Anchor Commissions (Malone - Marshalls, McMinnville - The Hut, Russellville - Co",
           "type": "email"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Meeting: Counter from Prather reviewed. Competing with Live Nation for same space.",
+          "type": "meeting"
         },
         {
           "date": "2026-03-20",
@@ -1592,7 +1620,7 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville",
-      "status": "LOI received. ~2,000 SF suite, perfect size. Husband (sheriff's office) and wife (ER nurse) franchisees. Friends with 10-store franchise in Florida.",
+      "status": "LOI received from Jon Petty. ~2K SF. Moving forward.",
       "stage": "LOI",
       "nextStep": "Finalize LOI terms and move to lease.",
       "priority": "high",
@@ -1641,6 +1669,11 @@
           "date": "2026-03-23",
           "event": "Email from Jacob Delk: Anchor Commissions (Malone - Marshalls, McMinnville - The Hut, Russellville - Co",
           "type": "email"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Meeting: UPS Store LOI confirmed, moving forward",
+          "type": "meeting"
         },
         {
           "date": "2026-03-22",
@@ -1826,9 +1859,9 @@
       "id": "mcminnville-wingstop",
       "name": "Wingstop",
       "property": "McMinnville Plaza",
-      "status": "Kevin True (broker) repping. Sent back counter. Mid-teens as-is deal. Exploring Back Shack suite since current tenant leaving.",
+      "status": "LOI received from Kevin Trujillo 3/19. Exploring Back Shack suite. TI vs as-is discrepancy - $25/ft TI in LOI but EPS corporate won't approve TI.",
       "stage": "LOI",
-      "nextStep": "Call Bell to clarify TI vs as-is discrepancy. $25/ft TI in LOI but corporate won't approve TI. Discuss white box + DA approach.",
+      "nextStep": "Call Bell to clarify white box + DA approach. Respond to Kevin on suite options (mid-teens as-is).",
       "priority": "high",
       "timeline": [
         {
@@ -1862,6 +1895,11 @@
           "type": "meeting"
         },
         {
+          "date": "2026-03-23",
+          "event": "Meeting: Exploring Back Shack suite. TI confusion - Bell says EPS won't approve TI but LOI has $25/ft. Need to clarify.",
+          "type": "meeting"
+        },
+        {
           "date": "2026-03-19",
           "event": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Wednesday 3/18",
           "type": "email"
@@ -1891,9 +1929,9 @@
       "id": "mcminnville-prather",
       "name": "Prather Event Co",
       "property": "McMinnville Plaza",
-      "status": "Event/comedy venue. $200/ft ask + 4% fee on 20-25yr base term. Proceeding with lease draft.",
+      "status": "Proceeding to lease. Prather agrees to rate, wants 8-year term, 3 more months free rent, 2% bumps. Jacob drafting lease (AI-assisted), sending to Ashby for event-specific review (noise, security, nuisance clauses).",
       "stage": "Trading Terms",
-      "nextStep": "AI draft lease using base lease. Run through Jarvis for event-specific concerns (noise, security, nuisance). Send to Ashby for review, ask for return this week.",
+      "nextStep": "Draft event company lease, send to Ashby for review this week. Ask log guy if event company would pay $55/ft to explore sale option.",
       "priority": "high",
       "timeline": [
         {
@@ -1944,6 +1982,11 @@
         {
           "date": "2026-03-23",
           "event": "Leasing meeting: decided to move forward. Micah said explore $55/ft sale option as alternative.",
+          "type": "meeting"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Meeting: Prather counter received - agrees to rate, wants 8yr/3mo more free/2% bumps. Proceeding to lease.",
           "type": "meeting"
         },
         {
@@ -2181,6 +2224,42 @@
         "suiteCount": 2,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "mcminnville-royal-furniture",
+      "name": "Royal Furniture",
+      "property": "McMinnville Plaza",
+      "status": "~18K SF interest. Potential deal killer: Aldi needs 20K SF minimum.",
+      "stage": "Contact Made",
+      "nextStep": "Determine if 18K SF works or if Aldi's 20K min kills it.",
+      "priority": "medium",
+      "contacts": [],
+      "timeline": [
+        {
+          "date": "2026-03-23",
+          "event": "Meeting: Royal Furniture interested ~18K SF, but Aldi needs 20K min",
+          "type": "lead"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "id": "government-deal",
+      "name": "Government Deal",
+      "property": "TBD",
+      "status": "LOI delivered ~1 week ago. Board meeting pending, no one has checked in.",
+      "stage": "LOI",
+      "nextStep": "Follow up on board meeting timeline.",
+      "priority": "high",
+      "contacts": [],
+      "timeline": [
+        {
+          "date": "2026-03-23",
+          "event": "Meeting: LOI delivered, board meeting pending, need follow-up",
+          "type": "meeting"
+        }
+      ],
+      "actions": []
     }
   ],
   "sideDeals": [
@@ -3056,6 +3135,28 @@
         "suiteCount": 2,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "emerson-live-nation",
+      "name": "Live Nation",
+      "property": "Emerson Hall",
+      "status": "National entertainment tenant, 6-7K SF showroom, 20-25yr lease with options. $200/ft TIA + MEP/HVAC outside TI. 4% fee on base term.",
+      "stage": "Contact Made",
+      "nextStep": "Owner meeting Monday 3/24. Forwarded to Micah - 'sounds expensive.'",
+      "priority": "high",
+      "contacts": [
+        "Josh Levy (Arbor Realty Capital Advisors, Pasadena CA)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-03-23",
+          "event": "Meeting: Live Nation interested in Emerson. Forwarded to Micah.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-03-23"
     }
   ],
   "droppedBalls": [
