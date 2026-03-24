@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T15:30:09.750887",
+  "lastUpdated": "2026-03-24T16:03:19.822300",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
     "date": "2026-03-24",
@@ -1691,6 +1691,11 @@
           "type": "meeting"
         },
         {
+          "date": "2026-03-23",
+          "event": "Meeting: LOI received from Jon Petty, ~2K SF, moving forward",
+          "type": "meeting"
+        },
+        {
           "date": "2026-03-22",
           "event": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
           "type": "email"
@@ -2286,6 +2291,26 @@
         {
           "date": "2026-03-23",
           "event": "Meeting: LOI delivered, board meeting pending, need follow-up",
+          "type": "meeting"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "id": "mcminnville-a-stock",
+      "name": "A-Stock (Treverse LLC)",
+      "property": "McMinnville Plaza",
+      "status": "Peter Adams confirmed adding 3-4 locations this year, asked for McMinnville info and demographics.",
+      "stage": "Contact Made",
+      "nextStep": "Send Peter McMinnville demographics and property info.",
+      "priority": "medium",
+      "contacts": [
+        "Peter Adams (Treverse LLC dba A-Stock)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-03-23",
+          "event": "Meeting: Peter asked for McMinnville info, adding 3-4 locations this year",
           "type": "meeting"
         }
       ],
@@ -3227,6 +3252,26 @@
       "actions": [],
       "type": "Tenant Rep",
       "lastUpdate": "2026-03-23"
+    },
+    {
+      "id": "fireworks-stands",
+      "name": "Fireworks Stands",
+      "property": "Multiple Sites",
+      "status": "Approved for multiple sites, June 25 - July 4 window.",
+      "stage": "Trading Terms",
+      "nextStep": "Coordinate site access and logistics for June 25 - July 4.",
+      "priority": "low",
+      "contacts": [],
+      "timeline": [
+        {
+          "date": "2026-03-23",
+          "event": "Meeting: Fireworks stands approved for multiple sites, June 25 - July 4",
+          "type": "meeting"
+        }
+      ],
+      "actions": [],
+      "type": "For Lease",
+      "lastUpdate": "2026-03-24"
     }
   ],
   "droppedBalls": [
