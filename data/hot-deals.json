@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T09:30:27.302073",
+  "lastUpdated": "2026-03-24T10:30:14.153429",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
     "date": "2026-03-24",
@@ -1205,6 +1205,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-03-24",
+          "event": "Email from Micah Lacher: Marshall's construction schedule",
+          "type": "email"
+        },
+        {
           "date": "2026-03-23",
           "event": "Leasing meeting: decided to proceed with event company lease. Ashby to review for event-specific concerns.",
           "type": "meeting"
@@ -1547,6 +1552,11 @@
       "nextStep": "Finalize LOI terms and move to lease.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-24",
+          "event": "Email from Chain Store Age: BREAKING: Dollar General names its next CEO",
+          "type": "email"
+        },
         {
           "date": "2026-03-24",
           "event": "Email from Chain Store Age: DayBreaker: CEO of mall giant dies; AI goes mainstream with shoppers; Costco to ",
@@ -2104,6 +2114,11 @@
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
+          "date": "2026-03-24",
+          "event": "Email from Micah Lacher: Marshall's construction schedule",
+          "type": "email"
+        },
+        {
           "date": "2026-03-23",
           "event": "Email from Jacob Delk: RFP- Hope Smiles - Cool Springs Commons",
           "type": "email"
@@ -2611,6 +2626,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-03-24",
+          "event": "Email from Micah Lacher: Marshall's construction schedule",
+          "type": "email"
+        },
         {
           "date": "2026-03-23",
           "event": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
@@ -3188,20 +3208,6 @@
       "urgency": "low"
     },
     {
-      "name": "Stephen Prather",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
-      "urgency": "low"
-    },
-    {
-      "name": "Lexy & Austin",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
-      "urgency": "low"
-    },
-    {
       "name": "Kevin True",
       "deal": "Wingstop — McMinnville Plaza",
       "daysSinceContact": 1,
@@ -3237,20 +3243,6 @@
       "urgency": "low"
     },
     {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: RFP- Hope Smiles - Cool Springs Commons",
-      "urgency": "low"
-    },
-    {
-      "name": "Shelby Hall",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: RFP- Hope Smiles - Cool Springs Commons",
-      "urgency": "low"
-    },
-    {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 1,
@@ -3272,27 +3264,6 @@
       "urgency": "low"
     },
     {
-      "name": "Charles Hawkins",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
-      "urgency": "low"
-    },
-    {
-      "name": "Brether group",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
-      "urgency": "low"
-    },
-    {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
       "daysSinceContact": 0,
@@ -3304,6 +3275,20 @@
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
       "lastAction": "Email from Chain Store Age: Connected Retail: Lowe’s new subscription offering; ",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Marshall's construction schedule",
+      "urgency": "low"
+    },
+    {
+      "name": "Lexy & Austin",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Marshall's construction schedule",
       "urgency": "low"
     },
     {
@@ -3324,7 +3309,7 @@
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: CEO of mall giant dies; AI goes mainstre",
+      "lastAction": "Email from Chain Store Age: BREAKING: Dollar General names its next CEO",
       "urgency": "low"
     },
     {
@@ -3332,6 +3317,41 @@
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
       "lastAction": "Email from NASHtoday: April's top events, youth book fest + Radnor eaglet",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Marshall's construction schedule",
+      "urgency": "low"
+    },
+    {
+      "name": "Shelby Hall",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Marshall's construction schedule",
+      "urgency": "low"
+    },
+    {
+      "name": "Charles Hawkins",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Marshall's construction schedule",
+      "urgency": "low"
+    },
+    {
+      "name": "Brether group",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Marshall's construction schedule",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Marshall's construction schedule",
       "urgency": "low"
     }
   ],
