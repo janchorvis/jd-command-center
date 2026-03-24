@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T16:03:34.162335",
+  "lastUpdated": "2026-03-24T16:30:09.741000",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
     "date": "2026-03-24",
@@ -2309,6 +2309,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-03-24",
+          "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+          "type": "email"
+        },
+        {
           "date": "2026-03-23",
           "event": "Meeting: Peter asked for McMinnville info, adding 3-4 locations this year",
           "type": "meeting"
@@ -2543,6 +2548,16 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-03-24",
+          "event": "Email from Eli Robertson: Invitation: Nashville Rescue Mission Basketball Pre-Party @ Mon Apr 6, 2026 5:30",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Wilson Higgins",
+          "type": "email"
+        },
         {
           "date": "2026-03-23",
           "event": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
@@ -2869,6 +2884,16 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-03-24",
+          "event": "Email from Eli Robertson: Invitation: Nashville Rescue Mission Basketball Pre-Party @ Mon Apr 6, 2026 5:30",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Wilson Higgins",
+          "type": "email"
+        },
         {
           "date": "2026-03-24",
           "event": "Email from Shelby Hall: HopeSmiles at 44V",
@@ -3502,27 +3527,6 @@
       "urgency": "low"
     },
     {
-      "name": "Julie Robbins",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
-      "urgency": "low"
-    },
-    {
-      "name": "Michael Dunn",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
-      "urgency": "low"
-    },
-    {
-      "name": "Cole @ DR Horton",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
-      "urgency": "low"
-    },
-    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
@@ -3635,6 +3639,13 @@
       "urgency": "low"
     },
     {
+      "name": "Peter Adams",
+      "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "urgency": "low"
+    },
+    {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
@@ -3649,24 +3660,59 @@
       "urgency": "low"
     },
     {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Phillip Kemp",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "urgency": "low"
+    },
+    {
+      "name": "Julie Robbins",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Eli Robertson: Invitation: Nashville Rescue Mission Basketball Pre-Pa",
+      "urgency": "low"
+    },
+    {
+      "name": "Michael Dunn",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Eli Robertson: Invitation: Nashville Rescue Mission Basketball Pre-Pa",
+      "urgency": "low"
+    },
+    {
+      "name": "Cole @ DR Horton",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Eli Robertson: Invitation: Nashville Rescue Mission Basketball Pre-Pa",
+      "urgency": "low"
+    },
+    {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "lastAction": "Email from Eli Robertson: Invitation: Nashville Rescue Mission Basketball Pre-Pa",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "lastAction": "Email from Eli Robertson: Invitation: Nashville Rescue Mission Basketball Pre-Pa",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "lastAction": "Email from Eli Robertson: Invitation: Nashville Rescue Mission Basketball Pre-Pa",
       "urgency": "low"
     },
     {
