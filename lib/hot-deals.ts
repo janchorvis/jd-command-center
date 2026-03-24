@@ -129,11 +129,12 @@ export interface Focus3Item {
   action: string;
   why: string;
   urgency: 'high' | 'medium' | 'low';
-  type: 'pipeline' | 'side' | 'task' | 'contact';
+  type: 'pipeline' | 'side' | 'task' | 'contact' | 'briefing';
 }
 
 export interface Focus3 {
   generatedAt: string;
+  source?: 'morning-briefing' | 'active-tasks';
   items: Focus3Item[];
 }
 

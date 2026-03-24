@@ -1211,232 +1211,165 @@ def git_push(project_root: Path, message: str = "chore: sync command center data
 
 
 # ─── Focus 3 Generation ──────────────────────────────────────────────────────
+#
+# Focus 3 is a VISUALIZATION layer, not a brain. The morning briefing cron
+# already synthesizes priorities from active-tasks, Asana, Calendar, email
+# triage, and deal priorities. Focus 3 just displays the top 3 from
+# YOUR PLATE. Falls back to active-tasks.md if no briefing available.
+#
+
+def _fetch_latest_briefing_your_plate() -> tuple:
+    """
+    Read the morning briefing cron's latest run and parse YOUR PLATE items.
+    Returns (items: list, source_label: str).
+    Items are dicts: {rank, dealName, action, text}
+    """
+    briefing_job_id = "7cb5add0-c465-44c1-b950-ecb78ddd06f5"
+    summary = ""
+
+    # Read from cron state file if available (written by morning briefing cron)
+    briefing_cache = WORKSPACE_ROOT / "memory" / "system" / "latest-briefing.txt"
+    if briefing_cache.exists():
+        try:
+            content = briefing_cache.read_text()
+            # Check it's from today
+            if date.today().isoformat() in content[:30]:
+                summary = content
+                print("[INFO] Focus 3: loaded briefing from cache file")
+        except Exception:
+            pass
+
+    # Fallback: try openclaw CLI
+    if not summary:
+        try:
+            result = subprocess.run(
+                ["openclaw", "cron", "runs", briefing_job_id, "--limit", "1"],
+                capture_output=True, text=True, timeout=15
+            )
+            if result.returncode == 0:
+                # Parse the output - it's human-readable, look for summary content
+                summary = result.stdout
+        except Exception as e:
+            print(f"[WARN] Could not fetch briefing via CLI: {e}")
+
+    if not summary:
+        return [], ""
+
+    # Parse YOUR PLATE section
+    items = []
+    in_plate = False
+    for line in summary.splitlines():
+        if re.match(r"YOUR PLATE\s*\(\d+\)", line.strip()):
+            in_plate = True
+            continue
+        if in_plate and re.match(r"(I'LL PREP|I'M HANDLING|DEFERRED|⚠️)", line.strip()):
+            break
+        if in_plate:
+            m = re.match(r"(\d+)\.\s+(.+)", line.strip())
+            if m:
+                rank = int(m.group(1))
+                text = m.group(2).strip()
+                # Extract deal/entity name (first phrase before dash)
+                parts = re.split(r"\s*[—–]\s*", text, maxsplit=1)
+                deal_name = parts[0].strip()[:60]
+                action = parts[1].strip() if len(parts) > 1 else text
+                items.append({
+                    "rank": rank,
+                    "dealName": deal_name,
+                    "action": action,
+                    "text": text,
+                })
+
+    return items, "morning-briefing"
+
+
+def _fallback_active_tasks() -> list:
+    """
+    Fallback: read active-tasks.md and return non-waiting This Week items.
+    """
+    tasks_file = WORKSPACE_ROOT / "memory" / "active-tasks.md"
+    if not tasks_file.exists():
+        return []
+
+    content = tasks_file.read_text()
+    items = []
+    in_this_week = False
+    rank = 0
+
+    for line in content.splitlines():
+        if "### This Week" in line:
+            in_this_week = True
+            continue
+        if in_this_week and line.startswith("### "):
+            break
+        if in_this_week and line.strip().startswith("- T"):
+            if "[waiting on:" in line.lower():
+                continue
+            m = re.match(r"- T\d+: (.+?)(?:\s*\[|$)", line.strip())
+            if m:
+                rank += 1
+                text = m.group(1).strip().rstrip(".")
+                parts = re.split(r"\s*[—–]\s*", text, maxsplit=1)
+                deal_name = parts[0].strip()[:60]
+                action = parts[1].strip() if len(parts) > 1 else text
+                items.append({
+                    "rank": rank,
+                    "dealName": deal_name,
+                    "action": action,
+                    "text": text,
+                })
+    return items
+
 
 def generate_focus3(data: dict) -> dict:
     """
-    Synthesize the top 3 most important things Jacob should focus on today.
-    Collects candidates from pipeline deals, side deals, priorities, and stale contacts,
-    scores each, picks the top 3 with concise action + why.
+    Display the top 3 items from the morning briefing's YOUR PLATE section.
+
+    The morning briefing cron already synthesizes priorities from:
+    - active-tasks.md (meeting action items, brain dumps)
+    - Asana (overdue/due-today tasks)
+    - Calendar (today's meetings with deal context)
+    - Communication triage (emails that unblocked deals)
+    - Deal priorities and waiting/active transitions
+
+    Focus 3 is a visualization layer, not a separate brain.
+    Falls back to active-tasks.md if no briefing is available today.
     """
-    today = date.today()
-    candidates = []  # list of dicts with score + fields
+    # Try morning briefing first
+    plate_items, source = _fetch_latest_briefing_your_plate()
 
-    WAITING_PATTERNS = re.compile(
-        r"\b(wait(?:ing)?|pending|follow up when|hold until|no action needed|n/a)\b",
-        re.IGNORECASE,
-    )
+    if not plate_items:
+        print("[INFO] Focus 3: no briefing YOUR PLATE found, falling back to active-tasks.md")
+        plate_items = _fallback_active_tasks()
+        source = "active-tasks"
 
-    def is_waiting(text: str) -> bool:
-        return bool(WAITING_PATTERNS.search(text or ""))
+    if plate_items:
+        print(f"[INFO] Focus 3: using {source} ({len(plate_items)} items available)")
 
-    def days_since(date_str: str) -> int:
-        """Return number of days since a date string (YYYY-MM-DD or ISO)."""
-        try:
-            d = date.fromisoformat(date_str[:10])
-            return (today - d).days
-        except Exception:
-            return 999
+    # Build focus3 from top 3
+    top3 = []
+    for item in plate_items[:3]:
+        action = item["action"]
+        if len(action) > 140:
+            action = action[:137] + "..."
 
-    # ── Pipeline deals ────────────────────────────────────────────────────────
-    for deal in data.get("pipelineDeals", []):
-        stage = deal.get("stage", "")
-        next_step = deal.get("nextStep", "")
-        name = deal.get("name", "")
-        prop = deal.get("property", "")
-
-        # Skip lease-signed / stalled as they're terminal
-        if stage in ("Lease Signed", "Stalled"):
-            continue
-
-        # Find most recent timeline event date
-        timeline = deal.get("timeline", [])
-        last_activity_days = 999
-        if timeline:
-            last_activity_days = days_since(timeline[0].get("date", ""))
-
-        score = 0
-
-        # LOI or Lease Draft = high-value stage
-        if stage in ("LOI", "Lease Draft & Review"):
-            score += 3
-
-        # Has a concrete (non-waiting) action
-        if next_step and not is_waiting(next_step):
-            score += 2
-        elif is_waiting(next_step):
-            score -= 3
-
-        # Recency
-        if last_activity_days <= 3:
-            score += 2
-        elif last_activity_days <= 7:
-            score += 1
-
-        # Skip deals with no real next step
-        if not next_step or next_step.strip() == "":
-            continue
-
-        # Build concise action (trim to ~80 chars)
-        action = next_step.split(".")[0].strip()
-        if len(action) > 100:
-            action = action[:97] + "..."
-
-        # Build why from stage + recency
-        if stage in ("LOI", "Lease Draft & Review"):
-            why = f"{stage} stage — keep momentum, don't let this stall."
-        else:
-            why = f"{stage} — active deal with pending next step."
-
-        if last_activity_days <= 3:
-            why += f" Activity {last_activity_days}d ago."
-
-        candidates.append({
-            "score": score,
-            "id": f"focus-{deal['id']}",
-            "dealName": name,
-            "property": prop,
-            "action": action,
-            "why": why,
-            "urgency": "high" if score >= 4 else ("medium" if score >= 2 else "low"),
-            "type": "pipeline",
-        })
-
-    # ── Side deals ────────────────────────────────────────────────────────────
-    for deal in data.get("sideDeals", []):
-        last_update = deal.get("lastUpdate", "")
-        next_step = deal.get("nextStep", "")
-        name = deal.get("name", "")
-        prop = deal.get("property", "")
-
-        if not next_step or is_waiting(next_step):
-            continue
-
-        update_days = days_since(last_update) if last_update else 999
-
-        # Only include if updated in last 7 days
-        if update_days > 7:
-            continue
-
-        score = 2  # side deal base
-
-        if not is_waiting(next_step):
-            score += 2
-
-        if update_days <= 3:
-            score += 2
-        elif update_days <= 7:
-            score += 1
-
-        action = next_step.split(".")[0].strip()
-        if len(action) > 100:
-            action = action[:97] + "..."
-
-        why = f"Side deal updated {update_days}d ago — concrete action ready."
-
-        candidates.append({
-            "score": score,
-            "id": f"focus-side-{deal['id']}",
-            "dealName": name,
-            "property": prop,
-            "action": action,
-            "why": why,
-            "urgency": "medium" if score >= 3 else "low",
-            "type": "side",
-        })
-
-    # ── Priorities list ────────────────────────────────────────────────────────
-    priorities = data.get("today", {}).get("priorities", [])
-    for i, p in enumerate(priorities):
-        if is_waiting(p):
-            continue
-
-        # Check for overdue mention and extract days
-        overdue_days = 0
-        overdue_match = re.search(r"overdue.*?due (\d{4}-\d{2}-\d{2})", p, re.IGNORECASE)
-        if overdue_match:
-            overdue_days = days_since(overdue_match.group(1))
-
-        # Skip very stale items (> 14 days overdue)
-        if overdue_days > 14:
-            continue
-
-        score = 1  # base for priority item
-
-        if not is_waiting(p):
-            score += 2
-
-        # Penalize overdue (capped at -5)
-        penalty = min(overdue_days, 5)
-        score -= penalty
-
-        # First few priorities are more important
-        if i < 3:
-            score += 1
-
-        if score < 0:
-            continue
-
-        action = re.sub(r"\s*\(overdue.*?\)", "", p).strip()
-        if len(action) > 100:
-            action = action[:97] + "..."
-
-        why = "On your priorities list."
-        if overdue_days > 0:
-            why = f"Overdue by {overdue_days}d — move it today."
-
-        candidates.append({
-            "score": score,
-            "id": f"focus-priority-{i}",
-            "dealName": action[:40],
+        top3.append({
+            "id": f"focus-plate-{item['rank']}",
+            "dealName": item["dealName"],
             "property": None,
             "action": action,
-            "why": why,
-            "urgency": "high" if overdue_days > 0 else "medium",
-            "type": "task",
+            "why": f"#{item['rank']} on your plate today." if source == "morning-briefing" else "Top of your active task list this week.",
+            "urgency": "high" if item["rank"] <= 2 else "medium",
+            "type": "briefing" if source == "morning-briefing" else "task",
         })
 
-    # ── Stale contacts ────────────────────────────────────────────────────────
-    for contact in data.get("staleContacts", []):
-        if contact.get("urgency") != "high":
-            continue
-        days_since_contact = contact.get("daysSinceContact", 999)
-        if days_since_contact >= 14:
-            continue
-
-        score = 3  # high urgency contact
-        if days_since_contact <= 3:
-            score += 2
-        elif days_since_contact <= 7:
-            score += 1
-
-        action = f"Reach out to {contact['name']} re: {contact['deal']}"
-        why = f"High-urgency contact — {days_since_contact}d since last touch. Last: {contact.get('lastAction', 'unknown')}"
-
-        candidates.append({
-            "score": score,
-            "id": f"focus-contact-{contact['name'].lower().replace(' ', '-')}",
-            "dealName": contact.get("deal", contact["name"]),
-            "property": None,
-            "action": action,
-            "why": why,
-            "urgency": "high",
-            "type": "contact",
-        })
-
-    # ── Sort + pick top 3 ─────────────────────────────────────────────────────
-    candidates.sort(key=lambda c: c["score"], reverse=True)
-    top3 = candidates[:3]
-
-    # Clean up score field (not part of output schema)
+    print(f"[INFO] Focus 3: selected {len(top3)} items")
     for item in top3:
-        item.pop("score", None)
-
-    print(f"[INFO] Focus 3: selected {len(top3)} items from {len(candidates)} candidates")
-    for item in top3:
-        print(f"  · [{item['type']}] {item['dealName']} — {item['action'][:60]}")
+        print(f"  · {item['dealName']} — {item['action'][:60]}")
 
     return {
         "generatedAt": datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
+        "source": source,
         "items": top3,
     }
 
