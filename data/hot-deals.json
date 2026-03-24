@@ -5734,34 +5734,34 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-03-24T17:22:29",
+    "generatedAt": "2026-03-24T17:30:09",
     "items": [
       {
-        "id": "focus-malone-shoe-dept",
-        "dealName": "Shoe Dept",
-        "property": "Malone Plaza",
-        "action": "Send revised shared access language to Paul",
-        "why": "Lease Draft & Review stage — keep momentum, don't let this stall. Activity 0d ago.",
+        "id": "focus-task-T055",
+        "dealName": "Call Bell re: Wingstop McMinnville LOI — TI vs \"as",
+        "property": null,
+        "action": "Call Bell re: Wingstop McMinnville LOI — TI vs \"as-is\" discrepancy. $25/ft TI in LOI but Bell say...",
+        "why": "New from this week's leasing meeting. High-energy deal.",
         "urgency": "high",
-        "type": "pipeline"
+        "type": "task"
       },
       {
-        "id": "focus-gastonia-laundromat",
-        "dealName": "Chad Vang - Laundromat",
-        "property": "Gastonia - Dixie Village",
-        "action": "Send counter with TI/rent adjustment",
-        "why": "LOI stage — keep momentum, don't let this stall. Activity 0d ago.",
+        "id": "focus-task-T063",
+        "dealName": "Add utility info to McMinnville external folder — ",
+        "property": null,
+        "action": "Add utility info to McMinnville external folder — then resend to Micah so he can forward",
+        "why": "New from this week's leasing meeting. High-energy deal.",
         "urgency": "high",
-        "type": "pipeline"
+        "type": "task"
       },
       {
-        "id": "focus-shelbyville-anytime",
-        "dealName": "Anytime Fitness (Derek Tucker)",
-        "property": "Shelbyville",
-        "action": "Call Derek Tucker back",
-        "why": "LOI stage — keep momentum, don't let this stall. Activity 1d ago.",
+        "id": "focus-task-T064",
+        "dealName": "Respond to Wingstop suite options McMinnville — Ke",
+        "property": null,
+        "action": "Respond to Wingstop suite options McMinnville — Kevin True repping, mid-teens as-is. Exploring Ba...",
+        "why": "New from this week's leasing meeting. High-energy deal.",
         "urgency": "high",
-        "type": "pipeline"
+        "type": "task"
       }
     ]
   }
