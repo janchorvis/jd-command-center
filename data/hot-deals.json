@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T16:30:09.741000",
+  "lastUpdated": "2026-03-24T17:30:16.045323",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
     "date": "2026-03-24",
@@ -2257,6 +2257,11 @@
       "timeline": [
         {
           "date": "2026-03-24",
+          "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-24",
           "event": "Email from Tom Gaghan: Breach of Lease",
           "type": "email"
         },
@@ -2308,6 +2313,11 @@
         "Peter Adams (Treverse LLC dba A-Stock)"
       ],
       "timeline": [
+        {
+          "date": "2026-03-24",
+          "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+          "type": "email"
+        },
         {
           "date": "2026-03-24",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
@@ -3642,7 +3652,7 @@
       "name": "Peter Adams",
       "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
       "urgency": "low"
     },
     {
