@@ -5744,34 +5744,35 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-03-24T17:37:12",
+    "generatedAt": "2026-03-24T17:48:10",
+    "source": "morning-briefing",
     "items": [
       {
-        "id": "focus-task-T054",
-        "dealName": "Draft Prather event company lease — AI draft using",
+        "id": "focus-plate-1",
+        "dealName": "Robbie call at 8 AM",
         "property": null,
-        "action": "Draft Prather event company lease — AI draft using base lease, add event-specific concerns (noise...",
-        "why": "New from this week's leasing meeting. High-energy deal.",
+        "action": "give clear hire parameters (younger, 2-3 yr max, recent grads, NOT 30yo changers)",
+        "why": "#1 on your plate today.",
         "urgency": "high",
-        "type": "task"
+        "type": "briefing"
       },
       {
-        "id": "focus-task-T055",
-        "dealName": "Call Bell re: Wingstop McMinnville LOI — TI vs \"as",
+        "id": "focus-plate-2",
+        "dealName": "Talk to Parker today",
         "property": null,
-        "action": "Call Bell re: Wingstop McMinnville LOI — TI vs \"as-is\" discrepancy. $25/ft TI in LOI but Bell say...",
-        "why": "New from this week's leasing meeting. High-energy deal.",
+        "action": "he's in 9-2, been rolling 14 days",
+        "why": "#2 on your plate today.",
         "urgency": "high",
-        "type": "task"
+        "type": "briefing"
       },
       {
-        "id": "focus-emerson-hawkins",
-        "dealName": "Charles Hawkins Co.",
-        "property": "Emerson Hall - Hotel Space",
-        "action": "Discuss counter with Micah early next week",
-        "why": "High-energy deal. LOI stage. Activity 0d ago.",
-        "urgency": "high",
-        "type": "pipeline"
+        "id": "focus-plate-3",
+        "dealName": "Call Bell re: Wingstop McMinnville LOI",
+        "property": null,
+        "action": "TI vs as-is discrepancy ($25/ft TI, corporate won't approve)",
+        "why": "#3 on your plate today.",
+        "urgency": "medium",
+        "type": "briefing"
       }
     ]
   }
