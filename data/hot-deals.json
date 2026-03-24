@@ -5744,14 +5744,14 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-03-24T17:34:44",
+    "generatedAt": "2026-03-24T17:35:10",
     "items": [
       {
-        "id": "focus-malone-shoe-dept",
-        "dealName": "Shoe Dept",
-        "property": "Malone Plaza",
-        "action": "Send revised shared access language to Paul",
-        "why": "High-energy deal. Lease Draft & Review stage. Activity 0d ago.",
+        "id": "focus-mcminnville-ups",
+        "dealName": "UPS Store Franchisee",
+        "property": "McMinnville",
+        "action": "Finalize LOI terms and move to lease",
+        "why": "High-energy deal. LOI stage. Activity 0d ago.",
         "urgency": "high",
         "type": "pipeline"
       },
@@ -5765,11 +5765,11 @@
         "type": "pipeline"
       },
       {
-        "id": "focus-mcminnville-ups",
-        "dealName": "UPS Store Franchisee",
-        "property": "McMinnville",
-        "action": "Finalize LOI terms and move to lease",
-        "why": "High-energy deal. LOI stage. Activity 0d ago.",
+        "id": "focus-malone-shoe-dept",
+        "dealName": "Shoe Dept",
+        "property": "Malone Plaza",
+        "action": "Send revised shared access language to Paul",
+        "why": "High-energy deal. Lease Draft & Review stage. Activity 0d ago.",
         "urgency": "high",
         "type": "pipeline"
       }
