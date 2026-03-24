@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T16:03:19.822300",
+  "lastUpdated": "2026-03-24T16:03:34.162335",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
     "date": "2026-03-24",
@@ -2323,11 +2323,13 @@
       "name": "HopeSmiles",
       "property": "44 Vantage Way, Cool Springs",
       "type": "Tenant Rep",
-      "status": "Counter sent at $27/SF + $60-65/SF TI. Waiting on landlord response.",
-      "nextStep": "Connect with Shelby Hall.",
+      "status": "LOI stage. Landlord counter forwarded to Amy Harper and Dr. Phillip Kemp 3/19. Terms: 35,362 SF as-is, $19.50/SF FSG, 10-year, 3% annual bumps. Cool Springs Commons RFP effectively dead.",
+      "nextStep": "Follow up with Amy/Dr. Camp on expansion timing for second phase.",
       "contacts": [
         "Amy Harper (Tenant)",
-        "Shelby Hall (Landlord Rep @ Foundry Commercial)"
+        "Shelby Hall (Landlord Rep @ Foundry Commercial)",
+        "Amy Harper (amy@hopesmiles.org)",
+        "Dr. Phillip Kemp (phillipkemp@hopesmiles.org)"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-11",
@@ -2356,6 +2358,11 @@
           "date": "2026-03-23",
           "event": "Email from Jacob Delk: Anchor Commissions (Malone - Marshalls, McMinnville - The Hut, Russellville - Co",
           "type": "email"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Meeting: Follow up on expansion timing for second phase",
+          "type": "meeting"
         },
         {
           "date": "2026-03-22",
@@ -2395,6 +2402,11 @@
         {
           "date": "2026-03-19",
           "event": "Email from Jacob Delk: Re: 44 Vantage Way - Hope Smiles",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-19",
+          "event": "Landlord counter forwarded to tenant - $19.50/SF FSG, 10yr, 3% bumps",
           "type": "email"
         },
         {
@@ -2512,7 +2524,9 @@
           "label": "Draft email to Amy Harper",
           "type": "email"
         }
-      ]
+      ],
+      "stage": "LOI",
+      "stageOverride": "LOI"
     },
     {
       "id": "buena-vista",
