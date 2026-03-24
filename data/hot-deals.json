@@ -5744,7 +5744,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-03-24T17:31:05",
+    "generatedAt": "2026-03-24T17:31:41",
     "items": [
       {
         "id": "focus-task-T055",
@@ -5765,13 +5765,13 @@
         "type": "task"
       },
       {
-        "id": "focus-task-T064",
-        "dealName": "Respond to Wingstop suite options McMinnville — Ke",
-        "property": null,
-        "action": "Respond to Wingstop suite options McMinnville — Kevin True repping, mid-teens as-is. Exploring Ba...",
-        "why": "New from this week's leasing meeting. High-energy deal.",
+        "id": "focus-malone-shoe-dept",
+        "dealName": "Shoe Dept",
+        "property": "Malone Plaza",
+        "action": "Send revised shared access language to Paul",
+        "why": "High-energy deal. Lease Draft & Review stage. Activity 0d ago.",
         "urgency": "high",
-        "type": "task"
+        "type": "pipeline"
       }
     ]
   }
