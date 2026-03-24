@@ -5744,17 +5744,8 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-03-24T17:35:30",
+    "generatedAt": "2026-03-24T17:35:43",
     "items": [
-      {
-        "id": "focus-task-T054",
-        "dealName": "Draft Prather event company lease — AI draft using",
-        "property": null,
-        "action": "Draft Prather event company lease — AI draft using base lease, add event-specific concerns (noise...",
-        "why": "New from this week's leasing meeting. High-energy deal.",
-        "urgency": "high",
-        "type": "task"
-      },
       {
         "id": "focus-task-T055",
         "dealName": "Call Bell re: Wingstop McMinnville LOI — TI vs \"as",
@@ -5765,13 +5756,22 @@
         "type": "task"
       },
       {
-        "id": "focus-task-T063",
-        "dealName": "Add utility info to McMinnville external folder — ",
-        "property": null,
-        "action": "Add utility info to McMinnville external folder — then resend to Micah so he can forward",
-        "why": "New from this week's leasing meeting. High-energy deal.",
+        "id": "focus-malone-shoe-dept",
+        "dealName": "Shoe Dept",
+        "property": "Malone Plaza",
+        "action": "Send revised shared access language to Paul",
+        "why": "High-energy deal. Lease Draft & Review stage. Activity 0d ago.",
         "urgency": "high",
-        "type": "task"
+        "type": "pipeline"
+      },
+      {
+        "id": "focus-emerson-hawkins",
+        "dealName": "Charles Hawkins Co.",
+        "property": "Emerson Hall - Hotel Space",
+        "action": "Discuss counter with Micah early next week",
+        "why": "High-energy deal. LOI stage. Activity 0d ago.",
+        "urgency": "high",
+        "type": "pipeline"
       }
     ]
   }
