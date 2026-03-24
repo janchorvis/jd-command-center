@@ -1,50 +1,70 @@
 {
-  "lastUpdated": "2026-03-23T17:30:09.074434",
-  "sourceDoc": "Leasing Meeting Prep - Week of 3/23/26",
+  "lastUpdated": "2026-03-24T07:15:27.902111",
+  "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
-    "date": "2026-03-23",
-    "greeting": "Good afternoon, Jacob. Leasing meeting processed - 11 new action items loaded.",
+    "date": "2026-03-24",
+    "greeting": "Good morning, Jacob. You have 15 overdue items.",
     "meetings": [
       {
         "time": "12:00 AM",
-        "title": "Parker (12-5)",
+        "title": "Parker (9-2)",
         "dealContext": null
       },
       {
-        "time": "6:30 AM",
-        "title": "Bible Study",
+        "time": "12:00 AM",
+        "title": "Taylor Marmorstone Birthday",
+        "dealContext": null
+      },
+      {
+        "time": "8:00 AM",
+        "title": "Robbie Call",
+        "dealContext": null
+      },
+      {
+        "time": "8:00 AM",
+        "title": "PCON - Dev Check In (VIRTUAL ONLY)",
         "dealContext": null
       },
       {
         "time": "8:30 AM",
-        "title": "Monday Morning Meeting",
+        "title": "Rock/Scorecard/Occupancy + New Lease Checklists",
         "dealContext": null
       },
       {
-        "time": "9:15 AM",
-        "title": "Generosity Committee Meeting",
+        "time": "9:00 AM",
+        "title": "Commercial L10 Meeting",
+        "dealContext": "Week scorecard: 3 deals advanced. 21 completed. 3 stalled/dropped. 11 high-priority deals active."
+      },
+      {
+        "time": "11:30 AM",
+        "title": "Hideout - Matt Wilson",
         "dealContext": null
       },
       {
-        "time": "10:30 AM",
-        "title": "Leasing Meeting",
-        "dealContext": "13 active deals. 3 advanced this week (QT Nails→Lease sent for signature, Coaches Bargainz→Tenant welcome email sent, HopeSmiles). Top deals: Five Below (LOI), Shoe Dept (Lease Draft & Review), Chad Vang - Laundromat (LOI). 22 contacts tracked."
+        "time": "2:00 PM",
+        "title": "Anchor Investments + Fostr AI | Weekly Check-In",
+        "dealContext": null
       },
       {
-        "time": "12:00 PM",
-        "title": "Cole/Jacob Lunch",
+        "time": "4:30 PM",
+        "title": "March Happy Hour - Gold Night",
+        "dealContext": null
+      },
+      {
+        "time": "4:30 PM",
+        "title": "CRE 615",
         "dealContext": null
       }
     ],
     "priorities": [
-      "Draft Prather event company lease - AI draft + send to Ashby for event-specific review (noise, security, nuisance). Ask for return this week.",
-      "Call Bell re: Wingstop McMinnville LOI - TI vs as-is doesn't add up. Clarify white box + DA approach.",
-      "Follow up Amy/Dr. Camp - expansion timing, second phase. Fight on when Anchor absorbs second space.",
-      "Send Micah email with JD description - he'll forward to Scott at UT real estate program.",
-      "Give Robbie clear candidate parameters - younger person, max 2-3 yrs, recent college grads.",
-      "Follow up government board meeting - LOI delivered ~1 week ago, board meeting coming up.",
-      "Have honest conversation with Hannah (Foster) - ask for real launch timeline.",
-      "Respond to Wingstop suite options at McMinnville - Kevin True repping, mid-teens as-is."
+      "PCON: Submit feedback form for Jack Beachboard (overdue — due 2026-03-17)",
+      "Call Sheldon - Aldi (overdue — due 2026-03-17)",
+      "Commission instructions to Carol — Feb invoices (overdue — due 2026-03-13)",
+      "Start scheduling ICSC meetings + outreach for Evansville and Shelbyville (overdue — due 2026-03-20)",
+      "Redline Emerson Hall prospect lease (overdue — due 2026-03-13)",
+      "Send Evansville info to TSCG (America's Thrift Stores site search) (overdue — due 2026-03-23)",
+      "Make flyer for mattresses listing (overdue — due 2026-03-23)",
+      "put mattresses on the market (overdue — due 2026-03-23)"
     ]
   },
   "pipelineDeals": [
@@ -1756,7 +1776,16 @@
           "label": "Call Bell",
           "type": "call"
         }
-      ]
+      ],
+      "rentComps": {
+        "property": "McMinnville",
+        "avgRate": null,
+        "minRate": null,
+        "maxRate": null,
+        "avgSqFt": 3255,
+        "suiteCount": 45,
+        "vacantCount": 0
+      }
     },
     {
       "id": "mcminnville-prather",
@@ -1815,7 +1844,16 @@
           "label": "Send to Ashby",
           "type": "email"
         }
-      ]
+      ],
+      "rentComps": {
+        "property": "McMinnville",
+        "avgRate": null,
+        "minRate": null,
+        "maxRate": null,
+        "avgSqFt": 3255,
+        "suiteCount": 45,
+        "vacantCount": 0
+      }
     },
     {
       "id": "malone-marshalls",
@@ -3307,7 +3345,7 @@
     "Touring": 4,
     "Obtain Financials": 1,
     "Trading Terms": 2,
-    "LOI": 5,
+    "LOI": 4,
     "Lease Draft & Review": 4,
     "Stalled": 32,
     "Lease Signed": 2
