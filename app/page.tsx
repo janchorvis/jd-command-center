@@ -7,6 +7,7 @@ import BrainDump from '@/components/BrainDump';
 import ActionItems from '@/components/ActionItems';
 import MorningSweep from '@/components/MorningSweep';
 import PropertyReviewTodos from '@/components/PropertyReviewTodos';
+import Focus3 from '@/components/Focus3';
 
 export const dynamic = 'force-dynamic';
 
@@ -33,6 +34,9 @@ export default async function Home() {
         <h1 className="text-3xl font-bold mb-1 text-slate-900">Good {getGreetingTime()}, Jacob</h1>
         <p className="text-slate-500">{hotDealsData.today.greeting}</p>
       </div>
+
+      {/* Focus 3 — Jarvis's opinionated top picks for today */}
+      <Focus3 focus3={hotDealsData.focus3} />
 
       {/* 1. Morning Sweep — primary daily driver */}
       {hotDealsData.todaySweep ? (

@@ -122,6 +122,21 @@ export interface MorningSweep {
   deferred: SweepItem[];
 }
 
+export interface Focus3Item {
+  id: string;
+  dealName: string;
+  property?: string;
+  action: string;
+  why: string;
+  urgency: 'high' | 'medium' | 'low';
+  type: 'pipeline' | 'side' | 'task' | 'contact';
+}
+
+export interface Focus3 {
+  generatedAt: string;
+  items: Focus3Item[];
+}
+
 export interface HotDealsData {
   lastUpdated: string;
   sourceDoc: string;
@@ -135,6 +150,7 @@ export interface HotDealsData {
   brainDumps: BrainDump[];
   actionItems: ActionItem[];
   todaySweep?: MorningSweep;
+  focus3?: Focus3;
   propertyReviewTodos?: {
     generatedAt: string;
     source: string;

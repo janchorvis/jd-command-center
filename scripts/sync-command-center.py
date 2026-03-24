@@ -1210,12 +1210,244 @@ def git_push(project_root: Path, message: str = "chore: sync command center data
         return False
 
 
+# ─── Focus 3 Generation ──────────────────────────────────────────────────────
+
+def generate_focus3(data: dict) -> dict:
+    """
+    Synthesize the top 3 most important things Jacob should focus on today.
+    Collects candidates from pipeline deals, side deals, priorities, and stale contacts,
+    scores each, picks the top 3 with concise action + why.
+    """
+    today = date.today()
+    candidates = []  # list of dicts with score + fields
+
+    WAITING_PATTERNS = re.compile(
+        r"\b(wait(?:ing)?|pending|follow up when|hold until|no action needed|n/a)\b",
+        re.IGNORECASE,
+    )
+
+    def is_waiting(text: str) -> bool:
+        return bool(WAITING_PATTERNS.search(text or ""))
+
+    def days_since(date_str: str) -> int:
+        """Return number of days since a date string (YYYY-MM-DD or ISO)."""
+        try:
+            d = date.fromisoformat(date_str[:10])
+            return (today - d).days
+        except Exception:
+            return 999
+
+    # ── Pipeline deals ────────────────────────────────────────────────────────
+    for deal in data.get("pipelineDeals", []):
+        stage = deal.get("stage", "")
+        next_step = deal.get("nextStep", "")
+        name = deal.get("name", "")
+        prop = deal.get("property", "")
+
+        # Skip lease-signed / stalled as they're terminal
+        if stage in ("Lease Signed", "Stalled"):
+            continue
+
+        # Find most recent timeline event date
+        timeline = deal.get("timeline", [])
+        last_activity_days = 999
+        if timeline:
+            last_activity_days = days_since(timeline[0].get("date", ""))
+
+        score = 0
+
+        # LOI or Lease Draft = high-value stage
+        if stage in ("LOI", "Lease Draft & Review"):
+            score += 3
+
+        # Has a concrete (non-waiting) action
+        if next_step and not is_waiting(next_step):
+            score += 2
+        elif is_waiting(next_step):
+            score -= 3
+
+        # Recency
+        if last_activity_days <= 3:
+            score += 2
+        elif last_activity_days <= 7:
+            score += 1
+
+        # Skip deals with no real next step
+        if not next_step or next_step.strip() == "":
+            continue
+
+        # Build concise action (trim to ~80 chars)
+        action = next_step.split(".")[0].strip()
+        if len(action) > 100:
+            action = action[:97] + "..."
+
+        # Build why from stage + recency
+        if stage in ("LOI", "Lease Draft & Review"):
+            why = f"{stage} stage — keep momentum, don't let this stall."
+        else:
+            why = f"{stage} — active deal with pending next step."
+
+        if last_activity_days <= 3:
+            why += f" Activity {last_activity_days}d ago."
+
+        candidates.append({
+            "score": score,
+            "id": f"focus-{deal['id']}",
+            "dealName": name,
+            "property": prop,
+            "action": action,
+            "why": why,
+            "urgency": "high" if score >= 4 else ("medium" if score >= 2 else "low"),
+            "type": "pipeline",
+        })
+
+    # ── Side deals ────────────────────────────────────────────────────────────
+    for deal in data.get("sideDeals", []):
+        last_update = deal.get("lastUpdate", "")
+        next_step = deal.get("nextStep", "")
+        name = deal.get("name", "")
+        prop = deal.get("property", "")
+
+        if not next_step or is_waiting(next_step):
+            continue
+
+        update_days = days_since(last_update) if last_update else 999
+
+        # Only include if updated in last 7 days
+        if update_days > 7:
+            continue
+
+        score = 2  # side deal base
+
+        if not is_waiting(next_step):
+            score += 2
+
+        if update_days <= 3:
+            score += 2
+        elif update_days <= 7:
+            score += 1
+
+        action = next_step.split(".")[0].strip()
+        if len(action) > 100:
+            action = action[:97] + "..."
+
+        why = f"Side deal updated {update_days}d ago — concrete action ready."
+
+        candidates.append({
+            "score": score,
+            "id": f"focus-side-{deal['id']}",
+            "dealName": name,
+            "property": prop,
+            "action": action,
+            "why": why,
+            "urgency": "medium" if score >= 3 else "low",
+            "type": "side",
+        })
+
+    # ── Priorities list ────────────────────────────────────────────────────────
+    priorities = data.get("today", {}).get("priorities", [])
+    for i, p in enumerate(priorities):
+        if is_waiting(p):
+            continue
+
+        # Check for overdue mention and extract days
+        overdue_days = 0
+        overdue_match = re.search(r"overdue.*?due (\d{4}-\d{2}-\d{2})", p, re.IGNORECASE)
+        if overdue_match:
+            overdue_days = days_since(overdue_match.group(1))
+
+        # Skip very stale items (> 14 days overdue)
+        if overdue_days > 14:
+            continue
+
+        score = 1  # base for priority item
+
+        if not is_waiting(p):
+            score += 2
+
+        # Penalize overdue (capped at -5)
+        penalty = min(overdue_days, 5)
+        score -= penalty
+
+        # First few priorities are more important
+        if i < 3:
+            score += 1
+
+        if score < 0:
+            continue
+
+        action = re.sub(r"\s*\(overdue.*?\)", "", p).strip()
+        if len(action) > 100:
+            action = action[:97] + "..."
+
+        why = "On your priorities list."
+        if overdue_days > 0:
+            why = f"Overdue by {overdue_days}d — move it today."
+
+        candidates.append({
+            "score": score,
+            "id": f"focus-priority-{i}",
+            "dealName": action[:40],
+            "property": None,
+            "action": action,
+            "why": why,
+            "urgency": "high" if overdue_days > 0 else "medium",
+            "type": "task",
+        })
+
+    # ── Stale contacts ────────────────────────────────────────────────────────
+    for contact in data.get("staleContacts", []):
+        if contact.get("urgency") != "high":
+            continue
+        days_since_contact = contact.get("daysSinceContact", 999)
+        if days_since_contact >= 14:
+            continue
+
+        score = 3  # high urgency contact
+        if days_since_contact <= 3:
+            score += 2
+        elif days_since_contact <= 7:
+            score += 1
+
+        action = f"Reach out to {contact['name']} re: {contact['deal']}"
+        why = f"High-urgency contact — {days_since_contact}d since last touch. Last: {contact.get('lastAction', 'unknown')}"
+
+        candidates.append({
+            "score": score,
+            "id": f"focus-contact-{contact['name'].lower().replace(' ', '-')}",
+            "dealName": contact.get("deal", contact["name"]),
+            "property": None,
+            "action": action,
+            "why": why,
+            "urgency": "high",
+            "type": "contact",
+        })
+
+    # ── Sort + pick top 3 ─────────────────────────────────────────────────────
+    candidates.sort(key=lambda c: c["score"], reverse=True)
+    top3 = candidates[:3]
+
+    # Clean up score field (not part of output schema)
+    for item in top3:
+        item.pop("score", None)
+
+    print(f"[INFO] Focus 3: selected {len(top3)} items from {len(candidates)} candidates")
+    for item in top3:
+        print(f"  · [{item['type']}] {item['dealName']} — {item['action'][:60]}")
+
+    return {
+        "generatedAt": datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
+        "items": top3,
+    }
+
+
 # ─── Main ─────────────────────────────────────────────────────────────────────
 
 def main():
     parser = argparse.ArgumentParser(description="Sync Jacob's Command Center data.")
-    parser.add_argument("--push",    action="store_true", help="Git commit + push after writing")
-    parser.add_argument("--dry-run", action="store_true", help="Print changes, don't write files")
+    parser.add_argument("--push",       action="store_true", help="Git commit + push after writing")
+    parser.add_argument("--dry-run",    action="store_true", help="Print changes, don't write files")
+    parser.add_argument("--focus3-only", action="store_true", help="Only regenerate focus3, skip heavy API calls")
     args = parser.parse_args()
 
     print(f"[INFO] Starting sync — {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
@@ -1223,6 +1455,18 @@ def main():
     # Load env and existing data
     env      = load_env(ENV_FILE)
     existing = load_json(DATA_FILE)
+
+    # ── focus3-only fast path ─────────────────────────────────────────────────
+    if args.focus3_only:
+        print("[INFO] --focus3-only: regenerating focus3 from existing data...")
+        existing["focus3"] = generate_focus3(existing)
+        if not args.dry_run:
+            DATA_FILE.write_text(json.dumps(existing, indent=2, ensure_ascii=False))
+            print(f"[INFO] Written: {DATA_FILE}")
+        if args.push:
+            git_push(PROJECT_ROOT, f"chore: regenerate focus3 — {date.today().isoformat()}")
+        print("[INFO] Focus3 update complete.")
+        return
 
     # Load Asana token from env
     asana_token = env.get("ASANA_TOKEN", "")
@@ -1256,6 +1500,9 @@ def main():
 
     # Enrich with rent comp data from suites.csv
     updated = enrich_rent_comps(updated)
+
+    # Generate Focus 3
+    updated["focus3"] = generate_focus3(updated)
 
     if args.dry_run:
         print("\n[DRY-RUN] Would write the following to hot-deals.json:")
