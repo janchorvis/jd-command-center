@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T11:30:13.741245",
+  "lastUpdated": "2026-03-24T12:30:15.479738",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
     "date": "2026-03-24",
@@ -554,6 +554,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-24",
+          "event": "Email from LoopNet Auctions by Ten-X: Your Weekly CRE Auction Alert – Don’t Miss These Opportunities!",
+          "type": "email"
+        },
         {
           "date": "2026-03-23",
           "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
@@ -3201,13 +3206,6 @@
       "urgency": "low"
     },
     {
-      "name": "Ajay Secore",
-      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
-      "urgency": "low"
-    },
-    {
       "name": "Kevin True",
       "deal": "Wingstop — McMinnville Plaza",
       "daysSinceContact": 1,
@@ -3261,6 +3259,13 @@
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 1,
       "lastAction": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
+      "urgency": "low"
+    },
+    {
+      "name": "Ajay Secore",
+      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LoopNet Auctions by Ten-X: Your Weekly CRE Auction Alert – Don’t Miss",
       "urgency": "low"
     },
     {
