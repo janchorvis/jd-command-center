@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T13:50:45.965536",
+  "lastUpdated": "2026-03-24T14:30:10.507036",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
     "date": "2026-03-24",
@@ -886,6 +886,11 @@
       "nextStep": "Send counter with TI/rent adjustment. Get Micah's sign-off on roof timeline.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-24",
+          "event": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
+          "type": "email"
+        },
         {
           "date": "2026-03-24",
           "event": "Email from Ryan M.: Ryan M. opened brochure on Dixie Village",
@@ -2236,6 +2241,16 @@
       "contacts": [],
       "timeline": [
         {
+          "date": "2026-03-24",
+          "event": "Email from Tom Gaghan: Breach of Lease",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+          "type": "email"
+        },
+        {
           "date": "2026-03-23",
           "event": "Meeting: Royal Furniture interested ~18K SF, but Aldi needs 20K min",
           "type": "lead"
@@ -2253,6 +2268,11 @@
       "priority": "high",
       "contacts": [],
       "timeline": [
+        {
+          "date": "2026-03-24",
+          "event": "Email from Beth Azor: Don’t Let a Commission﻿ ﻿Push You Into a Bad Deal ☝️",
+          "type": "email"
+        },
         {
           "date": "2026-03-23",
           "event": "Meeting: LOI delivered, board meeting pending, need follow-up",
@@ -3149,6 +3169,26 @@
       ],
       "timeline": [
         {
+          "date": "2026-03-24",
+          "event": "Email from Kristin Vinton: HOPE's Q1 impact report",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "Email from Micah Lacher: Marshall's construction schedule",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "Email from HubSpot: PCON Donation - Send Thank You",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-23",
+          "event": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
+          "type": "email"
+        },
+        {
           "date": "2026-03-23",
           "event": "Meeting: Live Nation interested in Emerson. Forwarded to Micah.",
           "type": "lead"
@@ -3418,7 +3458,7 @@
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ryan M.: Ryan M. opened brochure on Dixie Village",
+      "lastAction": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
       "urgency": "low"
     },
     {
@@ -3538,6 +3578,13 @@
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
       "lastAction": "Email from Micah Lacher: Marshall's construction schedule",
+      "urgency": "low"
+    },
+    {
+      "name": "Josh Levy",
+      "deal": "Live Nation — Emerson Hall",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Kristin Vinton: HOPE's Q1 impact report",
       "urgency": "low"
     }
   ],
