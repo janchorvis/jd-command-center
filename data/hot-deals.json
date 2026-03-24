@@ -5744,7 +5744,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-03-24T17:30:36",
+    "generatedAt": "2026-03-24T17:31:05",
     "items": [
       {
         "id": "focus-task-T055",
@@ -5756,22 +5756,22 @@
         "type": "task"
       },
       {
-        "id": "focus-malone-shoe-dept",
-        "dealName": "Shoe Dept",
-        "property": "Malone Plaza",
-        "action": "Send revised shared access language to Paul",
-        "why": "High-energy deal. Lease Draft & Review stage. Activity 0d ago.",
+        "id": "focus-task-T063",
+        "dealName": "Add utility info to McMinnville external folder — ",
+        "property": null,
+        "action": "Add utility info to McMinnville external folder — then resend to Micah so he can forward",
+        "why": "New from this week's leasing meeting. High-energy deal.",
         "urgency": "high",
-        "type": "pipeline"
+        "type": "task"
       },
       {
-        "id": "focus-emerson-hawkins",
-        "dealName": "Charles Hawkins Co.",
-        "property": "Emerson Hall - Hotel Space",
-        "action": "Discuss counter with Micah early next week",
-        "why": "High-energy deal. LOI stage. Activity 0d ago.",
+        "id": "focus-task-T064",
+        "dealName": "Respond to Wingstop suite options McMinnville — Ke",
+        "property": null,
+        "action": "Respond to Wingstop suite options McMinnville — Kevin True repping, mid-teens as-is. Exploring Ba...",
+        "why": "New from this week's leasing meeting. High-energy deal.",
         "urgency": "high",
-        "type": "pipeline"
+        "type": "task"
       }
     ]
   }
