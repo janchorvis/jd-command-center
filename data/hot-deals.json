@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T12:30:15.479738",
+  "lastUpdated": "2026-03-24T13:30:12.324519",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
     "date": "2026-03-24",
@@ -77,6 +77,16 @@
       "nextStep": "Wait for REC meeting 4/22. Follow up with Shaun on facade renderings.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-24",
+          "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+          "type": "email"
+        },
         {
           "date": "2026-03-23",
           "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
@@ -336,6 +346,16 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-03-24",
+          "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+          "type": "email"
+        },
+        {
           "date": "2026-03-23",
           "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
           "type": "email"
@@ -554,6 +574,16 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-24",
+          "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+          "type": "email"
+        },
         {
           "date": "2026-03-24",
           "event": "Email from LoopNet Auctions by Ten-X: Your Weekly CRE Auction Alert – Don’t Miss These Opportunities!",
@@ -1211,6 +1241,11 @@
       "timeline": [
         {
           "date": "2026-03-24",
+          "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-24",
           "event": "Email from Micah Lacher: Marshall's construction schedule",
           "type": "email"
         },
@@ -1454,6 +1489,11 @@
       "timeline": [
         {
           "date": "2026-03-24",
+          "event": "Email from scott koo: 6268 Atlanta Hwy",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-24",
           "event": "Email from Chain Store Age: DayBreaker: CEO of mall giant dies; AI goes mainstream with shoppers; Costco to ",
           "type": "email"
         },
@@ -1557,6 +1597,11 @@
       "nextStep": "Finalize LOI terms and move to lease.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-24",
+          "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+          "type": "email"
+        },
         {
           "date": "2026-03-24",
           "event": "Email from Chain Store Age: BREAKING: Dollar General names its next CEO",
@@ -1787,6 +1832,16 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-03-24",
+          "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+          "type": "email"
+        },
+        {
           "date": "2026-03-23",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
           "type": "email"
@@ -1841,6 +1896,21 @@
       "nextStep": "AI draft lease using base lease. Run through Jarvis for event-specific concerns (noise, security, nuisance). Send to Ashby for review, ask for return this week.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-24",
+          "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "Email from Zapier: [Workshop] Stop babysitting your AI",
+          "type": "email"
+        },
         {
           "date": "2026-03-24",
           "event": "Email from NASHtoday: April's top events, youth book fest + Radnor eaglet",
@@ -1915,6 +1985,16 @@
       "nextStep": "Waiting on Melissa Eddy (Asana due 3/20) - reaching out to Ashby re: Memo of Exclusive + Declarant estoppel.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-24",
+          "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+          "type": "email"
+        },
         {
           "date": "2026-03-23",
           "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
@@ -3192,55 +3272,6 @@
       "urgency": "low"
     },
     {
-      "name": "Paul",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
-      "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
-      "urgency": "low"
-    },
-    {
-      "name": "Kevin True",
-      "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
-      "urgency": "low"
-    },
-    {
-      "name": "Bell",
-      "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
-      "urgency": "low"
-    },
-    {
-      "name": "Melissa",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
-      "urgency": "low"
-    },
-    {
-      "name": "Lisa Schwartz, Esq.",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
-      "urgency": "low"
-    },
-    {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 1,
@@ -3262,10 +3293,24 @@
       "urgency": "low"
     },
     {
+      "name": "Paul",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "urgency": "low"
+    },
+    {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from LoopNet Auctions by Ten-X: Your Weekly CRE Auction Alert – Don’t Miss",
+      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
       "urgency": "low"
     },
     {
@@ -3286,42 +3331,77 @@
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Marshall's construction schedule",
+      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Marshall's construction schedule",
+      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
       "urgency": "low"
     },
     {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: CEO of mall giant dies; AI goes mainstre",
+      "lastAction": "Email from scott koo: 6268 Atlanta Hwy",
       "urgency": "low"
     },
     {
       "name": "Dwaine High",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: CEO of mall giant dies; AI goes mainstre",
+      "lastAction": "Email from scott koo: 6268 Atlanta Hwy",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: BREAKING: Dollar General names its next CEO",
+      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "urgency": "low"
+    },
+    {
+      "name": "Kevin True",
+      "deal": "Wingstop — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "urgency": "low"
+    },
+    {
+      "name": "Bell",
+      "deal": "Wingstop — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from NASHtoday: April's top events, youth book fest + Radnor eaglet",
+      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "urgency": "low"
+    },
+    {
+      "name": "Melissa",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "urgency": "low"
+    },
+    {
+      "name": "Lisa Schwartz, Esq.",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
       "urgency": "low"
     },
     {
