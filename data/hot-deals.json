@@ -1623,9 +1623,9 @@
       ],
       "rentComps": {
         "property": "Montgomery",
-        "avgRate": 14.0,
-        "minRate": 14.0,
-        "maxRate": 14.0,
+        "avgRate": 14,
+        "minRate": 14,
+        "maxRate": 14,
         "avgSqFt": 4405,
         "suiteCount": 19,
         "vacantCount": 0
@@ -5039,121 +5039,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-03-24T20:31:42",
-    "source": "morning-briefing",
-    "yourPlate": [
-      {
-        "id": "sweep-plate-1",
-        "text": "Robbie call at 8 AM — give clear hire parameters (younger, 2-3 yr max, recent grads, NOT 30yo changers)",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-plate-2",
-        "text": "Talk to Parker today — he's in 9-2, been rolling 14 days",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-plate-3",
-        "text": "Call Bell re: Wingstop McMinnville LOI — TI vs as-is discrepancy ($25/ft TI, corporate won't approve)",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-plate-4",
-        "text": "Hannah/Foster honest conversation — Fostr check-in at 2 PM, ask for real launch timeline",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-plate-5",
-        "text": "Review HopeSmiles (44V) landlord counter from Shelby Hall — more comments than expected",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-plate-6",
-        "text": "Ask log guy if event company would pay $55/ft",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-plate-7",
-        "text": "Derek Tucker callback — Anytime Fitness Shelbyville, 14 days stale. Kill it or call today.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      }
-    ],
-    "prepping": [
-      {
-        "id": "sweep-prep-1",
-        "text": "Prather event company lease draft - pulling base lease, adding noise/security/nuisance language",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-2",
-        "text": "JD description email draft for Micah → Scott (UT real estate program)",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-3",
-        "text": "PCON dinner invite for Micah - April 22 host committee",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-4",
-        "text": "PCON feedback forms - Beachboard 7 days overdue + DeFrance due 3/27. Prepping info for you to submit.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-5",
-        "text": "Wingstop McMinnville suite options response - Kevin True, mid-teens as-is, Back Shack exploration",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      }
-    ],
-    "handling": [
-      {
-        "id": "sweep-handle-1",
-        "text": "Asana overdue cleanup - re-dating 6 stale tasks",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-handle-2",
-        "text": "Parker reminder re: McMinnville utility info for external folder",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      }
-    ],
-    "deferred": [
-      {
-        "id": "sweep-defer-1",
-        "text": "Aldi (Matterport wait), Amy/Dr. Camp (waiting on Amy), gov board meeting (~1mo), Chad Vang (waiting), Five Below (Shaun renderings), BV sign (14d stale - DO/DEFER/KILL?), Fiverr/Yas flyer (14d dead - DO/DEFER/KILL?), email triage batch (13d rolling)",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      }
-    ]
+    "test": true
   },
   "prepDocDiff": {
     "generatedAt": "2026-03-22T20:42:48.373792",
