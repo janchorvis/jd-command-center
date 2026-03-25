@@ -23,7 +23,7 @@ export default function RootLayout({
           <Sidebar />
           <div className="flex-1 flex flex-col md:ml-[280px]">
             <MobileNav />
-            <main className="flex-1">
+            <main className="flex-1 pb-20 md:pb-0">
               {children}
             </main>
           </div>
