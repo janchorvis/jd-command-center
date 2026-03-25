@@ -427,6 +427,11 @@ def get_today_meetings() -> list[dict]:
         if not time_str and isinstance(start, dict) and "date" in start and "dateTime" not in start:
             continue
 
+        # Filter out intern schedule tracking entries (not real meetings)
+        title_lower = title.lower().strip()
+        if re.match(r"parker\s*\(", title_lower):
+            continue
+
         meetings.append({
             "time": time_str,
             "title": title,
@@ -1218,69 +1223,81 @@ def git_push(project_root: Path, message: str = "chore: sync command center data
 # YOUR PLATE. Falls back to active-tasks.md if no briefing available.
 #
 
-def _fetch_latest_briefing_your_plate() -> tuple:
-    """
-    Read the morning briefing cron's latest run and parse YOUR PLATE items.
-    Returns (items: list, source_label: str).
-    Items are dicts: {rank, dealName, action, text}
-    """
-    briefing_job_id = "7cb5add0-c465-44c1-b950-ecb78ddd06f5"
-    summary = ""
-
-    # Read from cron state file if available (written by morning briefing cron)
+def _load_briefing_cache() -> str:
+    """Load today's briefing from cache file. Returns raw text or empty string."""
     briefing_cache = WORKSPACE_ROOT / "memory" / "system" / "latest-briefing.txt"
     if briefing_cache.exists():
         try:
             content = briefing_cache.read_text()
-            # Check it's from today
             if date.today().isoformat() in content[:30]:
-                summary = content
-                print("[INFO] Focus 3: loaded briefing from cache file")
+                return content
         except Exception:
             pass
+    return ""
 
-    # Fallback: try openclaw CLI
-    if not summary:
-        try:
-            result = subprocess.run(
-                ["openclaw", "cron", "runs", briefing_job_id, "--limit", "1"],
-                capture_output=True, text=True, timeout=15
-            )
-            if result.returncode == 0:
-                # Parse the output - it's human-readable, look for summary content
-                summary = result.stdout
-        except Exception as e:
-            print(f"[WARN] Could not fetch briefing via CLI: {e}")
 
-    if not summary:
-        return [], ""
+def _parse_briefing_sections(summary: str) -> dict:
+    """
+    Parse all sections from a morning briefing.
+    Returns dict with keys: your_plate, prepping, handling, deferred
+    Each is a list of {rank, text, dealName, action}
+    """
+    sections = {
+        "your_plate": [],
+        "prepping": [],
+        "handling": [],
+        "deferred": [],
+    }
 
-    # Parse YOUR PLATE section
-    items = []
-    in_plate = False
+    # Section detection patterns
+    SECTION_MAP = {
+        r"YOUR PLATE\s*\(\d+\)": "your_plate",
+        r"I'LL PREP\s*\(\d+\)": "prepping",
+        r"I'M HANDLING\s*\(\d+\)": "handling",
+        r"DEFERRED\s*\(\d+\)": "deferred",
+    }
+
+    current_section = None
     for line in summary.splitlines():
-        if re.match(r"YOUR PLATE\s*\(\d+\)", line.strip()):
-            in_plate = True
+        stripped = line.strip()
+        if not stripped:
             continue
-        if in_plate and re.match(r"(I'LL PREP|I'M HANDLING|DEFERRED|⚠️)", line.strip()):
-            break
-        if in_plate:
-            m = re.match(r"(\d+)\.\s+(.+)", line.strip())
-            if m:
-                rank = int(m.group(1))
-                text = m.group(2).strip()
-                # Extract deal/entity name (first phrase before dash)
-                parts = re.split(r"\s*[—–]\s*", text, maxsplit=1)
-                deal_name = parts[0].strip()[:60]
-                action = parts[1].strip() if len(parts) > 1 else text
-                items.append({
-                    "rank": rank,
-                    "dealName": deal_name,
-                    "action": action,
-                    "text": text,
-                })
 
-    return items, "morning-briefing"
+        # Check if this line starts a new section
+        for pattern, section_key in SECTION_MAP.items():
+            if re.match(pattern, stripped):
+                current_section = section_key
+                break
+        else:
+            # Check for end-of-sections markers
+            if stripped.startswith("⚠️") or stripped.startswith("Note:") or stripped.startswith("Reply"):
+                current_section = None
+                continue
+
+            if current_section:
+                m = re.match(r"(\d+)\.\s+(.+)", stripped)
+                if m:
+                    rank = int(m.group(1))
+                    text = m.group(2).strip()
+                    parts = re.split(r"\s*[—–]\s*", text, maxsplit=1)
+                    deal_name = parts[0].strip()[:60]
+                    action = parts[1].strip() if len(parts) > 1 else text
+                    sections[current_section].append({
+                        "rank": rank,
+                        "text": text,
+                        "dealName": deal_name,
+                        "action": action,
+                    })
+                elif current_section == "deferred" and stripped:
+                    # Deferred is often a comma-separated list, not numbered
+                    sections["deferred"].append({
+                        "rank": len(sections["deferred"]) + 1,
+                        "text": stripped,
+                        "dealName": stripped[:60],
+                        "action": stripped,
+                    })
+
+    return sections
 
 
 def _fallback_active_tasks() -> list:
@@ -1321,32 +1338,34 @@ def _fallback_active_tasks() -> list:
     return items
 
 
-def generate_focus3(data: dict) -> dict:
+def generate_focus3_and_sweep(data: dict) -> tuple:
     """
-    Display the top 3 items from the morning briefing's YOUR PLATE section.
+    Generate both Focus 3 AND todaySweep from the morning briefing.
+    Both are visualization layers - the briefing already decided what matters.
 
-    The morning briefing cron already synthesizes priorities from:
-    - active-tasks.md (meeting action items, brain dumps)
-    - Asana (overdue/due-today tasks)
-    - Calendar (today's meetings with deal context)
-    - Communication triage (emails that unblocked deals)
-    - Deal priorities and waiting/active transitions
-
-    Focus 3 is a visualization layer, not a separate brain.
+    Returns (focus3_dict, sweep_dict).
     Falls back to active-tasks.md if no briefing is available today.
     """
-    # Try morning briefing first
-    plate_items, source = _fetch_latest_briefing_your_plate()
+    briefing_text = _load_briefing_cache()
+    source = "morning-briefing" if briefing_text else "active-tasks"
 
-    if not plate_items:
-        print("[INFO] Focus 3: no briefing YOUR PLATE found, falling back to active-tasks.md")
+    if briefing_text:
+        sections = _parse_briefing_sections(briefing_text)
+        plate_items = sections["your_plate"]
+        prepping_items = sections["prepping"]
+        handling_items = sections["handling"]
+        deferred_items = sections["deferred"]
+        print(f"[INFO] Briefing loaded: {len(plate_items)} plate, "
+              f"{len(prepping_items)} prepping, {len(handling_items)} handling, "
+              f"{len(deferred_items)} deferred")
+    else:
+        print("[INFO] No briefing available, falling back to active-tasks.md")
         plate_items = _fallback_active_tasks()
-        source = "active-tasks"
+        prepping_items = []
+        handling_items = []
+        deferred_items = []
 
-    if plate_items:
-        print(f"[INFO] Focus 3: using {source} ({len(plate_items)} items available)")
-
-    # Build focus3 from top 3
+    # ── Focus 3: top 3 from YOUR PLATE ────────────────────────────────────────
     top3 = []
     for item in plate_items[:3]:
         action = item["action"]
@@ -1363,15 +1382,39 @@ def generate_focus3(data: dict) -> dict:
             "type": "briefing" if source == "morning-briefing" else "task",
         })
 
-    print(f"[INFO] Focus 3: selected {len(top3)} items")
-    for item in top3:
-        print(f"  · {item['dealName']} — {item['action'][:60]}")
-
-    return {
+    focus3 = {
         "generatedAt": datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
         "source": source,
         "items": top3,
     }
+
+    print(f"[INFO] Focus 3: {len(top3)} items")
+    for item in top3:
+        print(f"  · {item['dealName']} — {item['action'][:60]}")
+
+    # ── todaySweep: full briefing sections ────────────────────────────────────
+    def _items_to_sweep(items: list, prefix: str) -> list:
+        return [{
+            "id": f"{prefix}-{item['rank']}",
+            "text": item["text"],
+            "detail": "",
+            "completed": False,
+            "source": source,
+        } for item in items]
+
+    sweep = {
+        "generatedAt": datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
+        "source": source,
+        "yourPlate": _items_to_sweep(plate_items, "sweep-plate"),
+        "prepping": _items_to_sweep(prepping_items, "sweep-prep"),
+        "handling": _items_to_sweep(handling_items, "sweep-handle"),
+        "deferred": _items_to_sweep(deferred_items, "sweep-defer"),
+    }
+
+    print(f"[INFO] Sweep: {len(sweep['yourPlate'])} plate, {len(sweep['prepping'])} prepping, "
+          f"{len(sweep['handling'])} handling, {len(sweep['deferred'])} deferred")
+
+    return focus3, sweep
 
 
 # ─── Main ─────────────────────────────────────────────────────────────────────
@@ -1391,14 +1434,16 @@ def main():
 
     # ── focus3-only fast path ─────────────────────────────────────────────────
     if args.focus3_only:
-        print("[INFO] --focus3-only: regenerating focus3 from existing data...")
-        existing["focus3"] = generate_focus3(existing)
+        print("[INFO] --focus3-only: regenerating focus3 + sweep from briefing...")
+        focus3, sweep = generate_focus3_and_sweep(existing)
+        existing["focus3"] = focus3
+        existing["todaySweep"] = sweep
         if not args.dry_run:
             DATA_FILE.write_text(json.dumps(existing, indent=2, ensure_ascii=False))
             print(f"[INFO] Written: {DATA_FILE}")
         if args.push:
-            git_push(PROJECT_ROOT, f"chore: regenerate focus3 — {date.today().isoformat()}")
-        print("[INFO] Focus3 update complete.")
+            git_push(PROJECT_ROOT, f"chore: regenerate focus3 + sweep — {date.today().isoformat()}")
+        print("[INFO] Focus3 + Sweep update complete.")
         return
 
     # Load Asana token from env
@@ -1434,8 +1479,10 @@ def main():
     # Enrich with rent comp data from suites.csv
     updated = enrich_rent_comps(updated)
 
-    # Generate Focus 3
-    updated["focus3"] = generate_focus3(updated)
+    # Generate Focus 3 + Morning Sweep from briefing
+    focus3, sweep = generate_focus3_and_sweep(updated)
+    updated["focus3"] = focus3
+    updated["todaySweep"] = sweep
 
     if args.dry_run:
         print("\n[DRY-RUN] Would write the following to hot-deals.json:")
