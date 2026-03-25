@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T14:30:11.683185",
+  "lastUpdated": "2026-03-25T15:01:44.453873",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
     "date": "2026-03-25",
@@ -62,9 +62,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "LOI signed and returned 3/17. REC meeting 4/22. Facade renderings requested from Shaun Andriano.",
+      "status": "Architect (Shaun Andriano) delivered facade elevation PDF to Jacob + Clay. Tracy Lauer still waiting on work letter comments + elevations.",
       "stage": "LOI",
-      "nextStep": "Wait for REC approval 4/22. Follow up with Shaun on facade renderings.",
+      "nextStep": "Jacob: review elevation, send to Tracy with signed/commented work letter",
       "priority": "high",
       "timeline": [
         {
@@ -90,6 +90,11 @@
         {
           "date": "2026-03-25",
           "event": "Email from Steven Silverman: New Listing! | Killingly Plaza | Shopping Center Investment | Connecticut",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-25",
+          "event": "Email: Shaun sent JoAnn existing exterior elevation PDF to Jacob/Clay",
           "type": "email"
         },
         {
