@@ -5239,125 +5239,121 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-03-25T07:15:29",
-    "source": "active-tasks",
+    "generatedAt": "2026-03-25T07:31:50",
+    "source": "morning-briefing",
     "yourPlate": [
       {
         "id": "sweep-plate-1",
-        "text": "Draft Prather event company lease — AI draft using base lease, add event-specific concerns (noise, security, nuisance), send to Ashby for review. Ask her to return this week",
+        "text": "Finish Emerson Hall lease + send to Ashby (9 AM block on calendar)",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-2",
-        "text": "Call Bell re: Wingstop McMinnville LOI — TI vs \"as-is\" discrepancy. $25/ft TI in LOI but Bell says corporate won't approve TI. Clarify white box + DA approach",
+        "text": "Call Tanviz — Pell City Marketplace (3:30 PM)",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-3",
-        "text": "Follow up government board meeting — LOI delivered ~1 week ago, no one checked it. Board meeting should be coming up (~1 month from return)",
+        "text": "Call Bell — Wingstop McMinnville TI discrepancy ($25/ft LOI vs corporate won't approve)",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-4",
-        "text": "Send Micah email with JD description — so he can forward to Scott (UT real estate program)",
+        "text": "Derek Tucker callback — Anytime Fitness Shelbyville LOI, 15 days stale. Kill or call today?",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-5",
-        "text": "Give Robbie clear candidate parameters — younger person, max 2-3 years into career, recent college grads. NOT 30yo career changers",
+        "text": "PCON feedback forms — Beachboard + DeFrance, 8 days overdue (Asana bumped to 3/27)",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-6",
-        "text": "Send Micah calendar invite for PCON dinner — April 22, host committee",
+        "text": "Honest conversation with Hannah (Foster) — real launch timeline",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-7",
-        "text": "Have honest conversation with Hannah (Foster) — ask for real launch timeline. Not getting utility, better steward money toward other AI products",
+        "text": "Ask log guy — would event company pay $55/ft?",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-8",
-        "text": "Ask \"log guy\" if event company would pay $55/ft — explore sale option on building (not hotel)",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-9",
-        "text": "Add utility info to McMinnville external folder — then resend to Micah so he can forward",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-10",
-        "text": "Respond to Wingstop suite options McMinnville — Kevin True repping, mid-teens as-is. Exploring Back Shack suite",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-11",
-        "text": "PCON feedback form for Jack Beachboard — prospective member, submit via HubSpot link in email (3/12). Was due 3/17 (OVERDUE — 6 days late)",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-12",
-        "text": "Review HopeSmiles (44V) landlord counter from Shelby Hall — received 3/17 3:50 PM. \"A few more comments than anticipated.\" Attachment: HopeSmiles_44V_Landlord Counter_3.17.2026.docx",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-13",
-        "text": "Five Below (Malone Plaza) — LOI signed and returned 3/17. REC meeting 4/22. Facade renderings requested from Shaun (architect). Waiting on Shaun",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-14",
-        "text": "Call Derek Tucker back — Anytime Fitness LOI in Shelbyville. Relocation, wants in by November",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-15",
-        "text": "Install physical \"for sale\" sign at Buena Vista",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-16",
-        "text": "Email triage replies — Kate Yoon (Dixie Village 2591), Micah (Memphis). Jacob handling",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       }
     ],
-    "prepping": [],
-    "handling": [],
-    "deferred": []
+    "prepping": [
+      {
+        "id": "sweep-prep-1",
+        "text": "Prather event lease draft — pulling base lease, adding event clauses (noise/security/nuisance)",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-2",
+        "text": "JD description email for Micah → Scott (UT real estate program)",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-3",
+        "text": "PCON dinner invite for Micah — April 22, host committee",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-4",
+        "text": "Wingstop suite options response — Kevin True, mid-teens as-is, Back Shack suite",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ],
+    "handling": [
+      {
+        "id": "sweep-handle-1",
+        "text": "Asana cleanup — re-dating 7 overdue tasks from 3/23 to 3/27",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-handle-2",
+        "text": "McMinnville utility info prep for external folder",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ],
+    "deferred": [
+      {
+        "id": "sweep-defer-1",
+        "text": "Aldi (waiting Matterport) | Chad Vang (waiting response) | Five Below (waiting Shaun renders, REC 4/22) | BV sign 15d stale | Fiverr/Yas flyer 15d stale | Amy/Dr Camp (waiting) | Gov board (waiting) | Runnings (next week) | ICSC (next week+)",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-2",
+        "text": "Command Center: https://jd-command-center.vercel.app",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ]
   },
   "prepDocDiff": {
     "generatedAt": "2026-03-22T20:42:48.373792",
@@ -5911,35 +5907,35 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-03-25T07:15:29",
-    "source": "active-tasks",
+    "generatedAt": "2026-03-25T07:31:50",
+    "source": "morning-briefing",
     "items": [
       {
         "id": "focus-plate-1",
-        "dealName": "Draft Prather event company lease",
+        "dealName": "Finish Emerson Hall lease + send to Ashby (9 AM block on cal",
         "property": null,
-        "action": "AI draft using base lease, add event-specific concerns (noise, security, nuisance), send to Ashby for review. Ask her to return this week",
-        "why": "Top of your active task list this week.",
+        "action": "Finish Emerson Hall lease + send to Ashby (9 AM block on calendar)",
+        "why": "#1 on your plate today.",
         "urgency": "high",
-        "type": "task"
+        "type": "briefing"
       },
       {
         "id": "focus-plate-2",
-        "dealName": "Call Bell re: Wingstop McMinnville LOI",
+        "dealName": "Call Tanviz",
         "property": null,
-        "action": "TI vs \"as-is\" discrepancy. $25/ft TI in LOI but Bell says corporate won't approve TI. Clarify white box + DA approach",
-        "why": "Top of your active task list this week.",
+        "action": "Pell City Marketplace (3:30 PM)",
+        "why": "#2 on your plate today.",
         "urgency": "high",
-        "type": "task"
+        "type": "briefing"
       },
       {
         "id": "focus-plate-3",
-        "dealName": "Follow up government board meeting",
+        "dealName": "Call Bell",
         "property": null,
-        "action": "LOI delivered ~1 week ago, no one checked it. Board meeting should be coming up (~1 month from return)",
-        "why": "Top of your active task list this week.",
+        "action": "Wingstop McMinnville TI discrepancy ($25/ft LOI vs corporate won't approve)",
+        "why": "#3 on your plate today.",
         "urgency": "medium",
-        "type": "task"
+        "type": "briefing"
       }
     ]
   }
