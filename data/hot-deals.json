@@ -5039,156 +5039,119 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-03-20T10:22:42.081355",
+    "generatedAt": "2026-03-24T20:31:42",
+    "source": "morning-briefing",
     "yourPlate": [
       {
-        "id": "sweep-1",
-        "text": "Harrison Trampoline LOI (very overdue, 2/27)",
-        "detail": "Rolling. Needs resolution - call or kill.",
+        "id": "sweep-plate-1",
+        "text": "Robbie call at 8 AM — give clear hire parameters (younger, 2-3 yr max, recent grads, NOT 30yo changers)",
+        "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
-        "id": "sweep-2",
-        "text": "Schedule lunch with ctaylor@realsitecommercial.com",
-        "detail": "New item from AM briefing.",
+        "id": "sweep-plate-2",
+        "text": "Talk to Parker today — he's in 9-2, been rolling 14 days",
+        "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-3",
+        "text": "Call Bell re: Wingstop McMinnville LOI — TI vs as-is discrepancy ($25/ft TI, corporate won't approve)",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-4",
+        "text": "Hannah/Foster honest conversation — Fostr check-in at 2 PM, ask for real launch timeline",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-5",
+        "text": "Review HopeSmiles (44V) landlord counter from Shelby Hall — more comments than expected",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-6",
+        "text": "Ask log guy if event company would pay $55/ft",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-7",
+        "text": "Derek Tucker callback — Anytime Fitness Shelbyville, 14 days stale. Kill it or call today.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
       }
     ],
     "prepping": [
       {
-        "id": "sweep-3",
-        "text": "Five Below LOI redline to Micah - draft ready, needs your go",
-        "detail": "Draft loaded, ready for your review/send.",
-        "completed": false
+        "id": "sweep-prep-1",
+        "text": "Prather event company lease draft - pulling base lease, adding noise/security/nuisance language",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
       },
       {
-        "id": "sweep-4",
-        "text": "Email replies - Kate Yoon (Dixie Village) + Micah (Memphis)",
-        "detail": "Kate Yoon in Gastonia thread, Micah Memphis thread.",
-        "completed": false
+        "id": "sweep-prep-2",
+        "text": "JD description email draft for Micah → Scott (UT real estate program)",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
       },
       {
-        "id": "sweep-5",
-        "text": "Evansville info for TSCG - pulling property details for you to send",
-        "detail": "America's Thrift Stores site search (Justin Schad).",
-        "completed": false
+        "id": "sweep-prep-3",
+        "text": "PCON dinner invite for Micah - April 22 host committee",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
       },
       {
-        "id": "sweep-6",
-        "text": "Commission instructions to Carol (overdue)",
-        "detail": "Feb invoices. Overdue since 3/13.",
-        "completed": false
+        "id": "sweep-prep-4",
+        "text": "PCON feedback forms - Beachboard 7 days overdue + DeFrance due 3/27. Prepping info for you to submit.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
       },
       {
-        "id": "sweep-7",
-        "text": "Lease language drafts (grease/roofing/restaurant) for Clay/Math",
-        "detail": "New item. Draft needed for Clay/Mathison.",
-        "completed": false
-      },
-      {
-        "id": "sweep-8",
-        "text": "Mattresses listing flyer",
-        "detail": "Sevierville mattress space - put on market.",
-        "completed": false
-      },
-      {
-        "id": "sweep-9",
-        "text": "Emerson Hall prospect lease redline (overdue)",
-        "detail": "Overdue since 3/13.",
-        "completed": false
+        "id": "sweep-prep-5",
+        "text": "Wingstop McMinnville suite options response - Kevin True, mid-teens as-is, Back Shack exploration",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
       }
     ],
     "handling": [
       {
-        "id": "sweep-10",
-        "text": "Asana cleanup - re-dating 5+ slipping tasks",
-        "completed": false
+        "id": "sweep-handle-1",
+        "text": "Asana overdue cleanup - re-dating 6 stale tasks",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
       },
       {
-        "id": "sweep-11",
-        "text": "Fiverr/Yas follow-up on Buena Vista flyer (10 days stale)",
-        "detail": "Chase Yas on Fiverr.",
-        "completed": false
-      },
-      {
-        "id": "sweep-12",
-        "text": "Starting Monday leasing prep doc",
-        "detail": "Pull latest leasing meeting prep doc from Drive.",
-        "completed": false
+        "id": "sweep-handle-2",
+        "text": "Parker reminder re: McMinnville utility info for external folder",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
       }
     ],
     "deferred": [
       {
-        "id": "sweep-13",
-        "text": "Chad Vang LOI counter",
-        "detail": "Waiting on Chad.",
-        "completed": false
-      },
-      {
-        "id": "sweep-14",
-        "text": "Dirt company (Buena Vista)",
-        "detail": "Waiting on Micah.",
-        "completed": false
-      },
-      {
-        "id": "sweep-15",
-        "text": "Five Below work letter",
-        "detail": "Waiting on Clay.",
-        "completed": false
-      },
-      {
-        "id": "sweep-16",
-        "text": "Shoe Dept docs",
-        "detail": "Waiting on Tracy (you).",
-        "completed": false
-      },
-      {
-        "id": "sweep-17",
-        "text": "Micah Drive folder",
-        "detail": "Waiting on Micah.",
-        "completed": false
-      },
-      {
-        "id": "sweep-18",
-        "text": "Buena Vista sign (physical)",
-        "detail": "Stale 11d - call or kill.",
-        "completed": false
-      },
-      {
-        "id": "sweep-19",
-        "text": "Lease Abstracting",
-        "detail": "Deferred to May.",
-        "completed": false
-      },
-      {
-        "id": "sweep-20",
-        "text": "Anniversary trip planning",
-        "detail": "No hard deadline yet.",
-        "completed": false
-      }
-    ],
-    "staleGutCheck": [
-      {
-        "name": "Derek Tucker",
-        "detail": "10d stale - Anytime Fitness/Shelbyville LOI",
-        "action": "call or kill"
-      },
-      {
-        "name": "Parker (intern)",
-        "detail": "10d stale - call needed",
-        "action": "call or kill"
-      },
-      {
-        "name": "Buena Vista physical sign",
-        "detail": "11d stale",
-        "action": "call or kill"
-      },
-      {
-        "name": "Five Below → Micah email",
-        "detail": "11d stale",
-        "action": "call or kill"
+        "id": "sweep-defer-1",
+        "text": "Aldi (Matterport wait), Amy/Dr. Camp (waiting on Amy), gov board meeting (~1mo), Chad Vang (waiting), Five Below (Shaun renderings), BV sign (14d stale - DO/DEFER/KILL?), Fiverr/Yas flyer (14d dead - DO/DEFER/KILL?), email triage batch (13d rolling)",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
       }
     ]
   },
@@ -5744,7 +5707,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-03-24T17:48:10",
+    "generatedAt": "2026-03-24T20:31:42",
     "source": "morning-briefing",
     "items": [
       {
