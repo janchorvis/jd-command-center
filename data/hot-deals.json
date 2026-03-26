@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T07:15:31.733849",
+  "lastUpdated": "2026-03-26T07:15:42.405248",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
     "date": "2026-03-26",
@@ -1118,6 +1118,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-03-25",
+          "event": "Email from Quincy Palmer: Big lots Shelbyville Indiana",
+          "type": "email"
+        },
+        {
           "date": "2026-03-23",
           "event": "Meeting: Status reviewed, LOI in progress",
           "type": "meeting"
@@ -1195,6 +1200,11 @@
       "nextStep": "Coordinate getting copies signed by Micah and returned to Melissa.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-26",
+          "event": "Email from The CRE Rundown by Trepp: Retail Real Estate Keeps Shining",
+          "type": "email"
+        },
         {
           "date": "2026-03-25",
           "event": "Email from ICSC Commerce + Communities Today: Retailers Target College Campuses To Reach Gen Z",
@@ -1369,6 +1379,11 @@
       "nextStep": "Discuss counter with Micah early next week. Competing with Live Nation inquiry.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-25",
+          "event": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
+          "type": "email"
+        },
         {
           "date": "2026-03-25",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
@@ -1768,6 +1783,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-03-26",
+          "event": "Email from Chain Store Age: DayBreaker: GameStop Q4 mixed; Amazon, FedEx Office partner; Facebook dives deep",
+          "type": "email"
+        },
+        {
           "date": "2026-03-25",
           "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
           "type": "email"
@@ -2126,6 +2146,11 @@
       "nextStep": "Draft event company lease, send to Ashby for review this week. Ask log guy if event company would pay $55/ft to explore sale option.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-25",
+          "event": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
+          "type": "email"
+        },
         {
           "date": "2026-03-25",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
@@ -2644,6 +2669,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-03-25",
+          "event": "Email from Quincy Palmer: Big lots Shelbyville Indiana",
+          "type": "email"
+        },
         {
           "date": "2026-03-25",
           "event": "Email from Shelby Hall: HopeSmiles at 44V",
@@ -3204,6 +3234,16 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-03-26",
+          "event": "Email from Kelsey Cornillie, Publisher: Law group beefs up C-suite amid immigration reform",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-25",
+          "event": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
+          "type": "email"
+        },
         {
           "date": "2026-03-25",
           "event": "Email from Shelby Hall: HopeSmiles at 44V",
@@ -3870,206 +3910,206 @@
   ],
   "staleContacts": [
     {
-      "name": "Derek Tucker",
-      "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
-      "daysSinceContact": 6,
-      "lastAction": "Email from Jacob Delk: Shelbyville, IN",
-      "urgency": "low"
-    },
-    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
       "urgency": "low"
     },
     {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
       "urgency": "low"
     },
     {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Justin Schad: Sevierville, TN - 201 Forks of the River Pkwy (Big Lot'",
       "urgency": "low"
     },
     {
-      "name": "Melissa Eddy",
-      "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: Retailers Target College Campuses ",
+      "name": "Derek Tucker",
+      "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Quincy Palmer: Big lots Shelbyville Indiana",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
       "urgency": "low"
     },
     {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Chain Store Age: DayBreaker: Gap dives deeper into AI; Dollar General",
       "urgency": "low"
     },
     {
       "name": "Dwaine High",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Chain Store Age: DayBreaker: Gap dives deeper into AI; Dollar General",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
       "urgency": "low"
     },
     {
       "name": "Kevin True",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
       "urgency": "low"
     },
     {
       "name": "Bell",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
       "urgency": "low"
     },
     {
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
       "urgency": "low"
     },
     {
       "name": "Peter Adams",
       "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Quincy Palmer: Big lots Shelbyville Indiana",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Quincy Palmer: Big lots Shelbyville Indiana",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Quincy Palmer: Big lots Shelbyville Indiana",
       "urgency": "low"
     },
     {
       "name": "Dr. Phillip Kemp",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Quincy Palmer: Big lots Shelbyville Indiana",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from NAIOP Nashville: NAIOP Awards Gala Information & Parking",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from NAIOP Nashville: NAIOP Awards Gala Information & Parking",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from NAIOP Nashville: NAIOP Awards Gala Information & Parking",
+      "urgency": "low"
+    },
+    {
+      "name": "Josh Levy",
+      "deal": "Live Nation — Emerson Hall",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "urgency": "low"
+    },
+    {
+      "name": "Melissa Eddy",
+      "deal": "ABC Retail — Russellville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from The CRE Rundown by Trepp: Retail Real Estate Keeps Shining",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: GameStop Q4 mixed; Amazon, FedEx Office ",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: Law group beefs up C-suite amid immigrat",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: Law group beefs up C-suite amid immigrat",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
-      "urgency": "low"
-    },
-    {
-      "name": "Josh Levy",
-      "deal": "Live Nation — Emerson Hall",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: Law group beefs up C-suite amid immigrat",
       "urgency": "low"
     }
   ],
