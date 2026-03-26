@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T13:30:08.941415",
+  "lastUpdated": "2026-03-26T14:30:08.687505",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
     "date": "2026-03-26",
@@ -2679,6 +2679,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-03-26",
+          "event": "Email from Peter Deprey: 2433 Buena Vista Pike",
+          "type": "email"
+        },
+        {
           "date": "2026-03-25",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
@@ -2972,6 +2977,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-03-26",
+          "event": "Email from Peter Deprey: 2433 Buena Vista Pike",
+          "type": "email"
+        },
         {
           "date": "2026-03-26",
           "event": "Email from Kristin Vinton: Save the date: Investing in Dreams Nashville dinner",
@@ -3333,6 +3343,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-03-26",
+          "event": "Email from Peter Deprey: 2433 Buena Vista Pike",
+          "type": "email"
+        },
         {
           "date": "2026-03-26",
           "event": "Email from Kristin Vinton: Save the date: Investing in Dreams Nashville dinner",
@@ -4073,13 +4088,6 @@
       "urgency": "low"
     },
     {
-      "name": "Peter Adams",
-      "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
-      "urgency": "low"
-    },
-    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
@@ -4150,6 +4158,13 @@
       "urgency": "low"
     },
     {
+      "name": "Peter Adams",
+      "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Peter Deprey: 2433 Buena Vista Pike",
+      "urgency": "low"
+    },
+    {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
@@ -4181,42 +4196,42 @@
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kristin Vinton: Save the date: Investing in Dreams Nashville dinner",
+      "lastAction": "Email from Peter Deprey: 2433 Buena Vista Pike",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kristin Vinton: Save the date: Investing in Dreams Nashville dinner",
+      "lastAction": "Email from Peter Deprey: 2433 Buena Vista Pike",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kristin Vinton: Save the date: Investing in Dreams Nashville dinner",
+      "lastAction": "Email from Peter Deprey: 2433 Buena Vista Pike",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kristin Vinton: Save the date: Investing in Dreams Nashville dinner",
+      "lastAction": "Email from Peter Deprey: 2433 Buena Vista Pike",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kristin Vinton: Save the date: Investing in Dreams Nashville dinner",
+      "lastAction": "Email from Peter Deprey: 2433 Buena Vista Pike",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kristin Vinton: Save the date: Investing in Dreams Nashville dinner",
+      "lastAction": "Email from Peter Deprey: 2433 Buena Vista Pike",
       "urgency": "low"
     },
     {
