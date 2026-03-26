@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T09:30:13.562953",
+  "lastUpdated": "2026-03-26T10:30:09.595998",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
     "date": "2026-03-26",
@@ -2699,6 +2699,11 @@
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
+          "date": "2026-03-26",
+          "event": "Email from CPE Daily Newsletter: Winter freeze can’t cool RTO trend",
+          "type": "email"
+        },
+        {
           "date": "2026-03-25",
           "event": "Email from Quincy Palmer: Big lots Shelbyville Indiana",
           "type": "email"
@@ -2917,6 +2922,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-03-26",
+          "event": "Email from Kristin Vinton: Save the date: Investing in Dreams Nashville dinner",
+          "type": "email"
+        },
         {
           "date": "2026-03-26",
           "event": "Email from Crexi: Daniel H. opened offering memorandum on 2433 Buena Vista Pike in Nashville",
@@ -3273,6 +3283,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-03-26",
+          "event": "Email from Kristin Vinton: Save the date: Investing in Dreams Nashville dinner",
+          "type": "email"
+        },
         {
           "date": "2026-03-26",
           "event": "Email from Crexi: Daniel H. opened offering memorandum on 2433 Buena Vista Pike in Nashville",
@@ -3682,6 +3697,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-03-26",
+          "event": "Email from Kristin Vinton: Save the date: Investing in Dreams Nashville dinner",
+          "type": "email"
+        },
+        {
           "date": "2026-03-25",
           "event": "Email from Shelby Hall: HopeSmiles at 44V",
           "type": "email"
@@ -4017,41 +4037,6 @@
       "urgency": "low"
     },
     {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Quincy Palmer: Big lots Shelbyville Indiana",
-      "urgency": "low"
-    },
-    {
-      "name": "Shelby Hall",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Quincy Palmer: Big lots Shelbyville Indiana",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Quincy Palmer: Big lots Shelbyville Indiana",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Phillip Kemp",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Quincy Palmer: Big lots Shelbyville Indiana",
-      "urgency": "low"
-    },
-    {
-      "name": "Josh Levy",
-      "deal": "Live Nation — Emerson Hall",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
-      "urgency": "low"
-    },
-    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
@@ -4115,45 +4100,80 @@
       "urgency": "low"
     },
     {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CPE Daily Newsletter: Winter freeze can’t cool RTO trend",
+      "urgency": "low"
+    },
+    {
+      "name": "Shelby Hall",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CPE Daily Newsletter: Winter freeze can’t cool RTO trend",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CPE Daily Newsletter: Winter freeze can’t cool RTO trend",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Phillip Kemp",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CPE Daily Newsletter: Winter freeze can’t cool RTO trend",
+      "urgency": "low"
+    },
+    {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Daniel H. opened offering memorandum on 2433 Buena Vista Pike ",
+      "lastAction": "Email from Kristin Vinton: Save the date: Investing in Dreams Nashville dinner",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Daniel H. opened offering memorandum on 2433 Buena Vista Pike ",
+      "lastAction": "Email from Kristin Vinton: Save the date: Investing in Dreams Nashville dinner",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Daniel H. opened offering memorandum on 2433 Buena Vista Pike ",
+      "lastAction": "Email from Kristin Vinton: Save the date: Investing in Dreams Nashville dinner",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Daniel H. opened offering memorandum on 2433 Buena Vista Pike ",
+      "lastAction": "Email from Kristin Vinton: Save the date: Investing in Dreams Nashville dinner",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Daniel H. opened offering memorandum on 2433 Buena Vista Pike ",
+      "lastAction": "Email from Kristin Vinton: Save the date: Investing in Dreams Nashville dinner",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Daniel H. opened offering memorandum on 2433 Buena Vista Pike ",
+      "lastAction": "Email from Kristin Vinton: Save the date: Investing in Dreams Nashville dinner",
+      "urgency": "low"
+    },
+    {
+      "name": "Josh Levy",
+      "deal": "Live Nation — Emerson Hall",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Kristin Vinton: Save the date: Investing in Dreams Nashville dinner",
       "urgency": "low"
     }
   ],
