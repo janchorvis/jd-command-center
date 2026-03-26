@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T15:30:45.259398",
+  "lastUpdated": "2026-03-26T16:31:04.351646",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
     "date": "2026-03-26",
@@ -1251,6 +1251,11 @@
       "timeline": [
         {
           "date": "2026-03-26",
+          "event": "Email from Melissa Eddy: Invitation: Nashville Rescue Mission Recovery Sponsorship Serve Day @ Tue Apr 14",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-26",
           "event": "Email from Melissa Eddy: Hamilton REA",
           "type": "email"
         },
@@ -1443,6 +1448,11 @@
       "nextStep": "Discuss counter with Micah early next week. Competing with Live Nation inquiry.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-26",
+          "event": "Email from Robert H. Burns Company, Inc.: Re: Client Need- Flex Space",
+          "type": "email"
+        },
         {
           "date": "2026-03-25",
           "event": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
@@ -2341,6 +2351,11 @@
       "timeline": [
         {
           "date": "2026-03-26",
+          "event": "Email from Melissa Eddy: Invitation: Nashville Rescue Mission Recovery Sponsorship Serve Day @ Tue Apr 14",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-26",
           "event": "Email from Melissa Eddy: Hamilton REA",
           "type": "email"
         },
@@ -2994,6 +3009,11 @@
       "timeline": [
         {
           "date": "2026-03-26",
+          "event": "Email from Melissa Eddy: Invitation: Nashville Rescue Mission Recovery Sponsorship Serve Day @ Tue Apr 14",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-26",
           "event": "Email from Peter Deprey: 2433 Buena Vista Pike",
           "type": "email"
         },
@@ -3358,6 +3378,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-03-26",
+          "event": "Email from Melissa Eddy: Invitation: Nashville Rescue Mission Recovery Sponsorship Serve Day @ Tue Apr 14",
+          "type": "email"
+        },
         {
           "date": "2026-03-26",
           "event": "Email from Peter Deprey: 2433 Buena Vista Pike",
@@ -4054,20 +4079,6 @@
   ],
   "staleContacts": [
     {
-      "name": "Stephen Prather",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
-      "urgency": "low"
-    },
-    {
-      "name": "Lexy & Austin",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
-      "urgency": "low"
-    },
-    {
       "name": "Kevin True",
       "deal": "Wingstop — McMinnville Plaza",
       "daysSinceContact": 1,
@@ -4127,7 +4138,21 @@
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Melissa Eddy: Hamilton REA",
+      "lastAction": "Email from Melissa Eddy: Invitation: Nashville Rescue Mission Recovery Sponsorsh",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Robert H. Burns Company, Inc.: Re: Client Need- Flex Space",
+      "urgency": "low"
+    },
+    {
+      "name": "Lexy & Austin",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Robert H. Burns Company, Inc.: Re: Client Need- Flex Space",
       "urgency": "low"
     },
     {
@@ -4155,21 +4180,21 @@
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Melissa Eddy: Hamilton REA",
+      "lastAction": "Email from Melissa Eddy: Invitation: Nashville Rescue Mission Recovery Sponsorsh",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Melissa Eddy: Hamilton REA",
+      "lastAction": "Email from Melissa Eddy: Invitation: Nashville Rescue Mission Recovery Sponsorsh",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Melissa Eddy: Hamilton REA",
+      "lastAction": "Email from Melissa Eddy: Invitation: Nashville Rescue Mission Recovery Sponsorsh",
       "urgency": "low"
     },
     {
@@ -4211,42 +4236,42 @@
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Peter Deprey: 2433 Buena Vista Pike",
+      "lastAction": "Email from Melissa Eddy: Invitation: Nashville Rescue Mission Recovery Sponsorsh",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Peter Deprey: 2433 Buena Vista Pike",
+      "lastAction": "Email from Melissa Eddy: Invitation: Nashville Rescue Mission Recovery Sponsorsh",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Peter Deprey: 2433 Buena Vista Pike",
+      "lastAction": "Email from Melissa Eddy: Invitation: Nashville Rescue Mission Recovery Sponsorsh",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Peter Deprey: 2433 Buena Vista Pike",
+      "lastAction": "Email from Melissa Eddy: Invitation: Nashville Rescue Mission Recovery Sponsorsh",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Peter Deprey: 2433 Buena Vista Pike",
+      "lastAction": "Email from Melissa Eddy: Invitation: Nashville Rescue Mission Recovery Sponsorsh",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Peter Deprey: 2433 Buena Vista Pike",
+      "lastAction": "Email from Melissa Eddy: Invitation: Nashville Rescue Mission Recovery Sponsorsh",
       "urgency": "low"
     },
     {
