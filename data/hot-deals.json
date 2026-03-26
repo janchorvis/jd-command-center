@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T14:30:08.687505",
+  "lastUpdated": "2026-03-26T15:30:45.259398",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
     "date": "2026-03-26",
@@ -1251,6 +1251,11 @@
       "timeline": [
         {
           "date": "2026-03-26",
+          "event": "Email from Melissa Eddy: Hamilton REA",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-26",
           "event": "Email from Joey Valenti: Re: 235 E Main St, 1st Floor, Hendersonville, TN 37075, United States, PID: 8131",
           "type": "email"
         },
@@ -1726,6 +1731,11 @@
       "nextStep": "Done - move to completed deals. Celebrate the W.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-26",
+          "event": "Email from scott koo: 6268 Atlanta Hwy Commission",
+          "type": "email"
+        },
         {
           "date": "2026-03-25",
           "event": "Email from Chain Store Age: DayBreaker: Gap dives deeper into AI; Dollar General names next CEO; David's Bri",
@@ -2329,6 +2339,11 @@
       "nextStep": "Waiting on Melissa Eddy (Asana due 3/20) - reaching out to Ashby re: Memo of Exclusive + Declarant estoppel.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-26",
+          "event": "Email from Melissa Eddy: Hamilton REA",
+          "type": "email"
+        },
         {
           "date": "2026-03-26",
           "event": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, March 26, 2026",
@@ -4053,20 +4068,6 @@
       "urgency": "low"
     },
     {
-      "name": "Nhung Pham",
-      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Gap dives deeper into AI; Dollar General",
-      "urgency": "low"
-    },
-    {
-      "name": "Dwaine High",
-      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Gap dives deeper into AI; Dollar General",
-      "urgency": "low"
-    },
-    {
       "name": "Kevin True",
       "deal": "Wingstop — McMinnville Plaza",
       "daysSinceContact": 1,
@@ -4126,7 +4127,21 @@
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: Re: 235 E Main St, 1st Floor, Hendersonville, TN 37075,",
+      "lastAction": "Email from Melissa Eddy: Hamilton REA",
+      "urgency": "low"
+    },
+    {
+      "name": "Nhung Pham",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from scott koo: 6268 Atlanta Hwy Commission",
+      "urgency": "low"
+    },
+    {
+      "name": "Dwaine High",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from scott koo: 6268 Atlanta Hwy Commission",
       "urgency": "low"
     },
     {
@@ -4140,21 +4155,21 @@
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, Ma",
+      "lastAction": "Email from Melissa Eddy: Hamilton REA",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, Ma",
+      "lastAction": "Email from Melissa Eddy: Hamilton REA",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, Ma",
+      "lastAction": "Email from Melissa Eddy: Hamilton REA",
       "urgency": "low"
     },
     {
