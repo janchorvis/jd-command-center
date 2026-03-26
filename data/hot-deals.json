@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T07:31:33.851099",
+  "lastUpdated": "2026-03-26T09:30:13.562953",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
     "date": "2026-03-26",
@@ -56,6 +56,11 @@
       "nextStep": "Jacob: review elevation, send to Tracy with signed/commented work letter",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-26",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
         {
           "date": "2026-03-25",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
@@ -370,6 +375,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-03-26",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
+        {
           "date": "2026-03-25",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
@@ -638,6 +648,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-26",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
         {
           "date": "2026-03-25",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
@@ -972,6 +987,11 @@
       "nextStep": "Send counter with TI/rent adjustment. Get Micah's sign-off on roof timeline.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-26",
+          "event": "Email from محمد الدعاس: LoopNet Lead for Dixie Village Shopping Center",
+          "type": "email"
+        },
         {
           "date": "2026-03-25",
           "event": "Email from Justin Schad: Sevierville, TN - 201 Forks of the River Pkwy (Big Lot's) - America's Thrift Sto",
@@ -2275,6 +2295,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-03-26",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
+        {
           "date": "2026-03-25",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
@@ -2893,6 +2918,16 @@
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
+          "date": "2026-03-26",
+          "event": "Email from Crexi: Daniel H. opened offering memorandum on 2433 Buena Vista Pike in Nashville",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-26",
+          "event": "Email from Danny Hume: 2433 Buena Vista - 15.2ac",
+          "type": "email"
+        },
+        {
           "date": "2026-03-25",
           "event": "Email from NAIOP Nashville: NAIOP Awards Gala Information & Parking",
           "type": "email"
@@ -3238,6 +3273,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-03-26",
+          "event": "Email from Crexi: Daniel H. opened offering memorandum on 2433 Buena Vista Pike in Nashville",
+          "type": "email"
+        },
         {
           "date": "2026-03-26",
           "event": "Email from Kelsey Cornillie, Publisher: Law group beefs up C-suite amid immigration reform",
@@ -3914,34 +3954,6 @@
   ],
   "staleContacts": [
     {
-      "name": "Paul",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
-      "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
-      "urgency": "low"
-    },
-    {
-      "name": "Ajay Secore",
-      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
-      "urgency": "low"
-    },
-    {
-      "name": "Chad Vang",
-      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Justin Schad: Sevierville, TN - 201 Forks of the River Pkwy (Big Lot'",
-      "urgency": "low"
-    },
-    {
       "name": "Derek Tucker",
       "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
       "daysSinceContact": 1,
@@ -3998,27 +4010,6 @@
       "urgency": "low"
     },
     {
-      "name": "Melissa",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
-      "urgency": "low"
-    },
-    {
-      "name": "Lisa Schwartz, Esq.",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
-      "urgency": "low"
-    },
-    {
       "name": "Peter Adams",
       "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
       "daysSinceContact": 1,
@@ -4054,31 +4045,38 @@
       "urgency": "low"
     },
     {
-      "name": "Julie Robbins",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from NAIOP Nashville: NAIOP Awards Gala Information & Parking",
-      "urgency": "low"
-    },
-    {
-      "name": "Michael Dunn",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from NAIOP Nashville: NAIOP Awards Gala Information & Parking",
-      "urgency": "low"
-    },
-    {
-      "name": "Cole @ DR Horton",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from NAIOP Nashville: NAIOP Awards Gala Information & Parking",
-      "urgency": "low"
-    },
-    {
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
       "daysSinceContact": 1,
       "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Ajay Secore",
+      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Chad Vang",
+      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
+      "daysSinceContact": 0,
+      "lastAction": "Email from محمد الدعاس: LoopNet Lead for Dixie Village Shopping Center",
       "urgency": "low"
     },
     {
@@ -4096,24 +4094,66 @@
       "urgency": "low"
     },
     {
+      "name": "Melissa",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Lisa Schwartz, Esq.",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Julie Robbins",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Crexi: Daniel H. opened offering memorandum on 2433 Buena Vista Pike ",
+      "urgency": "low"
+    },
+    {
+      "name": "Michael Dunn",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Crexi: Daniel H. opened offering memorandum on 2433 Buena Vista Pike ",
+      "urgency": "low"
+    },
+    {
+      "name": "Cole @ DR Horton",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Crexi: Daniel H. opened offering memorandum on 2433 Buena Vista Pike ",
+      "urgency": "low"
+    },
+    {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kelsey Cornillie, Publisher: Law group beefs up C-suite amid immigrat",
+      "lastAction": "Email from Crexi: Daniel H. opened offering memorandum on 2433 Buena Vista Pike ",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kelsey Cornillie, Publisher: Law group beefs up C-suite amid immigrat",
+      "lastAction": "Email from Crexi: Daniel H. opened offering memorandum on 2433 Buena Vista Pike ",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kelsey Cornillie, Publisher: Law group beefs up C-suite amid immigrat",
+      "lastAction": "Email from Crexi: Daniel H. opened offering memorandum on 2433 Buena Vista Pike ",
       "urgency": "low"
     }
   ],
