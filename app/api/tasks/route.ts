@@ -201,7 +201,7 @@ function parseTasksMd(content: string): TasksData {
 
 export async function GET() {
   try {
-    const filePath = '/Users/fostercreighton/.openclaw/workspace/memory/active-tasks.md';
+    const filePath = path.join(process.cwd(), 'data', 'active-tasks.md');
     const content = fs.readFileSync(filePath, 'utf-8');
     const data = parseTasksMd(content);
     return NextResponse.json(data);
