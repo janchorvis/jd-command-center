@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T15:30:09.074515",
+  "lastUpdated": "2026-03-27T16:30:09.184996",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
     "date": "2026-03-27",
@@ -2007,6 +2007,11 @@
       "nextStep": "Finalize LOI terms and move to lease.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-27",
+          "event": "Email from Juliana Fernandez: Anchor Investments x America's Thrift Stores",
+          "type": "email"
+        },
         {
           "date": "2026-03-27",
           "event": "Email from Justin Schad: Sevierville, TN - 201 Forks of the River Pkwy (Big Lot's) - America's Thrift Sto",
@@ -4492,7 +4497,7 @@
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Justin Schad: Sevierville, TN - 201 Forks of the River Pkwy (Big Lot'",
+      "lastAction": "Email from Juliana Fernandez: Anchor Investments x America's Thrift Stores",
       "urgency": "low"
     },
     {
