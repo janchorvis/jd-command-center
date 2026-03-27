@@ -1,38 +1,57 @@
 {
-  "lastUpdated": "2026-03-26T17:31:06.732163",
+  "lastUpdated": "2026-03-27T07:16:19.086539",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
-    "date": "2026-03-26",
-    "greeting": "Good morning, Jacob. You have 9 overdue items.",
+    "date": "2026-03-27",
+    "greeting": "Good morning, Jacob. You have 8 overdue items.",
     "meetings": [
       {
+        "time": "12:00 AM",
+        "title": "Weekly Report Due: See Notes",
+        "dealContext": null
+      },
+      {
         "time": "6:00 AM",
-        "title": "Carter Bible Study Green Hills Mall",
+        "title": "West End Men’s Bible Study",
         "dealContext": null
       },
       {
-        "time": "7:00 AM",
-        "title": "MOV Breakfast",
+        "time": "8:00 AM",
+        "title": "Coffee - Jacob Delk x Reed Hooks",
         "dealContext": null
       },
       {
-        "time": "7:00 AM",
-        "title": "2026 Breakfast Table ",
+        "time": "9:00 AM",
+        "title": "Shout - Outs",
         "dealContext": null
       },
       {
-        "time": "1:00 PM",
-        "title": "Pell City Marketplace - Tour w/ Tanviz",
+        "time": "9:30 AM",
+        "title": "930 Prayer for Anchor ",
         "dealContext": null
       },
       {
-        "time": "1:30 PM",
-        "title": "Jacob / Carson",
+        "time": "10:00 AM",
+        "title": "(HOLD) Anchor Investments - Yardi Call (Fostr) ",
+        "dealContext": null
+      },
+      {
+        "time": "10:00 AM",
+        "title": "Report Review - Anchor Investments LLC 100077822",
+        "dealContext": null
+      },
+      {
+        "time": "11:30 AM",
+        "title": "Jacob Delk - Call Slots (Casey Yu)",
+        "dealContext": null
+      },
+      {
+        "time": "12:00 PM",
+        "title": "Weekly Report - Fill out by 12 on Fridays",
         "dealContext": null
       }
     ],
     "priorities": [
-      "Commission instructions to Carol — Feb invoices (overdue — due 2026-03-13)",
       "Start scheduling ICSC meetings + outreach for Evansville and Shelbyville (overdue — due 2026-03-20)",
       "Make flyer for mattresses listing (overdue — due 2026-03-23)",
       "put mattresses on the market (overdue — due 2026-03-23)",
@@ -40,10 +59,7 @@
       "Call Elliot Kyle about Emerson Hall/Fat bottom (overdue — due 2026-03-23)",
       "Add teeth to the default sections for Grease.  (overdue — due 2026-03-23)",
       "Roofing contractor language. Add some teeth to the default (overdue — due 2026-03-23)",
-      "Pell City Marketplace tour with Tanviz at 1 PM",
-      "PCON feedback forms due TOMORROW (Jack Beachboard + Jake DeFrance)",
-      "Derek Tucker callback overdue 16 days - decide DO/DEFER/KILL",
-      "HopeSmiles 44V landlord counter still pending review (9 days)"
+      "For restaurants, we are going to manage the grease and bill it back  (overdue — due 2026-03-23)"
     ]
   },
   "pipelineDeals": [
@@ -1844,9 +1860,9 @@
       ],
       "rentComps": {
         "property": "Montgomery",
-        "avgRate": 14,
-        "minRate": 14,
-        "maxRate": 14,
+        "avgRate": 14.0,
+        "minRate": 14.0,
+        "maxRate": 14.0,
         "avgSqFt": 4405,
         "suiteCount": 19,
         "vacantCount": 0
@@ -5674,155 +5690,62 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-03-26T07:31:53",
-    "source": "morning-briefing",
+    "generatedAt": "2026-03-27T07:16:19",
+    "source": "active-tasks",
     "yourPlate": [
       {
         "id": "sweep-plate-1",
-        "text": "Pell City Marketplace tour w/ Tanviz — 1 PM today",
+        "text": "Send Micah email with JD description — so he can forward to Scott (UT real estate program)",
         "detail": "",
-        "completed": true,
-        "source": "morning-briefing",
-        "completedAt": "2026-03-27T04:00:25.244Z",
-        "completedBy": "manual"
+        "completed": false,
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-2",
-        "text": "T050: PCON feedback forms — Jack Beachboard + Jake DeFrance due TOMORROW 3/27. HubSpot links in Asana.",
+        "text": "Send Micah calendar invite for PCON dinner — April 22, host committee",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-3",
-        "text": "T055: Call Bell re: Wingstop McMinnville — TI vs as-is discrepancy",
+        "text": "Add utility info to McMinnville external folder — then resend to Micah so he can forward",
         "detail": "",
-        "completed": true,
-        "source": "morning-briefing",
-        "completedAt": "2026-03-27T04:00:26.475Z",
-        "completedBy": "manual"
+        "completed": false,
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-4",
-        "text": "T047: Review HopeSmiles 44V landlord counter — Shelby Hall sent 3/17, 9 days pending",
+        "text": "PCON feedback form for Jack Beachboard — prospective member, submit via HubSpot link in email (3/12). Was due 3/17 (OVERDUE — 9 days late)",
         "detail": "",
-        "completed": true,
-        "source": "morning-briefing",
-        "completedAt": "2026-03-27T04:00:27.860Z",
-        "completedBy": "manual"
+        "completed": false,
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-5",
-        "text": "T042: Call Derek Tucker — Anytime Fitness LOI Shelbyville. 16 days rolling. DO/DEFER/KILL?",
+        "text": "Five Below (Malone Plaza) — LOI signed and returned 3/17. REC meeting 4/22. Facade renderings requested from Shaun (architect). Waiting on Shaun",
         "detail": "",
-        "completed": true,
-        "source": "morning-briefing",
-        "completedAt": "2026-03-27T04:00:29.722Z",
-        "completedBy": "manual"
+        "completed": false,
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-6",
-        "text": "T061: Honest conversation with Hannah (Foster) — real launch timeline",
+        "text": "Install physical \"for sale\" sign at Buena Vista",
         "detail": "",
-        "completed": true,
-        "source": "morning-briefing",
-        "completedAt": "2026-03-27T04:00:31.346Z",
-        "completedBy": "manual"
+        "completed": false,
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-7",
-        "text": "T062: Ask log guy if event company would pay $55/ft",
+        "text": "Email triage replies — Kate Yoon (Dixie Village 2591), Micah (Memphis). Jacob handling",
         "detail": "",
-        "completed": true,
-        "source": "morning-briefing",
-        "completedAt": "2026-03-27T04:00:32.030Z",
-        "completedBy": "manual"
-      },
-      {
-        "id": "sweep-plate-8",
-        "text": "T057: Follow up government board meeting — LOI status",
-        "detail": "",
-        "completed": true,
-        "source": "morning-briefing",
-        "completedAt": "2026-03-27T04:00:34.613Z",
-        "completedBy": "manual"
-      },
-      {
-        "id": "sweep-plate-9",
-        "text": "T059: Give Robbie clear candidate parameters — recent grads, max 2-3 yrs",
-        "detail": "",
-        "completed": true,
-        "source": "morning-briefing",
-        "completedAt": "2026-03-27T04:00:37.124Z",
-        "completedBy": "manual"
+        "completed": false,
+        "source": "active-tasks"
       }
     ],
-    "prepping": [
-      {
-        "id": "sweep-prep-1",
-        "text": "T054: Prather event company lease — AI drafting with event-specific concerns",
-        "detail": "",
-        "completed": true,
-        "source": "morning-briefing",
-        "completedAt": "2026-03-27T04:00:42.029Z",
-        "completedBy": "manual"
-      },
-      {
-        "id": "sweep-prep-2",
-        "text": "T058: Micah JD description email — drafting for Scott/UT",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-3",
-        "text": "T060: Micah PCON dinner invite — April 22 host committee",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-4",
-        "text": "T064: Wingstop suite options McMinnville — pulling Kevin True context",
-        "detail": "",
-        "completed": true,
-        "source": "morning-briefing",
-        "completedAt": "2026-03-27T04:00:47.955Z",
-        "completedBy": "manual"
-      },
-      {
-        "id": "sweep-prep-5",
-        "text": "T050: PCON feedback form links — assembling for quick access",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      }
-    ],
-    "handling": [
-      {
-        "id": "sweep-handle-1",
-        "text": "Asana cleanup — re-dating 9 overdue tasks",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-handle-2",
-        "text": "Staleness flags — T016 (BV sign, 16d) + T027 (Fiverr/Yas, 16d) need DO/DEFER/KILL",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      }
-    ],
-    "deferred": [
-      {
-        "id": "sweep-defer-1",
-        "text": "Chad Vang, Aldi/Sheldon, Five Below, Micah items, Clay, Shoe Dept docs, BV sign, Fiverr flyer, email triage, Pipedrive sunset, Vercel reconnect — all waiting or not today",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      }
-    ]
+    "prepping": [],
+    "handling": [],
+    "deferred": []
   },
   "prepDocDiff": {
     "generatedAt": "2026-03-22T20:42:48.373792",
@@ -6376,35 +6299,35 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-03-26T07:31:53",
-    "source": "morning-briefing",
+    "generatedAt": "2026-03-27T07:16:19",
+    "source": "active-tasks",
     "items": [
       {
         "id": "focus-plate-1",
-        "dealName": "Pell City Marketplace tour w/ Tanviz",
+        "dealName": "Send Micah email with JD description",
         "property": null,
-        "action": "1 PM today",
-        "why": "#1 on your plate today.",
+        "action": "so he can forward to Scott (UT real estate program)",
+        "why": "Top of your active task list this week.",
         "urgency": "high",
-        "type": "briefing"
+        "type": "task"
       },
       {
         "id": "focus-plate-2",
-        "dealName": "T050: PCON feedback forms",
+        "dealName": "Send Micah calendar invite for PCON dinner",
         "property": null,
-        "action": "Jack Beachboard + Jake DeFrance due TOMORROW 3/27. HubSpot links in Asana.",
-        "why": "#2 on your plate today.",
+        "action": "April 22, host committee",
+        "why": "Top of your active task list this week.",
         "urgency": "high",
-        "type": "briefing"
+        "type": "task"
       },
       {
         "id": "focus-plate-3",
-        "dealName": "T055: Call Bell re: Wingstop McMinnville",
+        "dealName": "Add utility info to McMinnville external folder",
         "property": null,
-        "action": "TI vs as-is discrepancy",
-        "why": "#3 on your plate today.",
+        "action": "then resend to Micah so he can forward",
+        "why": "Top of your active task list this week.",
         "urgency": "medium",
-        "type": "briefing"
+        "type": "task"
       }
     ]
   }
