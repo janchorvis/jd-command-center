@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T09:30:09.640021",
+  "lastUpdated": "2026-03-27T10:30:43.338081",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
     "date": "2026-03-27",
@@ -1054,6 +1054,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-03-27",
+          "event": "Email from Justin Schad: Sevierville, TN - 201 Forks of the River Pkwy (Big Lot's) - America's Thrift Sto",
+          "type": "email"
+        },
+        {
           "date": "2026-03-26",
           "event": "Email from محمد الدعاس: LoopNet Lead for Dixie Village Shopping Center",
           "type": "email"
@@ -1927,6 +1932,11 @@
       "nextStep": "Finalize LOI terms and move to lease.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-27",
+          "event": "Email from Justin Schad: Sevierville, TN - 201 Forks of the River Pkwy (Big Lot's) - America's Thrift Sto",
+          "type": "email"
+        },
         {
           "date": "2026-03-27",
           "event": "Email from Chain Store Age: DayBreaker: Most innovative retail companies; Target boosts employee discount, u",
@@ -4235,13 +4245,6 @@
   ],
   "staleContacts": [
     {
-      "name": "Chad Vang",
-      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
-      "daysSinceContact": 1,
-      "lastAction": "Email from محمد الدعاس: LoopNet Lead for Dixie Village Shopping Center",
-      "urgency": "low"
-    },
-    {
       "name": "Derek Tucker",
       "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
       "daysSinceContact": 1,
@@ -4319,6 +4322,13 @@
       "urgency": "low"
     },
     {
+      "name": "Chad Vang",
+      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Justin Schad: Sevierville, TN - 201 Forks of the River Pkwy (Big Lot'",
+      "urgency": "low"
+    },
+    {
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
@@ -4343,7 +4353,7 @@
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Most innovative retail companies; Target",
+      "lastAction": "Email from Justin Schad: Sevierville, TN - 201 Forks of the River Pkwy (Big Lot'",
       "urgency": "low"
     },
     {
