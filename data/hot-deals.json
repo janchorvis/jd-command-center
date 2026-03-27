@@ -5785,8 +5785,10 @@
         "id": "sweep-prep-4",
         "text": "T064: Wingstop suite options McMinnville — pulling Kevin True context",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-03-27T04:00:47.955Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-prep-5",
