@@ -1844,9 +1844,9 @@
       ],
       "rentComps": {
         "property": "Montgomery",
-        "avgRate": 14.0,
-        "minRate": 14.0,
-        "maxRate": 14.0,
+        "avgRate": 14,
+        "minRate": 14,
+        "maxRate": 14,
         "avgSqFt": 4405,
         "suiteCount": 19,
         "vacantCount": 0
@@ -5681,8 +5681,10 @@
         "id": "sweep-plate-1",
         "text": "Pell City Marketplace tour w/ Tanviz — 1 PM today",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-03-27T04:00:25.244Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-2",
@@ -5695,50 +5697,64 @@
         "id": "sweep-plate-3",
         "text": "T055: Call Bell re: Wingstop McMinnville — TI vs as-is discrepancy",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-03-27T04:00:26.475Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-4",
         "text": "T047: Review HopeSmiles 44V landlord counter — Shelby Hall sent 3/17, 9 days pending",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-03-27T04:00:27.860Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-5",
         "text": "T042: Call Derek Tucker — Anytime Fitness LOI Shelbyville. 16 days rolling. DO/DEFER/KILL?",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-03-27T04:00:29.722Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-6",
         "text": "T061: Honest conversation with Hannah (Foster) — real launch timeline",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-03-27T04:00:31.346Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-7",
         "text": "T062: Ask log guy if event company would pay $55/ft",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-03-27T04:00:32.030Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-8",
         "text": "T057: Follow up government board meeting — LOI status",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-03-27T04:00:34.613Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-9",
         "text": "T059: Give Robbie clear candidate parameters — recent grads, max 2-3 yrs",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-03-27T04:00:37.124Z",
+        "completedBy": "manual"
       }
     ],
     "prepping": [
