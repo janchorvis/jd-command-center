@@ -5785,62 +5785,317 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-03-27T07:16:19",
-    "source": "active-tasks",
+    "generatedAt": "2026-03-27T07:35:01",
+    "source": "morning-briefing",
     "yourPlate": [
       {
         "id": "sweep-plate-1",
-        "text": "Send Micah email with JD description — so he can forward to Scott (UT real estate program)",
+        "text": "PCON feedback forms - Jack Beachboard, Jake DeFrance, Griffin Hodge",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-2",
-        "text": "Send Micah calendar invite for PCON dinner — April 22, host committee",
+        "text": "Buena Vista for sale sign install",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-3",
-        "text": "Add utility info to McMinnville external folder — then resend to Micah so he can forward",
+        "text": "Email triage replies - Kate Yoon, Micah (Memphis)",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-4",
-        "text": "PCON feedback form for Jack Beachboard — prospective member, submit via HubSpot link in email (3/12). Was due 3/17 (OVERDUE — 9 days late)",
+        "text": "Call Elliot Kyle about Emerson Hall / Fat Bottom",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-5",
-        "text": "Five Below (Malone Plaza) — LOI signed and returned 3/17. REC meeting 4/22. Facade renderings requested from Shaun (architect). Waiting on Shaun",
+        "text": "Harrison Trampoline LOI",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-6",
-        "text": "Install physical \"for sale\" sign at Buena Vista",
+        "text": "Put mattresses on the market",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-7",
-        "text": "Email triage replies — Kate Yoon (Dixie Village 2591), Micah (Memphis). Jacob handling",
+        "text": "Follow up with Dallas on anniversary trip planning",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-8",
+        "text": "See when Dallas can meet with Carter",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-9",
+        "text": "Check on Strip Mall Guys deal",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
       }
     ],
-    "prepping": [],
-    "handling": [],
-    "deferred": []
+    "prepping": [
+      {
+        "id": "sweep-prep-1",
+        "text": "Draft JD description email to Micah",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-2",
+        "text": "Draft PCON dinner invite to Micah (Apr 22)",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-3",
+        "text": "Runnings outreach draft",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-4",
+        "text": "ICSC scheduling prep list + outreach drafts",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-5",
+        "text": "Pipedrive sunset phase 1 - identify Relay workflow",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-6",
+        "text": "Lease template audit - who is on Anchor template",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-7",
+        "text": "Mattresses flyer draft",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-8",
+        "text": "Draft lunch email to ctaylor@realsitecommerical.com",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-9",
+        "text": "Lease Abstracting Rock Pt. 2 prep plan",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-10",
+        "text": "Check exclusives - compile list",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-11",
+        "text": "Micah Drive migration + GSuite close checklist",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-12",
+        "text": "Grease default sections - stronger language draft",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-13",
+        "text": "Roofing contractor language draft",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-14",
+        "text": "Grease bill-back clause draft",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-15",
+        "text": "Lease checklist before sign - draft",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-16",
+        "text": "OP inquiry questions - draft list",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-17",
+        "text": "Computer audit checklist",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ],
+    "handling": [
+      {
+        "id": "sweep-handle-1",
+        "text": "Website traffic data - pull + summarize",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ],
+    "deferred": [
+      {
+        "id": "sweep-defer-1",
+        "text": "- Amy/Dr. Camp follow up waiting on them",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-2",
+        "text": "- Aldi reply waiting on Matterport",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-3",
+        "text": "- Five Below facade renderings waiting on Shaun",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-4",
+        "text": "- McMinnville utilities waiting on Parker",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-5",
+        "text": "- Chad Vang LOI counter waiting",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-6",
+        "text": "- Dirt company contact waiting on Micah",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-7",
+        "text": "- Five Below work letter waiting on Clay",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-8",
+        "text": "- Shoe Dept redline docs waiting on you to send",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-9",
+        "text": "- Buena Vista parent Drive folder waiting on Micah",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-10",
+        "text": "- Dirt company contact email waiting on Micah",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-11",
+        "text": "- Fiverr/Yas flyer stale 17 days - decide DO/DEFER/KILL",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-12",
+        "text": "- Vercel GitHub reconnect manual, not urgent",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-13",
+        "text": "- Set up SSH on iPhone not urgent",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-14",
+        "text": "- AI Lease quiz no due date",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-15",
+        "text": "- Asana task \"JD\" unclear",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-16",
+        "text": "🚀 Command Center: https://jd-command-center.vercel.app",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ]
   },
   "prepDocDiff": {
     "generatedAt": "2026-03-22T20:42:48.373792",
@@ -6394,35 +6649,35 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-03-27T07:16:19",
-    "source": "active-tasks",
+    "generatedAt": "2026-03-27T07:35:01",
+    "source": "morning-briefing",
     "items": [
       {
         "id": "focus-plate-1",
-        "dealName": "Send Micah email with JD description",
+        "dealName": "PCON feedback forms - Jack Beachboard, Jake DeFrance, Griffi",
         "property": null,
-        "action": "so he can forward to Scott (UT real estate program)",
-        "why": "Top of your active task list this week.",
+        "action": "PCON feedback forms - Jack Beachboard, Jake DeFrance, Griffin Hodge",
+        "why": "#1 on your plate today.",
         "urgency": "high",
-        "type": "task"
+        "type": "briefing"
       },
       {
         "id": "focus-plate-2",
-        "dealName": "Send Micah calendar invite for PCON dinner",
+        "dealName": "Buena Vista for sale sign install",
         "property": null,
-        "action": "April 22, host committee",
-        "why": "Top of your active task list this week.",
+        "action": "Buena Vista for sale sign install",
+        "why": "#2 on your plate today.",
         "urgency": "high",
-        "type": "task"
+        "type": "briefing"
       },
       {
         "id": "focus-plate-3",
-        "dealName": "Add utility info to McMinnville external folder",
+        "dealName": "Email triage replies - Kate Yoon, Micah (Memphis)",
         "property": null,
-        "action": "then resend to Micah so he can forward",
-        "why": "Top of your active task list this week.",
+        "action": "Email triage replies - Kate Yoon, Micah (Memphis)",
+        "why": "#3 on your plate today.",
         "urgency": "medium",
-        "type": "task"
+        "type": "briefing"
       }
     ]
   }
