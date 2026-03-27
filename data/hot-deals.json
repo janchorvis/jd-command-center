@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T10:30:43.338081",
+  "lastUpdated": "2026-03-27T11:30:47.724181",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
     "date": "2026-03-27",
@@ -72,6 +72,11 @@
       "nextStep": "Jacob: review elevation, send to Tracy with signed/commented work letter",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-27",
+          "event": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+          "type": "email"
+        },
         {
           "date": "2026-03-27",
           "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
@@ -407,6 +412,11 @@
       "timeline": [
         {
           "date": "2026-03-27",
+          "event": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-27",
           "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
           "type": "email"
         },
@@ -694,6 +704,21 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-27",
+          "event": "Email from Joey Valenti: Re: 235 E Main St, 1st Floor, Hendersonville, TN 37075, United States, PID: 8131",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-27",
+          "event": "Email from ICSC Commerce + Communities Today: $5.6B in Capital Moves, Family Dollar and Costco Try New Formats and More",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-27",
+          "event": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+          "type": "email"
+        },
         {
           "date": "2026-03-27",
           "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
@@ -1302,6 +1327,11 @@
       "timeline": [
         {
           "date": "2026-03-27",
+          "event": "Email from Joey Valenti: Re: 235 E Main St, 1st Floor, Hendersonville, TN 37075, United States, PID: 8131",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-27",
           "event": "Email from Chain Store Age: DayBreaker: Most innovative retail companies; Target boosts employee discount, u",
           "type": "email"
         },
@@ -1504,6 +1534,11 @@
       "nextStep": "Discuss counter with Micah early next week. Competing with Live Nation inquiry.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-27",
+          "event": "Email from Crexi: You Have Requested Info on Proven Restaurant Space Near Northshore and Downtown ",
+          "type": "email"
+        },
         {
           "date": "2026-03-27",
           "event": "Email from The Tech Buzz: SpaceX $75Bn IPO & $20Bn NASA Moon Base Plan",
@@ -2217,6 +2252,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-03-27",
+          "event": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+          "type": "email"
+        },
+        {
           "date": "2026-03-26",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
           "type": "email"
@@ -2316,6 +2356,11 @@
       "nextStep": "Draft event company lease, send to Ashby for review this week. Ask log guy if event company would pay $55/ft to explore sale option.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-27",
+          "event": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+          "type": "email"
+        },
         {
           "date": "2026-03-26",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
@@ -2445,6 +2490,11 @@
       "nextStep": "Waiting on Melissa Eddy (Asana due 3/20) - reaching out to Ashby re: Memo of Exclusive + Declarant estoppel.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-27",
+          "event": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+          "type": "email"
+        },
         {
           "date": "2026-03-27",
           "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
@@ -2723,6 +2773,11 @@
       "contacts": [],
       "timeline": [
         {
+          "date": "2026-03-27",
+          "event": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+          "type": "email"
+        },
+        {
           "date": "2026-03-26",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
           "type": "email"
@@ -2819,6 +2874,11 @@
         "Peter Adams (Treverse LLC dba A-Stock)"
       ],
       "timeline": [
+        {
+          "date": "2026-03-27",
+          "event": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+          "type": "email"
+        },
         {
           "date": "2026-03-26",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
@@ -4266,34 +4326,6 @@
       "urgency": "low"
     },
     {
-      "name": "Kevin True",
-      "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
-      "urgency": "low"
-    },
-    {
-      "name": "Bell",
-      "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby",
-      "deal": "Prather Event Co — McMinnville Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
-      "urgency": "low"
-    },
-    {
-      "name": "Peter Adams",
-      "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
-      "urgency": "low"
-    },
-    {
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
       "daysSinceContact": 1,
@@ -4304,21 +4336,21 @@
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
       "urgency": "low"
     },
     {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "lastAction": "Email from Joey Valenti: Re: 235 E Main St, 1st Floor, Hendersonville, TN 37075,",
       "urgency": "low"
     },
     {
@@ -4332,21 +4364,21 @@
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Most innovative retail companies; Target",
+      "lastAction": "Email from Joey Valenti: Re: 235 E Main St, 1st Floor, Hendersonville, TN 37075,",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from The Tech Buzz: SpaceX $75Bn IPO & $20Bn NASA Moon Base Plan",
+      "lastAction": "Email from Crexi: You Have Requested Info on Proven Restaurant Space Near Norths",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from The Tech Buzz: SpaceX $75Bn IPO & $20Bn NASA Moon Base Plan",
+      "lastAction": "Email from Crexi: You Have Requested Info on Proven Restaurant Space Near Norths",
       "urgency": "low"
     },
     {
@@ -4357,24 +4389,52 @@
       "urgency": "low"
     },
     {
+      "name": "Kevin True",
+      "deal": "Wingstop — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+      "urgency": "low"
+    },
+    {
+      "name": "Bell",
+      "deal": "Wingstop — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Prather Event Co — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+      "urgency": "low"
+    },
+    {
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+      "urgency": "low"
+    },
+    {
+      "name": "Peter Adams",
+      "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
       "urgency": "low"
     },
     {
