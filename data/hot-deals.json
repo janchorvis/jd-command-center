@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T07:34:11.895097",
+  "lastUpdated": "2026-03-27T09:30:09.640021",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
     "date": "2026-03-27",
@@ -72,6 +72,11 @@
       "nextStep": "Jacob: review elevation, send to Tracy with signed/commented work letter",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-27",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
         {
           "date": "2026-03-26",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
@@ -401,6 +406,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-03-27",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
+        {
           "date": "2026-03-26",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
           "type": "email"
@@ -684,6 +694,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-27",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
         {
           "date": "2026-03-26",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
@@ -2421,6 +2436,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-03-27",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
+        {
           "date": "2026-03-26",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
           "type": "email"
@@ -2865,6 +2885,11 @@
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
+          "date": "2026-03-27",
+          "event": "Email from CPE Daily Newsletter: Kemper secures $238M office refi",
+          "type": "email"
+        },
+        {
           "date": "2026-03-26",
           "event": "Email from Quincy Palmer: Big lots Shelbyville Indiana",
           "type": "email"
@@ -3093,6 +3118,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-03-27",
+          "event": "Email from NAIOP Nashville: Congratulations 2026 NAIOP Awards Gala Winners!",
+          "type": "email"
+        },
         {
           "date": "2026-03-27",
           "event": "Email from NASHtoday: Nashville Pairings, Olala Cafe + Vandy watch party",
@@ -3479,6 +3509,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-03-27",
+          "event": "Email from NAIOP Nashville: Congratulations 2026 NAIOP Awards Gala Winners!",
+          "type": "email"
+        },
         {
           "date": "2026-03-27",
           "event": "Email from NASHtoday: Nashville Pairings, Olala Cafe + Vandy watch party",
@@ -4200,27 +4235,6 @@
   ],
   "staleContacts": [
     {
-      "name": "Paul",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
-      "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
-      "urgency": "low"
-    },
-    {
-      "name": "Ajay Secore",
-      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
-      "urgency": "low"
-    },
-    {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
       "daysSinceContact": 1,
@@ -4270,27 +4284,6 @@
       "urgency": "low"
     },
     {
-      "name": "Melissa",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
-      "urgency": "low"
-    },
-    {
-      "name": "Lisa Schwartz, Esq.",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
-      "urgency": "low"
-    },
-    {
       "name": "Peter Adams",
       "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
       "daysSinceContact": 1,
@@ -4298,38 +4291,31 @@
       "urgency": "low"
     },
     {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Quincy Palmer: Big lots Shelbyville Indiana",
-      "urgency": "low"
-    },
-    {
-      "name": "Shelby Hall",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Quincy Palmer: Big lots Shelbyville Indiana",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Quincy Palmer: Big lots Shelbyville Indiana",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Phillip Kemp",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Quincy Palmer: Big lots Shelbyville Indiana",
-      "urgency": "low"
-    },
-    {
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
       "daysSinceContact": 1,
       "lastAction": "Email from Josh Levy: 2512 Gallatin Ave, Nashville, TN 37206",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Ajay Secore",
+      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
       "urgency": "low"
     },
     {
@@ -4361,45 +4347,94 @@
       "urgency": "low"
     },
     {
+      "name": "Melissa",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Lisa Schwartz, Esq.",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CPE Daily Newsletter: Kemper secures $238M office refi",
+      "urgency": "low"
+    },
+    {
+      "name": "Shelby Hall",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CPE Daily Newsletter: Kemper secures $238M office refi",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CPE Daily Newsletter: Kemper secures $238M office refi",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Phillip Kemp",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CPE Daily Newsletter: Kemper secures $238M office refi",
+      "urgency": "low"
+    },
+    {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from NASHtoday: Nashville Pairings, Olala Cafe + Vandy watch party",
+      "lastAction": "Email from NAIOP Nashville: Congratulations 2026 NAIOP Awards Gala Winners!",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from NASHtoday: Nashville Pairings, Olala Cafe + Vandy watch party",
+      "lastAction": "Email from NAIOP Nashville: Congratulations 2026 NAIOP Awards Gala Winners!",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from NASHtoday: Nashville Pairings, Olala Cafe + Vandy watch party",
+      "lastAction": "Email from NAIOP Nashville: Congratulations 2026 NAIOP Awards Gala Winners!",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from NASHtoday: Nashville Pairings, Olala Cafe + Vandy watch party",
+      "lastAction": "Email from NAIOP Nashville: Congratulations 2026 NAIOP Awards Gala Winners!",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from NASHtoday: Nashville Pairings, Olala Cafe + Vandy watch party",
+      "lastAction": "Email from NAIOP Nashville: Congratulations 2026 NAIOP Awards Gala Winners!",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from NASHtoday: Nashville Pairings, Olala Cafe + Vandy watch party",
+      "lastAction": "Email from NAIOP Nashville: Congratulations 2026 NAIOP Awards Gala Winners!",
       "urgency": "low"
     }
   ],
