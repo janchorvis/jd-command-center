@@ -1185,11 +1185,21 @@ def merge_updates(
 
 # ─── 6. Git push ──────────────────────────────────────────────────────────────
 
+def _sync_active_tasks(project_root: Path) -> None:
+    """Copy active-tasks.md into data/ so the Tasks tab works on Vercel."""
+    src = WORKSPACE_ROOT / "memory" / "active-tasks.md"
+    dst = project_root / "data" / "active-tasks.md"
+    if src.exists():
+        import shutil
+        shutil.copy2(src, dst)
+
+
 def git_push(project_root: Path, message: str = "chore: sync command center data") -> bool:
-    """Commit and push hot-deals.json."""
+    """Commit and push hot-deals.json + active-tasks.md."""
+    _sync_active_tasks(project_root)
     try:
         subprocess.run(
-            ["git", "add", "data/hot-deals.json"],
+            ["git", "add", "data/hot-deals.json", "data/active-tasks.md"],
             cwd=project_root, check=True, capture_output=True
         )
         result = subprocess.run(
