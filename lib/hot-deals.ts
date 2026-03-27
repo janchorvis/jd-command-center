@@ -1,6 +1,14 @@
 import { readFileSync, writeFileSync } from 'fs';
 import { join } from 'path';
 
+export interface CrossRefAlert {
+  deal: string;
+  propertyName?: string;
+  message: string;
+  severity: 'high' | 'medium' | 'low';
+  type: string;
+}
+
 export interface TimelineEvent {
   date: string;
   event: string;
@@ -81,6 +89,15 @@ export interface StaleContact {
   urgency: 'high' | 'medium' | 'low';
 }
 
+export interface CrossRefAlert {
+  deal: string;
+  property: string;
+  type: string;
+  message: string;
+  severity: 'high' | 'medium' | 'low';
+  details?: Record<string, unknown>;
+}
+
 export interface WeeklyDiff {
   weekOf: string;
   advanced: string[];
@@ -146,6 +163,7 @@ export interface HotDealsData {
   sideDeals: SideDeal[];
   droppedBalls: DroppedBall[];
   staleContacts: StaleContact[];
+  crossRefAlerts: CrossRefAlert[];
   weeklyDiff: WeeklyDiff;
   funnel: FunnelData;
   brainDumps: BrainDump[];
