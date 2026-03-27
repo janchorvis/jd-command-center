@@ -5762,8 +5762,10 @@
         "id": "sweep-prep-1",
         "text": "T054: Prather event company lease — AI drafting with event-specific concerns",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-03-27T04:00:42.029Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-prep-2",
