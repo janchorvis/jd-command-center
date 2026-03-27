@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T12:31:06.824687",
+  "lastUpdated": "2026-03-27T13:30:11.033133",
   "sourceDoc": "Leasing Meeting Prep - 3/23/26",
   "today": {
     "date": "2026-03-27",
@@ -2358,6 +2358,11 @@
       "timeline": [
         {
           "date": "2026-03-27",
+          "event": "Email from NAIOP: NAIOP Source: Events in CRE",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-27",
           "event": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
           "type": "email"
         },
@@ -4406,7 +4411,7 @@
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+      "lastAction": "Email from NAIOP: NAIOP Source: Events in CRE",
       "urgency": "low"
     },
     {
