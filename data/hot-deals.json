@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T10:04:29.357786",
+  "lastUpdated": "2026-03-30T10:30:08.167995",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-03-30",
@@ -2458,6 +2458,11 @@
       "timeline": [
         {
           "date": "2026-03-30",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-30",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
           "type": "email"
         },
@@ -3365,6 +3370,11 @@
       "timeline": [
         {
           "date": "2026-03-30",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-30",
           "event": "Email from Crexi: Brian D. clicked phone number on 2433 Buena Vista Pike",
           "type": "email"
         },
@@ -3764,6 +3774,16 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-03-30",
+          "event": "Email from Jennifer Marr Rogers: Maple Row Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
         {
           "date": "2026-03-29",
           "event": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
@@ -4223,6 +4243,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-03-30",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
           "date": "2026-03-27",
           "event": "Email from Ashby Scott: FW: Marshalls - proposed lease - Malone, NY",
           "type": "email"
@@ -4578,13 +4603,6 @@
       "urgency": "low"
     },
     {
-      "name": "Josh Levy",
-      "deal": "Live Nation — Emerson Hall",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Ashby Scott: FW: Marshalls - proposed lease - Malone, NY",
-      "urgency": "low"
-    },
-    {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 1,
@@ -4594,27 +4612,6 @@
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
-      "urgency": "low"
-    },
-    {
-      "name": "Charles Hawkins",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
-      "urgency": "low"
-    },
-    {
-      "name": "Brether group",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
       "urgency": "low"
@@ -4679,7 +4676,7 @@
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
@@ -4714,21 +4711,49 @@
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian D. clicked phone number on 2433 Buena Vista Pike",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian D. clicked phone number on 2433 Buena Vista Pike",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian D. clicked phone number on 2433 Buena Vista Pike",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
+      "urgency": "low"
+    },
+    {
+      "name": "Charles Hawkins",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jennifer Marr Rogers: Maple Row Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Brether group",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jennifer Marr Rogers: Maple Row Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jennifer Marr Rogers: Maple Row Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Josh Levy",
+      "deal": "Live Nation — Emerson Hall",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     }
   ],
