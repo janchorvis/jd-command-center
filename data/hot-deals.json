@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T14:06:00.728850",
+  "lastUpdated": "2026-03-30T14:28:11.625209",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-03-30",
@@ -157,6 +157,108 @@
         "action": "Add landscaper task for McMinnville as spring approaches - weeds at front of property",
         "deal": "McMinnville",
         "deadline": null
+      },
+      {
+        "owner": "Jacob",
+        "action": "Call Ashby - voicemail, commit to Wednesday turnaround on Emerson lease",
+        "deal": "Emerson Hall - Prather/Lately",
+        "deadline": "2026-03-30"
+      },
+      {
+        "owner": "Jacob",
+        "action": "Touch base with Prather on updated Emerson timeline",
+        "deal": "Emerson Hall - Prather/Lately",
+        "deadline": null
+      },
+      {
+        "owner": "Jacob",
+        "action": "Call Joey Valenti Friday 3pm - no whitebox, TI only. Check if Foxes can stay.",
+        "deal": "Maple Row - Great Greek",
+        "deadline": "2026-04-03"
+      },
+      {
+        "owner": "Jacob",
+        "action": "Tell Brian: get Big Lots box pricing THIS WEEK. Pitch ~$75/ft.",
+        "deal": "Evansville - Easterseals",
+        "deadline": "2026-04-04"
+      },
+      {
+        "owner": "Jacob",
+        "action": "Research REA for Big Lots box sale",
+        "deal": "Evansville - Easterseals",
+        "deadline": null
+      },
+      {
+        "owner": "Jacob",
+        "action": "Push Cosmoprof with firm terms - high teens + free rent OR low twenties + free rent. No $100K TI.",
+        "deal": "Shelbyville - Cosmoprof",
+        "deadline": null
+      },
+      {
+        "owner": "Jacob",
+        "action": "Talk to Dr. Kemp directly (saw at church)",
+        "deal": "Hope Smiles",
+        "deadline": null
+      },
+      {
+        "owner": "Jacob",
+        "action": "Send Cubikasa site plan (18K SF) to Spencer at Aldi",
+        "deal": "McMinnville - Royal Furniture/Aldi",
+        "deadline": null
+      },
+      {
+        "owner": "Jacob",
+        "action": "ICSC Vegas: email Jeff, book Tony/Starbucks, Seven Brew/Dutch Bros, Pedal (Nick), America's Thrift",
+        "deal": "ICSC Vegas",
+        "deadline": null
+      },
+      {
+        "owner": "Jacob",
+        "action": "Interview Luke on Wednesday",
+        "deal": "Leasing Associate Hire",
+        "deadline": "2026-04-01"
+      },
+      {
+        "owner": "Jacob",
+        "action": "Coordinate with Melissa on in-person interview scheduling",
+        "deal": "Leasing Associate Hire",
+        "deadline": null
+      },
+      {
+        "owner": "Jacob",
+        "action": "Reach out to Matt White (C job)",
+        "deal": "Leasing Associate Hire",
+        "deadline": null
+      },
+      {
+        "owner": "Jacob",
+        "action": "Get Burlington ICSC meeting with Chris Keller",
+        "deal": "Shelbyville - Burlington",
+        "deadline": null
+      },
+      {
+        "owner": "Micah",
+        "action": "Call Shoe Dept broker to push for execution",
+        "deal": "Malone - Shoe Dept Encore",
+        "deadline": null
+      },
+      {
+        "owner": "Micah",
+        "action": "Blast Buena Vista email to contacts",
+        "deal": "Buena Vista",
+        "deadline": null
+      },
+      {
+        "owner": "Jarvis",
+        "action": "Track McMinnville monument sign location decision",
+        "deal": "McMinnville",
+        "deadline": null
+      },
+      {
+        "owner": "Jarvis",
+        "action": "Flag McMinnville landscaper need as spring arrives",
+        "deal": "McMinnville",
+        "deadline": null
       }
     ]
   },
@@ -165,9 +267,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Architect (Shaun Andriano) delivered facade elevation PDF to Jacob + Clay. Tracy Lauer still waiting on work letter comments + elevations.",
+      "status": "LOI signed 3/17. REC meeting 4/22. Vegas meeting booked.",
       "stage": "LOI",
-      "nextStep": "Jacob: review elevation, send to Tracy with signed/commented work letter",
+      "nextStep": "Wait for REC meeting 4/22.",
       "priority": "high",
       "timeline": [
         {
@@ -179,6 +281,11 @@
           "date": "2026-03-30",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
           "type": "email"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: On track. Vegas meeting set with Tracy.",
+          "type": "meeting"
         },
         {
           "date": "2026-03-27",
@@ -523,10 +630,10 @@
       "id": "malone-shoe-dept",
       "name": "Shoe Dept",
       "property": "Malone Plaza",
-      "status": "Lease language in progress",
+      "status": "Near execution. Vegas meeting also booked.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Call Shoe Dept broker ('shoe horn guy')",
-      "priority": "medium",
+      "nextStep": "Micah: call Shoe Dept broker to push for execution.",
+      "priority": "high",
       "timeline": [
         {
           "date": "2026-03-30",
@@ -541,6 +648,11 @@
         {
           "date": "2026-03-30",
           "event": "Meeting: Jacob to call Shoe Dept broker",
+          "type": "meeting"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: Micah to call broker and push for signed lease.",
           "type": "meeting"
         },
         {
@@ -1246,9 +1358,9 @@
       "id": "gastonia-laundromat",
       "name": "Chad Vang - Laundromat",
       "property": "Gastonia - Dixie Village",
-      "status": "Laundromat guys visited - lease sent last week, waiting for signature",
+      "status": "Lease sent to Chad Vang, waiting on signature.",
       "stage": "LOI",
-      "nextStep": "Follow up in ~2 weeks if not signed",
+      "nextStep": "Wait for signed lease.",
       "priority": "medium",
       "timeline": [
         {
@@ -1259,6 +1371,11 @@
         {
           "date": "2026-03-30",
           "event": "Meeting: Lease sent, waiting on signature",
+          "type": "meeting"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: Lease out, awaiting signature.",
           "type": "meeting"
         },
         {
@@ -1508,9 +1625,9 @@
       "id": "russellville-abc",
       "name": "ABC Retail",
       "property": "Russellville",
-      "status": "Waiting for ABC to sign lease",
+      "status": "Waiting on signed lease.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Follow up on signed lease",
+      "nextStep": "Wait for execution.",
       "priority": "medium",
       "timeline": [
         {
@@ -1526,6 +1643,11 @@
         {
           "date": "2026-03-30",
           "event": "Meeting: Waiting on ABC to sign",
+          "type": "meeting"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: Lease out, awaiting signature.",
           "type": "meeting"
         },
         {
@@ -2190,9 +2312,9 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville",
-      "status": "LOI - Kevin confirmed Wingstop would go in this area; UPS and Wingstop positioned for same side of center",
+      "status": "Ball in Anchor's court to respond to Jon Petty LOI. Clay pricing whitebox.",
       "stage": "LOI",
-      "nextStep": "Finalize suite assignments with Kevin True",
+      "nextStep": "Get Clay's whitebox number, respond to LOI. Kevin confirmed UPS + Wingstop same side.",
       "priority": "high",
       "timeline": [
         {
@@ -2208,6 +2330,11 @@
         {
           "date": "2026-03-30",
           "event": "Meeting: Kevin confirmed Wingstop placement near UPS side of center",
+          "type": "meeting"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: Kevin confirmed Wingstop suite 107. Clay pricing whitebox for UPS response. Monument sign going bigger.",
           "type": "meeting"
         },
         {
@@ -2494,9 +2621,9 @@
       "id": "mcminnville-wingstop",
       "name": "Wingstop",
       "property": "McMinnville Plaza",
-      "status": "LOI - Kevin True confirmed they would go to the UPS/Wingstop side. Exploring Back Shack suite area.",
+      "status": "Broker confirmed suite 107. Deal terms stay the same.",
       "stage": "LOI",
-      "nextStep": "Finalize suite placement; coordinate with Kevin True on build-out",
+      "nextStep": "Finalize suite shift to 107. Follow up if broker goes quiet.",
       "priority": "high",
       "timeline": [
         {
@@ -2512,6 +2639,11 @@
         {
           "date": "2026-03-30",
           "event": "Meeting: Kevin confirmed placement; exploring Back Shack area",
+          "type": "meeting"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: Broker texted weekend confirming suite 107 shift. Same deal terms.",
           "type": "meeting"
         },
         {
@@ -3079,10 +3211,10 @@
       "id": "mcminnville-royal-furniture",
       "name": "Royal Furniture",
       "property": "McMinnville Plaza",
-      "status": "Matterport scan came out wonky - sent to Matterport corporate for fix. Paid $15 for legit site plan from Cubikasa - came back at 18K SF (smaller than needed for Aldi's 20K requirement). Confirmed accurate.",
+      "status": "Matterport came out wonky (sent to corporate for fix). Cubikasa site plan = 18K SF. Aldi needs 20K.",
       "stage": "Contact Made",
-      "nextStep": "Send site plan to Spencer (Aldi) and ask if they can squeeze or build small addition off back",
-      "priority": "high",
+      "nextStep": "Send Cubikasa site plan to Spencer (Aldi) - ask if they can squeeze or add small structure off back.",
+      "priority": "medium",
       "contacts": [],
       "timeline": [
         {
@@ -3093,6 +3225,11 @@
         {
           "date": "2026-03-30",
           "event": "Meeting: Matterport fix in progress, Cubikasa site plan received at 18K SF, need to send to Spencer/Aldi",
+          "type": "meeting"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: Cubikasa measured 18K SF vs Aldi's 20K need. Send to Spencer, explore options.",
           "type": "meeting"
         },
         {
@@ -3363,21 +3500,26 @@
       "name": "HopeSmiles",
       "property": "44 Vantage Way, Cool Springs",
       "type": "Tenant Rep",
-      "status": "LOI stage. Landlord counter forwarded to Amy Harper and Dr. Phillip Kemp 3/19. Terms: 35,362 SF as-is, $19.50/SF FSG, 10-year, 3% annual bumps. Cool Springs Commons RFP effectively dead.",
-      "nextStep": "Follow up with Amy/Dr. Camp on expansion timing for second phase.",
+      "status": "Dr. Kemp uncertain on Metro Center AND Cold Springs. Saw him at church.",
+      "nextStep": "Jacob: talk to Dr. Kemp directly (saw him at church). Don't break up with 44 Vantage yet.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
         "Amy Harper (amy@hopesmiles.org)",
         "Dr. Phillip Kemp (phillipkemp@hopesmiles.org)"
       ],
-      "priority": "high",
+      "priority": "medium",
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
           "date": "2026-03-30",
           "event": "Email from Grey Gettleman: Meridian Springs Complex, 21 Meridian Springs Dr, Jackson, TN 38301, United Stat",
           "type": "email"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: Kemp wavering on both locations. Column concerns in space. Jacob to talk to him directly. Hold off on 44 Vantage breakup.",
+          "type": "meeting"
         },
         {
           "date": "2026-03-27",
@@ -3608,14 +3750,14 @@
       "name": "Buena Vista",
       "property": "2433 Buena Vista Pike, Nashville",
       "type": "Land/Development",
-      "status": "Listed at $10M. Infrastructure confirmed built. Multiple inquiries active.",
-      "nextStep": "Schedule call with Brian Drobnick next week. Locate survey and additional documents.",
+      "status": "Preliminary interest from a few groups. Email blast pending.",
+      "nextStep": "Micah to blast contacts from email Jacob sent.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
         "Cole @ DR Horton"
       ],
-      "priority": "high",
+      "priority": "medium",
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
@@ -3627,6 +3769,11 @@
           "date": "2026-03-30",
           "event": "Email from Crexi: Brian D. clicked phone number on 2433 Buena Vista Pike",
           "type": "email"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: Handful of groups with preliminary interest. Email blast to Micah's contacts pending.",
+          "type": "meeting"
         },
         {
           "date": "2026-03-29",
@@ -4484,10 +4631,10 @@
       "id": "emerson-live-nation",
       "name": "Live Nation",
       "property": "Emerson Hall",
-      "status": "National entertainment tenant, 6-7K SF showroom, 20-25yr lease with options. $200/ft TIA + MEP/HVAC outside TI. 4% fee on base term.",
+      "status": "Dead. Josh Levy could only pay mid-twenties, math doesn't work.",
       "stage": "Contact Made",
-      "nextStep": "Owner meeting Monday 3/24. Forwarded to Micah - 'sounds expensive.'",
-      "priority": "high",
+      "nextStep": "No further action. Deal dropped.",
+      "priority": "low",
       "contacts": [
         "Josh Levy (Arbor Realty Capital Advisors, Pasadena CA)"
       ],
@@ -4496,6 +4643,11 @@
           "date": "2026-03-30",
           "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
           "type": "email"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: Deal killed - tenant can only pay mid-twenties, not viable.",
+          "type": "meeting"
         },
         {
           "date": "2026-03-27",
@@ -4800,6 +4952,13 @@
       "property": "Shelbyville Outparcel",
       "lastSeen": "Week Of 3/23/26",
       "note": "Dropped from prep doc. Last status: Two prospects active on Crexi this week. John G. opened the flyer and clicked the phone number 3/21. John B. clicked the phone number 3/19. Worth a proactive reach-out?"
+    },
+    {
+      "id": "emerson-live-nation",
+      "name": "Live Nation",
+      "property": "Emerson Hall",
+      "lastSeen": "Leasing Meeting Recap - 3/30/2026 (corrected)",
+      "note": ""
     }
   ],
   "staleContacts": [
