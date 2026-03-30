@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T13:30:35.268021",
+  "lastUpdated": "2026-03-30T14:06:00.728850",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-03-30",
@@ -49,7 +49,115 @@
       "put mattresses on the market (overdue — due 2026-03-23)",
       "Schedule lunch w mailto:ctaylor@realsitecommerical.com (overdue — due 2026-03-23)",
       "Call Elliot Kyle about Emerson Hall/Fat bottom (overdue — due 2026-03-23)",
-      "Add teeth to the default sections for Grease.  (overdue — due 2026-03-23)"
+      "Add teeth to the default sections for Grease.  (overdue — due 2026-03-23)",
+      {
+        "owner": "Micah",
+        "action": "Call Ashby - leave voicemail, commit her to Wednesday turnaround on Emerson lease review",
+        "deal": "Emerson Hall",
+        "deadline": "2026-03-30"
+      },
+      {
+        "owner": "Micah",
+        "action": "Call Joey (Great Greek broker) Friday 3pm - no white box, TI deal only. Ask about keeping Foxes.",
+        "deal": "Great Greek",
+        "deadline": "2026-04-03"
+      },
+      {
+        "owner": "Micah",
+        "action": "Tell Brian to get Big Lots box pricing this week for Easter Seals/GCS",
+        "deal": "Evansville",
+        "deadline": "2026-04-03"
+      },
+      {
+        "owner": "Micah",
+        "action": "Push Cosmoprof with firm terms on Shelbyville - state what we will/won't do",
+        "deal": "Shelbyville Cosmoprof",
+        "deadline": null
+      },
+      {
+        "owner": "Micah",
+        "action": "Touch base with Prather - give updated Emerson timeline",
+        "deal": "Emerson Hall / Prather",
+        "deadline": null
+      },
+      {
+        "owner": "Micah",
+        "action": "Research REA for Evansville Big Lots box sale",
+        "deal": "Evansville",
+        "deadline": null
+      },
+      {
+        "owner": "Micah",
+        "action": "Pack ICSC Vegas schedule - as many meetings as possible",
+        "deal": "ICSC 2026",
+        "deadline": null
+      },
+      {
+        "owner": "Micah",
+        "action": "Email Jeff for ICSC meeting",
+        "deal": "ICSC 2026",
+        "deadline": null
+      },
+      {
+        "owner": "Micah",
+        "action": "Set up meetings with Tony/Starbucks for McMinnville, Seven Brews/Dutch Bros, Pedal (Nick)",
+        "deal": "ICSC 2026",
+        "deadline": null
+      },
+      {
+        "owner": "Micah",
+        "action": "Send Royal Furniture Cubikasa site plan to Spencer (Aldi) - ask if they can squeeze or add small structure",
+        "deal": "McMinnville Royal Furniture / Aldi",
+        "deadline": null
+      },
+      {
+        "owner": "Micah",
+        "action": "Call Shoe Dept broker",
+        "deal": "Malone Shoe Dept",
+        "deadline": null
+      },
+      {
+        "owner": "Micah",
+        "action": "Interview candidates for leasing associate - prioritize order with Melissa, Zoom for out-of-state",
+        "deal": "Leasing hire",
+        "deadline": null
+      },
+      {
+        "owner": "Micah",
+        "action": "Talk to Luke Wednesday about leasing role",
+        "deal": "Leasing hire",
+        "deadline": "2026-04-01"
+      },
+      {
+        "owner": "Jacob",
+        "action": "Talk to Dr. Kemp about HopeSmiles - saw him at church, follow up",
+        "deal": "HopeSmiles",
+        "deadline": null
+      },
+      {
+        "owner": "Jacob",
+        "action": "Get Burlington meeting at ICSC - Chris Keller",
+        "deal": "ICSC 2026",
+        "deadline": null
+      },
+      {
+        "owner": "Jacob",
+        "action": "Review McMinnville long-term plan - which tenants to keep vs. not renew for bigger box users",
+        "deal": "McMinnville redevelopment",
+        "deadline": null
+      },
+      {
+        "owner": "Jarvis",
+        "action": "Track McMinnville monument sign decision (old location vs highway)",
+        "deal": "McMinnville",
+        "deadline": null
+      },
+      {
+        "owner": "Jarvis",
+        "action": "Add landscaper task for McMinnville as spring approaches - weeds at front of property",
+        "deal": "McMinnville",
+        "deadline": null
+      }
     ]
   },
   "pipelineDeals": [
@@ -415,10 +523,10 @@
       "id": "malone-shoe-dept",
       "name": "Shoe Dept",
       "property": "Malone Plaza",
-      "status": "Active lease negotiation. Shared corridor language removal resolved - side door emergency exit only. Full demo of McMinnville haunted house approved (keep ceiling grid).",
+      "status": "Lease language in progress",
       "stage": "Lease Draft & Review",
-      "nextStep": "Send revised shared access language to Paul",
-      "priority": "high",
+      "nextStep": "Call Shoe Dept broker ('shoe horn guy')",
+      "priority": "medium",
       "timeline": [
         {
           "date": "2026-03-30",
@@ -429,6 +537,11 @@
           "date": "2026-03-30",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
           "type": "email"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: Jacob to call Shoe Dept broker",
+          "type": "meeting"
         },
         {
           "date": "2026-03-27",
@@ -1133,15 +1246,20 @@
       "id": "gastonia-laundromat",
       "name": "Chad Vang - Laundromat",
       "property": "Gastonia - Dixie Village",
-      "status": "LOI counter - requesting extra $30K TI (to $80K) for doors/windows. Roof replacement needed.",
+      "status": "Laundromat guys visited - lease sent last week, waiting for signature",
       "stage": "LOI",
-      "nextStep": "Send counter with TI/rent adjustment. Get Micah's sign-off on roof timeline.",
-      "priority": "high",
+      "nextStep": "Follow up in ~2 weeks if not signed",
+      "priority": "medium",
       "timeline": [
         {
           "date": "2026-03-30",
           "event": "Email from anita c.: anita c. is requesting Information on Dixie Village in Gastonia",
           "type": "email"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: Lease sent, waiting on signature",
+          "type": "meeting"
         },
         {
           "date": "2026-03-27",
@@ -1297,11 +1415,16 @@
       "id": "shelbyville-anytime",
       "name": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
-      "status": "LOI in progress with Derek Tucker.",
+      "status": "Cosmoprof followed up on Shelbyville - trying to buy time for better tenants",
       "stage": "LOI",
-      "nextStep": "Call Derek Tucker back. Clean up Pipedrive entries.",
-      "priority": "high",
+      "nextStep": "Push Cosmoprof with firm terms (no TI, state what we will/won't do) - take it or leave it approach",
+      "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: Cosmoprof followed up; push with firm terms to avoid losing interest",
+          "type": "meeting"
+        },
         {
           "date": "2026-03-26",
           "event": "Email from Quincy Palmer: Big lots Shelbyville Indiana",
@@ -1385,9 +1508,9 @@
       "id": "russellville-abc",
       "name": "ABC Retail",
       "property": "Russellville",
-      "status": "Lease received in mail. Requires 3 hand-signed copies (no DocuSign).",
+      "status": "Waiting for ABC to sign lease",
       "stage": "Lease Draft & Review",
-      "nextStep": "Coordinate getting copies signed by Micah and returned to Melissa.",
+      "nextStep": "Follow up on signed lease",
       "priority": "medium",
       "timeline": [
         {
@@ -1399,6 +1522,11 @@
           "date": "2026-03-30",
           "event": "Email from Joey Valenti: Re: 235 E Main St, 1st Floor, Hendersonville, TN 37075, United States, PID: 8131",
           "type": "email"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: Waiting on ABC to sign",
+          "type": "meeting"
         },
         {
           "date": "2026-03-27",
@@ -1604,15 +1732,20 @@
       "id": "emerson-hawkins",
       "name": "Charles Hawkins Co.",
       "property": "Emerson Hall - Hotel Space",
-      "status": "Prather sent LOI counter - agrees to rate, wants 8yr term, 3 more months free, 2% bumps. ~30% SF increase noted. Live counter pending Micah input.",
+      "status": "Waiting on Ashby (attorney) for lease review. Jacob added parking exhibit. Prather texted on separate thread Thursday/Friday asking for update.",
       "stage": "LOI",
-      "nextStep": "Discuss counter with Micah early next week. Competing with Live Nation inquiry.",
+      "nextStep": "Call Ashby - leave voicemail, ask for turnaround by Wednesday. Touch base with Prather with updated timeline.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-03-30",
           "event": "Email from ICSC Commerce + Communities Today: Asian Retailers Are Chasing Space in the U.S.",
           "type": "email"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: Need to push Ashby for lease this week; Prather following up",
+          "type": "meeting"
         },
         {
           "date": "2026-03-29",
@@ -1934,7 +2067,7 @@
       "id": "montgomery-qt-nails",
       "name": "QT Nails",
       "property": "Montgomery (1642 Atlanta HWY)",
-      "status": "Full lease application received 3/5. 5-year term, opening May 2026.",
+      "status": "QT Nails lease signed per pipeline status",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
       "stageOverrideDate": "2026-03-12",
@@ -2057,9 +2190,9 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville",
-      "status": "LOI received from Jon Petty. ~2K SF. Moving forward.",
+      "status": "LOI - Kevin confirmed Wingstop would go in this area; UPS and Wingstop positioned for same side of center",
       "stage": "LOI",
-      "nextStep": "Finalize LOI terms and move to lease.",
+      "nextStep": "Finalize suite assignments with Kevin True",
       "priority": "high",
       "timeline": [
         {
@@ -2071,6 +2204,11 @@
           "date": "2026-03-30",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
           "type": "email"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: Kevin confirmed Wingstop placement near UPS side of center",
+          "type": "meeting"
         },
         {
           "date": "2026-03-27",
@@ -2356,9 +2494,9 @@
       "id": "mcminnville-wingstop",
       "name": "Wingstop",
       "property": "McMinnville Plaza",
-      "status": "LOI received from Kevin Trujillo 3/19. Exploring Back Shack suite. TI vs as-is discrepancy - $25/ft TI in LOI but EPS corporate won't approve TI.",
+      "status": "LOI - Kevin True confirmed they would go to the UPS/Wingstop side. Exploring Back Shack suite area.",
       "stage": "LOI",
-      "nextStep": "Call Bell to clarify white box + DA approach. Respond to Kevin on suite options (mid-teens as-is).",
+      "nextStep": "Finalize suite placement; coordinate with Kevin True on build-out",
       "priority": "high",
       "timeline": [
         {
@@ -2370,6 +2508,11 @@
           "date": "2026-03-30",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
           "type": "email"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: Kevin confirmed placement; exploring Back Shack area",
+          "type": "meeting"
         },
         {
           "date": "2026-03-27",
@@ -2936,16 +3079,21 @@
       "id": "mcminnville-royal-furniture",
       "name": "Royal Furniture",
       "property": "McMinnville Plaza",
-      "status": "~18K SF interest. Potential deal killer: Aldi needs 20K SF minimum.",
+      "status": "Matterport scan came out wonky - sent to Matterport corporate for fix. Paid $15 for legit site plan from Cubikasa - came back at 18K SF (smaller than needed for Aldi's 20K requirement). Confirmed accurate.",
       "stage": "Contact Made",
-      "nextStep": "Determine if 18K SF works or if Aldi's 20K min kills it.",
-      "priority": "medium",
+      "nextStep": "Send site plan to Spencer (Aldi) and ask if they can squeeze or build small addition off back",
+      "priority": "high",
       "contacts": [],
       "timeline": [
         {
           "date": "2026-03-30",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
           "type": "email"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: Matterport fix in progress, Cubikasa site plan received at 18K SF, need to send to Spencer/Aldi",
+          "type": "meeting"
         },
         {
           "date": "2026-03-27",
@@ -3135,6 +3283,78 @@
         "suiteCount": 45,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "unknown-small-venue",
+      "name": "",
+      "property": "Unknown - small venue",
+      "status": "LOI stage - tenant anchored at $24-25 vs Jacob's $28 ask. No corporate guarantee. Not worth it at their price given TI costs. Jacob told them to take it or leave it.",
+      "stage": "Contact Made",
+      "nextStep": "Call Joey Friday 3pm - clarify no white box work for small tenants, TI deal only. Check if Foxes can stay alongside Great Greek.",
+      "priority": "medium",
+      "contacts": [],
+      "timeline": [
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: Great Greek LOI - math doesn't work at their price; call Joey Friday",
+          "type": "meeting"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "id": "pell-city",
+      "name": "",
+      "property": "Pell City",
+      "status": "Prospect - sharp operator from Chicago, parents own delis in AL/GA. Expanding franchise to small towns. $500-750K build-out they'd pay themselves.",
+      "stage": "Contact Made",
+      "nextStep": "Should have application/info today; follow up",
+      "priority": "medium",
+      "contacts": [],
+      "timeline": [
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: Jefferson's prospect for Pell City - self-funding $500-750K build-out",
+          "type": "meeting"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "id": "evansville",
+      "name": "",
+      "property": "Evansville",
+      "status": "CFO spoke to Jacob, uneducated on costs but talking to CEO. They want to buy the Big Lots box. Nonprofit. Need Brian to provide number for just the box.",
+      "stage": "Contact Made",
+      "nextStep": "Tell Brian to get box pricing this week; pitch at ~$75/ft ('you couldn't build this for that'); research REA restrictions",
+      "priority": "high",
+      "contacts": [],
+      "timeline": [
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: Easter Seals/GCS wants Big Lots box in Evansville; need Brian's pricing this week",
+          "type": "meeting"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "id": "mcminnville-plaza",
+      "name": "",
+      "property": "McMinnville Plaza",
+      "status": "Potential candidate for haunted house space area. Currently in indoor mall down the road.",
+      "stage": "Contact Made",
+      "nextStep": "Reach out to Sally Beauty about relocating from indoor mall",
+      "priority": "low",
+      "contacts": [],
+      "timeline": [
+        {
+          "date": "2026-03-30",
+          "event": "Meeting: Sally Beauty identified as candidate for McMinnville",
+          "type": "meeting"
+        }
+      ],
+      "actions": []
     }
   ],
   "sideDeals": [
