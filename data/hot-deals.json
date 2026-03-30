@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T14:29",
+  "lastUpdated": "2026-03-30T14:30:09.489268",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-03-30",
@@ -28,7 +28,7 @@
       {
         "time": "10:30 AM",
         "title": "Leasing Meeting",
-        "dealContext": "20 active deals. 3 advanced this week (QT Nails\u2192Lease sent for signature, Coaches Bargainz\u2192Tenant welcome email sent, HopeSmiles). Top deals: Five Below (LOI), Shoe Dept (Lease Draft & Review), Chad Vang - Laundromat (LOI). 29 contacts tracked."
+        "dealContext": "20 active deals. 3 advanced this week (QT Nails→Lease sent for signature, Coaches Bargainz→Tenant welcome email sent, HopeSmiles). Top deals: Five Below (LOI), Shoe Dept (Lease Draft & Review), Chad Vang - Laundromat (LOI). 29 contacts tracked."
       },
       {
         "time": "1:30 PM",
@@ -42,14 +42,14 @@
       }
     ],
     "priorities": [
-      "PCON feedback: Jack Beachboard (overdue \u2014 due 2026-03-27)",
-      "PCON feedback: Jake DeFrance (overdue \u2014 due 2026-03-27)",
-      "Start scheduling ICSC meetings + outreach for Evansville and Shelbyville (overdue \u2014 due 2026-03-20)",
-      "Make flyer for mattresses listing (overdue \u2014 due 2026-03-23)",
-      "put mattresses on the market (overdue \u2014 due 2026-03-23)",
-      "Schedule lunch w mailto:ctaylor@realsitecommerical.com (overdue \u2014 due 2026-03-23)",
-      "Call Elliot Kyle about Emerson Hall/Fat bottom (overdue \u2014 due 2026-03-23)",
-      "Add teeth to the default sections for Grease.  (overdue \u2014 due 2026-03-23)",
+      "PCON feedback: Jack Beachboard (overdue — due 2026-03-27)",
+      "PCON feedback: Jake DeFrance (overdue — due 2026-03-27)",
+      "Start scheduling ICSC meetings + outreach for Evansville and Shelbyville (overdue — due 2026-03-20)",
+      "Make flyer for mattresses listing (overdue — due 2026-03-23)",
+      "put mattresses on the market (overdue — due 2026-03-23)",
+      "Schedule lunch w mailto:ctaylor@realsitecommerical.com (overdue — due 2026-03-23)",
+      "Call Elliot Kyle about Emerson Hall/Fat bottom (overdue — due 2026-03-23)",
+      "Add teeth to the default sections for Grease.  (overdue — due 2026-03-23)",
       {
         "owner": "Micah",
         "action": "Call Ashby - leave voicemail, commit her to Wednesday turnaround on Emerson lease review",
@@ -272,6 +272,11 @@
       "nextStep": "Wait for REC meeting 4/22.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-30",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
         {
           "date": "2026-03-30",
           "event": "Email from Lauer, Tracy: Five Below - Anchor Dev",
@@ -554,7 +559,7 @@
         },
         {
           "date": "2026-03-11",
-          "event": "Steven Silverman - \u00b113% Cap Rate! | Terre Haute Plaza | Auction April 13-15",
+          "event": "Steven Silverman - ±13% Cap Rate! | Terre Haute Plaza | Auction April 13-15",
           "type": "email"
         },
         {
@@ -635,6 +640,11 @@
       "nextStep": "Micah: call Shoe Dept broker to push for execution.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-30",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
         {
           "date": "2026-03-30",
           "event": "Email from Lauer, Tracy: Shoe Dept - Anchor Dev",
@@ -887,7 +897,7 @@
         },
         {
           "date": "2026-03-11",
-          "event": "Email from Steven Silverman: \u00b113% Cap Rate! | Terre Haute Plaza | Auction April 13-15",
+          "event": "Email from Steven Silverman: ±13% Cap Rate! | Terre Haute Plaza | Auction April 13-15",
           "type": "email"
         },
         {
@@ -959,6 +969,16 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-30",
+          "event": "Email from LoopNet Auctions by Ten-X: Your Weekly CRE Auction Alert – Don’t Miss These Opportunities!",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
         {
           "date": "2026-03-30",
           "event": "Email from ICSC Commerce + Communities Today: Asian Retailers Are Chasing Space in the U.S.",
@@ -1081,7 +1101,7 @@
         },
         {
           "date": "2026-03-24",
-          "event": "Email from LoopNet Auctions by Ten-X: Your Weekly CRE Auction Alert \u2013 Don\u2019t Miss These Opportunities!",
+          "event": "Email from LoopNet Auctions by Ten-X: Your Weekly CRE Auction Alert – Don’t Miss These Opportunities!",
           "type": "email"
         },
         {
@@ -1096,7 +1116,7 @@
         },
         {
           "date": "2026-03-23",
-          "event": "Email from Brendan Mulligan and Grace Daniels: Dallas, PA: \u00b11,500 - 43,155 SF Available For Lease - Anchor Opportunity in North",
+          "event": "Email from Brendan Mulligan and Grace Daniels: Dallas, PA: ±1,500 - 43,155 SF Available For Lease - Anchor Opportunity in North",
           "type": "email"
         },
         {
@@ -1291,7 +1311,7 @@
         },
         {
           "date": "2026-03-11",
-          "event": "Email from Steven Silverman: \u00b113% Cap Rate! | Terre Haute Plaza | Auction April 13-15",
+          "event": "Email from Steven Silverman: ±13% Cap Rate! | Terre Haute Plaza | Auction April 13-15",
           "type": "email"
         },
         {
@@ -1385,7 +1405,7 @@
         },
         {
           "date": "2026-03-26",
-          "event": "Email from \u0645\u062d\u0645\u062f \u0627\u0644\u062f\u0639\u0627\u0633: LoopNet Lead for Dixie Village Shopping Center",
+          "event": "Email from محمد الدعاس: LoopNet Lead for Dixie Village Shopping Center",
           "type": "email"
         },
         {
@@ -1425,7 +1445,7 @@
         },
         {
           "date": "2026-03-22",
-          "event": "Email from \u0645\u062d\u0645\u062f \u0627\u0644\u062f\u0639\u0627\u0633: LoopNet Lead for Dixie Village Shopping Center",
+          "event": "Email from محمد الدعاس: LoopNet Lead for Dixie Village Shopping Center",
           "type": "email"
         },
         {
@@ -1440,7 +1460,7 @@
         },
         {
           "date": "2026-03-17",
-          "event": "Email from \u0645\u062d\u0645\u062f \u0627\u0644\u062f\u0639\u0627\u0633: LoopNet Lead for Dixie Village Shopping Center",
+          "event": "Email from محمد الدعاس: LoopNet Lead for Dixie Village Shopping Center",
           "type": "email"
         },
         {
@@ -1692,12 +1712,12 @@
         },
         {
           "date": "2026-03-24",
-          "event": "Email from Chain Store Age: Connected Retail: Lowe\u2019s new subscription offering; Puma brings AI in-store; Hai",
+          "event": "Email from Chain Store Age: Connected Retail: Lowe’s new subscription offering; Puma brings AI in-store; Hai",
           "type": "email"
         },
         {
           "date": "2026-03-23",
-          "event": "Email from Joseph Dougherty and David Judd: Chester, PA: \u00b113,500 SF Available for Sale or Lease - Freestanding Retail Right ",
+          "event": "Email from Joseph Dougherty and David Judd: Chester, PA: ±13,500 SF Available for Sale or Lease - Freestanding Retail Right ",
           "type": "email"
         },
         {
@@ -1777,7 +1797,7 @@
         },
         {
           "date": "2026-03-16",
-          "event": "Email from Lis Norton | Meagan Glazier | Miller Chandler, CCIM: FOR LEASE | \u00b12,200 SF of Retail/Office Space Available for Lease",
+          "event": "Email from Lis Norton | Meagan Glazier | Miller Chandler, CCIM: FOR LEASE | ±2,200 SF of Retail/Office Space Available for Lease",
           "type": "email"
         },
         {
@@ -2066,12 +2086,12 @@
         },
         {
           "date": "2026-03-17",
-          "event": "Email from Brent Barbehenn: Egg Harbor Township, NJ: \u00b120,798 SF on 1.68 AC Available for Sale - Showroom/War",
+          "event": "Email from Brent Barbehenn: Egg Harbor Township, NJ: ±20,798 SF on 1.68 AC Available for Sale - Showroom/War",
           "type": "email"
         },
         {
           "date": "2026-03-16",
-          "event": "Email from Lis Norton | Meagan Glazier | Miller Chandler, CCIM: FOR LEASE | \u00b12,200 SF of Retail/Office Space Available for Lease",
+          "event": "Email from Lis Norton | Meagan Glazier | Miller Chandler, CCIM: FOR LEASE | ±2,200 SF of Retail/Office Space Available for Lease",
           "type": "email"
         },
         {
@@ -2399,7 +2419,7 @@
         },
         {
           "date": "2026-03-24",
-          "event": "Email from Chain Store Age: Connected Retail: Lowe\u2019s new subscription offering; Puma brings AI in-store; Hai",
+          "event": "Email from Chain Store Age: Connected Retail: Lowe’s new subscription offering; Puma brings AI in-store; Hai",
           "type": "email"
         },
         {
@@ -2767,6 +2787,11 @@
           "type": "email"
         },
         {
+          "date": "2026-03-30",
+          "event": "Meeting: Ashby hasn't responded. Prather texted pressing. Jacob to push Ashby for Wed turnaround.",
+          "type": "meeting"
+        },
+        {
           "date": "2026-03-29",
           "event": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
           "type": "email"
@@ -2885,11 +2910,6 @@
           "date": "2026-03-19",
           "event": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Wednesday 3/18",
           "type": "email"
-        },
-        {
-          "date": "2026-03-30",
-          "event": "Meeting: Ashby hasn't responded. Prather texted pressing. Jacob to push Ashby for Wed turnaround.",
-          "type": "meeting"
         }
       ],
       "contacts": [
@@ -2925,6 +2945,11 @@
       "nextStep": "Waiting on Melissa Eddy (Asana due 3/20) - reaching out to Ashby re: Memo of Exclusive + Declarant estoppel.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-30",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
         {
           "date": "2026-03-30",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
@@ -3321,17 +3346,17 @@
         },
         {
           "date": "2026-03-30",
-          "event": "Email from NASHtoday: \u23f0 Spring\u2019s best deals end soon + new downtown study",
+          "event": "Email from NASHtoday: ⏰ Spring’s best deals end soon + new downtown study",
           "type": "email"
         },
         {
           "date": "2026-03-25",
-          "event": "Email from NASHtoday: \ud83d\udecd\ufe0f 14+ spring deals + small biz guide",
+          "event": "Email from NASHtoday: 🛍️ 14+ spring deals + small biz guide",
           "type": "email"
         },
         {
           "date": "2026-03-24",
-          "event": "Email from Beth Azor: Don\u2019t Let a Commission\ufeff \ufeffPush You Into a Bad Deal \u261d\ufe0f",
+          "event": "Email from Beth Azor: Don’t Let a Commission﻿ ﻿Push You Into a Bad Deal ☝️",
           "type": "email"
         },
         {
@@ -3456,6 +3481,11 @@
       "timeline": [
         {
           "date": "2026-03-30",
+          "event": "Email from Jacob Delk: Pell City Marketplace",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-30",
           "event": "Meeting: Jefferson's prospect for Pell City - self-funding $500-750K build-out",
           "type": "meeting"
         },
@@ -3477,6 +3507,11 @@
       "priority": "high",
       "contacts": [],
       "timeline": [
+        {
+          "date": "2026-03-30",
+          "event": "Email from Josie I.: Josie I. opened brochure on Big Lots - Evansville, IN",
+          "type": "email"
+        },
         {
           "date": "2026-03-30",
           "event": "Meeting: Easter Seals/GCS wants Big Lots box in Evansville; need Brian's pricing this week",
@@ -3502,6 +3537,11 @@
       "timeline": [
         {
           "date": "2026-03-30",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-30",
           "event": "Meeting: Sally Beauty identified as candidate for McMinnville",
           "type": "meeting"
         }
@@ -3518,6 +3558,16 @@
       "timeline": [
         {
           "date": "2026-03-30",
+          "event": "Email from Jennifer Marr Rogers: Maple Row Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Email from Chris R.: Chris R. opened brochure on Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-30",
           "event": "Meeting: LOI reviewed. No whitebox policy. Call Joey Fri 3pm. Check Foxes retention.",
           "type": "meeting"
         }
@@ -3531,6 +3581,11 @@
       "nextStep": "Jacob: tell Brian - get box pricing THIS WEEK. Pitch ~$75/ft. Research REA.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-30",
+          "event": "Email from Josie I.: Josie I. opened brochure on Big Lots - Evansville, IN",
+          "type": "email"
+        },
         {
           "date": "2026-03-30",
           "event": "Meeting: Push Brian for box pricing this week. Pitch $75/ft. Research REA. Nonprofit buyer.",
@@ -3563,6 +3618,11 @@
       "timeline": [
         {
           "date": "2026-03-30",
+          "event": "Email from Jacob Delk: Pell City Marketplace",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-30",
           "event": "Meeting: Application in. Self-funding buildout. Touring this week. Strong prospect.",
           "type": "meeting"
         }
@@ -3576,6 +3636,11 @@
       "nextStep": "Jacob exploring fit.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-30",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
         {
           "date": "2026-03-30",
           "event": "Meeting: Sally Beauty identified as prospect for haunted house space.",
@@ -3593,6 +3658,11 @@
       "timeline": [
         {
           "date": "2026-03-30",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-30",
           "event": "Meeting: Jack Gilmore reached out. Exploring BBQ building as alternative site.",
           "type": "meeting"
         }
@@ -3606,6 +3676,11 @@
       "nextStep": "Monitor. Positive response but demographics/density concern remains.",
       "priority": "low",
       "timeline": [
+        {
+          "date": "2026-03-30",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
         {
           "date": "2026-03-30",
           "event": "Meeting: Crunch responded positively. Revisiting with franchisee.",
@@ -3658,7 +3733,7 @@
         },
         {
           "date": "2026-03-26",
-          "event": "Email from CPE Daily Newsletter: Winter freeze can\u2019t cool RTO trend",
+          "event": "Email from CPE Daily Newsletter: Winter freeze can’t cool RTO trend",
           "type": "email"
         },
         {
@@ -3882,6 +3957,11 @@
       "timeline": [
         {
           "date": "2026-03-30",
+          "event": "Email from Horton, Grant: 1228 Main St Tour April 1",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-30",
           "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
           "type": "email"
         },
@@ -3977,7 +4057,7 @@
         },
         {
           "date": "2026-03-23",
-          "event": "Email from Maggie Atchley: Anchor Investments x The Nashville Food Project - Volunteer Reminder 3/25 \ud83e\uddd1\u200d\ud83c\udf73",
+          "event": "Email from Maggie Atchley: Anchor Investments x The Nashville Food Project - Volunteer Reminder 3/25 🧑‍🍳",
           "type": "email"
         },
         {
@@ -4087,7 +4167,7 @@
         },
         {
           "date": "2026-03-16",
-          "event": "Email from Lis Norton | Meagan Glazier | Miller Chandler, CCIM: FOR LEASE | \u00b12,200 SF of Retail/Office Space Available for Lease",
+          "event": "Email from Lis Norton | Meagan Glazier | Miller Chandler, CCIM: FOR LEASE | ±2,200 SF of Retail/Office Space Available for Lease",
           "type": "email"
         },
         {
@@ -4097,7 +4177,7 @@
         },
         {
           "date": "2026-03-16",
-          "event": "Email from Nashville Business Journal: Jacob \u23f0 This Starts Soon!",
+          "event": "Email from Nashville Business Journal: Jacob ⏰ This Starts Soon!",
           "type": "email"
         },
         {
@@ -4413,7 +4493,7 @@
         },
         {
           "date": "2026-03-23",
-          "event": "Email from Maggie Atchley: Anchor Investments x The Nashville Food Project - Volunteer Reminder 3/25 \ud83e\uddd1\u200d\ud83c\udf73",
+          "event": "Email from Maggie Atchley: Anchor Investments x The Nashville Food Project - Volunteer Reminder 3/25 🧑‍🍳",
           "type": "email"
         },
         {
@@ -4573,7 +4653,7 @@
         },
         {
           "date": "2026-03-16",
-          "event": "Email from Lis Norton | Meagan Glazier | Miller Chandler, CCIM: FOR LEASE | \u00b12,200 SF of Retail/Office Space Available for Lease",
+          "event": "Email from Lis Norton | Meagan Glazier | Miller Chandler, CCIM: FOR LEASE | ±2,200 SF of Retail/Office Space Available for Lease",
           "type": "email"
         },
         {
@@ -4583,7 +4663,7 @@
         },
         {
           "date": "2026-03-16",
-          "event": "Email from Nashville Business Journal: Jacob \u23f0 This Starts Soon!",
+          "event": "Email from Nashville Business Journal: Jacob ⏰ This Starts Soon!",
           "type": "email"
         },
         {
@@ -5084,203 +5164,203 @@
   "staleContacts": [
     {
       "name": "Derek Tucker",
-      "deal": "Anytime Fitness (Derek Tucker) \u2014 Shelbyville",
+      "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
       "daysSinceContact": 4,
       "lastAction": "Email from Quincy Palmer: Big lots Shelbyville Indiana",
       "urgency": "low"
     },
     {
       "name": "Nhung Pham",
-      "deal": "QT Nails \u2014 Montgomery (1642 Atlanta HWY)",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
       "daysSinceContact": 4,
       "lastAction": "Email from scott koo: 6268 Atlanta Hwy Commission",
       "urgency": "low"
     },
     {
       "name": "Dwaine High",
-      "deal": "QT Nails \u2014 Montgomery (1642 Atlanta HWY)",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
       "daysSinceContact": 4,
       "lastAction": "Email from scott koo: 6268 Atlanta Hwy Commission",
       "urgency": "low"
     },
     {
       "name": "Paul",
-      "deal": "Five Below \u2014 Malone Plaza",
+      "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Five Below - Anchor Dev",
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
       "urgency": "low"
     },
     {
       "name": "Paul",
-      "deal": "Shoe Dept \u2014 Malone Plaza",
+      "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Shoe Dept - Anchor Dev",
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
       "urgency": "low"
     },
     {
       "name": "Ajay Secore",
-      "deal": "Ajay Secore - Golf Simulator \u2014 Malone Plaza (Unit 3)",
+      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: Asian Retailers Are Chasing Space ",
+      "lastAction": "Email from LoopNet Auctions by Ten-X: Your Weekly CRE Auction Alert – Don’t Miss",
       "urgency": "low"
     },
     {
       "name": "Chad Vang",
-      "deal": "Chad Vang - Laundromat \u2014 Gastonia - Dixie Village",
+      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
       "daysSinceContact": 0,
       "lastAction": "Email from anita c.: anita c. is requesting Information on Dixie Village in Gast",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
-      "deal": "ABC Retail \u2014 Russellville",
+      "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
       "lastAction": "Email from ICSC Commerce + Communities Today: Asian Retailers Are Chasing Space ",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
-      "deal": "Charles Hawkins Co. \u2014 Emerson Hall - Hotel Space",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
       "lastAction": "Email from ICSC Commerce + Communities Today: Asian Retailers Are Chasing Space ",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
-      "deal": "Charles Hawkins Co. \u2014 Emerson Hall - Hotel Space",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
       "lastAction": "Email from ICSC Commerce + Communities Today: Asian Retailers Are Chasing Space ",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
-      "deal": "UPS Store Franchisee \u2014 McMinnville",
+      "deal": "UPS Store Franchisee — McMinnville",
       "daysSinceContact": 0,
       "lastAction": "Email from Chain Store Age: DayBreaker: Kroger allocates $112M to home state; eB",
       "urgency": "low"
     },
     {
       "name": "Kevin True",
-      "deal": "Wingstop \u2014 McMinnville Plaza",
+      "deal": "Wingstop — McMinnville Plaza",
       "daysSinceContact": 0,
       "lastAction": "Email from Veritas Realty: Taco Bell & KFC | Abs NNN | Bloomington, IN",
       "urgency": "low"
     },
     {
       "name": "Bell",
-      "deal": "Wingstop \u2014 McMinnville Plaza",
+      "deal": "Wingstop — McMinnville Plaza",
       "daysSinceContact": 0,
       "lastAction": "Email from Veritas Realty: Taco Bell & KFC | Abs NNN | Bloomington, IN",
       "urgency": "low"
     },
     {
       "name": "Ashby",
-      "deal": "Prather Event Co \u2014 McMinnville Plaza",
+      "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
       "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "Melissa",
-      "deal": "Marshalls \u2014 Malone Plaza",
+      "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
       "urgency": "low"
     },
     {
       "name": "Ashby",
-      "deal": "Marshalls \u2014 Malone Plaza",
+      "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
-      "deal": "Marshalls \u2014 Malone Plaza",
+      "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
       "urgency": "low"
     },
     {
       "name": "Peter Adams",
-      "deal": "A-Stock (Treverse LLC) \u2014 McMinnville Plaza",
+      "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
       "daysSinceContact": 0,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
-      "deal": "HopeSmiles \u2014 44 Vantage Way, Cool Springs",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
       "lastAction": "Email from Grey Gettleman: Meridian Springs Complex, 21 Meridian Springs Dr, Jac",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
-      "deal": "HopeSmiles \u2014 44 Vantage Way, Cool Springs",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
       "lastAction": "Email from Grey Gettleman: Meridian Springs Complex, 21 Meridian Springs Dr, Jac",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
-      "deal": "HopeSmiles \u2014 44 Vantage Way, Cool Springs",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
       "lastAction": "Email from Grey Gettleman: Meridian Springs Complex, 21 Meridian Springs Dr, Jac",
       "urgency": "low"
     },
     {
       "name": "Dr. Phillip Kemp",
-      "deal": "HopeSmiles \u2014 44 Vantage Way, Cool Springs",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
       "lastAction": "Email from Grey Gettleman: Meridian Springs Complex, 21 Meridian Springs Dr, Jac",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
-      "deal": "Buena Vista \u2014 2433 Buena Vista Pike, Nashville",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
+      "lastAction": "Email from Horton, Grant: 1228 Main St Tour April 1",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
-      "deal": "Buena Vista \u2014 2433 Buena Vista Pike, Nashville",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
+      "lastAction": "Email from Horton, Grant: 1228 Main St Tour April 1",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
-      "deal": "Buena Vista \u2014 2433 Buena Vista Pike, Nashville",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
+      "lastAction": "Email from Horton, Grant: 1228 Main St Tour April 1",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
-      "deal": "Emerson Hall \u2014 2512 Gallatin Ave, Nashville",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
       "lastAction": "Email from Jennifer Marr Rogers: Maple Row Center",
       "urgency": "low"
     },
     {
       "name": "Brether group",
-      "deal": "Emerson Hall \u2014 2512 Gallatin Ave, Nashville",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
       "lastAction": "Email from Jennifer Marr Rogers: Maple Row Center",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
-      "deal": "Emerson Hall \u2014 2512 Gallatin Ave, Nashville",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
       "lastAction": "Email from Jennifer Marr Rogers: Maple Row Center",
       "urgency": "low"
     },
     {
       "name": "Josh Levy",
-      "deal": "Live Nation \u2014 Emerson Hall",
+      "deal": "Live Nation — Emerson Hall",
       "daysSinceContact": 0,
       "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
@@ -5289,8 +5369,8 @@
   "weeklyDiff": {
     "weekOf": "3/9/26",
     "advanced": [
-      "QT Nails: Application received \u2192 Lease sent for signature",
-      "Coaches Bargainz: Lease draft \u2192 Tenant welcome email sent",
+      "QT Nails: Application received → Lease sent for signature",
+      "Coaches Bargainz: Lease draft → Tenant welcome email sent",
       "HopeSmiles: Counter sent ($27/SF + $60-65 TI)"
     ],
     "newLeads": [
@@ -5324,7 +5404,7 @@
       "Send AI resources to Anchor team - auto-completed via sent email",
       "Send an email to guthries - Fwd: New Listing: Smalls Sliders in Flowood MS | New 15 Yr Absolute NNN Sale-Leaseback - jdelk@anchorinv.com - Anchor Investments Mail - auto-completed via sent email",
       "Get a sign for Buena Vista - auto-completed via sent email",
-      "Send Evansville info to TSCG (America's Thrift Stores site search) \u2014 auto-completed via sent email"
+      "Send Evansville info to TSCG (America's Thrift Stores site search) — auto-completed via sent email"
     ]
   },
   "funnel": {
@@ -5341,7 +5421,7 @@
   "actionItems": [
     {
       "title": "Other Sites (can be added to our existing footprint):",
-      "detail": "Forks of the River Parkway \u2013 Sevierville, TN What are your thoughts here? They could go where the ground lease might be 230 W Main St \u2013 Malone, NY Maple Row Shopping Center \u2013 Hendersonville, TN Told them we likely couldn't do it here 2547 W Franklin Blvd \u2013 Gastonia, NC Pea Ridge Plaza Shopping Center \u2013 Huntington, WV Told them we couldn't do it here either. 1100 Smithville Hwy \u2013 McMinnville, TN Fostr"
+      "detail": "Forks of the River Parkway – Sevierville, TN What are your thoughts here? They could go where the ground lease might be 230 W Main St – Malone, NY Maple Row Shopping Center – Hendersonville, TN Told them we likely couldn't do it here 2547 W Franklin Blvd – Gastonia, NC Pea Ridge Plaza Shopping Center – Huntington, WV Told them we couldn't do it here either. 1100 Smithville Hwy – McMinnville, TN Fostr"
     }
   ],
   "crossRefAlerts": [
@@ -6880,7 +6960,7 @@
       },
       {
         "id": "sweep-defer-5",
-        "text": "\ud83d\ude80 Command Center: https://jd-command-center.vercel.app",
+        "text": "🚀 Command Center: https://jd-command-center.vercel.app",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
@@ -6895,13 +6975,13 @@
       {
         "name": "Fireworks Deals",
         "property": "Fireworks Deals",
-        "status": "Parker's been talking to a fireworks group. They pay $2,000 to $5,000 for two weeks leading into July 4th. Below are the sites they're interested in. They all look good to me, but I wanted your input on them. We've already had the conversations around tent stakes and how they handle that, and they're willing to adhere to our requests. \u201cJackson / Memphis Area (would require at least three additional sites to be financially viable for 2026):",
+        "status": "Parker's been talking to a fireworks group. They pay $2,000 to $5,000 for two weeks leading into July 4th. Below are the sites they're interested in. They all look good to me, but I wanted your input on them. We've already had the conversations around tent stakes and how they handle that, and they're willing to adhere to our requests. “Jackson / Memphis Area (would require at least three additional sites to be financially viable for 2026):",
         "nextStep": ""
       },
       {
         "name": "Old Hickory Boulevard",
         "property": "Jackson, TN",
-        "status": "21 Meridian Springs Dr \u2013 Jackson, TN",
+        "status": "21 Meridian Springs Dr – Jackson, TN",
         "nextStep": ""
       },
       {
