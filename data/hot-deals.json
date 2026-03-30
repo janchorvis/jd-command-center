@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T14:30:11.843282",
+  "lastUpdated": "2026-03-30T15:30:16.191082",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-03-30",
@@ -1383,6 +1383,11 @@
       "nextStep": "Wait for signed lease.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-03-30",
+          "event": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
+          "type": "email"
+        },
         {
           "date": "2026-03-30",
           "event": "Email from anita c.: anita c. is requesting Information on Dixie Village in Gastonia",
@@ -5208,7 +5213,7 @@
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from anita c.: anita c. is requesting Information on Dixie Village in Gast",
+      "lastAction": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
       "urgency": "low"
     },
     {
