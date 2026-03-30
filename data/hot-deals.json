@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T12:30:11.244814",
+  "lastUpdated": "2026-03-30T13:30:35.268021",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-03-30",
@@ -2363,6 +2363,11 @@
       "timeline": [
         {
           "date": "2026-03-30",
+          "event": "Email from Veritas Realty: Taco Bell & KFC | Abs NNN | Bloomington, IN",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-30",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
           "type": "email"
         },
@@ -4659,14 +4664,14 @@
       "name": "Kevin True",
       "deal": "Wingstop — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+      "lastAction": "Email from Veritas Realty: Taco Bell & KFC | Abs NNN | Bloomington, IN",
       "urgency": "low"
     },
     {
       "name": "Bell",
       "deal": "Wingstop — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+      "lastAction": "Email from Veritas Realty: Taco Bell & KFC | Abs NNN | Bloomington, IN",
       "urgency": "low"
     },
     {
