@@ -1,13 +1,13 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-03-28 6:55 PM CST (full audit + untasked items review)
+Last updated: 2026-03-30 2:05 PM CST (post-leasing meeting update)
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T084 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T090 -->
 
 ## ACTIVE — Jacob needs to do these
 
 ### This Week (week of 3/30)
-- T050: PCON feedback form for Jack Beachboard — prospective member, submit via HubSpot link in email (3/12). Was due 3/17 (OVERDUE — 11 days late). [asana: 1213659300550136]
+- T050: PCON feedback form for Jack Beachboard — prospective member, submit via HubSpot link in email (3/12). Was due 3/17 (OVERDUE — 13 days late). [asana: 1213659300550136]
 - T051: Five Below (Malone Plaza) — LOI signed and returned 3/17. REC meeting 4/22. Facade renderings requested from Shaun (architect). Waiting on Shaun. [source: email 3/17, updated 3/22]
 - T060: Send Micah calendar invite for PCON dinner — April 22, host committee. [source: leasing meeting 3/23]
 - T065: PCON sponsorships — secure sponsors for upcoming event [asana: 1213840904488698]
@@ -22,11 +22,17 @@ Last updated: 2026-03-28 6:55 PM CST (full audit + untasked items review)
 - T074: Redline UPS LOI [asana: 1213840842331858]
 - T075: Wingstop LOI [asana: 1213840842344027]
 - T076: Redline Great Greek LOI [asana: 1213841001401369]
-- T077: Get Micah to talk to Dr. Kemp [asana: 1213840882215597]
+- T077: Get Micah to talk to Dr. Kemp — Jacob saw him at church, will follow up [asana: 1213840882215597] [updated: 3/30 meeting]
 - T078: Blast out Buena Vista listings [asana: 1213840882215086] [note: include Brian Drobnick/NRP Group — called last week, no answer]
 - T079: Work with Parker to get sign for Buena Vista [asana: 1213840947037043] [absorbed T016]
 - T080: Redline Five Below work letter [asana: 1213841001404970] [absorbed T018]
 - T083: Set up Melissa Drish laptop (ThinkBook 16 Gen 8) — arriving ~3/29, must be ready before April 6 start date [asana: 1213841285824838] [due: 4/5]
+- T084: Call Ashby re: Emerson lease — leave voicemail, get turnaround by Wednesday. Added parking exhibit. [source: leasing meeting 3/30] [deal: Emerson Hall]
+- T085: Tell Brian to get Big Lots box pricing this week (Evansville Easter Seals/GCS) — pitch at ~$75/ft [source: leasing meeting 3/30] [deal: Evansville]
+- T086: Push Cosmoprof with firm terms on Shelbyville — no TI, state what we will/won't do, don't lose interest [source: leasing meeting 3/30]
+- T087: Send Royal Furniture Cubikasa site plan (18K SF) to Spencer/Aldi — ask if they can squeeze or build addition [source: leasing meeting 3/30] [deal: McMinnville]
+- T088: Call Shoe Dept broker [source: leasing meeting 3/30] [deal: Malone]
+- T089: Pack ICSC Vegas schedule — email Jeff, set up Tony/Starbucks, Seven Brews/Dutch Bros, Pedal (Nick), Burlington (Chris Keller), America's Thrift [source: leasing meeting 3/30] [updates T070]
 
 ### Next Week+
 - T019: Reach out to Runnings — exclusive with Ashby [source: brain-dump 3/6] [asana: 1213420777322230]
@@ -35,11 +41,16 @@ Last updated: 2026-03-28 6:55 PM CST (full audit + untasked items review)
 
 ## WAITING — Blocked on someone else
 
-- T052: Reply to Sheldon Griffin (Aldi) — waiting on Matterport email, then send LOD + renderings. [asana: 1213756952199430] [waiting on: Matterport]
+- T052: Reply to Sheldon Griffin (Aldi) — waiting on Matterport fix (sent to corporate) + Cubikasa site plan (received at 18K SF). [asana: 1213756952199430] [waiting on: Matterport fix, Spencer response to site plan] [updated: 3/30 meeting]
 
 ## WATCHING — Monitor, not actionable yet
 
-(empty)
+- Jefferson's (Pell City) — sharp operator from Chicago, self-funding $500-750K build-out. Should have app today. [source: leasing meeting 3/30]
+- Crunch Fitness (McMinnville) — responded positively to co-tenancy growth, revisiting. [source: leasing meeting 3/30]
+- McMinnville monument sign — Clay sent bigger design, location debate (old spot vs highway). [source: leasing meeting 3/30]
+- McMinnville landscaping — need landscaper as spring comes, weeds at front of property. [source: leasing meeting 3/30]
+- Gastonia laundromat — lease sent, waiting on signature (~2 weeks). [source: leasing meeting 3/30]
+- ABC Russellville — waiting on signed lease. [source: leasing meeting 3/30]
 
 ## COMPLETED — Recent (auto-cleaned after 7 days)
 
@@ -76,8 +87,9 @@ Last updated: 2026-03-28 6:55 PM CST (full audit + untasked items review)
 - Anchor Command Center v2 — design decided 3/11, build TBD
 - Lumberjacks Golf — live at lumberjacks-golf.vercel.app
 - Buena Vista OM — designer (Yas/Fiverr) working on flyer — T027 marked done, check status
-- ICSC 2026 — meeting plan ready, scheduling active
+- ICSC 2026 — meeting plan ready, scheduling active. Vegas schedule packing underway.
 - Anchor Daily Dozen Trivia — v1 live at anchor-trivia.vercel.app
+- Leasing Associate hire — Robbie recruiting, Luke interview Wed 4/1. First candidate (golf girl) sharp but accent concern for phone-heavy role.
 
 ## Setup Backlog
 - Google Places API key → add to .env
@@ -96,3 +108,4 @@ Last updated: 2026-03-28 6:55 PM CST (full audit + untasked items review)
 - "Call slot" calendar events (e.g., "Jacob Delk - Call Slots (Name)") = leasing hire phone interviews booked through Jacob's scheduling link. Not tasks to flag.
 - Monday.com tenant expansion data (524 retailers) = data source for ICSC meeting setup + Malone small shop outreach.
 - Leasing prep doc: flag in Monday morning briefing for Jacob to review/tweak before 10:30 meeting.
+- Foster data integration: Yardi nightly backup folders being set up per 3/30 meeting. One-day lag on data. Foster value increases with live data.
