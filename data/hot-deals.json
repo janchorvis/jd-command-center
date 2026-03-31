@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T13:30:49.855955",
+  "lastUpdated": "2026-03-31T14:30:12.047851",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-03-31",
@@ -1519,6 +1519,16 @@
       "timeline": [
         {
           "date": "2026-03-31",
+          "event": "Email from Rafael from Sytes: Freddy's is now seeking sites",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-31",
+          "event": "Email from Stephanie Cegielski—Vice President of Public Relations & Industry Education: Airport Retail Expected to Surge by 2030 and Other Insights",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-31",
           "event": "Email from Joey Valenti: Hendo and Crossville",
           "type": "email"
         },
@@ -2748,6 +2758,11 @@
       "nextStep": "Jacob: call Ashby, voicemail, commit to Wednesday turnaround. Touch base with Prather.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-31",
+          "event": "Email from Samuel Oliver: Leadership & Philanthropy Dinner: Etiquette and Relationship Building Panel Tick",
+          "type": "email"
+        },
         {
           "date": "2026-03-31",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
@@ -5118,6 +5133,11 @@
       "timeline": [
         {
           "date": "2026-03-31",
+          "event": "Email from Samuel Oliver: Leadership & Philanthropy Dinner: Etiquette and Relationship Building Panel Tick",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-31",
           "event": "Email from Shelby Hall: HopeSmiles at 44V",
           "type": "email"
         },
@@ -5216,6 +5236,11 @@
       "priority": "low",
       "contacts": [],
       "timeline": [
+        {
+          "date": "2026-03-31",
+          "event": "Email from Rafael from Sytes: Freddy's is now seeking sites",
+          "type": "email"
+        },
         {
           "date": "2026-03-23",
           "event": "Meeting: Fireworks stands approved for multiple sites, June 25 - July 4",
@@ -5493,7 +5518,7 @@
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: Hendo and Crossville",
+      "lastAction": "Email from Rafael from Sytes: Freddy's is now seeking sites",
       "urgency": "low"
     },
     {
@@ -5549,7 +5574,7 @@
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Samuel Oliver: Leadership & Philanthropy Dinner: Etiquette and Relati",
       "urgency": "low"
     },
     {
@@ -5654,7 +5679,7 @@
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "lastAction": "Email from Samuel Oliver: Leadership & Philanthropy Dinner: Etiquette and Relati",
       "urgency": "low"
     }
   ],
