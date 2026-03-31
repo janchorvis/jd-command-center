@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T16:30:14.143856",
+  "lastUpdated": "2026-03-31T17:30:10.361700",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-03-31",
@@ -1801,6 +1801,11 @@
       "nextStep": "Call Ashby - leave voicemail, ask for turnaround by Wednesday. Touch base with Prather with updated timeline.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-31",
+          "event": "Email from Kaileigh Dunn: Lease Space",
+          "type": "email"
+        },
         {
           "date": "2026-03-31",
           "event": "Email from Stephen M.: Stephen M. opened brochure on McMinnville Plaza Shopping Center, TN",
@@ -4259,6 +4264,11 @@
       "timeline": [
         {
           "date": "2026-03-31",
+          "event": "Email from Kaileigh Dunn: Lease Space",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-31",
           "event": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our second prospective coffee of 2026 on April",
           "type": "email"
         },
@@ -5630,14 +5640,14 @@
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Stephen M.: Stephen M. opened brochure on McMinnville Plaza Shopping ",
+      "lastAction": "Email from Kaileigh Dunn: Lease Space",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Stephen M.: Stephen M. opened brochure on McMinnville Plaza Shopping ",
+      "lastAction": "Email from Kaileigh Dunn: Lease Space",
       "urgency": "low"
     },
     {
@@ -5742,21 +5752,21 @@
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our seco",
+      "lastAction": "Email from Kaileigh Dunn: Lease Space",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our seco",
+      "lastAction": "Email from Kaileigh Dunn: Lease Space",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our seco",
+      "lastAction": "Email from Kaileigh Dunn: Lease Space",
       "urgency": "low"
     },
     {
