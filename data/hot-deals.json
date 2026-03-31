@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T14:30:12.047851",
+  "lastUpdated": "2026-03-31T15:30:11.969690",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-03-31",
@@ -3428,6 +3428,11 @@
       "timeline": [
         {
           "date": "2026-03-31",
+          "event": "Email from Jacob Delk: A-Stock / Anchor",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-31",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
         },
@@ -3908,6 +3913,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-03-31",
+          "event": "Email from Jacob Delk: RFP- Hope Smiles - Cool Springs Commons",
+          "type": "email"
+        },
         {
           "date": "2026-03-31",
           "event": "Email from Shelby Hall: HopeSmiles at 44V",
@@ -5133,6 +5143,11 @@
       "timeline": [
         {
           "date": "2026-03-31",
+          "event": "Email from MyMMI: 2026 Self-Storage National Investment Outlook",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-31",
           "event": "Email from Samuel Oliver: Leadership & Philanthropy Dinner: Etiquette and Relationship Building Panel Tick",
           "type": "email"
         },
@@ -5602,35 +5617,35 @@
       "name": "Peter Adams",
       "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Jacob Delk: A-Stock / Anchor",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "lastAction": "Email from Jacob Delk: RFP- Hope Smiles - Cool Springs Commons",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "lastAction": "Email from Jacob Delk: RFP- Hope Smiles - Cool Springs Commons",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "lastAction": "Email from Jacob Delk: RFP- Hope Smiles - Cool Springs Commons",
       "urgency": "low"
     },
     {
       "name": "Dr. Phillip Kemp",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shelby Hall: HopeSmiles at 44V",
+      "lastAction": "Email from Jacob Delk: RFP- Hope Smiles - Cool Springs Commons",
       "urgency": "low"
     },
     {
@@ -5679,7 +5694,7 @@
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
       "daysSinceContact": 0,
-      "lastAction": "Email from Samuel Oliver: Leadership & Philanthropy Dinner: Etiquette and Relati",
+      "lastAction": "Email from MyMMI: 2026 Self-Storage National Investment Outlook",
       "urgency": "low"
     }
   ],
