@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T09:30:13.085195",
+  "lastUpdated": "2026-03-31T10:30:29.068357",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-03-31",
@@ -1484,6 +1484,11 @@
       "timeline": [
         {
           "date": "2026-03-31",
+          "event": "Email from Kyle Matthews: Q1 2026 Sales Review: Office, Retail, & Industrial",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-31",
           "event": "Email from Jon Cashion | Katz & Associates: Construction Starts at Miramar Cove",
           "type": "email"
         },
@@ -1731,6 +1736,11 @@
       "nextStep": "Call Ashby - leave voicemail, ask for turnaround by Wednesday. Touch base with Prather with updated timeline.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-31",
+          "event": "Email from Jeff Owen: What we haul out of commercial spaces",
+          "type": "email"
+        },
         {
           "date": "2026-03-31",
           "event": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
@@ -2678,6 +2688,11 @@
       "nextStep": "Jacob: call Ashby, voicemail, commit to Wednesday turnaround. Touch base with Prather.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-03-31",
+          "event": "Email from Julia Malcolmson: question",
+          "type": "email"
+        },
         {
           "date": "2026-03-31",
           "event": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
@@ -4019,6 +4034,11 @@
       "timeline": [
         {
           "date": "2026-03-31",
+          "event": "Email from NAIOP Nashville: NAIOP Nashville Newsletter- March 2026",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-31",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - James O'Sullivan",
           "type": "email"
         },
@@ -4453,6 +4473,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-03-31",
+          "event": "Email from NAIOP Nashville: NAIOP Nashville Newsletter- March 2026",
+          "type": "email"
+        },
         {
           "date": "2026-03-31",
           "event": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
@@ -4947,6 +4972,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-03-31",
+          "event": "Email from Haley Smith: A conversation with Jimmy Mellado, president of Compassion International",
+          "type": "email"
+        },
+        {
           "date": "2026-03-30",
           "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
           "type": "email"
@@ -5305,13 +5335,6 @@
       "urgency": "low"
     },
     {
-      "name": "Josh Levy",
-      "deal": "Live Nation — Emerson Hall",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
-      "urgency": "low"
-    },
-    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
@@ -5343,21 +5366,21 @@
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Cashion | Katz & Associates: Construction Starts at Miramar Cove",
+      "lastAction": "Email from Kyle Matthews: Q1 2026 Sales Review: Office, Retail, & Industrial",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
+      "lastAction": "Email from Jeff Owen: What we haul out of commercial spaces",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
+      "lastAction": "Email from Jeff Owen: What we haul out of commercial spaces",
       "urgency": "low"
     },
     {
@@ -5399,7 +5422,7 @@
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
+      "lastAction": "Email from Julia Malcolmson: question",
       "urgency": "low"
     },
     {
@@ -5434,42 +5457,49 @@
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - James O'Sullivan",
+      "lastAction": "Email from NAIOP Nashville: NAIOP Nashville Newsletter- March 2026",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - James O'Sullivan",
+      "lastAction": "Email from NAIOP Nashville: NAIOP Nashville Newsletter- March 2026",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - James O'Sullivan",
+      "lastAction": "Email from NAIOP Nashville: NAIOP Nashville Newsletter- March 2026",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
+      "lastAction": "Email from NAIOP Nashville: NAIOP Nashville Newsletter- March 2026",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
+      "lastAction": "Email from NAIOP Nashville: NAIOP Nashville Newsletter- March 2026",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
+      "lastAction": "Email from NAIOP Nashville: NAIOP Nashville Newsletter- March 2026",
+      "urgency": "low"
+    },
+    {
+      "name": "Josh Levy",
+      "deal": "Live Nation — Emerson Hall",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Haley Smith: A conversation with Jimmy Mellado, president of Compassi",
       "urgency": "low"
     }
   ],
