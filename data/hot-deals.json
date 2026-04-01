@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T13:31:56.548289",
+  "lastUpdated": "2026-04-01T14:31:42.075498",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-03-31",
@@ -3539,6 +3539,11 @@
       "priority": "medium",
       "contacts": [],
       "timeline": [
+        {
+          "date": "2026-04-01",
+          "event": "Email from Tom Gaghan: Roof Leaks",
+          "type": "email"
+        },
         {
           "date": "2026-04-01",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
