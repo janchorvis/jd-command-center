@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T12:31:47.642537",
+  "lastUpdated": "2026-04-01T13:31:56.548289",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-03-31",
@@ -79,6 +79,11 @@
       "nextStep": "Wait for REC meeting 4/22.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-01",
+          "event": "Email from Jacob Delk: Fwd: Malone Oreilly",
+          "type": "email"
+        },
         {
           "date": "2026-04-01",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
@@ -489,6 +494,11 @@
       "timeline": [
         {
           "date": "2026-04-01",
+          "event": "Email from Jacob Delk: Fwd: Malone Oreilly",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-01",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
         },
@@ -856,6 +866,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-01",
+          "event": "Email from Jacob Delk: Fwd: Malone Oreilly",
+          "type": "email"
+        },
         {
           "date": "2026-04-01",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
@@ -3174,6 +3189,11 @@
       "timeline": [
         {
           "date": "2026-04-01",
+          "event": "Email from Jacob Delk: Fwd: Malone Oreilly",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-01",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
         },
@@ -3832,6 +3852,11 @@
       "contacts": [],
       "timeline": [
         {
+          "date": "2026-04-01",
+          "event": "Email from Doris Porter: LoopNet Lead for Pell City Marketplace",
+          "type": "email"
+        },
+        {
           "date": "2026-03-30",
           "event": "Email from Jacob Delk: Pell City Marketplace",
           "type": "email"
@@ -4057,6 +4082,11 @@
       "nextStep": "Wait for tour feedback (touring today/tomorrow).",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-01",
+          "event": "Email from Doris Porter: LoopNet Lead for Pell City Marketplace",
+          "type": "email"
+        },
         {
           "date": "2026-03-30",
           "event": "Email from Jacob Delk: Pell City Marketplace",
@@ -5542,6 +5572,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-04-01",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Josh Bain",
+          "type": "email"
+        },
+        {
           "date": "2026-03-31",
           "event": "Email from MyMMI: 2026 Self-Storage National Investment Outlook",
           "type": "email"
@@ -5951,31 +5986,24 @@
       "urgency": "low"
     },
     {
-      "name": "Josh Levy",
-      "deal": "Live Nation — Emerson Hall",
-      "daysSinceContact": 1,
-      "lastAction": "Email from MyMMI: 2026 Self-Storage National Investment Outlook",
-      "urgency": "low"
-    },
-    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Jacob Delk: Fwd: Malone Oreilly",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Jacob Delk: Fwd: Malone Oreilly",
       "urgency": "low"
     },
     {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Jacob Delk: Fwd: Malone Oreilly",
       "urgency": "low"
     },
     {
@@ -6031,21 +6059,21 @@
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Jacob Delk: Fwd: Malone Oreilly",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Jacob Delk: Fwd: Malone Oreilly",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Jacob Delk: Fwd: Malone Oreilly",
       "urgency": "low"
     },
     {
@@ -6095,6 +6123,13 @@
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
       "lastAction": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
+      "urgency": "low"
+    },
+    {
+      "name": "Josh Levy",
+      "deal": "Live Nation — Emerson Hall",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Josh Bain",
       "urgency": "low"
     }
   ],
