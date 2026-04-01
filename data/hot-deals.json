@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T15:32:12.259223",
+  "lastUpdated": "2026-04-01T16:31:24.344774",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-03-31",
@@ -1624,6 +1624,11 @@
       "timeline": [
         {
           "date": "2026-04-01",
+          "event": "Email from Emily Schneller: Sevierville",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-01",
           "event": "Email from Joey Valenti: FW: [EXTERNAL] - FW: 235 E Main St, 1st Floor, Hendersonville, TN 37075, United ",
           "type": "email"
         },
@@ -2320,6 +2325,11 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-04-01",
+          "event": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
+          "type": "email"
+        },
+        {
           "date": "2026-03-31",
           "event": "Email from Google Cloud: Only 3% of companies report being ‘highly transformed’ by AI",
           "type": "email"
@@ -2459,6 +2469,11 @@
       "nextStep": "Get Clay's whitebox number, respond to LOI. Kevin confirmed UPS + Wingstop same side.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-01",
+          "event": "Email from Jacob Delk: McMinnville, TN",
+          "type": "email"
+        },
         {
           "date": "2026-04-01",
           "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
@@ -2805,6 +2820,11 @@
       "timeline": [
         {
           "date": "2026-04-01",
+          "event": "Email from Jacob Delk: McMinnville, TN",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-01",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
         },
@@ -2958,6 +2978,11 @@
       "nextStep": "Jacob: call Ashby, voicemail, commit to Wednesday turnaround. Touch base with Prather.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-01",
+          "event": "Email from Jacob Delk: McMinnville, TN",
+          "type": "email"
+        },
         {
           "date": "2026-04-01",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
@@ -3541,6 +3566,11 @@
       "timeline": [
         {
           "date": "2026-04-01",
+          "event": "Email from Jacob Delk: McMinnville, TN",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-01",
           "event": "Email from Tom Gaghan: Roof Leaks",
           "type": "email"
         },
@@ -3716,6 +3746,11 @@
         "Peter Adams (Treverse LLC dba A-Stock)"
       ],
       "timeline": [
+        {
+          "date": "2026-04-01",
+          "event": "Email from Jacob Delk: McMinnville, TN",
+          "type": "email"
+        },
         {
           "date": "2026-04-01",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
@@ -3937,6 +3972,11 @@
       "timeline": [
         {
           "date": "2026-04-01",
+          "event": "Email from Jacob Delk: McMinnville, TN",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-01",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
         },
@@ -4123,6 +4163,11 @@
       "timeline": [
         {
           "date": "2026-04-01",
+          "event": "Email from Jacob Delk: McMinnville, TN",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-01",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
         },
@@ -4177,6 +4222,11 @@
       "timeline": [
         {
           "date": "2026-04-01",
+          "event": "Email from Jacob Delk: McMinnville, TN",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-01",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
         },
@@ -4229,6 +4279,11 @@
       "nextStep": "Monitor. Positive response but demographics/density concern remains.",
       "priority": "low",
       "timeline": [
+        {
+          "date": "2026-04-01",
+          "event": "Email from Jacob Delk: McMinnville, TN",
+          "type": "email"
+        },
         {
           "date": "2026-04-01",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
@@ -5949,20 +6004,6 @@
       "urgency": "low"
     },
     {
-      "name": "Nhung Pham",
-      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Google Cloud: Only 3% of companies report being ‘highly transformed’ ",
-      "urgency": "low"
-    },
-    {
-      "name": "Dwaine High",
-      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Google Cloud: Only 3% of companies report being ‘highly transformed’ ",
-      "urgency": "low"
-    },
-    {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 1,
@@ -6015,7 +6056,7 @@
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - FW: 235 E Main St, 1st Floor, Henderso",
+      "lastAction": "Email from Emily Schneller: Sevierville",
       "urgency": "low"
     },
     {
@@ -6033,31 +6074,45 @@
       "urgency": "low"
     },
     {
+      "name": "Nhung Pham",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
+      "urgency": "low"
+    },
+    {
+      "name": "Dwaine High",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
+      "urgency": "low"
+    },
+    {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+      "lastAction": "Email from Jacob Delk: McMinnville, TN",
       "urgency": "low"
     },
     {
       "name": "Kevin True",
       "deal": "Wingstop — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Jacob Delk: McMinnville, TN",
       "urgency": "low"
     },
     {
       "name": "Bell",
       "deal": "Wingstop — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Jacob Delk: McMinnville, TN",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Jacob Delk: McMinnville, TN",
       "urgency": "low"
     },
     {
@@ -6085,7 +6140,7 @@
       "name": "Peter Adams",
       "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Jacob Delk: McMinnville, TN",
       "urgency": "low"
     },
     {
