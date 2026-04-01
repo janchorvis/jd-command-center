@@ -2452,9 +2452,9 @@
       ],
       "rentComps": {
         "property": "Montgomery",
-        "avgRate": 14.0,
-        "minRate": 14.0,
-        "maxRate": 14.0,
+        "avgRate": 14,
+        "minRate": 14,
+        "maxRate": 14,
         "avgSqFt": 4405,
         "suiteCount": 19,
         "vacantCount": 0
@@ -22359,8 +22359,10 @@
         "id": "sweep-plate-1",
         "text": "Call Ashby re Emerson lease — needs turnaround by Wed, parking exhibit added",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-04-01T21:36:01.268Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-2",
