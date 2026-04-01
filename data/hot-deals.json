@@ -22382,8 +22382,10 @@
         "id": "sweep-plate-4",
         "text": "Call Shoe Dept broker (Malone)",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-04-01T21:36:04.929Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-5",
