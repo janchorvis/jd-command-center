@@ -69,15 +69,6 @@ Last updated: 2026-03-30 2:05 PM CST (post-leasing meeting update)
 - T055: Call Bell re: Wingstop McMinnville LOI [completed: 2026-03-26, sweep]
 - T047: Review HopeSmiles (44V) landlord counter [completed: 2026-03-26, sweep]
 - T042: Call Derek Tucker — Anytime Fitness LOI [completed: 2026-03-26, sweep]
-- T049: NCAA bracket [completed: 2026-03-19]
-- T020: Launch junior leasing hire posting [completed: 2026-03-17]
-
-### Killed/Merged
-- T046: Email triage replies (Kate Yoon, Micah Memphis) [killed: 2026-03-28, audit]
-- T016: Parker/Buena Vista sign → merged into T079 [merged: 2026-03-28]
-- T018: Five Below work letter → merged into T080 [merged: 2026-03-28]
-- T038: Send Micah Five Below LOI redline comparison [killed: 2026-03-23]
-- T044: Call Parker [killed: 2026-03-24]
 
 ### This Month
 - T053: Pipedrive Sunset — migrate lead capture to command center, remove Pipedrive dependencies, cancel by end of April. [source: leasing channel 3/22] [project: memory/projects/pipedrive-sunset.md]

@@ -1,54 +1,54 @@
 {
-  "lastUpdated": "2026-04-01T17:30:20.359769",
+  "lastUpdated": "2026-04-02T07:15:30.203906",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
-    "date": "2026-03-31",
-    "greeting": "Good morning, Jacob. You have 10 overdue items.",
+    "date": "2026-04-02",
+    "greeting": "Good morning, Jacob. You have 12 overdue items.",
     "meetings": [
       {
-        "time": "12:00 AM",
-        "title": "Hannah Hart Anniversary",
+        "time": "6:00 AM",
+        "title": "Carter Bible Study Green Hills Mall",
         "dealContext": null
       },
       {
-        "time": "7:30 AM",
-        "title": "Hermes Setup (Mac Mini)",
-        "dealContext": null
-      },
-      {
-        "time": "8:00 AM",
-        "title": "L10 To-Dos: Lease Template + Milestone Plans",
-        "dealContext": "Week scorecard: 3 deals advanced. 23 completed. 3 stalled/dropped. 12 high-priority deals active."
-      },
-      {
-        "time": "8:30 AM",
-        "title": "Rock/Scorecard/Occupancy + New Lease Checklists",
-        "dealContext": null
-      },
-      {
-        "time": "9:00 AM",
-        "title": "Commercial L10 Meeting",
-        "dealContext": "Week scorecard: 3 deals advanced. 23 completed. 3 stalled/dropped. 12 high-priority deals active."
-      },
-      {
-        "time": "10:00 AM",
-        "title": "Call Brian Drobnick back",
-        "dealContext": null
-      },
-      {
-        "time": "10:15 AM",
-        "title": "Review Marshalls email from Melissa",
+        "time": "7:45 AM",
+        "title": "[BLOCKED] Call Ashby re Emerson lease",
         "dealContext": "Stage: LOI | Waiting on Ashby (attorney) for lease review. Jacob added parking exhibit. Prath… | Next: Call Ashby - leave voicemail, ask for turnaround by Wednesday. Touch base with Prather with updated timeline."
       },
       {
-        "time": "10:30 AM",
-        "title": "Five Below workletter",
+        "time": "8:15 AM",
+        "title": "[BLOCKED] Redline Great Greek LOI",
+        "dealContext": null
+      },
+      {
+        "time": "8:45 AM",
+        "title": "[BLOCKED] Redline Five Below work letter",
         "dealContext": "Stage: LOI | LOI signed 3/17. REC meeting 4/22. Vegas meeting booked. | Next: Wait for REC meeting 4/22."
       },
       {
-        "time": "11:00 AM",
-        "title": "Review Hamilton REA",
+        "time": "9:30 AM",
+        "title": "Cori appt",
         "dealContext": null
+      },
+      {
+        "time": "10:00 AM",
+        "title": "[BLOCKED] PCON feedback form (Jack Beachboard)",
+        "dealContext": null
+      },
+      {
+        "time": "10:30 AM",
+        "title": "[BLOCKED] Review Hamilton REA",
+        "dealContext": null
+      },
+      {
+        "time": "11:00 AM",
+        "title": "Google Workspace sync ",
+        "dealContext": "Stage: LOI | Waiting on Ashby (attorney) for lease review. Jacob added parking exhibit. Prath… | Next: Call Ashby - leave voicemail, ask for turnaround by Wednesday. Touch base with Prather with updated timeline."
+      },
+      {
+        "time": "1:00 PM",
+        "title": "[BLOCKED] Invite people to PCON event (4/4)",
+        "dealContext": "Stage: Trading Terms | Lease draft sent to Ashby, awaiting review. Prather pressing for update. | Next: Jacob: call Ashby, voicemail, commit to Wednesday turnaround. Touch base with Prather."
       }
     ],
     "priorities": [
@@ -58,15 +58,8 @@
       "Make flyer for mattresses listing (overdue — due 2026-03-23)",
       "put mattresses on the market (overdue — due 2026-03-23)",
       "Schedule lunch w mailto:ctaylor@realsitecommerical.com (overdue — due 2026-03-23)",
-      "Call Elliot Kyle about Emerson Hall/Fat bottom (overdue — due 2026-03-23)",
-      "Add teeth to the default sections for Grease.  (overdue — due 2026-03-23)",
-      "Call Ashby re Emerson lease - turnaround by Wednesday",
-      "Tell Brian: Big Lots box pricing this week (Evansville)",
-      "Push Cosmoprof firm terms on Shelbyville",
-      "Call Shoe Dept broker (Malone)",
-      "Great Greek LOI review at 12:30",
-      "Kevin Trujio - Wingstop + Sevierville at 1:00",
-      "ICSC meeting setup at 3:00"
+      "See when Dallas could meet with carter (overdue — due 2026-03-31)",
+      "Call Elliot Kyle about Emerson Hall/Fat bottom (overdue — due 2026-03-23)"
     ]
   },
   "pipelineDeals": [
@@ -22502,163 +22495,195 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-03-31T07:32:20",
-    "source": "morning-briefing",
+    "generatedAt": "2026-04-02T07:15:30",
+    "source": "active-tasks",
     "yourPlate": [
       {
         "id": "sweep-plate-1",
-        "text": "Call Ashby re Emerson lease — needs turnaround by Wed, parking exhibit added",
+        "text": "PCON feedback form for Jack Beachboard — prospective member, submit via HubSpot link in email (3/12). Was due 3/17 (OVERDUE — 13 days late)",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-2",
-        "text": "Tell Brian: Big Lots box pricing this week (Evansville, ~$75/ft)",
+        "text": "Five Below (Malone Plaza) — LOI signed and returned 3/17. REC meeting 4/22. Facade renderings requested from Shaun (architect). Waiting on Shaun",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-3",
-        "text": "Push Cosmoprof with firm terms on Shelbyville — no TI",
+        "text": "Send Micah calendar invite for PCON dinner — April 22, host committee",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-4",
-        "text": "Call Shoe Dept broker (Malone)",
+        "text": "PCON sponsorships — secure sponsors for upcoming event",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-5",
-        "text": "Get Micah to talk to Dr. Kemp",
+        "text": "Invite people to next Friday (4/4) PCON event",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-6",
-        "text": "Send Micah PCON dinner invite (April 22)",
+        "text": "Talk to Carter about Thursday mornings",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-7",
-        "text": "Harrison Trampoline LOI (Asana, due today)",
+        "text": "Send Malone flyer to small shop tenants",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-8",
-        "text": "See when Dallas can meet Carter (Asana, due today)",
+        "text": "Finish Malone flyer",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-9",
+        "text": "Setup ICSC meetings — Evansville and Shelbyville",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-10",
+        "text": "Review Hamilton REA",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-11",
+        "text": "Review Marshalls Malone materials",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-12",
+        "text": "Respond to Sevierville",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-13",
+        "text": "Redline UPS LOI",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-14",
+        "text": "Wingstop LOI",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-15",
+        "text": "Redline Great Greek LOI",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-16",
+        "text": "Get Micah to talk to Dr. Kemp — Jacob saw him at church, will follow up",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-17",
+        "text": "Blast out Buena Vista listings",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-18",
+        "text": "Work with Parker to get sign for Buena Vista",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-19",
+        "text": "Redline Five Below work letter",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-20",
+        "text": "Set up Melissa Drish laptop (ThinkBook 16 Gen 8) — arriving ~3/29, must be ready before April 6 start date",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-21",
+        "text": "Call Ashby re: Emerson lease — leave voicemail, get turnaround by Wednesday. Added parking exhibit",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-22",
+        "text": "Tell Brian to get Big Lots box pricing this week (Evansville Easter Seals/GCS) — pitch at ~$75/ft",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-23",
+        "text": "Push Cosmoprof with firm terms on Shelbyville — no TI, state what we will/won't do, don't lose interest",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-24",
+        "text": "Send Royal Furniture Cubikasa site plan (18K SF) to Spencer/Aldi — ask if they can squeeze or build addition",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-25",
+        "text": "Call Shoe Dept broker",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-26",
+        "text": "Pack ICSC Vegas schedule — email Jeff, set up Tony/Starbucks, Seven Brews/Dutch Bros, Pedal (Nick), Burlington (Chris Keller), America's Thrift",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
       }
     ],
-    "prepping": [
-      {
-        "id": "sweep-prep-1",
-        "text": "Buena Vista listings blast — drafting outreach emails (incl. Brian Drobnick/NRP)",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-2",
-        "text": "PCON event invites (4/4) — pulling invite list, due 4/3",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-3",
-        "text": "PCON feedback forms — Jack Beachboard (13d overdue), Jake DeFrance (4d overdue), Griffin Hodge (due 4/2)",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-4",
-        "text": "Loper bachelor party + wedding — researching flights/hotels",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-5",
-        "text": "Melissa Drish laptop setup — checklist for ThinkBook 16 Gen 8",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      }
-    ],
-    "handling": [
-      {
-        "id": "sweep-handle-1",
-        "text": "Asana cleanup — re-dating 7 overdue tasks to 4/7",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-handle-2",
-        "text": "Command center intel push + dashboard refresh",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      }
-    ],
-    "deferred": [
-      {
-        "id": "sweep-defer-1",
-        "text": "- Aldi/Sheldon Griffin — waiting on Matterport + Spencer",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-defer-2",
-        "text": "- Five Below Malone — waiting on Shaun renderings, REC 4/22",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-defer-3",
-        "text": "- Runnings — exclusive with Ashby, future",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-defer-4",
-        "text": "- Malone flyer to shops — waiting on flyer completion",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-defer-5",
-        "text": "- PCON sponsorships — no deadline",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-defer-6",
-        "text": "- Watching: Jefferson's, Crunch Fitness, Gastonia, ABC Russellville",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      }
-    ]
+    "prepping": [],
+    "handling": [],
+    "deferred": []
   },
   "prepDocDiff": {
     "generatedAt": "2026-03-27T15:03:41.323922",
@@ -23062,35 +23087,35 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-03-31T07:32:20",
-    "source": "morning-briefing",
+    "generatedAt": "2026-04-02T07:15:30",
+    "source": "active-tasks",
     "items": [
       {
         "id": "focus-plate-1",
-        "dealName": "Call Ashby re Emerson lease",
+        "dealName": "PCON feedback form for Jack Beachboard",
         "property": null,
-        "action": "needs turnaround by Wed, parking exhibit added",
-        "why": "#1 on your plate today.",
+        "action": "prospective member, submit via HubSpot link in email (3/12). Was due 3/17 (OVERDUE — 13 days late)",
+        "why": "Top of your active task list this week.",
         "urgency": "high",
-        "type": "briefing"
+        "type": "task"
       },
       {
         "id": "focus-plate-2",
-        "dealName": "Tell Brian: Big Lots box pricing this week (Evansville, ~$75",
+        "dealName": "Five Below (Malone Plaza)",
         "property": null,
-        "action": "Tell Brian: Big Lots box pricing this week (Evansville, ~$75/ft)",
-        "why": "#2 on your plate today.",
+        "action": "LOI signed and returned 3/17. REC meeting 4/22. Facade renderings requested from Shaun (architect). Waiting on Shaun",
+        "why": "Top of your active task list this week.",
         "urgency": "high",
-        "type": "briefing"
+        "type": "task"
       },
       {
         "id": "focus-plate-3",
-        "dealName": "Push Cosmoprof with firm terms on Shelbyville",
+        "dealName": "Send Micah calendar invite for PCON dinner",
         "property": null,
-        "action": "no TI",
-        "why": "#3 on your plate today.",
+        "action": "April 22, host committee",
+        "why": "Top of your active task list this week.",
         "urgency": "medium",
-        "type": "briefing"
+        "type": "task"
       }
     ]
   }
