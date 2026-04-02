@@ -22359,65 +22359,68 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-03-31T07:32:20",
+    "generatedAt": "2026-04-02T07:36:16",
     "source": "morning-briefing",
     "yourPlate": [
       {
         "id": "sweep-plate-1",
-        "text": "Call Ashby re Emerson lease — needs turnaround by Wed, parking exhibit added",
+        "text": "Call Ashby re Emerson lease - get turnaround commitment (time-blocked 7:45 AM)",
         "detail": "",
-        "completed": true,
-        "source": "morning-briefing",
-        "completedAt": "2026-04-01T21:36:01.268Z",
-        "completedBy": "manual"
+        "completed": false,
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-2",
-        "text": "Tell Brian: Big Lots box pricing this week (Evansville, ~$75/ft)",
+        "text": "Redline Great Greek LOI - math doesn't work at $24-25 vs $28 ask (8:15 AM)",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-3",
-        "text": "Push Cosmoprof with firm terms on Shelbyville — no TI",
+        "text": "Redline Five Below work letter (8:45 AM)",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-4",
-        "text": "Call Shoe Dept broker (Malone)",
+        "text": "PCON feedback: Griffin Hodge - DUE TODAY",
         "detail": "",
-        "completed": true,
-        "source": "morning-briefing",
-        "completedAt": "2026-04-01T21:36:04.929Z",
-        "completedBy": "manual"
+        "completed": false,
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-5",
-        "text": "Get Micah to talk to Dr. Kemp",
+        "text": "Talk to Carter about Thursday mornings - you're at Bible study this AM",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-6",
-        "text": "Send Micah PCON dinner invite (April 22)",
+        "text": "Tell Brian Big Lots box pricing this week (Evansville ~$75/ft)",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-7",
-        "text": "Harrison Trampoline LOI (Asana, due today)",
+        "text": "Push Cosmoprof firm terms Shelbyville - no TI",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-8",
-        "text": "See when Dallas can meet Carter (Asana, due today)",
+        "text": "Call Shoe Dept broker (Malone)",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-9",
+        "text": "Redline UPS LOI",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
@@ -22426,35 +22429,49 @@
     "prepping": [
       {
         "id": "sweep-prep-1",
-        "text": "Buena Vista listings blast — drafting outreach emails (incl. Brian Drobnick/NRP)",
+        "text": "PCON event invites (4/4) - DUE TOMORROW, pulling invite list + drafts",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-prep-2",
-        "text": "PCON event invites (4/4) — pulling invite list, due 4/3",
+        "text": "Buena Vista listings blast - drafting outreach incl. Drobnick/NRP",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-prep-3",
-        "text": "PCON feedback forms — Jack Beachboard (13d overdue), Jake DeFrance (4d overdue), Griffin Hodge (due 4/2)",
+        "text": "ICSC Vegas schedule - drafting Jeff email + contact setup",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-prep-4",
-        "text": "Loper bachelor party + wedding — researching flights/hotels",
+        "text": "Wingstop LOI framework",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-prep-5",
-        "text": "Melissa Drish laptop setup — checklist for ThinkBook 16 Gen 8",
+        "text": "Royal Furniture site plan to Spencer/Aldi",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-6",
+        "text": "Melissa Drish laptop setup checklist (due 4/5)",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-7",
+        "text": "Loper flights + hotels research",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
@@ -22463,13 +22480,20 @@
     "handling": [
       {
         "id": "sweep-handle-1",
-        "text": "Asana cleanup — re-dating 7 overdue tasks to 4/7",
+        "text": "PCON feedback reminders (Beachboard + DeFrance - both overdue since 3/27)",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-handle-2",
+        "text": "Asana overdue cleanup (6+ stale tasks need re-dating)",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-handle-3",
         "text": "Command center intel push + dashboard refresh",
         "detail": "",
         "completed": false,
@@ -22479,42 +22503,7 @@
     "deferred": [
       {
         "id": "sweep-defer-1",
-        "text": "- Aldi/Sheldon Griffin — waiting on Matterport + Spencer",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-defer-2",
-        "text": "- Five Below Malone — waiting on Shaun renderings, REC 4/22",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-defer-3",
-        "text": "- Runnings — exclusive with Ashby, future",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-defer-4",
-        "text": "- Malone flyer to shops — waiting on flyer completion",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-defer-5",
-        "text": "- PCON sponsorships — no deadline",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-defer-6",
-        "text": "- Watching: Jefferson's, Crunch Fitness, Gastonia, ABC Russellville",
+        "text": "Aldi/Griffin (Matterport), Five Below Malone (renderings), Malone flyer (blocked), PCON sponsorships (no deadline), BV sign (Parker), Hamilton REA/Marshalls (rolling), Sevierville (no urgency), watching list (4 deals)",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
@@ -22923,32 +22912,32 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-03-31T07:32:20",
+    "generatedAt": "2026-04-02T07:36:16",
     "source": "morning-briefing",
     "items": [
       {
         "id": "focus-plate-1",
-        "dealName": "Call Ashby re Emerson lease",
+        "dealName": "Call Ashby re Emerson lease - get turnaround commitment (tim",
         "property": null,
-        "action": "needs turnaround by Wed, parking exhibit added",
+        "action": "Call Ashby re Emerson lease - get turnaround commitment (time-blocked 7:45 AM)",
         "why": "#1 on your plate today.",
         "urgency": "high",
         "type": "briefing"
       },
       {
         "id": "focus-plate-2",
-        "dealName": "Tell Brian: Big Lots box pricing this week (Evansville, ~$75",
+        "dealName": "Redline Great Greek LOI - math doesn't work at $24-25 vs $28",
         "property": null,
-        "action": "Tell Brian: Big Lots box pricing this week (Evansville, ~$75/ft)",
+        "action": "Redline Great Greek LOI - math doesn't work at $24-25 vs $28 ask (8:15 AM)",
         "why": "#2 on your plate today.",
         "urgency": "high",
         "type": "briefing"
       },
       {
         "id": "focus-plate-3",
-        "dealName": "Push Cosmoprof with firm terms on Shelbyville",
+        "dealName": "Redline Five Below work letter (8:45 AM)",
         "property": null,
-        "action": "no TI",
+        "action": "Redline Five Below work letter (8:45 AM)",
         "why": "#3 on your plate today.",
         "urgency": "medium",
         "type": "briefing"
