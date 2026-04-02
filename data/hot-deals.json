@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T13:31:34.271449",
+  "lastUpdated": "2026-04-02T14:32:40.597668",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-03-31",
@@ -86,6 +86,11 @@
       "nextStep": "Wait for REC meeting 4/22.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-02",
+          "event": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, April 2, 2026",
+          "type": "email"
+        },
         {
           "date": "2026-04-02",
           "event": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
@@ -526,6 +531,11 @@
       "timeline": [
         {
           "date": "2026-04-02",
+          "event": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, April 2, 2026",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-02",
           "event": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
           "type": "email"
         },
@@ -923,6 +933,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-02",
+          "event": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, April 2, 2026",
+          "type": "email"
+        },
         {
           "date": "2026-04-02",
           "event": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
@@ -3406,6 +3421,11 @@
       "timeline": [
         {
           "date": "2026-04-02",
+          "event": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, April 2, 2026",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-02",
           "event": "Email from Melissa Eddy: Jr Leasing Interview Timeslots",
           "type": "email"
         },
@@ -4966,6 +4986,11 @@
       "timeline": [
         {
           "date": "2026-04-02",
+          "event": "Email from Nashville Business Journal: For Members Only: What's Next for Business Travel?",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-02",
           "event": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
           "type": "email"
         },
@@ -5455,6 +5480,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-04-02",
+          "event": "Email from Nashville Business Journal: For Members Only: What's Next for Business Travel?",
+          "type": "email"
+        },
         {
           "date": "2026-04-02",
           "event": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
@@ -6425,21 +6455,21 @@
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
+      "lastAction": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, Ap",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
+      "lastAction": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, Ap",
       "urgency": "low"
     },
     {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
+      "lastAction": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, Ap",
       "urgency": "low"
     },
     {
@@ -6516,21 +6546,21 @@
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Melissa Eddy: Jr Leasing Interview Timeslots",
+      "lastAction": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, Ap",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Melissa Eddy: Jr Leasing Interview Timeslots",
+      "lastAction": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, Ap",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Melissa Eddy: Jr Leasing Interview Timeslots",
+      "lastAction": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, Ap",
       "urgency": "low"
     },
     {
@@ -6544,42 +6574,42 @@
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
+      "lastAction": "Email from Nashville Business Journal: For Members Only: What's Next for Busines",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
+      "lastAction": "Email from Nashville Business Journal: For Members Only: What's Next for Busines",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
+      "lastAction": "Email from Nashville Business Journal: For Members Only: What's Next for Busines",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
+      "lastAction": "Email from Nashville Business Journal: For Members Only: What's Next for Busines",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
+      "lastAction": "Email from Nashville Business Journal: For Members Only: What's Next for Busines",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
+      "lastAction": "Email from Nashville Business Journal: For Members Only: What's Next for Busines",
       "urgency": "low"
     },
     {
