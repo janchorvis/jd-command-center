@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T11:31:09.748652",
+  "lastUpdated": "2026-04-02T12:33:00.550008",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-03-31",
@@ -1710,6 +1710,11 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-04-02",
+          "event": "Email from Melissa Eddy: Jr Leasing Interview Timeslots",
+          "type": "email"
+        },
+        {
           "date": "2026-04-01",
           "event": "Email from Alea Wilson: LoopNet Lead for Russellville Franklin Center",
           "type": "email"
@@ -3394,6 +3399,11 @@
       "nextStep": "Waiting on Melissa Eddy (Asana due 3/20) - reaching out to Ashby re: Memo of Exclusive + Declarant estoppel.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-02",
+          "event": "Email from Melissa Eddy: Jr Leasing Interview Timeslots",
+          "type": "email"
+        },
         {
           "date": "2026-04-02",
           "event": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
@@ -6379,13 +6389,6 @@
       "urgency": "low"
     },
     {
-      "name": "Melissa Eddy",
-      "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Alea Wilson: LoopNet Lead for Russellville Franklin Center",
-      "urgency": "low"
-    },
-    {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 1,
@@ -6439,6 +6442,13 @@
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
       "daysSinceContact": 0,
       "lastAction": "Email from Jeb Thompson via Docusign: JACKSON TN HICKORY VILLAGE ANCHOR- 2026 Le",
+      "urgency": "low"
+    },
+    {
+      "name": "Melissa Eddy",
+      "deal": "ABC Retail — Russellville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Melissa Eddy: Jr Leasing Interview Timeslots",
       "urgency": "low"
     },
     {
@@ -6501,21 +6511,21 @@
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
+      "lastAction": "Email from Melissa Eddy: Jr Leasing Interview Timeslots",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
+      "lastAction": "Email from Melissa Eddy: Jr Leasing Interview Timeslots",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
+      "lastAction": "Email from Melissa Eddy: Jr Leasing Interview Timeslots",
       "urgency": "low"
     },
     {
