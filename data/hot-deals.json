@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-04-03T15:02:50.341500",
+  "lastUpdated": "2026-04-03T15:03:11.279413",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-04-03",
-    "greeting": "Good morning, Jacob. You have 13 overdue items.",
+    "greeting": "Good afternoon, Jacob. You have 13 overdue items.",
     "meetings": [
       {
         "time": "12:00 AM",
@@ -44,16 +44,7 @@
       "Make flyer for mattresses listing (overdue — due 2026-03-23)",
       "put mattresses on the market (overdue — due 2026-03-23)",
       "Schedule lunch w mailto:ctaylor@realsitecommerical.com (overdue — due 2026-03-23)",
-      "See when Dallas could meet with carter (overdue — due 2026-03-31)",
-      "PCON event invites due today (event 4/4)",
-      "Melissa Drish laptop setup due 4/5 (starts Monday)",
-      "Weekly report due by noon",
-      "LOI redlines queued for next week: UPS, Wingstop, Great Greek, Five Below",
-      {
-        "description": "Ollie's ICSC Vegas meeting confirmed: Wed 9 AM, Booth 340 W Street South Hall. Send confirmation reply to Jeff Powers.",
-        "priority": "high",
-        "assignee": "Jacob"
-      }
+      "See when Dallas could meet with carter (overdue — due 2026-03-31)"
     ]
   },
   "pipelineDeals": [
@@ -22999,7 +22990,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-04-03T07:33:54",
+    "generatedAt": "2026-04-03T15:03:11",
     "source": "morning-briefing",
     "yourPlate": [
       {
@@ -23559,7 +23550,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-04-03T07:33:54",
+    "generatedAt": "2026-04-03T15:03:11",
     "source": "morning-briefing",
     "items": [
       {
