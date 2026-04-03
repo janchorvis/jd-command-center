@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T13:02:17.526639",
+  "lastUpdated": "2026-04-03T13:30:19.206286",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-04-03",
@@ -3255,6 +3255,11 @@
       "nextStep": "Jacob: call Ashby, voicemail, commit to Wednesday turnaround. Touch base with Prather.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-03",
+          "event": "Email from NAIOP: NAIOP Source: Events in CRE",
+          "type": "email"
+        },
         {
           "date": "2026-04-03",
           "event": "Email from Carson Knight: Fwd: Backyard Butchers Partnership Event Opportunity Request",
@@ -6733,7 +6738,7 @@
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson Knight: Fwd: Backyard Butchers Partnership Event Opportunity R",
+      "lastAction": "Email from NAIOP: NAIOP Source: Events in CRE",
       "urgency": "low"
     },
     {
