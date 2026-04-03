@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T16:32:00.877196",
+  "lastUpdated": "2026-04-03T17:04:11.267273",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-04-03",
@@ -4857,6 +4857,26 @@
         "suiteCount": 45,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "gilded-spine-maple-row",
+      "name": "Gilded Spine (Storybook Soirees LLC)",
+      "property": "235 E Main St, Hendersonville (Maple Row)",
+      "status": "Lease application received from Hillary Holmes via Jotform.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob to review application + financials and respond with lease terms/next steps.",
+      "priority": "high",
+      "contacts": [
+        "Hillary Holmes – gildedspinebooks@gmail.com, (414) 607-2197"
+      ],
+      "timeline": [
+        {
+          "date": "2026-04-03",
+          "event": "Email: Lease application submitted for 235 E Main St (bookstore + wine bar).",
+          "type": "email"
+        }
+      ],
+      "actions": []
     }
   ],
   "sideDeals": [
