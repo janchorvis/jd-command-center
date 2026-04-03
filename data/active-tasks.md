@@ -1,13 +1,13 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-03-30 2:05 PM CST (post-leasing meeting update)
+Last updated: 2026-04-02 6:01 PM CST (self-review)
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T090 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T092 -->
 
 ## ACTIVE — Jacob needs to do these
 
 ### This Week (week of 3/30)
-- T050: PCON feedback form for Jack Beachboard — prospective member, submit via HubSpot link in email (3/12). Was due 3/17 (OVERDUE — 13 days late). [asana: 1213659300550136]
+- T050: PCON feedback form for Jack Beachboard — prospective member, submit via HubSpot link in email (3/12). Was due 3/17 (OVERDUE — 16 days late). [asana: 1213659300550136]
 - T051: Five Below (Malone Plaza) — LOI signed and returned 3/17. REC meeting 4/22. Facade renderings requested from Shaun (architect). Waiting on Shaun. [source: email 3/17, updated 3/22]
 - T060: Send Micah calendar invite for PCON dinner — April 22, host committee. [source: leasing meeting 3/23]
 - T065: PCON sponsorships — secure sponsors for upcoming event [asana: 1213840904488698]
@@ -33,6 +33,8 @@ Last updated: 2026-03-30 2:05 PM CST (post-leasing meeting update)
 - T087: Send Royal Furniture Cubikasa site plan (18K SF) to Spencer/Aldi — ask if they can squeeze or build addition [source: leasing meeting 3/30] [deal: McMinnville]
 - T088: Call Shoe Dept broker [source: leasing meeting 3/30] [deal: Malone]
 - T089: Pack ICSC Vegas schedule — email Jeff, set up Tony/Starbucks, Seven Brews/Dutch Bros, Pedal (Nick), Burlington (Chris Keller), America's Thrift [source: leasing meeting 3/30] [updates T070]
+- T090: Concur expense report — confirm default Property + preferred Business Purpose wording for corporate/software expenses (blocker for coding 18 expenses). [source: 4/2 Concur coding]
+- T091: Screenshot Canva and Perenn receipts from email (no PDFs) for Concur. [Jarvis]
 
 ### Next Week+
 - T019: Reach out to Runnings — exclusive with Ashby [source: brain-dump 3/6] [asana: 1213420777322230]
