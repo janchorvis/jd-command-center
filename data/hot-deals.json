@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T17:04:11.267273",
+  "lastUpdated": "2026-04-03T17:31:40.081200",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-04-03",
@@ -4872,6 +4872,21 @@
       "timeline": [
         {
           "date": "2026-04-03",
+          "event": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-03",
+          "event": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-03",
+          "event": "Email from Hillary Holmes: Re: Lease Application - Hillary Holmes",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-03",
           "event": "Email: Lease application submitted for 235 E Main St (bookstore + wine bar).",
           "type": "email"
         }
@@ -6778,6 +6793,13 @@
       "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
       "daysSinceContact": 0,
       "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "urgency": "low"
+    },
+    {
+      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
+      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
       "urgency": "low"
     },
     {
