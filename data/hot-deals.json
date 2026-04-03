@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T09:31:36.528597",
+  "lastUpdated": "2026-04-03T10:30:18.540760",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-04-03",
@@ -2060,6 +2060,11 @@
       "timeline": [
         {
           "date": "2026-04-03",
+          "event": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-03",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
         },
@@ -2501,6 +2506,11 @@
       "nextStep": "Done - move to completed deals. Celebrate the W.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-03",
+          "event": "Email from Jacob from Relay.app: How to find high value AI workflows",
+          "type": "email"
+        },
         {
           "date": "2026-04-02",
           "event": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
@@ -4432,6 +4442,11 @@
       "nextStep": "Jacob: call Joey Friday 3pm. No whitebox, TI only. Check if Foxes can stay.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-03",
+          "event": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
+          "type": "email"
+        },
         {
           "date": "2026-04-01",
           "event": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
@@ -6569,20 +6584,6 @@
       "urgency": "low"
     },
     {
-      "name": "Nhung Pham",
-      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
-      "urgency": "low"
-    },
-    {
-      "name": "Dwaine High",
-      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
-      "urgency": "low"
-    },
-    {
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
       "daysSinceContact": 1,
@@ -6628,14 +6629,28 @@
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Nhung Pham",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob from Relay.app: How to find high value AI workflows",
+      "urgency": "low"
+    },
+    {
+      "name": "Dwaine High",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob from Relay.app: How to find high value AI workflows",
       "urgency": "low"
     },
     {
