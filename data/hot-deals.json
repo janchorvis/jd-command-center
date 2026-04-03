@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T07:33:36.673433",
+  "lastUpdated": "2026-04-03T09:04:18.198225",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-04-03",
@@ -56,11 +56,16 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "LOI signed 3/17. REC meeting 4/22. Vegas meeting booked.",
+      "status": "Received Five Below WL comments - HVAC must be <5 years old at possession or replaced. Bill asked if acceptable to get on April REC agenda.",
       "stage": "LOI",
-      "nextStep": "Wait for REC meeting 4/22.",
+      "nextStep": "Reply to Bill confirming HVAC requirement (or propose alternative) so they can submit for April REC.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-03",
+          "event": "Email: Five Below sent WL comments - HVAC <5 years requirement; needs acceptance to get on April REC agenda",
+          "type": "email"
+        },
         {
           "date": "2026-04-02",
           "event": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease Agreement",
