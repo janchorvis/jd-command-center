@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T11:30:16.318980",
+  "lastUpdated": "2026-04-03T12:30:16.893661",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-04-03",
@@ -933,6 +933,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-03",
+          "event": "Email from Carson Knight: Fwd: Backyard Butchers Partnership Event Opportunity Request",
+          "type": "email"
+        },
         {
           "date": "2026-04-03",
           "event": "Email from ICSC Commerce + Communities Today: Florida’s Retail Investment Sales Muscle, 2 Grocery-Anchored Portfolio Buys, New",
@@ -3247,6 +3252,11 @@
       "timeline": [
         {
           "date": "2026-04-03",
+          "event": "Email from Carson Knight: Fwd: Backyard Butchers Partnership Event Opportunity Request",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-03",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
         },
@@ -5146,6 +5156,16 @@
       "timeline": [
         {
           "date": "2026-04-03",
+          "event": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-03",
+          "event": "Email from Bridgestone Arena Box Office: On Sale Now: Chris Tomlin - Good Friday Nashville 2027",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-03",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Macon Orr",
           "type": "email"
         },
@@ -5645,6 +5665,16 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-04-03",
+          "event": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-03",
+          "event": "Email from Bridgestone Arena Box Office: On Sale Now: Chris Tomlin - Good Friday Nashville 2027",
+          "type": "email"
+        },
         {
           "date": "2026-04-03",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Macon Orr",
@@ -6628,7 +6658,7 @@
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: Florida’s Retail Investment Sales ",
+      "lastAction": "Email from Carson Knight: Fwd: Backyard Butchers Partnership Event Opportunity R",
       "urgency": "low"
     },
     {
@@ -6698,7 +6728,7 @@
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from Carson Knight: Fwd: Backyard Butchers Partnership Event Opportunity R",
       "urgency": "low"
     },
     {
@@ -6761,42 +6791,42 @@
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Macon Orr",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Macon Orr",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Macon Orr",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Macon Orr",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Macon Orr",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Macon Orr",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
       "urgency": "low"
     }
   ],
