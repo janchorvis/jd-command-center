@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T10:30:18.540760",
+  "lastUpdated": "2026-04-03T11:30:16.318980",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-04-03",
@@ -935,6 +935,11 @@
       "timeline": [
         {
           "date": "2026-04-03",
+          "event": "Email from ICSC Commerce + Communities Today: Florida’s Retail Investment Sales Muscle, 2 Grocery-Anchored Portfolio Buys, New",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-03",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
         },
@@ -1749,6 +1754,16 @@
       "nextStep": "Wait for execution.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-03",
+          "event": "Email from Emily Schneller: Sevierville",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-03",
+          "event": "Email from ICSC Commerce + Communities Today: Florida’s Retail Investment Sales Muscle, 2 Grocery-Anchored Portfolio Buys, New",
+          "type": "email"
+        },
         {
           "date": "2026-04-03",
           "event": "Email from CPE Daily Newsletter: Falcone Group JV pays $210M for Miami retail",
@@ -2661,6 +2676,11 @@
       "nextStep": "Get Clay's whitebox number, respond to LOI. Kevin confirmed UPS + Wingstop same side.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-03",
+          "event": "Email from ICSC Commerce + Communities Today: Florida’s Retail Investment Sales Muscle, 2 Grocery-Anchored Portfolio Buys, New",
+          "type": "email"
+        },
         {
           "date": "2026-04-03",
           "event": "Email from Chain Store Age: DayBreaker: Bed Bath & Beyond acquires Container Store; Starbucks incentivizes b",
@@ -6608,7 +6628,7 @@
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
+      "lastAction": "Email from ICSC Commerce + Communities Today: Florida’s Retail Investment Sales ",
       "urgency": "low"
     },
     {
@@ -6622,7 +6642,7 @@
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from CPE Daily Newsletter: Falcone Group JV pays $210M for Miami retail",
+      "lastAction": "Email from Emily Schneller: Sevierville",
       "urgency": "low"
     },
     {
@@ -6657,7 +6677,7 @@
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Bed Bath & Beyond acquires Container Sto",
+      "lastAction": "Email from ICSC Commerce + Communities Today: Florida’s Retail Investment Sales ",
       "urgency": "low"
     },
     {
