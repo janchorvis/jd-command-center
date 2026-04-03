@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T12:30:16.893661",
+  "lastUpdated": "2026-04-03T13:02:17.526639",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-04-03",
@@ -48,7 +48,12 @@
       "PCON event invites due today (event 4/4)",
       "Melissa Drish laptop setup due 4/5 (starts Monday)",
       "Weekly report due by noon",
-      "LOI redlines queued for next week: UPS, Wingstop, Great Greek, Five Below"
+      "LOI redlines queued for next week: UPS, Wingstop, Great Greek, Five Below",
+      {
+        "description": "Ollie's ICSC Vegas meeting confirmed: Wed 9 AM, Booth 340 W Street South Hall. Send confirmation reply to Jeff Powers.",
+        "priority": "high",
+        "assignee": "Jacob"
+      }
     ]
   },
   "pipelineDeals": [
