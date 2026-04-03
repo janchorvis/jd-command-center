@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T07:15:40.699728",
+  "lastUpdated": "2026-04-03T07:15:53.127177",
   "sourceDoc": "Leasing Meeting Prep - Week of 3/30/26",
   "today": {
     "date": "2026-04-03",
@@ -57,6 +57,11 @@
       "nextStep": "Wait for REC meeting 4/22.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-02",
+          "event": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease Agreement",
+          "type": "email"
+        },
         {
           "date": "2026-04-02",
           "event": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, April 2, 2026",
@@ -502,6 +507,11 @@
       "timeline": [
         {
           "date": "2026-04-02",
+          "event": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease Agreement",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-02",
           "event": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, April 2, 2026",
           "type": "email"
         },
@@ -904,6 +914,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-02",
+          "event": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease Agreement",
+          "type": "email"
+        },
         {
           "date": "2026-04-02",
           "event": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, April 2, 2026",
@@ -1414,6 +1429,16 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-04-03",
+          "event": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-02",
+          "event": "Email from Jacob Delk: Dixie Village Lease Draft - 2593 W Franklin Blvd, Suite 2593",
+          "type": "email"
+        },
+        {
           "date": "2026-04-02",
           "event": "Email from Jeb Thompson via Docusign: JACKSON TN HICKORY VILLAGE ANCHOR- 2026 Lease Agreement",
           "type": "email"
@@ -1695,6 +1720,11 @@
       "nextStep": "Wait for execution.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-03",
+          "event": "Email from The Tech Buzz: SpaceX IPO, OpenAI Retail Window & The GCC Sovereign Wealth Crisis",
+          "type": "email"
+        },
         {
           "date": "2026-04-02",
           "event": "Email from Daniel Herrold via monday.com: [Team mention] \"Tenant Expansion Report\" - RETAILER INTEL!\n\nHad a call this week",
@@ -1994,6 +2024,11 @@
       "nextStep": "Call Ashby - leave voicemail, ask for turnaround by Wednesday. Touch base with Prather with updated timeline.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-03",
+          "event": "Email from The Tech Buzz: SpaceX IPO, OpenAI Retail Window & The GCC Sovereign Wealth Crisis",
+          "type": "email"
+        },
         {
           "date": "2026-04-02",
           "event": "Email from Google Payments: Google Workspace: Your invoice is available for anchorinv.com",
@@ -2577,6 +2612,16 @@
       "nextStep": "Get Clay's whitebox number, respond to LOI. Kevin confirmed UPS + Wingstop same side.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-03",
+          "event": "Email from Chain Store Age: DayBreaker: Bed Bath & Beyond acquires Container Store; Starbucks incentivizes b",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-03",
+          "event": "Email from CoStar News: CoStar Today: Slick City grabs former storefronts as indoor play parks pop up ac",
+          "type": "email"
+        },
         {
           "date": "2026-04-02",
           "event": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
@@ -3392,6 +3437,11 @@
       "timeline": [
         {
           "date": "2026-04-02",
+          "event": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease Agreement",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-02",
           "event": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, April 2, 2026",
           "type": "email"
         },
@@ -4150,6 +4200,11 @@
       "contacts": [],
       "timeline": [
         {
+          "date": "2026-04-03",
+          "event": "Email from CoStar News: CoStar Today: Slick City grabs former storefronts as indoor play parks pop up ac",
+          "type": "email"
+        },
+        {
           "date": "2026-04-01",
           "event": "Email from Doris Porter: LoopNet Lead for Pell City Marketplace",
           "type": "email"
@@ -4405,6 +4460,11 @@
       "nextStep": "Wait for tour feedback (touring today/tomorrow).",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-03",
+          "event": "Email from CoStar News: CoStar Today: Slick City grabs former storefronts as indoor play parks pop up ac",
+          "type": "email"
+        },
         {
           "date": "2026-04-01",
           "event": "Email from Doris Porter: LoopNet Lead for Pell City Marketplace",
@@ -5452,6 +5512,11 @@
       "lastUpdate": "2026-03-09",
       "timeline": [
         {
+          "date": "2026-04-03",
+          "event": "Email from GroupGreeting: Anchor Investments sent you a GroupGreeting eCard",
+          "type": "email"
+        },
+        {
           "date": "2026-04-02",
           "event": "Email from Nashville Business Journal: For Members Only: What's Next for Business Travel?",
           "type": "email"
@@ -6390,204 +6455,204 @@
     {
       "name": "Derek Tucker",
       "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
-      "daysSinceContact": 7,
+      "daysSinceContact": 8,
       "lastAction": "Email from Quincy Palmer: Big lots Shelbyville Indiana",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Email from Brent F.: Brent F. opened brochure on Emerson Hall - The Gallatin",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Email from Brent F.: Brent F. opened brochure on Emerson Hall - The Gallatin",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Email from Brent F.: Brent F. opened brochure on Emerson Hall - The Gallatin",
       "urgency": "low"
     },
     {
       "name": "Dr. Phillip Kemp",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Email from Brent F.: Brent F. opened brochure on Emerson Hall - The Gallatin",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, Ap",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, Ap",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
       "urgency": "low"
     },
     {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, Ap",
-      "urgency": "low"
-    },
-    {
-      "name": "Chad Vang",
-      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jeb Thompson via Docusign: JACKSON TN HICKORY VILLAGE ANCHOR- 2026 Le",
-      "urgency": "low"
-    },
-    {
-      "name": "Melissa Eddy",
-      "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Daniel Herrold via monday.com: [Team mention] \"Tenant Expansion Repor",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Google Payments: Google Workspace: Your invoice is available for anch",
-      "urgency": "low"
-    },
-    {
-      "name": "Lexy & Austin",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Google Payments: Google Workspace: Your invoice is available for anch",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
       "urgency": "low"
     },
     {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
       "urgency": "low"
     },
     {
       "name": "Dwaine High",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
       "urgency": "low"
     },
     {
       "name": "Kevin True",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
       "urgency": "low"
     },
     {
       "name": "Bell",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
       "urgency": "low"
     },
     {
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, Ap",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, Ap",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: Malone Chamber of Commerce Newsletter, Ap",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
       "urgency": "low"
     },
     {
       "name": "Peter Adams",
       "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Nashville Business Journal: For Members Only: What's Next for Busines",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Nashville Business Journal: For Members Only: What's Next for Busines",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: For Members Only: What's Next for Busines",
-      "urgency": "low"
-    },
-    {
-      "name": "Charles Hawkins",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: For Members Only: What's Next for Busines",
-      "urgency": "low"
-    },
-    {
-      "name": "Brether group",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: For Members Only: What's Next for Busines",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Nashville Business Journal: For Members Only: What's Next for Busines",
       "urgency": "low"
     },
     {
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Brian Nock: ACTION REQUIRED: L&PD Guest Nominations, Volunteer Slots,",
+      "urgency": "low"
+    },
+    {
+      "name": "Chad Vang",
+      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
+      "urgency": "low"
+    },
+    {
+      "name": "Melissa Eddy",
+      "deal": "ABC Retail — Russellville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from The Tech Buzz: SpaceX IPO, OpenAI Retail Window & The GCC Sovereign W",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from The Tech Buzz: SpaceX IPO, OpenAI Retail Window & The GCC Sovereign W",
+      "urgency": "low"
+    },
+    {
+      "name": "Lexy & Austin",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from The Tech Buzz: SpaceX IPO, OpenAI Retail Window & The GCC Sovereign W",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Bed Bath & Beyond acquires Container Sto",
+      "urgency": "low"
+    },
+    {
+      "name": "Charles Hawkins",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from GroupGreeting: Anchor Investments sent you a GroupGreeting eCard",
+      "urgency": "low"
+    },
+    {
+      "name": "Brether group",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from GroupGreeting: Anchor Investments sent you a GroupGreeting eCard",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from GroupGreeting: Anchor Investments sent you a GroupGreeting eCard",
       "urgency": "low"
     }
   ],
