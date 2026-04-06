@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T16:28:57.550763",
+  "lastUpdated": "2026-04-06T16:48:15.471336",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-06",
@@ -1920,6 +1920,11 @@
       "nextStep": "Wait for execution.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-06",
+          "event": "Email from Jennifer Stewart: Retail Client Requirement Nashville MSA - Swig Drinks",
+          "type": "email"
+        },
         {
           "date": "2026-04-06",
           "event": "Email from ICSC Commerce + Communities Today: What It Takes To Launch a Retail Real Estate Business",
@@ -4963,6 +4968,11 @@
       "timeline": [
         {
           "date": "2026-04-06",
+          "event": "Email from Joey Valenti: FW: [EXTERNAL] - FW: 235 E Main St, 1st Floor, Hendersonville, TN 37075, United ",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-06",
           "event": "Email: Joey Valenti sent updated LOI comments for 235 E Main St, notes tenant more aggressive on this space.",
           "type": "email"
         },
@@ -5875,6 +5885,16 @@
       "timeline": [
         {
           "date": "2026-04-06",
+          "event": "Email from Phoenix Club of Nashville: Join Phoenix Club for Dadurday at the Nashville Zoo on Saturday, April 25th!",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Email from Jennifer Stewart: Retail Client Requirement Nashville MSA - Swig Drinks",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-06",
           "event": "Email from PCON Secretary: PCON 2025 Annual Report Now Available",
           "type": "email"
         },
@@ -6419,6 +6439,16 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-04-06",
+          "event": "Email from Phoenix Club of Nashville: Join Phoenix Club for Dadurday at the Nashville Zoo on Saturday, April 25th!",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Email from Jennifer Stewart: Retail Client Requirement Nashville MSA - Swig Drinks",
+          "type": "email"
+        },
         {
           "date": "2026-04-06",
           "event": "Email from Robert Richardson: Save Date / Bid Sheet New Marshalls Malone NY (Former Big Lots)",
@@ -7039,6 +7069,11 @@
       "timeline": [
         {
           "date": "2026-04-06",
+          "event": "Email from Micah Lacher: \"ALL IN\" Nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-06",
           "event": "Email from Robert Richardson: Save Date / Bid Sheet New Marshalls Malone NY (Former Big Lots)",
           "type": "email"
         },
@@ -7494,6 +7529,13 @@
       "urgency": "low"
     },
     {
+      "name": "Paul",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+      "urgency": "low"
+    },
+    {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
@@ -7511,7 +7553,7 @@
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: What It Takes To Launch a Retail R",
+      "lastAction": "Email from Jennifer Stewart: Retail Client Requirement Nashville MSA - Swig Drin",
       "urgency": "low"
     },
     {
@@ -7592,10 +7634,31 @@
       "urgency": "low"
     },
     {
+      "name": "Spencer",
+      "deal": "Royal Furniture — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+      "urgency": "low"
+    },
+    {
+      "name": "Sheldon",
+      "deal": "Royal Furniture — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+      "urgency": "low"
+    },
+    {
       "name": "Peter Adams",
       "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
       "daysSinceContact": 0,
       "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+      "urgency": "low"
+    },
+    {
+      "name": "Joey",
+      "deal": " — Maple Row",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - FW: 235 E Main St, 1st Floor, Henderso",
       "urgency": "low"
     },
     {
@@ -7634,52 +7697,73 @@
       "urgency": "low"
     },
     {
+      "name": "Dr. Kemp",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Robert Richardson: Save Date / Bid Sheet New Marshalls Malone NY (For",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Robert Richardson: Save Date / Bid Sheet New Marshalls Malone NY (For",
+      "urgency": "low"
+    },
+    {
+      "name": "Matty",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Robert Richardson: Save Date / Bid Sheet New Marshalls Malone NY (For",
+      "urgency": "low"
+    },
+    {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from PCON Secretary: PCON 2025 Annual Report Now Available",
+      "lastAction": "Email from Phoenix Club of Nashville: Join Phoenix Club for Dadurday at the Nash",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from PCON Secretary: PCON 2025 Annual Report Now Available",
+      "lastAction": "Email from Phoenix Club of Nashville: Join Phoenix Club for Dadurday at the Nash",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from PCON Secretary: PCON 2025 Annual Report Now Available",
+      "lastAction": "Email from Phoenix Club of Nashville: Join Phoenix Club for Dadurday at the Nash",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Save Date / Bid Sheet New Marshalls Malone NY (For",
+      "lastAction": "Email from Phoenix Club of Nashville: Join Phoenix Club for Dadurday at the Nash",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Save Date / Bid Sheet New Marshalls Malone NY (For",
+      "lastAction": "Email from Phoenix Club of Nashville: Join Phoenix Club for Dadurday at the Nash",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Save Date / Bid Sheet New Marshalls Malone NY (For",
+      "lastAction": "Email from Phoenix Club of Nashville: Join Phoenix Club for Dadurday at the Nash",
       "urgency": "low"
     },
     {
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Save Date / Bid Sheet New Marshalls Malone NY (For",
+      "lastAction": "Email from Micah Lacher: \"ALL IN\" Nominations",
       "urgency": "low"
     }
   ],
