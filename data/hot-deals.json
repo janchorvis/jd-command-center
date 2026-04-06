@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T11:30:09.623870",
+  "lastUpdated": "2026-04-06T12:01:01.710183",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-06",
@@ -1518,11 +1518,16 @@
       "id": "gastonia-laundromat",
       "name": "Chad Vang - Laundromat",
       "property": "Gastonia - Dixie Village",
-      "status": "Lease sent to Chad Vang, waiting on signature.",
+      "status": "New LoopNet lead asking about drive-in door availability for auto reconditioning shop space.",
       "stage": "LOI",
-      "nextStep": "Wait for signed lease.",
+      "nextStep": "Confirm if any available units have drive-in door; reply with details and ask for size/requirements.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-06",
+          "event": "LoopNet lead: Kip Brooks inquired about drive-in door for Dixie Village (2500 W Franklin Blvd).",
+          "type": "email"
+        },
         {
           "date": "2026-04-05",
           "event": "Email from Jeb Thompson via Docusign: Reminder: JACKSON TN HICKORY VILLAGE ANCHOR- 2026 Lease Agreement",
