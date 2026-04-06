@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T09:41:59.889316",
+  "lastUpdated": "2026-04-06T09:42:14.581567",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-06",
@@ -55,6 +55,11 @@
         {
           "date": "2026-04-05",
           "event": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease Agreement",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
           "type": "email"
         },
         {
@@ -521,6 +526,11 @@
           "type": "email"
         },
         {
+          "date": "2026-04-04",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
+        {
           "date": "2026-04-03",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
@@ -947,6 +957,16 @@
         {
           "date": "2026-04-05",
           "event": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease Agreement",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from ICSC Commerce + Communities Today: How Real Estate Teams Are Vetting AI, Asian Retailers Enter the U.S., Florida’s ",
           "type": "email"
         },
         {
@@ -1484,6 +1504,11 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-04-05",
+          "event": "Email from Jeb Thompson via Docusign: Reminder: JACKSON TN HICKORY VILLAGE ANCHOR- 2026 Lease Agreement",
+          "type": "email"
+        },
+        {
           "date": "2026-04-03",
           "event": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
           "type": "email"
@@ -1777,12 +1802,22 @@
       "timeline": [
         {
           "date": "2026-04-06",
+          "event": "Email from CPE Daily Newsletter: How retailers are reshaping logistics",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-06",
           "event": "Email from Joey Valenti: FW: [EXTERNAL] - FW: 235 E Main St, 1st Floor, Hendersonville, TN 37075, United ",
           "type": "email"
         },
         {
           "date": "2026-04-05",
           "event": "Email from CRE Daily: 🎙️ No Cap — The Power of Grocery-Anchored Retail w/ Kimco",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from ICSC Commerce + Communities Today: How Real Estate Teams Are Vetting AI, Asian Retailers Enter the U.S., Florida’s ",
           "type": "email"
         },
         {
@@ -2104,6 +2139,16 @@
       "nextStep": "Call Ashby - leave voicemail, ask for turnaround by Wednesday. Touch base with Prather with updated timeline.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-04",
+          "event": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
+          "type": "email"
+        },
         {
           "date": "2026-04-03",
           "event": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
@@ -2718,6 +2763,31 @@
           "type": "email"
         },
         {
+          "date": "2026-04-05",
+          "event": "Email from Jacob Delk: McMinnville, TN",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-05",
+          "event": "Email from Jeb Thompson via Docusign: Reminder: MCMINNVILLE TN PLAZA ANCHOR - 2026 Lease Agreement",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Chain Store Age: Weekend DayBreaker: Top Stories of the Week",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Micah Lacher: Fwd: McMinnville - Concept Facade Upgrades",
+          "type": "email"
+        },
+        {
           "date": "2026-04-03",
           "event": "Email from ICSC Commerce + Communities Today: Florida’s Retail Investment Sales Muscle, 2 Grocery-Anchored Portfolio Buys, New",
           "type": "email"
@@ -3097,6 +3167,26 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-04-05",
+          "event": "Email from Jacob Delk: McMinnville, TN",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-05",
+          "event": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 2026 Lease Agreement",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Micah Lacher: Fwd: McMinnville - Concept Facade Upgrades",
+          "type": "email"
+        },
+        {
           "date": "2026-04-03",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
@@ -3289,6 +3379,31 @@
         {
           "date": "2026-04-06",
           "event": "Email from NASHtoday: Japan Week events, Dolly museum curator + comedy fest",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-05",
+          "event": "Email from Jacob Delk: McMinnville, TN",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-05",
+          "event": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 2026 Lease Agreement",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Micah Lacher: Fwd: McMinnville - Concept Facade Upgrades",
           "type": "email"
         },
         {
@@ -3573,6 +3688,11 @@
         {
           "date": "2026-04-05",
           "event": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease Agreement",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
           "type": "email"
         },
         {
@@ -3978,6 +4098,26 @@
           "type": "email"
         },
         {
+          "date": "2026-04-05",
+          "event": "Email from Jacob Delk: McMinnville, TN",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-05",
+          "event": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 2026 Lease Agreement",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Micah Lacher: Fwd: McMinnville - Concept Facade Upgrades",
+          "type": "email"
+        },
+        {
           "date": "2026-04-03",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
@@ -4199,6 +4339,26 @@
         "Peter Adams (Treverse LLC dba A-Stock)"
       ],
       "timeline": [
+        {
+          "date": "2026-04-05",
+          "event": "Email from Jacob Delk: McMinnville, TN",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-05",
+          "event": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 2026 Lease Agreement",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Micah Lacher: Fwd: McMinnville - Concept Facade Upgrades",
+          "type": "email"
+        },
         {
           "date": "2026-04-03",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
@@ -4459,6 +4619,26 @@
       "contacts": [],
       "timeline": [
         {
+          "date": "2026-04-05",
+          "event": "Email from Jacob Delk: McMinnville, TN",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-05",
+          "event": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 2026 Lease Agreement",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Micah Lacher: Fwd: McMinnville - Concept Facade Upgrades",
+          "type": "email"
+        },
+        {
           "date": "2026-04-03",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
@@ -4543,6 +4723,11 @@
       "nextStep": "Jacob: call Joey Friday 3pm. No whitebox, TI only. Check if Foxes can stay.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-04",
+          "event": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
+          "type": "email"
+        },
         {
           "date": "2026-04-03",
           "event": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
@@ -4690,6 +4875,26 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-04-05",
+          "event": "Email from Jacob Delk: McMinnville, TN",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-05",
+          "event": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 2026 Lease Agreement",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Micah Lacher: Fwd: McMinnville - Concept Facade Upgrades",
+          "type": "email"
+        },
+        {
           "date": "2026-04-03",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
@@ -4774,6 +4979,26 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-04-05",
+          "event": "Email from Jacob Delk: McMinnville, TN",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-05",
+          "event": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 2026 Lease Agreement",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Micah Lacher: Fwd: McMinnville - Concept Facade Upgrades",
+          "type": "email"
+        },
+        {
           "date": "2026-04-03",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
           "type": "email"
@@ -4857,6 +5082,26 @@
       "nextStep": "Monitor. Positive response but demographics/density concern remains.",
       "priority": "low",
       "timeline": [
+        {
+          "date": "2026-04-05",
+          "event": "Email from Jacob Delk: McMinnville, TN",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-05",
+          "event": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 2026 Lease Agreement",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Jacob Delk: McMinnville Plaza Redevelopment",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Micah Lacher: Fwd: McMinnville - Concept Facade Upgrades",
+          "type": "email"
+        },
         {
           "date": "2026-04-03",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
@@ -4956,6 +5201,11 @@
           "type": "email"
         },
         {
+          "date": "2026-04-04",
+          "event": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
           "date": "2026-04-03",
           "event": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
           "type": "email"
@@ -4973,6 +5223,36 @@
         {
           "date": "2026-04-03",
           "event": "Email: Lease application submitted for 235 E Main St (bookstore + wine bar).",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-02",
+          "event": "Email from Chris Brophy: PCON - Dev Sponsorship Ask",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-01",
+          "event": "Email from Kaileigh Dunn: Lease Space",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-01",
+          "event": "Email from Joey Valenti: FW: [EXTERNAL] - FW: 235 E Main St, 1st Floor, Hendersonville, TN 37075, United ",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-01",
+          "event": "Email from Henry Moss: Phone Call Follow Up",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-31",
+          "event": "Email from Susan Bain: Mailbox keys",
+          "type": "email"
+        },
+        {
+          "date": "2026-03-30",
+          "event": "Email from scott koo: 6268 Atlanta Hwy Commission",
           "type": "email"
         }
       ],
@@ -5292,6 +5572,11 @@
         {
           "date": "2026-04-06",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Jake Lazas",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Danny Hume: 2433 Buena Vista - 15.2ac",
           "type": "email"
         },
         {
@@ -5813,6 +6098,11 @@
         {
           "date": "2026-04-06",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Jake Lazas",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-04",
+          "event": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
           "type": "email"
         },
         {
@@ -6409,6 +6699,11 @@
           "type": "email"
         },
         {
+          "date": "2026-04-05",
+          "event": "Email from HOPE International: Happy Easter from HOPE International!",
+          "type": "email"
+        },
+        {
           "date": "2026-04-02",
           "event": "Email from Brian Nock: ACTION REQUIRED: L&PD Guest Nominations, Volunteer Slots, & Prep",
           "type": "email"
@@ -6831,48 +7126,6 @@
       "urgency": "low"
     },
     {
-      "name": "Chad Vang",
-      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
-      "urgency": "low"
-    },
-    {
-      "name": "Lexy & Austin",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
-      "urgency": "low"
-    },
-    {
-      "name": "Kevin True",
-      "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
-      "urgency": "low"
-    },
-    {
-      "name": "Bell",
-      "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
-      "urgency": "low"
-    },
-    {
-      "name": "Peter Adams",
-      "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
-      "urgency": "low"
-    },
-    {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 3,
@@ -6901,6 +7154,20 @@
       "urgency": "low"
     },
     {
+      "name": "Stephen Prather",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 2,
+      "lastAction": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
+      "urgency": "low"
+    },
+    {
+      "name": "Lexy & Austin",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 2,
+      "lastAction": "Email from Jacob Delk: Lease Review - Event Space Tenant at Gallatin Hotel",
+      "urgency": "low"
+    },
+    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 1,
@@ -6912,6 +7179,27 @@
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 1,
       "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
+      "urgency": "low"
+    },
+    {
+      "name": "Chad Vang",
+      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: JACKSON TN HICKORY VILLAGE ANCHO",
+      "urgency": "low"
+    },
+    {
+      "name": "Kevin True",
+      "deal": "Wingstop — McMinnville Plaza",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville, TN",
+      "urgency": "low"
+    },
+    {
+      "name": "Bell",
+      "deal": "Wingstop — McMinnville Plaza",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville, TN",
       "urgency": "low"
     },
     {
@@ -6936,6 +7224,13 @@
       "urgency": "low"
     },
     {
+      "name": "Peter Adams",
+      "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville, TN",
+      "urgency": "low"
+    },
+    {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
@@ -6946,7 +7241,7 @@
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - FW: 235 E Main St, 1st Floor, Henderso",
+      "lastAction": "Email from CPE Daily Newsletter: How retailers are reshaping logistics",
       "urgency": "low"
     },
     {
