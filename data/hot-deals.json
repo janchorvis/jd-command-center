@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T07:31:33.282822",
+  "lastUpdated": "2026-04-06T09:30:11.797578",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-06",
@@ -940,6 +940,16 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-04-06",
+          "event": "Email from Jonathan Spoerl and David Judd: Philadelphia, PA: ±11,060 SF on ±0.4 AC Available for Sale or Lease – Freestandi",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Email from Joey Valenti: FW: [EXTERNAL] - FW: 235 E Main St, 1st Floor, Hendersonville, TN 37075, United ",
+          "type": "email"
+        },
+        {
           "date": "2026-04-05",
           "event": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease Agreement",
           "type": "email"
@@ -1770,6 +1780,11 @@
       "nextStep": "Wait for execution.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-06",
+          "event": "Email from Joey Valenti: FW: [EXTERNAL] - FW: 235 E Main St, 1st Floor, Hendersonville, TN 37075, United ",
+          "type": "email"
+        },
         {
           "date": "2026-04-05",
           "event": "Email from CRE Daily: 🎙️ No Cap — The Power of Grocery-Anchored Retail w/ Kimco",
@@ -4360,6 +4375,11 @@
       "contacts": [],
       "timeline": [
         {
+          "date": "2026-04-06",
+          "event": "Email from Jacob Delk: Pell City Marketplace",
+          "type": "email"
+        },
+        {
           "date": "2026-04-03",
           "event": "Email from CoStar News: CoStar Today: Slick City grabs former storefronts as indoor play parks pop up ac",
           "type": "email"
@@ -4630,6 +4650,11 @@
       "nextStep": "Wait for tour feedback (touring today/tomorrow).",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-06",
+          "event": "Email from Jacob Delk: Pell City Marketplace",
+          "type": "email"
+        },
         {
           "date": "2026-04-03",
           "event": "Email from CoStar News: CoStar Today: Slick City grabs former storefronts as indoor play parks pop up ac",
@@ -4925,6 +4950,11 @@
         "Hillary Holmes – gildedspinebooks@gmail.com, (414) 607-2197"
       ],
       "timeline": [
+        {
+          "date": "2026-04-06",
+          "event": "Email from Joey Valenti: FW: [EXTERNAL] - FW: 235 E Main St, 1st Floor, Hendersonville, TN 37075, United ",
+          "type": "email"
+        },
         {
           "date": "2026-04-05",
           "event": "Email from Carson West: *Action Needed* Selection Committee Scheduling Poll",
@@ -5259,6 +5289,16 @@
       "priority": "medium",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-04-06",
+          "event": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our second prospective coffee of 2026 tomorrow",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Jake Lazas",
+          "type": "email"
+        },
         {
           "date": "2026-04-03",
           "event": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
@@ -5770,6 +5810,16 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-04-06",
+          "event": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our second prospective coffee of 2026 tomorrow",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Jake Lazas",
+          "type": "email"
+        },
         {
           "date": "2026-04-03",
           "event": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
@@ -6814,48 +6864,6 @@
       "urgency": "low"
     },
     {
-      "name": "Julie Robbins",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
-      "urgency": "low"
-    },
-    {
-      "name": "Michael Dunn",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
-      "urgency": "low"
-    },
-    {
-      "name": "Cole @ DR Horton",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
-      "urgency": "low"
-    },
-    {
-      "name": "Charles Hawkins",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
-      "urgency": "low"
-    },
-    {
-      "name": "Brether group",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: How Nashville leaders use AI",
-      "urgency": "low"
-    },
-    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 1,
@@ -6867,20 +6875,6 @@
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 1,
       "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
-      "urgency": "low"
-    },
-    {
-      "name": "Ajay Secore",
-      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
-      "urgency": "low"
-    },
-    {
-      "name": "Melissa Eddy",
-      "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from CRE Daily: 🎙️ No Cap — The Power of Grocery-Anchored Retail w/ Kimco",
       "urgency": "low"
     },
     {
@@ -6905,10 +6899,17 @@
       "urgency": "low"
     },
     {
-      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
-      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Carson West: *Action Needed* Selection Committee Scheduling Poll",
+      "name": "Ajay Secore",
+      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jonathan Spoerl and David Judd: Philadelphia, PA: ±11,060 SF on ±0.4 ",
+      "urgency": "low"
+    },
+    {
+      "name": "Melissa Eddy",
+      "deal": "ABC Retail — Russellville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - FW: 235 E Main St, 1st Floor, Henderso",
       "urgency": "low"
     },
     {
@@ -6937,6 +6938,55 @@
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
       "lastAction": "Email from NASHtoday: Japan Week events, Dolly museum curator + comedy fest",
+      "urgency": "low"
+    },
+    {
+      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
+      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - FW: 235 E Main St, 1st Floor, Henderso",
+      "urgency": "low"
+    },
+    {
+      "name": "Julie Robbins",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our seco",
+      "urgency": "low"
+    },
+    {
+      "name": "Michael Dunn",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our seco",
+      "urgency": "low"
+    },
+    {
+      "name": "Cole @ DR Horton",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our seco",
+      "urgency": "low"
+    },
+    {
+      "name": "Charles Hawkins",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our seco",
+      "urgency": "low"
+    },
+    {
+      "name": "Brether group",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our seco",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our seco",
       "urgency": "low"
     },
     {
