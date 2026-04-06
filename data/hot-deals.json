@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T15:30:19.799676",
+  "lastUpdated": "2026-04-06T16:28:57.550763",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-06",
@@ -39,7 +39,16 @@
       "PCON feedback: Jake DeFrance (overdue — due 2026-03-27)",
       "Start scheduling ICSC meetings + outreach for Evansville and Shelbyville (overdue — due 2026-03-20)",
       "Make flyer for mattresses listing (overdue — due 2026-03-23)",
-      "put mattresses on the market (overdue — due 2026-03-23)"
+      "put mattresses on the market (overdue — due 2026-03-23)",
+      "Get Five Below HVAC replacement pricing and determine whether current units can be reused elsewhere.",
+      "Micah to call Paul and push Shoe Dept lease execution.",
+      "Review full financials for the preferred Maple Row local operator and move quickly if they are solid.",
+      "Wait on Great Greek / Joey response to revised economics and decide whether the alternate space makes more sense.",
+      "Use competitive pressure with Jefferson's and the other prospects so the fastest mover controls the space plan.",
+      "Keep answering Spencer / Sheldon diligence questions on Royal Furniture and evaluate a loading solution.",
+      "Ask Buena Vista land contacts for old bid materials and move forward on sod / site presentation work.",
+      "Micah to force a real direction call with Dr. Kemp this week on HopeSmiles criteria and budget.",
+      "Jacob to call on the 30K SF HopeSmiles purchase option to confirm availability and price flexibility."
     ]
   },
   "pipelineDeals": [
@@ -47,9 +56,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Received Five Below WL comments - HVAC must be <5 years old at possession or replaced. Bill asked if acceptable to get on April REC agenda.",
+      "status": "Five Below work letter issue is HVAC age. Existing units are too old for tenant acceptance, so Anchor needs replacement pricing and may be able to reuse current units elsewhere.",
       "stage": "LOI",
-      "nextStep": "Reply to Bill confirming HVAC requirement (or propose alternative) so they can submit for April REC.",
+      "nextStep": "Get replacement quote through property management / vendor contact and confirm whether that works for REC timing.",
       "priority": "high",
       "timeline": [
         {
@@ -76,6 +85,11 @@
           "date": "2026-04-06",
           "event": "Email from Malone Chamber of Commerce: NEW EVENTS, NEW MALONE DIRECTORY!",
           "type": "email"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Meeting: Five Below will not accept HVAC units older than five years. Team decided to get pricing on replacement units and explore reusing existing 7.5-ton units elsewhere.",
+          "type": "meeting"
         },
         {
           "date": "2026-04-05",
@@ -540,9 +554,9 @@
       "id": "malone-shoe-dept",
       "name": "Shoe Dept",
       "property": "Malone Plaza",
-      "status": "Near execution. Vegas meeting also booked.",
+      "status": "Shoe Dept lease is near execution. Delay appears to be internal signoff / travel, not a substantive deal issue.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Micah: call Shoe Dept broker to push for execution.",
+      "nextStep": "Micah to call Paul and press for signature / contractor clarity so the document gets executed.",
       "priority": "high",
       "timeline": [
         {
@@ -569,6 +583,11 @@
           "date": "2026-04-06",
           "event": "Email from Malone Chamber of Commerce: NEW EVENTS, NEW MALONE DIRECTORY!",
           "type": "email"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Meeting: team discussed pushing Paul for execution because the lease appears to be traveling for signature.",
+          "type": "meeting"
         },
         {
           "date": "2026-04-05",
@@ -967,7 +986,8 @@
         }
       ],
       "contacts": [
-        "Paul (Shoe Dept)"
+        "Paul (Shoe Dept)",
+        "Paul (Shoe Dept contact)"
       ],
       "actions": [
         {
@@ -4261,11 +4281,14 @@
       "id": "mcminnville-royal-furniture",
       "name": "Royal Furniture",
       "property": "McMinnville Plaza",
-      "status": "Matterport came out wonky (sent to corporate for fix). Cubikasa site plan = 18K SF. Aldi needs 20K.",
+      "status": "Spencer and Sheldon are actively reviewing the corrected plan and asking loading / clear-height questions. Dock access remains the main physical issue.",
       "stage": "Contact Made",
-      "nextStep": "Send Cubikasa site plan to Spencer (Aldi) - ask if they can squeeze or add small structure off back.",
+      "nextStep": "Continue answering diligence questions and evaluate whether a back-side truck-height solution can be created if needed.",
       "priority": "medium",
-      "contacts": [],
+      "contacts": [
+        "Spencer (Aldi)",
+        "Sheldon (Aldi)"
+      ],
       "timeline": [
         {
           "date": "2026-04-06",
@@ -4281,6 +4304,11 @@
           "date": "2026-04-06",
           "event": "Email from Chain Store Age: DayBreaker: Amazon adds fulfillment surcharge; Starbucks closes $4B deal; 10 mos",
           "type": "email"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Meeting: Jacob said he sent the corrected plan to Spencer and Sheldon and is fielding follow-up questions about loading and clear heights.",
+          "type": "meeting"
         },
         {
           "date": "2026-04-05",
@@ -4929,14 +4957,19 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row",
-      "status": "Centennial Retail says tenant will be more aggressive on 235 E Main St space; less aggressive on Fox’s Pizza. Sent updated LOI comments.",
-      "nextStep": "Jacob to review LOI comments and respond with position.",
+      "status": "Great Greek economics still look stretched. Tenant asked for roughly $40/SF TI at about $26 rent on the artist-studio space; Jacob countered with lower TI and higher rent.",
+      "nextStep": "Wait on Joey / tenant response to revised economics and decide whether they fit better in the alternate Fox's space.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-04-06",
           "event": "Email: Joey Valenti sent updated LOI comments for 235 E Main St, notes tenant more aggressive on this space.",
           "type": "email"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Meeting: Jacob described countering Great Greek's ask with reduced TI and higher rent because the original economics do not work.",
+          "type": "meeting"
         },
         {
           "date": "2026-04-04",
@@ -4982,7 +5015,10 @@
         "avgSqFt": 5206,
         "suiteCount": 11,
         "vacantCount": 0
-      }
+      },
+      "contacts": [
+        "Joey (Great Greek / broker contact)"
+      ]
     },
     {
       "id": "evansville-easterseals",
@@ -5041,8 +5077,8 @@
       "id": "pell-city-jeffersons",
       "tenant": "Jefferson's",
       "property": "Pell City",
-      "status": "Application submitted. Self-funding $500-750K buildout. Sharp operator from Chicago, parents own delis in AL/GA.",
-      "nextStep": "Wait for tour feedback (touring today/tomorrow).",
+      "status": "Jefferson's re-engaged and plans to submit an LOI after a good tour. Team is considering a roughly 5,000 SF configuration using the middle bays.",
+      "nextStep": "Keep pressure on all users by telling them multiple prospects are active and the fastest movers will control the layout.",
       "priority": "high",
       "timeline": [
         {
@@ -5054,6 +5090,11 @@
           "date": "2026-04-06",
           "event": "Email from Jacob Delk: Pell City Marketplace",
           "type": "email"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Meeting: Jefferson's toured well and broker said an LOI is coming; team discussed fitting them with other prospects in the lineup.",
+          "type": "meeting"
         },
         {
           "date": "2026-04-03",
@@ -5432,9 +5473,9 @@
       "id": "gilded-spine-maple-row",
       "name": "Gilded Spine (Storybook Soirees LLC)",
       "property": "235 E Main St, Hendersonville (Maple Row)",
-      "status": "Lease application received from Hillary Holmes via Jotform.",
+      "status": "Local operator submitted financials and is highly responsive. Jacob would rather do her deal if the financials check out.",
       "stage": "Contact Made",
-      "nextStep": "Jacob to review application + financials and respond with lease terms/next steps.",
+      "nextStep": "Review full financial package and move quickly if the financials support the deal.",
       "priority": "high",
       "contacts": [
         "Hillary Holmes – gildedspinebooks@gmail.com, (414) 607-2197"
@@ -5444,6 +5485,11 @@
           "date": "2026-04-06",
           "event": "Email from Joey Valenti: FW: [EXTERNAL] - FW: 235 E Main St, 1st Floor, Hendersonville, TN 37075, United ",
           "type": "email"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Meeting: Jacob said the local operator has been responsive, submitted financials, and is preferred over the competing alternative if numbers work.",
+          "type": "meeting"
         },
         {
           "date": "2026-04-05",
@@ -5524,21 +5570,29 @@
       "name": "HopeSmiles",
       "property": "44 Vantage Way, Cool Springs",
       "type": "Tenant Rep",
-      "status": "Dr. Kemp uncertain on Metro Center AND Cold Springs. Saw him at church.",
-      "nextStep": "Jacob: talk to Dr. Kemp directly (saw him at church). Don't break up with 44 Vantage yet.",
+      "status": "HopeSmiles remains blocked by Dr. Kemp's indecision. Micah pushed for concrete direction this week on lease vs. buy, geography, bus-line requirement, and budget. A better first-floor Cool Springs Commons option exists, and a separate ~30K SF purchase option around $9.9M may fit if they are serious about buying.",
+      "nextStep": "Micah to get Dr. Kemp's hard criteria and budget this week. Jacob to call on the 30K SF building to confirm availability and pricing flexibility.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
         "Amy Harper (amy@hopesmiles.org)",
-        "Dr. Phillip Kemp (phillipkemp@hopesmiles.org)"
+        "Dr. Phillip Kemp (phillipkemp@hopesmiles.org)",
+        "Dr. Kemp",
+        "Amy",
+        "Matty"
       ],
-      "priority": "medium",
+      "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
           "date": "2026-04-06",
           "event": "Email from Robert Richardson: Save Date / Bid Sheet New Marshalls Malone NY (Former Big Lots)",
           "type": "email"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Meeting: Micah described a frustrating Dr. Kemp call, demanded clear decision criteria this week, and reviewed both lease and purchase options for HopeSmiles.",
+          "type": "meeting"
         },
         {
           "date": "2026-04-03",
@@ -5809,8 +5863,8 @@
       "name": "Buena Vista",
       "property": "2433 Buena Vista Pike, Nashville",
       "type": "Land/Development",
-      "status": "Preliminary interest from a few groups. Email blast pending.",
-      "nextStep": "Micah to blast contacts from email Jacob sent.",
+      "status": "Buena Vista still has buyer interest, but prospects need better development-cost context. Jacob has been quoting around $10M and believes sellers may listen to lower numbers, though basis is a concern.",
+      "nextStep": "Ask land contacts for old bid materials, use them to frame buyer conversations, and move forward on sod / site presentation work.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
@@ -5843,6 +5897,11 @@
           "date": "2026-04-06",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Jake Lazas",
           "type": "email"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Meeting: team discussed giving prospects old bid data for Buena Vista, quoting around $10M, and improving the site with sod.",
+          "type": "meeting"
         },
         {
           "date": "2026-04-04",
