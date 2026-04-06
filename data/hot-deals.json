@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T10:01:06.451681",
+  "lastUpdated": "2026-04-06T10:30:09.301366",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-06",
@@ -3378,6 +3378,16 @@
       "timeline": [
         {
           "date": "2026-04-06",
+          "event": "Email from CRE615®: APRIL EVENTS LINEUP - we're doing a little bit of everything this month",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-06",
           "event": "Email from NASHtoday: Japan Week events, Dolly museum curator + comedy fest",
           "type": "email"
         },
@@ -4531,6 +4541,11 @@
       "timeline": [
         {
           "date": "2026-04-06",
+          "event": "Email from Luc Champagne: Egg Harbor City, NJ: ±1,500 - 5,800 SF for Lease and Pad Site for Lease or Sale",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-06",
           "event": "Email from Jacob Delk: Pell City Marketplace",
           "type": "email"
         },
@@ -4835,6 +4850,11 @@
       "nextStep": "Wait for tour feedback (touring today/tomorrow).",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-06",
+          "event": "Email from Luc Champagne: Egg Harbor City, NJ: ±1,500 - 5,800 SF for Lease and Pad Site for Lease or Sale",
+          "type": "email"
+        },
         {
           "date": "2026-04-06",
           "event": "Email from Jacob Delk: Pell City Marketplace",
@@ -5571,6 +5591,16 @@
       "timeline": [
         {
           "date": "2026-04-06",
+          "event": "Email from Danny Hume: 2433 Buena Vista - 15.2ac",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-06",
           "event": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our second prospective coffee of 2026 tomorrow",
           "type": "email"
         },
@@ -6095,6 +6125,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-04-06",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
         {
           "date": "2026-04-06",
           "event": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our second prospective coffee of 2026 tomorrow",
@@ -6700,6 +6735,11 @@
       "timeline": [
         {
           "date": "2026-04-06",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-06",
           "event": "Email from Kelsey Cornillie, Publisher: Women of Influence: Advice to live by",
           "type": "email"
         },
@@ -7274,7 +7314,7 @@
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from NASHtoday: Japan Week events, Dolly museum curator + comedy fest",
+      "lastAction": "Email from CRE615®: APRIL EVENTS LINEUP - we're doing a little bit of everything",
       "urgency": "low"
     },
     {
@@ -7288,49 +7328,49 @@
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our seco",
+      "lastAction": "Email from Danny Hume: 2433 Buena Vista - 15.2ac",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our seco",
+      "lastAction": "Email from Danny Hume: 2433 Buena Vista - 15.2ac",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our seco",
+      "lastAction": "Email from Danny Hume: 2433 Buena Vista - 15.2ac",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our seco",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our seco",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our seco",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kelsey Cornillie, Publisher: Women of Influence: Advice to live by",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     }
   ],
