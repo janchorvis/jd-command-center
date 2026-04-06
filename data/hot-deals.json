@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T10:30:09.301366",
+  "lastUpdated": "2026-04-06T11:30:09.623870",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-06",
@@ -52,6 +52,11 @@
       "nextStep": "Reply to Bill confirming HVAC requirement (or propose alternative) so they can submit for April REC.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-06",
+          "event": "Email from Malone Chamber of Commerce: NEW EVENTS, NEW MALONE DIRECTORY!",
+          "type": "email"
+        },
         {
           "date": "2026-04-05",
           "event": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease Agreement",
@@ -521,6 +526,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-04-06",
+          "event": "Email from Malone Chamber of Commerce: NEW EVENTS, NEW MALONE DIRECTORY!",
+          "type": "email"
+        },
+        {
           "date": "2026-04-05",
           "event": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease Agreement",
           "type": "email"
@@ -944,6 +954,16 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-06",
+          "event": "Email from Malone Chamber of Commerce: NEW EVENTS, NEW MALONE DIRECTORY!",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Email from ICSC Commerce + Communities Today: What It Takes To Launch a Retail Real Estate Business",
+          "type": "email"
+        },
         {
           "date": "2026-04-06",
           "event": "Email from Jonathan Spoerl and David Judd: Philadelphia, PA: ±11,060 SF on ±0.4 AC Available for Sale or Lease – Freestandi",
@@ -1800,6 +1820,11 @@
       "nextStep": "Wait for execution.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-06",
+          "event": "Email from ICSC Commerce + Communities Today: What It Takes To Launch a Retail Real Estate Business",
+          "type": "email"
+        },
         {
           "date": "2026-04-06",
           "event": "Email from CPE Daily Newsletter: How retailers are reshaping logistics",
@@ -3378,6 +3403,11 @@
       "timeline": [
         {
           "date": "2026-04-06",
+          "event": "Email from Malone Chamber of Commerce: NEW EVENTS, NEW MALONE DIRECTORY!",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-06",
           "event": "Email from CRE615®: APRIL EVENTS LINEUP - we're doing a little bit of everything this month",
           "type": "email"
         },
@@ -3695,6 +3725,11 @@
       "nextStep": "Waiting on Melissa Eddy (Asana due 3/20) - reaching out to Ashby re: Memo of Exclusive + Declarant estoppel.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-06",
+          "event": "Email from Malone Chamber of Commerce: NEW EVENTS, NEW MALONE DIRECTORY!",
+          "type": "email"
+        },
         {
           "date": "2026-04-05",
           "event": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease Agreement",
@@ -7213,20 +7248,6 @@
       "urgency": "low"
     },
     {
-      "name": "Paul",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
-      "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
-      "urgency": "low"
-    },
-    {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
       "daysSinceContact": 1,
@@ -7248,27 +7269,6 @@
       "urgency": "low"
     },
     {
-      "name": "Melissa",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
-      "urgency": "low"
-    },
-    {
-      "name": "Lisa Schwartz, Esq.",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
-      "urgency": "low"
-    },
-    {
       "name": "Peter Adams",
       "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
       "daysSinceContact": 1,
@@ -7276,17 +7276,31 @@
       "urgency": "low"
     },
     {
+      "name": "Paul",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Malone Chamber of Commerce: NEW EVENTS, NEW MALONE DIRECTORY!",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Malone Chamber of Commerce: NEW EVENTS, NEW MALONE DIRECTORY!",
+      "urgency": "low"
+    },
+    {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jonathan Spoerl and David Judd: Philadelphia, PA: ±11,060 SF on ±0.4 ",
+      "lastAction": "Email from Malone Chamber of Commerce: NEW EVENTS, NEW MALONE DIRECTORY!",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from CPE Daily Newsletter: How retailers are reshaping logistics",
+      "lastAction": "Email from ICSC Commerce + Communities Today: What It Takes To Launch a Retail R",
       "urgency": "low"
     },
     {
@@ -7314,7 +7328,28 @@
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from CRE615®: APRIL EVENTS LINEUP - we're doing a little bit of everything",
+      "lastAction": "Email from Malone Chamber of Commerce: NEW EVENTS, NEW MALONE DIRECTORY!",
+      "urgency": "low"
+    },
+    {
+      "name": "Melissa",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Malone Chamber of Commerce: NEW EVENTS, NEW MALONE DIRECTORY!",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Malone Chamber of Commerce: NEW EVENTS, NEW MALONE DIRECTORY!",
+      "urgency": "low"
+    },
+    {
+      "name": "Lisa Schwartz, Esq.",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Malone Chamber of Commerce: NEW EVENTS, NEW MALONE DIRECTORY!",
       "urgency": "low"
     },
     {
