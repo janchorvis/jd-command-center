@@ -6783,6 +6783,48 @@
       "property": "Emerson Hall",
       "lastSeen": "Leasing Meeting Recap - 3/30/2026 (corrected)",
       "note": ""
+    },
+    {
+      "id": "emerson-agreed-upon-loi",
+      "name": "Emerson",
+      "property": "Agreed-upon LOI",
+      "lastSeen": "Week Of 3/30/26",
+      "note": "Dropped from prep doc. Last status: Leasing Job listed"
+    },
+    {
+      "id": "emerson-hall-prather-lately-projects",
+      "name": "Emerson Hall",
+      "property": "Prather / Lately Projects",
+      "lastSeen": "Week Of 3/30/26",
+      "note": "Dropped from prep doc. Last status: I made the lease draft and sent it to Ashby. She hasn't responded, so I will ping her again today. I know she's been working on some other things for us"
+    },
+    {
+      "id": "emerson-hall-live-nation-josh-levy-arca",
+      "name": "Emerson Hall",
+      "property": "Live Nation / Josh Levy (ARCA)",
+      "lastSeen": "Week Of 3/30/26",
+      "note": "Dropped from prep doc. Last status: This one isn't worth pursuing. He said they could only pay mid-twenties……"
+    },
+    {
+      "id": "mcminnville-wingstop",
+      "name": "McMinnville",
+      "property": "Wingstop",
+      "lastSeen": "Week Of 3/30/26",
+      "note": "Dropped from prep doc. Last status: The broker texted me this weekend and said they're good to shift to suite 107, and we are going to connect on it today. I think the deal should stay the same follow up if we haven't heard back."
+    },
+    {
+      "id": "mcminnville-7-brew",
+      "name": "McMinnville",
+      "property": "7 Brew",
+      "lastSeen": "Week Of 3/30/26",
+      "note": "Dropped from prep doc. Last status: Jack Gilmore reached out about the Krystal building 7Brew, and I told them they had lots of term, but was curious if they'd explore where that barbecue building is instead. He said they may be interested and asked about economics. I planned to touch base with Ryan about this one today as well."
+    },
+    {
+      "id": "leasing-associate-hire",
+      "name": "Leasing Associate Hire",
+      "property": "Leasing Associate Hire",
+      "lastSeen": "Week Of 3/30/26",
+      "note": "Dropped from prep doc. Last status: Talked to one candidate last week and have a couple of phone calls this week. Should I just coordinate with Melissa on scheduling for in-person interviews? Also, I filled out the C job that you sent me, but I have not been able to reach out to Matt White yet, but I will. Fostr We had our call with Yardi, and it all went smoothly. Yardi is working on getting everything set up that we requested. PTL. Hannah's gonna get me an updated price for that integration."
     }
   ],
   "staleContacts": [
@@ -23699,108 +23741,103 @@
     ]
   },
   "prepDocDiff": {
-    "generatedAt": "2026-03-27T15:03:41.323922",
-    "thisWeek": "Leasing Meeting Prep - 3/23/26",
-    "lastWeek": "Leasing Meeting Prep - Week of 3/23/26",
+    "generatedAt": "2026-04-06T09:41:27.940489",
+    "thisWeek": "Leasing Meeting Prep - Week of 4/6/26",
+    "lastWeek": "Leasing Meeting Prep - Week of 3/30/26",
     "new": [
       {
-        "name": "Fireworks Deals",
-        "property": "Fireworks Deals",
-        "status": "Parker's been talking to a fireworks group. They pay $2,000 to $5,000 for two weeks leading into July 4th. Below are the sites they're interested in. They all look good to me, but I wanted your input on them. We've already had the conversations around tent stakes and how they handle that, and they're willing to adhere to our requests. “Jackson / Memphis Area (would require at least three additional sites to be financially viable for 2026):",
-        "nextStep": ""
-      },
-      {
-        "name": "Old Hickory Boulevard",
-        "property": "Jackson, TN",
-        "status": "21 Meridian Springs Dr – Jackson, TN",
-        "nextStep": ""
-      },
-      {
-        "name": "Millington Road",
-        "property": "Millington, TN",
-        "status": "",
+        "name": "Hope Smiles",
+        "property": "44 Vantage",
+        "status": "Shelby Hall asked on 3/31 for an update from the designer and Hope Smiles. I still owe her a status update. Dropped / Worth Discussing Emerson Hall - Live Nation / Josh Levy. Dead per last week’s note and not worth pursuing at mid-twenties rent.",
         "nextStep": ""
       }
     ],
     "dropped": [
       {
-        "name": "Shelbyville",
-        "property": "Anytime Fitness",
-        "lastStatus": "Derek Tucker wants to be in by November. LOI in progress. Need to call him back."
+        "name": "Emerson",
+        "property": "Agreed-upon LOI",
+        "lastStatus": "Leasing Job listed"
       },
       {
-        "name": "Shelbyville Outparcel",
-        "property": "Shelbyville Outparcel",
-        "lastStatus": "Two prospects active on Crexi this week. John G. opened the flyer and clicked the phone number 3/21. John B. clicked the phone number 3/19. Worth a proactive reach-out?"
+        "name": "Emerson Hall",
+        "property": "Prather / Lately Projects",
+        "lastStatus": "I made the lease draft and sent it to Ashby. She hasn't responded, so I will ping her again today. I know she's been working on some other things for us"
+      },
+      {
+        "name": "Emerson Hall",
+        "property": "Live Nation / Josh Levy (ARCA)",
+        "lastStatus": "This one isn't worth pursuing. He said they could only pay mid-twenties……"
+      },
+      {
+        "name": "McMinnville",
+        "property": "UPS Store",
+        "lastStatus": "Ball is in our court to respond to Jon Petty's LOI. I connected with him last week on the discrepancy between an as-is deal and us doing the White box. Clay is pricing out the white box work letter as we speak. We have that meeting with Ryan today to talk about the plan for each tenant, so I'm just going to get a ballpark number that we can use so we can go ahead and respond"
+      },
+      {
+        "name": "McMinnville",
+        "property": "Wingstop",
+        "lastStatus": "The broker texted me this weekend and said they're good to shift to suite 107, and we are going to connect on it today. I think the deal should stay the same follow up if we haven't heard back."
+      },
+      {
+        "name": "McMinnville",
+        "property": "7 Brew",
+        "lastStatus": "Jack Gilmore reached out about the Krystal building 7Brew, and I told them they had lots of term, but was curious if they'd explore where that barbecue building is instead. He said they may be interested and asked about economics. I planned to touch base with Ryan about this one today as well."
+      },
+      {
+        "name": "Leasing Associate Hire",
+        "property": "Leasing Associate Hire",
+        "lastStatus": "Talked to one candidate last week and have a couple of phone calls this week. Should I just coordinate with Melissa on scheduling for in-person interviews? Also, I filled out the C job that you sent me, but I have not been able to reach out to Matt White yet, but I will. Fostr We had our call with Yardi, and it all went smoothly. Yardi is working on getting everything set up that we requested. PTL. Hannah's gonna get me an updated price for that integration."
       }
     ],
     "progressed": [
       {
-        "name": "McMinnville",
-        "property": "UPS Store",
-        "from": "Tour was 3/18. I was on-site with Matterport. Need to follow up with Jon Petty.",
-        "to": "Tour was 3/18. It went well, and the ball is in our court to respond to their LOI. Petty said they have to have a white box so Clay is also going to work on pricing out their work letter."
-      }
-    ],
-    "stalled": [],
-    "updated": [
-      {
-        "name": "Emerson Hall",
-        "property": "Two Active Prospects",
-        "from": "Prather / Lately Projects (Charles Hawkins Co.) - They sent back their counter 3/20. They agree to our rate but want an 8-year term, 3 more months free rent, and 2% annual bumps. Stephen said \"we are ready to head to a lease agreement.\" I told them let us discuss early next week. Worth noting the SF came in about 30% larger than they originally quoted - Stephen acknowledged it and said their first offer might've been different if they'd known. Live Nation / Josh Levy (ARCA) - Josh reached out 3/20 representing Live Nation for a comedy venue (not music - too small for that). They need 6-7K SF for a showroom. Deal terms would be $200/SF TIA plus MEP and HVAC outside the TIA, 4% fee on base term, 20-25 year lease with options. At our SF that's $2.86M+ before MEP/HVAC. I forwarded to you and told Josh I need to talk with the owners. I also let him know we have another prospect progressing. Is this something ownership would entertain alongside the Prather deal, or is the as-is Prather deal the clear winner?",
-        "to": "Prather / Lately Projects (Charles Hawkins Co.) - They sent back their counter 3/20. They agree to our rate but want an 8-year term, 3 more months free rent, and 2% annual bumps. Stephen said \"we are ready to head to a lease agreement.\" I told them let us discuss early next week."
+        "name": "Evansville",
+        "property": "Easterseals (Big Lots box)",
+        "from": "Sent you and Ryan this info about Easterseals Rehabilitation Clinic interested in buying the box. Waiting for Ryan to get me some numbers - I called him right after. I sent that email, and we connected on it.",
+        "to": "Laurie confirmed they only want the Big Lots portion and I told her I would come back with numbers. I need your direction on pricing so I can send a real response. 803 Martin St S - ProStar (Lauri Fowler) Tour went well and their construction manager is drawing the plan; they asked if I have someone who can bid the work. Tell me if you want us to price it or if we should point them to their own GC."
       },
       {
         "name": "Malone Plaza",
         "property": "Malone Plaza",
-        "from": "Shoe Dept Encore - Shared access language is resolved. Side door is emergency only, load through front. LaTrisha confirmed. I'm recommending we add delivery hour restrictions. Going to send revised language to Paul. Ajay Secore / Golf Simulator - Inbound inquiry 3/1 for Unit 3. I sent drawings and lockbox code. Followed up 3/6. Need to check if he's visited.",
-        "to": "Shoe Dept Encore - Paul called me on Friday, and hopefully they will have a resolution for us at some point today"
-      },
-      {
-        "name": "WingStop",
-        "property": "McMinnville",
-        "from": "Kevin Trujillo (BSM Properties) sent the actual LOI doc 3/19 and said if this is good, they're ready to move to lease. This one dropped off after 2/16 - originally we were looking at $17 net / $90K TI with extra HVAC and grease trap needed. Need to review the LOI terms and see if we're comfortable moving forward.",
-        "to": "I called them after being on site in McMinnville and told them that we were probably gonna have to shift around the suite they're looking at. I can explain more in our meeting"
-      },
-      {
-        "name": "Gastonia",
-        "property": "Dixie Village (Laundromat)",
-        "from": "Same situation as before. Chad Vang is requesting extra $30K TI (from $50K to $80K) for front doors and side windows. Roof replacement already on the asset management dashboard for this year. We're at $12.50/SF. My thought is still to grant the extra TI and bump starting rent $0.50-$1.00/SF to offset. Good operator, space has been sitting.",
-        "to": "Parker is helping me draft a lease, and we will send it over to them"
-      },
-      {
-        "name": "Buena Vista",
-        "property": "2433 Buena Vista Pike",
-        "from": "Getting some traction on Crexi. Brian Drobnick with NRP Group reached out - he's a multifamily developer out of Hendersonville representing NRP, one of the bigger affordable/workforce multifamily shops nationally. He's interested in the site for affordable multifamily but flagged that SP zoning yield might be too low for their proforma. Wants to talk price and whether an SP amendment is possible. I need to connect with him this week. Also had a couple other Crexi clicks - Madeline Forte thread is active, Drew Mixson reached out about sewer info, and Melissa Eddy shared the Planters Bank Note Purchase folder. Flyer designer on Fiverr (Yas) has been quiet for 10+ days - need to check on that too. Junior Leasing Hire Posting went live 3/17 through Robbie. Want to check in on where we are with applicants and what the timeline looks like. If we're getting resumes, I can start screening. If not, we may need to adjust the posting or widen the net.",
-        "to": "Getting some traction on Crexi. Brian Drobnick with NRP Group reached out - he's a multifamily developer out of Hendersonville representing NRP, one of the bigger affordable/workforce multifamily shops nationally. He's interested in the site for affordable multifamily but flagged that SP zoning yield might be too low for their proforma. Wants to talk price and whether an SP amendment is possible We are talking later today."
-      },
-      {
-        "name": "PCON",
-        "property": "PCON",
-        "from": "Brian Nock asked me to recruit you for the Leadership and Philanthropy Dinner Host Committee. April 22 at Hillwood Country Club. $1,000 donation plus attend, and you can bring a male mentee or PCON prospect. Need a name two weeks prior. I told Brian I'd ask you Monday. Dropped / Worth Discussing CosmoProf / Sevierville - Last activity 2/16. 5 weeks silent. Sally Beauty / McMinnville - Initial interest 1,700-2,000 SF. Last seen 2/16. Fat Boys Pizza / Russellville - Prospect \"really liked it.\" Last seen 2/16. Peddlers Mall / Evansville - Toured and liked it 2/24. No follow-up.",
-        "to": "We can discuss in the meeting. Brian Nock asked me If I could discuss with you about being a part of the Host Committee for our annual Leadership and Philanthropy Dinner. April 22 at Hillwood Country Club. The ask is a $1,000 donation plus attending the event. You also get the option to bring a young leader that you want to mentor / hear the message and would benefit from being in attendance. No pressure at all from my end. I figured we could talk through the details"
+        "from": "I will follow up with Paul today and see where we are at getting it sent over for execution. Also booked a time with them to meet up in Vegas.",
+        "to": "Five Below - LOI signed 3/17 and REC meeting is 4/22. No new movement this week. Shoe Dept Encore - No new email activity; still waiting on execution and I need to follow up with Paul."
       }
     ],
-    "noChange": [
+    "stalled": [
       {
-        "name": "Hope Smiles",
-        "property": "44 Vantage Way",
-        "status": "I sent the landlord counter to Amy Harper and Dr. Kemp on 3/19. $19.50/SF FSG, 10-year, 3% bumps. No response yet. I also told Cool Springs Commons that Hope Smiles wants to see how the as-is option plays out, so Cool Springs is effectively off the table for now. Going to follow up mid-week if we haven't heard back.",
+        "name": "McMinnville Plaza",
+        "property": "McMinnville Plaza",
+        "status": "UPS Store - Clay is waiting on the whitebox quote from Jacob Byron to finalize terms. Nothing to do until we get that pricing back. 7 Brew - I quoted $80K/year ground rent and asked Jack Gilmore for the CAD so I can lay out a site plan. Still waiting on the CAD. Royal Furniture space (Sheldon Griffin) - He asked for clear heights and loading details after I sent Matterport and photos. I need to respond with clear heights. TJX (Holly Buchanan) - I re-engaged TJX on 4/1 about ~20K SF. Awaiting reply.",
         "weeksUnchanged": 1
       },
       {
-        "name": "Russellville",
-        "property": "ABC Retail",
-        "status": "Same as before. 3 hand-signed copies, no DocuSign. Commission approval sent 3/19. Need your signature and then we'll return to Melissa.",
+        "name": "Maple Row",
+        "property": "The Great Greek",
+        "status": "Joey Valenti asked for Fox’s Pizza floorplan and said they are debating between spaces. I sent the floorplan on 4/1 and we are waiting on their decision.",
         "weeksUnchanged": 1
       },
       {
-        "name": "McMinnville",
-        "property": "A-Stock (New Lead)",
-        "status": "Peter Adams (Trevarse LLC dba A-Stock) responded 3/20. They're adding 3-4 locations this year and asked for McMinnville info and demographics. I told him I'd send it early this week. .",
+        "name": "Pell City Marketplace",
+        "property": "Jefferson’s",
+        "status": "Tanviz toured 3/30, liked the space, and is talking with his team. Waiting on his decision.",
         "weeksUnchanged": 1
       }
-    ]
+    ],
+    "updated": [
+      {
+        "name": "Buena Vista Pike",
+        "property": "2433 Pike",
+        "from": "I've had a handful of groups reach out but only preliminary interest so far. You have an email in your inbox to blast out to some of your contacts. Also, wanted to talk through the below on communication preferences.",
+        "to": "Danny Hume (Landeavor) came back on 4/1 saying they looked at this in 2024 at a $4-6M basis and asked for updated cost to complete lot development. I forwarded to you asking how you want me to handle historical pricing and old debt levels, so I need your guidance before I respond. I also nudged you on 3/30 to send the flyer to your contacts and have not heard back. If you want me to run a broader blast myself, tell me the list you want targeted."
+      },
+      {
+        "name": "Hope Smiles",
+        "property": "Cool Springs Commons (2910/2912 Sidco)",
+        "from": "Let's connect on what we should do. I have not called 44 Vantage yet just in case he changes his mind again….",
+        "to": "Robby Davis sent the brochure and pricing on 4/3: $3.795M, 7,800 SF, 50 percent vacant, Stone Source at $25 NNN with lease through Nov 2031. If you think this is worth floating to Hope Smiles as a purchase, I will move; if not, I will close it out."
+      }
+    ],
+    "noChange": []
   },
   "propertyReviewTodos": {
     "generatedAt": "2026-03-17T20:49:53.959486",
