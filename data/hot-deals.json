@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T12:01:01.710183",
+  "lastUpdated": "2026-04-06T12:02:07.972878",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-06",
@@ -1518,14 +1518,19 @@
       "id": "gastonia-laundromat",
       "name": "Chad Vang - Laundromat",
       "property": "Gastonia - Dixie Village",
-      "status": "New LoopNet lead asking about drive-in door availability for auto reconditioning shop space.",
+      "status": "Lease sent to Chad Vang, waiting on signature.",
       "stage": "LOI",
-      "nextStep": "Confirm if any available units have drive-in door; reply with details and ask for size/requirements.",
+      "nextStep": "Wait for signed lease.",
       "priority": "medium",
       "timeline": [
         {
           "date": "2026-04-06",
           "event": "LoopNet lead: Kip Brooks inquired about drive-in door for Dixie Village (2500 W Franklin Blvd).",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "LoopNet lead for Dixie Village: Kip Brooks asked about drive-in door availability for auto reconditioning shop space.",
           "type": "email"
         },
         {
