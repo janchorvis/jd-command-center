@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T09:42:45.487584",
+  "lastUpdated": "2026-04-06T10:01:06.451681",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-06",
@@ -4719,10 +4719,15 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row",
-      "status": "LOI received from Joey Valenti. $24 rent vs $28 ask. $20 TI with whitebox work letter. No whitebox - TI only.",
-      "nextStep": "Jacob: call Joey Friday 3pm. No whitebox, TI only. Check if Foxes can stay.",
+      "status": "Centennial Retail says tenant will be more aggressive on 235 E Main St space; less aggressive on Fox’s Pizza. Sent updated LOI comments.",
+      "nextStep": "Jacob to review LOI comments and respond with position.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-06",
+          "event": "Email: Joey Valenti sent updated LOI comments for 235 E Main St, notes tenant more aggressive on this space.",
+          "type": "email"
+        },
         {
           "date": "2026-04-04",
           "event": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
