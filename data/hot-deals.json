@@ -24248,7 +24248,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-04-07T07:32:21",
+    "generatedAt": "2026-04-07T07:32:49",
     "source": "morning-briefing",
     "yourPlate": [
       {
@@ -24397,67 +24397,133 @@
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
-      },
+      }
+    ],
+    "prepping": [
       {
-        "id": "sweep-plate-1",
+        "id": "sweep-prep-1",
         "text": "T068/T069 Malone flyer and small shop outreach list",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
-        "id": "sweep-plate-2",
+        "id": "sweep-prep-2",
         "text": "T070/T089 ICSC targets and Vegas schedule pack",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
-        "id": "sweep-plate-3",
+        "id": "sweep-prep-3",
         "text": "T078 Buena Vista listing blast draft",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
-        "id": "sweep-plate-4",
+        "id": "sweep-prep-4",
         "text": "T090 Concur expense defaults and coding questions",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
-        "id": "sweep-plate-5",
+        "id": "sweep-prep-5",
         "text": "T093 Five Below HVAC pricing / reuse analysis",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
-        "id": "sweep-plate-6",
+        "id": "sweep-prep-6",
         "text": "T094 Maple Row financial review prep",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
-      },
+      }
+    ],
+    "handling": [
       {
-        "id": "sweep-plate-1",
+        "id": "sweep-handle-1",
         "text": "T091 Canva and Perenn receipt screenshots for Concur",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
-        "id": "sweep-plate-2",
+        "id": "sweep-handle-2",
         "text": "Asana cleanup and re-date stale Big Board items",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       }
     ],
-    "prepping": [],
-    "handling": [],
-    "deferred": []
+    "deferred": [
+      {
+        "id": "sweep-defer-1",
+        "text": "- T052 Aldi reply waiting on Matterport and Spencer",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-2",
+        "text": "- T066 PCON event invite is stale, event already passed",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-3",
+        "text": "- T092 William C email lookup blocked by missing exact subject/address",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-4",
+        "text": "- T019 Runnings not urgent",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-5",
+        "text": "- T021 older ICSC scheduling task superseded by current prep",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-6",
+        "text": "- T048 Vercel reconnect not urgent",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-7",
+        "text": "- WATCHING hit 7 days unchanged: Jefferson's, Crunch Fitness, McMinnville sign/landscaping, Gastonia, ABC Russellville",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-8",
+        "text": "- Personal: Loper flights, Loper hotels, anniversary planning",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-9",
+        "text": "🚀 Command Center: https://jd-command-center.vercel.app",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ]
   },
   "prepDocDiff": {
     "generatedAt": "2026-04-06T09:41:27.940489",
@@ -24856,7 +24922,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-04-07T07:32:21",
+    "generatedAt": "2026-04-07T07:32:49",
     "source": "morning-briefing",
     "items": [
       {
