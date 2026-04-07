@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T11:30:23.027659",
+  "lastUpdated": "2026-04-07T12:30:45.230145",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-07",
@@ -2320,6 +2320,11 @@
       "nextStep": "Call Ashby - leave voicemail, ask for turnaround by Wednesday. Touch base with Prather with updated timeline.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-07",
+          "event": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
+          "type": "email"
+        },
         {
           "date": "2026-04-07",
           "event": "Email from CoStar News: CoStar Today: How this Los Angeles hotel owner preps its properties for the 2028",
@@ -5063,6 +5068,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-04-07",
+          "event": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
           "date": "2026-04-06",
           "event": "Email from Joey Valenti: FW: [EXTERNAL] - FW: 235 E Main St, 1st Floor, Hendersonville, TN 37075, United ",
           "type": "email"
@@ -5597,6 +5607,11 @@
         "Hillary Holmes – gildedspinebooks@gmail.com, (414) 607-2197"
       ],
       "timeline": [
+        {
+          "date": "2026-04-07",
+          "event": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
+          "type": "email"
+        },
         {
           "date": "2026-04-07",
           "event": "Email from Beth Azor: Don’t Become Your Tenant’s﻿ ﻿Maintenance Department 👷‍♂️",
@@ -7782,13 +7797,6 @@
       "urgency": "low"
     },
     {
-      "name": "Joey",
-      "deal": " — Maple Row",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - FW: 235 E Main St, 1st Floor, Henderso",
-      "urgency": "low"
-    },
-    {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
@@ -7820,14 +7828,14 @@
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from CoStar News: CoStar Today: How this Los Angeles hotel owner preps its",
+      "lastAction": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from CoStar News: CoStar Today: How this Los Angeles hotel owner preps its",
+      "lastAction": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
       "urgency": "low"
     },
     {
@@ -7838,10 +7846,17 @@
       "urgency": "low"
     },
     {
+      "name": "Joey",
+      "deal": " — Maple Row",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
+      "urgency": "low"
+    },
+    {
       "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
       "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Beth Azor: Don’t Become Your Tenant’s﻿ ﻿Maintenance Department 👷‍♂️",
+      "lastAction": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
       "urgency": "low"
     },
     {
