@@ -1,17 +1,17 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-04-03 6:01 PM CST (self-review)
+Last updated: 2026-04-06 6:00 PM CST (self-review)
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T093 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T097 -->
 
 ## ACTIVE — Jacob needs to do these
 
-### This Week (week of 3/30)
-- T050: PCON feedback form for Jack Beachboard — prospective member, submit via HubSpot link in email (3/12). Was due 3/17 (OVERDUE — 16 days late). [asana: 1213659300550136]
+### This Week (week of 4/6)
+- T050: PCON feedback form for Jack Beachboard — prospective member, submit via HubSpot link in email (3/12). Was due 3/17 (OVERDUE — 20 days late). [asana: 1213659300550136]
 - T051: Five Below (Malone Plaza) — LOI signed and returned 3/17. REC meeting 4/22. Facade renderings requested from Shaun (architect). Waiting on Shaun. [source: email 3/17, updated 3/22]
 - T060: Send Micah calendar invite for PCON dinner — April 22, host committee. [source: leasing meeting 3/23]
 - T065: PCON sponsorships — secure sponsors for upcoming event [asana: 1213840904488698]
-- T066: Invite people to next Friday (4/4) PCON event [asana: 1213840882206260] [due: 4/3]
+- T066: Invite people to next Friday (4/4) PCON event [asana: 1213840882206260] [due: 4/3, OVERDUE — 3 days late]
 - T067: Talk to Carter about Thursday mornings [asana: 1213840882210964]
 - T068: Send Malone flyer to small shop tenants [asana: 1213840882213654] [depends on: T069]
 - T069: Finish Malone flyer [asana: 1213840882213751]
@@ -26,7 +26,7 @@ Last updated: 2026-04-03 6:01 PM CST (self-review)
 - T078: Blast out Buena Vista listings [asana: 1213840882215086] [note: include Brian Drobnick/NRP Group — called last week, no answer]
 - T079: Work with Parker to get sign for Buena Vista [asana: 1213840947037043] [absorbed T016]
 - T080: Redline Five Below work letter [asana: 1213841001404970] [absorbed T018]
-- T083: Set up Melissa Drish laptop (ThinkBook 16 Gen 8) — arriving ~3/29, must be ready before April 6 start date [asana: 1213841285824838] [due: 4/5]
+- T083: Set up Melissa Drish laptop (ThinkBook 16 Gen 8) — arriving ~3/29, must be ready before April 6 start date [asana: 1213841285824838] [due: 4/5, OVERDUE — 1 day late]
 - T084: Call Ashby re: Emerson lease — leave voicemail, get turnaround by Wednesday. Added parking exhibit. [source: leasing meeting 3/30] [deal: Emerson Hall]
 - T085: Tell Brian to get Big Lots box pricing this week (Evansville Easter Seals/GCS) — pitch at ~$75/ft [source: leasing meeting 3/30] [deal: Evansville]
 - T086: Push Cosmoprof with firm terms on Shelbyville — no TI, state what we will/won't do, don't lose interest [source: leasing meeting 3/30]
@@ -36,6 +36,11 @@ Last updated: 2026-04-03 6:01 PM CST (self-review)
 - T090: Concur expense report — confirm default Property + preferred Business Purpose wording for corporate/software expenses (blocker for coding 18 expenses). [source: 4/2 Concur coding]
 - T091: Screenshot Canva and Perenn receipts from email (no PDFs) for Concur. [Jarvis]
 - T092: Find most recent email from William C (Williamson) with comments for PCON draft - need exact subject or email address from Jacob. [source: 4/3 draft blocker]
+
+- T093: Get Five Below HVAC replacement pricing and assess whether current 7.5-ton units can be reused elsewhere. [source: leasing meeting 4/6] [deal: Malone Plaza]
+- T094: Review full financials for the preferred Maple Row local operator and decide whether to move forward. [source: leasing meeting 4/6] [deal: Maple Row]
+- T095: Call on the 30K SF HopeSmiles purchase option to confirm availability and price flexibility. [source: leasing meeting 4/6] [deal: HopeSmiles]
+- T096: Ask Buena Vista land contacts for prior bid materials and move the sod / site presentation work forward. [source: leasing meeting 4/6] [deal: Buena Vista Pike]
 
 ### Next Week+
 - T019: Reach out to Runnings — exclusive with Ashby [source: brain-dump 3/6] [asana: 1213420777322230]
@@ -48,6 +53,9 @@ Last updated: 2026-04-03 6:01 PM CST (self-review)
 
 ## WATCHING — Monitor, not actionable yet
 
+Note: all current WATCHING items date to 3/30 and hit the 7-day mark today. Flag them in the 4/7 morning briefing if there is still no movement.
+
+
 - Jefferson's (Pell City) — sharp operator from Chicago, self-funding $500-750K build-out. Should have app today. [source: leasing meeting 3/30]
 - Crunch Fitness (McMinnville) — responded positively to co-tenancy growth, revisiting. [source: leasing meeting 3/30]
 - McMinnville monument sign — Clay sent bigger design, location debate (old spot vs highway). [source: leasing meeting 3/30]
@@ -57,24 +65,7 @@ Last updated: 2026-04-03 6:01 PM CST (self-review)
 
 ## COMPLETED — Recent (auto-cleaned after 7 days)
 
-### Completed via audit 3/28
-- T027: Check Fiverr messages (Yas/Buena Vista flyer) [completed: 2026-03-28, audit]
-- T004: Chad Vang LOI counter [completed: 2026-03-28, audit]
-- T017: Dirt company contact from Micah [completed: 2026-03-28, audit]
-- T025: Micah sending dirt company contact email [completed: 2026-03-28, audit]
-- T023: LOI documents from Jacob for Shoe Dept [completed: 2026-03-28, audit]
-- T024: Micah sharing parent Drive folder for Buena Vista [completed: 2026-03-28, audit]
-- T056: Follow up Amy/Dr. Camp expansion [completed: 2026-03-28, audit]
-- T058: Send Micah email with JD description [completed: 2026-03-28, audit]
-- T063: Add utility info to McMinnville external folder [completed: 2026-03-28, audit]
-
-### Completed earlier
-- T055: Call Bell re: Wingstop McMinnville LOI [completed: 2026-03-26, sweep]
-- T047: Review HopeSmiles (44V) landlord counter [completed: 2026-03-26, sweep]
-- T042: Call Derek Tucker — Anytime Fitness LOI [completed: 2026-03-26, sweep]
-
-### This Month
-- T053: Pipedrive Sunset — migrate lead capture to command center, remove Pipedrive dependencies, cancel by end of April. [source: leasing channel 3/22] [project: memory/projects/pipedrive-sunset.md]
+- None currently retained after 7-day cleanup.
 
 ## Ongoing Projects (not tasks, just context)
 - Anchor Dashboard v1 — live at anchor-dashboard-rho.vercel.app
