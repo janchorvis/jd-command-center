@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T10:01:43.296998",
+  "lastUpdated": "2026-04-07T10:02:08.166230",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-07",
@@ -4822,12 +4822,17 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City",
-      "status": "Prospect - sharp operator from Chicago, parents own delis in AL/GA. Expanding franchise to small towns. $500-750K build-out they'd pay themselves.",
+      "status": "New broker inquiry on Pell City outparcel from Keith Shamblin for a group needing roughly 0.5 acres.",
       "stage": "Contact Made",
-      "nextStep": "Should have application/info today; follow up",
+      "nextStep": "Jacob to confirm whether a small outparcel can be carved out and respond to Keith.",
       "priority": "medium",
       "contacts": [],
       "timeline": [
+        {
+          "date": "2026-04-07",
+          "event": "Email from Keith Shamblin: group needs about 0.5 acres in Pell City and asked if a small outparcel can be carved out at Pell City Marketplace.",
+          "type": "email"
+        },
         {
           "date": "2026-04-06",
           "event": "Email from Luc Champagne: Egg Harbor City, NJ: ±1,500 - 5,800 SF for Lease and Pad Site for Lease or Sale",
