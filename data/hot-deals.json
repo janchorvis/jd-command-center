@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T17:30:12.579360",
+  "lastUpdated": "2026-04-06T20:22:30.423087",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-06",
@@ -48,7 +48,11 @@
       "Keep answering Spencer / Sheldon diligence questions on Royal Furniture and evaluate a loading solution.",
       "Ask Buena Vista land contacts for old bid materials and move forward on sod / site presentation work.",
       "Micah to force a real direction call with Dr. Kemp this week on HopeSmiles criteria and budget.",
-      "Jacob to call on the 30K SF HopeSmiles purchase option to confirm availability and price flexibility."
+      "Jacob to call on the 30K SF HopeSmiles purchase option to confirm availability and price flexibility.",
+      "Get Five Below HVAC replacement pricing and assess whether current 7.5-ton units can be reused elsewhere.",
+      "Review full financials for the preferred Maple Row local operator and decide whether to move forward.",
+      "Call on the 30K SF HopeSmiles purchase option to confirm availability and price flexibility.",
+      "Ask Buena Vista land contacts for prior bid materials and move the sod / site presentation work forward."
     ]
   },
   "pipelineDeals": [
@@ -56,9 +60,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below work letter issue is HVAC age. Existing units are too old for tenant acceptance, so Anchor needs replacement pricing and may be able to reuse current units elsewhere.",
+      "status": "Five Below HVAC remains the live blocker. Existing units are too old for tenant acceptance, so Anchor needs replacement pricing and may be able to reuse the current 7.5-ton units elsewhere.",
       "stage": "LOI",
-      "nextStep": "Get replacement quote through property management / vendor contact and confirm whether that works for REC timing.",
+      "nextStep": "Get replacement pricing through property management or the tenant's national vendor contact and confirm whether existing units can be reused elsewhere.",
       "priority": "high",
       "timeline": [
         {
@@ -89,6 +93,11 @@
         {
           "date": "2026-04-06",
           "event": "Meeting: Five Below will not accept HVAC units older than five years. Team decided to get pricing on replacement units and explore reusing existing 7.5-ton units elsewhere.",
+          "type": "meeting"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Meeting recap loaded to Command Center: Five Below HVAC age became the primary blocker; team decided to price replacements and evaluate reuse of current units.",
           "type": "meeting"
         },
         {
@@ -554,9 +563,9 @@
       "id": "malone-shoe-dept",
       "name": "Shoe Dept",
       "property": "Malone Plaza",
-      "status": "Shoe Dept lease is near execution. Delay appears to be internal signoff / travel, not a substantive deal issue.",
+      "status": "Shoe Dept is still near execution. Delay appears to be internal signoff and travel, not substance.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Micah to call Paul and press for signature / contractor clarity so the document gets executed.",
+      "nextStep": "Micah to call Paul and press for signature / contractor clarity.",
       "priority": "high",
       "timeline": [
         {
@@ -587,6 +596,11 @@
         {
           "date": "2026-04-06",
           "event": "Meeting: team discussed pushing Paul for execution because the lease appears to be traveling for signature.",
+          "type": "meeting"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Meeting recap loaded to Command Center: Micah decided to call Paul directly and push Shoe Dept execution.",
           "type": "meeting"
         },
         {
@@ -4291,9 +4305,9 @@
       "id": "mcminnville-royal-furniture",
       "name": "Royal Furniture",
       "property": "McMinnville Plaza",
-      "status": "Spencer and Sheldon are actively reviewing the corrected plan and asking loading / clear-height questions. Dock access remains the main physical issue.",
+      "status": "Spencer and Sheldon are still actively evaluating the corrected plan. Loading configuration and truck access remain the key physical issue.",
       "stage": "Contact Made",
-      "nextStep": "Continue answering diligence questions and evaluate whether a back-side truck-height solution can be created if needed.",
+      "nextStep": "Continue answering diligence questions and evaluate a workable truck-height / loading solution if needed.",
       "priority": "medium",
       "contacts": [
         "Spencer (Aldi)",
@@ -4318,6 +4332,11 @@
         {
           "date": "2026-04-06",
           "event": "Meeting: Jacob said he sent the corrected plan to Spencer and Sheldon and is fielding follow-up questions about loading and clear heights.",
+          "type": "meeting"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Meeting recap loaded to Command Center: Jacob continued fielding Royal Furniture diligence questions, especially around loading and clear heights.",
           "type": "meeting"
         },
         {
@@ -5092,8 +5111,8 @@
       "id": "pell-city-jeffersons",
       "tenant": "Jefferson's",
       "property": "Pell City",
-      "status": "Jefferson's re-engaged and plans to submit an LOI after a good tour. Team is considering a roughly 5,000 SF configuration using the middle bays.",
-      "nextStep": "Keep pressure on all users by telling them multiple prospects are active and the fastest movers will control the layout.",
+      "status": "Jefferson's re-engaged after a good tour and an LOI is expected. Team plans to use competitive pressure across all prospects so the fastest mover controls the layout.",
+      "nextStep": "Keep pressure on all active prospects and let speed determine space control.",
       "priority": "high",
       "timeline": [
         {
@@ -5109,6 +5128,11 @@
         {
           "date": "2026-04-06",
           "event": "Meeting: Jefferson's toured well and broker said an LOI is coming; team discussed fitting them with other prospects in the lineup.",
+          "type": "meeting"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Meeting recap loaded to Command Center: Jefferson's remains real, but the lineup strategy is to use speed and pressure across all users.",
           "type": "meeting"
         },
         {
@@ -5488,9 +5512,9 @@
       "id": "gilded-spine-maple-row",
       "name": "Gilded Spine (Storybook Soirees LLC)",
       "property": "235 E Main St, Hendersonville (Maple Row)",
-      "status": "Local operator submitted financials and is highly responsive. Jacob would rather do her deal if the financials check out.",
+      "status": "The preferred Maple Row path is the local operator. She is highly responsive and submitted financials, so the deal should move quickly if the numbers work.",
       "stage": "Contact Made",
-      "nextStep": "Review full financial package and move quickly if the financials support the deal.",
+      "nextStep": "Review the full financial package and move fast if the financials support the deal.",
       "priority": "high",
       "contacts": [
         "Hillary Holmes – gildedspinebooks@gmail.com, (414) 607-2197"
@@ -5504,6 +5528,11 @@
         {
           "date": "2026-04-06",
           "event": "Meeting: Jacob said the local operator has been responsive, submitted financials, and is preferred over the competing alternative if numbers work.",
+          "type": "meeting"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Meeting recap loaded to Command Center: local Maple Row operator remained the preferred option pending financial review.",
           "type": "meeting"
         },
         {
@@ -5585,8 +5614,8 @@
       "name": "HopeSmiles",
       "property": "44 Vantage Way, Cool Springs",
       "type": "Tenant Rep",
-      "status": "HopeSmiles remains blocked by Dr. Kemp's indecision. Micah pushed for concrete direction this week on lease vs. buy, geography, bus-line requirement, and budget. A better first-floor Cool Springs Commons option exists, and a separate ~30K SF purchase option around $9.9M may fit if they are serious about buying.",
-      "nextStep": "Micah to get Dr. Kemp's hard criteria and budget this week. Jacob to call on the 30K SF building to confirm availability and pricing flexibility.",
+      "status": "HopeSmiles is still blocked by Dr. Kemp's indecision. Micah pushed for hard direction this week on lease vs buy, geography, bus-line needs, and budget. A ~30K SF purchase option remains a realistic ownership path.",
+      "nextStep": "Micah to get hard criteria and budget this week. Jacob to call on the ~30K SF purchase option and confirm availability and price flexibility.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -5607,6 +5636,11 @@
         {
           "date": "2026-04-06",
           "event": "Meeting: Micah described a frustrating Dr. Kemp call, demanded clear decision criteria this week, and reviewed both lease and purchase options for HopeSmiles.",
+          "type": "meeting"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Meeting recap loaded to Command Center: HopeSmiles needs a hard criteria reset this week and the ~30K SF building was reinforced as a realistic ownership option.",
           "type": "meeting"
         },
         {
@@ -5878,8 +5912,8 @@
       "name": "Buena Vista",
       "property": "2433 Buena Vista Pike, Nashville",
       "type": "Land/Development",
-      "status": "Buena Vista still has buyer interest, but prospects need better development-cost context. Jacob has been quoting around $10M and believes sellers may listen to lower numbers, though basis is a concern.",
-      "nextStep": "Ask land contacts for old bid materials, use them to frame buyer conversations, and move forward on sod / site presentation work.",
+      "status": "Buena Vista still has buyer interest, but prospects need better development-cost context. Old bid materials and better site presentation would sharpen conversations.",
+      "nextStep": "Ask land contacts for prior bid materials and move the sod / site presentation work forward.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
@@ -5926,6 +5960,11 @@
         {
           "date": "2026-04-06",
           "event": "Meeting: team discussed giving prospects old bid data for Buena Vista, quoting around $10M, and improving the site with sod.",
+          "type": "meeting"
+        },
+        {
+          "date": "2026-04-06",
+          "event": "Meeting recap loaded to Command Center: team wants old bid materials and better site presentation to support Buena Vista buyer conversations.",
           "type": "meeting"
         },
         {
