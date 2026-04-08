@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T15:01:14.656207",
+  "lastUpdated": "2026-04-08T15:30:27.756773",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-08",
@@ -8046,6 +8046,11 @@
       "timeline": [
         {
           "date": "2026-04-08",
+          "event": "Email from Amazon.com: Delivered: \"Lenovo ThinkPad Universal...\"",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-08",
           "event": "Email from Nashville Business Journal: Don't Miss This Business Travel Live Panel",
           "type": "email"
         },
@@ -8770,7 +8775,7 @@
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss This Business Travel Live Pane",
+      "lastAction": "Email from Amazon.com: Delivered: \"Lenovo ThinkPad Universal...\"",
       "urgency": "low"
     }
   ],
