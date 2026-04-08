@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T07:32:31.353796",
+  "lastUpdated": "2026-04-08T09:30:21.569503",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-08",
@@ -1999,6 +1999,16 @@
       "timeline": [
         {
           "date": "2026-04-08",
+          "event": "Email from Emily Schneller: Sevierville",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-08",
+          "event": "Email from CPE Daily Newsletter: East Coast retail collection sells for $115M",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-08",
           "event": "Email from Chain Store Age: DayBreaker: Wayfair to head south for future store; Amazon reaches deal with USP",
           "type": "email"
         },
@@ -3056,6 +3066,11 @@
       "timeline": [
         {
           "date": "2026-04-08",
+          "event": "Email from CenterCheck: Same Store Sales Report - Coffee & Slop Bowl Edition",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-08",
           "event": "Email from Chain Store Age: DayBreaker: Wayfair to head south for future store; Amazon reaches deal with USP",
           "type": "email"
         },
@@ -3718,6 +3733,16 @@
       "nextStep": "Jacob: call Ashby, voicemail, commit to Wednesday turnaround. Touch base with Prather.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-08",
+          "event": "Email from Julia Malcolmson: Re: question",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-08",
+          "event": "Email from NAIOP Nashville: Reminder: Upcoming NAIOP April Events!",
+          "type": "email"
+        },
         {
           "date": "2026-04-07",
           "event": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
@@ -5824,6 +5849,21 @@
       ],
       "timeline": [
         {
+          "date": "2026-04-08",
+          "event": "Email from Christopher Keenan: PCON Introduction: Jacob Delk <> Zack Hubiak",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-08",
+          "event": "Email from Keierra Bentley: Prospective Member Introduction: Keierra Bentley (Coach KB)",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-08",
+          "event": "Email from Carson West: *Action Needed* Selection Committee Scheduling Poll",
+          "type": "email"
+        },
+        {
           "date": "2026-04-07",
           "event": "Email from Christopher Keenan: PCON Introduction: Jacob Delk <> Zack Hubiak",
           "type": "email"
@@ -6270,6 +6310,16 @@
       "priority": "medium",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-04-08",
+          "event": "Email from NAIOP Nashville: Reminder: Upcoming NAIOP April Events!",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-08",
+          "event": "Email from Phoenix Club of Nashville: PCON Bird Word | March 2026",
+          "type": "email"
+        },
         {
           "date": "2026-04-07",
           "event": "Email from Eteri Zaslavsky, CCIM: Continuing the Hunt for Nashville Power Centers",
@@ -6861,6 +6911,16 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-04-08",
+          "event": "Email from NAIOP Nashville: Reminder: Upcoming NAIOP April Events!",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-08",
+          "event": "Email from Phoenix Club of Nashville: PCON Bird Word | March 2026",
+          "type": "email"
+        },
         {
           "date": "2026-04-07",
           "event": "Email from Eteri Zaslavsky, CCIM: Continuing the Hunt for Nashville Power Centers",
@@ -7515,6 +7575,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-04-08",
+          "event": "Email from ICSC Nominating and Governance Committee: Submit Your ICSC Board of Trustee Nominations Now",
+          "type": "email"
+        },
+        {
           "date": "2026-04-07",
           "event": "Email from HubSpot: PCON Donation - Send Thank You",
           "type": "email"
@@ -8040,13 +8105,6 @@
       "urgency": "low"
     },
     {
-      "name": "Ashby",
-      "deal": "Prather Event Co — McMinnville Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
-      "urgency": "low"
-    },
-    {
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 1,
@@ -8093,13 +8151,6 @@
       "deal": " — Maple Row",
       "daysSinceContact": 1,
       "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - FW: 235 E Main St, 1st Floor, Henderso",
-      "urgency": "low"
-    },
-    {
-      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
-      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Christopher Keenan: PCON Introduction: Jacob Delk <> Zack Hubiak",
       "urgency": "low"
     },
     {
@@ -8152,59 +8203,10 @@
       "urgency": "low"
     },
     {
-      "name": "Julie Robbins",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Eteri Zaslavsky, CCIM: Continuing the Hunt for Nashville Power Center",
-      "urgency": "low"
-    },
-    {
-      "name": "Michael Dunn",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Eteri Zaslavsky, CCIM: Continuing the Hunt for Nashville Power Center",
-      "urgency": "low"
-    },
-    {
-      "name": "Cole @ DR Horton",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Eteri Zaslavsky, CCIM: Continuing the Hunt for Nashville Power Center",
-      "urgency": "low"
-    },
-    {
-      "name": "Charles Hawkins",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Eteri Zaslavsky, CCIM: Continuing the Hunt for Nashville Power Center",
-      "urgency": "low"
-    },
-    {
-      "name": "Brether group",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Eteri Zaslavsky, CCIM: Continuing the Hunt for Nashville Power Center",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Eteri Zaslavsky, CCIM: Continuing the Hunt for Nashville Power Center",
-      "urgency": "low"
-    },
-    {
-      "name": "Josh Levy",
-      "deal": "Live Nation — Emerson Hall",
-      "daysSinceContact": 1,
-      "lastAction": "Email from HubSpot: PCON Donation - Send Thank You",
-      "urgency": "low"
-    },
-    {
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Wayfair to head south for future store; ",
+      "lastAction": "Email from Emily Schneller: Sevierville",
       "urgency": "low"
     },
     {
@@ -8225,7 +8227,70 @@
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Wayfair to head south for future store; ",
+      "lastAction": "Email from CenterCheck: Same Store Sales Report - Coffee & Slop Bowl Edition",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Prather Event Co — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Julia Malcolmson: Re: question",
+      "urgency": "low"
+    },
+    {
+      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
+      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Christopher Keenan: PCON Introduction: Jacob Delk <> Zack Hubiak",
+      "urgency": "low"
+    },
+    {
+      "name": "Julie Robbins",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP Nashville: Reminder: Upcoming NAIOP April Events!",
+      "urgency": "low"
+    },
+    {
+      "name": "Michael Dunn",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP Nashville: Reminder: Upcoming NAIOP April Events!",
+      "urgency": "low"
+    },
+    {
+      "name": "Cole @ DR Horton",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP Nashville: Reminder: Upcoming NAIOP April Events!",
+      "urgency": "low"
+    },
+    {
+      "name": "Charles Hawkins",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP Nashville: Reminder: Upcoming NAIOP April Events!",
+      "urgency": "low"
+    },
+    {
+      "name": "Brether group",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP Nashville: Reminder: Upcoming NAIOP April Events!",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP Nashville: Reminder: Upcoming NAIOP April Events!",
+      "urgency": "low"
+    },
+    {
+      "name": "Josh Levy",
+      "deal": "Live Nation — Emerson Hall",
+      "daysSinceContact": 0,
+      "lastAction": "Email from ICSC Nominating and Governance Committee: Submit Your ICSC Board of T",
       "urgency": "low"
     }
   ],
