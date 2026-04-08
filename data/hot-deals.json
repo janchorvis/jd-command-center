@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T09:30:21.569503",
+  "lastUpdated": "2026-04-08T10:02:02.218752",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-08",
@@ -5028,12 +5028,17 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City",
-      "status": "New broker inquiry on Pell City outparcel from Keith Shamblin for a group needing roughly 0.5 acres.",
+      "status": "New broker inquiry from Paul Stead on the 9,200 SF space asking for rate and NNN.",
       "stage": "Contact Made",
-      "nextStep": "Jacob to confirm whether a small outparcel can be carved out and respond to Keith.",
+      "nextStep": "Jacob to reply with asking rate and NNN for the 9,200 SF space.",
       "priority": "medium",
       "contacts": [],
       "timeline": [
+        {
+          "date": "2026-04-08",
+          "event": "Email: Paul Stead asked for asking rate and NNN on the 9,200 SF space at Pell City Marketplace.",
+          "type": "email"
+        },
         {
           "date": "2026-04-07",
           "event": "Email from Keith Shamblin: Pell City Marketplace",
