@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T12:30:44.192270",
+  "lastUpdated": "2026-04-08T12:39:22.864060",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-08",
@@ -5143,9 +5143,9 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City",
-      "status": "New broker inquiry from Paul Stead on the 9,200 SF space asking for rate and NNN.",
+      "status": "Keith Shamblin confirmed the user is a drive-thru coffee concept and asked for pricing on a potential small outparcel.",
       "stage": "Contact Made",
-      "nextStep": "Jacob to reply with asking rate and NNN for the 9,200 SF space.",
+      "nextStep": "Jacob to reply with pricing guidance for a drive-thru coffee outparcel at Pell City Marketplace.",
       "priority": "medium",
       "contacts": [],
       "timeline": [
@@ -5162,6 +5162,11 @@
         {
           "date": "2026-04-08",
           "event": "Email: Paul Stead asked for asking rate and NNN on the 9,200 SF space at Pell City Marketplace.",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-08",
+          "event": "Email: Keith Shamblin said the prospect is a drive-thru coffee user and asked for pricing on the Pell City outparcel.",
           "type": "email"
         },
         {
