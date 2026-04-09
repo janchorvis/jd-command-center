@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T07:15:41.831291",
+  "lastUpdated": "2026-04-09T07:15:52.167664",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-09",
@@ -52,6 +52,11 @@
       "nextStep": "Get replacement pricing through property management or the tenant's national vendor contact and confirm whether existing units can be reused elsewhere.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-08",
+          "event": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease Agreement",
+          "type": "email"
+        },
         {
           "date": "2026-04-08",
           "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
@@ -602,6 +607,11 @@
       "timeline": [
         {
           "date": "2026-04-08",
+          "event": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease Agreement",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-08",
           "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
           "type": "email"
         },
@@ -1105,6 +1115,16 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-09",
+          "event": "Email from The CRE Rundown by Trepp: Unit Oversupply Puts Brakes on REIT Development Plans",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-08",
+          "event": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease Agreement",
+          "type": "email"
+        },
         {
           "date": "2026-04-08",
           "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
@@ -2091,6 +2111,11 @@
       "nextStep": "Wait for execution.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-09",
+          "event": "Email from CRE Daily: Retail Has a Supply Problem",
+          "type": "email"
+        },
         {
           "date": "2026-04-08",
           "event": "Email from Alea Wilson: LoopNet Lead for Russellville Franklin Center",
@@ -3194,6 +3219,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-04-09",
+          "event": "Email from Chain Store Age: DayBreaker: Consumer prices trend down; Bed Bath & Beyond’s latest $150M buy; Ta",
+          "type": "email"
+        },
+        {
           "date": "2026-04-08",
           "event": "Email from Micah Lacher: Fwd: McMinnville - Concept Facade Upgrades",
           "type": "email"
@@ -3914,6 +3944,11 @@
       "timeline": [
         {
           "date": "2026-04-08",
+          "event": "Email from Eventbrite: Order Confirmation for PCON Board Meeting | April 2026",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-08",
           "event": "Email from Micah Lacher: Fwd: McMinnville - Concept Facade Upgrades",
           "type": "email"
         },
@@ -4301,6 +4336,11 @@
       "nextStep": "Waiting on Melissa Eddy (Asana due 3/20) - reaching out to Ashby re: Memo of Exclusive + Declarant estoppel.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-08",
+          "event": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease Agreement",
+          "type": "email"
+        },
         {
           "date": "2026-04-08",
           "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
@@ -6309,6 +6349,21 @@
       "timeline": [
         {
           "date": "2026-04-08",
+          "event": "Email from Chris Brophy: PCON - Dev Sponsorship Ask",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-08",
+          "event": "Email from Christopher Keenan: April Reminders",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-08",
+          "event": "Email from Christopher Keenan: Fwd: You're Invited: Scott Scovill Book Launch Party This Thursday 4/9",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-08",
           "event": "Email from Paul Rutledge: Redevelopment Opportunity - Daytona Beach",
           "type": "email"
         },
@@ -6799,6 +6854,16 @@
       "priority": "medium",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-04-09",
+          "event": "Email from Kelsey Cornillie, Publisher: Tervis acquires Nashville company",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-08",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Kofi Som-Pimpong",
+          "type": "email"
+        },
         {
           "date": "2026-04-08",
           "event": "Email from Nashville Business Journal: People on the Move: Honor the AAPI Leaders Elevating Your Organization ",
@@ -7415,6 +7480,16 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-04-09",
+          "event": "Email from Kelsey Cornillie, Publisher: Tervis acquires Nashville company",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-08",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Kofi Som-Pimpong",
+          "type": "email"
+        },
         {
           "date": "2026-04-08",
           "event": "Email from Nashville Business Journal: People on the Move: Honor the AAPI Leaders Elevating Your Organization ",
@@ -8576,260 +8651,260 @@
     {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Email from Jacob Delk: Dixie Village Lease Draft - 2593 W Franklin Blvd, Suite 2",
       "urgency": "low"
     },
     {
       "name": "Derek Tucker",
       "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Email from Kelsey Cornillie, Publisher: Elevated fitness club opens in Hillsboro",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Email from CORIE K.: CORIE K. opened brochure on Emerson Hall - The Gallatin",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Email from CORIE K.: CORIE K. opened brochure on Emerson Hall - The Gallatin",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Email from CORIE K.: CORIE K. opened brochure on Emerson Hall - The Gallatin",
       "urgency": "low"
     },
     {
       "name": "Dr. Phillip Kemp",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Email from CORIE K.: CORIE K. opened brochure on Emerson Hall - The Gallatin",
       "urgency": "low"
     },
     {
       "name": "Dr. Kemp",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Email from CORIE K.: CORIE K. opened brochure on Emerson Hall - The Gallatin",
       "urgency": "low"
     },
     {
       "name": "Amy",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Email from CORIE K.: CORIE K. opened brochure on Emerson Hall - The Gallatin",
       "urgency": "low"
     },
     {
       "name": "Matty",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Email from CORIE K.: CORIE K. opened brochure on Emerson Hall - The Gallatin",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
-      "urgency": "low"
-    },
-    {
-      "name": "Ajay Secore",
-      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
-      "daysSinceContact": 0,
-      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
-      "urgency": "low"
-    },
-    {
-      "name": "Melissa Eddy",
-      "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Alea Wilson: LoopNet Lead for Russellville Franklin Center",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
       "urgency": "low"
     },
     {
       "name": "Dwaine High",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: McMinnville - Concept Facade Upgrades",
       "urgency": "low"
     },
     {
       "name": "Kevin True",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Micah Lacher: Fwd: McMinnville - Concept Facade Upgrades",
       "urgency": "low"
     },
     {
       "name": "Bell",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Micah Lacher: Fwd: McMinnville - Concept Facade Upgrades",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: McMinnville - Concept Facade Upgrades",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Eventbrite: Order Confirmation for PCON Board Meeting | April 2026",
       "urgency": "low"
     },
     {
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
       "urgency": "low"
     },
     {
       "name": "Spencer",
       "deal": "Royal Furniture — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Micah Lacher: Fwd: McMinnville - Concept Facade Upgrades",
       "urgency": "low"
     },
     {
       "name": "Sheldon",
       "deal": "Royal Furniture — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Micah Lacher: Fwd: McMinnville - Concept Facade Upgrades",
       "urgency": "low"
     },
     {
       "name": "Peter Adams",
       "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Micah Lacher: Fwd: McMinnville - Concept Facade Upgrades",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
       "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Chris Brophy: PCON - Dev Sponsorship Ask",
+      "urgency": "low"
+    },
+    {
+      "name": "Josh Levy",
+      "deal": "Live Nation — Emerson Hall",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Amazon.com: Delivered: \"Lenovo ThinkPad Universal...\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Ajay Secore",
+      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Paul Rutledge: Redevelopment Opportunity - Daytona Beach",
+      "lastAction": "Email from The CRE Rundown by Trepp: Unit Oversupply Puts Brakes on REIT Develop",
+      "urgency": "low"
+    },
+    {
+      "name": "Melissa Eddy",
+      "deal": "ABC Retail — Russellville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Retail Has a Supply Problem",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Consumer prices trend down; Bed Bath & B",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: People on the Move: Honor the AAPI Leader",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: Tervis acquires Nashville company",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: People on the Move: Honor the AAPI Leader",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: Tervis acquires Nashville company",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: People on the Move: Honor the AAPI Leader",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: Tervis acquires Nashville company",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: People on the Move: Honor the AAPI Leader",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: Tervis acquires Nashville company",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: People on the Move: Honor the AAPI Leader",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: Tervis acquires Nashville company",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: People on the Move: Honor the AAPI Leader",
-      "urgency": "low"
-    },
-    {
-      "name": "Josh Levy",
-      "deal": "Live Nation — Emerson Hall",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Amazon.com: Delivered: \"Lenovo ThinkPad Universal...\"",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: Tervis acquires Nashville company",
       "urgency": "low"
     }
   ],
