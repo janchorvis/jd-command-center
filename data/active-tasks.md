@@ -1,17 +1,17 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-04-07 6:00 PM CST (self-review)
+Last updated: 2026-04-08 6:00 PM CST (self-review)
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T099 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T100 -->
 
 ## ACTIVE — Jacob needs to do these
 
 ### This Week (week of 4/6)
-- T050: PCON feedback form for Jack Beachboard — prospective member, submit via HubSpot link in email (3/12). Was due 3/17 (OVERDUE — 21 days late). [asana: 1213659300550136]
+- T050: PCON feedback form for Jack Beachboard — prospective member, submit via HubSpot link in email (3/12). Was due 3/17 (OVERDUE — 22 days late). [asana: 1213659300550136]
 - T051: Five Below (Malone Plaza) — LOI signed and returned 3/17. REC meeting 4/22. Facade renderings requested from Shaun (architect). Waiting on Shaun. [source: email 3/17, updated 3/22]
 - T060: Send Micah calendar invite for PCON dinner — April 22, host committee. [source: leasing meeting 3/23]
 - T065: PCON sponsorships — secure sponsors for upcoming event [asana: 1213840904488698]
-- T066: Invite people to next Friday (4/4) PCON event [asana: 1213840882206260] [due: 4/3, OVERDUE — 4 days late]
+- T066: Invite people to next Friday (4/4) PCON event [asana: 1213840882206260] [due: 4/3, OVERDUE — 5 days late]
 - T067: Talk to Carter about Thursday mornings [asana: 1213840882210964]
 - T068: Send Malone flyer to small shop tenants [asana: 1213840882213654] [depends on: T069]
 - T069: Finish Malone flyer [asana: 1213840882213751]
@@ -26,7 +26,7 @@ Last updated: 2026-04-07 6:00 PM CST (self-review)
 - T078: Blast out Buena Vista listings [asana: 1213840882215086] [note: include Brian Drobnick/NRP Group — called last week, no answer]
 - T079: Work with Parker to get sign for Buena Vista [asana: 1213840947037043] [absorbed T016]
 - T080: Redline Five Below work letter [asana: 1213841001404970] [absorbed T018]
-- T083: Set up Melissa Drish laptop (ThinkBook 16 Gen 8) — arriving ~3/29, must be ready before April 6 start date [asana: 1213841285824838] [due: 4/5, OVERDUE — 2 days late]
+- T083: Set up Melissa Drish laptop (ThinkBook 16 Gen 8) — arriving ~3/29, must be ready before April 6 start date [asana: 1213841285824838] [due: 4/5, OVERDUE — 3 days late]
 - T084: Call Ashby re: Emerson lease — leave voicemail, get turnaround by Wednesday. Added parking exhibit. [source: leasing meeting 3/30] [deal: Emerson Hall]
 - T085: Tell Brian to get Big Lots box pricing this week (Evansville Easter Seals/GCS) — pitch at ~$75/ft [source: leasing meeting 3/30] [deal: Evansville]
 - T086: Push Cosmoprof with firm terms on Shelbyville — no TI, state what we will/won't do, don't lose interest [source: leasing meeting 3/30]
@@ -55,7 +55,7 @@ Last updated: 2026-04-07 6:00 PM CST (self-review)
 
 ## WATCHING — Monitor, not actionable yet
 
-Note: all current WATCHING items date to 3/30 and are now 8 days old. Flag them in the 4/8 morning briefing if there is still no movement.
+Note: all current WATCHING items date to 3/30 and are now 9 days old. Flag them in the 4/9 morning briefing if there is still no movement.
 
 
 - Jefferson's (Pell City) — sharp operator from Chicago, self-funding $500-750K build-out. Should have app today. [source: leasing meeting 3/30]
@@ -79,6 +79,7 @@ Note: all current WATCHING items date to 3/30 and are now 8 days old. Flag them 
 - Leasing Associate hire — Robbie recruiting, Luke interview Wed 4/1. First candidate (golf girl) sharp but accent concern for phone-heavy role.
 
 ## Setup Backlog
+- T099: Replace Fyxer AI ($30-50/mo) with Gmail push notifications — install gcloud CLI, set up Google Pub/Sub topic + push subscription pointing at webhook relay (https://foster-macmini.tail8e2988.ts.net/relay/webhooks/gmail), call gmail.users.watch(). Once live, Communication Triage becomes real-time and Fyxer can be cancelled. Also claim Anthropic credit at claude.ai/settings/usage (needed for Plaud cron + fallback models). [source: Claude Code session 4/8]
 - Google Places API key → add to .env
 - SSH + Tailscale → remote access to Mac Mini
 - remindctl → needs Reminders permission on Mac Mini
