@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T13:30:20.330634",
+  "lastUpdated": "2026-04-09T14:30:38.182498",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-09",
@@ -2202,6 +2202,11 @@
       "nextStep": "Wait for execution.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-09",
+          "event": "Email from Steven Silverman: Friedman's Steven Silverman: Named Top 2026 Retail Expert",
+          "type": "email"
+        },
         {
           "date": "2026-04-09",
           "event": "Email from Michael Zimmerman | Katz & Associates: Price Reduced: Wawa in Hebron, KY Available for Sale - 20 Year NNN Ground Lease",
@@ -8516,6 +8521,11 @@
       "timeline": [
         {
           "date": "2026-04-09",
+          "event": "Email from Amazon.com: Delivered: \"Moread DisplayPort (DP) to...\"",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-09",
           "event": "Email from ICSC Insight Newsletter: ICSC LAS VEGAS Keynote Speakers, ICSC+SPECIALTY at ICSC@FLORIDA, ICSC 4 Under 40",
           "type": "email"
         },
@@ -9040,7 +9050,7 @@
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Michael Zimmerman | Katz & Associates: Price Reduced: Wawa in Hebron,",
+      "lastAction": "Email from Steven Silverman: Friedman's Steven Silverman: Named Top 2026 Retail ",
       "urgency": "low"
     },
     {
@@ -9250,7 +9260,7 @@
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Insight Newsletter: ICSC LAS VEGAS Keynote Speakers, ICSC+SPECIA",
+      "lastAction": "Email from Amazon.com: Delivered: \"Moread DisplayPort (DP) to...\"",
       "urgency": "low"
     }
   ],
