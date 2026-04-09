@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T07:32:00.699113",
+  "lastUpdated": "2026-04-09T09:30:40.850475",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-09",
@@ -58,6 +58,11 @@
       "nextStep": "Get replacement pricing through property management or the tenant's national vendor contact and confirm whether existing units can be reused elsewhere.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-09",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
         {
           "date": "2026-04-08",
           "event": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease Agreement",
@@ -612,6 +617,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-04-09",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
+        {
           "date": "2026-04-08",
           "event": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease Agreement",
           "type": "email"
@@ -1121,6 +1131,21 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-09",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-09",
+          "event": "Email from Micah Lacher: Fwd: Leasing Opportunity - Shelby County - Department of Disability and Aging",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-09",
+          "event": "Email from Craige Pearson: Rare Opportunity Fronting Hwy 109 | Portland, TN",
+          "type": "email"
+        },
         {
           "date": "2026-04-09",
           "event": "Email from The CRE Rundown by Trepp: Unit Oversupply Puts Brakes on REIT Development Plans",
@@ -2119,6 +2144,11 @@
       "timeline": [
         {
           "date": "2026-04-09",
+          "event": "Email from Michael Zimmerman | Katz & Associates: Price Reduced: Wawa in Hebron, KY Available for Sale - 20 Year NNN Ground Lease",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-09",
           "event": "Email from CRE Daily: Retail Has a Supply Problem",
           "type": "email"
         },
@@ -3044,6 +3074,11 @@
       "nextStep": "Done - move to completed deals. Celebrate the W.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-09",
+          "event": "Email from scott koo: 6268 Atlanta Hwy Commission",
+          "type": "email"
+        },
         {
           "date": "2026-04-08",
           "event": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
@@ -4343,6 +4378,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-04-09",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
+        {
           "date": "2026-04-08",
           "event": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease Agreement",
           "type": "email"
@@ -5385,6 +5425,11 @@
       "contacts": [],
       "timeline": [
         {
+          "date": "2026-04-09",
+          "event": "Email from Jacob Delk: Pell City Marketplace",
+          "type": "email"
+        },
+        {
           "date": "2026-04-08",
           "event": "Email from Jacob Delk: Pell City Marketplace",
           "type": "email"
@@ -5813,6 +5858,11 @@
       "nextStep": "Keep pressure on all active prospects and let speed determine space control.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-09",
+          "event": "Email from Jacob Delk: Pell City Marketplace",
+          "type": "email"
+        },
         {
           "date": "2026-04-08",
           "event": "Email from Jacob Delk: Pell City Marketplace",
@@ -6354,6 +6404,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-04-09",
+          "event": "Email from scott koo: 6268 Atlanta Hwy Commission",
+          "type": "email"
+        },
+        {
           "date": "2026-04-08",
           "event": "Email from Chris Brophy: PCON - Dev Sponsorship Ask",
           "type": "email"
@@ -6561,6 +6616,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-04-09",
+          "event": "Email from Micah Lacher: Fwd: Leasing Opportunity - Shelby County - Department of Disability and Aging",
+          "type": "email"
+        },
         {
           "date": "2026-04-07",
           "event": "Email from CORIE K.: CORIE K. opened brochure on Emerson Hall - The Gallatin",
@@ -6860,6 +6920,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-04-09",
+          "event": "Email from Michael Zimmerman | Katz & Associates: Price Reduced: Wawa in Hebron, KY Available for Sale - 20 Year NNN Ground Lease",
+          "type": "email"
+        },
         {
           "date": "2026-04-09",
           "event": "Email from Kelsey Cornillie, Publisher: Tervis acquires Nashville company",
@@ -8669,76 +8734,6 @@
       "urgency": "low"
     },
     {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 2,
-      "lastAction": "Email from CORIE K.: CORIE K. opened brochure on Emerson Hall - The Gallatin",
-      "urgency": "low"
-    },
-    {
-      "name": "Shelby Hall",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 2,
-      "lastAction": "Email from CORIE K.: CORIE K. opened brochure on Emerson Hall - The Gallatin",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 2,
-      "lastAction": "Email from CORIE K.: CORIE K. opened brochure on Emerson Hall - The Gallatin",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Phillip Kemp",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 2,
-      "lastAction": "Email from CORIE K.: CORIE K. opened brochure on Emerson Hall - The Gallatin",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Kemp",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 2,
-      "lastAction": "Email from CORIE K.: CORIE K. opened brochure on Emerson Hall - The Gallatin",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 2,
-      "lastAction": "Email from CORIE K.: CORIE K. opened brochure on Emerson Hall - The Gallatin",
-      "urgency": "low"
-    },
-    {
-      "name": "Matty",
-      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 2,
-      "lastAction": "Email from CORIE K.: CORIE K. opened brochure on Emerson Hall - The Gallatin",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
-      "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
-      "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
-      "urgency": "low"
-    },
-    {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 1,
@@ -8750,20 +8745,6 @@
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 1,
       "lastAction": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
-      "urgency": "low"
-    },
-    {
-      "name": "Nhung Pham",
-      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
-      "urgency": "low"
-    },
-    {
-      "name": "Dwaine High",
-      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza - 1100 Smithville Highway",
       "urgency": "low"
     },
     {
@@ -8785,27 +8766,6 @@
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 1,
       "lastAction": "Email from Eventbrite: Order Confirmation for PCON Board Meeting | April 2026",
-      "urgency": "low"
-    },
-    {
-      "name": "Melissa",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
-      "urgency": "low"
-    },
-    {
-      "name": "Lisa Schwartz, Esq.",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MALONE NY BIG LOTS- 2026 Lease A",
       "urgency": "low"
     },
     {
@@ -8837,13 +8797,6 @@
       "urgency": "low"
     },
     {
-      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
-      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Chris Brophy: PCON - Dev Sponsorship Ask",
-      "urgency": "low"
-    },
-    {
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
       "daysSinceContact": 1,
@@ -8851,17 +8804,52 @@
       "urgency": "low"
     },
     {
+      "name": "Paul",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from The CRE Rundown by Trepp: Unit Oversupply Puts Brakes on REIT Develop",
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from CRE Daily: Retail Has a Supply Problem",
+      "lastAction": "Email from Michael Zimmerman | Katz & Associates: Price Reduced: Wawa in Hebron,",
+      "urgency": "low"
+    },
+    {
+      "name": "Nhung Pham",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from scott koo: 6268 Atlanta Hwy Commission",
+      "urgency": "low"
+    },
+    {
+      "name": "Dwaine High",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from scott koo: 6268 Atlanta Hwy Commission",
       "urgency": "low"
     },
     {
@@ -8872,24 +8860,101 @@
       "urgency": "low"
     },
     {
+      "name": "Melissa",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Lisa Schwartz, Esq.",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
+      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from scott koo: 6268 Atlanta Hwy Commission",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Leasing Opportunity - Shelby County - Department o",
+      "urgency": "low"
+    },
+    {
+      "name": "Shelby Hall",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Leasing Opportunity - Shelby County - Department o",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Leasing Opportunity - Shelby County - Department o",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Phillip Kemp",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Leasing Opportunity - Shelby County - Department o",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Kemp",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Leasing Opportunity - Shelby County - Department o",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Leasing Opportunity - Shelby County - Department o",
+      "urgency": "low"
+    },
+    {
+      "name": "Matty",
+      "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Leasing Opportunity - Shelby County - Department o",
+      "urgency": "low"
+    },
+    {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kelsey Cornillie, Publisher: Tervis acquires Nashville company",
+      "lastAction": "Email from Michael Zimmerman | Katz & Associates: Price Reduced: Wawa in Hebron,",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kelsey Cornillie, Publisher: Tervis acquires Nashville company",
+      "lastAction": "Email from Michael Zimmerman | Katz & Associates: Price Reduced: Wawa in Hebron,",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kelsey Cornillie, Publisher: Tervis acquires Nashville company",
+      "lastAction": "Email from Michael Zimmerman | Katz & Associates: Price Reduced: Wawa in Hebron,",
       "urgency": "low"
     },
     {
