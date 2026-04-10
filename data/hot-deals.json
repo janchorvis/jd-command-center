@@ -3382,9 +3382,9 @@
       ],
       "rentComps": {
         "property": "Montgomery",
-        "avgRate": 14.0,
-        "minRate": 14.0,
-        "maxRate": 14.0,
+        "avgRate": 14,
+        "minRate": 14,
+        "maxRate": 14,
         "avgSqFt": 4405,
         "suiteCount": 19,
         "vacantCount": 0
@@ -26109,8 +26109,10 @@
         "id": "sweep-plate-3",
         "text": "T083 Melissa Drish laptop setup - overdue and should already be done",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-04-10T12:50:49.197Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-4",
