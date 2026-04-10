@@ -26146,22 +26146,28 @@
         "id": "sweep-plate-8",
         "text": "T071 Review Hamilton REA",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-04-10T12:50:53.795Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-9",
         "text": "T072 Review Marshalls Malone materials",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-04-10T12:50:54.778Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-10",
         "text": "T073 Respond to Sevierville",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-04-10T12:50:56.062Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-11",
