@@ -26194,57 +26194,73 @@
         "id": "sweep-plate-14",
         "text": "T077 Get Micah to talk to Dr. Kemp",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-04-10T12:51:01.411Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-15",
         "text": "T079 Work with Parker on Buena Vista sign",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-04-10T12:51:00.628Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-16",
         "text": "T084 Call Ashby on Emerson lease turnaround",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-04-10T12:51:04.561Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-17",
         "text": "T085 Get Big Lots box pricing from Brian for Evansville",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-04-10T12:51:03.812Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-18",
         "text": "T086 Push Cosmoprof firm terms on Shelbyville",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-04-10T12:51:05.878Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-19",
         "text": "T087 Send Royal Furniture site plan to Spencer / Aldi",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-04-10T12:51:06.780Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-20",
         "text": "T088 Call Shoe Dept broker",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-04-10T12:51:08.745Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-21",
         "text": "T095 Call on HopeSmiles 30K SF purchase option",
         "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "completed": true,
+        "source": "morning-briefing",
+        "completedAt": "2026-04-10T12:51:09.661Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-22",
