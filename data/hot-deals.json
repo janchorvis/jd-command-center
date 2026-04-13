@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T07:31:44.132266",
+  "lastUpdated": "2026-04-13T12:45:00.331841",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-10",
@@ -65,7 +65,15 @@
       "Evansville: get Big Lots box pricing from Brian",
       "Shelbyville: push Cosmoprof firm terms",
       "HopeSmiles: call on 30K SF purchase option",
-      "Buena Vista: return Diego's purchase inquiry call and keep listing work moving"
+      "Buena Vista: return Diego's purchase inquiry call and keep listing work moving",
+      "Review Great Greek financials and decide whether Fox's is the correct Maple Row suite this week.",
+      "Talk with the bookstore/local Maple Row prospect and test whether modest TI keeps the deal alive.",
+      "Send Prather lease comments to Ashby and push for a Wed/Thu/Fri call.",
+      "Send Micah the Slack paper trail and date backup for the defaulting tenant lease-maturity issue.",
+      "Keep monthly default pressure on the nonresponsive tenant and send the formal paper letter before signing any related lease/extension.",
+      "Turn EPS store paper back today after the local quote/pricing work finishes.",
+      "Add Pell City facade pressure wash or repaint to the property to-do list.",
+      "Set up Claude Team month-to-month for the commercial team and notify users to convert off personal plans."
     ]
   },
   "pipelineDeals": [
@@ -4158,11 +4166,16 @@
       "id": "mcminnville-prather",
       "name": "Prather Event Co",
       "property": "McMinnville Plaza",
-      "status": "Lease draft sent to Ashby, awaiting review. Prather pressing for update.",
+      "status": "Lease comments are back. Jacob thinks most are non-substantive and Micah wants one more reasonable turn through Ashby before pushing hard toward signature.",
       "stage": "Trading Terms",
-      "nextStep": "Jacob: call Ashby, voicemail, commit to Wednesday turnaround. Touch base with Prather.",
+      "nextStep": "Send comments to Ashby, get on the phone Wed/Thu/Fri, turn one more draft, and pressure the tenant to sign.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-13",
+          "event": "Meeting: Prather comments are mostly giveable; team decided to loop in Ashby, make one more reasonable turn, and then push toward signature.",
+          "type": "meeting"
+        },
         {
           "date": "2026-04-10",
           "event": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 2026 Lease Agreement",
@@ -5655,12 +5668,17 @@
       "id": "unknown-small-venue",
       "name": "",
       "property": "Unknown - small venue",
-      "status": "LOI stage - tenant anchored at $24-25 vs Jacob's $28 ask. No corporate guarantee. Not worth it at their price given TI costs. Jacob told them to take it or leave it.",
+      "status": "Jacob reiterated to the rep that he does not want to waste time if the tenant cannot get to a workable deal. The broker side responded that they would revise the LOI.",
       "stage": "Contact Made",
-      "nextStep": "Call Joey Friday 3pm - clarify no white box work for small tenants, TI deal only. Check if Foxes can stay alongside Great Greek.",
+      "nextStep": "Wait on revised LOI and evaluate whether the economics are now actionable.",
       "priority": "medium",
       "contacts": [],
       "timeline": [
+        {
+          "date": "2026-04-13",
+          "event": "Meeting: broker agreed to revise LOI after Jacob reiterated that Anchor only wants to keep moving if a real deal can get done.",
+          "type": "meeting"
+        },
         {
           "date": "2026-04-07",
           "event": "Email from Robert H. Burns Company, Inc.: 3731 Charlotte Avenue",
@@ -5683,12 +5701,17 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City",
-      "status": "Keith Shamblin confirmed the user is a drive-thru coffee concept and asked for pricing on a potential small outparcel.",
+      "status": "Recent property photos made the facade condition stand out negatively. Micah wants facade cleanup added to the running property list.",
       "stage": "Contact Made",
-      "nextStep": "Jacob to reply with pricing guidance for a drive-thru coffee outparcel at Pell City Marketplace.",
+      "nextStep": "Add pressure wash or repaint of the facade to the Pell City property to-do list.",
       "priority": "medium",
       "contacts": [],
       "timeline": [
+        {
+          "date": "2026-04-13",
+          "event": "Meeting: Pell City facade looked rough in recent photos; team wants pressure wash or repaint added to the list.",
+          "type": "meeting"
+        },
         {
           "date": "2026-04-09",
           "event": "Email from Jacob Delk: Pell City Marketplace",
@@ -5994,10 +6017,15 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row",
-      "status": "Tour on calendar today at 4:30 PM CT",
-      "nextStep": "Review operator financials before the tour and decide whether to move forward",
+      "status": "Great Greek is still live at Maple Row, with Joey/Gregory pushing for clarity this week. Team now sees the Fox's space as materially more attractive economically, at roughly half the TI of the alternate suite.",
+      "nextStep": "Review financials and decide this week whether to place Great Greek in Fox's instead of the more expensive alternate suite.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-13",
+          "event": "Meeting: Great Greek remains active, but the Fox's space looks materially cheaper and is the likely preferred placement if financials support it.",
+          "type": "meeting"
+        },
         {
           "date": "2026-04-09",
           "event": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
@@ -6084,7 +6112,8 @@
         "vacantCount": 0
       },
       "contacts": [
-        "Joey (Great Greek / broker contact)"
+        "Joey (Great Greek / broker contact)",
+        "Joey/Gregory (broker contact)"
       ]
     },
     {
@@ -6745,14 +6774,19 @@
       "id": "gilded-spine-maple-row",
       "name": "Gilded Spine (Storybook Soirees LLC)",
       "property": "235 E Main St, Hendersonville (Maple Row)",
-      "status": "The preferred Maple Row path is the local operator. She is highly responsive and submitted financials, so the deal should move quickly if the numbers work.",
+      "status": "The bookstore/local operator toured via lockbox and then signaled she may pass. Jacob planned to talk with her the same day and test whether a modest TI package keeps both Maple Row deals alive.",
       "stage": "Contact Made",
-      "nextStep": "Review the full financial package and move fast if the financials support the deal.",
+      "nextStep": "Talk with the bookstore prospect and see whether a small TI concession keeps the deal viable alongside Great Greek.",
       "priority": "high",
       "contacts": [
         "Hillary Holmes – gildedspinebooks@gmail.com, (414) 607-2197"
       ],
       "timeline": [
+        {
+          "date": "2026-04-13",
+          "event": "Meeting: bookstore/local Maple Row prospect may be fading or negotiating hard; Jacob planned same-day follow-up to test whether modest TI keeps the deal alive.",
+          "type": "meeting"
+        },
         {
           "date": "2026-04-09",
           "event": "Email from Yasser Salim: Retail Space Inquiry",
