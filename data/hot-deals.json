@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13T12:45:00.331841",
+  "lastUpdated": "2026-04-13T13:30:29.876728",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-10",
@@ -82,10 +82,20 @@
       "name": "Five Below",
       "property": "Malone Plaza",
       "status": "Five Below HVAC remains the live blocker. Existing units are too old for tenant acceptance, so Anchor needs replacement pricing and may be able to reuse the current 7.5-ton units elsewhere.",
-      "stage": "LOI",
+      "stage": "Lease Signed",
       "nextStep": "Get replacement pricing through property management or the tenant's national vendor contact and confirm whether existing units can be reused elsewhere.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-13",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: New Store - SDE 2026 Lease Malone NY - s",
+          "type": "email"
+        },
         {
           "date": "2026-04-10",
           "event": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 2026 Lease Agreement",
@@ -658,17 +668,30 @@
         "avgSqFt": 7342,
         "suiteCount": 2,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Lease Signed",
+      "stageOverrideDate": "2026-04-13",
+      "stageOverrideSource": "email-signal: complete with docusign"
     },
     {
       "id": "malone-shoe-dept",
       "name": "Shoe Dept",
       "property": "Malone Plaza",
       "status": "Shoe Dept is still near execution. Delay appears to be internal signoff and travel, not substance.",
-      "stage": "Lease Draft & Review",
+      "stage": "Lease Signed",
       "nextStep": "Micah to call Paul and press for signature / contractor clarity.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-13",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: New Store - SDE 2026 Lease Malone NY - s",
+          "type": "email"
+        },
         {
           "date": "2026-04-10",
           "event": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 2026 Lease Agreement",
@@ -1198,17 +1221,40 @@
         "avgSqFt": 7342,
         "suiteCount": 2,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Lease Signed",
+      "stageOverrideDate": "2026-04-13",
+      "stageOverrideSource": "email-signal: complete with docusign"
     },
     {
       "id": "malone-golf-sim",
       "name": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "status": "New lead. $100K liquid, ~$200K buildout budget. Sent drawings + lockbox code.",
-      "stage": "Touring",
+      "stage": "Lease Signed",
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-13",
+          "event": "Email from NASH BizBrief: 🌟 Corporate volunteer opportunities + 10 networking events this week",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: New Store - SDE 2026 Lease Malone NY - s",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-12",
+          "event": "Email from Jacob Delk: Carrying on the PCON Golf scramble",
+          "type": "email"
+        },
         {
           "date": "2026-04-10",
           "event": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 2026 Lease Agreement",
@@ -1892,7 +1938,10 @@
         "avgSqFt": 7342,
         "suiteCount": 2,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Lease Signed",
+      "stageOverrideDate": "2026-04-13",
+      "stageOverrideSource": "email-signal: complete with docusign"
     },
     {
       "id": "gastonia-laundromat",
@@ -2250,6 +2299,21 @@
       "nextStep": "Wait for execution.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-13",
+          "event": "Email from CoStar News: CoStar Today: Why do these landlords object to Burlington replacing Saks Off 5th",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Melissa Eddy via Vimcal: Canceled event with note: Leasing Meeting (from meddy@anchorinv.com)",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Joey Valenti: Hendo",
+          "type": "email"
+        },
         {
           "date": "2026-04-10",
           "event": "Email from CoStar News: CoStar Today: Bed Bath & Beyond, making second pivot, to buy retailers Lumber Li",
@@ -2704,6 +2768,21 @@
       "nextStep": "Call Ashby - leave voicemail, ask for turnaround by Wednesday. Touch base with Prather with updated timeline.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-13",
+          "event": "Email from Pat Gallagher: Malvern, PA: ±1.1 AC Pad Site or Inline Space Available for Sale or Lease",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from CPE Daily Newsletter: The impact of life science’s space glut",
+          "type": "email"
+        },
         {
           "date": "2026-04-10",
           "event": "Email from NASHtoday: Make your yard smarter + new coworking space",
@@ -3403,10 +3482,20 @@
       "name": "UPS Store Franchisee",
       "property": "McMinnville",
       "status": "Ball in Anchor's court to respond to Jon Petty LOI. Clay pricing whitebox.",
-      "stage": "LOI",
+      "stage": "Lease Signed",
       "nextStep": "Get Clay's whitebox number, respond to LOI. Kevin confirmed UPS + Wingstop same side.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-13",
+          "event": "Email from Chain Store Age: DayBreaker: C-suite moves update; Consumer sentiment plunges; Exclusive Target Q",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: New Store - SDE 2026 Lease Malone NY - s",
+          "type": "email"
+        },
         {
           "date": "2026-04-10",
           "event": "Email from Jeb Thompson via Docusign: Reminder: MCMINNVILLE TN PLAZA ANCHOR - 2026 Lease Agreement",
@@ -3880,7 +3969,10 @@
         "avgSqFt": 3255,
         "suiteCount": 45,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Lease Signed",
+      "stageOverrideDate": "2026-04-13",
+      "stageOverrideSource": "email-signal: complete with docusign"
     },
     {
       "id": "mcminnville-wingstop",
@@ -4171,6 +4263,26 @@
       "nextStep": "Send comments to Ashby, get on the phone Wed/Thu/Fri, turn one more draft, and pressure the tenant to sign.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-13",
+          "event": "Email from NASH BizBrief: 🌟 Corporate volunteer opportunities + 10 networking events this week",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Melissa Eddy via Vimcal: Canceled event with note: Leasing Meeting (from meddy@anchorinv.com)",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Bisnow Webinars: Announcing: Capital in Motion Free Webinar - A Roundtable Discussion On Capital ",
+          "type": "email"
+        },
         {
           "date": "2026-04-13",
           "event": "Meeting: Prather comments are mostly giveable; team decided to loop in Ashby, make one more reasonable turn, and then push toward signature.",
@@ -4590,6 +4702,21 @@
       "nextStep": "Waiting on Melissa Eddy (Asana due 3/20) - reaching out to Ashby re: Memo of Exclusive + Declarant estoppel.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-13",
+          "event": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: New Store - SDE 2026 Lease Malone NY - s",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Melissa Eddy via Vimcal: Canceled event with note: Leasing Meeting (from meddy@anchorinv.com)",
+          "type": "email"
+        },
         {
           "date": "2026-04-10",
           "event": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 2026 Lease Agreement",
@@ -5101,6 +5228,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-04-13",
+          "event": "Email from Tom Gaghan: FW: March and April Rent",
+          "type": "email"
+        },
+        {
           "date": "2026-04-10",
           "event": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 2026 Lease Agreement",
           "type": "email"
@@ -5362,6 +5494,16 @@
       "priority": "high",
       "contacts": [],
       "timeline": [
+        {
+          "date": "2026-04-13",
+          "event": "Email from The Tech Buzz: SignalPulse: Your Weekly Signals, Startups & Deals To Watch Alert:",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from PLAUD.AI: [Plaud-AutoFlow] 04-13 Leasing Meeting: AI Implementation, Deal Updates, and Int",
+          "type": "email"
+        },
         {
           "date": "2026-04-10",
           "event": "Email from The CRE Rundown by Trepp: Government Agencies Underuse Buildings; Expect Sales",
@@ -5709,6 +5851,11 @@
       "timeline": [
         {
           "date": "2026-04-13",
+          "event": "Email from Jacob Delk: Pell City Quote",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
           "event": "Meeting: Pell City facade looked rough in recent photos; team wants pressure wash or repaint added to the list.",
           "type": "meeting"
         },
@@ -6023,6 +6170,21 @@
       "timeline": [
         {
           "date": "2026-04-13",
+          "event": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Craige Pearson: Maple Corner | Hendersonville, TN",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Joey Valenti: Hendo",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
           "event": "Meeting: Great Greek remains active, but the Fox's space looks materially cheaper and is the likely preferred placement if financials support it.",
           "type": "meeting"
         },
@@ -6177,6 +6339,11 @@
       "nextStep": "Keep pressure on all active prospects and let speed determine space control.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-13",
+          "event": "Email from Jacob Delk: Pell City Quote",
+          "type": "email"
+        },
         {
           "date": "2026-04-09",
           "event": "Email from Jacob Delk: Pell City Marketplace",
@@ -6784,8 +6951,23 @@
       "timeline": [
         {
           "date": "2026-04-13",
+          "event": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Craige Pearson: Maple Corner | Hendersonville, TN",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
           "event": "Meeting: bookstore/local Maple Row prospect may be fading or negotiating hard; Jacob planned same-day follow-up to test whether modest TI keeps the deal alive.",
           "type": "meeting"
+        },
+        {
+          "date": "2026-04-12",
+          "event": "Email from Christopher Keenan: PCON Board Meeting Prep | April 13, 2025",
+          "type": "email"
         },
         {
           "date": "2026-04-09",
@@ -7329,6 +7511,41 @@
       "priority": "medium",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-04-13",
+          "event": "Email from Kelsey Cornillie, Publisher: Meet Nashville's new real estate chief",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from NAIOP Nashville: Last Chance to Register for April Meeting!",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Micah Lacher: Fwd: Your receipt from Phoenix Club of Nashville",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Nashville Business Journal: 🗓️ Starting Soon: Future of Air Travel",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Phoenix Club of Nashville: We'd Love to See You at the Phoenix Club Sounds Game on May 28th! ",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Nashville Zoo x NASHtoday: Party for wildlife at the Nashville Zoo",
+          "type": "email"
+        },
         {
           "date": "2026-04-09",
           "event": "Email from Eric Snyder, Editor in Chief: Breaking: Nashville lands pro sports team",
@@ -7975,6 +8192,41 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-04-13",
+          "event": "Email from Kelsey Cornillie, Publisher: Meet Nashville's new real estate chief",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from NAIOP Nashville: Last Chance to Register for April Meeting!",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Micah Lacher: Fwd: Your receipt from Phoenix Club of Nashville",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Nashville Business Journal: 🗓️ Starting Soon: Future of Air Travel",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Phoenix Club of Nashville: We'd Love to See You at the Phoenix Club Sounds Game on May 28th! ",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Nashville Zoo x NASHtoday: Party for wildlife at the Nashville Zoo",
+          "type": "email"
+        },
         {
           "date": "2026-04-09",
           "event": "Email from Avatar Financial Group: Closed Transaction: Avatar Provides $16M Bridge Loan for South Bay Industrial Ca",
@@ -8684,6 +8936,21 @@
       ],
       "timeline": [
         {
+          "date": "2026-04-13",
+          "event": "Email from HubSpot: PCON Donation - Send Thank You",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from ICSC Nominating and Governance Committee: Final Call: ICSC Board of Trustee Nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
           "date": "2026-04-09",
           "event": "Email from Amazon.com: Delivered: \"Moread DisplayPort (DP) to...\"",
           "type": "email"
@@ -9171,260 +9438,267 @@
     {
       "name": "Derek Tucker",
       "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
-      "daysSinceContact": 3,
+      "daysSinceContact": 6,
       "lastAction": "Email from Kelsey Cornillie, Publisher: Elevated fitness club opens in Hillsboro",
       "urgency": "low"
     },
     {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Sam High: RE: Ideas for youth program support",
       "urgency": "low"
     },
     {
       "name": "Dwaine High",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Sam High: RE: Ideas for youth program support",
-      "urgency": "low"
-    },
-    {
-      "name": "Joey",
-      "deal": " — Maple Row",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
-      "urgency": "low"
-    },
-    {
-      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
-      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Yasser Salim: Retail Space Inquiry",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Micah Lacher: Fwd: Leasing Opportunity - Shelby County - Department o",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Micah Lacher: Fwd: Leasing Opportunity - Shelby County - Department o",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Micah Lacher: Fwd: Leasing Opportunity - Shelby County - Department o",
       "urgency": "low"
     },
     {
       "name": "Dr. Phillip Kemp",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Micah Lacher: Fwd: Leasing Opportunity - Shelby County - Department o",
       "urgency": "low"
     },
     {
       "name": "Dr. Kemp",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Micah Lacher: Fwd: Leasing Opportunity - Shelby County - Department o",
       "urgency": "low"
     },
     {
       "name": "Amy",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Micah Lacher: Fwd: Leasing Opportunity - Shelby County - Department o",
       "urgency": "low"
     },
     {
       "name": "Matty",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Micah Lacher: Fwd: Leasing Opportunity - Shelby County - Department o",
-      "urgency": "low"
-    },
-    {
-      "name": "Julie Robbins",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Nashville lands pro sports te",
-      "urgency": "low"
-    },
-    {
-      "name": "Michael Dunn",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Nashville lands pro sports te",
-      "urgency": "low"
-    },
-    {
-      "name": "Cole @ DR Horton",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Nashville lands pro sports te",
-      "urgency": "low"
-    },
-    {
-      "name": "Charles Hawkins",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Avatar Financial Group: Closed Transaction: Avatar Provides $16M Brid",
-      "urgency": "low"
-    },
-    {
-      "name": "Brether group",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Avatar Financial Group: Closed Transaction: Avatar Provides $16M Brid",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Avatar Financial Group: Closed Transaction: Avatar Provides $16M Brid",
-      "urgency": "low"
-    },
-    {
-      "name": "Josh Levy",
-      "deal": "Live Nation — Emerson Hall",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Amazon.com: Delivered: \"Moread DisplayPort (DP) to...\"",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 202",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
-      "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 202",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
-      "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 202",
-      "urgency": "low"
-    },
-    {
-      "name": "Ajay Secore",
-      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 202",
       "urgency": "low"
     },
     {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Jeb Thompson via Docusign: Reminder: JACKSON TN HICKORY VILLAGE ANCHO",
-      "urgency": "low"
-    },
-    {
-      "name": "Melissa Eddy",
-      "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from CoStar News: CoStar Today: Bed Bath & Beyond, making second pivot, to",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from NASHtoday: Make your yard smarter + new coworking space",
-      "urgency": "low"
-    },
-    {
-      "name": "Lexy & Austin",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from NASHtoday: Make your yard smarter + new coworking space",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MCMINNVILLE TN PLAZA ANCHOR - 20",
       "urgency": "low"
     },
     {
       "name": "Kevin True",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 202",
       "urgency": "low"
     },
     {
       "name": "Bell",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 202",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby",
-      "deal": "Prather Event Co — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 202",
-      "urgency": "low"
-    },
-    {
-      "name": "Melissa",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 202",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 202",
-      "urgency": "low"
-    },
-    {
-      "name": "Lisa Schwartz, Esq.",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 202",
-      "urgency": "low"
-    },
-    {
-      "name": "Spencer",
-      "deal": "Royal Furniture — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 202",
-      "urgency": "low"
-    },
-    {
-      "name": "Sheldon",
-      "deal": "Royal Furniture — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 202",
       "urgency": "low"
     },
     {
       "name": "Peter Adams",
       "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Jeb Thompson via Docusign: Reminder: MILLINGTON TN PLAZA ANCHOR - 202",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Ajay Secore",
+      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NASH BizBrief: 🌟 Corporate volunteer opportunities + 10 networking ev",
+      "urgency": "low"
+    },
+    {
+      "name": "Melissa Eddy",
+      "deal": "ABC Retail — Russellville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Why do these landlords object to Burlingto",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Pat Gallagher: Malvern, PA: ±1.1 AC Pad Site or Inline Space Availabl",
+      "urgency": "low"
+    },
+    {
+      "name": "Lexy & Austin",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Pat Gallagher: Malvern, PA: ±1.1 AC Pad Site or Inline Space Availabl",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: C-suite moves update; Consumer sentiment",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Prather Event Co — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NASH BizBrief: 🌟 Corporate volunteer opportunities + 10 networking ev",
+      "urgency": "low"
+    },
+    {
+      "name": "Melissa",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Lisa Schwartz, Esq.",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from LaTrisha Vinci: Shoe Dept. Encore - Malone NY",
+      "urgency": "low"
+    },
+    {
+      "name": "Spencer",
+      "deal": "Royal Furniture — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Tom Gaghan: FW: March and April Rent",
+      "urgency": "low"
+    },
+    {
+      "name": "Sheldon",
+      "deal": "Royal Furniture — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Tom Gaghan: FW: March and April Rent",
+      "urgency": "low"
+    },
+    {
+      "name": "Joey",
+      "deal": " — Maple Row",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Joey/Gregory",
+      "deal": " — Maple Row",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
+      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Julie Robbins",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Kelsey Cornillie, Publisher: Meet Nashville's new real estate chief",
+      "urgency": "low"
+    },
+    {
+      "name": "Michael Dunn",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Kelsey Cornillie, Publisher: Meet Nashville's new real estate chief",
+      "urgency": "low"
+    },
+    {
+      "name": "Cole @ DR Horton",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Kelsey Cornillie, Publisher: Meet Nashville's new real estate chief",
+      "urgency": "low"
+    },
+    {
+      "name": "Charles Hawkins",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Kelsey Cornillie, Publisher: Meet Nashville's new real estate chief",
+      "urgency": "low"
+    },
+    {
+      "name": "Brether group",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Kelsey Cornillie, Publisher: Meet Nashville's new real estate chief",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Kelsey Cornillie, Publisher: Meet Nashville's new real estate chief",
+      "urgency": "low"
+    },
+    {
+      "name": "Josh Levy",
+      "deal": "Live Nation — Emerson Hall",
+      "daysSinceContact": 0,
+      "lastAction": "Email from HubSpot: PCON Donation - Send Thank You",
       "urgency": "low"
     }
   ],
