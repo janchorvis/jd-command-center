@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13T13:30:29.876728",
+  "lastUpdated": "2026-04-13T14:29:56.551613",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-10",
@@ -73,7 +73,11 @@
       "Keep monthly default pressure on the nonresponsive tenant and send the formal paper letter before signing any related lease/extension.",
       "Turn EPS store paper back today after the local quote/pricing work finishes.",
       "Add Pell City facade pressure wash or repaint to the property to-do list.",
-      "Set up Claude Team month-to-month for the commercial team and notify users to convert off personal plans."
+      "Set up Claude Team month-to-month for the commercial team and notify users to convert off personal plans.",
+      "Review Great Greek financials and decide whether Fox's is the right Maple Row suite.",
+      "Call Ashby about Emerson / Prather comments and turn one more reasonable draft before pushing for signature.",
+      "Send Micah the Slack paper trail and date backup for the defaulting tenant default-letter issue.",
+      "Turn the Sevierville / EPS paper back with the local quote and updated pricing."
     ]
   },
   "pipelineDeals": [
@@ -2763,9 +2767,9 @@
       "id": "emerson-hawkins",
       "name": "Charles Hawkins Co.",
       "property": "Emerson Hall - Hotel Space",
-      "status": "Waiting on Ashby (attorney) for lease review. Jacob added parking exhibit. Prather texted on separate thread Thursday/Friday asking for update.",
+      "status": "Prather lease comments came back heavier than requested, but most edits look giveable. Team wants one more reasonable turn with Ashby before pressing for signature.",
       "stage": "LOI",
-      "nextStep": "Call Ashby - leave voicemail, ask for turnaround by Wednesday. Touch base with Prather with updated timeline.",
+      "nextStep": "Get Ashby on the phone Wed/Thu/Fri, turn a reasonable draft, then push the tenant to sign.",
       "priority": "high",
       "timeline": [
         {
@@ -2782,6 +2786,11 @@
           "date": "2026-04-13",
           "event": "Email from CPE Daily Newsletter: The impact of life science’s space glut",
           "type": "email"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Meeting: Emerson lease comments are mostly giveable; Ashby should handle one more turn before signature pressure.",
+          "type": "meeting"
         },
         {
           "date": "2026-04-10",
@@ -3271,7 +3280,9 @@
       ],
       "contacts": [
         "Stephen Prather (Charles Hawkins Co.)",
-        "Lexy & Austin (tenants)"
+        "Lexy & Austin (tenants)",
+        "Ashby Scott (Attorney)",
+        "Stephen Prather (Tenant rep)"
       ],
       "actions": [
         {
@@ -6164,8 +6175,8 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row",
-      "status": "Great Greek is still live at Maple Row, with Joey/Gregory pushing for clarity this week. Team now sees the Fox's space as materially more attractive economically, at roughly half the TI of the alternate suite.",
-      "nextStep": "Review financials and decide this week whether to place Great Greek in Fox's instead of the more expensive alternate suite.",
+      "status": "Great Greek economics favor Fox's over the more expensive alternate suite, while Anchor tests whether modest TI can keep the bookstore/local operator alive so both deals still work.",
+      "nextStep": "Review Great Greek financials, talk with the bookstore prospect, and decide whether to pursue Fox's plus a modest TI for the local operator.",
       "priority": "high",
       "timeline": [
         {
@@ -6186,6 +6197,11 @@
         {
           "date": "2026-04-13",
           "event": "Meeting: Great Greek remains active, but the Fox's space looks materially cheaper and is the likely preferred placement if financials support it.",
+          "type": "meeting"
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Meeting: Great Greek appears to work better in Fox's with roughly half the TI, while the bookstore/local operator may stay alive with modest TI.",
           "type": "meeting"
         },
         {
@@ -6275,7 +6291,9 @@
       },
       "contacts": [
         "Joey (Great Greek / broker contact)",
-        "Joey/Gregory (broker contact)"
+        "Joey/Gregory (broker contact)",
+        "Gregory (Great Greek rep)",
+        "Bookstore prospect (local operator)"
       ]
     },
     {
