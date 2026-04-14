@@ -26715,7 +26715,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-04-14T08:20:58",
+    "generatedAt": "2026-04-14T08:21:23",
     "source": "morning-briefing",
     "yourPlate": [
       {
@@ -27055,20 +27055,27 @@
       },
       {
         "id": "sweep-defer-8",
-        "text": "- Personal: T081 flights, T082 hotels, anniversary planning",
+        "text": "- Personal travel still open: T081 flights, T082 hotels",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-defer-9",
-        "text": "- T099 Gmail push / Fyxer replacement plus Anthropic credit claim is setup backlog, not today's operating priority",
+        "text": "- Anniversary planning is still unscheduled",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-defer-10",
+        "text": "- T099 Gmail push / Fyxer replacement plus Anthropic credit claim is setup backlog, not today's operating priority",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-11",
         "text": "🚀 Command Center: https://jd-command-center.vercel.app",
         "detail": "",
         "completed": false,
@@ -27473,7 +27480,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-04-14T08:20:58",
+    "generatedAt": "2026-04-14T08:21:23",
     "source": "morning-briefing",
     "items": [
       {
