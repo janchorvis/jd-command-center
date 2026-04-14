@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T12:30:29.462023",
+  "lastUpdated": "2026-04-14T13:01:28.805799",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-10",
@@ -6361,9 +6361,9 @@
       "id": "mcminnville-plaza",
       "name": "",
       "property": "McMinnville Plaza",
-      "status": "New LoopNet lead from Joe Wesley for 6,000-10,000 SF at McMinnville Plaza. Prospect requested email-only details and was auto-replied with a qualifying question about business type.",
+      "status": "Joe Wesley clarified the prospect is a financial consulting firm office user seeking 6,000-10,000 SF and asked for a Zoom with his team to review options.",
       "stage": "Contact Made",
-      "nextStep": "Wait for Joe Wesley to clarify business type, then send property details if fit.",
+      "nextStep": "Jacob to decide whether to schedule a Zoom with Joe Wesley's team and present the best-fit spaces for a low-impact office use.",
       "priority": "medium",
       "contacts": [],
       "timeline": [
@@ -6380,6 +6380,11 @@
         {
           "date": "2026-04-14",
           "event": "Email: New LoopNet lead from Joe Wesley for 6,000-10,000 SF; auto-replied in thread asking business type.",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-14",
+          "event": "Email: Joe Wesley said his team wants a financial consulting firm office, needs private offices/client meeting rooms/open workspace, and asked for a Zoom to review options.",
           "type": "email"
         },
         {
