@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T14:30:30.569847",
+  "lastUpdated": "2026-04-14T15:30:31.365720",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-10",
@@ -6305,6 +6305,11 @@
       "timeline": [
         {
           "date": "2026-04-14",
+          "event": "Email from John Hrudicka: your electricity bill",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-14",
           "event": "Email from Jacob Delk: Pell City Marketplace",
           "type": "email"
         },
@@ -6885,6 +6890,11 @@
       "nextStep": "Keep pressure on all active prospects and let speed determine space control.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-14",
+          "event": "Email from John Hrudicka: your electricity bill",
+          "type": "email"
+        },
         {
           "date": "2026-04-14",
           "event": "Email from Jacob Delk: Pell City Marketplace",
