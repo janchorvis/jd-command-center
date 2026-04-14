@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T11:30:16.609223",
+  "lastUpdated": "2026-04-14T12:01:19.515926",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-10",
@@ -6553,9 +6553,9 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row",
-      "status": "Daniel Sun broker inquiry is still open from last night's after-hours scan.",
-      "nextStep": "Handle the daytime broker follow-up and confirm suite strategy context before replying.",
-      "priority": "medium",
+      "status": "Joey Valenti followed up on the Fox's Pizza space and asked for dimensions so his team can test fit the suite.",
+      "nextStep": "Jacob to send Joey the space dimensions for the Fox's Pizza space and follow up on the LOI response.",
+      "priority": "high",
       "timeline": [
         {
           "date": "2026-04-14",
@@ -6571,6 +6571,11 @@
           "date": "2026-04-14",
           "event": "Briefing: Daniel Sun Maple Row inquiry carried into daytime follow-up.",
           "type": "task"
+        },
+        {
+          "date": "2026-04-14",
+          "event": "Email: Joey Valenti asked for dimensions on the Fox's Pizza space so they can test fit it.",
+          "type": "email"
         },
         {
           "date": "2026-04-13",
