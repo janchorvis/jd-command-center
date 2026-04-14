@@ -26715,7 +26715,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-04-14T08:21:23",
+    "generatedAt": "2026-04-14T08:21:41",
     "source": "morning-briefing",
     "yourPlate": [
       {
@@ -27013,69 +27013,76 @@
       },
       {
         "id": "sweep-defer-2",
-        "text": "- T051 Five Below facade renderings waiting on Shaun / REC timing",
+        "text": "- No overnight Slack DMs needed action",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-defer-3",
-        "text": "- T052 Aldi reply waiting on Matterport fix and Spencer response",
+        "text": "- T051 Five Below facade renderings waiting on Shaun / REC timing",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-defer-4",
-        "text": "- T066 PCON event invite is stale, event already passed",
+        "text": "- T052 Aldi reply waiting on Matterport fix and Spencer response",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-defer-5",
-        "text": "- T092 William C email lookup blocked by missing exact subject / sender",
+        "text": "- T066 PCON event invite is stale, event already passed",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-defer-6",
-        "text": "- Older backlog not urgent today: T019, T021, T048",
+        "text": "- T092 William C email lookup blocked by missing exact subject / sender",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-defer-7",
-        "text": "- WATCHING still stale: Crunch Fitness McMinnville, McMinnville monument sign, McMinnville landscaping, ABC Russellville",
+        "text": "- Older backlog not urgent today: T019, T021, T048",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-defer-8",
-        "text": "- Personal travel still open: T081 flights, T082 hotels",
+        "text": "- WATCHING still stale: Crunch Fitness McMinnville, McMinnville monument sign, McMinnville landscaping, ABC Russellville",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-defer-9",
-        "text": "- Anniversary planning is still unscheduled",
+        "text": "- Personal travel still open: T081 flights, T082 hotels",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-defer-10",
-        "text": "- T099 Gmail push / Fyxer replacement plus Anthropic credit claim is setup backlog, not today's operating priority",
+        "text": "- Anniversary planning is still unscheduled",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-defer-11",
+        "text": "- T099 Gmail push / Fyxer replacement plus Anthropic credit claim is setup backlog, not today's operating priority",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-12",
         "text": "🚀 Command Center: https://jd-command-center.vercel.app",
         "detail": "",
         "completed": false,
@@ -27480,7 +27487,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-04-14T08:21:23",
+    "generatedAt": "2026-04-14T08:21:41",
     "source": "morning-briefing",
     "items": [
       {
