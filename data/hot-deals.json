@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13T17:30:26.765062",
+  "lastUpdated": "2026-04-14T08:20:19.213033",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-10",
@@ -77,7 +77,10 @@
       "Review Great Greek financials and decide whether Fox's is the right Maple Row suite.",
       "Call Ashby about Emerson / Prather comments and turn one more reasonable draft before pushing for signature.",
       "Send Micah the Slack paper trail and date backup for the defaulting tenant default-letter issue.",
-      "Turn the Sevierville / EPS paper back with the local quote and updated pricing."
+      "Turn the Sevierville / EPS paper back with the local quote and updated pricing.",
+      "New Memphis Building: reply to Kennethea S. on the new Crexi inquiry",
+      "Maple Row: handle Daniel Sun's broker follow-up and decide suite strategy",
+      "Emerson Hall: call Ashby/Prather on lease comments"
     ]
   },
   "pipelineDeals": [
@@ -6355,10 +6358,15 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row",
-      "status": "Great Greek economics favor Fox's over the more expensive alternate suite, while Anchor tests whether modest TI can keep the bookstore/local operator alive so both deals still work.",
-      "nextStep": "Review Great Greek financials, talk with the bookstore prospect, and decide whether to pursue Fox's plus a modest TI for the local operator.",
-      "priority": "high",
+      "status": "Daniel Sun broker inquiry is still open from last night's after-hours scan.",
+      "nextStep": "Handle the daytime broker follow-up and confirm suite strategy context before replying.",
+      "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-14",
+          "event": "Briefing: Daniel Sun Maple Row inquiry carried into daytime follow-up.",
+          "type": "task"
+        },
         {
           "date": "2026-04-13",
           "event": "Email from Daniel Sun: Interest on Maple Row",
