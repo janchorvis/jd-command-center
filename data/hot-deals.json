@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T08:20:19.213033",
+  "lastUpdated": "2026-04-14T08:26:21.925971",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-10",
@@ -6161,12 +6161,17 @@
       "id": "mcminnville-plaza",
       "name": "",
       "property": "McMinnville Plaza",
-      "status": "New broker inquiry from James Rainer at Newmark for an outpatient substance abuse treatment client exploring roughly 5,000 SF in the center.",
+      "status": "New LoopNet lead from Joe Wesley for 6,000-10,000 SF at McMinnville Plaza. Prospect requested email-only details and was auto-replied with a qualifying question about business type.",
       "stage": "Contact Made",
-      "nextStep": "Jacob to respond on whether the 20,000 SF box can be subdivided and gather site requirements from the client.",
+      "nextStep": "Wait for Joe Wesley to clarify business type, then send property details if fit.",
       "priority": "medium",
       "contacts": [],
       "timeline": [
+        {
+          "date": "2026-04-14",
+          "event": "Email: New LoopNet lead from Joe Wesley for 6,000-10,000 SF; auto-replied in thread asking business type.",
+          "type": "email"
+        },
         {
           "date": "2026-04-13",
           "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
