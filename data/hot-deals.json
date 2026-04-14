@@ -26715,7 +26715,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-04-14T08:20:47",
+    "generatedAt": "2026-04-14T08:20:58",
     "source": "morning-briefing",
     "yourPlate": [
       {
@@ -26899,93 +26899,94 @@
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
-      },
+      }
+    ],
+    "prepping": [
       {
-        "id": "sweep-plate-1",
+        "id": "sweep-prep-1",
         "text": "Kennethea S. Crexi inquiry - New Memphis Building reply prep",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
-        "id": "sweep-plate-2",
+        "id": "sweep-prep-2",
         "text": "Daniel Sun Maple Row broker inquiry follow-up prep",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
-        "id": "sweep-plate-3",
+        "id": "sweep-prep-3",
         "text": "T068/T069 Malone flyer plus small-shop outreach list",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
-        "id": "sweep-plate-4",
+        "id": "sweep-prep-4",
         "text": "T070/T089 ICSC targets and Vegas schedule pack",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
-        "id": "sweep-plate-5",
+        "id": "sweep-prep-5",
         "text": "T078 Buena Vista listing blast draft",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
-        "id": "sweep-plate-6",
+        "id": "sweep-prep-6",
         "text": "T090 Concur expense defaults and coding questions",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
-        "id": "sweep-plate-7",
+        "id": "sweep-prep-7",
         "text": "T093 Five Below HVAC pricing and reuse analysis",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
-        "id": "sweep-plate-8",
+        "id": "sweep-prep-8",
         "text": "T094 Maple Row financial review and suite strategy prep",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
-        "id": "sweep-plate-9",
+        "id": "sweep-prep-9",
         "text": "T096 Buena Vista bid materials and sod/site request prep",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
-        "id": "sweep-plate-10",
+        "id": "sweep-prep-10",
         "text": "T101 Malone Shoe Dept DocuSign packet recipient prep",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
-        "id": "sweep-plate-11",
+        "id": "sweep-prep-11",
         "text": "T102 Buena Vista package prep for Millrose and Lennar",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
-        "id": "sweep-plate-12",
+        "id": "sweep-prep-12",
         "text": "Pull thread context for the two stale broker follow-ups before replies go out",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       }
     ],
-    "prepping": [],
     "handling": [
       {
         "id": "sweep-handle-1",
@@ -27472,7 +27473,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-04-14T08:20:47",
+    "generatedAt": "2026-04-14T08:20:58",
     "source": "morning-briefing",
     "items": [
       {
