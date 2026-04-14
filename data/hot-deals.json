@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T11:02:02.911236",
+  "lastUpdated": "2026-04-14T11:30:16.609223",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/6/26",
   "today": {
     "date": "2026-04-10",
@@ -2426,6 +2426,11 @@
       "nextStep": "Wait for execution.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-14",
+          "event": "Email from Joey Valenti: Hendo",
+          "type": "email"
+        },
         {
           "date": "2026-04-14",
           "event": "Email from Melissa Eddy: Invitation: Parker: Intern Learnings Presentation  @ Tue Apr 21, 2026 1pm - 1:15",
@@ -6161,6 +6166,11 @@
       "contacts": [],
       "timeline": [
         {
+          "date": "2026-04-14",
+          "event": "Email from Robert Burns: 209 29th Avenue N",
+          "type": "email"
+        },
+        {
           "date": "2026-04-13",
           "event": "Meeting: broker agreed to revise LOI after Jacob reiterated that Anchor only wants to keep moving if a real deal can get done.",
           "type": "meeting"
@@ -6547,6 +6557,16 @@
       "nextStep": "Handle the daytime broker follow-up and confirm suite strategy context before replying.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-14",
+          "event": "Email from Joey Valenti: Hendo",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-14",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Hunter McCloud",
+          "type": "email"
+        },
         {
           "date": "2026-04-14",
           "event": "Briefing: Daniel Sun Maple Row inquiry carried into daytime follow-up.",
@@ -8029,6 +8049,11 @@
       "timeline": [
         {
           "date": "2026-04-14",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Hunter McCloud",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-14",
           "event": "Email from Micah Lacher: Fwd: Leasing Agent Opportunity – Nashville (Ron Myers Recommendation)",
           "type": "email"
         },
@@ -8723,6 +8748,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-04-14",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Hunter McCloud",
+          "type": "email"
+        },
         {
           "date": "2026-04-14",
           "event": "Email from R. Stephen Prather: FW: 2518 Gallatin Partners LLC - Lease Agreement",
@@ -10004,34 +10034,6 @@
       "urgency": "low"
     },
     {
-      "name": "Joey",
-      "deal": " — Maple Row",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Brian P.: Brian P. opened brochure on Maple Row Shopping Center",
-      "urgency": "low"
-    },
-    {
-      "name": "Joey/Gregory",
-      "deal": " — Maple Row",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Brian P.: Brian P. opened brochure on Maple Row Shopping Center",
-      "urgency": "low"
-    },
-    {
-      "name": "Gregory",
-      "deal": " — Maple Row",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Brian P.: Brian P. opened brochure on Maple Row Shopping Center",
-      "urgency": "low"
-    },
-    {
-      "name": "Bookstore prospect",
-      "deal": " — Maple Row",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Brian P.: Brian P. opened brochure on Maple Row Shopping Center",
-      "urgency": "low"
-    },
-    {
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
       "daysSinceContact": 1,
@@ -10077,7 +10079,7 @@
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Melissa Eddy: Invitation: Parker: Intern Learnings Presentation  @ Tu",
+      "lastAction": "Email from Joey Valenti: Hendo",
       "urgency": "low"
     },
     {
@@ -10193,6 +10195,34 @@
       "urgency": "low"
     },
     {
+      "name": "Joey",
+      "deal": " — Maple Row",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Joey Valenti: Hendo",
+      "urgency": "low"
+    },
+    {
+      "name": "Joey/Gregory",
+      "deal": " — Maple Row",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Joey Valenti: Hendo",
+      "urgency": "low"
+    },
+    {
+      "name": "Gregory",
+      "deal": " — Maple Row",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Joey Valenti: Hendo",
+      "urgency": "low"
+    },
+    {
+      "name": "Bookstore prospect",
+      "deal": " — Maple Row",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Joey Valenti: Hendo",
+      "urgency": "low"
+    },
+    {
       "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
       "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
       "daysSinceContact": 0,
@@ -10252,42 +10282,42 @@
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Leasing Agent Opportunity – Nashville (Ron Myers R",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Hunter McCloud",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Leasing Agent Opportunity – Nashville (Ron Myers R",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Hunter McCloud",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Leasing Agent Opportunity – Nashville (Ron Myers R",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Hunter McCloud",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from R. Stephen Prather: FW: 2518 Gallatin Partners LLC - Lease Agreement",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Hunter McCloud",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from R. Stephen Prather: FW: 2518 Gallatin Partners LLC - Lease Agreement",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Hunter McCloud",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from R. Stephen Prather: FW: 2518 Gallatin Partners LLC - Lease Agreement",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Hunter McCloud",
       "urgency": "low"
     }
   ],
