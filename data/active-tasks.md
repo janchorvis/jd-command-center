@@ -1,17 +1,17 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-04-13 6:00 PM CDT (self-review)
+Last updated: 2026-04-14 6:00 PM CDT (self-review)
 
 <!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T105 -->
 
 ## ACTIVE — Jacob needs to do these
 
 ### This Week (week of 4/13)
-- T050: PCON feedback form for Jack Beachboard — prospective member, submit via HubSpot link in email (3/12). Was due 3/17 (OVERDUE — 27 days late). [asana: 1213659300550136]
+- T050: PCON feedback form for Jack Beachboard — prospective member, submit via HubSpot link in email (3/12). Was due 3/17 (OVERDUE — 28 days late). [asana: 1213659300550136]
 - T051: Five Below (Malone Plaza) — LOI signed and returned 3/17. REC meeting 4/22. Facade renderings requested from Shaun (architect). Waiting on Shaun. [source: email 3/17, updated 3/22]
 - T060: Send Micah calendar invite for PCON dinner — April 22, host committee. [source: leasing meeting 3/23]
 - T065: PCON sponsorships — secure sponsors for upcoming event [asana: 1213840904488698]
-- T066: Invite people to next Friday (4/4) PCON event [asana: 1213840882206260] [due: 4/3, OVERDUE — 10 days late]
+- T066: Invite people to next Friday (4/4) PCON event [asana: 1213840882206260] [due: 4/3, OVERDUE — 11 days late]
 - T067: Talk to Carter about Thursday mornings [asana: 1213840882210964]
 - T068: Send Malone flyer to small shop tenants [asana: 1213840882213654] [depends on: T069]
 - T069: Finish Malone flyer [asana: 1213840882213751]
@@ -26,7 +26,7 @@ Last updated: 2026-04-13 6:00 PM CDT (self-review)
 - T078: Blast out Buena Vista listings [asana: 1213840882215086] [note: include Brian Drobnick/NRP Group — called last week, no answer]
 - T079: Work with Parker to get sign for Buena Vista [asana: 1213840947037043] [absorbed T016]
 - T080: Redline Five Below work letter [asana: 1213841001404970] [absorbed T018]
-- T083: Set up Melissa Drish laptop (ThinkBook 16 Gen 8) — arriving ~3/29, must be ready before April 6 start date [asana: 1213841285824838] [due: 4/5, OVERDUE — 8 days late]
+- T083: Set up Melissa Drish laptop (ThinkBook 16 Gen 8) — arriving ~3/29, must be ready before April 6 start date [asana: 1213841285824838] [due: 4/5, OVERDUE — 9 days late]
 - T084: Call Ashby re: Emerson / Prather lease comments — get on phone Wed/Thu/Fri, turn one more reasonable draft, then push for signature. [source: leasing meeting 3/30, updated 4/13] [deal: Emerson Hall / McMinnville]
 - T085: Tell Brian to get Big Lots box pricing this week (Evansville Easter Seals/GCS) — pitch at ~$75/ft [source: leasing meeting 3/30] [deal: Evansville]
 - T086: Push Cosmoprof with firm terms on Shelbyville — no TI, state what we will/won't do, don't lose interest [source: leasing meeting 3/30] [deal: Shelbyville]
@@ -60,10 +60,9 @@ Last updated: 2026-04-13 6:00 PM CDT (self-review)
 
 ## WATCHING — Monitor, not actionable yet
 
-Note: WATCHING items should be removed once real movement comes in. Gastonia laundromat was removed on 4/10 after a fresh DocuSign reminder signaled movement. Pell City was removed earlier on 4/10 after fresh email movement from Factory Connection. The remaining WATCHING items are now 14 days stale and should be surfaced in the 4/14 morning briefing if there is still no movement.
+Note: WATCHING items should be removed once real movement comes in. Gastonia laundromat was removed on 4/10 after a fresh DocuSign reminder signaled movement. Pell City was removed earlier on 4/10 after fresh email movement from Factory Connection. McMinnville monument sign was removed on 4/14 after Clay sent fresh Slack PDFs/comments for review. The remaining WATCHING items are now 15 days stale and should be surfaced in the 4/15 morning briefing if there is still no movement.
 
 - Crunch Fitness (McMinnville) — responded positively to co-tenancy growth, revisiting. [source: leasing meeting 3/30]
-- McMinnville monument sign — Clay sent bigger design, location debate (old spot vs highway). [source: leasing meeting 3/30]
 - McMinnville landscaping — need landscaper as spring comes, weeds at front of property. [source: leasing meeting 3/30]
 - ABC Russellville — waiting on signed lease. [source: leasing meeting 3/30]
 
