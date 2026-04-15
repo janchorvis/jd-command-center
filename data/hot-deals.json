@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T15:35:55.235913",
+  "lastUpdated": "2026-04-15T16:30:12.194399",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/13/26",
   "today": {
     "date": "2026-04-15",
@@ -68,6 +68,11 @@
       "nextStep": "Get replacement pricing through property management or the tenant's national vendor contact and confirm whether existing units can be reused elsewhere.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-15",
+          "event": "Email from Fiverr: You’ve got new messages from Yas",
+          "type": "email"
+        },
         {
           "date": "2026-04-15",
           "event": "Email from Paul Stead: Pell City Marketplace- 9,200sf",
@@ -6998,6 +7003,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-04-15",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Jack Costigan",
+          "type": "email"
+        },
+        {
           "date": "2026-04-14",
           "event": "Email from Larry Kloess: 2026 Prospectives Outreach",
           "type": "email"
@@ -8674,6 +8684,11 @@
       "timeline": [
         {
           "date": "2026-04-15",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Jack Costigan",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-15",
           "event": "Email from Brandon Cade: Berry Alum Reaching Out – Leasing Opportunity in Nashville",
           "type": "email"
         },
@@ -9393,6 +9408,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-04-15",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Jack Costigan",
+          "type": "email"
+        },
         {
           "date": "2026-04-15",
           "event": "Email from Brandon Cade: Berry Alum Reaching Out – Leasing Opportunity in Nashville",
@@ -10758,38 +10778,10 @@
       "urgency": "low"
     },
     {
-      "name": "Joey",
-      "deal": " — Maple Row",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Larry Kloess: 2026 Prospectives Outreach",
-      "urgency": "low"
-    },
-    {
-      "name": "Joey/Gregory",
-      "deal": " — Maple Row",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Larry Kloess: 2026 Prospectives Outreach",
-      "urgency": "low"
-    },
-    {
-      "name": "Gregory",
-      "deal": " — Maple Row",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Larry Kloess: 2026 Prospectives Outreach",
-      "urgency": "low"
-    },
-    {
-      "name": "Bookstore prospect",
-      "deal": " — Maple Row",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Larry Kloess: 2026 Prospectives Outreach",
-      "urgency": "low"
-    },
-    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Paul Stead: Pell City Marketplace- 9,200sf",
+      "lastAction": "Email from Fiverr: You’ve got new messages from Yas",
       "urgency": "low"
     },
     {
@@ -10926,6 +10918,34 @@
       "urgency": "low"
     },
     {
+      "name": "Joey",
+      "deal": " — Maple Row",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Jack Costigan",
+      "urgency": "low"
+    },
+    {
+      "name": "Joey/Gregory",
+      "deal": " — Maple Row",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Jack Costigan",
+      "urgency": "low"
+    },
+    {
+      "name": "Gregory",
+      "deal": " — Maple Row",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Jack Costigan",
+      "urgency": "low"
+    },
+    {
+      "name": "Bookstore prospect",
+      "deal": " — Maple Row",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Jack Costigan",
+      "urgency": "low"
+    },
+    {
       "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
       "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
       "daysSinceContact": 0,
@@ -10985,42 +11005,42 @@
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brandon Cade: Berry Alum Reaching Out – Leasing Opportunity in Nashvi",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Jack Costigan",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brandon Cade: Berry Alum Reaching Out – Leasing Opportunity in Nashvi",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Jack Costigan",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brandon Cade: Berry Alum Reaching Out – Leasing Opportunity in Nashvi",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Jack Costigan",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brandon Cade: Berry Alum Reaching Out – Leasing Opportunity in Nashvi",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Jack Costigan",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brandon Cade: Berry Alum Reaching Out – Leasing Opportunity in Nashvi",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Jack Costigan",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brandon Cade: Berry Alum Reaching Out – Leasing Opportunity in Nashvi",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Jack Costigan",
       "urgency": "low"
     },
     {
