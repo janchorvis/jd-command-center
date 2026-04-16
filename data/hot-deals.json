@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T10:30:09.274122",
+  "lastUpdated": "2026-04-16T11:30:11.724549",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/13/26",
   "today": {
     "date": "2026-04-16",
@@ -2659,6 +2659,16 @@
       "nextStep": "Wait for execution.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-16",
+          "event": "Email from Melissa Eddy: Invitation: Taylor Intern Learnings Presentation  @ Tue Apr 21, 2026 1:15pm - 1:",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-16",
+          "event": "Email from Matterport: Gain the Competitive Edge in Retail Real Estate with Matterport",
+          "type": "email"
+        },
         {
           "date": "2026-04-16",
           "event": "Email from Joey Valenti: FW: [EXTERNAL] - RE: Hendo",
@@ -5474,6 +5484,11 @@
       "nextStep": "Waiting on Melissa Eddy (Asana due 3/20) - reaching out to Ashby re: Memo of Exclusive + Declarant estoppel.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-16",
+          "event": "Email from Melissa Eddy: Invitation: Taylor Intern Learnings Presentation  @ Tue Apr 21, 2026 1:15pm - 1:",
+          "type": "email"
+        },
         {
           "date": "2026-04-16",
           "event": "Email from Robert Richardson: Revised Bid Walk New Marshalls Malone NY (Former Big Lots)",
@@ -11360,7 +11375,7 @@
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - RE: Hendo",
+      "lastAction": "Email from Melissa Eddy: Invitation: Taylor Intern Learnings Presentation  @ Tue",
       "urgency": "low"
     },
     {
@@ -11423,21 +11438,21 @@
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Revised Bid Walk New Marshalls Malone NY (Former B",
+      "lastAction": "Email from Melissa Eddy: Invitation: Taylor Intern Learnings Presentation  @ Tue",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Revised Bid Walk New Marshalls Malone NY (Former B",
+      "lastAction": "Email from Melissa Eddy: Invitation: Taylor Intern Learnings Presentation  @ Tue",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Revised Bid Walk New Marshalls Malone NY (Former B",
+      "lastAction": "Email from Melissa Eddy: Invitation: Taylor Intern Learnings Presentation  @ Tue",
       "urgency": "low"
     },
     {
