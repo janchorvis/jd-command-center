@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T11:30:11.724549",
+  "lastUpdated": "2026-04-16T12:04:33.048529",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/13/26",
   "today": {
     "date": "2026-04-16",
@@ -5478,11 +5478,11 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "Lease executed 2/13/26. Memo of Exclusive delegated to Melissa/Ashby 3/14. Declarant estoppel letter also outstanding.",
+      "status": "TJX sent full A&E plans set (Marshalls_Malone, NY - A&E Set.pdf) and REH spec to all contractors/consultants. Revised bid walk email also sent. Build-out coordination actively moving.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Waiting on Melissa Eddy (Asana due 3/20) - reaching out to Ashby re: Memo of Exclusive + Declarant estoppel.",
-      "priority": "high",
+      "nextStep": "Monitor TJX contractor coordination. No action needed from Jacob.",
+      "priority": "low",
       "timeline": [
         {
           "date": "2026-04-16",
@@ -5497,6 +5497,16 @@
         {
           "date": "2026-04-16",
           "event": "Email from Clay Richardson (via Google Sheets): Spreadsheet shared with you: \"Malone Upcoming Expenses\"",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-16",
+          "event": "Email: TJX Bob Richardson distributed Plans & Specs (A&E set + REH spec) to full project team for Marshalls Malone NY build-out",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-16",
+          "event": "Email: Revised bid walk notification sent by TJX",
           "type": "email"
         },
         {
@@ -8455,9 +8465,9 @@
       "id": "gilded-spine-maple-row",
       "name": "Gilded Spine (Storybook Soirees LLC)",
       "property": "235 E Main St, Hendersonville (Maple Row)",
-      "status": "The bookstore/local operator toured via lockbox and then signaled she may pass. Jacob planned to talk with her the same day and test whether a modest TI package keeps both Maple Row deals alive.",
+      "status": "New competing inquiry arrived from Tim Pereira (CARR) for 235 E Main St on behalf of Musicologie franchisee (2000-2500 SF, private music lessons by appointment). Arrives while Gilded Spine deal is uncertain (Hillary may pass). Draft reply pending Jacob's input on availability + use.",
       "stage": "Contact Made",
-      "nextStep": "Talk with the bookstore prospect and see whether a small TI concession keeps the deal viable alongside Great Greek.",
+      "nextStep": "Jacob to decide: engage Musicologie while holding for Gilded Spine decision, or get clarity from Hillary first. Reply to Tim Pereira pending.",
       "priority": "high",
       "contacts": [
         "Hillary Holmes – gildedspinebooks@gmail.com, (414) 607-2197"
@@ -8481,6 +8491,11 @@
         {
           "date": "2026-04-16",
           "event": "Email from John N.: John N. opened brochure on Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-16",
+          "event": "Email: Tim Pereira (CARR, tim.pereira@carr.us) inquired on 235 E Main St for Musicologie franchisee, 2000-2500 SF, private music lessons. Asked about availability + use approval.",
           "type": "email"
         },
         {
