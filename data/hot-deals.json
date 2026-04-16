@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T14:03:14.487625",
+  "lastUpdated": "2026-04-16T14:30:09.391939",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/13/26",
   "today": {
     "date": "2026-04-16",
@@ -71,6 +71,11 @@
       "nextStep": "Get replacement pricing through property management or the tenant's national vendor contact and confirm whether existing units can be reused elsewhere.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-16",
+          "event": "Email from Malone Chamber of Commerce: More rain?",
+          "type": "email"
+        },
         {
           "date": "2026-04-16",
           "event": "Email from Robert Richardson: Revised Bid Walk New Marshalls Malone NY (Former Big Lots)",
@@ -764,6 +769,11 @@
       "timeline": [
         {
           "date": "2026-04-16",
+          "event": "Email from Malone Chamber of Commerce: More rain?",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-16",
           "event": "Email from Robert Richardson: Revised Bid Walk New Marshalls Malone NY (Former Big Lots)",
           "type": "email"
         },
@@ -1405,6 +1415,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-16",
+          "event": "Email from Malone Chamber of Commerce: More rain?",
+          "type": "email"
+        },
         {
           "date": "2026-04-16",
           "event": "Email from Robert Richardson: Revised Bid Walk New Marshalls Malone NY (Former Big Lots)",
@@ -5506,6 +5521,11 @@
       "timeline": [
         {
           "date": "2026-04-16",
+          "event": "Email from Malone Chamber of Commerce: More rain?",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-16",
           "event": "Email from Melissa Eddy: Invitation: Taylor Intern Learnings Presentation  @ Tue Apr 21, 2026 1:15pm - 1:",
           "type": "email"
         },
@@ -9247,6 +9267,11 @@
       "timeline": [
         {
           "date": "2026-04-16",
+          "event": "Email from Phoenix Club of Nashville: Please share feedback about Zack Hubiak",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-16",
           "event": "Email from Eric Snyder, Editor in Chief: The bitcoin mecca under Nashville's nose",
           "type": "email"
         },
@@ -9991,6 +10016,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-04-16",
+          "event": "Email from Phoenix Club of Nashville: Please share feedback about Zack Hubiak",
+          "type": "email"
+        },
         {
           "date": "2026-04-16",
           "event": "Email from Eric Snyder, Editor in Chief: The bitcoin mecca under Nashville's nose",
@@ -11445,28 +11475,28 @@
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Revised Bid Walk New Marshalls Malone NY (Former B",
+      "lastAction": "Email from Malone Chamber of Commerce: More rain?",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Revised Bid Walk New Marshalls Malone NY (Former B",
+      "lastAction": "Email from Malone Chamber of Commerce: More rain?",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Revised Bid Walk New Marshalls Malone NY (Former B",
+      "lastAction": "Email from Malone Chamber of Commerce: More rain?",
       "urgency": "low"
     },
     {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Revised Bid Walk New Marshalls Malone NY (Former B",
+      "lastAction": "Email from Malone Chamber of Commerce: More rain?",
       "urgency": "low"
     },
     {
@@ -11543,21 +11573,21 @@
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Melissa Eddy: Invitation: Taylor Intern Learnings Presentation  @ Tue",
+      "lastAction": "Email from Malone Chamber of Commerce: More rain?",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Melissa Eddy: Invitation: Taylor Intern Learnings Presentation  @ Tue",
+      "lastAction": "Email from Malone Chamber of Commerce: More rain?",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Melissa Eddy: Invitation: Taylor Intern Learnings Presentation  @ Tue",
+      "lastAction": "Email from Malone Chamber of Commerce: More rain?",
       "urgency": "low"
     },
     {
@@ -11648,42 +11678,42 @@
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: The bitcoin mecca under Nashville's nos",
+      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Zack Hubiak",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: The bitcoin mecca under Nashville's nos",
+      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Zack Hubiak",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: The bitcoin mecca under Nashville's nos",
+      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Zack Hubiak",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: The bitcoin mecca under Nashville's nos",
+      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Zack Hubiak",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: The bitcoin mecca under Nashville's nos",
+      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Zack Hubiak",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: The bitcoin mecca under Nashville's nos",
+      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Zack Hubiak",
       "urgency": "low"
     },
     {
