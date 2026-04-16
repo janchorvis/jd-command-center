@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T07:16:27.717271",
+  "lastUpdated": "2026-04-16T07:33:46.435615",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/13/26",
   "today": {
     "date": "2026-04-16",
@@ -54,7 +54,11 @@
       "Make flyer for mattresses listing (overdue — due 2026-03-23)",
       "put mattresses on the market (overdue — due 2026-03-23)",
       "Schedule lunch w mailto:ctaylor@realsitecommerical.com (overdue — due 2026-03-23)",
-      "See when Dallas could meet with carter (overdue — due 2026-03-31)"
+      "See when Dallas could meet with carter (overdue — due 2026-03-31)",
+      "10 AM Emerson Hall Lease Review call with Ashby — push for signature",
+      "Reply to Scott M (Crexi) on Pell City 1400 SF printing inquiry — needs pricing",
+      "ALL IN Award nominations due April 23 — 7 days out",
+      "Call Diego re Buena Vista purchase inquiry (561-517-6728)"
     ]
   },
   "pipelineDeals": [
@@ -3139,15 +3143,20 @@
       "id": "emerson-hawkins",
       "name": "Charles Hawkins Co.",
       "property": "Emerson Hall - Hotel Space",
-      "status": "Prather lease comments came back heavier than requested, but most edits look giveable. Team wants one more reasonable turn with Ashby before pressing for signature.",
+      "status": "Lease Review call with Ashby scheduled 10:00-10:30 AM today",
       "stage": "LOI",
-      "nextStep": "Get Ashby on the phone Wed/Thu/Fri, turn a reasonable draft, then push the tenant to sign.",
+      "nextStep": "Jacob on call with Ashby at 10 AM — get through comments, push for signature",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-04-16",
           "event": "Email from Kelsey Cornillie, Publisher: Shuttered Barista Parlor space lands tenant",
           "type": "email"
+        },
+        {
+          "date": "2026-04-16",
+          "event": "Briefing: Lease Review call with Ashby on calendar 10-10:30 AM",
+          "type": "task"
         },
         {
           "date": "2026-04-15",
