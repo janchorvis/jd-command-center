@@ -27835,320 +27835,175 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-04-16T07:15:55",
-    "source": "active-tasks",
+    "generatedAt": "2026-04-16T07:34:07",
+    "source": "morning-briefing",
     "yourPlate": [
       {
         "id": "sweep-plate-1",
-        "text": "PCON feedback form for Jack Beachboard — prospective member, submit via HubSpot link in email (3/12). Was due 3/17 (OVERDUE — 29 days late)",
+        "text": "[10 AM TODAY] Emerson Hall Lease Review w Ashby — push for signature",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-2",
-        "text": "Five Below (Malone Plaza) — LOI signed and returned 3/17. REC meeting 4/22. Facade renderings requested from Shaun (architect). Waiting on Shaun",
+        "text": "Scott M. (Crexi) — Pell City 1400 SF printing inquiry, pricing needed (T108)",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-3",
-        "text": "Send Micah calendar invite for PCON dinner — April 22, host committee",
+        "text": "ALL IN Award nominations — due April 23, 7 days out (T097)",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-4",
-        "text": "PCON sponsorships — secure sponsors for upcoming event",
+        "text": "Call Diego — Buena Vista purchase inquiry, 561-517-6728 (T098)",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-5",
-        "text": "Invite people to next Friday (4/4) PCON event",
+        "text": "Maple Row financials — Great Greek in Fox's vs alternate + bookstore TI (T094)",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-6",
-        "text": "Talk to Carter about Thursday mornings",
+        "text": "Call HopeSmiles — 30K SF purchase option availability/price (T095)",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-7",
-        "text": "Send Malone flyer to small shop tenants",
+        "text": "Call Shoe Dept broker (Malone) (T088)",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-8",
-        "text": "Finish Malone flyer",
+        "text": "Push Cosmoprof firm terms, Shelbyville — no TI (T086)",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-9",
-        "text": "Setup ICSC meetings — Evansville and Shelbyville",
+        "text": "Tell Brian Big Lots pricing, Evansville ~$75/ft (T085)",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-10",
-        "text": "Review Hamilton REA",
+        "text": "Five Below HVAC pricing — 7.5-ton reuse assessment (T093)",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-11",
-        "text": "Review Marshalls Malone materials",
+        "text": "ICSC Vegas — email Jeff, set up all meetings (T089)",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-12",
-        "text": "Respond to Sevierville / EPS store — local contractor sourced, revised paper should go back at roughly $19/SF once quote is finalized",
+        "text": "PCON feedback form — HubSpot, 29 days overdue (T050)",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-13",
-        "text": "Redline UPS LOI",
+        "text": "Sevierville/EPS — respond ~$19/SF once quote finalized (T073)",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-14",
-        "text": "Wingstop LOI",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-15",
-        "text": "Redline Great Greek LOI",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-16",
-        "text": "Get Micah to talk to Dr. Kemp — Jacob saw him at church, will follow up",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-17",
-        "text": "Blast out Buena Vista listings",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-18",
-        "text": "Work with Parker to get sign for Buena Vista",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-19",
-        "text": "Redline Five Below work letter",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-20",
-        "text": "Set up Melissa Drish laptop (ThinkBook 16 Gen 8) — arriving ~3/29, must be ready before April 6 start date",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-21",
-        "text": "Call Ashby re: Emerson / Prather lease comments — get on phone Wed/Thu/Fri, turn one more reasonable draft, then push for signature",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-22",
-        "text": "Tell Brian to get Big Lots box pricing this week (Evansville Easter Seals/GCS) — pitch at ~$75/ft",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-23",
-        "text": "Push Cosmoprof with firm terms on Shelbyville — no TI, state what we will/won't do, don't lose interest",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-24",
-        "text": "Send Royal Furniture Cubikasa site plan (18K SF) to Spencer/Aldi — ask if they can squeeze or build addition",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-25",
-        "text": "Call Shoe Dept broker",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-26",
-        "text": "Send completed Malone Shoe Dept DocuSign packet to the correct contacts",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-27",
-        "text": "Pack ICSC Vegas schedule — email Jeff, set up Tony/Starbucks, Seven Brews/Dutch Bros, Pedal (Nick), Burlington (Chris Keller), America's Thrift",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-28",
-        "text": "Concur expense report — confirm default Property + preferred Business Purpose wording for corporate/software expenses (blocker for coding 18 expenses)",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-29",
-        "text": "Screenshot Canva and Perenn receipts from email (no PDFs) for Concur",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-30",
-        "text": "Find most recent email from William C (Williamson) with comments for PCON draft - need exact subject or email address from Jacob",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-31",
-        "text": "Get Five Below HVAC replacement pricing and assess whether current 7.5-ton units can be reused elsewhere",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-32",
-        "text": "Review Maple Row financials and decide suite strategy — Great Greek in Fox's vs alternate suite, and whether modest TI keeps the bookstore/local operator alive",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-33",
-        "text": "Call on the 30K SF HopeSmiles purchase option to confirm availability and price flexibility",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-34",
-        "text": "Ask Buena Vista land contacts for prior bid materials and move the sod / site presentation work forward",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-35",
-        "text": "Submit ALL IN Award nomination(s) before April 23",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-36",
-        "text": "Call Diego re Buena Vista purchase inquiry - texted from Approver after seeing Craigslist Nashville listing, wants to discuss purchase price and site conditions. Call back: 561-517-6728",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-37",
-        "text": "Schedule lunch with Logan Smith",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-38",
-        "text": "Send Buena Vista to Millrose and Lennar",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-39",
-        "text": "Pell City — pressure wash or repaint facade; recent photos made the frontage look rough",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-40",
-        "text": "Send Micah the Slack paper trail and date backup for the defaulting tenant lease-maturity/default letter issue",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-41",
-        "text": "Reply to JC Perry referral — Micah forwarded a leasing-associate candidate referral from JC Perry; Jacob needs to respond",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-42",
-        "text": "Follow up Joe Wesley (McMinnville Plaza) — auto-reply sent 4/15 9PM asked \"what type of use?\" but Joe already said financial consulting firm. His Zoom request still unaddressed. Needs a proper reply",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-43",
-        "text": "Scott M. (Crexi) — broker requesting info on 1400 SF space at Pell City Marketplace for printing business; asked about availability + lease rate. No reply yet. Pricing question = needs Jacob",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-44",
-        "text": "Anita Kuntzman (Pea Ridge) — church inquiry, 2000 SF. Auto-reply sent 4/15 9PM asked for size+use but she already provided both. Needs a real follow-up",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       }
     ],
-    "prepping": [],
-    "handling": [],
+    "prepping": [
+      {
+        "id": "sweep-prep-1",
+        "text": "Draft JC Perry referral reply (T105)",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-2",
+        "text": "Draft Joe Wesley follow-up — McMinnville Zoom request (T106)",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-3",
+        "text": "Draft Anita Kuntzman real reply — church, 2000 SF, Pea Ridge (T109)",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-4",
+        "text": "Draft Buena Vista outreach to Millrose + Lennar (T102)",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-5",
+        "text": "Route Malone Shoe Dept DocuSign to correct contacts (T101)",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-6",
+        "text": "Compile Slack paper trail for Micah — default tenant issue (T104)",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-7",
+        "text": "Draft Royal Furniture site plan email to Spencer/Aldi (T087)",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ],
+    "handling": [
+      {
+        "id": "sweep-handle-1",
+        "text": "Asana stale task review — T066 (PCON 4/4 event moot?) + T083 (Melissa laptop done?)",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-handle-2",
+        "text": "Lumberjacks cron lesson promotion — due today",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-handle-3",
+        "text": "PCON dinner calendar invite for Micah — April 22",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ],
     "deferred": []
   },
   "prepDocDiff": {
@@ -28548,35 +28403,35 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-04-16T07:15:55",
-    "source": "active-tasks",
+    "generatedAt": "2026-04-16T07:34:07",
+    "source": "morning-briefing",
     "items": [
       {
         "id": "focus-plate-1",
-        "dealName": "PCON feedback form for Jack Beachboard",
+        "dealName": "[10 AM TODAY] Emerson Hall Lease Review w Ashby",
         "property": null,
-        "action": "prospective member, submit via HubSpot link in email (3/12). Was due 3/17 (OVERDUE — 29 days late)",
-        "why": "Top of your active task list this week.",
+        "action": "push for signature",
+        "why": "#1 on your plate today.",
         "urgency": "high",
-        "type": "task"
+        "type": "briefing"
       },
       {
         "id": "focus-plate-2",
-        "dealName": "Five Below (Malone Plaza)",
+        "dealName": "Scott M. (Crexi)",
         "property": null,
-        "action": "LOI signed and returned 3/17. REC meeting 4/22. Facade renderings requested from Shaun (architect). Waiting on Shaun",
-        "why": "Top of your active task list this week.",
+        "action": "Pell City 1400 SF printing inquiry, pricing needed (T108)",
+        "why": "#2 on your plate today.",
         "urgency": "high",
-        "type": "task"
+        "type": "briefing"
       },
       {
         "id": "focus-plate-3",
-        "dealName": "Send Micah calendar invite for PCON dinner",
+        "dealName": "ALL IN Award nominations",
         "property": null,
-        "action": "April 22, host committee",
-        "why": "Top of your active task list this week.",
+        "action": "due April 23, 7 days out (T097)",
+        "why": "#3 on your plate today.",
         "urgency": "medium",
-        "type": "task"
+        "type": "briefing"
       }
     ]
   }

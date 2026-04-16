@@ -1,12 +1,12 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-04-15 9:00 PM CDT (after-hours triage)
+Last updated: 2026-04-16 7:31 AM CDT (morning heartbeat)
 
 <!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T110 -->
 
 ## ACTIVE — Jacob needs to do these
 
-### This Week (week of 4/13)
+### This Week (week of 4/13) — RBC Heritage 4/16-19, PCON dinner 4/22
 - T050: PCON feedback form for Jack Beachboard — prospective member, submit via HubSpot link in email (3/12). Was due 3/17 (OVERDUE — 29 days late). [asana: 1213659300550136]
 - T051: Five Below (Malone Plaza) — LOI signed and returned 3/17. REC meeting 4/22. Facade renderings requested from Shaun (architect). Waiting on Shaun. [source: email 3/17, updated 3/22]
 - T060: Send Micah calendar invite for PCON dinner — April 22, host committee. [source: leasing meeting 3/23]
