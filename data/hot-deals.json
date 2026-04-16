@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T07:33:46.435615",
+  "lastUpdated": "2026-04-16T09:30:09.669810",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/13/26",
   "today": {
     "date": "2026-04-16",
@@ -2228,6 +2228,11 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-04-16",
+          "event": "Email from Chad Weyh: driveway repair",
+          "type": "email"
+        },
+        {
           "date": "2026-04-15",
           "event": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
           "type": "email"
@@ -2619,6 +2624,11 @@
       "nextStep": "Wait for execution.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-16",
+          "event": "Email from Crexi: Brandon C. clicked phone number on Franklin Center (Russellville, AL) .5 - 5 Acr",
+          "type": "email"
+        },
         {
           "date": "2026-04-15",
           "event": "Email from Joey Valenti: FW: [EXTERNAL] - RE: Hendo",
@@ -4860,6 +4870,11 @@
       "nextStep": "Send comments to Ashby, get on the phone Wed/Thu/Fri, turn one more draft, and pressure the tenant to sign.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-16",
+          "event": "Email from NAIOP Nashville: Upcoming Spring Into Summer Events!",
+          "type": "email"
+        },
         {
           "date": "2026-04-15",
           "event": "Email from Joe Wesley: LoopNet Lead for Mcminnville Plaza",
@@ -7256,6 +7271,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-04-16",
+          "event": "Email from John N.: John N. opened brochure on Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
           "date": "2026-04-15",
           "event": "Email from Joey Valenti: FW: [EXTERNAL] - RE: Hendo",
           "type": "email"
@@ -8349,6 +8369,16 @@
       ],
       "timeline": [
         {
+          "date": "2026-04-16",
+          "event": "Email from Christopher Keenan: PCON Introduction: Jacob Delk <> Zack Hubiak",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-16",
+          "event": "Email from John N.: John N. opened brochure on Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
           "date": "2026-04-15",
           "event": "Email from Carson West: *Action Needed* Selection Committee Scheduling Poll",
           "type": "email"
@@ -9040,6 +9070,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-04-16",
+          "event": "Email from NAIOP Nashville: Upcoming Spring Into Summer Events!",
+          "type": "email"
+        },
         {
           "date": "2026-04-15",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Jack Costigan",
@@ -9766,6 +9801,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-04-16",
+          "event": "Email from NAIOP Nashville: Upcoming Spring Into Summer Events!",
+          "type": "email"
+        },
         {
           "date": "2026-04-15",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Jack Costigan",
@@ -10575,6 +10615,16 @@
       ],
       "timeline": [
         {
+          "date": "2026-04-16",
+          "event": "Email from CPE Daily Newsletter: Live-work-play’s new golden era",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-16",
+          "event": "Email from HubSpot: PCON Donation - Send Thank You",
+          "type": "email"
+        },
+        {
           "date": "2026-04-15",
           "event": "Email from Alex Nicholson: The PCON Portal is Live: How to Get Started",
           "type": "email"
@@ -11155,20 +11205,6 @@
       "urgency": "low"
     },
     {
-      "name": "Chad Vang",
-      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
-      "urgency": "low"
-    },
-    {
-      "name": "Melissa Eddy",
-      "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - RE: Hendo",
-      "urgency": "low"
-    },
-    {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
       "daysSinceContact": 1,
@@ -11192,13 +11228,6 @@
     {
       "name": "Bell",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Joe Wesley: LoopNet Lead for Mcminnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby",
-      "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 1,
       "lastAction": "Email from Joe Wesley: LoopNet Lead for Mcminnville Plaza",
       "urgency": "low"
@@ -11243,41 +11272,6 @@
       "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
       "daysSinceContact": 1,
       "lastAction": "Email from Joe Wesley: LoopNet Lead for Mcminnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Joey",
-      "deal": " — Maple Row",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - RE: Hendo",
-      "urgency": "low"
-    },
-    {
-      "name": "Joey/Gregory",
-      "deal": " — Maple Row",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - RE: Hendo",
-      "urgency": "low"
-    },
-    {
-      "name": "Gregory",
-      "deal": " — Maple Row",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - RE: Hendo",
-      "urgency": "low"
-    },
-    {
-      "name": "Bookstore prospect",
-      "deal": " — Maple Row",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - RE: Hendo",
-      "urgency": "low"
-    },
-    {
-      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
-      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Carson West: *Action Needed* Selection Committee Scheduling Poll",
       "urgency": "low"
     },
     {
@@ -11330,52 +11324,17 @@
       "urgency": "low"
     },
     {
-      "name": "Julie Robbins",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Jack Costigan",
+      "name": "Chad Vang",
+      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chad Weyh: driveway repair",
       "urgency": "low"
     },
     {
-      "name": "Michael Dunn",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Jack Costigan",
-      "urgency": "low"
-    },
-    {
-      "name": "Cole @ DR Horton",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Jack Costigan",
-      "urgency": "low"
-    },
-    {
-      "name": "Charles Hawkins",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Jack Costigan",
-      "urgency": "low"
-    },
-    {
-      "name": "Brether group",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Jack Costigan",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Jack Costigan",
-      "urgency": "low"
-    },
-    {
-      "name": "Josh Levy",
-      "deal": "Live Nation — Emerson Hall",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Alex Nicholson: The PCON Portal is Live: How to Get Started",
+      "name": "Melissa Eddy",
+      "deal": "ABC Retail — Russellville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Crexi: Brandon C. clicked phone number on Franklin Center (Russellvil",
       "urgency": "low"
     },
     {
@@ -11411,6 +11370,97 @@
       "deal": "UPS Store Franchisee — McMinnville",
       "daysSinceContact": 0,
       "lastAction": "Email from Chain Store Age: DayBreaker: Walmart in big PL brand refresh; Macy's ",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Prather Event Co — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP Nashville: Upcoming Spring Into Summer Events!",
+      "urgency": "low"
+    },
+    {
+      "name": "Joey",
+      "deal": " — Maple Row",
+      "daysSinceContact": 0,
+      "lastAction": "Email from John N.: John N. opened brochure on Maple Row Shopping Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Joey/Gregory",
+      "deal": " — Maple Row",
+      "daysSinceContact": 0,
+      "lastAction": "Email from John N.: John N. opened brochure on Maple Row Shopping Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Gregory",
+      "deal": " — Maple Row",
+      "daysSinceContact": 0,
+      "lastAction": "Email from John N.: John N. opened brochure on Maple Row Shopping Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Bookstore prospect",
+      "deal": " — Maple Row",
+      "daysSinceContact": 0,
+      "lastAction": "Email from John N.: John N. opened brochure on Maple Row Shopping Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
+      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Christopher Keenan: PCON Introduction: Jacob Delk <> Zack Hubiak",
+      "urgency": "low"
+    },
+    {
+      "name": "Julie Robbins",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP Nashville: Upcoming Spring Into Summer Events!",
+      "urgency": "low"
+    },
+    {
+      "name": "Michael Dunn",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP Nashville: Upcoming Spring Into Summer Events!",
+      "urgency": "low"
+    },
+    {
+      "name": "Cole @ DR Horton",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP Nashville: Upcoming Spring Into Summer Events!",
+      "urgency": "low"
+    },
+    {
+      "name": "Charles Hawkins",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP Nashville: Upcoming Spring Into Summer Events!",
+      "urgency": "low"
+    },
+    {
+      "name": "Brether group",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP Nashville: Upcoming Spring Into Summer Events!",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP Nashville: Upcoming Spring Into Summer Events!",
+      "urgency": "low"
+    },
+    {
+      "name": "Josh Levy",
+      "deal": "Live Nation — Emerson Hall",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CPE Daily Newsletter: Live-work-play’s new golden era",
       "urgency": "low"
     }
   ],
