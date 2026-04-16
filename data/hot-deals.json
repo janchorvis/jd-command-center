@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T13:30:10.330096",
+  "lastUpdated": "2026-04-16T14:03:14.487625",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/13/26",
   "today": {
     "date": "2026-04-16",
@@ -6950,9 +6950,9 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City",
-      "status": "NEW LOI received - Ellianos Coffee (coffee user) for 1019 Martin St S Outparcel. From Wallace Schmuck & Keith Shamblin at Shannon Waltchack (Birmingham). LOI attached as docx. Email arrived 12:42 PM, unread.",
+      "status": "Inbound LOI received — Ellianos Coffee outparcel at 1019 Martin St S, Pell City",
       "stage": "Contact Made",
-      "nextStep": "Jacob to call Wallace Schmuck or Keith Shamblin, review LOI terms, respond",
+      "nextStep": "Jacob to review LOI from Wallace Schmuck (Shannon Waltchack) and respond; call Wallace or Keith Shamblin at 210-464-7707",
       "priority": "high",
       "contacts": [],
       "timeline": [
@@ -6964,6 +6964,11 @@
         {
           "date": "2026-04-16",
           "event": "Email: LOI received from Shannon Waltchack (Wallace Schmuck) for Ellianos Coffee outparcel at 1019 Martin St S Pell City",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-16",
+          "event": "Email: LOI received from Wallace Schmuck (ws@shanwalt.com) for Ellianos Coffee outparcel at 1019 Martin St S — cc: Keith Shamblin",
           "type": "email"
         },
         {
@@ -9976,8 +9981,8 @@
       "name": "Emerson Hall",
       "property": "2512 Gallatin Ave, Nashville",
       "type": "For Lease",
-      "status": "Revised lease sent by Ashby Scott after morning call with Jacob. 2518 Gallatin Partners LLC / Lately Project LLC lease dated 4/16/26. Exhibit A (site plan - Mixed Use Center + Common Area) still needs to be added by Jacob.",
-      "nextStep": "Jacob to review revised lease, add Exhibit A site plan, confirm any remaining issues",
+      "status": "Revised lease draft received from Ashby Scott following this morning's call",
+      "nextStep": "Jacob to review revised lease (2518 Gallatin Partners LLC / Lately Project LLC - Lease 4.16.26.docx) and push for signature",
       "contacts": [
         "Charles Hawkins (LOI)",
         "Brether group (Event/Entertainment)",
@@ -10014,6 +10019,11 @@
         {
           "date": "2026-04-16",
           "event": "Email: Ashby Scott sent revised 2518 Gallatin / Lately Project lease after morning call. Lease dated 4.16.26.",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-16",
+          "event": "Email: Ashby Scott sent revised lease draft after this morning's call — attached 2518 Gallatin Partners LLC - Lately Project LLC - Lease 4.16.26.docx",
           "type": "email"
         },
         {
