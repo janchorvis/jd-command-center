@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from __future__ import annotations
 """
 sync-command-center.py
 Master sync script for Jacob's Command Center dashboard.

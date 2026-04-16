@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from __future__ import annotations
 """
 pipedrive-email-crossref.py
 Cross-references Pipedrive deal activity with email activity in hot-deals.json
