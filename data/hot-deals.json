@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T14:30:16.322534",
+  "lastUpdated": "2026-04-16T15:03:20.160653",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/13/26",
   "today": {
     "date": "2026-04-16",
@@ -58,7 +58,11 @@
       "10 AM Emerson Hall Lease Review call with Ashby — push for signature",
       "Reply to Scott M (Crexi) on Pell City 1400 SF printing inquiry — needs pricing",
       "ALL IN Award nominations due April 23 — 7 days out",
-      "Call Diego re Buena Vista purchase inquiry (561-517-6728)"
+      "Call Diego re Buena Vista purchase inquiry (561-517-6728)",
+      {
+        "description": "Conner Walker (Millington Plaza) - Following up on asking rate and opex for church client (3000 SF). Jacob needs to respond with pricing.",
+        "priority": "medium"
+      }
     ]
   },
   "pipelineDeals": [
@@ -66,10 +70,10 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below HVAC remains the live blocker. Existing units are too old for tenant acceptance, so Anchor needs replacement pricing and may be able to reuse the current 7.5-ton units elsewhere.",
+      "status": "TJX (Marshalls) distributed A&E plans & specs for new Marshalls build-out at Malone. Clay Richardson and FSI contractors included. Build-out coordination is active.",
       "stage": "Lease Signed",
-      "nextStep": "Get replacement pricing through property management or the tenant's national vendor contact and confirm whether existing units can be reused elsewhere.",
-      "priority": "high",
+      "nextStep": "Review plans if needed; forward to architect/contractor team",
+      "priority": "medium",
       "timeline": [
         {
           "date": "2026-04-16",
@@ -84,6 +88,11 @@
         {
           "date": "2026-04-16",
           "event": "Email from Clay Richardson (via Google Sheets): Spreadsheet shared with you: \"Malone Upcoming Expenses\"",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-16",
+          "event": "Email: TJX PM distributed Marshalls A&E plans (16.7 MB) to all project parties",
           "type": "email"
         },
         {
@@ -7426,8 +7435,8 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row",
-      "status": "Joey Valenti followed up on the Fox's Pizza space and asked for dimensions so his team can test fit the suite.",
-      "nextStep": "Jacob to send Joey the space dimensions for the Fox's Pizza space and follow up on the LOI response.",
+      "status": "New broker inquiry from Tim Pereira (CARR) for Musicologie franchise client. Looking for 2000-2500 SF at 235 E Main St. Asking about availability and permitted use.",
+      "nextStep": "Jacob to respond - confirm availability and check use/exclusives for music lesson studio",
       "priority": "high",
       "timeline": [
         {
@@ -7443,6 +7452,11 @@
         {
           "date": "2026-04-16",
           "event": "Email from John N.: John N. opened brochure on Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-16",
+          "event": "Email: Broker inquiry - Musicologie franchise, 2000-2500 SF, 235 E Main St",
           "type": "email"
         },
         {
@@ -10006,8 +10020,8 @@
       "name": "Emerson Hall",
       "property": "2512 Gallatin Ave, Nashville",
       "type": "For Lease",
-      "status": "Revised lease draft received from Ashby Scott following this morning's call",
-      "nextStep": "Jacob to review revised lease (2518 Gallatin Partners LLC / Lately Project LLC - Lease 4.16.26.docx) and push for signature",
+      "status": "Revised lease draft sent by Ashby Scott (Evans Petree) after morning call with Jacob. Ready for Jacob to review and push back to tenant (Rebecca Miller at Buchalter).",
+      "nextStep": "Jacob to review revised draft and send to Stephen Prather / Rebecca Miller at Buchalter (rsmiller@buchalter.com)",
       "contacts": [
         "Charles Hawkins (LOI)",
         "Brether group (Event/Entertainment)",
@@ -10054,6 +10068,11 @@
         {
           "date": "2026-04-16",
           "event": "Email: Ashby Scott sent revised lease draft after this morning's call — attached 2518 Gallatin Partners LLC - Lately Project LLC - Lease 4.16.26.docx",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-16",
+          "event": "Email: Ashby sent revised Gallatin lease draft post-call",
           "type": "email"
         },
         {
