@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T12:30:09.662825",
+  "lastUpdated": "2026-04-16T13:02:52.160638",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/13/26",
   "today": {
     "date": "2026-04-16",
@@ -5498,10 +5498,10 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "TJX sent full A&E plans set (Marshalls_Malone, NY - A&E Set.pdf) and REH spec to all contractors/consultants. Revised bid walk email also sent. Build-out coordination actively moving.",
+      "status": "TJX/Robert Richardson sent updated Plans & Specs (11:09 AM) and Revised Bid Walk (11:18 AM) for Malone NY Former Big Lots. Build-out coordination actively progressing.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Monitor TJX contractor coordination. No action needed from Jacob.",
+      "nextStep": "Review updated plans if needed (labeled FYI in Gmail)",
       "priority": "low",
       "timeline": [
         {
@@ -5527,6 +5527,11 @@
         {
           "date": "2026-04-16",
           "event": "Email: Revised bid walk notification sent by TJX",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-16",
+          "event": "Email: Robert Richardson (TJX) sent Plans & Specs + Revised Bid Walk for New Marshalls Malone",
           "type": "email"
         },
         {
@@ -6945,12 +6950,17 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City",
-      "status": "Recent property photos made the facade condition stand out negatively. Micah wants facade cleanup added to the running property list.",
+      "status": "NEW LOI received - Ellianos Coffee (coffee user) for 1019 Martin St S Outparcel. From Wallace Schmuck & Keith Shamblin at Shannon Waltchack (Birmingham). LOI attached as docx. Email arrived 12:42 PM, unread.",
       "stage": "Contact Made",
-      "nextStep": "Add pressure wash or repaint of the facade to the Pell City property to-do list.",
-      "priority": "medium",
+      "nextStep": "Jacob to call Wallace Schmuck or Keith Shamblin, review LOI terms, respond",
+      "priority": "high",
       "contacts": [],
       "timeline": [
+        {
+          "date": "2026-04-16",
+          "event": "Email: LOI received from Shannon Waltchack (Wallace Schmuck) for Ellianos Coffee outparcel at 1019 Martin St S Pell City",
+          "type": "email"
+        },
         {
           "date": "2026-04-15",
           "event": "Email from Scott M.: Scott M. is requesting Information on Pell City Marketplace in Pell City",
@@ -9951,14 +9961,14 @@
       "name": "Emerson Hall",
       "property": "2512 Gallatin Ave, Nashville",
       "type": "For Lease",
-      "status": "Active negotiations - Hawkins LOI + Brether group interested",
-      "nextStep": "Follow up on Hawkins guarantor financials, call Brether group",
+      "status": "Revised lease sent by Ashby Scott after morning call with Jacob. 2518 Gallatin Partners LLC / Lately Project LLC lease dated 4/16/26. Exhibit A (site plan - Mixed Use Center + Common Area) still needs to be added by Jacob.",
+      "nextStep": "Jacob to review revised lease, add Exhibit A site plan, confirm any remaining issues",
       "contacts": [
         "Charles Hawkins (LOI)",
         "Brether group (Event/Entertainment)",
         "Stephen Prather"
       ],
-      "priority": "medium",
+      "priority": "high",
       "lastUpdate": "2026-03-09",
       "timeline": [
         {
@@ -9979,6 +9989,11 @@
         {
           "date": "2026-04-16",
           "event": "Email from NAIOP Nashville: Upcoming Spring Into Summer Events!",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-16",
+          "event": "Email: Ashby Scott sent revised 2518 Gallatin / Lately Project lease after morning call. Lease dated 4.16.26.",
           "type": "email"
         },
         {
