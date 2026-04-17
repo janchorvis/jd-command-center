@@ -28474,8 +28474,10 @@
         "id": "sweep-plate-33",
         "text": "Call on the 30K SF HopeSmiles purchase option to confirm availability and price flexibility",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:24:41.932Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-34",
