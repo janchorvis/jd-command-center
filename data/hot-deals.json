@@ -4082,9 +4082,9 @@
       ],
       "rentComps": {
         "property": "Montgomery",
-        "avgRate": 14.0,
-        "minRate": 14.0,
-        "maxRate": 14.0,
+        "avgRate": 14,
+        "minRate": 14,
+        "maxRate": 14,
         "avgSqFt": 4405,
         "suiteCount": 19,
         "vacantCount": 0
@@ -28231,36 +28231,46 @@
         "id": "sweep-plate-2",
         "text": "Five Below (Malone Plaza) — LOI signed and returned 3/17. REC meeting 4/22. Facade renderings requested from Shaun (architect). Waiting on Shaun",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:22:36.559Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-3",
         "text": "Send Micah calendar invite for PCON dinner — April 22, host committee",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:22:37.771Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-4",
         "text": "PCON sponsorships — secure sponsors for upcoming event",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:22:39.363Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-5",
         "text": "Invite people to next Friday (4/4) PCON event",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:22:42.951Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-6",
         "text": "Talk to Carter about Thursday mornings",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:22:41.854Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-7",
