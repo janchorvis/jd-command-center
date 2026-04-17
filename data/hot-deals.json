@@ -28397,15 +28397,19 @@
         "id": "sweep-plate-24",
         "text": "Send Royal Furniture Cubikasa site plan (18K SF) to Spencer/Aldi — ask if they can squeeze or build addition",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:24:20.673Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-25",
         "text": "Call Shoe Dept broker",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:24:21.965Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-26",
