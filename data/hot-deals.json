@@ -28458,8 +28458,10 @@
         "id": "sweep-plate-31",
         "text": "Get Five Below HVAC replacement pricing and assess whether current 7.5-ton units can be reused elsewhere",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:24:37.190Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-32",
