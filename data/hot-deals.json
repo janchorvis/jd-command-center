@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T07:15:54.604827",
+  "lastUpdated": "2026-04-17T07:16:02.684595",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/13/26",
   "today": {
     "date": "2026-04-17",
@@ -67,6 +67,11 @@
       "nextStep": "Review plans if needed; forward to architect/contractor team",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-17",
+          "event": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big Lots)",
+          "type": "email"
+        },
         {
           "date": "2026-04-16",
           "event": "Email from Conner Walker: Millington Plaza",
@@ -774,6 +779,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-04-17",
+          "event": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big Lots)",
+          "type": "email"
+        },
+        {
           "date": "2026-04-16",
           "event": "Email from Conner Walker: Millington Plaza",
           "type": "email"
@@ -1426,6 +1436,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-04-17",
+          "event": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big Lots)",
+          "type": "email"
+        },
         {
           "date": "2026-04-16",
           "event": "Email from Conner Walker: Millington Plaza",
@@ -3245,6 +3260,16 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-04-17",
+          "event": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big Lots)",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-17",
+          "event": "Email from Chain Store Age: DayBreaker: Walmart unveils big remodeling plans; QVC Group preps for bankruptcy",
+          "type": "email"
+        },
+        {
           "date": "2026-04-16",
           "event": "Email from R. Stephen Prather: FW: 2518 Gallatin Partners LLC - Lease Agreement",
           "type": "email"
@@ -4074,6 +4099,11 @@
       "nextStep": "Get Clay's whitebox number, respond to LOI. Kevin confirmed UPS + Wingstop same side.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-04-17",
+          "event": "Email from Chain Store Age: DayBreaker: Walmart unveils big remodeling plans; QVC Group preps for bankruptcy",
+          "type": "email"
+        },
         {
           "date": "2026-04-16",
           "event": "Email from Justin Schad, CCIM: SEEKING SITES IN TENNESSEE | America's Thrift Stores",
@@ -5545,6 +5575,11 @@
       "nextStep": "Review updated plans if needed (labeled FYI in Gmail)",
       "priority": "low",
       "timeline": [
+        {
+          "date": "2026-04-17",
+          "event": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big Lots)",
+          "type": "email"
+        },
         {
           "date": "2026-04-16",
           "event": "Email from Conner Walker: Millington Plaza",
@@ -8993,6 +9028,11 @@
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
+          "date": "2026-04-17",
+          "event": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big Lots)",
+          "type": "email"
+        },
+        {
           "date": "2026-04-16",
           "event": "Email from Robert Richardson: Revised Bid Walk New Marshalls Malone NY (Former Big Lots)",
           "type": "email"
@@ -9331,6 +9371,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-04-17",
+          "event": "Email from NASHtoday: TPAC renderings + Nashville Yards spring market",
+          "type": "email"
+        },
         {
           "date": "2026-04-16",
           "event": "Email from Phoenix Club of Nashville: Please share feedback about Zack Hubiak",
@@ -10082,6 +10127,21 @@
       "priority": "high",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-04-17",
+          "event": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big Lots)",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-17",
+          "event": "Email from Chain Store Age: DayBreaker: Walmart unveils big remodeling plans; QVC Group preps for bankruptcy",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-17",
+          "event": "Email from NASHtoday: TPAC renderings + Nashville Yards spring market",
+          "type": "email"
+        },
         {
           "date": "2026-04-16",
           "event": "Email from Phoenix Club of Nashville: Please share feedback about Zack Hubiak",
@@ -10936,6 +10996,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-04-17",
+          "event": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big Lots)",
+          "type": "email"
+        },
+        {
           "date": "2026-04-16",
           "event": "Email from Robert Richardson: Revised Bid Walk New Marshalls Malone NY (Former Big Lots)",
           "type": "email"
@@ -11503,295 +11568,295 @@
     {
       "name": "Derek Tucker",
       "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
-      "daysSinceContact": 9,
+      "daysSinceContact": 10,
       "lastAction": "Email from Kelsey Cornillie, Publisher: Elevated fitness club opens in Hillsboro",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Conner Walker: Millington Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
-      "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Conner Walker: Millington Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
-      "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Conner Walker: Millington Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Ajay Secore",
-      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Conner Walker: Millington Plaza",
       "urgency": "low"
     },
     {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Justin Schad, CCIM: SEEKING SITES IN TENNESSEE | America's Thrift Sto",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from ICSC RETAIL FORWARD NASHVILLE: Registration Is Now Open: Fast-Track Y",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from R. Stephen Prather: FW: 2518 Gallatin Partners LLC - Lease Agreement",
-      "urgency": "low"
-    },
-    {
-      "name": "Lexy & Austin",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from R. Stephen Prather: FW: 2518 Gallatin Partners LLC - Lease Agreement",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from R. Stephen Prather: FW: 2518 Gallatin Partners LLC - Lease Agreement",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from R. Stephen Prather: FW: 2518 Gallatin Partners LLC - Lease Agreement",
       "urgency": "low"
     },
     {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Sam High: Fwd: PCON Donation - Send Thank You",
       "urgency": "low"
     },
     {
       "name": "Dwaine High",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Sam High: Fwd: PCON Donation - Send Thank You",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Justin Schad, CCIM: SEEKING SITES IN TENNESSEE | America's Thrift Sto",
       "urgency": "low"
     },
     {
       "name": "Kevin True",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Conner Walker: Millington Plaza",
       "urgency": "low"
     },
     {
       "name": "Bell",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Conner Walker: Millington Plaza",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Conner Walker: Millington Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Melissa",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Conner Walker: Millington Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Conner Walker: Millington Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Lisa Schwartz, Esq.",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Conner Walker: Millington Plaza",
       "urgency": "low"
     },
     {
       "name": "Spencer",
       "deal": "Royal Furniture — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Conner Walker: Millington Plaza",
       "urgency": "low"
     },
     {
       "name": "Sheldon",
       "deal": "Royal Furniture — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Conner Walker: Millington Plaza",
       "urgency": "low"
     },
     {
       "name": "Peter Adams",
       "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Conner Walker: Millington Plaza",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - RE: Hendo",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - RE: Hendo",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - RE: Hendo",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - RE: Hendo",
       "urgency": "low"
     },
     {
       "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
       "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Sam High: Fwd: PCON Donation - Send Thank You",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
+      "urgency": "low"
+    },
+    {
+      "name": "Ajay Secore",
+      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
+      "urgency": "low"
+    },
+    {
+      "name": "Lexy & Austin",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Walmart unveils big remodeling plans; QV",
+      "urgency": "low"
+    },
+    {
+      "name": "Melissa",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
+      "urgency": "low"
+    },
+    {
+      "name": "Lisa Schwartz, Esq.",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Revised Bid Walk New Marshalls Malone NY (Former B",
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Revised Bid Walk New Marshalls Malone NY (Former B",
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Revised Bid Walk New Marshalls Malone NY (Former B",
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
       "urgency": "low"
     },
     {
       "name": "Dr. Phillip Kemp",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Revised Bid Walk New Marshalls Malone NY (Former B",
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
       "urgency": "low"
     },
     {
       "name": "Dr. Kemp",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Revised Bid Walk New Marshalls Malone NY (Former B",
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
       "urgency": "low"
     },
     {
       "name": "Amy",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Revised Bid Walk New Marshalls Malone NY (Former B",
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
       "urgency": "low"
     },
     {
       "name": "Matty",
       "deal": "HopeSmiles — 44 Vantage Way, Cool Springs",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Revised Bid Walk New Marshalls Malone NY (Former B",
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Zack Hubiak",
+      "lastAction": "Email from NASHtoday: TPAC renderings + Nashville Yards spring market",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Zack Hubiak",
+      "lastAction": "Email from NASHtoday: TPAC renderings + Nashville Yards spring market",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Zack Hubiak",
+      "lastAction": "Email from NASHtoday: TPAC renderings + Nashville Yards spring market",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Zack Hubiak",
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Zack Hubiak",
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Zack Hubiak",
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
       "urgency": "low"
     },
     {
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Revised Bid Walk New Marshalls Malone NY (Former B",
+      "lastAction": "Email from Robert Richardson: Plans & Specs New Marshalls Malone NY (Former Big ",
       "urgency": "low"
     }
   ],
