@@ -1,17 +1,17 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-04-16 7:31 AM CDT (morning heartbeat)
+Last updated: 2026-04-16 6:00 PM CDT (self-review)
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T110 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T115 -->
 
 ## ACTIVE — Jacob needs to do these
 
 ### This Week (week of 4/13) — RBC Heritage 4/16-19, PCON dinner 4/22
-- T050: PCON feedback form for Jack Beachboard — prospective member, submit via HubSpot link in email (3/12). Was due 3/17 (OVERDUE — 29 days late). [asana: 1213659300550136]
+- T050: PCON feedback form for Jack Beachboard — prospective member, submit via HubSpot link in email (3/12). Was due 3/17 (OVERDUE — 30 days late). [asana: 1213659300550136]
 - T051: Five Below (Malone Plaza) — LOI signed and returned 3/17. REC meeting 4/22. Facade renderings requested from Shaun (architect). Waiting on Shaun. [source: email 3/17, updated 3/22]
 - T060: Send Micah calendar invite for PCON dinner — April 22, host committee. [source: leasing meeting 3/23]
 - T065: PCON sponsorships — secure sponsors for upcoming event [asana: 1213840904488698]
-- T066: Invite people to next Friday (4/4) PCON event [asana: 1213840882206260] [due: 4/3, OVERDUE — 12 days late] [note: event already passed 4/4 — confirm with Jacob if moot]
+- T066: Invite people to next Friday (4/4) PCON event [asana: 1213840882206260] [due: 4/3, OVERDUE — 13 days late] [note: event already passed 4/4 — confirm with Jacob if moot]
 - T067: Talk to Carter about Thursday mornings [asana: 1213840882210964]
 - T068: Send Malone flyer to small shop tenants [asana: 1213840882213654] [depends on: T069]
 - T069: Finish Malone flyer [asana: 1213840882213751]
@@ -26,8 +26,8 @@ Last updated: 2026-04-16 7:31 AM CDT (morning heartbeat)
 - T078: Blast out Buena Vista listings [asana: 1213840882215086] [note: include Brian Drobnick/NRP Group — called last week, no answer]
 - T079: Work with Parker to get sign for Buena Vista [asana: 1213840947037043] [absorbed T016]
 - T080: Redline Five Below work letter [asana: 1213841001404970] [absorbed T018]
-- T083: Set up Melissa Drish laptop (ThinkBook 16 Gen 8) — arriving ~3/29, must be ready before April 6 start date [asana: 1213841285824838] [due: 4/5, OVERDUE — 10 days late] [note: she started 4/6 — confirm with Jacob if done]
-- T084: Call Ashby re: Emerson / Prather lease comments — get on phone Wed/Thu/Fri, turn one more reasonable draft, then push for signature. [source: leasing meeting 3/30, updated 4/13] [deal: Emerson Hall / McMinnville]
+- T083: Set up Melissa Drish laptop (ThinkBook 16 Gen 8) — arriving ~3/29, must be ready before April 6 start date [asana: 1213841285824838] [due: 4/5, OVERDUE — 11 days late] [note: she started 4/6 — confirm with Jacob if done]
+- T084: Review revised Gallatin lease + push for signature — Ashby sent revised draft today (4/16) after this morning's call. Attached: "2518 Gallatin Partners LLC - Lately Project LLC - Lease 4.16.26.docx". Review and push back to tenant (or their attorney Rebecca Miller at Buchalter, rsmiller@buchalter.com). [source: leasing meeting 3/30, updated 4/16 after Ashby call + revised draft received] [deal: Gallatin / Lately Projects]
 - T085: Tell Brian to get Big Lots box pricing this week (Evansville Easter Seals/GCS) — pitch at ~$75/ft [source: leasing meeting 3/30] [deal: Evansville]
 - T086: Push Cosmoprof with firm terms on Shelbyville — no TI, state what we will/won't do, don't lose interest [source: leasing meeting 3/30] [deal: Shelbyville]
 - T087: Send Royal Furniture Cubikasa site plan (18K SF) to Spencer/Aldi — ask if they can squeeze or build addition [source: leasing meeting 3/30] [deal: McMinnville]
@@ -47,11 +47,15 @@ Last updated: 2026-04-16 7:31 AM CDT (morning heartbeat)
 - T100: Schedule lunch with Logan Smith. [source: #tasks 4/9] [asana: 1214000848206851]
 - T102: Send Buena Vista to Millrose and Lennar. [source: Chrome extension inbox 4/10] [deal: Buena Vista Pike] [asana: 1214038491092417]
 - T103: Pell City — pressure wash or repaint facade; recent photos made the frontage look rough. [source: leasing meeting 4/13] [deal: Pell City]
+- T111: Respond to Pell City Outparcel LOI — Ellianos Coffee LOI received from Wallace Schmuck (ws@shanwalt.com, 210-464-7707) / Shannon Waltchack. Property: 1019 Martin St S outparcel. Keith Shamblin cc'd. Call Wallace or Keith with feedback. [source: email 4/16] [deal: Pell City]
 - T104: Send Micah the Slack paper trail and date backup for the defaulting tenant lease-maturity/default letter issue. [source: leasing meeting 4/13]
 - T105: Reply to JC Perry referral — Micah forwarded a leasing-associate candidate referral from JC Perry; Jacob needs to respond. [source: morning briefing 4/15, carried from after-hours triage 4/14]
 - T106: Follow up Joe Wesley (McMinnville Plaza) — auto-reply sent 4/15 9PM asked "what type of use?" but Joe already said financial consulting firm. His Zoom request still unaddressed. Needs a proper reply. [source: morning briefing 4/15, updated after-hours triage 4/15]
 - T108: Scott M. (Crexi) — broker requesting info on 1400 SF space at Pell City Marketplace for printing business; asked about availability + lease rate. No reply yet. Pricing question = needs Jacob. [source: after-hours triage 4/15]
 - T109: Anita Kuntzman (Pea Ridge) — church inquiry, 2000 SF. Auto-reply sent 4/15 9PM asked for size+use but she already provided both. Needs a real follow-up. [source: after-hours triage 4/15]
+- T110: PCON Selection Committee — review grant materials in the 5 shared folders, post questions in the shared doc ASAP (so grant champions can liaise with nonprofits), attend meeting April 28 5:00-6:00 PM. [source: Carson West email 4/15, Chrome extension 4/16] [asana: 1214086467602429] [due: 4/28]
+- T113: Tim Pereira (CARR) — broker inquiry for Musicologie franchise client, looking for 2000-2500 SF at 235 E Main St, Maple Row Shopping Center. Asking availability + permitted use (private music lessons by appt). Needs response. [source: email 4/16] [deal: Maple Row]
+- T114: Conner Walker (CommAdv) — broker for church client needing ~3000 SF at Millington Plaza. Jacob's Apr 15 reply asked about timeline but never provided asking rate/opex. Conner followed up today. Respond with pricing and confirm church use/exclusives. [source: email 4/16]
 
 ### Next Week+
 - T019: Reach out to Runnings — exclusive with Ashby [source: brain-dump 3/6] [asana: 1213420777322230]
@@ -64,7 +68,7 @@ Last updated: 2026-04-16 7:31 AM CDT (morning heartbeat)
 
 ## WATCHING — Monitor, not actionable yet
 
-Note: WATCHING items should be removed once real movement comes in. Gastonia laundromat was removed on 4/10 after a fresh DocuSign reminder signaled movement. Pell City was removed earlier on 4/10 after fresh email movement from Factory Connection. McMinnville monument sign was removed on 4/14 after Clay sent fresh Slack PDFs/comments for review. The remaining WATCHING items are now 16 days stale (since 3/30) with zero movement — DO/DEFER/KILL prompt queued for the 4/16 morning briefing.
+Note: WATCHING items should be removed once real movement comes in. Gastonia laundromat was removed on 4/10 after a fresh DocuSign reminder signaled movement. Pell City was removed earlier on 4/10 after fresh email movement from Factory Connection. McMinnville monument sign was removed on 4/14 after Clay sent fresh Slack PDFs/comments for review. The remaining WATCHING items are now 17 days stale (since 3/30) with zero movement - DO/DEFER/KILL prompt queued for the 4/17 morning briefing.
 
 - Crunch Fitness (McMinnville) — responded positively to co-tenancy growth, revisiting. [source: leasing meeting 3/30]
 - McMinnville landscaping — need landscaper as spring comes, weeds at front of property. [source: leasing meeting 3/30]
@@ -73,6 +77,7 @@ Note: WATCHING items should be removed once real movement comes in. Gastonia lau
 ## COMPLETED — Recent (auto-cleaned after 7 days)
 
 - T052: Reply to Sheldon Griffin (Aldi) — completed 2026-04-15 per Asana [asana: 1213756952199430]
+- T112: PCON feedback — Zack Hubiak (prospective member) — completed 2026-04-16 per Asana [asana: 1214117420138742]
 
 ## Ongoing Projects (not tasks, just context)
 - Anchor Dashboard v1 — live at anchor-dashboard-rho.vercel.app
