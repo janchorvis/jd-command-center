@@ -28339,8 +28339,10 @@
         "id": "sweep-plate-16",
         "text": "Get Micah to talk to Dr. Kemp — Jacob saw him at church, will follow up",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:23:47.510Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-17",
