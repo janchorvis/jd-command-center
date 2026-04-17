@@ -28304,36 +28304,46 @@
         "id": "sweep-plate-11",
         "text": "Review Marshalls Malone materials",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:25:23.316Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-12",
         "text": "Respond to Sevierville / EPS store — local contractor sourced, revised paper should go back at roughly $19/SF once quote is finalized",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:25:22.415Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-13",
         "text": "Redline UPS LOI",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:25:20.301Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-14",
         "text": "Wingstop LOI",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:25:18.338Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-15",
         "text": "Redline Great Greek LOI",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:25:17.165Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-16",
