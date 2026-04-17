@@ -28362,15 +28362,19 @@
         "id": "sweep-plate-19",
         "text": "Redline Five Below work letter",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:25:12.815Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-20",
         "text": "Set up Melissa Drish laptop (ThinkBook 16 Gen 8) — arriving ~3/29, must be ready before April 6 start date",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:25:13.987Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-21",
