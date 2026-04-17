@@ -28415,8 +28415,10 @@
         "id": "sweep-plate-26",
         "text": "Send completed Malone Shoe Dept DocuSign packet to the correct contacts",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:24:25.009Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-27",
