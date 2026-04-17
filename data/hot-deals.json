@@ -28424,22 +28424,28 @@
         "id": "sweep-plate-27",
         "text": "Pack ICSC Vegas schedule — email Jeff, set up Tony/Starbucks, Seven Brews/Dutch Bros, Pedal (Nick), Burlington (Chris Keller), America's Thrift",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:24:28.569Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-28",
         "text": "Concur expense report — confirm default Property + preferred Business Purpose wording for corporate/software expenses (blocker for coding 18 expenses)",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:24:30.185Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-29",
         "text": "Screenshot Canva and Perenn receipts from email (no PDFs) for Concur",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:24:32.795Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-30",
