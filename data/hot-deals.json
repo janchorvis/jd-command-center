@@ -28383,15 +28383,19 @@
         "id": "sweep-plate-22",
         "text": "Tell Brian to get Big Lots box pricing this week (Evansville Easter Seals/GCS) — pitch at ~$75/ft",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:25:05.465Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-23",
         "text": "Push Cosmoprof with firm terms on Shelbyville — no TI, state what we will/won't do, don't lose interest",
         "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "completed": true,
+        "source": "active-tasks",
+        "completedAt": "2026-04-17T12:25:04.232Z",
+        "completedBy": "manual"
       },
       {
         "id": "sweep-plate-24",
