@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-05-01T14:30:37.364999",
+  "lastUpdated": "2026-05-01T15:02:09.490316",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/27/26",
   "today": {
     "date": "2026-05-01",
-    "greeting": "Good morning, Jacob. You have 13 overdue items.",
+    "greeting": "Good afternoon, Jacob. You have 13 overdue items.",
     "meetings": [
       {
         "time": "12:00 AM",
@@ -26,11 +26,6 @@
         "dealContext": null
       },
       {
-        "time": "1:00 PM",
-        "title": "Jacob / Mitch (Evansville, IN - Big Lots)",
-        "dealContext": "Stage: Trading Terms | Carmen Drake / Bellacino's is ready for Jacob to call and discuss moving forward… | Next: Jacob to call Carmen Drake to discuss moving forward with PSA."
-      },
-      {
         "time": "3:45 PM",
         "title": "Commissions (Anchor + Delk)",
         "dealContext": null
@@ -44,11 +39,7 @@
       "PCON feedback: Jake DeFrance (overdue — due 2026-03-27)",
       "Make flyer for mattresses listing (overdue — due 2026-03-23)",
       "put mattresses on the market (overdue — due 2026-03-23)",
-      "Schedule lunch w mailto:ctaylor@realsitecommerical.com (overdue — due 2026-03-23)",
-      "Jacob / Mitch call at 1:00 PM for Evansville Big Lots",
-      "Five Below / Malone kickoff and facade value-engineering remain high-priority follow-up",
-      "UPS Store McMinnville work-letter pricing needs pressure test",
-      "Pell City PT/Home Health RFP pricing needs value-engineering challenge"
+      "Schedule lunch w mailto:ctaylor@realsitecommerical.com (overdue — due 2026-03-23)"
     ]
   },
   "pipelineDeals": [
@@ -60093,7 +60084,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-05-01T07:32:51",
+    "generatedAt": "2026-05-01T15:02:09",
     "source": "morning-briefing",
     "yourPlate": [
       {
@@ -60804,7 +60795,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-05-01T07:32:51",
+    "generatedAt": "2026-05-01T15:02:09",
     "source": "morning-briefing",
     "items": [
       {
