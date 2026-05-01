@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T16:03:05.952761",
+  "lastUpdated": "2026-05-01T16:30:25.858900",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/27/26",
   "today": {
     "date": "2026-05-01",
@@ -9622,6 +9622,11 @@
       "timeline": [
         {
           "date": "2026-05-01",
+          "event": "Email from Lauri Fowler: 803 Martin St. S.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-01",
           "event": "ProStar followed up asking if Jacob had questions on the Pell City RFP.",
           "type": "email"
         },
@@ -11970,6 +11975,11 @@
       "timeline": [
         {
           "date": "2026-05-01",
+          "event": "Email from Christopher Keenan: PCON Board Meeting Prep | May 11, 2025",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-01",
           "event": "Email from Sean Spafford: PCON (Prospective Member)",
           "type": "email"
         },
@@ -12686,6 +12696,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-05-01",
+          "event": "Email from Paddle: Your subscription billing date from Relay.app has changed",
+          "type": "email"
+        },
         {
           "date": "2026-05-01",
           "event": "Email from Thijs van As: 🚨 You’ve hit your AI Credits limit in Relay.app",
@@ -16521,6 +16536,13 @@
       "urgency": "low"
     },
     {
+      "name": "Lauri Fowler",
+      "deal": " — Pell City",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
+      "urgency": "low"
+    },
+    {
       "name": "Carmen Drake",
       "deal": " — Evansville",
       "daysSinceContact": 0,
@@ -16573,7 +16595,7 @@
       "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
       "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Sean Spafford: PCON (Prospective Member)",
+      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | May 11, 2025",
       "urgency": "low"
     },
     {
@@ -16615,63 +16637,63 @@
       "name": "Amy Harper",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
       "daysSinceContact": 0,
-      "lastAction": "Email from Thijs van As: 🚨 You’ve hit your AI Credits limit in Relay.app",
+      "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
       "daysSinceContact": 0,
-      "lastAction": "Email from Thijs van As: 🚨 You’ve hit your AI Credits limit in Relay.app",
+      "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
       "daysSinceContact": 0,
-      "lastAction": "Email from Thijs van As: 🚨 You’ve hit your AI Credits limit in Relay.app",
+      "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
       "urgency": "low"
     },
     {
       "name": "Dr. Phillip Kemp",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
       "daysSinceContact": 0,
-      "lastAction": "Email from Thijs van As: 🚨 You’ve hit your AI Credits limit in Relay.app",
+      "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
       "urgency": "low"
     },
     {
       "name": "Dr. Kemp",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
       "daysSinceContact": 0,
-      "lastAction": "Email from Thijs van As: 🚨 You’ve hit your AI Credits limit in Relay.app",
+      "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
       "urgency": "low"
     },
     {
       "name": "Amy",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
       "daysSinceContact": 0,
-      "lastAction": "Email from Thijs van As: 🚨 You’ve hit your AI Credits limit in Relay.app",
+      "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
       "urgency": "low"
     },
     {
       "name": "Matty",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
       "daysSinceContact": 0,
-      "lastAction": "Email from Thijs van As: 🚨 You’ve hit your AI Credits limit in Relay.app",
+      "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
       "urgency": "low"
     },
     {
       "name": "Ashley Marshall",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
       "daysSinceContact": 0,
-      "lastAction": "Email from Thijs van As: 🚨 You’ve hit your AI Credits limit in Relay.app",
+      "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
       "urgency": "low"
     },
     {
       "name": "Bill Adair",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
       "daysSinceContact": 0,
-      "lastAction": "Email from Thijs van As: 🚨 You’ve hit your AI Credits limit in Relay.app",
+      "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
       "urgency": "low"
     },
     {
