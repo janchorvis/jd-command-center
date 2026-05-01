@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T15:02:39.605894",
+  "lastUpdated": "2026-05-01T15:31:00.102960",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/27/26",
   "today": {
     "date": "2026-05-01",
@@ -52,6 +52,11 @@
       "nextStep": "Monitor for any access issue before Tuesday 5/5 survey.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-01",
+          "event": "Email from Micah Lacher: Welcome to Anchor",
+          "type": "email"
+        },
         {
           "date": "2026-05-01",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Clay Close",
@@ -7592,6 +7597,11 @@
       "timeline": [
         {
           "date": "2026-05-01",
+          "event": "Email from Micah Lacher: Welcome to Anchor",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-01",
           "event": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
           "type": "email"
         },
@@ -12568,6 +12578,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-01",
+          "event": "Email from Micah Lacher: Welcome to Anchor",
+          "type": "email"
+        },
+        {
           "date": "2026-04-30",
           "event": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NCS-1283410-CHI2",
           "type": "email"
@@ -16238,129 +16253,94 @@
       "urgency": "low"
     },
     {
-      "name": "Ashby",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
-      "urgency": "low"
-    },
-    {
-      "name": "Bob McAuliff",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
-      "urgency": "low"
-    },
-    {
-      "name": "Bob McAuliff",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
-      "urgency": "low"
-    },
-    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Clay Close",
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Clay Close",
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Clay Close",
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Clay Close",
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Clay Close",
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Clay Close",
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Clay Close",
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Clay Close",
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Clay Close",
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Clay Close",
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Clay Close",
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Clay Close",
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Clay Close",
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
@@ -16465,49 +16445,49 @@
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
@@ -16585,6 +16565,41 @@
       "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
       "daysSinceContact": 0,
       "lastAction": "Email from Sean Spafford: PCON (Prospective Member)",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
+      "urgency": "low"
+    },
+    {
+      "name": "Bob McAuliff",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
+      "urgency": "low"
+    },
+    {
+      "name": "Bob McAuliff",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
