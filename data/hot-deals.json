@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T15:31:00.102960",
+  "lastUpdated": "2026-05-01T16:03:05.952761",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/27/26",
   "today": {
     "date": "2026-05-01",
@@ -39,7 +39,9 @@
       "PCON feedback: Jake DeFrance (overdue — due 2026-03-27)",
       "Make flyer for mattresses listing (overdue — due 2026-03-23)",
       "put mattresses on the market (overdue — due 2026-03-23)",
-      "Schedule lunch w mailto:ctaylor@realsitecommerical.com (overdue — due 2026-03-23)"
+      "Schedule lunch w mailto:ctaylor@realsitecommerical.com (overdue — due 2026-03-23)",
+      "Respond to Lauri Fowler on the Pell City Physical Therapy/Home Health RFP follow-up.",
+      "Call eSpaces about Emerge now that they are in Memphis."
     ]
   },
   "pipelineDeals": [
@@ -9610,12 +9612,19 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City",
-      "status": "Inbound LOI received — Ellianos Coffee outparcel at 1019 Martin St S, Pell City",
+      "status": "ProStar followed up on the Pell City Physical Therapy/Home Health RFP on 5/1 asking whether Jacob had any questions about the RFP sent 4/17. Jacob has not replied yet.",
       "stage": "Contact Made",
-      "nextStep": "Jacob to review LOI from Wallace Schmuck (Shannon Waltchack) and respond; call Wallace or Keith Shamblin at 210-464-7707",
+      "nextStep": "Jacob should review/challenge the RFP pricing and respond to Lauri Fowler.",
       "priority": "high",
-      "contacts": [],
+      "contacts": [
+        "Lauri Fowler (ProStar Commercial Real Estate)"
+      ],
       "timeline": [
+        {
+          "date": "2026-05-01",
+          "event": "ProStar followed up asking if Jacob had questions on the Pell City RFP.",
+          "type": "email"
+        },
         {
           "date": "2026-04-29",
           "event": "Email from Jacob Delk: Pell City Marketplace",
