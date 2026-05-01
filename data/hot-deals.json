@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T13:30:25.335249",
+  "lastUpdated": "2026-05-01T14:30:37.364999",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/27/26",
   "today": {
     "date": "2026-05-01",
@@ -6295,6 +6295,11 @@
       "nextStep": "Finalize suite shift to 107. Follow up if broker goes quiet.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-01",
+          "event": "Email from Kevin Trujillo: ICSC: Sally/Cosmo x Anchor Inv",
+          "type": "email"
+        },
         {
           "date": "2026-05-01",
           "event": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
@@ -15809,6 +15814,11 @@
       "timeline": [
         {
           "date": "2026-05-01",
+          "event": "Email from Kevin Trujillo: ICSC: Sally/Cosmo x Anchor Inv",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-01",
           "event": "Email from Mitch Earnest: Jacob / Mitch (Evansville, IN - Big Lots)",
           "type": "email"
         },
@@ -16441,14 +16451,14 @@
       "name": "Kevin True",
       "deal": "Wingstop — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+      "lastAction": "Email from Kevin Trujillo: ICSC: Sally/Cosmo x Anchor Inv",
       "urgency": "low"
     },
     {
       "name": "Bell",
       "deal": "Wingstop — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
+      "lastAction": "Email from Kevin Trujillo: ICSC: Sally/Cosmo x Anchor Inv",
       "urgency": "low"
     },
     {
@@ -16644,14 +16654,14 @@
       "name": "Juliana Fernandez",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from Mitch Earnest: Jacob / Mitch (Evansville, IN - Big Lots)",
+      "lastAction": "Email from Kevin Trujillo: ICSC: Sally/Cosmo x Anchor Inv",
       "urgency": "low"
     },
     {
       "name": "Carson Knight",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from Mitch Earnest: Jacob / Mitch (Evansville, IN - Big Lots)",
+      "lastAction": "Email from Kevin Trujillo: ICSC: Sally/Cosmo x Anchor Inv",
       "urgency": "low"
     }
   ],
