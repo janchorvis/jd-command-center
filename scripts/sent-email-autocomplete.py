@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from __future__ import annotations
 """
 sent-email-autocomplete.py
 Scans Jacob's SENT emails and auto-completes matching Asana tasks in the Big Board project.

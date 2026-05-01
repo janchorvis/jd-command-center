@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from __future__ import annotations
 """
 ingest-jarvis-intel.py
 Ingests structured deal intelligence from Jarvis sessions (meeting recaps,

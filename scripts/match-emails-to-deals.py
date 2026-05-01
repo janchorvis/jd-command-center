@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from __future__ import annotations
 """
 match-emails-to-deals.py
 Scans Jacob's recent Gmail and matches emails to deals in hot-deals.json.

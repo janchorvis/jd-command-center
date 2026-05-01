@@ -55,7 +55,7 @@ function generateId(): string {
 }
 
 function checkAuth(request: NextRequest): boolean {
-  const secret = request.headers.get('x-sync-secret');
+  const secret = request.headers.get('x-sync-secret') || request.headers.get('x-webhook-secret');
   return !!process.env.SYNC_SECRET && secret === process.env.SYNC_SECRET;
 }
 
