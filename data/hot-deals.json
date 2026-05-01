@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T17:01:57.722611",
+  "lastUpdated": "2026-05-01T17:02:10.475977",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/27/26",
   "today": {
     "date": "2026-05-01",
@@ -9611,10 +9611,10 @@
     {
       "id": "pell-city",
       "name": "",
-      "property": "Pell City",
-      "status": "ProStar followed up on the Pell City Physical Therapy/Home Health RFP on 5/1 asking whether Jacob had any questions about the RFP sent 4/17. Jacob has not replied yet.",
+      "property": "Pell City Marketplace",
+      "status": "Compassus / ProStar followed up on the Pell City RFP asking whether Jacob had questions after the 4/17 RFP delivery.",
       "stage": "Contact Made",
-      "nextStep": "Jacob should review/challenge the RFP pricing and respond to Lauri Fowler.",
+      "nextStep": "Jacob needs to review RFP/buildout pricing and respond to Lauri Fowler.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)"
@@ -9628,6 +9628,11 @@
         {
           "date": "2026-05-01",
           "event": "ProStar followed up asking if Jacob had questions on the Pell City RFP.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-01",
+          "event": "Lauri Fowler followed up asking whether Jacob had questions on the Pell City RFP.",
           "type": "email"
         },
         {
