@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T17:02:10.475977",
+  "lastUpdated": "2026-05-01T17:30:27.108395",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/27/26",
   "today": {
     "date": "2026-05-01",
@@ -6758,6 +6758,11 @@
       "nextStep": "Send comments to Ashby, get on the phone Wed/Thu/Fri, turn one more draft, and pressure the tenant to sign.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-01",
+          "event": "Email from Eventbrite: Order Confirmation for PCON Board Meeting | May 2026",
+          "type": "email"
+        },
         {
           "date": "2026-05-01",
           "event": "Email from NAIOP: NAIOP Source: Events in CRE",
@@ -16467,7 +16472,7 @@
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from NAIOP: NAIOP Source: Events in CRE",
+      "lastAction": "Email from Eventbrite: Order Confirmation for PCON Board Meeting | May 2026",
       "urgency": "low"
     },
     {
@@ -16542,7 +16547,7 @@
     },
     {
       "name": "Lauri Fowler",
-      "deal": " — Pell City",
+      "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
       "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
       "urgency": "low"
