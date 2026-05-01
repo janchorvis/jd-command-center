@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T15:02:09.490316",
+  "lastUpdated": "2026-05-01T15:02:14.735425",
   "sourceDoc": "Leasing Meeting Prep - Week of 4/27/26",
   "today": {
     "date": "2026-05-01",
@@ -10252,6 +10252,16 @@
       "timeline": [
         {
           "date": "2026-05-01",
+          "event": "Email from Sean Spafford: PCON (Prospective Member)",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-01",
+          "event": "Email from Larry Kloess: Reminder to Fill Out Prospective Feedback Forms",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-01",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Bud Akers",
           "type": "email"
         },
@@ -11940,6 +11950,16 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-01",
+          "event": "Email from Sean Spafford: PCON (Prospective Member)",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-01",
+          "event": "Email from Larry Kloess: Reminder to Fill Out Prospective Feedback Forms",
+          "type": "email"
+        },
+        {
           "date": "2026-04-30",
           "event": "Email from Greg Skloot: Re: PCON Book Club",
           "type": "email"
@@ -12643,6 +12663,11 @@
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
+          "date": "2026-05-01",
+          "event": "Email from Thijs van As: 🚨 You’ve hit your AI Credits limit in Relay.app",
+          "type": "email"
+        },
+        {
           "date": "2026-04-30",
           "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
           "type": "email"
@@ -12695,6 +12720,11 @@
         {
           "date": "2026-04-28",
           "event": "Email from Micah Lacher: Fwd: Estoppel Request - Marshalls #1671 - Malone, NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-04-27",
+          "event": "Email from Jacob Delk: Renderings for Westwood South - Highwoods",
           "type": "email"
         },
         {
@@ -16208,13 +16238,6 @@
       "urgency": "low"
     },
     {
-      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
-      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Greg Skloot: Re: PCON Book Club",
-      "urgency": "low"
-    },
-    {
       "name": "Ashby",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 1,
@@ -16247,69 +16270,6 @@
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 1,
       "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
-      "urgency": "low"
-    },
-    {
-      "name": "Shelby Hall",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Phillip Kemp",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Kemp",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
-      "urgency": "low"
-    },
-    {
-      "name": "Matty",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashley Marshall",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
-      "urgency": "low"
-    },
-    {
-      "name": "Bill Adair",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
       "urgency": "low"
     },
     {
@@ -16589,35 +16549,105 @@
       "name": "Joey",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Bud Akers",
+      "lastAction": "Email from Sean Spafford: PCON (Prospective Member)",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Bud Akers",
+      "lastAction": "Email from Sean Spafford: PCON (Prospective Member)",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Bud Akers",
+      "lastAction": "Email from Sean Spafford: PCON (Prospective Member)",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Bud Akers",
+      "lastAction": "Email from Sean Spafford: PCON (Prospective Member)",
       "urgency": "low"
     },
     {
       "name": "ala h.",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Bud Akers",
+      "lastAction": "Email from Sean Spafford: PCON (Prospective Member)",
+      "urgency": "low"
+    },
+    {
+      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
+      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Sean Spafford: PCON (Prospective Member)",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Thijs van As: 🚨 You’ve hit your AI Credits limit in Relay.app",
+      "urgency": "low"
+    },
+    {
+      "name": "Shelby Hall",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Thijs van As: 🚨 You’ve hit your AI Credits limit in Relay.app",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Thijs van As: 🚨 You’ve hit your AI Credits limit in Relay.app",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Phillip Kemp",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Thijs van As: 🚨 You’ve hit your AI Credits limit in Relay.app",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Kemp",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Thijs van As: 🚨 You’ve hit your AI Credits limit in Relay.app",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Thijs van As: 🚨 You’ve hit your AI Credits limit in Relay.app",
+      "urgency": "low"
+    },
+    {
+      "name": "Matty",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Thijs van As: 🚨 You’ve hit your AI Credits limit in Relay.app",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashley Marshall",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Thijs van As: 🚨 You’ve hit your AI Credits limit in Relay.app",
+      "urgency": "low"
+    },
+    {
+      "name": "Bill Adair",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Thijs van As: 🚨 You’ve hit your AI Credits limit in Relay.app",
       "urgency": "low"
     },
     {
