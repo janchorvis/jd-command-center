@@ -16129,6 +16129,48 @@
       "property": "Leasing Associate Hire",
       "lastSeen": "Week Of 3/30/26",
       "note": "Dropped from prep doc. Last status: Talked to one candidate last week and have a couple of phone calls this week. Should I just coordinate with Melissa on scheduling for in-person interviews? Also, I filled out the C job that you sent me, but I have not been able to reach out to Matt White yet, but I will. Fostr We had our call with Yardi, and it all went smoothly. Yardi is working on getting everything set up that we requested. PTL. Hannah's gonna get me an updated price for that integration."
+    },
+    {
+      "id": "malone-plaza",
+      "name": "Malone Plaza",
+      "property": "Malone Plaza",
+      "lastSeen": "Week Of 4/20/26",
+      "note": "Dropped from prep doc with no status recorded."
+    },
+    {
+      "id": "mcminnville-plaza",
+      "name": "McMinnville Plaza",
+      "property": "McMinnville Plaza",
+      "lastSeen": "Week Of 4/20/26",
+      "note": "Dropped from prep doc. Last status: Both UPS and Wingstop are in their court. I want to talk through a scenario with the Wingstop deal in our meeting. It'll be easier to explain in person. Mainly just looking for your experience on how you've handled something in the past."
+    },
+    {
+      "id": "evansville-easterseals",
+      "name": "Evansville",
+      "property": "Easterseals",
+      "lastSeen": "Week Of 4/20/26",
+      "note": "Dropped from prep doc. Last status: Lauri said on 4/14 she cannot get in front of their CEO until Thursday 4/23. Leasing Hire I have reached out to schedule reference calls for Adam. I have one at 10 a.m., immediately before our meeting and another one this afternoon"
+    },
+    {
+      "id": "fostr",
+      "name": "Fostr",
+      "property": "Fostr",
+      "lastSeen": "Week Of 4/20/26",
+      "note": "Dropped from prep doc. Last status: I have access, and I'll show you in our meeting. Our data is still in the process of syncing, but glad to have our hands on the new thing. I think it will be good for our team."
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "property": "Claude",
+      "lastSeen": "Week Of 4/20/26",
+      "note": "Dropped from prep doc with no status recorded."
+    },
+    {
+      "id": "sevierville-cosmoprof",
+      "name": "Sevierville CosmoProf",
+      "property": "Sevierville CosmoProf",
+      "lastSeen": "Week Of 4/20/26",
+      "note": "Dropped from prep doc. Last status: I'll walk you through their revised offer in the meeting. I have some notes prepped, but ran out of time to get them in here before the reference call."
     }
   ],
   "staleContacts": [
@@ -60378,100 +60420,88 @@
     ]
   },
   "prepDocDiff": {
-    "generatedAt": "2026-04-06T09:41:27.940489",
-    "thisWeek": "Leasing Meeting Prep - Week of 4/6/26",
-    "lastWeek": "Leasing Meeting Prep - Week of 3/30/26",
+    "generatedAt": "2026-05-01T15:01:41.705299",
+    "thisWeek": "Leasing Meeting Prep - Week of 4/27/26",
+    "lastWeek": "Leasing Meeting Prep - Week of 4/20/26",
     "new": [
       {
-        "name": "Hope Smiles",
-        "property": "44 Vantage",
-        "status": "Shelby Hall asked on 3/31 for an update from the designer and Hope Smiles. I still owe her a status update. Dropped / Worth Discussing Emerson Hall - Live Nation / Josh Levy. Dead per last week’s note and not worth pursuing at mid-twenties rent.",
+        "name": "Wingstop",
+        "property": "Wingstop",
+        "status": "LOI signed last week - it now heads to their REC. They did not have a firm date, but said early May.",
+        "nextStep": ""
+      },
+      {
+        "name": "UPS store",
+        "property": "UPS store",
+        "status": "Working through the final details with Petty, but I expect this one will be finalized this week too. Excited to have these two done.",
+        "nextStep": ""
+      },
+      {
+        "name": "Pell City Physical Therapy",
+        "property": "Pell City Physical Therapy",
+        "status": "They said they'd have the lease draft to me this week.",
+        "nextStep": ""
+      },
+      {
+        "name": "Great Greek",
+        "property": "Great Greek",
+        "status": "Clay coordinated with EJ. They went out to assess the suite last Friday, so we should be about there on this one too. I'll connect with Joey and get the latest",
         "nextStep": ""
       }
     ],
     "dropped": [
       {
-        "name": "Emerson",
-        "property": "Agreed-upon LOI",
-        "lastStatus": "Leasing Job listed"
+        "name": "Malone Plaza",
+        "property": "Malone Plaza",
+        "lastStatus": ""
       },
       {
-        "name": "Emerson Hall",
-        "property": "Prather / Lately Projects",
-        "lastStatus": "I made the lease draft and sent it to Ashby. She hasn't responded, so I will ping her again today. I know she's been working on some other things for us"
+        "name": "McMinnville Plaza",
+        "property": "McMinnville Plaza",
+        "lastStatus": "Both UPS and Wingstop are in their court. I want to talk through a scenario with the Wingstop deal in our meeting. It'll be easier to explain in person. Mainly just looking for your experience on how you've handled something in the past."
       },
       {
-        "name": "Emerson Hall",
-        "property": "Live Nation / Josh Levy (ARCA)",
-        "lastStatus": "This one isn't worth pursuing. He said they could only pay mid-twenties……"
+        "name": "Evansville",
+        "property": "Easterseals",
+        "lastStatus": "Lauri said on 4/14 she cannot get in front of their CEO until Thursday 4/23. Leasing Hire I have reached out to schedule reference calls for Adam. I have one at 10 a.m., immediately before our meeting and another one this afternoon"
       },
       {
-        "name": "McMinnville",
-        "property": "UPS Store",
-        "lastStatus": "Ball is in our court to respond to Jon Petty's LOI. I connected with him last week on the discrepancy between an as-is deal and us doing the White box. Clay is pricing out the white box work letter as we speak. We have that meeting with Ryan today to talk about the plan for each tenant, so I'm just going to get a ballpark number that we can use so we can go ahead and respond"
+        "name": "Fostr",
+        "property": "Fostr",
+        "lastStatus": "I have access, and I'll show you in our meeting. Our data is still in the process of syncing, but glad to have our hands on the new thing. I think it will be good for our team."
       },
       {
-        "name": "McMinnville",
-        "property": "Wingstop",
-        "lastStatus": "The broker texted me this weekend and said they're good to shift to suite 107, and we are going to connect on it today. I think the deal should stay the same follow up if we haven't heard back."
+        "name": "Claude",
+        "property": "Claude",
+        "lastStatus": ""
       },
       {
-        "name": "McMinnville",
-        "property": "7 Brew",
-        "lastStatus": "Jack Gilmore reached out about the Krystal building 7Brew, and I told them they had lots of term, but was curious if they'd explore where that barbecue building is instead. He said they may be interested and asked about economics. I planned to touch base with Ryan about this one today as well."
-      },
-      {
-        "name": "Leasing Associate Hire",
-        "property": "Leasing Associate Hire",
-        "lastStatus": "Talked to one candidate last week and have a couple of phone calls this week. Should I just coordinate with Melissa on scheduling for in-person interviews? Also, I filled out the C job that you sent me, but I have not been able to reach out to Matt White yet, but I will. Fostr We had our call with Yardi, and it all went smoothly. Yardi is working on getting everything set up that we requested. PTL. Hannah's gonna get me an updated price for that integration."
+        "name": "Sevierville CosmoProf",
+        "property": "Sevierville CosmoProf",
+        "lastStatus": "I'll walk you through their revised offer in the meeting. I have some notes prepped, but ran out of time to get them in here before the reference call."
       }
     ],
     "progressed": [
       {
-        "name": "Evansville",
-        "property": "Easterseals (Big Lots box)",
-        "from": "Sent you and Ryan this info about Easterseals Rehabilitation Clinic interested in buying the box. Waiting for Ryan to get me some numbers - I called him right after. I sent that email, and we connected on it.",
-        "to": "Laurie confirmed they only want the Big Lots portion and I told her I would come back with numbers. I need your direction on pricing so I can send a real response. 803 Martin St S - ProStar (Lauri Fowler) Tour went well and their construction manager is drawing the plan; they asked if I have someone who can bid the work. Tell me if you want us to price it or if we should point them to their own GC."
-      },
-      {
-        "name": "Malone Plaza",
-        "property": "Malone Plaza",
-        "from": "I will follow up with Paul today and see where we are at getting it sent over for execution. Also booked a time with them to meet up in Vegas.",
-        "to": "Five Below - LOI signed 3/17 and REC meeting is 4/22. No new movement this week. Shoe Dept Encore - No new email activity; still waiting on execution and I need to follow up with Paul."
-      }
-    ],
-    "stalled": [
-      {
-        "name": "McMinnville Plaza",
-        "property": "McMinnville Plaza",
-        "status": "UPS Store - Clay is waiting on the whitebox quote from Jacob Byron to finalize terms. Nothing to do until we get that pricing back. 7 Brew - I quoted $80K/year ground rent and asked Jack Gilmore for the CAD so I can lay out a site plan. Still waiting on the CAD. Royal Furniture space (Sheldon Griffin) - He asked for clear heights and loading details after I sent Matterport and photos. I need to respond with clear heights. TJX (Holly Buchanan) - I re-engaged TJX on 4/1 about ~20K SF. Awaiting reply.",
-        "weeksUnchanged": 1
-      },
-      {
-        "name": "Maple Row",
-        "property": "The Great Greek",
-        "status": "Joey Valenti asked for Fox’s Pizza floorplan and said they are debating between spaces. I sent the floorplan on 4/1 and we are waiting on their decision.",
-        "weeksUnchanged": 1
-      },
-      {
-        "name": "Pell City Marketplace",
-        "property": "Jefferson’s",
-        "status": "Tanviz toured 3/30, liked the space, and is talking with his team. Waiting on his decision.",
-        "weeksUnchanged": 1
-      }
-    ],
-    "updated": [
-      {
-        "name": "Buena Vista Pike",
-        "property": "2433 Pike",
-        "from": "I've had a handful of groups reach out but only preliminary interest so far. You have an email in your inbox to blast out to some of your contacts. Also, wanted to talk through the below on communication preferences.",
-        "to": "Danny Hume (Landeavor) came back on 4/1 saying they looked at this in 2024 at a $4-6M basis and asked for updated cost to complete lot development. I forwarded to you asking how you want me to handle historical pricing and old debt levels, so I need your guidance before I respond. I also nudged you on 3/30 to send the flyer to your contacts and have not heard back. If you want me to run a broader blast myself, tell me the list you want targeted."
+        "name": "Emerson",
+        "property": "Emerson",
+        "from": "Lease is in their court. Ashby and I gave on 90% of the stuff they requested.",
+        "to": "I haven't fully been able to look at all the changes that Ashby and their attorney made, but at first glance, I think we will be fine with all of them. Just wanted to bring this up since it seems like they are pushing to get this thing executed ASAP. I'm not sure if you have been copied on threads with Prather/Dylan and also Ashby and their attorney, but they followed up a few times about execution. I know we need to square away things with Fat Bottom before we do that, so it's worth discussing the game plan. Do you want me to connect with Ashby about sending them a letter?"
       },
       {
         "name": "Hope Smiles",
-        "property": "Cool Springs Commons (2910/2912 Sidco)",
-        "from": "Let's connect on what we should do. I have not called 44 Vantage yet just in case he changes his mind again….",
-        "to": "Robby Davis sent the brochure and pricing on 4/3: $3.795M, 7,800 SF, 50 percent vacant, Stone Source at $25 NNN with lease through Nov 2031. If you think this is worth floating to Hope Smiles as a purchase, I will move; if not, I will close it out."
+        "property": "Hope Smiles",
+        "from": "Glad we finally have some good direction from them. I will keep tracking down some options with them",
+        "to": "I'll give you the high-level update, but we had some good tours last week. Hopefully one will be a winner…."
+      }
+    ],
+    "stalled": [],
+    "updated": [
+      {
+        "name": "Five below",
+        "property": "Five below",
+        "from": "",
+        "to": "I did not hear from them last week and was hoping they would reach out. I will ping them today and get an update on REC."
       }
     ],
     "noChange": []
