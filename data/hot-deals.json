@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T11:31:01.845184",
+  "lastUpdated": "2026-05-04T12:03:47.214897",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/4/26",
   "today": {
     "date": "2026-05-04",
@@ -16298,6 +16298,28 @@
       "actions": [],
       "type": "Tenant Rep",
       "lastUpdate": "2026-04-30"
+    },
+    {
+      "id": "hibbett-the-columns",
+      "name": "Hibbett / JD Sports / DTLR",
+      "property": "The Columns - Jackson, TN",
+      "status": "Avison Young reached out on behalf of Hibbett/JD Sports/DTLR seeking 5,000-7,500 SF at The Columns. Draft reply prepared for Jacob approval stating no current availability in that range and that Anchor will keep them in mind.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob to approve/send prepared reply to Madison Idell if he wants to respond.",
+      "priority": "medium",
+      "contacts": [
+        "Madison Idell (Avison Young) - madison.idell@avisonyoung.com - 316-650-4193"
+      ],
+      "timeline": [
+        {
+          "date": "2026-05-04",
+          "event": "Madison Idell (Avison Young) inquired for Hibbett/JD Sports/DTLR, 5,000-7,500 SF at The Columns; draft response prepared.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-05-04"
     }
   ],
   "droppedBalls": [
