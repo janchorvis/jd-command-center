@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T13:30:26.667874",
+  "lastUpdated": "2026-05-04T14:02:52.764953",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/4/26",
   "today": {
     "date": "2026-05-04",
@@ -5632,9 +5632,9 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "Clay flagged two work-letter cost issues for UPS: suite has 100A electrical but UPS requires 200A, and a rear elevation change may add significant cost if leveled throughout the space per the letter.",
+      "status": "Jon Petty asked for Suite 107 dimensions/floor plan and new sign renderings; says the signed LOI should be back ASAP.",
       "stage": "Lease Signed",
-      "nextStep": "Pressure-test UPS work-letter costs before finalizing terms, especially 200A electrical upgrade and rear elevation change scope.",
+      "nextStep": "Send Suite 107 dimensions/floor plan and new sign renderings to Jon Petty; watch for signed LOI return.",
       "priority": "high",
       "timeline": [
         {
@@ -5655,6 +5655,11 @@
         {
           "date": "2026-05-04",
           "event": "Email from Chain Store Age: DayBreaker: Leadership shakeup at Carter's; Store expansion update; Primark's ne",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-04",
+          "event": "Jon Petty asked for Suite 107 dimensions/floor plan and new sign renderings; signed LOI expected ASAP.",
           "type": "email"
         },
         {
