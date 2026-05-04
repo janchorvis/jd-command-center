@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T07:16:25.245041",
+  "lastUpdated": "2026-05-04T07:16:36.788932",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/4/26",
   "today": {
     "date": "2026-05-04",
@@ -52,6 +52,21 @@
       "nextStep": "Monitor for any access issue before Tuesday 5/5 survey.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-04",
+          "event": "Email from Micah Lacher: email",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-03",
+          "event": "Email from Paul Gold: Bealls Meeting",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-03",
+          "event": "Email from Chris Brophy: PCON x Goodwill Proposal Doc",
+          "type": "email"
+        },
         {
           "date": "2026-05-01",
           "event": "Email from Micah Lacher: Welcome to Anchor",
@@ -1116,6 +1131,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-05-03",
+          "event": "Email from Paul Gold: Bealls Meeting",
+          "type": "email"
+        },
+        {
           "date": "2026-05-01",
           "event": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
           "type": "email"
@@ -2005,6 +2025,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-03",
+          "event": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NCS-1283410-CHI2",
+          "type": "email"
+        },
         {
           "date": "2026-05-01",
           "event": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
@@ -3639,6 +3664,11 @@
       "nextStep": "Wait for execution.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-03",
+          "event": "Email from Paul Gold: Bealls Meeting",
+          "type": "email"
+        },
         {
           "date": "2026-05-01",
           "event": "Email from ICSC Commerce + Communities Today: Downtown Trophies: Ghirardelli Square, Water Tower Place and Newbury Street. 2 O",
@@ -5528,6 +5558,11 @@
       "nextStep": "Pressure-test UPS work-letter costs before finalizing terms, especially 200A electrical upgrade and rear elevation change scope.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-04",
+          "event": "Email from Chain Store Age: DayBreaker: Leadership shakeup at Carter's; Store expansion update; Primark's ne",
+          "type": "email"
+        },
         {
           "date": "2026-05-01",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Clay Close",
@@ -7601,6 +7636,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-05-04",
+          "event": "Email from Micah Lacher: email",
+          "type": "email"
+        },
+        {
           "date": "2026-05-01",
           "event": "Email from Micah Lacher: Welcome to Anchor",
           "type": "email"
@@ -9012,6 +9052,16 @@
       "contacts": [],
       "timeline": [
         {
+          "date": "2026-05-04",
+          "event": "Email from The Tech Buzz: SignalPulse: Your Weekly Signals, Startups & Deals To Watch Alert:",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-04",
+          "event": "Email from CRE Daily: Dealmaking Is Back at 2019 Levels",
+          "type": "email"
+        },
+        {
           "date": "2026-05-01",
           "event": "Email from ICSC Commerce + Communities Today: Downtown Trophies: Ghirardelli Square, Water Tower Place and Newbury Street. 2 O",
           "type": "email"
@@ -9623,6 +9673,11 @@
         "Lauri Fowler (ProStar Commercial Real Estate)"
       ],
       "timeline": [
+        {
+          "date": "2026-05-04",
+          "event": "Email from Jacob Delk: Pell City Marketplace",
+          "type": "email"
+        },
         {
           "date": "2026-05-01",
           "event": "Email from Lauri Fowler: 803 Martin St. S.",
@@ -10283,6 +10338,21 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-05-04",
+          "event": "Email from Chain Store Age: DayBreaker: Leadership shakeup at Carter's; Store expansion update; Primark's ne",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-04",
+          "event": "Email from CoStar News: CoStar Today: CBRE and Meta team up to open training sites for AI data center wo",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-03",
+          "event": "Email from Sean Spafford: PCON (Prospective Member)",
+          "type": "email"
+        },
+        {
           "date": "2026-05-01",
           "event": "Email from Sean Spafford: PCON (Prospective Member)",
           "type": "email"
@@ -10771,6 +10841,11 @@
       "nextStep": "Keep pressure on all active prospects and let speed determine space control.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-04",
+          "event": "Email from Jacob Delk: Pell City Marketplace",
+          "type": "email"
+        },
         {
           "date": "2026-04-29",
           "event": "Email from Jacob Delk: Pell City Marketplace",
@@ -11982,6 +12057,16 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-03",
+          "event": "Email from Sean Spafford: PCON (Prospective Member)",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-03",
+          "event": "Email from Chris Brophy: PCON x Goodwill Proposal Doc",
+          "type": "email"
+        },
+        {
           "date": "2026-05-01",
           "event": "Email from Christopher Keenan: PCON Board Meeting Prep | May 11, 2025",
           "type": "email"
@@ -12605,6 +12690,16 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-04",
+          "event": "Email from Micah Lacher: email",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-03",
+          "event": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NCS-1283410-CHI2",
+          "type": "email"
+        },
+        {
           "date": "2026-05-01",
           "event": "Email from Micah Lacher: Welcome to Anchor",
           "type": "email"
@@ -13203,6 +13298,21 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-05-04",
+          "event": "Email from Micah Lacher: Wilson Pike",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-03",
+          "event": "Email from PCON Secretary: Invitation: PCON Board Meeting | September 2026 @ Mon Sep 14, 2026 6pm - 7:30pm ",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-03",
+          "event": "Email from PCON Secretary: Invitation: PCON Mid-Year All Member Meeting @ Thu Jul 16, 2026 6pm - 7:30pm (CD",
+          "type": "email"
+        },
         {
           "date": "2026-05-01",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Bud Akers",
@@ -14185,6 +14295,16 @@
       "priority": "high",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-05-03",
+          "event": "Email from PCON Secretary: Invitation: PCON Board Meeting | September 2026 @ Mon Sep 14, 2026 6pm - 7:30pm ",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-03",
+          "event": "Email from PCON Secretary: Invitation: PCON Mid-Year All Member Meeting @ Thu Jul 16, 2026 6pm - 7:30pm (CD",
+          "type": "email"
+        },
         {
           "date": "2026-05-01",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Bud Akers",
@@ -15766,6 +15886,11 @@
       "contacts": [],
       "timeline": [
         {
+          "date": "2026-05-04",
+          "event": "Email from CoStar News: CoStar Today: CBRE and Meta team up to open training sites for AI data center wo",
+          "type": "email"
+        },
+        {
           "date": "2026-04-30",
           "event": "Email from Dave Lewand: Jacob -✅ Quick Meet at ICSC LAS VEGAS? CREgrow Websites to Share. Let's Connect!",
           "type": "email"
@@ -15838,6 +15963,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-03",
+          "event": "Email from CRE Daily: 🎙️ No Cap — Deploying Capital in a Reset Market",
+          "type": "email"
+        },
+        {
           "date": "2026-05-01",
           "event": "Email from LinkedIn: Jacob, Grant Cardone at Cardone Capital is popular in your network",
           "type": "email"
@@ -15880,6 +16010,11 @@
         "Carson Knight (Anchor)"
       ],
       "timeline": [
+        {
+          "date": "2026-05-04",
+          "event": "Email from Jacob Delk: ICSC Vegas",
+          "type": "email"
+        },
         {
           "date": "2026-05-01",
           "event": "Email from Kevin Trujillo: ICSC: Sally/Cosmo x Anchor Inv",
@@ -16245,540 +16380,540 @@
     {
       "name": "Derek Tucker",
       "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
-      "daysSinceContact": 8,
+      "daysSinceContact": 11,
       "lastAction": "Email from Paul Gold: Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Parker Brennan / Scenthound",
       "deal": "Scenthound — Atlanta Hwy",
-      "daysSinceContact": 2,
+      "daysSinceContact": 5,
       "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Joseph Landry",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Vayda Good",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Desiree Warren",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Brian Connell",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Desiree Warren",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Brian Connell",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Manuel Veliz",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Manuel Veliz",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Tim Carlo",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
-      "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
-      "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
-      "urgency": "low"
-    },
-    {
-      "name": "Tony Grillo",
-      "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
-      "urgency": "low"
-    },
-    {
-      "name": "Shaun Andriano",
-      "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
-      "urgency": "low"
-    },
-    {
-      "name": "Ajay Secore",
-      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
       "urgency": "low"
     },
     {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from mousa algamal: LoopNet Lead for Dixie Village Shopping Center",
-      "urgency": "low"
-    },
-    {
-      "name": "Melissa Eddy",
-      "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: Downtown Trophies: Ghirardelli Squ",
       "urgency": "low"
     },
     {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Justin N Gabson: Highlighting Leadership Moves in Nashville Tech",
       "urgency": "low"
     },
     {
       "name": "Dwaine High",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Justin N Gabson: Highlighting Leadership Moves in Nashville Tech",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Clay Close",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Clay Close",
       "urgency": "low"
     },
     {
       "name": "Kevin True",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Kevin Trujillo: ICSC: Sally/Cosmo x Anchor Inv",
       "urgency": "low"
     },
     {
       "name": "Bell",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Kevin Trujillo: ICSC: Sally/Cosmo x Anchor Inv",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Eventbrite: Order Confirmation for PCON Board Meeting | May 2026",
-      "urgency": "low"
-    },
-    {
-      "name": "Melissa",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Lisa Schwartz, Esq.",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Joseph Landry",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Melissa Eddy",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Joseph Landry",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
       "name": "Spencer",
       "deal": "Royal Furniture — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
       "urgency": "low"
     },
     {
       "name": "Sheldon",
       "deal": "Royal Furniture — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
       "urgency": "low"
     },
     {
       "name": "Peter Adams",
       "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
-      "urgency": "low"
-    },
-    {
-      "name": "Lauri Fowler",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
       "urgency": "low"
     },
     {
       "name": "Carmen Drake",
       "deal": " — Evansville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Mitch Earnest: Jacob / Mitch (Evansville, IN - Big Lots)",
       "urgency": "low"
     },
     {
       "name": "Joe Wesley",
       "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
-      "urgency": "low"
-    },
-    {
-      "name": "Joey",
-      "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Sean Spafford: PCON (Prospective Member)",
-      "urgency": "low"
-    },
-    {
-      "name": "Joey/Gregory",
-      "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Sean Spafford: PCON (Prospective Member)",
-      "urgency": "low"
-    },
-    {
-      "name": "Gregory",
-      "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Sean Spafford: PCON (Prospective Member)",
-      "urgency": "low"
-    },
-    {
-      "name": "Bookstore prospect",
-      "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Sean Spafford: PCON (Prospective Member)",
-      "urgency": "low"
-    },
-    {
-      "name": "ala h.",
-      "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Sean Spafford: PCON (Prospective Member)",
-      "urgency": "low"
-    },
-    {
-      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
-      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | May 11, 2025",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Bob McAuliff",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
-      "urgency": "low"
-    },
-    {
-      "name": "Bob McAuliff",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Welcome to Anchor",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
       "urgency": "low"
     },
     {
       "name": "Dr. Phillip Kemp",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
       "urgency": "low"
     },
     {
       "name": "Dr. Kemp",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
       "urgency": "low"
     },
     {
       "name": "Amy",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
       "urgency": "low"
     },
     {
       "name": "Matty",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
       "urgency": "low"
     },
     {
       "name": "Ashley Marshall",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
       "urgency": "low"
     },
     {
       "name": "Bill Adair",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
+      "urgency": "low"
+    },
+    {
+      "name": "Josh Levy",
+      "deal": "Live Nation — Emerson Hall",
+      "daysSinceContact": 3,
+      "lastAction": "Email from Josh Costly - '26 Malone Community Guide: Malone Plaza Partners, LLC ",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Meeting",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Meeting",
+      "urgency": "low"
+    },
+    {
+      "name": "Tony Grillo",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Meeting",
+      "urgency": "low"
+    },
+    {
+      "name": "Shaun Andriano",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Meeting",
+      "urgency": "low"
+    },
+    {
+      "name": "Ajay Secore",
+      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
+      "urgency": "low"
+    },
+    {
+      "name": "Melissa Eddy",
+      "deal": "ABC Retail — Russellville",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Meeting",
+      "urgency": "low"
+    },
+    {
+      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
+      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Sean Spafford: PCON (Prospective Member)",
+      "urgency": "low"
+    },
+    {
+      "name": "Charles Hawkins",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 1,
+      "lastAction": "Email from PCON Secretary: Invitation: PCON Board Meeting | September 2026 @ Mon",
+      "urgency": "low"
+    },
+    {
+      "name": "Brether group",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 1,
+      "lastAction": "Email from PCON Secretary: Invitation: PCON Board Meeting | September 2026 @ Mon",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 1,
+      "lastAction": "Email from PCON Secretary: Invitation: PCON Board Meeting | September 2026 @ Mon",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 1,
+      "lastAction": "Email from PCON Secretary: Invitation: PCON Board Meeting | September 2026 @ Mon",
+      "urgency": "low"
+    },
+    {
+      "name": "Pesach Gewirtz",
+      "deal": "Infinite Equity Capital - 730 — 730",
+      "daysSinceContact": 1,
+      "lastAction": "Email from CRE Daily: 🎙️ No Cap — Deploying Capital in a Reset Market",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Joseph Landry",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Vayda Good",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Desiree Warren",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Brian Connell",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Desiree Warren",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Brian Connell",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Manuel Veliz",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Manuel Veliz",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Tim Carlo",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Leadership shakeup at Carter's; Store ex",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Leadership shakeup at Carter's; Store ex",
+      "urgency": "low"
+    },
+    {
+      "name": "Melissa",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Lisa Schwartz, Esq.",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Joseph Landry",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Melissa Eddy",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Joseph Landry",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Lauri Fowler",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: Pell City Marketplace",
+      "urgency": "low"
+    },
+    {
+      "name": "Joey",
+      "deal": " — Maple Row Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Leadership shakeup at Carter's; Store ex",
+      "urgency": "low"
+    },
+    {
+      "name": "Joey/Gregory",
+      "deal": " — Maple Row Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Leadership shakeup at Carter's; Store ex",
+      "urgency": "low"
+    },
+    {
+      "name": "Gregory",
+      "deal": " — Maple Row Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Leadership shakeup at Carter's; Store ex",
+      "urgency": "low"
+    },
+    {
+      "name": "Bookstore prospect",
+      "deal": " — Maple Row Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Leadership shakeup at Carter's; Store ex",
+      "urgency": "low"
+    },
+    {
+      "name": "ala h.",
+      "deal": " — Maple Row Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Leadership shakeup at Carter's; Store ex",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Bob McAuliff",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
+      "urgency": "low"
+    },
+    {
+      "name": "Bob McAuliff",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: email",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Bud Akers",
+      "lastAction": "Email from Micah Lacher: Wilson Pike",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Bud Akers",
+      "lastAction": "Email from Micah Lacher: Wilson Pike",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Bud Akers",
-      "urgency": "low"
-    },
-    {
-      "name": "Charles Hawkins",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Bud Akers",
-      "urgency": "low"
-    },
-    {
-      "name": "Brether group",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Bud Akers",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Bud Akers",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Bud Akers",
-      "urgency": "low"
-    },
-    {
-      "name": "Josh Levy",
-      "deal": "Live Nation — Emerson Hall",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Josh Costly - '26 Malone Community Guide: Malone Plaza Partners, LLC ",
-      "urgency": "low"
-    },
-    {
-      "name": "Pesach Gewirtz",
-      "deal": "Infinite Equity Capital - 730 — 730",
-      "daysSinceContact": 0,
-      "lastAction": "Email from LinkedIn: Jacob, Grant Cardone at Cardone Capital is popular in your ",
+      "lastAction": "Email from Micah Lacher: Wilson Pike",
       "urgency": "low"
     },
     {
       "name": "Juliana Fernandez",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kevin Trujillo: ICSC: Sally/Cosmo x Anchor Inv",
+      "lastAction": "Email from Jacob Delk: ICSC Vegas",
       "urgency": "low"
     },
     {
       "name": "Carson Knight",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kevin Trujillo: ICSC: Sally/Cosmo x Anchor Inv",
+      "lastAction": "Email from Jacob Delk: ICSC Vegas",
       "urgency": "low"
     }
   ],
