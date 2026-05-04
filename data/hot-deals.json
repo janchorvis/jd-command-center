@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T09:30:40.262122",
+  "lastUpdated": "2026-05-04T10:03:26.792917",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/4/26",
   "today": {
     "date": "2026-05-04",
@@ -50,14 +50,19 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below survey access coordination moved forward. Clay provided JOANN lockbox/utility-room info, roof access via Marshalls mezzanine, said Marshalls should be done by Monday, gave Marshalls a heads-up, and provided lockbox code 2953 for Tuesday 5/5 survey.",
+      "status": "Five Below survey access coordination moved forward. Frank Soranno/Storecrafters provided direct cell 585-736-1826 and plaza maintenance contact 518-651-9085 for Tuesday 5/5 survey access; Clay remains reachable at 615-200-0809.",
       "stage": "Lease Signed",
-      "nextStep": "Monitor for any access issue before Tuesday 5/5 survey.",
+      "nextStep": "Monitor Tuesday 5/5 survey access; Tim Carlo has contractor and maintenance contacts if additional areas are needed.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-05-04",
           "event": "Email from Micah Lacher: email",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-04",
+          "event": "Storecrafters shared Frank Soranno cell and plaza maintenance contact for Five Below 5/5 survey access.",
           "type": "email"
         },
         {
@@ -1099,7 +1104,8 @@
         "Clay Richardson",
         "Clay Richardson (Anchor)",
         "Manuel Veliz (Sargenti Architects)",
-        "Tim Carlo (surveyor)"
+        "Tim Carlo (surveyor)",
+        "Frank Soranno (Storecrafters)"
       ],
       "actions": [
         {
