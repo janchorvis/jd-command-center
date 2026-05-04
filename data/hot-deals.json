@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T07:32:28.140437",
+  "lastUpdated": "2026-05-04T09:30:40.262122",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/4/26",
   "today": {
     "date": "2026-05-04",
@@ -2029,6 +2029,11 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-05-04",
+          "event": "Email from Jennifer Stewart: 235 E Main St, 1st Floor, Hendersonville, TN 37075, United States, PID: 813161",
+          "type": "email"
+        },
+        {
           "date": "2026-05-03",
           "event": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NCS-1283410-CHI2",
           "type": "email"
@@ -3554,6 +3559,11 @@
       "nextStep": "Push Cosmoprof with firm terms (no TI, state what we will/won't do) - take it or leave it approach",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-04",
+          "event": "Email from Jacob Delk: Shelbyville, IN",
+          "type": "email"
+        },
         {
           "date": "2026-04-23",
           "event": "Email from Paul Gold: Shelbyville IN",
@@ -5561,6 +5571,11 @@
       "nextStep": "Pressure-test UPS work-letter costs before finalizing terms, especially 200A electrical upgrade and rear elevation change scope.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-04",
+          "event": "Email from Chain Store Age: BREAKING: GameStop makes takeover offer for eBay",
+          "type": "email"
+        },
         {
           "date": "2026-05-04",
           "event": "Email from Chain Store Age: DayBreaker: Leadership shakeup at Carter's; Store expansion update; Primark's ne",
@@ -10806,6 +10821,11 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-05-04",
+          "event": "Email from Jacob Delk: Shelbyville, IN",
+          "type": "email"
+        },
+        {
           "date": "2026-04-23",
           "event": "Email from Paul Gold: Shelbyville IN",
           "type": "email"
@@ -12060,6 +12080,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-04",
+          "event": "Email from Jennifer Stewart: 235 E Main St, 1st Floor, Hendersonville, TN 37075, United States, PID: 813161",
+          "type": "email"
+        },
+        {
           "date": "2026-05-03",
           "event": "Email from Sean Spafford: PCON (Prospective Member)",
           "type": "email"
@@ -12803,6 +12828,11 @@
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
+          "date": "2026-05-04",
+          "event": "Email from Jacob Delk: Shelbyville, IN",
+          "type": "email"
+        },
+        {
           "date": "2026-05-01",
           "event": "Email from Paddle: Your subscription billing date from Relay.app has changed",
           "type": "email"
@@ -13301,6 +13331,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-05-04",
+          "event": "Email from People Loving Nashville: May The 4th Be With You",
+          "type": "email"
+        },
         {
           "date": "2026-05-04",
           "event": "Email from Micah Lacher: Wilson Pike",
@@ -14298,6 +14333,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-05-04",
+          "event": "Email from People Loving Nashville: May The 4th Be With You",
+          "type": "email"
+        },
         {
           "date": "2026-05-03",
           "event": "Email from PCON Secretary: Invitation: PCON Board Meeting | September 2026 @ Mon Sep 14, 2026 6pm - 7:30pm ",
@@ -16015,6 +16055,11 @@
       "timeline": [
         {
           "date": "2026-05-04",
+          "event": "Email from ICSC: Weekly Digest",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-04",
           "event": "Email from Jacob Delk: ICSC Vegas",
           "type": "email"
         },
@@ -16381,13 +16426,6 @@
   ],
   "staleContacts": [
     {
-      "name": "Derek Tucker",
-      "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
-      "daysSinceContact": 11,
-      "lastAction": "Email from Paul Gold: Shelbyville IN",
-      "urgency": "low"
-    },
-    {
       "name": "Parker Brennan / Scenthound",
       "deal": "Scenthound — Atlanta Hwy",
       "daysSinceContact": 5,
@@ -16500,69 +16538,6 @@
       "urgency": "low"
     },
     {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
-      "urgency": "low"
-    },
-    {
-      "name": "Shelby Hall",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Phillip Kemp",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Kemp",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
-      "urgency": "low"
-    },
-    {
-      "name": "Matty",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashley Marshall",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
-      "urgency": "low"
-    },
-    {
-      "name": "Bill Adair",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Paddle: Your subscription billing date from Relay.app has changed",
-      "urgency": "low"
-    },
-    {
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
       "daysSinceContact": 3,
@@ -16598,52 +16573,10 @@
       "urgency": "low"
     },
     {
-      "name": "Ajay Secore",
-      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
-      "urgency": "low"
-    },
-    {
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 1,
       "lastAction": "Email from Paul Gold: Bealls Meeting",
-      "urgency": "low"
-    },
-    {
-      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
-      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Sean Spafford: PCON (Prospective Member)",
-      "urgency": "low"
-    },
-    {
-      "name": "Charles Hawkins",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from PCON Secretary: Invitation: PCON Board Meeting | September 2026 @ Mon",
-      "urgency": "low"
-    },
-    {
-      "name": "Brether group",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from PCON Secretary: Invitation: PCON Board Meeting | September 2026 @ Mon",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from PCON Secretary: Invitation: PCON Board Meeting | September 2026 @ Mon",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from PCON Secretary: Invitation: PCON Board Meeting | September 2026 @ Mon",
       "urgency": "low"
     },
     {
@@ -16745,17 +16678,31 @@
       "urgency": "low"
     },
     {
+      "name": "Ajay Secore",
+      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jennifer Stewart: 235 E Main St, 1st Floor, Hendersonville, TN 37075,",
+      "urgency": "low"
+    },
+    {
+      "name": "Derek Tucker",
+      "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: Shelbyville, IN",
+      "urgency": "low"
+    },
+    {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Leadership shakeup at Carter's; Store ex",
+      "lastAction": "Email from Chain Store Age: BREAKING: GameStop makes takeover offer for eBay",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Leadership shakeup at Carter's; Store ex",
+      "lastAction": "Email from Chain Store Age: BREAKING: GameStop makes takeover offer for eBay",
       "urgency": "low"
     },
     {
@@ -16850,6 +16797,13 @@
       "urgency": "low"
     },
     {
+      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
+      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jennifer Stewart: 235 E Main St, 1st Floor, Hendersonville, TN 37075,",
+      "urgency": "low"
+    },
+    {
       "name": "Ashby",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
@@ -16885,38 +16839,129 @@
       "urgency": "low"
     },
     {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: Shelbyville, IN",
+      "urgency": "low"
+    },
+    {
+      "name": "Shelby Hall",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: Shelbyville, IN",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: Shelbyville, IN",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Phillip Kemp",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: Shelbyville, IN",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Kemp",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: Shelbyville, IN",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: Shelbyville, IN",
+      "urgency": "low"
+    },
+    {
+      "name": "Matty",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: Shelbyville, IN",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashley Marshall",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: Shelbyville, IN",
+      "urgency": "low"
+    },
+    {
+      "name": "Bill Adair",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: Shelbyville, IN",
+      "urgency": "low"
+    },
+    {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Wilson Pike",
+      "lastAction": "Email from People Loving Nashville: May The 4th Be With You",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Wilson Pike",
+      "lastAction": "Email from People Loving Nashville: May The 4th Be With You",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Wilson Pike",
+      "lastAction": "Email from People Loving Nashville: May The 4th Be With You",
+      "urgency": "low"
+    },
+    {
+      "name": "Charles Hawkins",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from People Loving Nashville: May The 4th Be With You",
+      "urgency": "low"
+    },
+    {
+      "name": "Brether group",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from People Loving Nashville: May The 4th Be With You",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from People Loving Nashville: May The 4th Be With You",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from People Loving Nashville: May The 4th Be With You",
       "urgency": "low"
     },
     {
       "name": "Juliana Fernandez",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC Vegas",
+      "lastAction": "Email from ICSC: Weekly Digest",
       "urgency": "low"
     },
     {
       "name": "Carson Knight",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC Vegas",
+      "lastAction": "Email from ICSC: Weekly Digest",
       "urgency": "low"
     }
   ],
