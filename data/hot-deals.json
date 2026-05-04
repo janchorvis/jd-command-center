@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T17:04:31.508318",
+  "lastUpdated": "2026-05-04T17:30:49.699572",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/4/26",
   "today": {
     "date": "2026-05-04",
@@ -2094,6 +2094,16 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-04",
+          "event": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NCS-1283410-CHI2",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-04",
+          "event": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+          "type": "email"
+        },
         {
           "date": "2026-05-04",
           "event": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
@@ -4569,6 +4579,11 @@
       "timeline": [
         {
           "date": "2026-05-04",
+          "event": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-04",
           "event": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
           "type": "email"
         },
@@ -6993,6 +7008,11 @@
       "timeline": [
         {
           "date": "2026-05-04",
+          "event": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-04",
           "event": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
           "type": "email"
         },
@@ -7875,6 +7895,11 @@
       "nextStep": "Jacob to review estoppel request and confirm whether receipt/details are okay.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-04",
+          "event": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+          "type": "email"
+        },
         {
           "date": "2026-05-04",
           "event": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
@@ -13116,6 +13141,16 @@
       "timeline": [
         {
           "date": "2026-05-04",
+          "event": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NCS-1283410-CHI2",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-04",
+          "event": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-04",
           "event": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
           "type": "email"
         },
@@ -14765,6 +14800,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-05-04",
+          "event": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+          "type": "email"
+        },
         {
           "date": "2026-05-04",
           "event": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
@@ -17087,7 +17127,7 @@
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
@@ -17108,28 +17148,28 @@
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
@@ -17161,6 +17201,13 @@
       "urgency": "low"
     },
     {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "urgency": "low"
+    },
+    {
       "name": "Kevin True",
       "deal": "Wingstop — McMinnville Plaza",
       "daysSinceContact": 0,
@@ -17178,56 +17225,56 @@
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
@@ -17311,35 +17358,35 @@
       "name": "Ashby",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
@@ -17430,28 +17477,28 @@
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
