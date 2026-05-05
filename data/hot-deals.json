@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T12:02:21.154006",
+  "lastUpdated": "2026-05-05T12:30:35.068272",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-05",
@@ -16949,6 +16949,11 @@
       "timeline": [
         {
           "date": "2026-05-05",
+          "event": "Email from West, Carson: PCON Venture Philanthropy Monthly Committee Meeting",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
           "event": "Email from Miranda Byrd - First American Exchange: The Future of 1031 Exchanges in 2026, Withholding & State Taxes, and More",
           "type": "email"
         },
@@ -17832,6 +17837,13 @@
       "urgency": "low"
     },
     {
+      "name": "Ashby Scott",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "urgency": "low"
+    },
+    {
       "name": "Amy Harper",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
       "daysSinceContact": 0,
@@ -17954,14 +17966,14 @@
       "name": "Juliana Fernandez",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miranda Byrd - First American Exchange: The Future of 1031 Exchanges ",
+      "lastAction": "Email from West, Carson: PCON Venture Philanthropy Monthly Committee Meeting",
       "urgency": "low"
     },
     {
       "name": "Carson Knight",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miranda Byrd - First American Exchange: The Future of 1031 Exchanges ",
+      "lastAction": "Email from West, Carson: PCON Venture Philanthropy Monthly Committee Meeting",
       "urgency": "low"
     },
     {
