@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T09:30:44.313036",
+  "lastUpdated": "2026-05-05T10:31:04.700086",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-05",
@@ -61,6 +61,11 @@
       "nextStep": "Monitor Tuesday 5/5 survey access; Tim Carlo has contractor and maintenance contacts if additional areas are needed.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-05",
+          "event": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th Event - Malone, NY",
+          "type": "email"
+        },
         {
           "date": "2026-05-05",
           "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
@@ -1187,6 +1192,11 @@
       "timeline": [
         {
           "date": "2026-05-05",
+          "event": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th Event - Malone, NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
           "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
           "type": "email"
         },
@@ -2125,6 +2135,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-05",
+          "event": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th Event - Malone, NY",
+          "type": "email"
+        },
         {
           "date": "2026-05-05",
           "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
@@ -3372,6 +3387,11 @@
       "nextStep": "Wait for signed lease.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-05",
+          "event": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
+          "type": "email"
+        },
         {
           "date": "2026-05-01",
           "event": "Email from mousa algamal: LoopNet Lead for Dixie Village Shopping Center",
@@ -4645,6 +4665,11 @@
       "timeline": [
         {
           "date": "2026-05-05",
+          "event": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th Event - Malone, NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
           "event": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
           "type": "email"
         },
@@ -5518,6 +5543,11 @@
       "nextStep": "Done - move to completed deals. Celebrate the W.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-05",
+          "event": "Email from Parker Brennan: 6200-6228 Atlanta Hwy --- Scenthound Auburn Expanded",
+          "type": "email"
+        },
         {
           "date": "2026-05-04",
           "event": "Email from Sam High: PCON - Upcoming Events (Sign Up!)",
@@ -7119,6 +7149,16 @@
       "timeline": [
         {
           "date": "2026-05-05",
+          "event": "Email from Google AI Studio: Event-driven webhooks are now available in Gemini API",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
+          "event": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th Event - Malone, NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
           "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
           "type": "email"
         },
@@ -8026,6 +8066,11 @@
       "nextStep": "Jacob to review estoppel request and confirm whether receipt/details are okay.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-05",
+          "event": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th Event - Malone, NY",
+          "type": "email"
+        },
         {
           "date": "2026-05-05",
           "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
@@ -12699,6 +12744,21 @@
       "timeline": [
         {
           "date": "2026-05-05",
+          "event": "Email from Jc Perry: JC Perry Resume + Culture Index",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
+          "event": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th Event - Malone, NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
+          "event": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
           "event": "Email from Larry Kloess: Fwd: [external] Post Survey and Thank You",
           "type": "email"
         },
@@ -13311,6 +13371,11 @@
         "Parker Brennan / Scenthound"
       ],
       "timeline": [
+        {
+          "date": "2026-05-05",
+          "event": "Email from Parker Brennan: 6200-6228 Atlanta Hwy --- Scenthound Auburn Expanded",
+          "type": "email"
+        },
         {
           "date": "2026-04-29",
           "event": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
@@ -17286,20 +17351,6 @@
   ],
   "staleContacts": [
     {
-      "name": "Parker Brennan / Scenthound",
-      "deal": "Scenthound — Atlanta Hwy",
-      "daysSinceContact": 6,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
-      "urgency": "low"
-    },
-    {
-      "name": "Chad Vang",
-      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
-      "daysSinceContact": 4,
-      "lastAction": "Email from mousa algamal: LoopNet Lead for Dixie Village Shopping Center",
-      "urgency": "low"
-    },
-    {
       "name": "Pesach Gewirtz",
       "deal": "Infinite Equity Capital - 730 — 730",
       "daysSinceContact": 2,
@@ -17311,20 +17362,6 @@
       "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
       "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Shelbyville, IN",
-      "urgency": "low"
-    },
-    {
-      "name": "Nhung Pham",
-      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Sam High: PCON - Upcoming Events (Sign Up!)",
-      "urgency": "low"
-    },
-    {
-      "name": "Dwaine High",
-      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Sam High: PCON - Upcoming Events (Sign Up!)",
       "urgency": "low"
     },
     {
@@ -17394,133 +17431,140 @@
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Tony Grillo",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
+      "urgency": "low"
+    },
+    {
+      "name": "Chad Vang",
+      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Kate Yoon: Ste 2591, Dixie Village in Gastonia",
       "urgency": "low"
     },
     {
@@ -17534,28 +17578,42 @@
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
+      "urgency": "low"
+    },
+    {
+      "name": "Nhung Pham",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Parker Brennan: 6200-6228 Atlanta Hwy --- Scenthound Auburn Expanded",
+      "urgency": "low"
+    },
+    {
+      "name": "Dwaine High",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Parker Brennan: 6200-6228 Atlanta Hwy --- Scenthound Auburn Expanded",
       "urgency": "low"
     },
     {
@@ -17597,56 +17655,56 @@
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Google AI Studio: Event-driven webhooks are now available in Gemini A",
       "urgency": "low"
     },
     {
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
       "urgency": "low"
     },
     {
@@ -17688,7 +17746,14 @@
       "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
       "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Larry Kloess: Fwd: [external] Post Survey and Thank You",
+      "lastAction": "Email from Jc Perry: JC Perry Resume + Culture Index",
+      "urgency": "low"
+    },
+    {
+      "name": "Parker Brennan / Scenthound",
+      "deal": "Scenthound — Atlanta Hwy",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Parker Brennan: 6200-6228 Atlanta Hwy --- Scenthound Auburn Expanded",
       "urgency": "low"
     },
     {
