@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T07:33:39.434277",
+  "lastUpdated": "2026-05-05T07:17:05.399823",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-05",
@@ -44,11 +44,7 @@
       "See when Dallas could meet with carter (overdue — due 2026-03-31)",
       "Harrison Trampoline LOI (overdue — due 2026-03-31)",
       "Add teeth to the default sections for Grease.  (overdue — due 2026-03-23)",
-      "Roofing contractor language. Add some teeth to the default (overdue — due 2026-03-23)",
-      "Five Below/Malone: review post-survey facade/layout/exhibit direction.",
-      "Emerson/Lately: push lease signature this week.",
-      "Creekside Crossing: tour at 10:30 AM.",
-      "Evansville Big Lots: Mitch call at 1:00 PM."
+      "Roofing contractor language. Add some teeth to the default (overdue — due 2026-03-23)"
     ]
   },
   "pipelineDeals": [
@@ -10310,19 +10306,14 @@
       "id": "evansville",
       "name": "",
       "property": "Evansville",
-      "status": "Jacob has a 1:00 PM call with Mitch re Evansville, IN - Big Lots.",
+      "status": "Carmen Drake / Bellacino's is ready for Jacob to call and discuss moving forward with PSA after returning from Florida.",
       "stage": "Trading Terms",
-      "nextStep": "Use call to advance Big Lots box strategy/pricing context.",
-      "priority": "medium",
+      "nextStep": "Jacob to call Carmen Drake to discuss moving forward with PSA.",
+      "priority": "high",
       "contacts": [
         "Carmen Drake (Bellacino's Pizza & Grinders / Runnebohm Realty)"
       ],
       "timeline": [
-        {
-          "date": "2026-05-05",
-          "event": "Briefing: Jacob/Mitch call scheduled re Evansville Big Lots",
-          "type": "task"
-        },
         {
           "date": "2026-05-01",
           "event": "Email from Mitch Earnest: Jacob / Mitch (Evansville, IN - Big Lots)",
@@ -13339,8 +13330,8 @@
       "name": "HopeSmiles",
       "property": "Creekside Crossing / Westwood South",
       "type": "Tenant Rep",
-      "status": "Jacob has a Creekside Crossing tour on today's calendar at 10:30 AM.",
-      "nextStep": "Use the tour to clarify tenant fit and next action.",
+      "status": "HopeSmiles office requirement remains active. Jacob followed up 4/30 with Creekside Crossing and Highwoods after touring options, asking for discussion on Westwood South and Creekside options.",
+      "nextStep": "Wait for JLL/Highwoods responses to Jacob's 4/30 follow-ups on Creekside and Westwood South.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -13352,18 +13343,13 @@
         "Ashley Marshall (JLL)",
         "Bill Adair (JLL)"
       ],
-      "priority": "medium",
+      "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
           "date": "2026-05-05",
           "event": "Email from Chain Store Age: DayBreaker: Amazon challenges FedEx, UPS; GameStop wants to buy eBay; Retail pio",
           "type": "email"
-        },
-        {
-          "date": "2026-05-05",
-          "event": "Briefing: Creekside Crossing tour scheduled for 10:30 AM",
-          "type": "task"
         },
         {
           "date": "2026-05-04",
