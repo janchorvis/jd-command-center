@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T13:30:32.116695",
+  "lastUpdated": "2026-05-05T14:30:29.056371",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-05",
@@ -9112,6 +9112,11 @@
       "timeline": [
         {
           "date": "2026-05-05",
+          "event": "Email from Tom Gaghan: Cleveland Furniture Bank",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
           "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
           "type": "email"
         },
@@ -10480,6 +10485,11 @@
       "timeline": [
         {
           "date": "2026-05-05",
+          "event": "Email from Jacob Delk: Evansville, IN",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
           "event": "Email from Mitch Earnest: Jacob / Mitch (Evansville, IN - Big Lots)",
           "type": "email"
         },
@@ -11384,6 +11394,11 @@
       "nextStep": "Jacob: tell Brian - get box pricing THIS WEEK. Pitch ~$75/ft. Research REA.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-05",
+          "event": "Email from Jacob Delk: Evansville, IN",
+          "type": "email"
+        },
         {
           "date": "2026-05-05",
           "event": "Email from Mitch Earnest: Jacob / Mitch (Evansville, IN - Big Lots)",
@@ -14137,6 +14152,11 @@
       "timeline": [
         {
           "date": "2026-05-05",
+          "event": "Email from Nashville Business Journal: Turn employee recognition into business visibility",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
           "type": "email"
         },
@@ -15162,6 +15182,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-05-05",
+          "event": "Email from Nashville Business Journal: Turn employee recognition into business visibility",
+          "type": "email"
+        },
         {
           "date": "2026-05-05",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
@@ -17736,14 +17761,14 @@
       "name": "Spencer",
       "deal": "Royal Furniture — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Tom Gaghan: Cleveland Furniture Bank",
       "urgency": "low"
     },
     {
       "name": "Sheldon",
       "deal": "Royal Furniture — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Tom Gaghan: Cleveland Furniture Bank",
       "urgency": "low"
     },
     {
@@ -17757,7 +17782,7 @@
       "name": "Carmen Drake",
       "deal": " — Evansville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Mitch Earnest: Jacob / Mitch (Evansville, IN - Big Lots)",
+      "lastAction": "Email from Jacob Delk: Evansville, IN",
       "urgency": "low"
     },
     {
@@ -17925,49 +17950,49 @@
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
+      "lastAction": "Email from Nashville Business Journal: Turn employee recognition into business v",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
+      "lastAction": "Email from Nashville Business Journal: Turn employee recognition into business v",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
+      "lastAction": "Email from Nashville Business Journal: Turn employee recognition into business v",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
+      "lastAction": "Email from Nashville Business Journal: Turn employee recognition into business v",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
+      "lastAction": "Email from Nashville Business Journal: Turn employee recognition into business v",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
+      "lastAction": "Email from Nashville Business Journal: Turn employee recognition into business v",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
+      "lastAction": "Email from Nashville Business Journal: Turn employee recognition into business v",
       "urgency": "low"
     },
     {
