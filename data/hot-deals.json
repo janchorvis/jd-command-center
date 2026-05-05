@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T10:31:04.700086",
+  "lastUpdated": "2026-05-05T11:30:33.076573",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-05",
@@ -3861,6 +3861,11 @@
       "timeline": [
         {
           "date": "2026-05-05",
+          "event": "Email from Michael Zimmerman | Katz & Associates: Starbucks in Milan, TN Available for Sale – No State Tax",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
           "event": "Email from Meagan Glazier | Miller Chandler, CCIM: Client Requirement | 20,00 SF Retail Long Term Lease",
           "type": "email"
         },
@@ -7149,6 +7154,11 @@
       "timeline": [
         {
           "date": "2026-05-05",
+          "event": "Email from Bisnow Elevate: Discounted registration closes in 48 hours",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
           "event": "Email from Google AI Studio: Event-driven webhooks are now available in Gemini API",
           "type": "email"
         },
@@ -10156,6 +10166,11 @@
       "timeline": [
         {
           "date": "2026-05-05",
+          "event": "Email from Robert H. Burns Company, Inc.: 3731 Charlotte Avenue",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
           "event": "Email from Beth Azor: Small Property Details Make a Big Difference",
           "type": "email"
         },
@@ -10918,6 +10933,16 @@
       "nextStep": "Jacob to approve/adjust response; likely decline dispensary use at Maple Row unless ownership direction changes.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-05",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
+          "event": "Email from Robert H. Burns Company, Inc.: 3731 Charlotte Avenue",
+          "type": "email"
+        },
         {
           "date": "2026-05-04",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Carson Baker",
@@ -12744,6 +12769,11 @@
       "timeline": [
         {
           "date": "2026-05-05",
+          "event": "Email from Christopher Keenan: PCON Board Meeting Prep | May 11, 2025",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
           "event": "Email from Jc Perry: JC Perry Resume + Culture Index",
           "type": "email"
         },
@@ -13557,6 +13587,11 @@
       "timeline": [
         {
           "date": "2026-05-05",
+          "event": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
           "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
           "type": "email"
         },
@@ -14094,6 +14129,16 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-05-05",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
+          "event": "Email from Michael Zimmerman | Katz & Associates: Starbucks in Milan, TN Available for Sale – No State Tax",
+          "type": "email"
+        },
         {
           "date": "2026-05-04",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Carson Baker",
@@ -15111,6 +15156,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-05-05",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
+          "type": "email"
+        },
         {
           "date": "2026-05-05",
           "event": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
@@ -16893,6 +16943,11 @@
       "timeline": [
         {
           "date": "2026-05-05",
+          "event": "Email from Miranda Byrd - First American Exchange: The Future of 1031 Exchanges in 2026, Withholding & State Taxes, and More",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
           "event": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
           "type": "email"
         },
@@ -17372,62 +17427,6 @@
       "urgency": "low"
     },
     {
-      "name": "Joey",
-      "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Carson Baker",
-      "urgency": "low"
-    },
-    {
-      "name": "Joey/Gregory",
-      "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Carson Baker",
-      "urgency": "low"
-    },
-    {
-      "name": "Gregory",
-      "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Carson Baker",
-      "urgency": "low"
-    },
-    {
-      "name": "Bookstore prospect",
-      "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Carson Baker",
-      "urgency": "low"
-    },
-    {
-      "name": "ala h.",
-      "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Carson Baker",
-      "urgency": "low"
-    },
-    {
-      "name": "Julie Robbins",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Carson Baker",
-      "urgency": "low"
-    },
-    {
-      "name": "Michael Dunn",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Carson Baker",
-      "urgency": "low"
-    },
-    {
-      "name": "Cole @ DR Horton",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Carson Baker",
-      "urgency": "low"
-    },
-    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
@@ -17571,7 +17570,7 @@
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Meagan Glazier | Miller Chandler, CCIM: Client Requirement | 20,00 SF",
+      "lastAction": "Email from Michael Zimmerman | Katz & Associates: Starbucks in Milan, TN Availab",
       "urgency": "low"
     },
     {
@@ -17655,7 +17654,7 @@
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Google AI Studio: Event-driven webhooks are now available in Gemini A",
+      "lastAction": "Email from Bisnow Elevate: Discounted registration closes in 48 hours",
       "urgency": "low"
     },
     {
@@ -17743,10 +17742,45 @@
       "urgency": "low"
     },
     {
+      "name": "Joey",
+      "deal": " — Maple Row Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
+      "urgency": "low"
+    },
+    {
+      "name": "Joey/Gregory",
+      "deal": " — Maple Row Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
+      "urgency": "low"
+    },
+    {
+      "name": "Gregory",
+      "deal": " — Maple Row Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
+      "urgency": "low"
+    },
+    {
+      "name": "Bookstore prospect",
+      "deal": " — Maple Row Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
+      "urgency": "low"
+    },
+    {
+      "name": "ala h.",
+      "deal": " — Maple Row Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
+      "urgency": "low"
+    },
+    {
       "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
       "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jc Perry: JC Perry Resume + Culture Index",
+      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | May 11, 2025",
       "urgency": "low"
     },
     {
@@ -17795,91 +17829,112 @@
       "name": "Amy Harper",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
       "urgency": "low"
     },
     {
       "name": "Dr. Phillip Kemp",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
       "urgency": "low"
     },
     {
       "name": "Dr. Kemp",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
       "urgency": "low"
     },
     {
       "name": "Amy",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
       "urgency": "low"
     },
     {
       "name": "Matty",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
       "urgency": "low"
     },
     {
       "name": "Ashley Marshall",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
       "urgency": "low"
     },
     {
       "name": "Bill Adair",
       "deal": "HopeSmiles — Creekside Crossing / Westwood South",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+      "urgency": "low"
+    },
+    {
+      "name": "Julie Robbins",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
+      "urgency": "low"
+    },
+    {
+      "name": "Michael Dunn",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
+      "urgency": "low"
+    },
+    {
+      "name": "Cole @ DR Horton",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2512 Gallatin Ave, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Alex Abels",
       "urgency": "low"
     },
     {
@@ -17893,14 +17948,14 @@
       "name": "Juliana Fernandez",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Miranda Byrd - First American Exchange: The Future of 1031 Exchanges ",
       "urgency": "low"
     },
     {
       "name": "Carson Knight",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: UPS LOI- McMinnville Plaza- Tour 3/18",
+      "lastAction": "Email from Miranda Byrd - First American Exchange: The Future of 1031 Exchanges ",
       "urgency": "low"
     },
     {
