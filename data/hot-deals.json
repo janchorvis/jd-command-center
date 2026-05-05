@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T16:02:42.693474",
+  "lastUpdated": "2026-05-05T16:30:24.573780",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-05",
@@ -2137,6 +2137,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-05",
+          "event": "Email from Jacob Delk (via Google Workspace eSignatures): eSignature request for \"Hamilton, OH - PSA Amendment (Hamilton Community Partner",
+          "type": "email"
+        },
         {
           "date": "2026-05-05",
           "event": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th Event - Malone, NY",
@@ -4675,6 +4680,11 @@
       "nextStep": "Jacob on call with Ashby at 10 AM — get through comments, push for signature",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-05",
+          "event": "Email from Jacob Delk (via Google Workspace eSignatures): eSignature request for \"Hamilton, OH - PSA Amendment (Hamilton Community Partner",
+          "type": "email"
+        },
         {
           "date": "2026-05-05",
           "event": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th Event - Malone, NY",
@@ -13492,6 +13502,11 @@
       "timeline": [
         {
           "date": "2026-05-05",
+          "event": "Email from Jacob Delk (via Google Workspace eSignatures): eSignature request for \"Hamilton, OH - PSA Amendment (Hamilton Community Partner",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
           "event": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
           "type": "email"
         },
@@ -17687,7 +17702,7 @@
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
+      "lastAction": "Email from Jacob Delk (via Google Workspace eSignatures): eSignature request for",
       "urgency": "low"
     },
     {
@@ -17708,28 +17723,28 @@
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
+      "lastAction": "Email from Jacob Delk (via Google Workspace eSignatures): eSignature request for",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
+      "lastAction": "Email from Jacob Delk (via Google Workspace eSignatures): eSignature request for",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
+      "lastAction": "Email from Jacob Delk (via Google Workspace eSignatures): eSignature request for",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Card Show: Rental Inquiry: 8,000 sq. ft. Space for July 11th E",
+      "lastAction": "Email from Jacob Delk (via Google Workspace eSignatures): eSignature request for",
       "urgency": "low"
     },
     {
@@ -17932,42 +17947,42 @@
       "name": "Ashby",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Jacob Delk (via Google Workspace eSignatures): eSignature request for",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Jacob Delk (via Google Workspace eSignatures): eSignature request for",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Jacob Delk (via Google Workspace eSignatures): eSignature request for",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Jacob Delk (via Google Workspace eSignatures): eSignature request for",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Jacob Delk (via Google Workspace eSignatures): eSignature request for",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Jacob Delk (via Google Workspace eSignatures): eSignature request for",
       "urgency": "low"
     },
     {
@@ -18119,6 +18134,13 @@
     },
     {
       "name": "Tom Gaghan",
+      "deal": "Cleveland Furniture Bank — 6282 Pearl Road, Parma Heights",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Tom Gaghan: Cleveland Furniture Bank",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Gaghan - 440-263-9792 - tom@clevelandfurniturebank.org",
       "deal": "Cleveland Furniture Bank — 6282 Pearl Road, Parma Heights",
       "daysSinceContact": 0,
       "lastAction": "Email from Tom Gaghan: Cleveland Furniture Bank",
