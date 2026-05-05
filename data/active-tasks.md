@@ -1,8 +1,8 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-05-03 9:20 PM CDT
+Last updated: 2026-05-04 6:00 PM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T137 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T145 -->
 
 ## ACTIVE — Jacob needs to do these
 
@@ -24,6 +24,13 @@ Last updated: 2026-05-03 9:20 PM CDT
 - T117: Update New Memphis lease late fee language to $100 or 5%, whichever is greater — carried forward per reaction card item 15. [source: screenshot from Jacob in #tasks 4/20; Mathison note] [asana: 1214145994848465] [monday-sync 5/3: carry; reaction-card 5/3: carry]
 - T119: Shoe Dept (Malone) - lock construction timeline and lease-obligation map with Clay to avoid opening-year slippage. Carried forward per reaction card item 16. [source: leasing transcript 4/23] [deal: Malone] [reaction-card 5/3: carry]
 - T127: Pell City Physical Therapy / Home Health RFP — Latest reaction fallback says carry forward rather than Monday. Challenge/value-engineer the RFP pricing: preliminary buildout around $400K looked wrong; press especially on ceiling tile line (~$35K) and consider using the Montgomery contractor who built Owen/Staffing, with hotel/travel covered if needed. [source: 4/27 Plaud transcript cross-checked to prep doc Pell City Physical Therapy section; closeout 5/1; monday-sync 5/3; reaction-fallback 5/3: carry] [deal: Pell City Physical Therapy]
+- T138: Emerson / Lately Projects — get lease signed this week; Jacob said Anchor has legal standing on expiration timing and should proceed, with construction storefront height details to be worked out after signing. [source: Plaud leasing meeting 2026-05-04 00:02:29-00:03:30] [deal: Gallatin / Lately Projects]
+- T139: Hamilton vacancy / laundromat — move Hamilton vacancy high on the priority list once Adam starts; text prior laundromat contact and float whether $200K-$300K TI would move the needle, with better rent required. [source: Plaud leasing meeting 2026-05-04 00:11:52-00:19:28] [deal: Hamilton]
+- T140: Adam onboarding / leasing cadence — create Adam onboarding plan with early Slack/email access, leasing channel history, podcasts/lease self-study, early real outreach, weekly Jacob/Adam one-on-one, and continued Jacob/Micah active-deal meeting. [source: Plaud leasing meeting 2026-05-04 00:04:28-00:05:56, 00:40:07-00:46:58] [deal: Leasing Associate hire]
+- T141: MacBid / Evansville-Hamilton expansion — ping MacBid about expansion plans, San Antonio focus, Evansville interest, and whether Harrison/Gastonia locations affect Anchor targets. [source: Plaud leasing meeting 2026-05-04 00:13:45-00:17:50; Jacob correction 2026-05-04: say MacBid, not Yinz] [deal: Evansville / Hamilton]
+- T142: Five Below / Malone kickoff follow-up — review latest layout/preliminary elevation from Five Below, confirm facade height alignment with Marshalls/Shoe Dept after 5/5 survey, and approve/comment so final sign exhibit can start. [source: Plaud Five Below kickoff 2026-05-04] [deal: Malone / Five Below]
+- T143: Five Below / Malone landlord drawings — decide with Clay/ownership whether to start landlord plan set before lease execution; scope includes facade, demising, loading, and RTU openings. [source: Plaud Five Below kickoff 2026-05-04] [deal: Malone / Five Below]
+- T144: Five Below / Malone lease exhibits — watch for lease by end of week and review work letter, final sign exhibit, and no-build-area exhibit. [source: Plaud Five Below kickoff 2026-05-04] [deal: Malone / Five Below]
 
 
 ### Next Week+
@@ -39,10 +46,11 @@ Last updated: 2026-05-03 9:20 PM CDT
 
 ## WATCHING — Monitor, not actionable yet
 
-Note: WATCHING items should be removed once real movement comes in. Gastonia laundromat was removed on 4/10 after a fresh DocuSign reminder signaled movement. Pell City was removed earlier on 4/10 after fresh email movement from Factory Connection. McMinnville monument sign was removed on 4/14 after Clay sent fresh Slack PDFs/comments for review. ABC Russellville was removed on 4/27 after Clay asked whether to commission the ABC work; it is now active as T122. Remaining WATCHING items are now 32 days stale (since 3/30) with no logged movement. They were queued again by 5/1 self-review; if Jacob has not resolved them, carry a DO/DEFER/KILL prompt into the next morning briefing.
+Note: WATCHING items should be removed once real movement comes in. Gastonia laundromat was removed on 4/10 after a fresh DocuSign reminder signaled movement. Pell City was removed earlier on 4/10 after fresh email movement from Factory Connection. McMinnville monument sign was removed on 4/14 after Clay sent fresh Slack PDFs/comments for review. ABC Russellville was removed on 4/27 after Clay asked whether to commission the ABC work; it is now active as T122. Crunch Fitness and McMinnville landscaping are 35 days stale (since 3/30) but were changed from passive watch to DO per 5/3 Monday sync; carry them into the next morning briefing as active follow-up prompts if no movement is logged. T137 Academy/Shelbyville started 5/4 and is not stale yet.
 
-- Crunch Fitness (McMinnville) — DO per Monday sync item 32; move from passive watching to active follow-up on co-tenancy growth/revisit. [source: leasing meeting 3/30; monday-sync 5/3]
+- Crunch Fitness (McMinnville) — MOVEMENT 2026-05-04 13:50: Jon Petty replied on UPS LOI thread asking for Suite 107 dimensions/floor plans and saying signed LOI should be back ASAP; thread also contains Crunch reference from older McMinnville context. Needs next daytime pass to decide whether this satisfies/removes watch or should become active follow-up. [gmail thread: 19cf779a0b836b70] [source: leasing meeting 3/30; monday-sync 5/3]
 - McMinnville landscaping — DO per Monday sync item 33; move from passive watching to active landscaper/weeds follow-up. [source: leasing meeting 3/30; monday-sync 5/3]
+- T137: Academy Sports / Shelbyville — watch for response after Jacob sends pitch for former Big Lots box at 1840 E Michigan Rd; if no response, follow up with Brian Ferguson / Academy real estate contact. Proof points: ~30 miles from Indianapolis, ~25-30 min from Greenwood Academy store, 40K SF box, E Michigan Rd retail corridor, Academy outside-in exurb/satellite strategy. [source: Jacob 5/4; deal: Shelbyville]
 
 ## COMPLETED — Recent (auto-cleaned after 7 days)
 
