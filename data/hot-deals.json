@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T15:30:37.947569",
+  "lastUpdated": "2026-05-05T16:02:42.693474",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-05",
@@ -13477,9 +13477,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton",
-      "status": "GMX/Hamilton Community Partners due diligence extension received; Ashby says blanket extension to May 13 looks okay and asks for signed scanned counterpart if no comments.",
+      "status": "GMX/Hamilton Community Partners requested an extension; Ashby sent a one-week extension through May 13 and asked Jacob/Micah to review/sign scanned counterpart if no comments.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob/Micah need to sign and return the May 13 due diligence extension if acceptable.",
+      "nextStep": "Review/sign PSA extension through May 13 or send comments to Ashby.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -13513,6 +13513,11 @@
         {
           "date": "2026-05-05",
           "event": "Ashby sent GMX/Hamilton due diligence extension to May 13 and requested signed scanned counterpart.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
+          "event": "Ashby forwarded Hamilton/GMX PSA amendment extending due diligence through May 13 for signature/comment.",
           "type": "email"
         },
         {
@@ -17192,12 +17197,13 @@
       "id": "cleveland-furniture-bank-parma-heights",
       "name": "Cleveland Furniture Bank",
       "property": "6282 Pearl Road, Parma Heights",
-      "status": "Tom Gaghan says Jacob was his lease contact and has left several voicemails; he wants help continuing to operate at 6282 Pearl Road.",
+      "status": "Tom Gaghan at Cleveland Furniture Bank is trying to continue operating at 6282 Pearl Road; sent P&L and sales report after multiple calls/messages.",
       "stage": "Contact Made",
-      "nextStep": "Jacob should call Tom Gaghan at 440-263-9792 or send the prepared draft reply.",
+      "nextStep": "Jacob should call Tom Gaghan at 440-263-9792 and review financials.",
       "priority": "high",
       "contacts": [
-        "Tom Gaghan (Executive Director, Cleveland Furniture Bank)"
+        "Tom Gaghan (Executive Director, Cleveland Furniture Bank)",
+        "Tom Gaghan (Cleveland Furniture Bank) - 440-263-9792 - tom@clevelandfurniturebank.org"
       ],
       "timeline": [
         {
@@ -17214,6 +17220,11 @@
           "date": "2026-05-05",
           "event": "Tom Gaghan emailed Jacob after several voicemails asking for help continuing at 6282 Pearl Road.",
           "type": "lead"
+        },
+        {
+          "date": "2026-05-05",
+          "event": "Tom Gaghan sent Cleveland Furniture Bank P&L and sales report and asked Jacob to help continue operating at 6282 Pearl Road.",
+          "type": "email"
         }
       ],
       "actions": [],
