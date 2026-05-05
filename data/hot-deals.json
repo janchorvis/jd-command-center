@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T11:30:33.076573",
+  "lastUpdated": "2026-05-05T12:02:21.154006",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-05",
@@ -13433,16 +13433,17 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton",
-      "status": "Ashby Scott sent revised REA and updated title objection response for Hamilton Community Partners; approval is needed before Tracey sends.",
+      "status": "GMX/Hamilton extension/title issue: buyer requested rolling inspection-period extension tied to AutoZone lease issue; Anchor/Ashby pushed back with a fixed one-week extension and support to get title comfortable without amending AutoZone lease.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob/Micah approve Ashby's revised REA and title objection response or send edits before Tracey issues it.",
+      "nextStep": "Watch for buyer/title response to one-week extension proposal.",
       "priority": "high",
       "contacts": [
         "Ashby",
         "Ashby Scott",
         "Micah Lacher",
         "Bob McAuliff",
-        "Bob McAuliff (Taft)"
+        "Bob McAuliff (Taft)",
+        "Ashby Scott (Evans Petree)"
       ],
       "timeline": [
         {
@@ -13458,6 +13459,11 @@
         {
           "date": "2026-05-05",
           "event": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
+          "event": "Ashby proposed one-week fixed extension rather than rolling extension for GMX/Hamilton AutoZone/title issue.",
           "type": "email"
         },
         {
