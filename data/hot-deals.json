@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T17:01:35.923288",
+  "lastUpdated": "2026-05-06T17:01:49.285973",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-06",
@@ -6016,9 +6016,9 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "Fully executed UPS Store LOI returned 5/6. Jon Petty asked whether Anchor has a preferred financial/application form for Amy and Matt before lease drafting.",
+      "status": "Fully executed LOI returned. Jon Petty asked whether Anchor has a preferred financial/application form for Amy and Matt to fill out.",
       "stage": "Lease Signed",
-      "nextStep": "Send preferred financial/application form or instructions to Jon so Amy and Matt can complete records package and lease drafting can start.",
+      "nextStep": "Send Jon Petty the preferred application/financial form or confirm what financials are needed for lease drafting.",
       "priority": "high",
       "timeline": [
         {
@@ -6059,6 +6059,11 @@
         {
           "date": "2026-05-06",
           "event": "Jon Petty asked whether Anchor has a form/application for Amy and Matt after Jacob requested financials.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-06",
+          "event": "Jon Petty asked if Anchor has a form/application for UPS Store financials after Jacob requested Amy and Matt's financials.",
           "type": "email"
         },
         {
@@ -6872,7 +6877,8 @@
         "Clay Richardson",
         "Jon Petty (UPS tenant broker)",
         "Jon Petty (UPS Store franchisee broker)",
-        "Jon Petty (Southeast Venture)"
+        "Jon Petty (Southeast Venture)",
+        "Jon Petty (Southeast Venture) - jpetty@southeastventure.com"
       ],
       "actions": [
         {
@@ -10637,12 +10643,13 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Compassus / ProStar followed up on the Pell City RFP asking whether Jacob had questions after the 4/17 RFP delivery.",
-      "stage": "Contact Made",
-      "nextStep": "Jacob needs to review RFP/buildout pricing and respond to Lauri Fowler.",
+      "status": "David Cooke says the 807 Martin St S home health/hospice office project is active again and asked for time tomorrow morning to discuss.",
+      "stage": "Lease Draft & Review",
+      "nextStep": "Jacob needs to schedule/call David Cooke tomorrow morning to revive the project discussion.",
       "priority": "high",
       "contacts": [
-        "Lauri Fowler (ProStar Commercial Real Estate)"
+        "Lauri Fowler (ProStar Commercial Real Estate)",
+        "David Cooke (Cooke Commercial) - david@cookecommercial.com - 214-274-8020"
       ],
       "timeline": [
         {
@@ -10653,6 +10660,11 @@
         {
           "date": "2026-05-06",
           "event": "Email from City of La Vergne: 7.25 Acres Near Nashville – City Partnership Opportunity ICSC Las Vegas",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-06",
+          "event": "David Cooke: project is active again; asked for time tomorrow morning to discuss.",
           "type": "email"
         },
         {
@@ -10880,7 +10892,8 @@
         "avgSqFt": 11539,
         "suiteCount": 13,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Lease Draft & Review"
     },
     {
       "id": "evansville",
@@ -13951,9 +13964,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton",
-      "status": "First American sent further title/survey update: survey coverage by endorsement, exception 22 affects easement parcel, ALTA 18 unavailable until lot split, ALTA 22 only for improved land, and surveyor needs to map utilities for 17.2.",
+      "status": "Due diligence extension amendment was signed and sent back to Ashby on 5/6; Ashby acknowledged receipt.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Ashby/Micah need to resolve title/survey objections during the one-week extension window.",
+      "nextStep": "Monitor May 13 due diligence deadline / Dutch Bros outparcel inspection period.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -14008,6 +14021,11 @@
         {
           "date": "2026-05-06",
           "event": "First American sent title/survey endorsement update for Hamilton Community Partners/GMX.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-06",
+          "event": "Jacob sent signed PSA amendment to Ashby; Ashby replied Great, thanks.",
           "type": "email"
         },
         {
