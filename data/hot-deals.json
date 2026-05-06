@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T12:02:16.136986",
+  "lastUpdated": "2026-05-06T12:02:28.899202",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-06",
@@ -13833,9 +13833,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton",
-      "status": "Hamilton Community Partners / GMX due diligence extension amendment was signed and returned by Jacob on 2026-05-06; Ashby confirmed receipt.",
+      "status": "First American sent further title/survey update: survey coverage by endorsement, exception 22 affects easement parcel, ALTA 18 unavailable until lot split, ALTA 22 only for improved land, and surveyor needs to map utilities for 17.2.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Track May 13 due diligence extension deadline and title/AutoZone memorandum resolution.",
+      "nextStep": "Ashby/Micah need to resolve title/survey objections during the one-week extension window.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -13843,7 +13843,8 @@
         "Micah Lacher",
         "Bob McAuliff",
         "Bob McAuliff (Taft)",
-        "Ashby Scott (Evans Petree)"
+        "Ashby Scott (Evans Petree)",
+        "Lisa Sweeney (First American)"
       ],
       "timeline": [
         {
@@ -13874,6 +13875,11 @@
         {
           "date": "2026-05-06",
           "event": "Jacob sent signed Hamilton Community Partners / GMX due diligence extension amendment; Ashby confirmed receipt.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-06",
+          "event": "First American sent title/survey endorsement update for Hamilton Community Partners/GMX.",
           "type": "email"
         },
         {
