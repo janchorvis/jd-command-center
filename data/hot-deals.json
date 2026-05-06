@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T13:30:39.329598",
+  "lastUpdated": "2026-05-06T14:05:03.156307",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-06",
@@ -5988,9 +5988,9 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "UPS Store LOI fully executed and returned to Jon Petty on 2026-05-06; Jacob requested Amy and Matt financials before starting lease draft.",
+      "status": "UPS Store LOI is fully executed. Jon Petty asked whether Anchor has a preferred form/application for Amy and Matt financials.",
       "stage": "Lease Signed",
-      "nextStep": "Wait for Amy/Matt financials, then start lease draft.",
+      "nextStep": "Send preferred financial/application form to Jon Petty so Amy and Matt can complete it, then start lease draft.",
       "priority": "high",
       "timeline": [
         {
@@ -6021,6 +6021,11 @@
         {
           "date": "2026-05-06",
           "event": "Jacob returned fully executed UPS Store LOI and requested Amy/Matt financials before lease drafting.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-06",
+          "event": "Jon Petty asked for Anchor's preferred financial/application form for Amy and Matt after fully executed UPS Store LOI.",
           "type": "email"
         },
         {
@@ -17862,6 +17867,28 @@
         "suiteCount": 9,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "gallatin-2512-daycare",
+      "name": "Jordyn Stallings - Daycare Inquiry",
+      "property": "2512 Gallatin Avenue",
+      "status": "Jordyn Stallings asked whether daycare use would be approved and whether playground space is possible; draft reply exists saying Jacob will check on daycare/playground use and get back to her.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob to confirm daycare/playground feasibility and respond.",
+      "priority": "medium",
+      "contacts": [
+        "Jordyn Stallings (Cushman & Wakefield)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-05-06",
+          "event": "Daycare/playground inquiry received for 2512 Gallatin Avenue; Gmail draft prepared for Jacob approval.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-05-06"
     }
   ],
   "droppedBalls": [
