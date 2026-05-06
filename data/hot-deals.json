@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T15:30:30.183619",
+  "lastUpdated": "2026-05-06T16:30:32.980261",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-06",
@@ -4813,6 +4813,11 @@
       "nextStep": "Jacob on call with Ashby at 10 AM — get through comments, push for signature",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-06",
+          "event": "Email from Richard Jones: Fwd: Burkitt Commons - 2nd Gen space",
+          "type": "email"
+        },
         {
           "date": "2026-05-06",
           "event": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
@@ -18450,28 +18455,28 @@
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Richard Jones: Fwd: Burkitt Commons - 2nd Gen space",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Richard Jones: Fwd: Burkitt Commons - 2nd Gen space",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Richard Jones: Fwd: Burkitt Commons - 2nd Gen space",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
+      "lastAction": "Email from Richard Jones: Fwd: Burkitt Commons - 2nd Gen space",
       "urgency": "low"
     },
     {
