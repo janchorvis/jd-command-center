@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T09:30:42.769521",
+  "lastUpdated": "2026-05-06T10:02:40.760137",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-06",
@@ -5933,9 +5933,9 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "UPS Store site submittal package moved forward: Jon Petty returned the signed LOI and asked Jacob to return the fully executed LOI so UPS can add it to the site submittal package.",
+      "status": "UPS Store LOI fully executed and returned to Jon Petty on 2026-05-06; Jacob requested Amy and Matt financials before starting lease draft.",
       "stage": "Lease Signed",
-      "nextStep": "Return the fully executed LOI to Jon Petty and confirm anything else needed for lease drafting / UPS site submittal.",
+      "nextStep": "Wait for Amy/Matt financials, then start lease draft.",
       "priority": "high",
       "timeline": [
         {
@@ -5951,6 +5951,11 @@
         {
           "date": "2026-05-06",
           "event": "Email from Chain Store Age: DayBreaker: Investor targets Victoria's Secret; Outdoor retailer faces boycott; ",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-06",
+          "event": "Jacob returned fully executed UPS Store LOI and requested Amy/Matt financials before lease drafting.",
           "type": "email"
         },
         {
@@ -6763,7 +6768,8 @@
         "Jon Petty",
         "Clay Richardson",
         "Jon Petty (UPS tenant broker)",
-        "Jon Petty (UPS Store franchisee broker)"
+        "Jon Petty (UPS Store franchisee broker)",
+        "Jon Petty (Southeast Venture)"
       ],
       "actions": [
         {
@@ -13736,9 +13742,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton",
-      "status": "GMX/Hamilton Community Partners requested an extension; Ashby sent a one-week extension through May 13 and asked Jacob/Micah to review/sign scanned counterpart if no comments.",
+      "status": "Hamilton Community Partners / GMX due diligence extension amendment was signed and returned by Jacob on 2026-05-06; Ashby confirmed receipt.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Review/sign PSA extension through May 13 or send comments to Ashby.",
+      "nextStep": "Track May 13 due diligence extension deadline and title/AutoZone memorandum resolution.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -13767,6 +13773,11 @@
         {
           "date": "2026-05-06",
           "event": "Email from Micah Lacher: Fwd: eSignature request for \"Hamilton, OH - PSA Amendment (Hamilton Community Pa",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-06",
+          "event": "Jacob sent signed Hamilton Community Partners / GMX due diligence extension amendment; Ashby confirmed receipt.",
           "type": "email"
         },
         {
