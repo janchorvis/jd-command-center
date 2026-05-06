@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T11:30:29.005203",
+  "lastUpdated": "2026-05-06T12:02:16.136986",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-06",
@@ -8287,10 +8287,10 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "Melissa Eddy sent Jacob the signed Marshalls form via Slack DM on 2026-05-06.",
+      "status": "Signed Marshalls NY form received from Melissa Eddy via Slack on 2026-05-06.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Jacob should review/use the signed Marshalls form and confirm any remaining Marshalls/TJX estoppel/form details are complete.",
+      "nextStep": "Save/route signed Marshalls form as needed for the Malone transaction file.",
       "priority": "high",
       "timeline": [
         {
@@ -8322,6 +8322,11 @@
           "date": "2026-05-06",
           "event": "Melissa Eddy sent Jacob the signed Marshalls form via Slack DM.",
           "type": "slack"
+        },
+        {
+          "date": "2026-05-06",
+          "event": "Melissa Eddy sent signed Marshalls NY form via Slack.",
+          "type": "communication"
         },
         {
           "date": "2026-05-05",
@@ -9336,7 +9341,8 @@
         "Joseph Landry (TJX/Marshalls)",
         "Micah Lacher",
         "Melissa Eddy",
-        "Joseph Landry (TJX)"
+        "Joseph Landry (TJX)",
+        "Melissa Eddy (Anchor)"
       ],
       "actions": [
         {
@@ -15638,17 +15644,18 @@
     {
       "id": "emerson-hall",
       "name": "Emerson Hall",
-      "property": "2512 Gallatin Ave, Nashville",
+      "property": "2512 Gallatin Avenue",
       "type": "For Lease",
-      "status": "Lately Project / 2518 Gallatin lease is back in lease-draft review. Parking/zoning confirmation is the live issue: Ashby asked whether the parking is in accordance with zoning, Jacob said he believes urban zoning has no parking requirements and sent supporting screenshots on 4/30.",
-      "nextStep": "Confirm parking/zoning support is sufficient for Ashby and tenant counsel; keep lease moving to signature.",
+      "status": "Jordyn Stallings with Cushman & Wakefield inquired whether 2512 Gallatin would approve daycare use and playground space.",
+      "nextStep": "Jacob needs to respond on daycare/playground feasibility.",
       "contacts": [
         "Charles Hawkins (LOI)",
         "Brether group (Event/Entertainment)",
         "Stephen Prather",
-        "Ashby Scott (Evans Petree)"
+        "Ashby Scott (Evans Petree)",
+        "Jordyn Stallings (Cushman & Wakefield)"
       ],
-      "priority": "high",
+      "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
         {
@@ -15685,6 +15692,11 @@
           "date": "2026-05-06",
           "event": "Email from Nashville Business Journal: Your Member Benefits and Q1 Recap",
           "type": "email"
+        },
+        {
+          "date": "2026-05-06",
+          "event": "Cushman & Wakefield daycare/playground inquiry received for 2512 Gallatin Avenue.",
+          "type": "lead"
         },
         {
           "date": "2026-05-05",
