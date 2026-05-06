@@ -15727,15 +15727,14 @@
       "name": "Emerson Hall",
       "property": "2512 Gallatin Avenue",
       "type": "For Lease",
-      "status": "Jordyn Stallings (Cushman & Wakefield) asked whether daycare use would be approved and whether playground space would be an option.",
-      "nextStep": "Jacob to approve/send draft reply or confirm daycare/playground use position.",
+      "status": "Jordyn Stallings with Cushman & Wakefield inquired whether 2512 Gallatin would approve daycare use and playground space.",
+      "nextStep": "Jacob needs to respond on daycare/playground feasibility.",
       "contacts": [
         "Charles Hawkins (LOI)",
         "Brether group (Event/Entertainment)",
         "Stephen Prather",
         "Ashby Scott (Evans Petree)",
-        "Jordyn Stallings (Cushman & Wakefield)",
-        "Jordyn Stallings (Cushman & Wakefield) <Jordyn.Stallings@cushwake.com>"
+        "Jordyn Stallings (Cushman & Wakefield)"
       ],
       "priority": "medium",
       "lastUpdate": "2026-03-09",
@@ -15778,11 +15777,6 @@
         {
           "date": "2026-05-06",
           "event": "Cushman & Wakefield daycare/playground inquiry received for 2512 Gallatin Avenue.",
-          "type": "lead"
-        },
-        {
-          "date": "2026-05-06",
-          "event": "Cushman daycare/playground inquiry received; Gmail draft reply loaded for Jacob approval.",
           "type": "lead"
         },
         {
