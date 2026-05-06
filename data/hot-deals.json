@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T14:05:03.156307",
+  "lastUpdated": "2026-05-06T14:30:24.188826",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-06",
@@ -17882,6 +17882,11 @@
       "timeline": [
         {
           "date": "2026-05-06",
+          "event": "Email from Jordyn Stallings/USA: 2512 Gallatin Avenue Inquiry",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-06",
           "event": "Daycare/playground inquiry received for 2512 Gallatin Avenue; Gmail draft prepared for Jacob approval.",
           "type": "lead"
         }
@@ -18823,6 +18828,13 @@
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
       "lastAction": "Email from Tom McGee – ICSC President & CEO: Leadership Announcement",
+      "urgency": "low"
+    },
+    {
+      "name": "Jordyn Stallings",
+      "deal": "Jordyn Stallings - Daycare Inquiry — 2512 Gallatin Avenue",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jordyn Stallings/USA: 2512 Gallatin Avenue Inquiry",
       "urgency": "low"
     }
   ],
