@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T07:34:16.335438",
+  "lastUpdated": "2026-05-06T08:04:05.107180",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-06",
@@ -5888,9 +5888,9 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "UPS site approval package in progress. Jon Petty asked for Suite 107 dimensions/floor plan and new sign renderings; signed LOI expected ASAP.",
+      "status": "UPS Store site submittal package moved forward: Jon Petty returned the signed LOI and asked Jacob to return the fully executed LOI so UPS can add it to the site submittal package.",
       "stage": "Lease Signed",
-      "nextStep": "Send Suite 107 dimensions/floor plan and new sign renderings to Jon Petty; watch for signed LOI return.",
+      "nextStep": "Return the fully executed LOI to Jon Petty and confirm anything else needed for lease drafting / UPS site submittal.",
       "priority": "high",
       "timeline": [
         {
@@ -5926,6 +5926,11 @@
         {
           "date": "2026-05-05",
           "event": "Email from Chain Store Age: Connected Retail: GameStop wants to buy eBay; Amazon Prime Day comes early; Will",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-05",
+          "event": "Jon Petty sent signed UPS Store LOI for McMinnville Plaza Suite 108 and requested fully executed LOI back for UPS site submittal package.",
           "type": "email"
         },
         {
@@ -6702,7 +6707,8 @@
       "contacts": [
         "Jon Petty",
         "Clay Richardson",
-        "Jon Petty (UPS tenant broker)"
+        "Jon Petty (UPS tenant broker)",
+        "Jon Petty (UPS Store franchisee broker)"
       ],
       "actions": [
         {
