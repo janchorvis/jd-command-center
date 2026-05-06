@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T14:30:24.188826",
+  "lastUpdated": "2026-05-06T15:02:10.373326",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-06",
@@ -5988,9 +5988,9 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "UPS Store LOI is fully executed. Jon Petty asked whether Anchor has a preferred form/application for Amy and Matt financials.",
+      "status": "Fully executed UPS Store LOI returned 5/6. Jon Petty asked whether Anchor has a preferred financial/application form for Amy and Matt before lease drafting.",
       "stage": "Lease Signed",
-      "nextStep": "Send preferred financial/application form to Jon Petty so Amy and Matt can complete it, then start lease draft.",
+      "nextStep": "Send preferred financial/application form or instructions to Jon so Amy and Matt can complete records package and lease drafting can start.",
       "priority": "high",
       "timeline": [
         {
@@ -6026,6 +6026,11 @@
         {
           "date": "2026-05-06",
           "event": "Jon Petty asked for Anchor's preferred financial/application form for Amy and Matt after fully executed UPS Store LOI.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-06",
+          "event": "Jon Petty asked whether Anchor has a form/application for Amy and Matt after Jacob requested financials.",
           "type": "email"
         },
         {
