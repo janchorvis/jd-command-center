@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T10:30:24.975560",
+  "lastUpdated": "2026-05-06T11:02:16.839931",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-06",
@@ -8242,10 +8242,10 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "Marshalls/TJX estoppel request forwarded by Micah/Mel asking Jacob to confirm receipt/details look okay.",
+      "status": "Melissa Eddy sent Jacob the signed Marshalls form via Slack DM on 2026-05-06.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Jacob to review estoppel request and confirm whether receipt/details are okay.",
+      "nextStep": "Jacob should review/use the signed Marshalls form and confirm any remaining Marshalls/TJX estoppel/form details are complete.",
       "priority": "high",
       "timeline": [
         {
@@ -8267,6 +8267,11 @@
           "date": "2026-05-06",
           "event": "Email from Micah Lacher: Fwd: eSignature request for \"Hamilton, OH - PSA Amendment (Hamilton Community Pa",
           "type": "email"
+        },
+        {
+          "date": "2026-05-06",
+          "event": "Melissa Eddy sent Jacob the signed Marshalls form via Slack DM.",
+          "type": "slack"
         },
         {
           "date": "2026-05-05",
