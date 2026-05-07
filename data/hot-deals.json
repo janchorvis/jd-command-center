@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T14:02:35.867494",
+  "lastUpdated": "2026-05-07T14:02:59.201014",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-07",
@@ -16119,18 +16119,20 @@
     {
       "id": "emerson-hall",
       "name": "Emerson Hall",
-      "property": "2512 Gallatin Avenue",
+      "property": "2518 Gallatin Partners / Gallatin",
       "type": "For Lease",
-      "status": "Jordyn Stallings with Cushman & Wakefield inquired whether 2512 Gallatin would approve daycare use and playground space.",
-      "nextStep": "Jacob needs to respond on daycare/playground feasibility.",
+      "status": "Micah told Ashby to tell tenant counsel Anchor has been communicating with broker, will stay in touch, and expects to sign next week.",
+      "nextStep": "Ashby to relay message to tenant counsel; Jacob/Micah still need final lease execution next week.",
       "contacts": [
         "Charles Hawkins (LOI)",
         "Brether group (Event/Entertainment)",
         "Stephen Prather",
         "Ashby Scott (Evans Petree)",
-        "Jordyn Stallings (Cushman & Wakefield)"
+        "Jordyn Stallings (Cushman & Wakefield)",
+        "Rebecca Miller (Buchalter)",
+        "Micah Lacher"
       ],
-      "priority": "medium",
+      "priority": "high",
       "lastUpdate": "2026-03-09",
       "timeline": [
         {
@@ -16146,6 +16148,11 @@
         {
           "date": "2026-05-07",
           "event": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-07",
+          "event": "Micah responded on execution timing: stay in touch with broker; Anchor should sign next week.",
           "type": "email"
         },
         {
