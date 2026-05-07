@@ -1,43 +1,38 @@
 {
-  "lastUpdated": "2026-05-06T17:30:26.895773",
+  "lastUpdated": "2026-05-07T07:16:12.361182",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
-    "date": "2026-05-06",
+    "date": "2026-05-07",
     "greeting": "Good morning, Jacob. You have 9 overdue items.",
     "meetings": [
       {
-        "time": "7:30 AM",
-        "title": "JD + JD Phone Call",
+        "time": "6:00 AM",
+        "title": "West End Men’s Bible Study",
         "dealContext": null
       },
       {
-        "time": "10:15 AM",
-        "title": "Chad Gastonia Laundromat",
-        "dealContext": "Stage: LOI | Lease sent to Chad Vang, waiting on signature. | Next: Wait for signed lease."
-      },
-      {
-        "time": "11:45 AM",
-        "title": "Lunch - 500k",
+        "time": "6:00 AM",
+        "title": "Carter Bible Study Green Hills Mall",
         "dealContext": null
       },
       {
-        "time": "11:45 AM",
-        "title": "🌮 500K Sponsorship Lunch",
+        "time": "8:00 AM",
+        "title": "Coffee Jacob Delk x Sean Spafford",
         "dealContext": null
       },
       {
-        "time": "1:00 PM",
-        "title": "Q2 Commercial Offsite",
+        "time": "9:00 AM",
+        "title": "Anchor Investments + Fostr AI | Weekly Check-In",
+        "dealContext": null
+      },
+      {
+        "time": "2:00 PM",
+        "title": "Q2 State of the Company",
         "dealContext": null
       },
       {
         "time": "4:00 PM",
-        "title": "Review & Update Asst Mgmt Dashboard",
-        "dealContext": null
-      },
-      {
-        "time": "5:00 PM",
-        "title": "Anchor Trash Cans",
+        "title": "STOC Social",
         "dealContext": null
       }
     ],
@@ -49,14 +44,7 @@
       "See when Dallas could meet with carter (overdue — due 2026-03-31)",
       "Harrison Trampoline LOI (overdue — due 2026-03-31)",
       "Add teeth to the default sections for Grease.  (overdue — due 2026-03-23)",
-      "Roofing contractor language. Add some teeth to the default (overdue — due 2026-03-23)",
-      "Chad Gastonia Laundromat call at 10:15 AM",
-      "GMX / Hamilton Community Partners due diligence extension counterpart needs signature if no comments",
-      "UPS Store / McMinnville signed LOI needs fully executed return",
-      "Five Below / Malone facade, landlord drawings, and lease exhibit decisions remain priority",
-      "Call/schedule David Cooke tomorrow morning about revived Pell City home health/hospice project.",
-      "Send Jon Petty the preferred application/financial form for UPS Store McMinnville or tell him what financial package is needed.",
-      "Follow up with Mathison on Dr. Michael Dupre's Pell City former-gym space interest from Pell City Pharmacy."
+      "Roofing contractor language. Add some teeth to the default (overdue — due 2026-03-23)"
     ]
   },
   "pipelineDeals": [
@@ -17994,7 +17982,16 @@
       ],
       "actions": [],
       "type": "Tenant Rep",
-      "lastUpdate": "2026-05-06"
+      "lastUpdate": "2026-05-06",
+      "rentComps": {
+        "property": "Gallatin",
+        "avgRate": null,
+        "minRate": null,
+        "maxRate": null,
+        "avgSqFt": 12304,
+        "suiteCount": 2,
+        "vacantCount": 0
+      }
     }
   ],
   "droppedBalls": [
@@ -63145,268 +63142,216 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-05-06T07:34:53",
-    "source": "morning-briefing",
+    "generatedAt": "2026-05-07T07:16:12",
+    "source": "active-tasks",
     "yourPlate": [
       {
         "id": "sweep-plate-1",
-        "text": "GMX / Hamilton DD extension — signed scanned counterpart needed for May 13 extension.",
+        "text": "Send Malone flyer to small shop tenants — carried forward in latest reaction card; still depends on finished flyer",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-2",
-        "text": "UPS Store / McMinnville — return fully executed LOI and confirm lease-draft needs.",
+        "text": "Finish Malone flyer — carried forward in latest reaction card",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-3",
-        "text": "Five Below / Malone — approve/comment on facade/elevation so sign exhibit can start.",
+        "text": "Blast out Buena Vista listings — set for Monday per latest reaction card",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-4",
-        "text": "Five Below / Malone — decide whether Clay starts landlord drawings pre-lease.",
+        "text": "Work with Parker to get sign for Buena Vista — set for Monday per latest reaction card",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-5",
-        "text": "Five Below / Malone — watch for lease and review work letter/sign/no-build exhibits.",
+        "text": "Ask Buena Vista land contacts for prior bid materials and move the sod / site presentation work forward — carried forward per reaction card item 6",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-6",
-        "text": "Emerson / Lately Projects — push lease signature this week.",
+        "text": "Call Diego re Buena Vista purchase inquiry - texted from Approver after seeing Craigslist Nashville listing, wants to discuss purchase price and site conditions. Call back: 561-517-6728. Carried forward per reaction card item 7",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-7",
-        "text": "Hamilton laundromat — text prior contact; test $200K-$300K TI with better rent.",
+        "text": "Send Buena Vista to Millrose and Lennar — carried forward per reaction card item 8",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-8",
-        "text": "Pell City Ellianos LOI — pricing/terms feedback or call Wallace/Keith.",
+        "text": "Pell City — pressure wash or repaint facade; recent photos made the frontage look rough. Carried forward per reaction card item 9",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-9",
-        "text": "Buena Vista Diego inquiry — call 561-517-6728 re purchase/site conditions.",
+        "text": "Respond to Pell City Outparcel LOI — Ellianos Coffee LOI received from Wallace Schmuck (ws@shanwalt.com, 210-464-7707) / Shannon Waltchack. Latest reaction fallback says carry forward rather than Monday. Call Wallace or Keith with feedback when Jacob re-prioritizes",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-10",
-        "text": "PCON — Griffin Hodge feedback + Alex Abels prospect follow-up.",
+        "text": "Camile C. (Crexi) — Buena Vista Pike JV/participation inquiry deferred per closeout; do not chase now. Reopen only if Jacob decides to pursue JV/participation conversation",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-11",
-        "text": "Chad Gastonia Laundromat — 10:15 call.",
+        "text": "Jason Jones — Malone Card Show inquiry, short-term 8,000 SF event rental at Malone. Carried forward per reaction card item 14",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-12",
+        "text": "Update New Memphis lease late fee language to $100 or 5%, whichever is greater — carried forward per reaction card item 15",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-13",
+        "text": "Shoe Dept (Malone) - lock construction timeline and lease-obligation map with Clay to avoid opening-year slippage. Carried forward per reaction card item 16",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-14",
+        "text": "Pell City Physical Therapy / Home Health RFP — Latest reaction fallback says carry forward rather than Monday. Challenge/value-engineer the RFP pricing: preliminary buildout around $400K looked wrong; press especially on ceiling tile line (~$35K) and consider using the Montgomery contractor who built Owen/Staffing, with hotel/travel covered if needed",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-15",
+        "text": "Emerson / Lately Projects — get lease signed this week; Jacob said Anchor has legal standing on expiration timing and should proceed, with construction storefront height details to be worked out after signing",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-16",
+        "text": "Hamilton vacancy / laundromat — move Hamilton vacancy high on the priority list once Adam starts; text prior laundromat contact and float whether $200K-$300K TI would move the needle, with better rent required",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-17",
+        "text": "Adam onboarding / leasing cadence — create Adam onboarding plan with early Slack/email access, leasing channel history, podcasts/lease self-study, early real outreach, weekly Jacob/Adam one-on-one, and continued Jacob/Micah active-deal meeting",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-18",
+        "text": "MacBid / Evansville-Hamilton expansion — ping MacBid about expansion plans, San Antonio focus, Evansville interest, and whether Harrison/Gastonia locations affect Anchor targets",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-19",
+        "text": "Five Below / Malone kickoff follow-up — review latest layout/preliminary elevation from Five Below, confirm facade height alignment with Marshalls/Shoe Dept after 5/5 survey, and approve/comment so final sign exhibit can start",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-20",
+        "text": "Five Below / Malone landlord drawings — decide with Clay/ownership whether to start landlord plan set before lease execution; scope includes facade, demising, loading, and RTU openings",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-21",
+        "text": "Five Below / Malone lease exhibits — watch for lease by end of week and review work letter, final sign exhibit, and no-build-area exhibit",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-22",
+        "text": "UPS Store / McMinnville — Jon Petty sent Amy signed LOI + sign renderings + white-box specs/sign standards on 5/5; return fully executed LOI and confirm what else is needed to draft the lease. 5/6 update: Jon asked for the application/financial forms next",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-23",
+        "text": "McMinnville landscaping — active landscaper/weeds follow-up per Monday sync; no longer passive watch",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-24",
+        "text": "Crunch Fitness / McMinnville Suite 107 — follow up/send floor plan reply; moved from stale WATCHING to active DO per Monday sync",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-25",
+        "text": "Cleveland Furniture Bank / 6282 Pearl Road — Gmail draft reply loaded for Jacob approval; draft says Jacob will get back up to speed and call Tom. Do not send unless Jacob approves",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-26",
+        "text": "GMX / Hamilton Community Partners due diligence extension — Ashby requested signed scanned counterpart for May 13 extension if no comments; high-priority action item because inspection-period clock is running",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-27",
+        "text": "Jordyn Stallings / 2512 Gallatin daycare-playground inquiry — Gmail draft reply loaded for Jacob approval; do not send unless Jacob approves",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-28",
+        "text": "David Cooke / Pell City 807 Martin St S revived project — call David tomorrow morning about revived project",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-29",
+        "text": "Dr. Michael Dupre / Pell City lead — follow up on Mathison Slack lead for Dr. Michael Dupre",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
       }
     ],
-    "prepping": [
-      {
-        "id": "sweep-prep-1",
-        "text": "Malone flyer/small-shop outreach package.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-2",
-        "text": "Buena Vista listing blast + NRP/Brian Drobnick note.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-3",
-        "text": "Buena Vista sign/Parker status and next message.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-4",
-        "text": "Buena Vista prior bid/materials asks.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-5",
-        "text": "Buena Vista Millrose/Lennar outreach.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-6",
-        "text": "Pell City facade PM/Clay ask from recent photos.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-7",
-        "text": "Malone Card Show short-term rental response options.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-8",
-        "text": "New Memphis late-fee clause language.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-9",
-        "text": "Shoe Dept / Malone construction timeline + obligation map.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-10",
-        "text": "Pell City PT/Home Health RFP value-engineer review.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-11",
-        "text": "Adam onboarding/cadence plan.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-12",
-        "text": "MacBid expansion questions draft.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-13",
-        "text": "McMinnville landscaping follow-up.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-14",
-        "text": "Cleveland Furniture Bank draft is loaded for approval.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-15",
-        "text": "Mattress vacancy/listing cleanup.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-16",
-        "text": "New vacancy checklist + nearby prospect list.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-17",
-        "text": "Exclusives review checklist.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-18",
-        "text": "Grease/roofing/restaurant default language.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-19",
-        "text": "Reusable pre-signing lease checklist.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-20",
-        "text": "Computer audit template.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      }
-    ],
-    "handling": [
-      {
-        "id": "sweep-handle-1",
-        "text": "Parker task-delegation cleanup research.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-handle-2",
-        "text": "Big Board stale/duplicate cleanup report.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-handle-3",
-        "text": "Command Center + briefing cache sync.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      }
-    ],
-    "deferred": [
-      {
-        "id": "sweep-defer-1",
-        "text": "Runnings next week; Vercel/GitHub manual reconnect; Joe Wesley waiting; Yasser waiting; Camile JV deferred; Label Shopper future monitor; Adam housing waiting; Academy Shelbyville watching; Strip Mall Guys due 5/17; Dallas/Carter personal; Harrison Trampoline stale cleanup; post-termination GSuite admin; AI Lease quiz/OP coaching/traffic data backlog.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-defer-2",
-        "text": "🚀 Command Center: https://jd-command-center.vercel.app",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      }
-    ]
+    "prepping": [],
+    "handling": [],
+    "deferred": []
   },
   "prepDocDiff": {
     "generatedAt": "2026-05-01T15:01:41.705299",
@@ -63793,35 +63738,35 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-05-06T07:34:53",
-    "source": "morning-briefing",
+    "generatedAt": "2026-05-07T07:16:12",
+    "source": "active-tasks",
     "items": [
       {
         "id": "focus-plate-1",
-        "dealName": "GMX / Hamilton DD extension",
+        "dealName": "Send Malone flyer to small shop tenants",
         "property": null,
-        "action": "signed scanned counterpart needed for May 13 extension.",
-        "why": "#1 on your plate today.",
+        "action": "carried forward in latest reaction card; still depends on finished flyer",
+        "why": "Top of your active task list this week.",
         "urgency": "high",
-        "type": "briefing"
+        "type": "task"
       },
       {
         "id": "focus-plate-2",
-        "dealName": "UPS Store / McMinnville",
+        "dealName": "Finish Malone flyer",
         "property": null,
-        "action": "return fully executed LOI and confirm lease-draft needs.",
-        "why": "#2 on your plate today.",
+        "action": "carried forward in latest reaction card",
+        "why": "Top of your active task list this week.",
         "urgency": "high",
-        "type": "briefing"
+        "type": "task"
       },
       {
         "id": "focus-plate-3",
-        "dealName": "Five Below / Malone",
+        "dealName": "Blast out Buena Vista listings",
         "property": null,
-        "action": "approve/comment on facade/elevation so sign exhibit can start.",
-        "why": "#3 on your plate today.",
+        "action": "set for Monday per latest reaction card",
+        "why": "Top of your active task list this week.",
         "urgency": "medium",
-        "type": "briefing"
+        "type": "task"
       }
     ]
   }

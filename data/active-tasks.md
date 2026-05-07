@@ -1,8 +1,8 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-05-05 6:05 PM CDT
+Last updated: 2026-05-06 6:18 PM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T149 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T153 -->
 
 ## ACTIVE — Jacob needs to do these
 
@@ -31,10 +31,14 @@ Last updated: 2026-05-05 6:05 PM CDT
 - T142: Five Below / Malone kickoff follow-up — review latest layout/preliminary elevation from Five Below, confirm facade height alignment with Marshalls/Shoe Dept after 5/5 survey, and approve/comment so final sign exhibit can start. [source: Plaud Five Below kickoff 2026-05-04] [deal: Malone / Five Below]
 - T143: Five Below / Malone landlord drawings — decide with Clay/ownership whether to start landlord plan set before lease execution; scope includes facade, demising, loading, and RTU openings. [source: Plaud Five Below kickoff 2026-05-04] [deal: Malone / Five Below]
 - T144: Five Below / Malone lease exhibits — watch for lease by end of week and review work letter, final sign exhibit, and no-build-area exhibit. [source: Plaud Five Below kickoff 2026-05-04] [deal: Malone / Five Below]
-- T145: UPS Store / McMinnville — Jon Petty sent Amy signed LOI + sign renderings + white-box specs/sign standards on 5/5; return fully executed LOI and confirm what else is needed to draft the lease. [gmail thread: 19dfa1c48c7c9097] [source: Communication Triage 2026-05-05 6 PM] [deal: McMinnville Plaza]
+- T145: UPS Store / McMinnville — Jon Petty sent Amy signed LOI + sign renderings + white-box specs/sign standards on 5/5; return fully executed LOI and confirm what else is needed to draft the lease. 5/6 update: Jon asked for the application/financial forms next. [gmail thread: 19dfa1c48c7c9097] [source: Communication Triage 2026-05-05 6 PM + 2026-05-06 2/5 PM] [deal: McMinnville Plaza]
 - T146: McMinnville landscaping — active landscaper/weeds follow-up per Monday sync; no longer passive watch. [source: leasing meeting 3/30; monday-sync 5/3; heartbeat 2026-05-05] [deal: McMinnville Plaza]
+- T152: Crunch Fitness / McMinnville Suite 107 — follow up/send floor plan reply; moved from stale WATCHING to active DO per Monday sync. [source: leasing meeting 3/30; monday-sync 5/3; active-task hygiene 2026-05-05] [deal: McMinnville Plaza]
 - T147: Cleveland Furniture Bank / 6282 Pearl Road — Gmail draft reply loaded for Jacob approval; draft says Jacob will get back up to speed and call Tom. Do not send unless Jacob approves. [gmail thread: 19df98bf8433b87f] [draft: r5088746938907387776] [source: Communication Triage 2026-05-05] [deal: Pearl Road / Cleveland Furniture Bank]
 - T148: GMX / Hamilton Community Partners due diligence extension — Ashby requested signed scanned counterpart for May 13 extension if no comments; high-priority action item because inspection-period clock is running. [gmail thread: 19df518a3f3c4742] [source: Communication Triage 2026-05-05] [deal: Hamilton Community Partners sale]
+- T149: Jordyn Stallings / 2512 Gallatin daycare-playground inquiry — Gmail draft reply loaded for Jacob approval; do not send unless Jacob approves. [gmail thread: 19dfe1672f7faed8] [draft: r9179140411601449754] [source: Communication Triage 2026-05-06 1/2 PM] [deal: 2512 Gallatin]
+- T150: David Cooke / Pell City 807 Martin St S revived project — call David tomorrow morning about revived project. [source: Communication Triage 2026-05-06 5 PM] [deal: Pell City / 807 Martin St S]
+- T151: Dr. Michael Dupre / Pell City lead — follow up on Mathison Slack lead for Dr. Michael Dupre. [source: Communication Triage 2026-05-06 5 PM] [deal: Pell City]
 
 
 ### Next Week+
@@ -50,7 +54,7 @@ Last updated: 2026-05-05 6:05 PM CDT
 
 ## WATCHING — Monitor, not actionable yet
 
-Note: WATCHING items should be removed once real movement comes in. Gastonia laundromat was removed on 4/10 after a fresh DocuSign reminder signaled movement. Pell City was removed earlier on 4/10 after fresh email movement from Factory Connection. McMinnville monument sign was removed on 4/14 after Clay sent fresh Slack PDFs/comments for review. ABC Russellville was removed on 4/27 after Clay asked whether to commission the ABC work; it is now active as T122. Crunch Fitness and McMinnville landscaping were removed from WATCHING on 5/5 and promoted to active follow-up tasks T145/T146. T137 Academy/Shelbyville started 5/4 and is not stale yet.
+Note: WATCHING items should be removed once real movement comes in. Gastonia laundromat was removed on 4/10 after a fresh DocuSign reminder signaled movement. Pell City was removed earlier on 4/10 after fresh email movement from Factory Connection. McMinnville monument sign was removed on 4/14 after Clay sent fresh Slack PDFs/comments for review. ABC Russellville was removed on 4/27 after Clay asked whether to commission the ABC work; it is now active as T122. Crunch Fitness and McMinnville landscaping were removed from WATCHING on 5/5 and promoted to active follow-up tasks T152/T146. T137 Academy/Shelbyville started 5/4 and is not stale yet.
 
 - T137: Academy Sports / Shelbyville — watch for response after Jacob sends pitch for former Big Lots box at 1840 E Michigan Rd; if no response, follow up with Brian Ferguson / Academy real estate contact. Proof points: ~30 miles from Indianapolis, ~25-30 min from Greenwood Academy store, 40K SF box, E Michigan Rd retail corridor, Academy outside-in exurb/satellite strategy. [source: Jacob 5/4; deal: Shelbyville]
 
