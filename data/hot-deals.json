@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T14:02:59.201014",
+  "lastUpdated": "2026-05-07T14:30:24.045484",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-07",
@@ -62,6 +62,16 @@
       "nextStep": "Monitor Tuesday 5/5 survey access; Tim Carlo has contractor and maintenance contacts if additional areas are needed.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-07",
+          "event": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas) @ Tue May 12, 2026 7:4",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-07",
+          "event": "Email from Malone Chamber of Commerce: it's planting time!",
+          "type": "email"
+        },
         {
           "date": "2026-05-07",
           "event": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
@@ -1253,6 +1263,11 @@
       "timeline": [
         {
           "date": "2026-05-07",
+          "event": "Email from Malone Chamber of Commerce: it's planting time!",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-07",
           "event": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
           "type": "email"
         },
@@ -2226,6 +2241,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-07",
+          "event": "Email from Malone Chamber of Commerce: it's planting time!",
+          "type": "email"
+        },
         {
           "date": "2026-05-07",
           "event": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
@@ -3548,6 +3568,11 @@
       "nextStep": "Wait for signed lease.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-07",
+          "event": "Email from Jason Jiang: LoopNet Lead for Dixie Village Shopping Center",
+          "type": "email"
+        },
         {
           "date": "2026-05-06",
           "event": "Email from Chad V: Accepted: Dixie Village Laundromat: 5 week touch base (Jacob x Chad) @ Wed Jun 1",
@@ -7508,6 +7533,11 @@
       "timeline": [
         {
           "date": "2026-05-07",
+          "event": "Email from ICSC Insight Newsletter: ICSC Appoints Chief Membership & Strategic Partnerships Officer, ICSC LAS VEGAS ",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-07",
           "event": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
           "type": "email"
         },
@@ -8490,6 +8520,16 @@
       "nextStep": "Save/route signed Marshalls form as needed for the Malone transaction file.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-07",
+          "event": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas) @ Tue May 12, 2026 7:4",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-07",
+          "event": "Email from Malone Chamber of Commerce: it's planting time!",
+          "type": "email"
+        },
         {
           "date": "2026-05-07",
           "event": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
@@ -11582,6 +11622,11 @@
       "nextStep": "Jacob to approve/adjust response; likely decline dispensary use at Maple Row unless ownership direction changes.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-07",
+          "event": "Email from Jason Jiang: LoopNet Lead for Dixie Village Shopping Center",
+          "type": "email"
+        },
         {
           "date": "2026-05-07",
           "event": "Email from Joey Valenti: FW: [EXTERNAL] - RE: Hendo",
@@ -16137,6 +16182,11 @@
       "timeline": [
         {
           "date": "2026-05-07",
+          "event": "Email from ICSC Insight Newsletter: ICSC Appoints Chief Membership & Strategic Partnerships Officer, ICSC LAS VEGAS ",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-07",
           "event": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
           "type": "email"
         },
@@ -16153,6 +16203,16 @@
         {
           "date": "2026-05-07",
           "event": "Micah responded on execution timing: stay in touch with broker; Anchor should sign next week.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-06",
+          "event": "Email from Micah Lacher: Invitation: Hamilton - Dutch Bro's Outparcel Inspection Period ends @ Wed May 13",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-06",
+          "event": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NCS-1283410-CHI2",
           "type": "email"
         },
         {
@@ -18022,6 +18082,11 @@
       "timeline": [
         {
           "date": "2026-05-07",
+          "event": "Email from ICSC Insight Newsletter: ICSC Appoints Chief Membership & Strategic Partnerships Officer, ICSC LAS VEGAS ",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-07",
           "event": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
           "type": "email"
         },
@@ -18705,13 +18770,6 @@
       "urgency": "low"
     },
     {
-      "name": "Chad Vang",
-      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Chad V: Accepted: Dixie Village Laundromat: 5 week touch base (Jacob ",
-      "urgency": "low"
-    },
-    {
       "name": "Parker Brennan / Scenthound",
       "deal": "Scenthound — Atlanta Hwy",
       "daysSinceContact": 1,
@@ -18729,133 +18787,140 @@
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Malone Chamber of Commerce: it's planting time!",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Malone Chamber of Commerce: it's planting time!",
       "urgency": "low"
     },
     {
       "name": "Tony Grillo",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Malone Chamber of Commerce: it's planting time!",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Malone Chamber of Commerce: it's planting time!",
       "urgency": "low"
     },
     {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Malone Chamber of Commerce: it's planting time!",
+      "urgency": "low"
+    },
+    {
+      "name": "Chad Vang",
+      "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jason Jiang: LoopNet Lead for Dixie Village Shopping Center",
       "urgency": "low"
     },
     {
@@ -18967,63 +19032,63 @@
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
+      "lastAction": "Email from ICSC Insight Newsletter: ICSC Appoints Chief Membership & Strategic P",
       "urgency": "low"
     },
     {
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Joseph Bulovas)",
       "urgency": "low"
     },
     {
@@ -19079,35 +19144,35 @@
       "name": "Joey",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - RE: Hendo",
+      "lastAction": "Email from Jason Jiang: LoopNet Lead for Dixie Village Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - RE: Hendo",
+      "lastAction": "Email from Jason Jiang: LoopNet Lead for Dixie Village Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - RE: Hendo",
+      "lastAction": "Email from Jason Jiang: LoopNet Lead for Dixie Village Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - RE: Hendo",
+      "lastAction": "Email from Jason Jiang: LoopNet Lead for Dixie Village Shopping Center",
       "urgency": "low"
     },
     {
       "name": "ala h.",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - RE: Hendo",
+      "lastAction": "Email from Jason Jiang: LoopNet Lead for Dixie Village Shopping Center",
       "urgency": "low"
     },
     {
@@ -19252,51 +19317,65 @@
     },
     {
       "name": "Charles Hawkins",
-      "deal": "Emerson Hall — 2512 Gallatin Avenue",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
+      "lastAction": "Email from ICSC Insight Newsletter: ICSC Appoints Chief Membership & Strategic P",
       "urgency": "low"
     },
     {
       "name": "Brether group",
-      "deal": "Emerson Hall — 2512 Gallatin Avenue",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
+      "lastAction": "Email from ICSC Insight Newsletter: ICSC Appoints Chief Membership & Strategic P",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
-      "deal": "Emerson Hall — 2512 Gallatin Avenue",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
+      "lastAction": "Email from ICSC Insight Newsletter: ICSC Appoints Chief Membership & Strategic P",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
-      "deal": "Emerson Hall — 2512 Gallatin Avenue",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
+      "lastAction": "Email from ICSC Insight Newsletter: ICSC Appoints Chief Membership & Strategic P",
       "urgency": "low"
     },
     {
       "name": "Jordyn Stallings",
-      "deal": "Emerson Hall — 2512 Gallatin Avenue",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
+      "lastAction": "Email from ICSC Insight Newsletter: ICSC Appoints Chief Membership & Strategic P",
+      "urgency": "low"
+    },
+    {
+      "name": "Rebecca Miller",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
+      "daysSinceContact": 0,
+      "lastAction": "Email from ICSC Insight Newsletter: ICSC Appoints Chief Membership & Strategic P",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
+      "daysSinceContact": 0,
+      "lastAction": "Email from ICSC Insight Newsletter: ICSC Appoints Chief Membership & Strategic P",
       "urgency": "low"
     },
     {
       "name": "Juliana Fernandez",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from ICSC Insight Newsletter: ICSC Appoints Chief Membership & Strategic P",
       "urgency": "low"
     },
     {
       "name": "Carson Knight",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from ICSC Insight Newsletter: ICSC Appoints Chief Membership & Strategic P",
       "urgency": "low"
     },
     {
