@@ -19945,9 +19945,8 @@
   "brainDumps": [],
   "actionItems": [
     {
-      "title": "Other Sites (can be added to our existing footprint):",
-      "detail": "Forks of the River Parkway – Sevierville, TN What are your thoughts here? They could go where the ground lease might be 230 W Main St – Malone, NY Maple Row Shopping Center – Hendersonville, TN Told them we likely couldn't do it here 2547 W Franklin Blvd – Gastonia, NC Pea Ridge Plaza Shopping Center – Huntington, WV Told them we couldn't do it here either. 1100 Smithville Hwy – McMinnville, TN Fostr",
-      "completed": true
+      "title": "Miscellaneous",
+      "detail": "-I didn't want to jinx it in MMM, but I worked on a Claude expense report project this weekend that I'm gonna give to a few people to test out. Plan is to work out the kinks this month so we can roll it out to the team going forward. -Fyxer -Weekly Report -AI podcast debrief -Tardy Debrief -Adam Onboarding 2008 johnson flyer"
     }
   ],
   "crossRefAlerts": [
@@ -64005,91 +64004,70 @@
     ]
   },
   "prepDocDiff": {
-    "generatedAt": "2026-05-01T15:01:41.705299",
-    "thisWeek": "Leasing Meeting Prep - Week of 4/27/26",
-    "lastWeek": "Leasing Meeting Prep - Week of 4/20/26",
-    "new": [
+    "generatedAt": "2026-05-08T15:01:16.405187",
+    "thisWeek": "Leasing Meeting Prep - Week of 5.4.26",
+    "lastWeek": "Leasing Meeting Prep - Week of 5/4/26",
+    "new": [],
+    "dropped": [],
+    "progressed": [],
+    "stalled": [],
+    "updated": [],
+    "noChange": [
       {
-        "name": "Wingstop",
-        "property": "Wingstop",
-        "status": "LOI signed last week - it now heads to their REC. They did not have a firm date, but said early May.",
-        "nextStep": ""
+        "name": "Five Below LOI approved at REC",
+        "property": "Five Below LOI approved at REC",
+        "status": "",
+        "weeksUnchanged": 1
       },
       {
-        "name": "UPS store",
-        "property": "UPS store",
-        "status": "Working through the final details with Petty, but I expect this one will be finalized this week too. Excited to have these two done.",
-        "nextStep": ""
+        "name": "Emerson Hall / Lately Projects",
+        "property": "Emerson Hall / Lately Projects",
+        "status": "Ready to rock and roll. Let me know if there is anything you need me to do",
+        "weeksUnchanged": 1
       },
       {
-        "name": "Pell City Physical Therapy",
-        "property": "Pell City Physical Therapy",
-        "status": "They said they'd have the lease draft to me this week.",
-        "nextStep": ""
+        "name": "Five Below",
+        "property": "Malone",
+        "status": "Approved at REC. Clay and I have a kick-off call with their construction team this afternoon",
+        "weeksUnchanged": 1
+      },
+      {
+        "name": "UPS Store",
+        "property": "McMinnville",
+        "status": "Petty and I worked through the specifics, and he is taking the most recent version to get sign off from UPS. Pell City Physical Therapy / Home Health I can explain more in our meeting, but this one hit a little speed bump with their legal team, so it is having to go back through approvals. The short version is they wanted some broad assignment language that the broker and I discussed and were on the same page about, but he didn't document very well, so their legal team flagged it and rejected it on first go",
+        "weeksUnchanged": 1
       },
       {
         "name": "Great Greek",
-        "property": "Great Greek",
-        "status": "Clay coordinated with EJ. They went out to assess the suite last Friday, so we should be about there on this one too. I'll connect with Joey and get the latest",
-        "nextStep": ""
-      }
-    ],
-    "dropped": [
-      {
-        "name": "Malone Plaza",
-        "property": "Malone Plaza",
-        "lastStatus": ""
+        "property": "Maple Row",
+        "status": "They did a site visit the other day and are waiting for some numbers back.",
+        "weeksUnchanged": 1
       },
       {
-        "name": "McMinnville Plaza",
-        "property": "McMinnville Plaza",
-        "lastStatus": "Both UPS and Wingstop are in their court. I want to talk through a scenario with the Wingstop deal in our meeting. It'll be easier to explain in person. Mainly just looking for your experience on how you've handled something in the past."
+        "name": "Gastonia",
+        "property": "Gastonia",
+        "status": "The laundromat operator and I have a call scheduled for Wednesday to go over the specifics in the lease. Evansville Evansville / Where Ya Bin call got pushed to tomorrow. Evansville Easterseals has not talked with their CEO yet but is going to keep me in the loop.",
+        "weeksUnchanged": 1
       },
       {
-        "name": "Evansville",
-        "property": "Easterseals",
-        "lastStatus": "Lauri said on 4/14 she cannot get in front of their CEO until Thursday 4/23. Leasing Hire I have reached out to schedule reference calls for Adam. I have one at 10 a.m., immediately before our meeting and another one this afternoon"
+        "name": "Shelbyville",
+        "property": "Shelbyville",
+        "status": "",
+        "weeksUnchanged": 1
       },
       {
-        "name": "Fostr",
-        "property": "Fostr",
-        "lastStatus": "I have access, and I'll show you in our meeting. Our data is still in the process of syncing, but glad to have our hands on the new thing. I think it will be good for our team."
-      },
-      {
-        "name": "Claude",
-        "property": "Claude",
-        "lastStatus": ""
-      },
-      {
-        "name": "Sevierville CosmoProf",
-        "property": "Sevierville CosmoProf",
-        "lastStatus": "I'll walk you through their revised offer in the meeting. I have some notes prepped, but ran out of time to get them in here before the reference call."
-      }
-    ],
-    "progressed": [
-      {
-        "name": "Emerson",
-        "property": "Emerson",
-        "from": "Lease is in their court. Ashby and I gave on 90% of the stuff they requested.",
-        "to": "I haven't fully been able to look at all the changes that Ashby and their attorney made, but at first glance, I think we will be fine with all of them. Just wanted to bring this up since it seems like they are pushing to get this thing executed ASAP. I'm not sure if you have been copied on threads with Prather/Dylan and also Ashby and their attorney, but they followed up a few times about execution. I know we need to square away things with Fat Bottom before we do that, so it's worth discussing the game plan. Do you want me to connect with Ashby about sending them a letter?"
+        "name": "Just leaving this here to talk about Shelbyville",
+        "property": "Just leaving this here to talk about Shelbyville",
+        "status": "-OP -New ideas (shoutout jarvis) -ICSC",
+        "weeksUnchanged": 1
       },
       {
         "name": "Hope Smiles",
         "property": "Hope Smiles",
-        "from": "Glad we finally have some good direction from them. I will keep tracking down some options with them",
-        "to": "I'll give you the high-level update, but we had some good tours last week. Hopefully one will be a winner…."
+        "status": "They are pretty sold out on Creekside Crossing currently. They want to look at one more suite that was locked in there when we toured the first time. The LL is working on a test fit (for one of the spaces they looked at the other week) and running the numbers, so hope smiles can make a decision. Fostr Yardi data has made it into the platform, but still needs lots of configuring on their end. But it's big time that you can go in and see where it's headed. I can show it to you",
+        "weeksUnchanged": 1
       }
-    ],
-    "stalled": [],
-    "updated": [
-      {
-        "name": "Five below",
-        "property": "Five below",
-        "from": "",
-        "to": "I did not hear from them last week and was hoping they would reach out. I will ping them today and get an update on REC."
-      }
-    ],
-    "noChange": []
+    ]
   },
   "propertyReviewTodos": {
     "generatedAt": "2026-03-17T20:49:53.959486",
