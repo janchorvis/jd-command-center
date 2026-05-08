@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T13:03:29.230227",
+  "lastUpdated": "2026-05-08T13:30:30.428852",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-08",
@@ -2267,6 +2267,16 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-08",
+          "event": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NCS-1283410-CHI2",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-08",
+          "event": "Email from Mathison Ingham: Fwd: Expansion Opportunity Inquiry – Tractor Supply – #2170 - Pell City, AL",
+          "type": "email"
+        },
         {
           "date": "2026-05-08",
           "event": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
@@ -11030,6 +11040,11 @@
       "timeline": [
         {
           "date": "2026-05-08",
+          "event": "Email from Mathison Ingham: Fwd: Expansion Opportunity Inquiry – Tractor Supply – #2170 - Pell City, AL",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-08",
           "event": "David Cooke forwarded old Pell City/Home Health lease doc: Pell City Partners, LLC - EH Health Home Health of Birmingham, LLC - Lease 8.5.25.docx. Thread/message 19e034f73f89d6e8.",
           "type": "email"
         },
@@ -12406,6 +12421,11 @@
       "nextStep": "Keep pressure on all active prospects and let speed determine space control.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-08",
+          "event": "Email from Mathison Ingham: Fwd: Expansion Opportunity Inquiry – Tractor Supply – #2170 - Pell City, AL",
+          "type": "email"
+        },
         {
           "date": "2026-05-07",
           "event": "Email from David Cooke: 807 Martin St S, Pell City, AL",
@@ -14523,6 +14543,11 @@
       "timeline": [
         {
           "date": "2026-05-08",
+          "event": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NCS-1283410-CHI2",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-08",
           "event": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
           "type": "email"
         },
@@ -15360,6 +15385,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-05-08",
+          "event": "Email from Phoenix Club of Nashville: Please share feedback about Sean Spafford",
+          "type": "email"
+        },
         {
           "date": "2026-05-08",
           "event": "Email from Eric Snyder, Editor in Chief: Nashville icon grapples with closure",
@@ -16466,6 +16496,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-05-08",
+          "event": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NCS-1283410-CHI2",
+          "type": "email"
+        },
         {
           "date": "2026-05-08",
           "event": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
@@ -18743,6 +18778,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-08",
+          "event": "Email from Mathison Ingham: Fwd: Expansion Opportunity Inquiry – Tractor Supply – #2170 - Pell City, AL",
+          "type": "email"
+        },
+        {
           "date": "2026-05-07",
           "event": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
           "type": "email"
@@ -19194,13 +19234,6 @@
       "urgency": "low"
     },
     {
-      "name": "Jordyn Stallings",
-      "deal": "Jordyn Stallings - Daycare Inquiry — 2512 Gallatin Avenue",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
-      "urgency": "low"
-    },
-    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
@@ -19330,7 +19363,7 @@
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
@@ -19512,21 +19545,28 @@
       "name": "Lauri Fowler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "David Cooke forwarded old Pell City/Home Health lease doc: Pell City Partners, L",
+      "lastAction": "Email from Mathison Ingham: Fwd: Expansion Opportunity Inquiry – Tractor Supply ",
       "urgency": "low"
     },
     {
       "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "David Cooke forwarded old Pell City/Home Health lease doc: Pell City Partners, L",
+      "lastAction": "Email from Mathison Ingham: Fwd: Expansion Opportunity Inquiry – Tractor Supply ",
       "urgency": "low"
     },
     {
       "name": "David Cooke",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "David Cooke forwarded old Pell City/Home Health lease doc: Pell City Partners, L",
+      "lastAction": "Email from Mathison Ingham: Fwd: Expansion Opportunity Inquiry – Tractor Supply ",
+      "urgency": "low"
+    },
+    {
+      "name": "Abbey Gill",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Mathison Ingham: Fwd: Expansion Opportunity Inquiry – Tractor Supply ",
       "urgency": "low"
     },
     {
@@ -19589,49 +19629,49 @@
       "name": "Ashby",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Lisa Sweeney",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
@@ -19701,77 +19741,77 @@
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Nashville icon grapples with closure",
+      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Sean Spafford",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Nashville icon grapples with closure",
+      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Sean Spafford",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Nashville icon grapples with closure",
+      "lastAction": "Email from Phoenix Club of Nashville: Please share feedback about Sean Spafford",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Jordyn Stallings",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Rebecca Miller",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
@@ -19807,6 +19847,13 @@
       "deal": "Cleveland Furniture Bank — 6282 Pearl Road, Parma Heights",
       "daysSinceContact": 0,
       "lastAction": "Email from CRE Daily: Banks Are Chasing Bigger Deals",
+      "urgency": "low"
+    },
+    {
+      "name": "Jordyn Stallings",
+      "deal": "Jordyn Stallings - Daycare Inquiry — 2512 Gallatin Avenue",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Mathison Ingham: Fwd: Expansion Opportunity Inquiry – Tractor Supply ",
       "urgency": "low"
     }
   ],
