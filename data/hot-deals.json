@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T13:02:29.025569",
+  "lastUpdated": "2026-05-08T13:03:29.230227",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-08",
@@ -11017,20 +11017,26 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "David Cooke forwarded the old Pell City lease document back to Jacob, matching the revived Pell City/Home Health action item.",
+      "status": "Tractor Supply real estate contacted Anchor/Property Management asking about existing or upcoming vacancies, adjacent space, expansion opportunities, redevelopment plans, and any options to add square footage or improve operations for store #2170.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob needs to call David Cooke about the revived project and review the forwarded lease context.",
+      "nextStep": "Jacob/Clay should decide whether Pell City has any expansion/vacancy/redevelopment response for Tractor Supply.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
         "David Cooke (Cooke Commercial) - david@cookecommercial.com - 214-274-8020",
-        "David Cooke"
+        "David Cooke",
+        "Abbey Gill (Tractor Supply Real Estate, abgill@tractorsupply.com, 615-933-1386)"
       ],
       "timeline": [
         {
           "date": "2026-05-08",
           "event": "David Cooke forwarded old Pell City/Home Health lease doc: Pell City Partners, LLC - EH Health Home Health of Birmingham, LLC - Lease 8.5.25.docx. Thread/message 19e034f73f89d6e8.",
           "type": "email"
+        },
+        {
+          "date": "2026-05-08",
+          "event": "Tractor Supply expansion opportunity inquiry forwarded by Mathison to Jacob and Clay.",
+          "type": "lead"
         },
         {
           "date": "2026-05-07",
@@ -14501,9 +14507,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton",
-      "status": "Ashby needs approval to share lease excerpts/exhibits with GMX, needs the Family Dollar lease, and may need a clearer Subway premises exhibit.",
+      "status": "Ashby forwarded signed GMX/Hamilton inspection-period extension PDF and Micah asked Jacob to confirm Subway expiration/options before responding to buyer/title issues.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob/Micah to approve excerpts, send Family Dollar lease, and clarify/provide Subway premises exhibit if needed.",
+      "nextStep": "Jacob needs to verify Subway expiration/options and respond to Micah/Ashby so the GMX title/inspection-period issue keeps moving.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -14533,6 +14539,11 @@
         {
           "date": "2026-05-08",
           "event": "Ashby asked for confirmation to share lease excerpts/exhibits, Family Dollar lease, and possibly clearer Subway premises exhibit. Thread/message 19e045ad3749abd2.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-08",
+          "event": "Signed inspection-period extension circulated; Micah asked Jacob to check Subway expiration/options.",
           "type": "email"
         },
         {
