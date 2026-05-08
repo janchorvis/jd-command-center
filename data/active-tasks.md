@@ -1,8 +1,8 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-05-07 6:05 PM CDT
+Last updated: 2026-05-08 1:00 PM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T154 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T157 -->
 
 ## ACTIVE — Jacob needs to do these
 
@@ -40,6 +40,9 @@ Last updated: 2026-05-07 6:05 PM CDT
 - T150: David Cooke / Pell City 807 Martin St S revived project — call David about revived project. [source: Communication Triage 2026-05-06 5 PM] [deal: Pell City / 807 Martin St S]
 - T151: Dr. Michael Dupre / Pell City lead — follow up on Mathison Slack lead for Dr. Michael Dupre. [source: Communication Triage 2026-05-06 5 PM] [deal: Pell City]
 - T153: Jason Jiang / Dixie Village LoopNet lead — Gmail draft reply loaded for Jacob approval; marked unread for visibility. Do not send unless Jacob approves. [gmail thread: 19e03d4a7035a4fc] [draft: r565593741841704271] [source: Communication Triage 2026-05-07 3 PM] [deal: Dixie Village Shopping Center]
+- T154: Great Greek / Maple Row HVAC LOI issue — Joey says the rooftop unit is dead and wants HVAC replacement addressed now in the LOI path; evaluate landlord vs tenant responsibility and prepare Jacob/Micah response posture. [source: Communication Triage 2026-05-08 9 AM] [deal: Maple Row / Great Greek]
+- T155: Marshalls / Malone permit egress markups — resolve permit hold tied to vacant-space egress markups so Marshalls/Malone path does not slip. [source: Communication Triage 2026-05-08 9 AM] [deal: Malone / Marshalls]
+- T156: PCON / Sean Spafford feedback request — Asana task created for Jacob to provide feedback on Sean Spafford, due 2026-05-15; thread labeled actioned/unread for visibility. [asana: 1214660516238793] [source: Communication Triage 2026-05-08 1 PM] [deal: PCON]
 
 
 ### Next Week+
