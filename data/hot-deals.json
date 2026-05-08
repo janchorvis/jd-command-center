@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T10:06:27.775420",
+  "lastUpdated": "2026-05-08T10:30:34.494668",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-08",
@@ -58,6 +58,11 @@
       "nextStep": "Monitor Tuesday 5/5 survey access; Tim Carlo has contractor and maintenance contacts if additional areas are needed.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-08",
+          "event": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
+          "type": "email"
+        },
         {
           "date": "2026-05-08",
           "event": "Email from Robert Richardson: New Egress Marshalls Malone NY",
@@ -8573,6 +8578,11 @@
       "timeline": [
         {
           "date": "2026-05-08",
+          "event": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-08",
           "event": "Email from Robert Richardson: New Egress Marshalls Malone NY",
           "type": "email"
         },
@@ -13702,6 +13712,16 @@
       "timeline": [
         {
           "date": "2026-05-08",
+          "event": "Email from Chris Brophy: PCON | State of Dev - May 2026",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-08",
+          "event": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-08",
           "event": "Email from Kyle Pilcher: PCON Board - Committee Spend Report (April)",
           "type": "email"
         },
@@ -14415,6 +14435,11 @@
         "Lisa Sweeney (First American)"
       ],
       "timeline": [
+        {
+          "date": "2026-05-08",
+          "event": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
+          "type": "email"
+        },
         {
           "date": "2026-05-08",
           "event": "Ashby asked for confirmation to share lease excerpts/exhibits, Family Dollar lease, and possibly clearer Subway premises exhibit. Thread/message 19e045ad3749abd2.",
@@ -16330,6 +16355,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-05-08",
+          "event": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
+          "type": "email"
+        },
         {
           "date": "2026-05-08",
           "event": "Email from Robert Richardson: New Egress Marshalls Malone NY",
@@ -19011,20 +19041,6 @@
       "urgency": "low"
     },
     {
-      "name": "Lauri Fowler",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 1,
-      "lastAction": "Email from David Cooke: 807 Martin St S, Pell City, AL",
-      "urgency": "low"
-    },
-    {
-      "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 1,
-      "lastAction": "Email from David Cooke: 807 Martin St S, Pell City, AL",
-      "urgency": "low"
-    },
-    {
       "name": "Joe Wesley",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 1,
@@ -19036,55 +19052,6 @@
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 1,
       "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
-      "urgency": "low"
-    },
-    {
-      "name": "Bob McAuliff",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
-      "urgency": "low"
-    },
-    {
-      "name": "Bob McAuliff",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
-      "urgency": "low"
-    },
-    {
-      "name": "Lisa Sweeney",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
       "urgency": "low"
     },
     {
@@ -19112,98 +19079,98 @@
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
@@ -19322,91 +19289,112 @@
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
+      "urgency": "low"
+    },
+    {
+      "name": "Lauri Fowler",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "David Cooke forwarded old Pell City/Home Health lease doc: Pell City Partners, L",
+      "urgency": "low"
+    },
+    {
+      "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "David Cooke forwarded old Pell City/Home Health lease doc: Pell City Partners, L",
+      "urgency": "low"
+    },
+    {
+      "name": "David Cooke",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "David Cooke forwarded old Pell City/Home Health lease doc: Pell City Partners, L",
       "urgency": "low"
     },
     {
@@ -19452,10 +19440,66 @@
       "urgency": "low"
     },
     {
+      "name": "Joey Valenti",
+      "deal": " — Maple Row Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Joey Valenti: The Great Greek Hendersonville",
+      "urgency": "low"
+    },
+    {
       "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
       "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Kyle Pilcher: PCON Board - Committee Spend Report (April)",
+      "lastAction": "Email from Chris Brophy: PCON | State of Dev - May 2026",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
+      "urgency": "low"
+    },
+    {
+      "name": "Bob McAuliff",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
+      "urgency": "low"
+    },
+    {
+      "name": "Bob McAuliff",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
+      "urgency": "low"
+    },
+    {
+      "name": "Lisa Sweeney",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
@@ -19546,49 +19590,56 @@
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Jordyn Stallings",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Rebecca Miller",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Error [step 3] - Gmail: App reconnection needed",
       "urgency": "low"
     },
     {
