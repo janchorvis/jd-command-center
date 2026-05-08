@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T09:30:28.837258",
+  "lastUpdated": "2026-05-08T10:06:27.775420",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-08",
@@ -8565,10 +8565,10 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "Robert Richardson/TJX says Marshalls permit is held until new egress at the vacant space is finalized; Josh needs to send town markups to Clay/Jacob.",
+      "status": "City will not release the Marshalls permit until the vacant-space egress issue is finalized.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Coordinate with Clay and Josh Conroy on town egress markups so Marshalls permit can be released.",
+      "nextStep": "Coordinate with Clay/Josh Conroy/TJX on town egress markups so the permit can be released.",
       "priority": "high",
       "timeline": [
         {
@@ -8584,6 +8584,11 @@
         {
           "date": "2026-05-08",
           "event": "TJX flagged Marshalls permit hold caused by unresolved vacant-space egress situation.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-08",
+          "event": "TJX/Robert Richardson flagged permit release blocked pending vacant-space egress coordination. Thread 19e0764338f116d4.",
           "type": "email"
         },
         {
@@ -10927,15 +10932,21 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "David Cooke says the 807 Martin St S home health/hospice office project is active again and asked for time tomorrow morning to discuss.",
+      "status": "David Cooke forwarded the old Pell City lease document back to Jacob, matching the revived Pell City/Home Health action item.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob needs to schedule/call David Cooke tomorrow morning to revive the project discussion.",
+      "nextStep": "Jacob needs to call David Cooke about the revived project and review the forwarded lease context.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
-        "David Cooke (Cooke Commercial) - david@cookecommercial.com - 214-274-8020"
+        "David Cooke (Cooke Commercial) - david@cookecommercial.com - 214-274-8020",
+        "David Cooke"
       ],
       "timeline": [
+        {
+          "date": "2026-05-08",
+          "event": "David Cooke forwarded old Pell City/Home Health lease doc: Pell City Partners, LLC - EH Health Home Health of Birmingham, LLC - Lease 8.5.25.docx. Thread/message 19e034f73f89d6e8.",
+          "type": "email"
+        },
         {
           "date": "2026-05-07",
           "event": "Email from David Cooke: 807 Martin St S, Pell City, AL",
@@ -11699,8 +11710,8 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Joey Valenti sent revised Great Greek LOI comments and says rooftop HVAC unit is dead; tenant wants replacement addressed now rather than waiting for existing HVAC LOI trigger.",
-      "nextStep": "Jacob/ownership to decide whether to replace rooftop HVAC now or get HVAC report first.",
+      "status": "Joey Valenti sent revised LOI comments requiring the dead rooftop HVAC unit to be replaced now instead of waiting for the existing HVAC trigger.",
+      "nextStep": "Jacob/ownership need to decide business position on immediate HVAC replacement request.",
       "priority": "high",
       "timeline": [
         {
@@ -11711,6 +11722,11 @@
         {
           "date": "2026-05-08",
           "event": "Joey Valenti sent revised LOI comments requesting dead rooftop HVAC replacement now.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-08",
+          "event": "Great Greek revised LOI asks for dead rooftop HVAC unit replacement now. Thread 19e07d9ce1c04fa4; attachment TGG LOI Meple Row Hendo Foxes T Comments 5-8-2026.docx.",
           "type": "email"
         },
         {
@@ -12189,7 +12205,8 @@
         "Gregory (Great Greek rep)",
         "Bookstore prospect (local operator)",
         "ala h. (Crexi prospect)",
-        "Joey Valenti (Centennial Retail Services)"
+        "Joey Valenti (Centennial Retail Services)",
+        "Joey Valenti"
       ]
     },
     {
@@ -14384,9 +14401,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton",
-      "status": "Due diligence extension amendment was signed and sent back to Ashby on 5/6; Ashby acknowledged receipt.",
+      "status": "Ashby needs approval to share lease excerpts/exhibits with GMX, needs the Family Dollar lease, and may need a clearer Subway premises exhibit.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Monitor May 13 due diligence deadline / Dutch Bros outparcel inspection period.",
+      "nextStep": "Jacob/Micah to approve excerpts, send Family Dollar lease, and clarify/provide Subway premises exhibit if needed.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -14398,6 +14415,11 @@
         "Lisa Sweeney (First American)"
       ],
       "timeline": [
+        {
+          "date": "2026-05-08",
+          "event": "Ashby asked for confirmation to share lease excerpts/exhibits, Family Dollar lease, and possibly clearer Subway premises exhibit. Thread/message 19e045ad3749abd2.",
+          "type": "email"
+        },
         {
           "date": "2026-05-07",
           "event": "Email from Ashby Scott: RE: 2518 Gallatin Partners - Lease Agreement",
@@ -16293,8 +16315,8 @@
       "name": "Emerson Hall",
       "property": "2518 Gallatin Partners / Gallatin",
       "type": "For Lease",
-      "status": "Micah told Ashby to tell tenant counsel Anchor has been communicating with broker, will stay in touch, and expects to sign next week.",
-      "nextStep": "Ashby to relay message to tenant counsel; Jacob/Micah still need final lease execution next week.",
+      "status": "Tenant attorney asked for lease execution update; Micah said it is not signed yet and expects signing next week.",
+      "nextStep": "Jacob/Micah still need to complete lease execution next week.",
       "contacts": [
         "Charles Hawkins (LOI)",
         "Brether group (Event/Entertainment)",
@@ -16302,7 +16324,8 @@
         "Ashby Scott (Evans Petree)",
         "Jordyn Stallings (Cushman & Wakefield)",
         "Rebecca Miller (Buchalter)",
-        "Micah Lacher"
+        "Micah Lacher",
+        "Ashby Scott"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-09",
@@ -16310,6 +16333,11 @@
         {
           "date": "2026-05-08",
           "event": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-08",
+          "event": "Gallatin/Lately Projects lease execution update: Micah replied, 'No ma’am... We should sign it next week.' Thread/messages 19e03a1a99423237 and 19e03c8240da36b2.",
           "type": "email"
         },
         {
