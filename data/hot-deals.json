@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T07:32:02.226393",
+  "lastUpdated": "2026-05-08T08:01:49.554069",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-08",
@@ -42,7 +42,8 @@
       "Roofing contractor language. Add some teeth to the default (overdue — due 2026-03-23)",
       "GMX/Hamilton due diligence extension counterpart remains the highest-clock item for Jacob today.",
       "Emerson/Lately Projects lease signature is still a this-week priority.",
-      "UPS Store McMinnville forms/executed LOI and three draft replies are ready for Jacob approval."
+      "UPS Store McMinnville forms/executed LOI and three draft replies are ready for Jacob approval.",
+      "Coordinate/resolve Marshalls Malone egress issue blocking permit release"
     ]
   },
   "pipelineDeals": [
@@ -8557,15 +8558,20 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "Signed Marshalls NY form received from Melissa Eddy via Slack on 2026-05-06.",
+      "status": "TJX/Marshalls flagged a permitting blocker: city will not release permit until the new egress situation at the vacant space is finalized. Robert Richardson asked Clay/Jacob to coordinate and Josh Conroy to send town markups.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Save/route signed Marshalls form as needed for the Malone transaction file.",
+      "nextStep": "Coordinate with Clay/Josh/TJX on egress markup resolution so the city can release the Marshalls permit.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-05-08",
           "event": "Email from Robert Richardson: New Egress Marshalls Malone NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-08",
+          "event": "Robert Richardson/TJX emailed that city will not release Marshalls permit until new egress at vacant space is finalized.",
           "type": "email"
         },
         {
@@ -9667,7 +9673,10 @@
         "Micah Lacher",
         "Melissa Eddy",
         "Joseph Landry (TJX)",
-        "Melissa Eddy (Anchor)"
+        "Melissa Eddy (Anchor)",
+        "Robert Richardson (TJX)",
+        "Josh Conroy (CT Architecture)",
+        "Clay Richardson (Anchor)"
       ],
       "actions": [
         {
