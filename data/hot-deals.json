@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T08:01:49.554069",
+  "lastUpdated": "2026-05-08T09:03:12.242103",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-08",
@@ -43,7 +43,9 @@
       "GMX/Hamilton due diligence extension counterpart remains the highest-clock item for Jacob today.",
       "Emerson/Lately Projects lease signature is still a this-week priority.",
       "UPS Store McMinnville forms/executed LOI and three draft replies are ready for Jacob approval.",
-      "Coordinate/resolve Marshalls Malone egress issue blocking permit release"
+      "Coordinate/resolve Marshalls Malone egress issue blocking permit release",
+      "Decide response to Great Greek HVAC replacement request / whether to get HVAC report first.",
+      "Get Josh's town egress markups and resolve Marshalls Malone permit hold."
     ]
   },
   "pipelineDeals": [
@@ -8558,10 +8560,10 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "TJX/Marshalls flagged a permitting blocker: city will not release permit until the new egress situation at the vacant space is finalized. Robert Richardson asked Clay/Jacob to coordinate and Josh Conroy to send town markups.",
+      "status": "Robert Richardson/TJX says Marshalls permit is held until new egress at the vacant space is finalized; Josh needs to send town markups to Clay/Jacob.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Coordinate with Clay/Josh/TJX on egress markup resolution so the city can release the Marshalls permit.",
+      "nextStep": "Coordinate with Clay and Josh Conroy on town egress markups so Marshalls permit can be released.",
       "priority": "high",
       "timeline": [
         {
@@ -8572,6 +8574,11 @@
         {
           "date": "2026-05-08",
           "event": "Robert Richardson/TJX emailed that city will not release Marshalls permit until new egress at vacant space is finalized.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-08",
+          "event": "TJX flagged Marshalls permit hold caused by unresolved vacant-space egress situation.",
           "type": "email"
         },
         {
@@ -9676,7 +9683,9 @@
         "Melissa Eddy (Anchor)",
         "Robert Richardson (TJX)",
         "Josh Conroy (CT Architecture)",
-        "Clay Richardson (Anchor)"
+        "Clay Richardson (Anchor)",
+        "Joshua Conroy (CT Architecture)",
+        "Clay Richardson"
       ],
       "actions": [
         {
