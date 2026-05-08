@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T09:03:12.242103",
+  "lastUpdated": "2026-05-08T09:03:35.875645",
   "sourceDoc": "Leasing Meeting Prep - Week of 5.4.26",
   "today": {
     "date": "2026-05-08",
@@ -11694,10 +11694,15 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "New Crexi inquiry from ala h. asking whether the space is available for a dispensary or if dispensary plans exist in the area.",
-      "nextStep": "Jacob to approve/adjust response; likely decline dispensary use at Maple Row unless ownership direction changes.",
-      "priority": "medium",
+      "status": "Joey Valenti sent revised Great Greek LOI comments and says rooftop HVAC unit is dead; tenant wants replacement addressed now rather than waiting for existing HVAC LOI trigger.",
+      "nextStep": "Jacob/ownership to decide whether to replace rooftop HVAC now or get HVAC report first.",
+      "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-08",
+          "event": "Joey Valenti sent revised LOI comments requesting dead rooftop HVAC replacement now.",
+          "type": "email"
+        },
         {
           "date": "2026-05-07",
           "event": "Email from Jason Jiang: LoopNet Lead for Dixie Village Shopping Center",
@@ -12173,7 +12178,8 @@
         "Joey/Gregory (broker contact)",
         "Gregory (Great Greek rep)",
         "Bookstore prospect (local operator)",
-        "ala h. (Crexi prospect)"
+        "ala h. (Crexi prospect)",
+        "Joey Valenti (Centennial Retail Services)"
       ]
     },
     {
