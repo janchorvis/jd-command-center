@@ -1,8 +1,8 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-05-06 6:18 PM CDT
+Last updated: 2026-05-07 6:05 PM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T153 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T154 -->
 
 ## ACTIVE — Jacob needs to do these
 
@@ -37,8 +37,9 @@ Last updated: 2026-05-06 6:18 PM CDT
 - T147: Cleveland Furniture Bank / 6282 Pearl Road — Gmail draft reply loaded for Jacob approval; draft says Jacob will get back up to speed and call Tom. Do not send unless Jacob approves. [gmail thread: 19df98bf8433b87f] [draft: r5088746938907387776] [source: Communication Triage 2026-05-05] [deal: Pearl Road / Cleveland Furniture Bank]
 - T148: GMX / Hamilton Community Partners due diligence extension — Ashby requested signed scanned counterpart for May 13 extension if no comments; high-priority action item because inspection-period clock is running. [gmail thread: 19df518a3f3c4742] [source: Communication Triage 2026-05-05] [deal: Hamilton Community Partners sale]
 - T149: Jordyn Stallings / 2512 Gallatin daycare-playground inquiry — Gmail draft reply loaded for Jacob approval; do not send unless Jacob approves. [gmail thread: 19dfe1672f7faed8] [draft: r9179140411601449754] [source: Communication Triage 2026-05-06 1/2 PM] [deal: 2512 Gallatin]
-- T150: David Cooke / Pell City 807 Martin St S revived project — call David tomorrow morning about revived project. [source: Communication Triage 2026-05-06 5 PM] [deal: Pell City / 807 Martin St S]
+- T150: David Cooke / Pell City 807 Martin St S revived project — call David about revived project. [source: Communication Triage 2026-05-06 5 PM] [deal: Pell City / 807 Martin St S]
 - T151: Dr. Michael Dupre / Pell City lead — follow up on Mathison Slack lead for Dr. Michael Dupre. [source: Communication Triage 2026-05-06 5 PM] [deal: Pell City]
+- T153: Jason Jiang / Dixie Village LoopNet lead — Gmail draft reply loaded for Jacob approval; marked unread for visibility. Do not send unless Jacob approves. [gmail thread: 19e03d4a7035a4fc] [draft: r565593741841704271] [source: Communication Triage 2026-05-07 3 PM] [deal: Dixie Village Shopping Center]
 
 
 ### Next Week+
