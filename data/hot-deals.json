@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T07:16:00.856450",
+  "lastUpdated": "2026-05-11T07:16:08.167730",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-11",
@@ -67,6 +67,11 @@
       "nextStep": "Monitor Tuesday 5/5 survey access; Tim Carlo has contractor and maintenance contacts if additional areas are needed.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-11",
+          "event": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility hits imports; Consumer good",
+          "type": "email"
+        },
         {
           "date": "2026-05-08",
           "event": "Email from Joe Bulovas: Accepted: Coffee / Lunch slots (Joseph Bulovas)",
@@ -6220,6 +6225,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-05-11",
+          "event": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility hits imports; Consumer good",
+          "type": "email"
+        },
+        {
           "date": "2026-05-08",
           "event": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
           "type": "email"
@@ -10338,6 +10348,11 @@
       "contacts": [],
       "timeline": [
         {
+          "date": "2026-05-11",
+          "event": "Email from The Tech Buzz: SignalPulse: Your Weekly Signals, Startups & Deals To Watch Alert:",
+          "type": "email"
+        },
+        {
           "date": "2026-05-08",
           "event": "Email from CRE Daily: Banks Are Chasing Bigger Deals",
           "type": "email"
@@ -13831,6 +13846,21 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-11",
+          "event": "Email from Unknown: Jacob, ICSC Las Vegas Attendee Information",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-10",
+          "event": "Email from Carson West: PCON Grant Approvals - Board Vote",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-10",
+          "event": "Email from Christopher Keenan: PCON Board Meeting Prep | May 11, 2026",
+          "type": "email"
+        },
+        {
           "date": "2026-05-08",
           "event": "Email from Sean Spafford: Follow-Up",
           "type": "email"
@@ -14821,6 +14851,11 @@
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
+          "date": "2026-05-10",
+          "event": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+          "type": "email"
+        },
+        {
           "date": "2026-05-08",
           "event": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
           "type": "email"
@@ -15404,6 +15439,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-05-10",
+          "event": "Email from Katelin Ford: 2831 Columbine Place Nashville, TN | Berry Hill",
+          "type": "email"
+        },
         {
           "date": "2026-05-08",
           "event": "Email from PCON Secretary: Invitation: PCON Board Meeting & Elections | October 2026 @ Mon Oct 12, 2026 6pm",
@@ -18501,6 +18541,21 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-11",
+          "event": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility hits imports; Consumer good",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Email from Unknown: Jacob, ICSC Las Vegas Attendee Information",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-10",
+          "event": "Email from Carson West: PCON Grant Approvals - Board Vote",
+          "type": "email"
+        },
+        {
           "date": "2026-05-08",
           "event": "Email from ICSC Commerce + Communities Today: Angele Robinson-Gaylord Will Be Chief Membership & Strategic Partnerships Office",
           "type": "email"
@@ -19180,729 +19235,729 @@
     {
       "name": "Derek Tucker",
       "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
-      "daysSinceContact": 4,
+      "daysSinceContact": 7,
       "lastAction": "Email from Jacob Delk: Shelbyville, IN",
       "urgency": "low"
     },
     {
       "name": "Carmen Drake",
       "deal": " — Evansville",
-      "daysSinceContact": 3,
+      "daysSinceContact": 6,
       "lastAction": "Email from Jacob Delk: Evansville, IN",
       "urgency": "low"
     },
     {
       "name": "Pesach Gewirtz",
       "deal": "Infinite Equity Capital - 730 — 730",
-      "daysSinceContact": 3,
+      "daysSinceContact": 6,
       "lastAction": "Email from Bisnow Educational Workshops: Final Call: Raising Capital from Family",
       "urgency": "low"
     },
     {
       "name": "Madison Idell - madison.idell@avisonyoung.com - 316-650-4193",
       "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
-      "daysSinceContact": 3,
+      "daysSinceContact": 6,
       "lastAction": "Email from Idell, Madison (Avison Young - US): The Columns - Jackson, TN",
       "urgency": "low"
     },
     {
       "name": "Parker Brennan / Scenthound",
       "deal": "Scenthound — Atlanta Hwy",
-      "daysSinceContact": 2,
+      "daysSinceContact": 5,
       "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
       "urgency": "low"
     },
     {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Jason Jiang: LoopNet Lead for Dixie Village Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Justin N Gabson: Highlighting Leadership Moves in Nashville Tech",
       "urgency": "low"
     },
     {
       "name": "Dwaine High",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Justin N Gabson: Highlighting Leadership Moves in Nashville Tech",
       "urgency": "low"
     },
     {
       "name": "Kevin True",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Bell",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Spencer",
       "deal": "Royal Furniture — McMinnville Plaza",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Sheldon",
       "deal": "Royal Furniture — McMinnville Plaza",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Peter Adams",
       "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Joe Wesley",
       "deal": " — McMinnville Plaza",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": " — McMinnville Plaza",
-      "daysSinceContact": 1,
+      "daysSinceContact": 4,
       "lastAction": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Paul",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Joe Bulovas: Accepted: Coffee / Lunch slots (Joseph Bulovas)",
-      "urgency": "low"
-    },
-    {
-      "name": "Joseph Landry",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Joe Bulovas: Accepted: Coffee / Lunch slots (Joseph Bulovas)",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Joe Bulovas: Accepted: Coffee / Lunch slots (Joseph Bulovas)",
-      "urgency": "low"
-    },
-    {
-      "name": "Vayda Good",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Joe Bulovas: Accepted: Coffee / Lunch slots (Joseph Bulovas)",
-      "urgency": "low"
-    },
-    {
-      "name": "Desiree Warren",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Joe Bulovas: Accepted: Coffee / Lunch slots (Joseph Bulovas)",
-      "urgency": "low"
-    },
-    {
-      "name": "Brian Connell",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Joe Bulovas: Accepted: Coffee / Lunch slots (Joseph Bulovas)",
-      "urgency": "low"
-    },
-    {
-      "name": "Desiree Warren",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Joe Bulovas: Accepted: Coffee / Lunch slots (Joseph Bulovas)",
-      "urgency": "low"
-    },
-    {
-      "name": "Brian Connell",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Joe Bulovas: Accepted: Coffee / Lunch slots (Joseph Bulovas)",
-      "urgency": "low"
-    },
-    {
-      "name": "Manuel Veliz",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Joe Bulovas: Accepted: Coffee / Lunch slots (Joseph Bulovas)",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Joe Bulovas: Accepted: Coffee / Lunch slots (Joseph Bulovas)",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Joe Bulovas: Accepted: Coffee / Lunch slots (Joseph Bulovas)",
-      "urgency": "low"
-    },
-    {
-      "name": "Manuel Veliz",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Joe Bulovas: Accepted: Coffee / Lunch slots (Joseph Bulovas)",
-      "urgency": "low"
-    },
-    {
-      "name": "Tim Carlo",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Joe Bulovas: Accepted: Coffee / Lunch slots (Joseph Bulovas)",
-      "urgency": "low"
-    },
-    {
-      "name": "Frank Soranno",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Joe Bulovas: Accepted: Coffee / Lunch slots (Joseph Bulovas)",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
       "urgency": "low"
     },
     {
       "name": "Tony Grillo",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
       "urgency": "low"
     },
     {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from ICSC Commerce + Communities Today: Angele Robinson-Gaylord Will Be Ch",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty - jpetty@southeastventure.com",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
       "urgency": "low"
     },
     {
       "name": "Lauri Fowler",
       "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Mathison Ingham: Fwd: Expansion Opportunity Inquiry – Tractor Supply ",
       "urgency": "low"
     },
     {
       "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
       "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Mathison Ingham: Fwd: Expansion Opportunity Inquiry – Tractor Supply ",
       "urgency": "low"
     },
     {
       "name": "David Cooke",
       "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Mathison Ingham: Fwd: Expansion Opportunity Inquiry – Tractor Supply ",
       "urgency": "low"
     },
     {
       "name": "Abbey Gill",
       "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Mathison Ingham: Fwd: Expansion Opportunity Inquiry – Tractor Supply ",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from CoStar Client Success Team: Register now: CoStar prospecting and mark",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from CoStar Client Success Team: Register now: CoStar prospecting and mark",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from CoStar Client Success Team: Register now: CoStar prospecting and mark",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from CoStar Client Success Team: Register now: CoStar prospecting and mark",
       "urgency": "low"
     },
     {
       "name": "ala h.",
       "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from CoStar Client Success Team: Register now: CoStar prospecting and mark",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from CoStar Client Success Team: Register now: CoStar prospecting and mark",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from CoStar Client Success Team: Register now: CoStar prospecting and mark",
-      "urgency": "low"
-    },
-    {
-      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
-      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Lisa Sweeney",
       "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
-      "urgency": "low"
-    },
-    {
-      "name": "Shelby Hall",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Phillip Kemp",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Kemp",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
-      "urgency": "low"
-    },
-    {
-      "name": "Matty",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashley Marshall",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
-      "urgency": "low"
-    },
-    {
-      "name": "Bill Adair",
-      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
-      "urgency": "low"
-    },
-    {
-      "name": "Julie Robbins",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from PCON Secretary: Invitation: PCON Board Meeting & Elections | October ",
-      "urgency": "low"
-    },
-    {
-      "name": "Michael Dunn",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from PCON Secretary: Invitation: PCON Board Meeting & Elections | October ",
-      "urgency": "low"
-    },
-    {
-      "name": "Cole @ DR Horton",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from PCON Secretary: Invitation: PCON Board Meeting & Elections | October ",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Jordyn Stallings/USA: 2512 Gallatin Avenue Inquiry",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Jordyn Stallings/USA: 2512 Gallatin Avenue Inquiry",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Jordyn Stallings/USA: 2512 Gallatin Avenue Inquiry",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Jordyn Stallings/USA: 2512 Gallatin Avenue Inquiry",
       "urgency": "low"
     },
     {
       "name": "Jordyn Stallings",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Jordyn Stallings/USA: 2512 Gallatin Avenue Inquiry",
       "urgency": "low"
     },
     {
       "name": "Rebecca Miller",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Jordyn Stallings/USA: 2512 Gallatin Avenue Inquiry",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Jordyn Stallings/USA: 2512 Gallatin Avenue Inquiry",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Jordyn Stallings/USA: 2512 Gallatin Avenue Inquiry",
       "urgency": "low"
     },
     {
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Ashby Scott: FW: Proposed Marshalls Store in Malone, NY",
-      "urgency": "low"
-    },
-    {
-      "name": "Juliana Fernandez",
-      "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
-      "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: Angele Robinson-Gaylord Will Be Ch",
-      "urgency": "low"
-    },
-    {
-      "name": "Carson Knight",
-      "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
-      "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: Angele Robinson-Gaylord Will Be Ch",
       "urgency": "low"
     },
     {
       "name": "Tom Gaghan",
       "deal": "Cleveland Furniture Bank — 6282 Pearl Road, Parma Heights",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from CRE Daily: Banks Are Chasing Bigger Deals",
       "urgency": "low"
     },
     {
       "name": "Tom Gaghan - 440-263-9792 - tom@clevelandfurniturebank.org",
       "deal": "Cleveland Furniture Bank — 6282 Pearl Road, Parma Heights",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from CRE Daily: Banks Are Chasing Bigger Deals",
       "urgency": "low"
     },
     {
       "name": "Jordyn Stallings",
       "deal": "Jordyn Stallings - Daycare Inquiry — 2512 Gallatin Avenue",
-      "daysSinceContact": 0,
+      "daysSinceContact": 3,
       "lastAction": "Email from Jordyn Stallings/USA: 2512 Gallatin Avenue Inquiry",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+      "urgency": "low"
+    },
+    {
+      "name": "Shelby Hall",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Phillip Kemp",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Kemp",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+      "urgency": "low"
+    },
+    {
+      "name": "Matty",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashley Marshall",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+      "urgency": "low"
+    },
+    {
+      "name": "Bill Adair",
+      "deal": "HopeSmiles — Creekside Crossing / Westwood South",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+      "urgency": "low"
+    },
+    {
+      "name": "Julie Robbins",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Katelin Ford: 2831 Columbine Place Nashville, TN | Berry Hill",
+      "urgency": "low"
+    },
+    {
+      "name": "Michael Dunn",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Katelin Ford: 2831 Columbine Place Nashville, TN | Berry Hill",
+      "urgency": "low"
+    },
+    {
+      "name": "Cole @ DR Horton",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Katelin Ford: 2831 Columbine Place Nashville, TN | Berry Hill",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
+      "urgency": "low"
+    },
+    {
+      "name": "Joseph Landry",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
+      "urgency": "low"
+    },
+    {
+      "name": "Vayda Good",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
+      "urgency": "low"
+    },
+    {
+      "name": "Desiree Warren",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
+      "urgency": "low"
+    },
+    {
+      "name": "Brian Connell",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
+      "urgency": "low"
+    },
+    {
+      "name": "Desiree Warren",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
+      "urgency": "low"
+    },
+    {
+      "name": "Brian Connell",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
+      "urgency": "low"
+    },
+    {
+      "name": "Manuel Veliz",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
+      "urgency": "low"
+    },
+    {
+      "name": "Manuel Veliz",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
+      "urgency": "low"
+    },
+    {
+      "name": "Tim Carlo",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
+      "urgency": "low"
+    },
+    {
+      "name": "Frank Soranno",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty - jpetty@southeastventure.com",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
+      "urgency": "low"
+    },
+    {
+      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
+      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Unknown: Jacob, ICSC Las Vegas Attendee Information",
+      "urgency": "low"
+    },
+    {
+      "name": "Juliana Fernandez",
+      "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
+      "urgency": "low"
+    },
+    {
+      "name": "Carson Knight",
+      "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility",
       "urgency": "low"
     }
   ],
