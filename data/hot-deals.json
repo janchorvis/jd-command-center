@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T13:05:02.531061",
+  "lastUpdated": "2026-05-11T13:05:51.855478",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-11",
@@ -58,7 +58,16 @@
       "Leasing meeting at 10:30 AM: prep commissions, Five Below/Malone lease/exhibits, GMX/Hamilton REA, Great Greek HVAC, Adam onboarding, and Buena Vista send-out priorities.",
       "Marshalls/Malone: track noon egress call and confirm architect revisions today.",
       "Join or coordinate Marshalls Malone NY permit / egress questions meeting.",
-      "Review Evansville Big Lots photos for Mitch Ernest / box follow-up."
+      "Review Evansville Big Lots photos for Mitch Ernest / box follow-up.",
+      "Order/find a longer meeting-room HDMI/USB-C cord and consider a cleaner cord-management box/system.",
+      "Send Five Below lease to Ashby and ask for redline comments, ideally with a Thursday call/timeframe.",
+      "Send Clay McMinnville facade/screening example screenshots and ask contractors for value-engineering ideas before promising upgrades to UPS/Wingstop.",
+      "Follow up with Easterseals/Laurie: another interested party is active, ask for CEO feedback in 10-14 days while communicating fairly.",
+      "Confirm Keystone fireworks lease language/billing treatment before DocuSigns; make sure property partnerships are credited/billed correctly.",
+      "Share Claude Design access/workspace with Micah if not already shared.",
+      "Continue Fostr/Yardi mapping follow-up with Hannah, especially property code/address/GL mapping and June 1 rollout readiness.",
+      "Send April commission payment instructions to Carole: Montgomery/QT Nails pay first half, Malone/Shoe Dept hold, Russellville/ABC book and pay when cash allows.",
+      "Bump Jacob's base comp to $65K for now and revisit leasing commission/company-performance incentive structure later in 2026."
     ]
   },
   "pipelineDeals": [
@@ -66,9 +75,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below survey access coordination moved forward. Frank Soranno/Storecrafters provided direct cell 585-736-1826 and plaza maintenance contact 518-651-9085 for Tuesday 5/5 survey access; Clay remains reachable at 615-200-0809.",
+      "status": "Five Below attorney lease draft is in hand; Jacob plans to read it this week and send it to Ashby now so she can start a redline review instead of handwritten comments. Business points can be handled separately while legal markup proceeds.",
       "stage": "Lease Signed",
-      "nextStep": "Monitor Tuesday 5/5 survey access; Tim Carlo has contractor and maintenance contacts if additional areas are needed.",
+      "nextStep": "Jacob to review Five Below lease this week, send to Ashby, and ask for redline comments with a Thursday call/timeframe.",
       "priority": "high",
       "timeline": [
         {
@@ -94,6 +103,11 @@
         {
           "date": "2026-05-11",
           "event": "TJX sent revised-plan direction and says the new Shoe Store wall should be landlord responsibility because it creates common area; A&E set attached. Source: Gmail thread 19e171d0f286de0c / msg 19e17e8e502205e4."
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Meeting: agreed to get Ashby started on Five Below lease redline review this week.",
+          "type": "meeting"
         },
         {
           "date": "2026-05-08",
@@ -1280,7 +1294,8 @@
         "Clay Richardson (Anchor)",
         "Manuel Veliz (Sargenti Architects)",
         "Tim Carlo (surveyor)",
-        "Frank Soranno (Storecrafters)"
+        "Frank Soranno (Storecrafters)",
+        "Ashby (Attorney)"
       ],
       "actions": [
         {
@@ -1309,15 +1324,20 @@
       "id": "malone-shoe-dept",
       "name": "Shoe Dept",
       "property": "Malone Plaza",
-      "status": "Shoe Dept permitting/fixture coordination active. Tony asked whether fixtures can be under landlord build-out permit and who obtains CO; Clay looped architect Shaun, who said Malone is easy and fixture drawings could likely be submitted as permit supplement if GC is comfortable. Tony then asked whether fixtures will be shown on permit plans.",
+      "status": "Commission treatment discussed: hold Shoe Dept commission for later payment; if a property is selling, consider paying commissions before close to avoid buyer diligence/closing ambiguity.",
       "stage": "Lease Signed",
-      "nextStep": "Shaun/Clay need to confirm fixture plan treatment and CO/permit path with Tony.",
-      "priority": "high",
+      "nextStep": "Keep Shoe Dept commission on hold unless/until payment timing is intentionally released.",
+      "priority": "medium",
       "timeline": [
         {
           "date": "2026-05-11",
           "event": "Email from Robert Richardson: Permit Marshalls Malone NY",
           "type": "email"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Meeting: Shoe Dept commission should remain held for later payment.",
+          "type": "meeting"
         },
         {
           "date": "2026-05-08",
@@ -3671,11 +3691,16 @@
       "id": "gastonia-laundromat",
       "name": "Chad Vang - Laundromat",
       "property": "Gastonia - Dixie Village",
-      "status": "Lease sent to Chad Vang, waiting on signature.",
+      "status": "Chad Vang laundromat follow-up moved to a later calendar call because their other laundromat has taken longer than expected; no active chase until the scheduled circle-back.",
       "stage": "LOI",
-      "nextStep": "Wait for signed lease.",
-      "priority": "medium",
+      "nextStep": "Wait for the scheduled call roughly four weeks out; do not keep chasing in the meantime.",
+      "priority": "low",
       "timeline": [
+        {
+          "date": "2026-05-11",
+          "event": "Meeting: Chad Vang laundromat deferred to scheduled four-week circle-back call.",
+          "type": "meeting"
+        },
         {
           "date": "2026-05-07",
           "event": "Email from Jason Jiang: LoopNet Lead for Dixie Village Shopping Center",
@@ -4013,7 +4038,8 @@
         }
       ],
       "contacts": [
-        "Chad Vang"
+        "Chad Vang",
+        "Chad Vang (Laundromat)"
       ],
       "actions": [
         {
@@ -4153,9 +4179,9 @@
       "id": "russellville-abc",
       "name": "ABC Retail",
       "property": "Russellville",
-      "status": "Waiting on signed lease.",
+      "status": "Commission treatment discussed: hold ABC Store/Russellville commission for later payment while Russellville cash position improves; Carole should use judgment and put it on the books, then pay when able.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Wait for execution.",
+      "nextStep": "Tell Carole to put Russellville ABC commission on the books and pay when cash position permits.",
       "priority": "medium",
       "timeline": [
         {
@@ -4167,6 +4193,11 @@
           "date": "2026-05-11",
           "event": "Email from Joey Valenti: The Great Greek Hendersonville",
           "type": "email"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Meeting: Russellville ABC commission should be booked but paid later when cash position allows.",
+          "type": "meeting"
         },
         {
           "date": "2026-05-08",
@@ -5000,7 +5031,8 @@
         }
       ],
       "contacts": [
-        "Melissa Eddy"
+        "Melissa Eddy",
+        "Carole (Accounting)"
       ],
       "actions": [
         {
@@ -5984,14 +6016,19 @@
       "id": "montgomery-qt-nails",
       "name": "QT Nails",
       "property": "Montgomery (1642 Atlanta HWY)",
-      "status": "QT Nails lease signed per pipeline status",
+      "status": "Commission treatment confirmed as standard pay-first-half/hold-second-half until open/commencement; no special hold concern beyond normal timing.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
       "stageOverrideDate": "2026-03-12",
       "stageOverrideSource": "email-signal: DocuSign completion",
-      "nextStep": "Done - move to completed deals. Celebrate the W.",
+      "nextStep": "Send/pay first half commission and hold second half until QT Nails opens/commences June 1.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-11",
+          "event": "Meeting: QT Nails commission treatment discussed as pay first half and hold second half until commencement/opening.",
+          "type": "meeting"
+        },
         {
           "date": "2026-05-07",
           "event": "Email from Justin N Gabson: Highlighting Leadership Moves in Nashville Tech",
@@ -6287,9 +6324,9 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "Fully executed LOI returned. Jon Petty asked whether Anchor has a preferred financial/application form for Amy and Matt to fill out.",
+      "status": "UPS Store LOI is signed; UPS and Wingstop are not requiring McMinnville facade work, only expressing preference. Anchor will not promise facade upgrades until pricing is known.",
       "stage": "Lease Signed",
-      "nextStep": "Send Jon Petty the preferred application/financial form or confirm what financials are needed for lease drafting.",
+      "nextStep": "Proceed toward lease/REC path and price/value-engineer any facade work before making commitments to tenants.",
       "priority": "high",
       "timeline": [
         {
@@ -6301,6 +6338,11 @@
           "date": "2026-05-11",
           "event": "Email from Chain Store Age: DayBreaker: See who’s opening new stores; Volatility hits imports; Consumer good",
           "type": "email"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Meeting: confirmed UPS Store LOI signed and no facade upgrade commitment should be promised until pricing is known.",
+          "type": "meeting"
         },
         {
           "date": "2026-05-08",
@@ -11179,16 +11221,18 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Scott Myers followed up for printing-client lead asking whether the 1,300 SF portion is still available; 2,500 SF is too large for client.",
+      "status": "Pell City middle-space/home-health and related prospects are still competitive. Micah/Jacob want Easterseals to hear that another interested party exists and to get CEO feedback within roughly 10-14 days without creating false pressure.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob needs to confirm whether 1,300 SF lease went through or offer another small-space path.",
+      "nextStep": "Tell Easterseals/Laurie another interested party is active and ask whether she can get CEO feedback in the next 10-14 days; continue tracking HVAC/buildout reports for competing prospects.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
         "David Cooke (Cooke Commercial) - david@cookecommercial.com - 214-274-8020",
         "David Cooke",
         "Abbey Gill (Tractor Supply Real Estate, abgill@tractorsupply.com, 615-933-1386)",
-        "Scott Myers <smyerscre2@outlook.com>"
+        "Scott Myers <smyerscre2@outlook.com>",
+        "Laurie (Easterseals)",
+        "Mitch (Pell City prospect contact)"
       ],
       "timeline": [
         {
@@ -11214,6 +11258,11 @@
         {
           "date": "2026-05-11",
           "event": "Scott Myers followed up asking whether the 1,300 SF lease went through because 2,500 SF is too large for his client; Jacob likely needs to answer availability. Source: Gmail thread 19d9c95f0ddf5a71 / msg 19e17e2723663e5e."
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Meeting: Easterseals follow-up should communicate another interested party and request CEO feedback within 10-14 days.",
+          "type": "meeting"
         },
         {
           "date": "2026-05-08",
@@ -11598,15 +11647,21 @@
       "id": "mcminnville-plaza",
       "name": "",
       "property": "McMinnville Plaza",
-      "status": "UPS Store site approval package moved forward: Jon Petty confirmed the deal is for the first space they walked into, not the vacuum cleaner space, and said the suite number can be changed in the final LOI.",
+      "status": "Facade discussion advanced: use Clay/contractors to evaluate lower-cost ways to improve the look and screen rooftop/mechanical visibility rather than blindly pricing the architect's metal facade concept.",
       "stage": "LOI",
-      "nextStep": "Wait for Jon/Amy to return signed LOI; final LOI should correct the suite number.",
+      "nextStep": "Jacob to send Clay example screenshots and ask contractors for cost-saving alternatives that accomplish the same facade/screening effect.",
       "priority": "high",
       "contacts": [
         "Joe Wesley (wesleyjoe829@gmail.com, 213-872-0190)",
-        "Jon Petty (Southeast Venture)"
+        "Jon Petty (Southeast Venture)",
+        "Clay Richardson (Construction)"
       ],
       "timeline": [
+        {
+          "date": "2026-05-11",
+          "event": "Meeting: McMinnville facade should be value-engineered with Clay/contractors before any promise to tenants.",
+          "type": "meeting"
+        },
         {
           "date": "2026-05-07",
           "event": "Email from Jon Petty: RE: UPS LOI- McMinnville Plaza- Suite 108",
@@ -12019,8 +12074,8 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Great Greek HVAC issue is moving: Melissa will get an HVAC vendor out ASAP and circle back after identifying the vendor.",
-      "nextStep": "Wait for HVAC report, then decide whether to replace unit before finalizing LOI.",
+      "status": "HVAC unit issue remains active. Jacob/Micah posture: if the Fox's/Great Greek unit is old but working, do not replace it; if report says it is actually shot, decide from the report rather than tenant contractor claims.",
+      "nextStep": "Wait for HVAC report/vendor read, then respond to Joey from the report; do not commit to replacement solely on EJ/tenant-contractor claim.",
       "priority": "high",
       "timeline": [
         {
@@ -12047,6 +12102,11 @@
           "date": "2026-05-11",
           "event": "Inbox: Melissa said she will get HVAC vendor out ASAP for Great Greek/Fox's Pizza unit report.",
           "type": "email"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Meeting: Great Greek HVAC posture set as inspect first; replace only if report proves unit is shot.",
+          "type": "meeting"
         },
         {
           "date": "2026-05-10",
@@ -12552,21 +12612,28 @@
         "Joey Valenti (Centennial Retail Services)",
         "Joey Valenti",
         "Melissa Drish <mdrish@anchorinv.com>",
-        "Joey Valenti <jvalenti@centenretail.com>"
+        "Joey Valenti <jvalenti@centenretail.com>",
+        "Joey (Great Greek Broker)",
+        "EJ (Tenant Contractor)"
       ]
     },
     {
       "id": "evansville-easterseals",
       "tenant": "Easterseals Rehabilitation",
       "property": "Evansville",
-      "status": "Nonprofit rehab clinic interested in BUYING Big Lots box. Two properties in Evansville, developing nearby.",
-      "nextStep": "Jacob: tell Brian - get box pricing THIS WEEK. Pitch ~$75/ft. Research REA.",
+      "status": "Still waiting on Laurie/CEO feedback; meeting was cancelled due CEO schedule/DC travel. Meeting guidance: follow up and communicate another interested party while keeping tone fair and transparent.",
+      "nextStep": "Ping Laurie for update and ask for CEO feedback within 10-14 days because another interested party is active.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-05-11",
           "event": "Email from Melissa Drish: Big Lots space-Evansville IN-space pics",
           "type": "email"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Meeting: Easterseals update remains pending; follow-up should mention another interested party and request CEO timing.",
+          "type": "meeting"
         },
         {
           "date": "2026-05-05",
@@ -12612,7 +12679,10 @@
         "avgSqFt": 14796,
         "suiteCount": 7,
         "vacantCount": 0
-      }
+      },
+      "contacts": [
+        "Laurie (Easterseals)"
+      ]
     },
     {
       "id": "shelbyville-cosmoprof",
@@ -15079,8 +15149,8 @@
       "name": "HopeSmiles",
       "property": "Creekside Crossing / Westwood South",
       "type": "Tenant Rep",
-      "status": "HopeSmiles office requirement remains active. Jacob followed up 4/30 with Creekside Crossing and Highwoods after touring options, asking for discussion on Westwood South and Creekside options.",
-      "nextStep": "Wait for JLL/Highwoods responses to Jacob's 4/30 follow-ups on Creekside and Westwood South.",
+      "status": "HopeSmiles tenant profile PDF for Creekside Crossing landlord was created and sent/slacked for review. Early reaction from Amy was positive; Jacob used Claude Design to make the tenant profile more polished for landlord questions about what HopeSmiles does and financial strength.",
+      "nextStep": "Wait for landlord/broker response to the HopeSmiles profile and use the polished PDF as support for Creekside/Highwoods discussions.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -15090,7 +15160,8 @@
         "Amy",
         "Matty",
         "Ashley Marshall (JLL)",
-        "Bill Adair (JLL)"
+        "Bill Adair (JLL)",
+        "Amy (HopeSmiles)"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-11",
@@ -15099,6 +15170,11 @@
           "date": "2026-05-11",
           "event": "Email from Robert Richardson: Permit Marshalls Malone NY",
           "type": "email"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Meeting: HopeSmiles profile PDF reviewed positively and positioned as landlord-facing support material.",
+          "type": "meeting"
         },
         {
           "date": "2026-05-10",
@@ -18689,12 +18765,19 @@
       "id": "fireworks-stands",
       "name": "Fireworks Stands",
       "property": "Multiple Sites",
-      "status": "Approved for multiple sites, June 25 - July 4 window.",
+      "status": "Keystone fireworks stand leases are ready to go out via DocuSign for Hickory Village, Dixie Village, McMinnville Plaza, Millington Plaza, Forks of the River, and Malone Big Lots/Malone Plaza. Economics discussed as roughly $2,000 first year per site; suggested handling is $500 per lease to Anchor/Jacob and $1,500 found-money to each partnership/property, with partnership billing clarity.",
       "stage": "Trading Terms",
-      "nextStep": "Coordinate site access and logistics for June 25 - July 4.",
-      "priority": "low",
-      "contacts": [],
+      "nextStep": "Confirm lease language is narrow enough, then send DocuSigns; make sure property partnerships are billed/credited correctly so Anchor does not pay costs without property reimbursement.",
+      "priority": "medium",
+      "contacts": [
+        "Keystone Fireworks"
+      ],
       "timeline": [
+        {
+          "date": "2026-05-11",
+          "event": "Meeting: Keystone fireworks leases ready for DocuSign across six sites with partnership/Anchor billing treatment discussed.",
+          "type": "meeting"
+        },
         {
           "date": "2026-05-06",
           "event": "Email from Curt Nading: Driven Brands Holdings is looking for (automotive) sites in Charlotte",
