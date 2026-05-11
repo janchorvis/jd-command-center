@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T07:31:44.569846",
+  "lastUpdated": "2026-05-11T08:02:10.751486",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-11",
@@ -8660,12 +8660,17 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "City will not release the Marshalls permit until the vacant-space egress issue is finalized.",
+      "status": "TJX requested a quick Teams call at noon or 1 PM today to address City egress comments; Josh was asked whether revisions discussed will be done today.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Coordinate with Clay/Josh Conroy/TJX on town egress markups so the permit can be released.",
+      "nextStep": "Coordinate noon/1 PM call and confirm CTArch revisions today.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-11",
+          "event": "TJX requested same-day call to resolve City egress permit comments for Marshalls Malone.",
+          "type": "email"
+        },
         {
           "date": "2026-05-08",
           "event": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
@@ -9810,7 +9815,8 @@
         "Josh Conroy (CT Architecture)",
         "Clay Richardson (Anchor)",
         "Joshua Conroy (CT Architecture)",
-        "Clay Richardson"
+        "Clay Richardson",
+        "Josh Conroy (CTArch)"
       ],
       "actions": [
         {
