@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T12:03:42.140843",
+  "lastUpdated": "2026-05-11T12:30:35.047355",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-11",
@@ -5023,6 +5023,11 @@
       "nextStep": "Jacob on call with Ashby at 10 AM — get through comments, push for signature",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-11",
+          "event": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+          "type": "email"
+        },
         {
           "date": "2026-05-11",
           "event": "Email from Craige Pearson: NEW SPACE AVAILABLE | Hixson, TN",
@@ -11184,6 +11189,11 @@
       "timeline": [
         {
           "date": "2026-05-11",
+          "event": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-11",
           "event": "Email from Robert Richardson: Marshalls Malone NY Permit / Egress Questions from City",
           "type": "email"
         },
@@ -11490,12 +11500,27 @@
       "timeline": [
         {
           "date": "2026-05-11",
+          "event": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Email from Jacob Delk: New Memphis Building",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-11",
           "event": "Email from Melissa Drish: Big Lots space-Evansville IN-space pics",
           "type": "email"
         },
         {
           "date": "2026-05-11",
           "event": "Inbox: Melissa sent Big Lots Evansville space photos.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-10",
+          "event": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
           "type": "email"
         },
         {
@@ -11992,12 +12017,32 @@
       "timeline": [
         {
           "date": "2026-05-11",
+          "event": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Email from Melissa Drish: Big Lots space-Evansville IN-space pics",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Email from Jacob Delk: New Memphis Building",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-11",
           "event": "Email from Joey Valenti: The Great Greek Hendersonville",
           "type": "email"
         },
         {
           "date": "2026-05-11",
           "event": "Inbox: Melissa said she will get HVAC vendor out ASAP for Great Greek/Fox's Pizza unit report.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-10",
+          "event": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
           "type": "email"
         },
         {
@@ -12613,6 +12658,11 @@
       "nextStep": "Keep pressure on all active prospects and let speed determine space control.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-11",
+          "event": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+          "type": "email"
+        },
         {
           "date": "2026-05-11",
           "event": "Email from Robert Richardson: Marshalls Malone NY Permit / Egress Questions from City",
@@ -14760,6 +14810,11 @@
       "timeline": [
         {
           "date": "2026-05-11",
+          "event": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-11",
           "event": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
           "type": "email"
         },
@@ -16763,6 +16818,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-05-11",
+          "event": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+          "type": "email"
+        },
         {
           "date": "2026-05-11",
           "event": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
@@ -19733,28 +19793,28 @@
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Craige Pearson: NEW SPACE AVAILABLE | Hixson, TN",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Craige Pearson: NEW SPACE AVAILABLE | Hixson, TN",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Craige Pearson: NEW SPACE AVAILABLE | Hixson, TN",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Craige Pearson: NEW SPACE AVAILABLE | Hixson, TN",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
@@ -19919,87 +19979,129 @@
       "urgency": "low"
     },
     {
+      "name": "Robert Richardson <Robert_Richardson@tjx.com>",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Melissa Drish: Big Lots space-Evansville IN-space pics",
+      "urgency": "low"
+    },
+    {
+      "name": "Shaun Andriano <andriano@c2-designgroup.com>",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Melissa Drish: Big Lots space-Evansville IN-space pics",
+      "urgency": "low"
+    },
+    {
       "name": "Lauri Fowler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Marshalls Malone NY Permit / Egress Questions from",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
       "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Marshalls Malone NY Permit / Egress Questions from",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
       "name": "David Cooke",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Marshalls Malone NY Permit / Egress Questions from",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
       "name": "Abbey Gill",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Marshalls Malone NY Permit / Egress Questions from",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "urgency": "low"
+    },
+    {
+      "name": "Scott Myers <smyerscre2@outlook.com>",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
       "name": "Carmen Drake",
       "deal": " — Evansville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Melissa Drish: Big Lots space-Evansville IN-space pics",
+      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
+      "urgency": "low"
+    },
+    {
+      "name": "Melissa Drish <mdrish@anchorinv.com>",
+      "deal": " — Evansville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: The Great Greek Hendersonville",
+      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: The Great Greek Hendersonville",
+      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: The Great Greek Hendersonville",
+      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: The Great Greek Hendersonville",
+      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
       "urgency": "low"
     },
     {
       "name": "ala h.",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: The Great Greek Hendersonville",
+      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: The Great Greek Hendersonville",
+      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: The Great Greek Hendersonville",
+      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
+      "urgency": "low"
+    },
+    {
+      "name": "Melissa Drish <mdrish@anchorinv.com>",
+      "deal": " — Maple Row Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
+      "urgency": "low"
+    },
+    {
+      "name": "Joey Valenti <jvalenti@centenretail.com>",
+      "deal": " — Maple Row Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
       "urgency": "low"
     },
     {
@@ -20013,49 +20115,49 @@
       "name": "Ashby",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
       "name": "Lisa Sweeney",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
@@ -20146,56 +20248,56 @@
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
       "name": "Jordyn Stallings",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
       "name": "Rebecca Miller",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Time to run payroll for Anchor Investments",
+      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
       "urgency": "low"
     },
     {
