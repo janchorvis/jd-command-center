@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T11:30:25.587177",
+  "lastUpdated": "2026-05-11T12:03:42.140843",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-11",
@@ -8728,10 +8728,10 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "TJX sent Teams meeting invite for Marshalls Malone NY permit / egress questions from City.",
+      "status": "TJX/Marshalls permit egress issue active. Robert Richardson says Marshalls plans need revision and landlord should build new Shoe Store/common-area wall because Marshalls cannot exit through another tenant/compactor area.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Jacob/Clay/architect team to join or coordinate response on permit egress questions.",
+      "nextStep": "Coordinate with Clay/Shaun/Josh on plan revisions and landlord wall responsibility today.",
       "priority": "high",
       "timeline": [
         {
@@ -8767,6 +8767,11 @@
         {
           "date": "2026-05-11",
           "event": "TJX sent Teams meeting invite for Malone NY permit / egress questions from City.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Inbox: TJX said Marshalls plans need revision; LL wall required to create common area for egress/compactor separation.",
           "type": "email"
         },
         {
@@ -9916,7 +9921,9 @@
         "Clay Richardson",
         "Josh Conroy (CTArch)",
         "Joshua Conroy",
-        "Shaun Andriano"
+        "Shaun Andriano",
+        "Robert Richardson <Robert_Richardson@tjx.com>",
+        "Shaun Andriano <andriano@c2-designgroup.com>"
       ],
       "actions": [
         {
@@ -11163,15 +11170,16 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Tractor Supply real estate contacted Anchor/Property Management asking about existing or upcoming vacancies, adjacent space, expansion opportunities, redevelopment plans, and any options to add square footage or improve operations for store #2170.",
+      "status": "Scott Myers followed up for printing-client lead asking whether the 1,300 SF portion is still available; 2,500 SF is too large for client.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob/Clay should decide whether Pell City has any expansion/vacancy/redevelopment response for Tractor Supply.",
+      "nextStep": "Jacob needs to confirm whether 1,300 SF lease went through or offer another small-space path.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
         "David Cooke (Cooke Commercial) - david@cookecommercial.com - 214-274-8020",
         "David Cooke",
-        "Abbey Gill (Tractor Supply Real Estate, abgill@tractorsupply.com, 615-933-1386)"
+        "Abbey Gill (Tractor Supply Real Estate, abgill@tractorsupply.com, 615-933-1386)",
+        "Scott Myers <smyerscre2@outlook.com>"
       ],
       "timeline": [
         {
@@ -11182,6 +11190,11 @@
         {
           "date": "2026-05-11",
           "event": "Email from David Berger: Complimentary access to Lev before ICSC",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Inbox: Scott Myers asked if 1,300 SF Pell City portion is still available; 2,500 SF too large.",
           "type": "email"
         },
         {
@@ -11466,17 +11479,23 @@
       "id": "evansville",
       "name": "",
       "property": "Evansville",
-      "status": "Carmen Drake / Bellacino's is ready for Jacob to call and discuss moving forward with PSA after returning from Florida.",
+      "status": "Melissa sent interior/exterior photo set for the Big Lots space in Evansville.",
       "stage": "Trading Terms",
-      "nextStep": "Jacob to call Carmen Drake to discuss moving forward with PSA.",
+      "nextStep": "Use space photos for Evansville box marketing/prospect follow-up.",
       "priority": "high",
       "contacts": [
-        "Carmen Drake (Bellacino's Pizza & Grinders / Runnebohm Realty)"
+        "Carmen Drake (Bellacino's Pizza & Grinders / Runnebohm Realty)",
+        "Melissa Drish <mdrish@anchorinv.com>"
       ],
       "timeline": [
         {
           "date": "2026-05-11",
           "event": "Email from Melissa Drish: Big Lots space-Evansville IN-space pics",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Inbox: Melissa sent Big Lots Evansville space photos.",
           "type": "email"
         },
         {
@@ -11967,13 +11986,18 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Joey Valenti sent revised LOI comments requiring the dead rooftop HVAC unit to be replaced now instead of waiting for the existing HVAC trigger.",
-      "nextStep": "Jacob/ownership need to decide business position on immediate HVAC replacement request.",
+      "status": "Great Greek HVAC issue is moving: Melissa will get an HVAC vendor out ASAP and circle back after identifying the vendor.",
+      "nextStep": "Wait for HVAC report, then decide whether to replace unit before finalizing LOI.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-05-11",
           "event": "Email from Joey Valenti: The Great Greek Hendersonville",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Inbox: Melissa said she will get HVAC vendor out ASAP for Great Greek/Fox's Pizza unit report.",
           "type": "email"
         },
         {
@@ -12473,7 +12497,9 @@
         "Bookstore prospect (local operator)",
         "ala h. (Crexi prospect)",
         "Joey Valenti (Centennial Retail Services)",
-        "Joey Valenti"
+        "Joey Valenti",
+        "Melissa Drish <mdrish@anchorinv.com>",
+        "Joey Valenti <jvalenti@centenretail.com>"
       ]
     },
     {
