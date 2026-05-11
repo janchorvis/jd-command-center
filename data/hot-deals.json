@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T10:30:52.663676",
+  "lastUpdated": "2026-05-11T11:02:38.853756",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-11",
@@ -56,7 +56,9 @@
       "Add teeth to the default sections for Grease.  (overdue — due 2026-03-23)",
       "Roofing contractor language. Add some teeth to the default (overdue — due 2026-03-23)",
       "Leasing meeting at 10:30 AM: prep commissions, Five Below/Malone lease/exhibits, GMX/Hamilton REA, Great Greek HVAC, Adam onboarding, and Buena Vista send-out priorities.",
-      "Marshalls/Malone: track noon egress call and confirm architect revisions today."
+      "Marshalls/Malone: track noon egress call and confirm architect revisions today.",
+      "Join or coordinate Marshalls Malone NY permit / egress questions meeting.",
+      "Review Evansville Big Lots photos for Mitch Ernest / box follow-up."
     ]
   },
   "pipelineDeals": [
@@ -8706,10 +8708,10 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "TJX/Marshalls permit issue active: city egress comments prompted a noon Teams call with Bob Richardson, Clay, Jacob, Josh Conroy, and Shaun Andriano.",
+      "status": "TJX sent Teams meeting invite for Marshalls Malone NY permit / egress questions from City.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Attend/track noon egress call and confirm architect revisions are completed today.",
+      "nextStep": "Jacob/Clay/architect team to join or coordinate response on permit egress questions.",
       "priority": "high",
       "timeline": [
         {
@@ -8735,6 +8737,11 @@
         {
           "date": "2026-05-11",
           "event": "Bob Richardson scheduled noon Teams call to resolve city egress comments for Marshalls Malone permit.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "TJX sent Teams meeting invite for Malone NY permit / egress questions from City.",
           "type": "email"
         },
         {
