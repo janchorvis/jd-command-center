@@ -1,8 +1,8 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-05-08 1:00 PM CDT
+Last updated: 2026-05-10 10:21 PM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T157 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T165 -->
 
 ## ACTIVE — Jacob needs to do these
 
@@ -10,12 +10,12 @@ Last updated: 2026-05-08 1:00 PM CDT
 
 - T068: Send Malone flyer to small shop tenants — carried forward in latest reaction card; still depends on finished flyer. [asana: 1213840882213654] [depends on: T069] [monday-sync 5/1: carry; reaction-card 5/3: carry]
 - T069: Finish Malone flyer — carried forward in latest reaction card. [asana: 1213840882213751] [monday-sync 5/1: carry; reaction-card 5/3: carry]
-- T078: Blast out Buena Vista listings — set for Monday per latest reaction card. [asana: 1213840882215086] [note: include Brian Drobnick/NRP Group — called last week, no answer] [monday-sync 5/3: carry; reaction-card 5/3: Monday] [due: Monday 2026-05-04]
-- T079: Work with Parker to get sign for Buena Vista — set for Monday per latest reaction card. [asana: 1213840947037043] [absorbed T016] [monday-sync 5/3: carry; reaction-card 5/3: Monday] [due: Monday 2026-05-04]
+- T078: Blast out Buena Vista listings — Jacob re-upped in 5/8 brain dump: send Buena Vista out to all those people, including Derek Morgan from Micah email. [asana: 1213840882215086] [note: include Brian Drobnick/NRP Group — called last week, no answer] [monday-sync 5/3: carry; reaction-card 5/3: Monday; brain-dump 5/8]
+- T079: Buena Vista sign — pick a handyman to go do/install the Buena Vista sign; previously framed as working with Parker on the sign. [asana: 1213840947037043] [absorbed T016] [monday-sync 5/3: carry; reaction-card 5/3: Monday; brain-dump 5/8]
 - T096: Ask Buena Vista land contacts for prior bid materials and move the sod / site presentation work forward — carried forward per reaction card item 6. [source: leasing meeting 4/6] [deal: Buena Vista Pike] [reaction-card 5/3: carry]
 
 - T098: Call Diego re Buena Vista purchase inquiry - texted from Approver after seeing Craigslist Nashville listing, wants to discuss purchase price and site conditions. Call back: 561-517-6728. Carried forward per reaction card item 7. [source: screenshot in #tasks 4/7] [asana: 1213975474707361] [reaction-card 5/3: carry]
-- T102: Send Buena Vista to Millrose and Lennar — carried forward per reaction card item 8. [source: Chrome extension inbox 4/10] [deal: Buena Vista Pike] [asana: 1214038491092417] [reaction-card 5/3: carry]
+- T102: Send Buena Vista to Millrose and Lennar — carried forward per reaction card item 8; fold into broader Buena Vista send-out list including Derek Morgan from Micah email. [source: Chrome extension inbox 4/10; brain-dump 5/8] [deal: Buena Vista Pike] [asana: 1214038491092417] [reaction-card 5/3: carry]
 - T103: Pell City — pressure wash or repaint facade; recent photos made the frontage look rough. Carried forward per reaction card item 9. [source: leasing meeting 4/13] [deal: Pell City] [reaction-card 5/3: carry]
 
 - T111: Respond to Pell City Outparcel LOI — Ellianos Coffee LOI received from Wallace Schmuck (ws@shanwalt.com, 210-464-7707) / Shannon Waltchack. Latest reaction fallback says carry forward rather than Monday. Call Wallace or Keith with feedback when Jacob re-prioritizes. [source: email 4/16; closeout 5/1; monday-sync 5/3; reaction-fallback 5/3: carry] [deal: Pell City]
@@ -25,8 +25,8 @@ Last updated: 2026-05-08 1:00 PM CDT
 - T119: Shoe Dept (Malone) - lock construction timeline and lease-obligation map with Clay to avoid opening-year slippage. Carried forward per reaction card item 16. [source: leasing transcript 4/23] [deal: Malone] [reaction-card 5/3: carry]
 - T127: Pell City Physical Therapy / Home Health RFP — Latest reaction fallback says carry forward rather than Monday. Challenge/value-engineer the RFP pricing: preliminary buildout around $400K looked wrong; press especially on ceiling tile line (~$35K) and consider using the Montgomery contractor who built Owen/Staffing, with hotel/travel covered if needed. [source: 4/27 Plaud transcript cross-checked to prep doc Pell City Physical Therapy section; closeout 5/1; monday-sync 5/3; reaction-fallback 5/3: carry] [deal: Pell City Physical Therapy]
 - T138: Emerson / Lately Projects — get lease signed this week; Jacob said Anchor has legal standing on expiration timing and should proceed, with construction storefront height details to be worked out after signing. [source: Plaud leasing meeting 2026-05-04 00:02:29-00:03:30] [deal: Gallatin / Lately Projects]
-- T139: Hamilton vacancy / laundromat — move Hamilton vacancy high on the priority list once Adam starts; text prior laundromat contact and float whether $200K-$300K TI would move the needle, with better rent required. [source: Plaud leasing meeting 2026-05-04 00:11:52-00:19:28] [deal: Hamilton]
-- T140: Adam onboarding / leasing cadence — create Adam onboarding plan with early Slack/email access, leasing channel history, podcasts/lease self-study, early real outreach, weekly Jacob/Adam one-on-one, and continued Jacob/Micah active-deal meeting. [source: Plaud leasing meeting 2026-05-04 00:04:28-00:05:56, 00:40:07-00:46:58] [deal: Leasing Associate hire]
+- T139: Hamilton vacancy / laundromat — Jacob re-upped in 5/8 brain dump: do the laundromat to-do from the leasing meeting by contacting prior laundromat contact and floating whether $200K-$300K TI would move the needle, with better rent required. [source: Plaud leasing meeting 2026-05-04 00:11:52-00:19:28; brain-dump 5/8] [deal: Hamilton] [asana: 1214669249370861]
+- T140: Adam onboarding / leasing cadence — Jacob re-upped in 5/8 brain dump: work on Adam's onboarding plan with early Slack/email access, leasing channel history, podcasts/lease self-study, early real outreach, weekly Jacob/Adam one-on-one, and continued Jacob/Micah active-deal meeting. [source: Plaud leasing meeting 2026-05-04 00:04:28-00:05:56, 00:40:07-00:46:58; brain-dump 5/8] [deal: Leasing Associate hire] [asana: 1214660658494786]
 - T141: MacBid / Evansville-Hamilton expansion — ping MacBid about expansion plans, San Antonio focus, Evansville interest, and whether Harrison/Gastonia locations affect Anchor targets. [source: Plaud leasing meeting 2026-05-04 00:13:45-00:17:50; Jacob correction 2026-05-04: say MacBid, not Yinz] [deal: Evansville / Hamilton]
 - T142: Five Below / Malone kickoff follow-up — review latest layout/preliminary elevation from Five Below, confirm facade height alignment with Marshalls/Shoe Dept after 5/5 survey, and approve/comment so final sign exhibit can start. [source: Plaud Five Below kickoff 2026-05-04] [deal: Malone / Five Below]
 - T143: Five Below / Malone landlord drawings — decide with Clay/ownership whether to start landlord plan set before lease execution; scope includes facade, demising, loading, and RTU openings. [source: Plaud Five Below kickoff 2026-05-04] [deal: Malone / Five Below]
@@ -43,6 +43,15 @@ Last updated: 2026-05-08 1:00 PM CDT
 - T154: Great Greek / Maple Row HVAC LOI issue — Joey says the rooftop unit is dead and wants HVAC replacement addressed now in the LOI path; evaluate landlord vs tenant responsibility and prepare Jacob/Micah response posture. [source: Communication Triage 2026-05-08 9 AM] [deal: Maple Row / Great Greek]
 - T155: Marshalls / Malone permit egress markups — resolve permit hold tied to vacant-space egress markups so Marshalls/Malone path does not slip. [source: Communication Triage 2026-05-08 9 AM] [deal: Malone / Marshalls]
 - T156: PCON / Sean Spafford feedback request — Asana task created for Jacob to provide feedback on Sean Spafford, due 2026-05-15; thread labeled actioned/unread for visibility. [asana: 1214660516238793] [source: Communication Triage 2026-05-08 1 PM] [deal: PCON]
+
+- T157: Send Hope Smiles PDF to Amy and the broker. [source: brain-dump 2026-05-08] [deal: HopeSmiles] [asana: 1214660658059111]
+- T159: Follow up with Mitch Ernest on Evansville box. [source: brain-dump 2026-05-08] [deal: Evansville] [asana: 1214669249372525]
+- T160: Prep for leasing meeting and talk commissions with Micah. [source: brain-dump 2026-05-08] [deal: leasing meeting / commissions] [asana: 1214660372660685] [due: 2026-05-11]
+
+- T161: Read/review Five Below lease and send it to Ashby. [source: brain-dump 2026-05-08] [deal: Malone / Five Below] [asana: 1214660167404030]
+- T162: Send Adam playlist of podcasts. [source: brain-dump 2026-05-08] [deal: Leasing Associate hire] [asana: 1214660167404041]
+- T163: Set up Adam's email. [source: brain-dump 2026-05-08] [deal: Leasing Associate hire] [asana: 1214660373247643]
+- T164: GMX/Hamilton REA redline review — Bob McAuliff sent further revised REA/redline on 5/8 and asked if helpful to discuss; review/coordinate with Ashby/Micah. [gmail thread: 19d9d19533d4ddf7] [asana: 1214660375898014] [source: after-hours triage 2026-05-08] [deal: Hamilton Community Partners sale]
 
 
 ### Next Week+
@@ -64,6 +73,7 @@ Note: WATCHING items should be removed once real movement comes in. Gastonia lau
 
 ## COMPLETED — Recent (auto-cleaned after 7 days)
 
+- T158: Complete Anchor commissions process for last month — generated, QA’d, fixed, committed, and sent three PDFs to Jacob: Montgomery/QT Nails, HOLD - Malone/Shoe Show, HOLD - Russellville/ABC Board. [source: brain-dump 2026-05-08] [asana: 1214660166894316] [commit: 9065cde] [completed: 2026-05-10]
 - T108: Scott M. (Crexi) — broker requesting info on 1400 SF space at Pell City Marketplace for printing business; asked about availability + lease rate. No reply yet. Pricing question = needs Jacob. [source: after-hours triage 4/15] [marked done per reaction card item 11] [completed: 2026-05-03]
 - T109: Anita Kuntzman (Pea Ridge) — church inquiry, 2000 SF. Auto-reply sent 4/15 9PM asked for size+use but she already provided both. Needs a real follow-up. [source: after-hours triage 4/15] [marked done per reaction card item 12] [completed: 2026-05-03]
 - T114: Conner Walker (CommAdv) — broker for church client needing ~3000 SF at Millington Plaza. Jacob's Apr 15 reply asked about timeline but never provided asking rate/opex. Conner followed up. Respond with pricing and confirm church use/exclusives. [source: email 4/16] [marked done per reaction card item 13] [completed: 2026-05-03]
