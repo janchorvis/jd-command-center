@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T09:30:25.254931",
+  "lastUpdated": "2026-05-11T10:01:24.742937",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-11",
@@ -55,7 +55,8 @@
       "Harrison Trampoline LOI (overdue — due 2026-03-31)",
       "Add teeth to the default sections for Grease.  (overdue — due 2026-03-23)",
       "Roofing contractor language. Add some teeth to the default (overdue — due 2026-03-23)",
-      "Leasing meeting at 10:30 AM: prep commissions, Five Below/Malone lease/exhibits, GMX/Hamilton REA, Great Greek HVAC, Adam onboarding, and Buena Vista send-out priorities."
+      "Leasing meeting at 10:30 AM: prep commissions, Five Below/Malone lease/exhibits, GMX/Hamilton REA, Great Greek HVAC, Adam onboarding, and Buena Vista send-out priorities.",
+      "Marshalls/Malone: track noon egress call and confirm architect revisions today."
     ]
   },
   "pipelineDeals": [
@@ -8685,10 +8686,10 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "TJX requested a quick Teams call at noon or 1 PM today to address City egress comments; Josh was asked whether revisions discussed will be done today.",
+      "status": "TJX/Marshalls permit issue active: city egress comments prompted a noon Teams call with Bob Richardson, Clay, Jacob, Josh Conroy, and Shaun Andriano.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Coordinate noon/1 PM call and confirm CTArch revisions today.",
+      "nextStep": "Attend/track noon egress call and confirm architect revisions are completed today.",
       "priority": "high",
       "timeline": [
         {
@@ -8699,6 +8700,11 @@
         {
           "date": "2026-05-11",
           "event": "TJX requested same-day call to resolve City egress permit comments for Marshalls Malone.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Bob Richardson scheduled noon Teams call to resolve city egress comments for Marshalls Malone permit.",
           "type": "email"
         },
         {
@@ -9846,7 +9852,9 @@
         "Clay Richardson (Anchor)",
         "Joshua Conroy (CT Architecture)",
         "Clay Richardson",
-        "Josh Conroy (CTArch)"
+        "Josh Conroy (CTArch)",
+        "Joshua Conroy",
+        "Shaun Andriano"
       ],
       "actions": [
         {
