@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T13:30:24.623024",
+  "lastUpdated": "2026-05-11T14:02:17.255416",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-11",
@@ -8784,10 +8784,10 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "TJX/Marshalls permit egress issue active. Robert Richardson says Marshalls plans need revision and landlord should build new Shoe Store/common-area wall because Marshalls cannot exit through another tenant/compactor area.",
+      "status": "Robert Richardson/TJX sent Marshalls plan revisions tied to city egress comments and stated the new wall for Shoe Store should be landlord work because it creates common area and avoids Marshalls exiting into another tenant/using another tenant's compactor.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Coordinate with Clay/Shaun/Josh on plan revisions and landlord wall responsibility today.",
+      "nextStep": "Coordinate with Clay/Shaun/Josh on plan revisions and landlord wall responsibility immediately so permit path does not slip.",
       "priority": "high",
       "timeline": [
         {
@@ -8828,6 +8828,11 @@
         {
           "date": "2026-05-11",
           "event": "Inbox: TJX said Marshalls plans need revision; LL wall required to create common area for egress/compactor separation.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "TJX sent revised Marshalls plans and flagged landlord wall/common-area egress issue for Malone permit revisions.",
           "type": "email"
         },
         {
@@ -11226,10 +11231,10 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Pell City middle-space/home-health and related prospects are still competitive. Micah/Jacob want Easterseals to hear that another interested party exists and to get CEO feedback within roughly 10-14 days without creating false pressure.",
+      "status": "Scott Myers followed up asking whether the 1,300 SF portion went through; his printing-company client says 2,500 SF is too large.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Tell Easterseals/Laurie another interested party is active and ask whether she can get CEO feedback in the next 10-14 days; continue tracking HVAC/buildout reports for competing prospects.",
-      "priority": "high",
+      "nextStep": "Jacob needs to confirm whether the 1,300 SF lease is still pending/unavailable and respond to Scott with current small-space options.",
+      "priority": "medium",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
         "David Cooke (Cooke Commercial) - david@cookecommercial.com - 214-274-8020",
@@ -11268,6 +11273,11 @@
           "date": "2026-05-11",
           "event": "Meeting: Easterseals follow-up should communicate another interested party and request CEO feedback within 10-14 days.",
           "type": "meeting"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Scott Myers followed up on 1,300 SF Pell City space for printing-company client; 2,500 SF is too large.",
+          "type": "email"
         },
         {
           "date": "2026-05-08",
@@ -14887,9 +14897,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton",
-      "status": "Ashby forwarded signed GMX/Hamilton inspection-period extension PDF and Micah asked Jacob to confirm Subway expiration/options before responding to buyer/title issues.",
+      "status": "O-IN-KY surveyor sent revised ALTA and legal description, noting ROW/traffic control easements affect the parcel, Exception 17 remains unclear, and no zoning verification letter has been provided.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob needs to verify Subway expiration/options and respond to Micah/Ashby so the GMX title/inspection-period issue keeps moving.",
+      "nextStep": "Ashby/Micah/Jacob should review revised ALTA/title-objection response items and decide whether any seller action remains before the May 13 inspection-period deadline.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -14898,7 +14908,10 @@
         "Bob McAuliff",
         "Bob McAuliff (Taft)",
         "Ashby Scott (Evans Petree)",
-        "Lisa Sweeney (First American)"
+        "Lisa Sweeney (First American)",
+        "Wm. Coey Vierling <oinkysurveying@gmail.com>",
+        "Bob McAuliff <BMcAuliff@taftlaw.com>",
+        "Ashby Scott <ascott@evanspetree.com>"
       ],
       "timeline": [
         {
@@ -14924,6 +14937,11 @@
         {
           "date": "2026-05-11",
           "event": "Surveyor sent fresh ALTA revision/legal description update at 12:34 PM; title/REA movement tied to GMX/Hamilton active items T164/T148. Source: Gmail thread 19d9d19533d4ddf7 / msg 19e181b36750e6bf."
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Surveyor delivered revised ALTA/legal description for GMX/Hamilton title objection with notes on Exceptions 14, 15, 17 and missing zoning verification letter.",
+          "type": "email"
         },
         {
           "date": "2026-05-08",
