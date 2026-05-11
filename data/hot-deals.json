@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T14:30:26.841350",
+  "lastUpdated": "2026-05-11T15:30:26.140319",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-11",
@@ -5066,6 +5066,11 @@
       "timeline": [
         {
           "date": "2026-05-11",
+          "event": "Email from Pratt Rogers: The Township at Colony Park – Office/Medical Spaces Available for Lease",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-11",
           "event": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
           "type": "email"
         },
@@ -6029,6 +6034,11 @@
       "nextStep": "Send/pay first half commission and hold second half until QT Nails opens/commences June 1.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-11",
+          "event": "Email from Google Cloud: Are you ready for tomorrow’s SMB highlights from Next ‘26?",
+          "type": "email"
+        },
         {
           "date": "2026-05-11",
           "event": "Meeting: QT Nails commission treatment discussed as pay first half and hold second half until commencement/opening.",
@@ -12115,6 +12125,11 @@
       "timeline": [
         {
           "date": "2026-05-11",
+          "event": "Email from Pratt Rogers: The Township at Colony Park – Office/Medical Spaces Available for Lease",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-11",
           "event": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
           "type": "email"
         },
@@ -16986,6 +17001,11 @@
       "timeline": [
         {
           "date": "2026-05-11",
+          "event": "Email from Porthaven Partners: Price Reduced: 6.00% Cap -  New Dutch Bros | Motivated Seller Offering Above Mar",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-11",
           "event": "Email from Daniel Herrold: State of the Market - April 2026",
           "type": "email"
         },
@@ -19008,6 +19028,11 @@
       "timeline": [
         {
           "date": "2026-05-11",
+          "event": "Email from Giftster: Reminder: Carson Knight's birthday is 3 weeks away",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-11",
           "event": "Email from Carson Knight: Accepted: Anchor Recycling Bins @ Wed May 13, 2026 5pm (CDT) (Jacob Delk)",
           "type": "email"
         },
@@ -19773,20 +19798,6 @@
       "urgency": "low"
     },
     {
-      "name": "Nhung Pham",
-      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 4,
-      "lastAction": "Email from Justin N Gabson: Highlighting Leadership Moves in Nashville Tech",
-      "urgency": "low"
-    },
-    {
-      "name": "Dwaine High",
-      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 4,
-      "lastAction": "Email from Justin N Gabson: Highlighting Leadership Moves in Nashville Tech",
-      "urgency": "low"
-    },
-    {
       "name": "Kevin True",
       "deal": "Wingstop — McMinnville Plaza",
       "daysSinceContact": 4,
@@ -20000,28 +20011,42 @@
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from Pratt Rogers: The Township at Colony Park – Office/Medical Spaces Ava",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from Pratt Rogers: The Township at Colony Park – Office/Medical Spaces Ava",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from Pratt Rogers: The Township at Colony Park – Office/Medical Spaces Ava",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from Pratt Rogers: The Township at Colony Park – Office/Medical Spaces Ava",
+      "urgency": "low"
+    },
+    {
+      "name": "Nhung Pham",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Cloud: Are you ready for tomorrow’s SMB highlights from Next ‘",
+      "urgency": "low"
+    },
+    {
+      "name": "Dwaine High",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Cloud: Are you ready for tomorrow’s SMB highlights from Next ‘",
       "urgency": "low"
     },
     {
@@ -20287,77 +20312,77 @@
       "name": "Joey",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+      "lastAction": "Email from Pratt Rogers: The Township at Colony Park – Office/Medical Spaces Ava",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+      "lastAction": "Email from Pratt Rogers: The Township at Colony Park – Office/Medical Spaces Ava",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+      "lastAction": "Email from Pratt Rogers: The Township at Colony Park – Office/Medical Spaces Ava",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+      "lastAction": "Email from Pratt Rogers: The Township at Colony Park – Office/Medical Spaces Ava",
       "urgency": "low"
     },
     {
       "name": "ala h.",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+      "lastAction": "Email from Pratt Rogers: The Township at Colony Park – Office/Medical Spaces Ava",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+      "lastAction": "Email from Pratt Rogers: The Township at Colony Park – Office/Medical Spaces Ava",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+      "lastAction": "Email from Pratt Rogers: The Township at Colony Park – Office/Medical Spaces Ava",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+      "lastAction": "Email from Pratt Rogers: The Township at Colony Park – Office/Medical Spaces Ava",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti <jvalenti@centenretail.com>",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+      "lastAction": "Email from Pratt Rogers: The Township at Colony Park – Office/Medical Spaces Ava",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+      "lastAction": "Email from Pratt Rogers: The Township at Colony Park – Office/Medical Spaces Ava",
       "urgency": "low"
     },
     {
       "name": "EJ",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
+      "lastAction": "Email from Pratt Rogers: The Township at Colony Park – Office/Medical Spaces Ava",
       "urgency": "low"
     },
     {
@@ -20539,56 +20564,56 @@
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Daniel Herrold: State of the Market - April 2026",
+      "lastAction": "Email from Porthaven Partners: Price Reduced: 6.00% Cap -  New Dutch Bros | Moti",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Daniel Herrold: State of the Market - April 2026",
+      "lastAction": "Email from Porthaven Partners: Price Reduced: 6.00% Cap -  New Dutch Bros | Moti",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Daniel Herrold: State of the Market - April 2026",
+      "lastAction": "Email from Porthaven Partners: Price Reduced: 6.00% Cap -  New Dutch Bros | Moti",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Daniel Herrold: State of the Market - April 2026",
+      "lastAction": "Email from Porthaven Partners: Price Reduced: 6.00% Cap -  New Dutch Bros | Moti",
       "urgency": "low"
     },
     {
       "name": "Jordyn Stallings",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Daniel Herrold: State of the Market - April 2026",
+      "lastAction": "Email from Porthaven Partners: Price Reduced: 6.00% Cap -  New Dutch Bros | Moti",
       "urgency": "low"
     },
     {
       "name": "Rebecca Miller",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Daniel Herrold: State of the Market - April 2026",
+      "lastAction": "Email from Porthaven Partners: Price Reduced: 6.00% Cap -  New Dutch Bros | Moti",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Daniel Herrold: State of the Market - April 2026",
+      "lastAction": "Email from Porthaven Partners: Price Reduced: 6.00% Cap -  New Dutch Bros | Moti",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Daniel Herrold: State of the Market - April 2026",
+      "lastAction": "Email from Porthaven Partners: Price Reduced: 6.00% Cap -  New Dutch Bros | Moti",
       "urgency": "low"
     },
     {
@@ -20602,14 +20627,14 @@
       "name": "Juliana Fernandez",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson Knight: Accepted: Anchor Recycling Bins @ Wed May 13, 2026 5pm",
+      "lastAction": "Email from Giftster: Reminder: Carson Knight's birthday is 3 weeks away",
       "urgency": "low"
     },
     {
       "name": "Carson Knight",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson Knight: Accepted: Anchor Recycling Bins @ Wed May 13, 2026 5pm",
+      "lastAction": "Email from Giftster: Reminder: Carson Knight's birthday is 3 weeks away",
       "urgency": "low"
     }
   ],
