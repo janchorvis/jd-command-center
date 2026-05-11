@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T16:30:31.190173",
+  "lastUpdated": "2026-05-11T17:02:36.404654",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-11",
@@ -15245,10 +15245,10 @@
     {
       "id": "hopesmiles",
       "name": "HopeSmiles",
-      "property": "Creekside Crossing / Westwood South",
+      "property": "Creekside Crossing",
       "type": "Tenant Rep",
-      "status": "HopeSmiles tenant profile PDF for Creekside Crossing landlord was created and sent/slacked for review. Early reaction from Amy was positive; Jacob used Claude Design to make the tenant profile more polished for landlord questions about what HopeSmiles does and financial strength.",
-      "nextStep": "Wait for landlord/broker response to the HopeSmiles profile and use the polished PDF as support for Creekside/Highwoods discussions.",
+      "status": "JLL/Bill Adair asked whether HopeSmiles training involves cadavers; Jacob forwarded to Amy/Dr. Kemp, and Phillip Kemp replied that they would not use cadavers, only heads if allowed, and are exploring animal jaws / potentially human heads for advanced implant training.",
+      "nextStep": "Jacob needs to shape Phillip Kemp's clarification into a landlord-safe reply to JLL on medical waste / training materials.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -15259,7 +15259,8 @@
         "Matty",
         "Ashley Marshall (JLL)",
         "Bill Adair (JLL)",
-        "Amy (HopeSmiles)"
+        "Amy (HopeSmiles)",
+        "Phillip Kemp (HopeSmiles)"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-11",
@@ -15278,6 +15279,11 @@
           "date": "2026-05-11",
           "event": "Meeting: HopeSmiles profile PDF reviewed positively and positioned as landlord-facing support material.",
           "type": "meeting"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Communication triage: Phillip Kemp clarified HopeSmiles training would not involve cadavers, only heads if allowed, with animal jaws / potentially human heads for advanced implant training.",
+          "type": "email"
         },
         {
           "date": "2026-05-10",
