@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T13:30:31.695334",
+  "lastUpdated": "2026-05-12T14:07:41.798535",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-12",
@@ -6411,9 +6411,9 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "UPS Store LOI is signed; Jon Petty forwarded completed SBA personal financial statement attachments from Amy/Matt on 5/12 and asked if anything additional is needed. UPS and Wingstop are not requiring McMinnville facade work, only expressing preference. Anchor should value-engineer facade/mechanical screening before promising upgrades.",
+      "status": "UPS prospect financial/SBA application materials were forwarded by Jon Petty on 2026-05-12 for Suite 108 LOI review.",
       "stage": "Lease Signed",
-      "nextStep": "Review UPS financial attachments/application package and tell Jon whether anything else is needed while lease/REC path advances.",
+      "nextStep": "Jacob/Anchor to review Amy and Matt's financial materials and continue lease/REC path.",
       "priority": "high",
       "timeline": [
         {
@@ -6439,6 +6439,11 @@
         {
           "date": "2026-05-12",
           "event": "Jon Petty forwarded UPS SBA personal financial statements from Amy/Matt and asked if anything else is needed.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-12",
+          "event": "Jon Petty forwarded UPS prospect SBA/financial application materials for McMinnville Plaza Suite 108.",
           "type": "email"
         },
         {
@@ -19747,13 +19752,15 @@
       "id": "hibbett-the-columns",
       "name": "Hibbett / JD Sports / DTLR",
       "property": "The Columns - Jackson, TN",
-      "status": "Madison Idell/Avison Young followed up by voicemail for Hibbett/JD Sports/DTLR 5,000-7,500 SF opportunity; Jacob previously said Uniform Source space could maybe work but needs internal confirmation on athletic shoes/apparel restriction, rate, and delivery timing because lease runs into summer 2027 with an option.",
+      "status": "Avison Young/Hibbett asked about athletic shoes/apparel restrictions, delivery timing, and estimated lease rate for potential +/-7,000 SF Uniform Source opportunity.",
       "stage": "Contact Made",
-      "nextStep": "Jacob to confirm restrictions/rate/timing internally and respond to Madison.",
+      "nextStep": "Jacob to confirm restrictions, delivery, and rate; Gmail draft reply is loaded for approval.",
       "priority": "medium",
       "contacts": [
         "Madison Idell (Avison Young) - madison.idell@avisonyoung.com - 316-650-4193",
-        "Madison Idell (Avison Young) - Hibbett/JD Sports/DTLR broker"
+        "Madison Idell (Avison Young) - Hibbett/JD Sports/DTLR broker",
+        "Madison Idell (Avison Young)",
+        "Brande Benson (Avison Young)"
       ],
       "timeline": [
         {
@@ -19764,6 +19771,11 @@
         {
           "date": "2026-05-12",
           "event": "Avison Young followed up by voicemail on Hibbett/The Columns opportunity.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-12",
+          "event": "Madison Idell followed up asking about restrictions, delivery timing, and estimated lease rate for Hibbett/JD Sports opportunity.",
           "type": "email"
         },
         {
