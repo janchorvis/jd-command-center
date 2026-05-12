@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T13:02:58.833708",
+  "lastUpdated": "2026-05-12T13:30:31.695334",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-12",
@@ -16237,6 +16237,11 @@
       "timeline": [
         {
           "date": "2026-05-12",
+          "event": "Email from Eric Snyder, Editor in Chief: Breaking: Lender, Ivy League college sue prolific Nashville developer",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-12",
           "event": "Email from Crexi: Julie H. clicked phone number on Hickory Village",
           "type": "email"
         },
@@ -19406,6 +19411,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-12",
+          "event": "Email from NAIOP: NAIOP Source: Capital Markets Spotlight on the Podcast",
+          "type": "email"
+        },
+        {
           "date": "2026-05-05",
           "event": "Email from Bisnow Educational Workshops: Final Call: Raising Capital from Family Offices | Live, Virtual Workshop Tomorro",
           "type": "email"
@@ -20238,13 +20248,6 @@
       "urgency": "low"
     },
     {
-      "name": "Pesach Gewirtz",
-      "deal": "Infinite Equity Capital - 730 — 730",
-      "daysSinceContact": 7,
-      "lastAction": "Email from Bisnow Educational Workshops: Final Call: Raising Capital from Family",
-      "urgency": "low"
-    },
-    {
       "name": "Parker Brennan / Scenthound",
       "deal": "Scenthound — Atlanta Hwy",
       "daysSinceContact": 6,
@@ -20519,6 +20522,13 @@
     },
     {
       "name": "Jon Petty - jpetty@southeastventure.com",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Taylor",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
       "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
@@ -21004,21 +21014,21 @@
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Julie H. clicked phone number on Hickory Village",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Lender, Ivy League college su",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Julie H. clicked phone number on Hickory Village",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Lender, Ivy League college su",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Julie H. clicked phone number on Hickory Village",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Lender, Ivy League college su",
       "urgency": "low"
     },
     {
@@ -21089,6 +21099,13 @@
       "deal": "Fireworks Stands — Multiple Sites",
       "daysSinceContact": 0,
       "lastAction": "Email from Ashley Cusker | Katz & Associates: Fat Rosie's Seeking Sites in the N",
+      "urgency": "low"
+    },
+    {
+      "name": "Pesach Gewirtz",
+      "deal": "Infinite Equity Capital - 730 — 730",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP: NAIOP Source: Capital Markets Spotlight on the Podcast",
       "urgency": "low"
     },
     {
