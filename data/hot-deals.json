@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T09:30:46.589460",
+  "lastUpdated": "2026-05-12T10:04:56.031292",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-12",
@@ -47,7 +47,9 @@
       "Harrison Trampoline LOI (overdue — due 2026-03-31)",
       "GMX/Hamilton REA/title response posture with Ashby/Micah",
       "Easterseals/CEO timing follow-up draft",
-      "Five Below lease-to-Ashby package"
+      "Five Below lease-to-Ashby package",
+      "Confirm Hibbett/The Columns athletic-shoes restrictions, rate, and delivery timing for Madison Idell.",
+      "Coordinate with Mathison/Micah on MK Wings rent payment record issue."
     ]
   },
   "pipelineDeals": [
@@ -8839,10 +8841,10 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "Robert Richardson/TJX sent Marshalls plan revisions tied to city egress comments and stated the new wall for Shoe Store should be landlord work because it creates common area and avoids Marshalls exiting into another tenant/using another tenant's compactor.",
+      "status": "Robert Richardson/TJX reiterated that the new wall for Shoe Store should be landlord work because it creates common area; without it Marshalls exits into another tenant and uses a dedicated compactor in another tenant's space.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Coordinate with Clay/Shaun/Josh on plan revisions and landlord wall responsibility immediately so permit path does not slip.",
+      "nextStep": "Clay/Jacob/Shaun need resolve landlord-wall/common-area egress revision with TJX so permit path does not slip.",
       "priority": "high",
       "timeline": [
         {
@@ -8853,6 +8855,11 @@
         {
           "date": "2026-05-12",
           "event": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-12",
+          "event": "TJX sent Marshalls plans and stated landlord should build new Shoe Store wall for common-area egress.",
           "type": "email"
         },
         {
@@ -12224,14 +12231,19 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "HVAC unit issue remains active. Jacob/Micah posture: if the Fox's/Great Greek unit is old but working, do not replace it; if report says it is actually shot, decide from the report rather than tenant contractor claims.",
-      "nextStep": "Wait for HVAC report/vendor read, then respond to Joey from the report; do not commit to replacement solely on EJ/tenant-contractor claim.",
+      "status": "Melissa Drish contacted the prior Maple Row HVAC vendor to inspect the Fox's Pizza / Suite 390 HVAC units for Great Greek; vendor will report timing and findings.",
+      "nextStep": "Wait for HVAC vendor inspection timing/findings before final Great Greek LOI posture.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-05-12",
           "event": "Email from The CRE Rundown by Trepp: Data Center Sector's Growth Comes with Challenges",
           "type": "email"
+        },
+        {
+          "date": "2026-05-12",
+          "event": "Melissa said HVAC vendor is being scheduled to inspect Suite 390 units and report findings.",
+          "type": "slack"
         },
         {
           "date": "2026-05-11",
@@ -12809,8 +12821,11 @@
         "Melissa Drish <mdrish@anchorinv.com>",
         "Joey Valenti <jvalenti@centenretail.com>",
         "Joey (Great Greek Broker)",
-        "EJ (Tenant Contractor)"
-      ]
+        "EJ (Tenant Contractor)",
+        "Melissa Drish"
+      ],
+      "stage": "LOI",
+      "stageOverride": "LOI"
     },
     {
       "id": "evansville-easterseals",
@@ -15077,9 +15092,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton",
-      "status": "Overnight title diligence clarified Subway and AutoZone issues for GMX/Hamilton REA response.",
+      "status": "Ashby flagged buyer REA changes: blanket cross-parking over the whole lot, unanimous approval for material lot changes, Private Drive Maintenance Costs pushed back to seller, and buyer wants sole snow-removal control/reimbursement. Jacob replied that Anchor will review and send thoughts this afternoon.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Prep Jacob/Micah/Ashby response posture: Subway expires 10/31/2027 with no remaining option found; AutoZone Fifth Amendment consents to Dutch Bros subject to 2,000 SF/protective-covenant/signage limits.",
+      "nextStep": "Review Ashby's REA comments with Micah and send Anchor's response posture this afternoon.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -15103,6 +15118,11 @@
           "date": "2026-05-12",
           "event": "Briefing: Hamilton title/REA research completed overnight; response posture now needed.",
           "type": "task"
+        },
+        {
+          "date": "2026-05-12",
+          "event": "Ashby sent REA change comments; Jacob promised review/thoughts this afternoon.",
+          "type": "email"
         },
         {
           "date": "2026-05-11",
@@ -19496,14 +19516,20 @@
       "id": "hibbett-the-columns",
       "name": "Hibbett / JD Sports / DTLR",
       "property": "The Columns - Jackson, TN",
-      "status": "Avison Young reached out on behalf of Hibbett/JD Sports/DTLR seeking 5,000-7,500 SF at The Columns. Draft reply prepared for Jacob approval stating no current availability in that range and that Anchor will keep them in mind.",
+      "status": "Madison Idell/Avison Young followed up by voicemail for Hibbett/JD Sports/DTLR 5,000-7,500 SF opportunity; Jacob previously said Uniform Source space could maybe work but needs internal confirmation on athletic shoes/apparel restriction, rate, and delivery timing because lease runs into summer 2027 with an option.",
       "stage": "Contact Made",
-      "nextStep": "Jacob to approve/send prepared reply to Madison Idell if he wants to respond.",
+      "nextStep": "Jacob to confirm restrictions/rate/timing internally and respond to Madison.",
       "priority": "medium",
       "contacts": [
-        "Madison Idell (Avison Young) - madison.idell@avisonyoung.com - 316-650-4193"
+        "Madison Idell (Avison Young) - madison.idell@avisonyoung.com - 316-650-4193",
+        "Madison Idell (Avison Young) - Hibbett/JD Sports/DTLR broker"
       ],
       "timeline": [
+        {
+          "date": "2026-05-12",
+          "event": "Avison Young followed up by voicemail on Hibbett/The Columns opportunity.",
+          "type": "email"
+        },
         {
           "date": "2026-05-05",
           "event": "Email from Idell, Madison (Avison Young - US): The Columns - Jackson, TN",
@@ -19528,18 +19554,26 @@
       "id": "cleveland-furniture-bank-parma-heights",
       "name": "Cleveland Furniture Bank",
       "property": "6282 Pearl Road, Parma Heights",
-      "status": "Tom Gaghan at Cleveland Furniture Bank is trying to continue operating at 6282 Pearl Road; sent P&L and sales report after multiple calls/messages.",
-      "stage": "Contact Made",
-      "nextStep": "Jacob should call Tom Gaghan at 440-263-9792 and review financials.",
-      "priority": "high",
+      "status": "Tom Gaghan pushed back on payment follow-up, saying he interpreted it as no rent relief; Mathison replied he was not in rent-relief conversations and would talk to the team to understand it.",
+      "stage": "Trading Terms",
+      "nextStep": "Team needs align internally on Cleveland Furniture Bank rent relief/payment-plan position before further response.",
+      "priority": "medium",
       "contacts": [
         "Tom Gaghan (Executive Director, Cleveland Furniture Bank)",
-        "Tom Gaghan (Cleveland Furniture Bank) - 440-263-9792 - tom@clevelandfurniturebank.org"
+        "Tom Gaghan (Cleveland Furniture Bank) - 440-263-9792 - tom@clevelandfurniturebank.org",
+        "Tom Gaghan (Cleveland Furniture Bank)",
+        "Mathison Ingham",
+        "Clay Richardson"
       ],
       "timeline": [
         {
           "date": "2026-05-12",
           "event": "Email from Tom Gaghan: FW: March and April Rent",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-12",
+          "event": "Tom Gaghan questioned rent-relief posture after payment follow-up; Mathison said he would check internally.",
           "type": "email"
         },
         {
@@ -19584,7 +19618,8 @@
         "avgSqFt": 16878,
         "suiteCount": 9,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Trading Terms"
     },
     {
       "id": "gallatin-2512-daycare",
