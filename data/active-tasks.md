@@ -1,12 +1,12 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-05-10 10:21 PM CDT
+Last updated: 2026-05-11 9:06 PM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T165 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T173 -->
 
 ## ACTIVE — Jacob needs to do these
 
-### This Week (week of 4/27)
+### This Week (week of 5/11)
 
 - T068: Send Malone flyer to small shop tenants — carried forward in latest reaction card; still depends on finished flyer. [asana: 1213840882213654] [depends on: T069] [monday-sync 5/1: carry; reaction-card 5/3: carry]
 - T069: Finish Malone flyer — carried forward in latest reaction card. [asana: 1213840882213751] [monday-sync 5/1: carry; reaction-card 5/3: carry]
@@ -23,15 +23,15 @@ Last updated: 2026-05-10 10:21 PM CDT
 - T116: Jason Jones — Malone Card Show inquiry, short-term 8,000 SF event rental at Malone. Carried forward per reaction card item 14. [source: after-hours triage 4/17] [reaction-card 5/3: carry]
 - T117: Update New Memphis lease late fee language to $100 or 5%, whichever is greater — carried forward per reaction card item 15. [source: screenshot from Jacob in #tasks 4/20; Mathison note] [asana: 1214145994848465] [monday-sync 5/3: carry; reaction-card 5/3: carry]
 - T119: Shoe Dept (Malone) - lock construction timeline and lease-obligation map with Clay to avoid opening-year slippage. Carried forward per reaction card item 16. [source: leasing transcript 4/23] [deal: Malone] [reaction-card 5/3: carry]
-- T127: Pell City Physical Therapy / Home Health RFP — Latest reaction fallback says carry forward rather than Monday. Challenge/value-engineer the RFP pricing: preliminary buildout around $400K looked wrong; press especially on ceiling tile line (~$35K) and consider using the Montgomery contractor who built Owen/Staffing, with hotel/travel covered if needed. [source: 4/27 Plaud transcript cross-checked to prep doc Pell City Physical Therapy section; closeout 5/1; monday-sync 5/3; reaction-fallback 5/3: carry] [deal: Pell City Physical Therapy]
+- T127: Pell City Physical Therapy / Home Health RFP — Challenge/value-engineer RFP pricing; 5/11 meeting added that the original home-health company is back and may slot into the middle space, so keep competitive pressure across the Pell City prospects. Also tell Easterseals/Laurie another interested party is active and ask for CEO feedback within 10-14 days. [source: 4/27 Plaud transcript + prep doc; 5/11 leasing meeting] [deal: Pell City Physical Therapy / Easterseals]
 - T138: Emerson / Lately Projects — get lease signed this week; Jacob said Anchor has legal standing on expiration timing and should proceed, with construction storefront height details to be worked out after signing. [source: Plaud leasing meeting 2026-05-04 00:02:29-00:03:30] [deal: Gallatin / Lately Projects]
 - T139: Hamilton vacancy / laundromat — Jacob re-upped in 5/8 brain dump: do the laundromat to-do from the leasing meeting by contacting prior laundromat contact and floating whether $200K-$300K TI would move the needle, with better rent required. [source: Plaud leasing meeting 2026-05-04 00:11:52-00:19:28; brain-dump 5/8] [deal: Hamilton] [asana: 1214669249370861]
-- T140: Adam onboarding / leasing cadence — Jacob re-upped in 5/8 brain dump: work on Adam's onboarding plan with early Slack/email access, leasing channel history, podcasts/lease self-study, early real outreach, weekly Jacob/Adam one-on-one, and continued Jacob/Micah active-deal meeting. [source: Plaud leasing meeting 2026-05-04 00:04:28-00:05:56, 00:40:07-00:46:58; brain-dump 5/8] [deal: Leasing Associate hire] [asana: 1214660658494786]
+- T140: Adam onboarding / leasing cadence — Jacob re-upped in 5/8 brain dump: work on Adam's onboarding plan with early Slack/email access, leasing channel history, podcasts/lease self-study, early real outreach, weekly Jacob/Adam one-on-one, and continued Jacob/Micah active-deal meeting. 5/11 meeting: Adam likely full-time Nashville next week / June 1 formal start still likely; build in onboarding time. [source: Plaud leasing meeting 2026-05-04; brain-dump 5/8; 5/11 leasing meeting] [deal: Leasing Associate hire] [asana: 1214660658494786]
 - T141: MacBid / Evansville-Hamilton expansion — ping MacBid about expansion plans, San Antonio focus, Evansville interest, and whether Harrison/Gastonia locations affect Anchor targets. [source: Plaud leasing meeting 2026-05-04 00:13:45-00:17:50; Jacob correction 2026-05-04: say MacBid, not Yinz] [deal: Evansville / Hamilton]
 - T142: Five Below / Malone kickoff follow-up — review latest layout/preliminary elevation from Five Below, confirm facade height alignment with Marshalls/Shoe Dept after 5/5 survey, and approve/comment so final sign exhibit can start. [source: Plaud Five Below kickoff 2026-05-04] [deal: Malone / Five Below]
 - T143: Five Below / Malone landlord drawings — decide with Clay/ownership whether to start landlord plan set before lease execution; scope includes facade, demising, loading, and RTU openings. [source: Plaud Five Below kickoff 2026-05-04] [deal: Malone / Five Below]
 - T144: Five Below / Malone lease exhibits — watch for lease by end of week and review work letter, final sign exhibit, and no-build-area exhibit. [source: Plaud Five Below kickoff 2026-05-04] [deal: Malone / Five Below]
-- T145: UPS Store / McMinnville — Jon Petty sent Amy signed LOI + sign renderings + white-box specs/sign standards on 5/5; return fully executed LOI and confirm what else is needed to draft the lease. 5/6 update: Jon asked for the application/financial forms next. [gmail thread: 19dfa1c48c7c9097] [source: Communication Triage 2026-05-05 6 PM + 2026-05-06 2/5 PM] [deal: McMinnville Plaza]
+- T145: UPS Store / McMinnville — LOI is signed/returned and deal can move toward lease/REC path; 5/11 meeting clarified UPS and Wingstop are not requiring facade work, just hoping for it, so do not promise upgrades until pricing/value-engineering is known. Jon Petty had also asked for application/financial forms. [gmail thread: 19dfa1c48c7c9097] [source: Communication Triage 2026-05-05/06; 5/11 leasing meeting] [deal: McMinnville Plaza]
 - T146: McMinnville landscaping — active landscaper/weeds follow-up per Monday sync; no longer passive watch. [source: leasing meeting 3/30; monday-sync 5/3; heartbeat 2026-05-05] [deal: McMinnville Plaza]
 - T152: Crunch Fitness / McMinnville Suite 107 — follow up/send floor plan reply; moved from stale WATCHING to active DO per Monday sync. [source: leasing meeting 3/30; monday-sync 5/3; active-task hygiene 2026-05-05] [deal: McMinnville Plaza]
 - T147: Cleveland Furniture Bank / 6282 Pearl Road — Gmail draft reply loaded for Jacob approval; draft says Jacob will get back up to speed and call Tom. Do not send unless Jacob approves. [gmail thread: 19df98bf8433b87f] [draft: r5088746938907387776] [source: Communication Triage 2026-05-05] [deal: Pearl Road / Cleveland Furniture Bank]
@@ -44,14 +44,23 @@ Last updated: 2026-05-10 10:21 PM CDT
 - T155: Marshalls / Malone permit egress markups — resolve permit hold tied to vacant-space egress markups so Marshalls/Malone path does not slip. [source: Communication Triage 2026-05-08 9 AM] [deal: Malone / Marshalls]
 - T156: PCON / Sean Spafford feedback request — Asana task created for Jacob to provide feedback on Sean Spafford, due 2026-05-15; thread labeled actioned/unread for visibility. [asana: 1214660516238793] [source: Communication Triage 2026-05-08 1 PM] [deal: PCON]
 
-- T157: Send Hope Smiles PDF to Amy and the broker. [source: brain-dump 2026-05-08] [deal: HopeSmiles] [asana: 1214660658059111]
-- T159: Follow up with Mitch Ernest on Evansville box. [source: brain-dump 2026-05-08] [deal: Evansville] [asana: 1214669249372525]
-- T160: Prep for leasing meeting and talk commissions with Micah. [source: brain-dump 2026-05-08] [deal: leasing meeting / commissions] [asana: 1214660372660685] [due: 2026-05-11]
-
-- T161: Read/review Five Below lease and send it to Ashby. [source: brain-dump 2026-05-08] [deal: Malone / Five Below] [asana: 1214660167404030]
-- T162: Send Adam playlist of podcasts. [source: brain-dump 2026-05-08] [deal: Leasing Associate hire] [asana: 1214660167404041]
+- T157: Send Hope Smiles PDF to Amy and the broker — 5/11 meeting indicates tenant-profile PDF was created/sent/slacked and Amy reacted positively; Asana still open at 6 PM self-review, so keep active until broker/landlord delivery/response is confirmed. [source: brain-dump 2026-05-08; 5/11 leasing meeting; Asana check 2026-05-11 6 PM] [deal: HopeSmiles] [asana: 1214660658059111]
+- T159: Follow up with Mitch Ernest on Evansville box — 5/11 prep/meeting says the call happened and Jacob texted Mitch this morning; currently waiting on Mitch/Where Ya Bin after review of materials. [source: brain-dump 2026-05-08; 5/11 leasing meeting] [deal: Evansville / Where Ya Bin] [asana: 1214669249372525]
+- T161: Read/review Five Below lease and send it to Ashby — 5/11 meeting confirmed to send Ashby the lease now, ask for redline-fashion comments, and set a Thursday-ish call/timeframe while Jacob separately reviews business points. [source: brain-dump 2026-05-08; 5/11 leasing meeting] [deal: Malone / Five Below] [asana: 1214660167404030]
+- T162: Send Adam playlist of podcasts — 5/11 meeting indicates Jacob sent Adam the podcast playlist for his travel week; Asana still open at 6 PM self-review, so verify/close before removing. [source: brain-dump 2026-05-08; 5/11 leasing meeting; Asana check 2026-05-11 6 PM] [deal: Leasing Associate hire] [asana: 1214660167404041]
 - T163: Set up Adam's email. [source: brain-dump 2026-05-08] [deal: Leasing Associate hire] [asana: 1214660373247643]
-- T164: GMX/Hamilton REA redline review — Bob McAuliff sent further revised REA/redline on 5/8 and asked if helpful to discuss; review/coordinate with Ashby/Micah. [gmail thread: 19d9d19533d4ddf7] [asana: 1214660375898014] [source: after-hours triage 2026-05-08] [deal: Hamilton Community Partners sale]
+- T164: GMX/Hamilton REA/title follow-up — Bob McAuliff sent further revised REA/redline on 5/8 and asked if helpful to discuss; Ashby forwarded fresh Hamilton title/extension context 5/11 at 7:42 PM with “See below and let’s discuss.” 5/12 lease research: Subway Suite 113 expires 10/31/2027; no remaining renewal option found after the 2022-2027 Second Amendment; no Subway no-build/parking-ratio restriction found. AutoZone is the sensitive issue: Fifth Amendment consents to Dutch Bros drive-thru building subject to 2,000 SF cap, no violation of AutoZone protective covenants, and no blocking/impairing AutoZone signage. Review/coordinate with Ashby/Micah. [gmail threads: 19d9d19533d4ddf7, 19df518a3f3c4742] [asana: 1214660375898014] [source: after-hours triage 2026-05-08; Communication Triage 2026-05-11 9 PM; lease research 2026-05-12] [deal: Hamilton Community Partners sale]
+
+- T165: Meeting room cord/cord-management fix — find/order longer HDMI/USB-C cord and consider a cleaner cord-management box/system for the conference room. [source: 5/11 leasing meeting] [asana: 1214716864586590]
+- T166: McMinnville facade value-engineering — send Clay example screenshots and ask contractors for lower-cost ways to improve facade/screen rooftop/mechanical visibility before promising anything to UPS/Wingstop. [source: 5/11 leasing meeting] [deal: McMinnville Plaza] [asana: 1214716864652266]
+- T167: Easterseals/CEO timing follow-up — tell Laurie another interested party is active and ask if she can get with CEO in next 10-14 days; communicate fairly without false pressure. [source: 5/11 leasing meeting] [deal: Pell City / Evansville Easterseals context] [asana: 1214716864818726]
+- T168: Keystone fireworks leases — confirm lease language/billing treatment and send DocuSigns for Hickory Village, Dixie Village, McMinnville Plaza, Millington Plaza, Forks of the River, and Malone Big Lots/Malone Plaza. [source: 5/11 leasing meeting] [deal: Fireworks stands / Keystone] [asana: 1214716864758962]
+- T169: Fostr/Yardi rollout mapping — keep working with Hannah on Yardi field mapping, especially property code/address/GL connections, with June 1 team rollout as tentative goal. [source: 5/11 leasing meeting] [deal: Fostr] [asana: 1214716864798798]
+
+- T170: Scott Myers / Pell City Marketplace printing tenant follow-up — Scott asked whether the 1,300 SF portion lease went through because 2,500 SF is too large for his client; Gmail draft reply loaded for Jacob approval saying he will check and get back to Scott. Do not send unless Jacob approves. [gmail thread: 19d9c95f0ddf5a71] [draft: r4325732601995665381] [source: Communication Triage 2026-05-11 3 PM] [deal: Pell City]
+
+- T171: Shawn Goffer / New Memphis Suite 411 pricing question — Shawn asked how much Suite 411 would be per month after Jacob previously quoted $3,500-$4,000 for suites 411/410/409 combined; Gmail draft reply loaded for Jacob approval saying Jacob will confirm the number and get back to him. Do not send unless Jacob approves. [gmail thread: 19e085dfeff5160c] [draft: r7538089274043099608] [source: Communication Triage 2026-05-11 4 PM] [deal: New Memphis Building]
+
 
 
 ### Next Week+
@@ -73,6 +82,7 @@ Note: WATCHING items should be removed once real movement comes in. Gastonia lau
 
 ## COMPLETED — Recent (auto-cleaned after 7 days)
 
+- T160: Prep for leasing meeting and talk commissions with Micah — meeting completed 5/11; Asana still open at 6 PM self-review but source task is substantively complete. Commission treatment discussed (QT Nails pay first half/hold second, Malone Shoe Dept hold, Russellville ABC book/pay later), and comp structure conversation advanced to $65K base now + revisit leasing/company-performance incentives later in 2026. [source: brain-dump 2026-05-08; 5/11 leasing meeting; Asana check 2026-05-11 6 PM] [deal: leasing meeting / commissions] [asana: 1214660372660685] [due: 2026-05-11] [completed: 2026-05-11]
 - T158: Complete Anchor commissions process for last month — generated, QA’d, fixed, committed, and sent three PDFs to Jacob: Montgomery/QT Nails, HOLD - Malone/Shoe Show, HOLD - Russellville/ABC Board. [source: brain-dump 2026-05-08] [asana: 1214660166894316] [commit: 9065cde] [completed: 2026-05-10]
 - T108: Scott M. (Crexi) — broker requesting info on 1400 SF space at Pell City Marketplace for printing business; asked about availability + lease rate. No reply yet. Pricing question = needs Jacob. [source: after-hours triage 4/15] [marked done per reaction card item 11] [completed: 2026-05-03]
 - T109: Anita Kuntzman (Pea Ridge) — church inquiry, 2000 SF. Auto-reply sent 4/15 9PM asked for size+use but she already provided both. Needs a real follow-up. [source: after-hours triage 4/15] [marked done per reaction card item 12] [completed: 2026-05-03]
@@ -132,6 +142,8 @@ Note: WATCHING items should be removed once real movement comes in. Gastonia lau
 - T112: PCON feedback — Zack Hubiak (prospective member) — completed 2026-04-16 per Asana [asana: 1214117420138742]
 - T113: Tim Pereira (CARR) — Musicologie franchise, Maple Row 2000-2500 SF. Jacob replied 4/17 7:34 AM. [completed: 2026-04-17]
 
+- T172: Melissa Nevich / Dixie Village LoopNet lead — Jacob replied 5/11 at 8:01 PM CT that Anchor is not looking to sell Dixie Village right now and thanked her for reaching out. [gmail thread: 19e197f97521775b] [draft: r6486912318501991763] [source: Communication Triage 2026-05-11 8/9 PM] [deal: Dixie Village Shopping Center] [completed: 2026-05-11]
+
 ## Ongoing Projects (not tasks, just context)
 - Anchor Dashboard v1 — live at anchor-dashboard-rho.vercel.app
 - Anchor Command Center v2 — design decided 3/11, build TBD
@@ -139,7 +151,7 @@ Note: WATCHING items should be removed once real movement comes in. Gastonia lau
 - Buena Vista OM — designer (Yas/Fiverr) working on flyer — T027 marked done, check status
 - ICSC 2026 — meeting plan ready, scheduling active. Vegas schedule packing underway.
 - Anchor Daily Dozen Trivia — v1 live at anchor-trivia.vercel.app
-- Leasing Associate hire — Adam accepted offer; target start date May 11 if ready, otherwise June is cleaner. Initial plan: Adam uses old intern room, interns float in conference room; Jacob prepares first-week task list; Robbie invoice + Melissa onboarding intro + Gusto setup are next. [updated 4/27 Plaud]
+- Leasing Associate hire — Adam accepted offer; 5/11 meeting says Adam likely full-time Nashville next week / June 1 formal start still likely. Initial plan: Adam uses old intern room, interns float in conference room; Jacob prepares first-week task list and onboarding cadence; Robbie invoice + Melissa onboarding intro + Gusto setup are historical setup items. [updated 5/11 Plaud]
 
 ## Setup Backlog
 - T099: Replace Fyxer AI ($30-50/mo) with Gmail push notifications + follow up on Claude — install gcloud CLI, set up Google Pub/Sub topic + push subscription pointing at webhook relay (https://foster-macmini.tail8e2988.ts.net/relay/webhooks/gmail), call gmail.users.watch(). Once live, Communication Triage becomes real-time and Fyxer can be cancelled. Also claim Anthropic credit at claude.ai/settings/usage and resolve Claude follow-up/auth/credit issue needed for Plaud cron + fallback models. [source: Claude Code session 4/8; brain dump 4/23]
