@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T12:30:42.649995",
+  "lastUpdated": "2026-05-12T13:02:58.833708",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-12",
@@ -6411,9 +6411,9 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "UPS Store LOI is signed; UPS and Wingstop are not requiring McMinnville facade work, only expressing preference. Anchor will not promise facade upgrades until pricing is known.",
+      "status": "UPS Store LOI is signed; Jon Petty forwarded completed SBA personal financial statement attachments from Amy/Matt on 5/12 and asked if anything additional is needed. UPS and Wingstop are not requiring McMinnville facade work, only expressing preference. Anchor should value-engineer facade/mechanical screening before promising upgrades.",
       "stage": "Lease Signed",
-      "nextStep": "Proceed toward lease/REC path and price/value-engineer any facade work before making commitments to tenants.",
+      "nextStep": "Review UPS financial attachments/application package and tell Jon whether anything else is needed while lease/REC path advances.",
       "priority": "high",
       "timeline": [
         {
@@ -6434,6 +6434,11 @@
         {
           "date": "2026-05-12",
           "event": "Email from Chain Store Age: Connected Retail: Target pursues social influence; eBay teams with Hertz; Tapest",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-12",
+          "event": "Jon Petty forwarded UPS SBA personal financial statements from Amy/Matt and asked if anything else is needed.",
           "type": "email"
         },
         {
@@ -7338,7 +7343,8 @@
         "Jon Petty (UPS tenant broker)",
         "Jon Petty (UPS Store franchisee broker)",
         "Jon Petty (Southeast Venture)",
-        "Jon Petty (Southeast Venture) - jpetty@southeastventure.com"
+        "Jon Petty (Southeast Venture) - jpetty@southeastventure.com",
+        "Amy Taylor (UPS prospect)"
       ],
       "actions": [
         {
