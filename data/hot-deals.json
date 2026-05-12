@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T07:33:48.280670",
+  "lastUpdated": "2026-05-12T07:34:36.823442",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-12",
@@ -15037,9 +15037,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton",
-      "status": "O-IN-KY surveyor sent revised ALTA and legal description, noting ROW/traffic control easements affect the parcel, Exception 17 remains unclear, and no zoning verification letter has been provided.",
+      "status": "Overnight title diligence clarified Subway and AutoZone issues for GMX/Hamilton REA response.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Ashby/Micah/Jacob should review revised ALTA/title-objection response items and decide whether any seller action remains before the May 13 inspection-period deadline.",
+      "nextStep": "Prep Jacob/Micah/Ashby response posture: Subway expires 10/31/2027 with no remaining option found; AutoZone Fifth Amendment consents to Dutch Bros subject to 2,000 SF/protective-covenant/signage limits.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -15058,6 +15058,11 @@
           "date": "2026-05-12",
           "event": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
           "type": "email"
+        },
+        {
+          "date": "2026-05-12",
+          "event": "Briefing: Hamilton title/REA research completed overnight; response posture now needed.",
+          "type": "task"
         },
         {
           "date": "2026-05-11",
