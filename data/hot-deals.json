@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T12:07:26.685892",
+  "lastUpdated": "2026-05-13T12:08:17.811027",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-13",
@@ -6491,10 +6491,10 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "Jacob replied to Jon Petty that UPS application forms should work and asked how long UPS approval usually takes.",
+      "status": "UPS area office is finalizing paperwork and broker Jon Petty says there are no issues with issuing lease for review.",
       "stage": "Lease Signed",
-      "nextStep": "Await Jon Petty response on UPS approval timing.",
-      "priority": "medium",
+      "nextStep": "Issue lease for UPS review.",
+      "priority": "high",
       "timeline": [
         {
           "date": "2026-05-13",
@@ -6524,6 +6524,11 @@
         {
           "date": "2026-05-13",
           "event": "Jacob confirmed UPS application forms should work and asked Jon Petty about UPS approval timing.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Jon Petty said UPS paperwork is finalizing and lease can be issued for review.",
           "type": "email"
         },
         {
@@ -17868,8 +17873,8 @@
       "name": "Emerson Hall",
       "property": "2518 Gallatin Partners / Gallatin",
       "type": "For Lease",
-      "status": "Tenant attorney asked for lease execution update; Micah said it is not signed yet and expects signing next week.",
-      "nextStep": "Jacob/Micah still need to complete lease execution next week.",
+      "status": "Lately Project lease execution copy completed via DocuSign; Micah forwarded executed copy and asked Jacob to add it to the lease file.",
+      "nextStep": "Add executed lease to the property lease file and coordinate tenant construction/signage/COI requirements.",
       "contacts": [
         "Charles Hawkins (LOI)",
         "Brether group (Event/Entertainment)",
@@ -17878,7 +17883,9 @@
         "Jordyn Stallings (Cushman & Wakefield)",
         "Rebecca Miller (Buchalter)",
         "Micah Lacher",
-        "Ashby Scott"
+        "Ashby Scott",
+        "Lexy Burke",
+        "Dylan Bennett"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-09",
@@ -17886,6 +17893,11 @@
         {
           "date": "2026-05-13",
           "event": "Email from Porthaven Partners: Price Reduced: 6.00% Cap -  New Dutch Bros | Motivated Seller Offering Above Mar",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Lately Project lease execution copy completed via DocuSign; Micah forwarded executed copy.",
           "type": "email"
         },
         {
@@ -19258,8 +19270,8 @@
         "suiteCount": 2,
         "vacantCount": 0
       },
-      "stage": "Lease Draft & Review",
-      "stageOverride": "Lease Draft & Review"
+      "stage": "Lease Signed",
+      "stageOverride": "Lease Signed"
     },
     {
       "id": "emerson-live-nation",
@@ -19787,14 +19799,20 @@
       "id": "fireworks-stands",
       "name": "Fireworks Stands",
       "property": "Multiple Sites",
-      "status": "Keystone fireworks stand leases are ready to go out via DocuSign for Hickory Village, Dixie Village, McMinnville Plaza, Millington Plaza, Forks of the River, and Malone Big Lots/Malone Plaza. Economics discussed as roughly $2,000 first year per site; suggested handling is $500 per lease to Anchor/Jacob and $1,500 found-money to each partnership/property, with partnership billing clarity.",
-      "stage": "Trading Terms",
-      "nextStep": "Confirm lease language is narrow enough, then send DocuSigns; make sure property partnerships are billed/credited correctly so Anchor does not pay costs without property reimbursement.",
-      "priority": "medium",
+      "status": "Keystone followed up asking for updates on leasing the firework tent sites and whether Anchor needs anything else.",
+      "stage": "Lease Draft & Review",
+      "nextStep": "Confirm lease language/billing and send DocuSigns for Keystone firework tent sites.",
+      "priority": "high",
       "contacts": [
-        "Keystone Fireworks"
+        "Keystone Fireworks",
+        "Jeb Thompson"
       ],
       "timeline": [
+        {
+          "date": "2026-05-13",
+          "event": "Jeb Thompson followed up for updates on Keystone firework tent site leases.",
+          "type": "email"
+        },
         {
           "date": "2026-05-12",
           "event": "Email from Ashley Cusker | Katz & Associates: Fat Rosie's Seeking Sites in the Nashville MSA",
@@ -19878,7 +19896,8 @@
       ],
       "actions": [],
       "type": "For Lease",
-      "lastUpdate": "2026-03-24"
+      "lastUpdate": "2026-03-24",
+      "stageOverride": "Lease Draft & Review"
     },
     {
       "id": "730-infinite-equity-capital",
