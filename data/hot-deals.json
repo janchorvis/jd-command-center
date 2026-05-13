@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T10:30:57.669912",
+  "lastUpdated": "2026-05-13T11:31:10.181581",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-13",
@@ -2366,6 +2366,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-13",
+          "event": "Email from ICSC Commerce + Communities Today: Dog Haus Pushes Toward 350 Locations in 3 Years",
+          "type": "email"
+        },
         {
           "date": "2026-05-13",
           "event": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
@@ -8025,6 +8030,11 @@
       "nextStep": "Send comments to Ashby, get on the phone Wed/Thu/Fri, turn one more draft, and pressure the tenant to sign.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-13",
+          "event": "Email from Google Cloud: Online Event: Is Cloud Compute Costing You Too Much?",
+          "type": "email"
+        },
         {
           "date": "2026-05-13",
           "event": "Email from ICSC LAS VEGAS: Important Event Updates!",
@@ -19942,6 +19952,11 @@
       "timeline": [
         {
           "date": "2026-05-13",
+          "event": "Email from ICSC Commerce + Communities Today: Dog Haus Pushes Toward 350 Locations in 3 Years",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
           "event": "Email from ICSC LAS VEGAS: Important Event Updates!",
           "type": "email"
         },
@@ -21169,7 +21184,7 @@
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from ICSC Commerce + Communities Today: Dog Haus Pushes Toward 350 Locatio",
       "urgency": "low"
     },
     {
@@ -21274,7 +21289,7 @@
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC LAS VEGAS: Important Event Updates!",
+      "lastAction": "Email from Google Cloud: Online Event: Is Cloud Compute Costing You Too Much?",
       "urgency": "low"
     },
     {
@@ -21687,14 +21702,14 @@
       "name": "Juliana Fernandez",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC LAS VEGAS: Important Event Updates!",
+      "lastAction": "Email from ICSC Commerce + Communities Today: Dog Haus Pushes Toward 350 Locatio",
       "urgency": "low"
     },
     {
       "name": "Carson Knight",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC LAS VEGAS: Important Event Updates!",
+      "lastAction": "Email from ICSC Commerce + Communities Today: Dog Haus Pushes Toward 350 Locatio",
       "urgency": "low"
     },
     {
