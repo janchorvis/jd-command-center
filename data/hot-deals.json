@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T07:34:26.071809",
+  "lastUpdated": "2026-05-13T08:08:58.457593",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-13",
@@ -12033,20 +12033,26 @@
       "id": "mcminnville-plaza",
       "name": "",
       "property": "McMinnville Plaza",
-      "status": "Facade discussion advanced: use Clay/contractors to evaluate lower-cost ways to improve the look and screen rooftop/mechanical visibility rather than blindly pricing the architect's metal facade concept.",
+      "status": "New LoopNet lead from Shady Azez for McMinnville Plaza / 1030 Smithville Hwy; asked for additional information. Gmail draft reply loaded asking business and square footage.",
       "stage": "LOI",
-      "nextStep": "Jacob to send Clay example screenshots and ask contractors for cost-saving alternatives that accomplish the same facade/screening effect.",
-      "priority": "high",
+      "nextStep": "Jacob to review/send LoopNet draft to Shady Azez or answer directly.",
+      "priority": "medium",
       "contacts": [
         "Joe Wesley (wesleyjoe829@gmail.com, 213-872-0190)",
         "Jon Petty (Southeast Venture)",
-        "Clay Richardson (Construction)"
+        "Clay Richardson (Construction)",
+        "Shady Azez (LoopNet lead, 615-710-8025, shadyazezz@gmail.com)"
       ],
       "timeline": [
         {
           "date": "2026-05-13",
           "event": "Email from shady azez: LoopNet Lead for Mcminnville Plaza",
           "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "LoopNet lead: Shady Azez asked for additional information on McMinnville Plaza; draft reply loaded.",
+          "type": "lead"
         },
         {
           "date": "2026-05-12",
