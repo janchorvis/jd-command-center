@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T12:30:38.848090",
+  "lastUpdated": "2026-05-13T13:03:34.297711",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-13",
@@ -6506,9 +6506,9 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "UPS area office is finalizing paperwork and broker Jon Petty says there are no issues with issuing lease for review.",
+      "status": "UPS area office is finalizing paperwork and sees no issue issuing a lease for review; Jacob told Jon Petty to proceed with getting the lease issued.",
       "stage": "Lease Signed",
-      "nextStep": "Issue lease for UPS review.",
+      "nextStep": "Get UPS Store lease issued for review.",
       "priority": "high",
       "timeline": [
         {
@@ -6544,6 +6544,11 @@
         {
           "date": "2026-05-13",
           "event": "Jon Petty said UPS paperwork is finalizing and lease can be issued for review.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Jon Petty said UPS paperwork is being finalized and lease review can proceed; Jacob confirmed to get the lease issued.",
           "type": "email"
         },
         {
@@ -12059,14 +12064,16 @@
     {
       "id": "evansville",
       "name": "",
-      "property": "Evansville",
-      "status": "Melissa sent interior/exterior photo set for the Big Lots space in Evansville.",
+      "property": "Evansville / Hamilton",
+      "status": "Carmine said James Stocker is now the main MacBid TM lead; MacBid is not attending ICSC and is more focused on larger-format industrial locations, but there may still be synergies to discuss.",
       "stage": "Lease Signed",
-      "nextStep": "Use space photos for Evansville box marketing/prospect follow-up.",
-      "priority": "high",
+      "nextStep": "Coordinate directly with James Stocker for a quick call after/around ICSC on current MacBid expansion plans and possible synergies.",
+      "priority": "medium",
       "contacts": [
         "Carmen Drake (Bellacino's Pizza & Grinders / Runnebohm Realty)",
-        "Melissa Drish <mdrish@anchorinv.com>"
+        "Melissa Drish <mdrish@anchorinv.com>",
+        "James Stocker (CBRE / MacBid TM lead)",
+        "Carmine DiLucente (CBRE)"
       ],
       "timeline": [
         {
@@ -12102,6 +12109,11 @@
         {
           "date": "2026-05-13",
           "event": "Email from Jacob Delk: Big Lots - S Green River Rd",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Carmine directed Jacob to coordinate with James Stocker; MacBid not at ICSC and focused on larger-format industrial, but open to synergies.",
           "type": "email"
         },
         {
@@ -17975,8 +17987,8 @@
       "name": "Emerson Hall",
       "property": "2518 Gallatin Partners / Gallatin",
       "type": "For Lease",
-      "status": "Lately Project lease execution copy completed via DocuSign; Micah forwarded executed copy and asked Jacob to add it to the lease file.",
-      "nextStep": "Add executed lease to the property lease file and coordinate tenant construction/signage/COI requirements.",
+      "status": "Lately Project lease fully executed via DocuSign; Micah sent execution copy to tenant/brokers and asked Jacob to add it to the lease file.",
+      "nextStep": "Add executed lease to property lease file and track tenant signage/construction approvals and contractor COI before work starts.",
       "contacts": [
         "Charles Hawkins (LOI)",
         "Brether group (Event/Entertainment)",
@@ -17987,7 +17999,11 @@
         "Micah Lacher",
         "Ashby Scott",
         "Lexy Burke",
-        "Dylan Bennett"
+        "Dylan Bennett",
+        "Lexy Burke (Lately Project)",
+        "Stephen Prather (Charles Hawkins Co.)",
+        "Dylan Bennett (Charles Hawkins Co.)",
+        "Micah Lacher (Anchor)"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-09",
@@ -18010,6 +18026,11 @@
         {
           "date": "2026-05-13",
           "event": "Lately Project lease execution copy completed via DocuSign; Micah forwarded executed copy.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Lately Project lease executed; Micah sent execution copy and reminded tenant to submit signage/construction plans and contractor COI.",
           "type": "email"
         },
         {
@@ -19911,18 +19932,24 @@
       "id": "fireworks-stands",
       "name": "Fireworks Stands",
       "property": "Multiple Sites",
-      "status": "Keystone followed up asking for updates on leasing the firework tent sites and whether Anchor needs anything else.",
+      "status": "Keystone checked in 5/13 for updates on firework tent leases; Jacob replied that Anchor is working through lease language and billing treatment and will send next steps on DocuSigns.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Confirm lease language/billing and send DocuSigns for Keystone firework tent sites.",
+      "nextStep": "Confirm lease language/billing treatment internally and send DocuSigns for the Keystone firework tent sites.",
       "priority": "high",
       "contacts": [
         "Keystone Fireworks",
-        "Jeb Thompson"
+        "Jeb Thompson",
+        "Jeb Thompson (Keystone Novelties)"
       ],
       "timeline": [
         {
           "date": "2026-05-13",
           "event": "Jeb Thompson followed up for updates on Keystone firework tent site leases.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Keystone checked in on site leases; Jacob replied that lease language/billing treatment is being worked through and DocuSign next steps will follow.",
           "type": "email"
         },
         {
