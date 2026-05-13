@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T08:08:58.457593",
+  "lastUpdated": "2026-05-13T09:03:15.709129",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-13",
@@ -6429,10 +6429,10 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "UPS prospect financial/SBA application materials were forwarded by Jon Petty on 2026-05-12 for Suite 108 LOI review.",
+      "status": "Jacob replied to Jon Petty that UPS application forms should work and asked how long UPS approval usually takes.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Anchor to review Amy and Matt's financial materials and continue lease/REC path.",
-      "priority": "high",
+      "nextStep": "Await Jon Petty response on UPS approval timing.",
+      "priority": "medium",
       "timeline": [
         {
           "date": "2026-05-13",
@@ -6442,6 +6442,11 @@
         {
           "date": "2026-05-13",
           "event": "Email from Chain Store Age: DayBreaker: Amazon ramps up delivery wars; eBay's blistering rejection to GameSt",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Jacob confirmed UPS application forms should work and asked Jon Petty about UPS approval timing.",
           "type": "email"
         },
         {
@@ -7377,7 +7382,8 @@
         "Jon Petty (UPS Store franchisee broker)",
         "Jon Petty (Southeast Venture)",
         "Jon Petty (Southeast Venture) - jpetty@southeastventure.com",
-        "Amy Taylor (UPS prospect)"
+        "Amy Taylor (UPS prospect)",
+        "Amy Taylor"
       ],
       "actions": [
         {
