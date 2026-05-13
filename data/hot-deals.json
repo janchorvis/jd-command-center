@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T10:05:19.771284",
+  "lastUpdated": "2026-05-13T10:30:51.973873",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-13",
@@ -6177,6 +6177,11 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-05-13",
+          "event": "Email from CPE Daily Newsletter: Highwoods cashes in $255M for Nashville tower",
+          "type": "email"
+        },
+        {
           "date": "2026-05-11",
           "event": "Email from Google Cloud: Are you ready for tomorrow’s SMB highlights from Next ‘26?",
           "type": "email"
@@ -6486,6 +6491,11 @@
       "nextStep": "Await Jon Petty response on UPS approval timing.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-13",
+          "event": "Email from Chain Store Age: Make Faster, More Confident Product Decisions",
+          "type": "email"
+        },
         {
           "date": "2026-05-13",
           "event": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
@@ -8015,6 +8025,11 @@
       "nextStep": "Send comments to Ashby, get on the phone Wed/Thu/Fri, turn one more draft, and pressure the tenant to sign.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-13",
+          "event": "Email from ICSC LAS VEGAS: Important Event Updates!",
+          "type": "email"
+        },
         {
           "date": "2026-05-13",
           "event": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
@@ -12006,6 +12021,16 @@
       "timeline": [
         {
           "date": "2026-05-13",
+          "event": "Email from Jacob Delk: ICSC Vegas",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Email from Jacob Delk: ICSC - Anchor / Chase",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
           "event": "Email from Jacob Delk: Malone - Five Below Lease",
           "type": "email"
         },
@@ -12633,6 +12658,16 @@
       "nextStep": "Wait for HVAC vendor inspection timing/findings before final Great Greek LOI posture.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-13",
+          "event": "Email from Jacob Delk: ICSC Vegas",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Email from Jacob Delk: ICSC - Anchor / Chase",
+          "type": "email"
+        },
         {
           "date": "2026-05-13",
           "event": "Email from Jacob Delk: Malone - Five Below Lease",
@@ -16643,6 +16678,11 @@
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
+          "date": "2026-05-13",
+          "event": "Email from CPE Daily Newsletter: Highwoods cashes in $255M for Nashville tower",
+          "type": "email"
+        },
+        {
           "date": "2026-05-12",
           "event": "Email from Jacob Delk: Buena Vista",
           "type": "email"
@@ -19902,6 +19942,21 @@
       "timeline": [
         {
           "date": "2026-05-13",
+          "event": "Email from ICSC LAS VEGAS: Important Event Updates!",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Email from Jacob Delk: ICSC Vegas",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Email from Jacob Delk: ICSC - Anchor / Chase",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
           "event": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
           "type": "email"
         },
@@ -20719,20 +20774,6 @@
       "urgency": "low"
     },
     {
-      "name": "Nhung Pham",
-      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 2,
-      "lastAction": "Email from Google Cloud: Are you ready for tomorrow’s SMB highlights from Next ‘",
-      "urgency": "low"
-    },
-    {
-      "name": "Dwaine High",
-      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 2,
-      "lastAction": "Email from Google Cloud: Are you ready for tomorrow’s SMB highlights from Next ‘",
-      "urgency": "low"
-    },
-    {
       "name": "Laurie",
       "deal": " — Evansville",
       "daysSinceContact": 2,
@@ -20933,27 +20974,6 @@
       "deal": "HopeSmiles — Creekside Crossing",
       "daysSinceContact": 1,
       "lastAction": "Email from Ashley Cusker | Katz & Associates: Fat Rosie's Seeking Sites in the N",
-      "urgency": "low"
-    },
-    {
-      "name": "Julie Robbins",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: Buena Vista",
-      "urgency": "low"
-    },
-    {
-      "name": "Michael Dunn",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: Buena Vista",
-      "urgency": "low"
-    },
-    {
-      "name": "Cole @ DR Horton",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: Buena Vista",
       "urgency": "low"
     },
     {
@@ -21167,59 +21187,73 @@
       "urgency": "low"
     },
     {
+      "name": "Nhung Pham",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CPE Daily Newsletter: Highwoods cashes in $255M for Nashville tower",
+      "urgency": "low"
+    },
+    {
+      "name": "Dwaine High",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CPE Daily Newsletter: Highwoods cashes in $255M for Nashville tower",
+      "urgency": "low"
+    },
+    {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Chain Store Age: Make Faster, More Confident Product Decisions",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Chain Store Age: Make Faster, More Confident Product Decisions",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Chain Store Age: Make Faster, More Confident Product Decisions",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Chain Store Age: Make Faster, More Confident Product Decisions",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Chain Store Age: Make Faster, More Confident Product Decisions",
       "urgency": "low"
     },
     {
       "name": "Jon Petty - jpetty@southeastventure.com",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Chain Store Age: Make Faster, More Confident Product Decisions",
       "urgency": "low"
     },
     {
       "name": "Amy Taylor",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Chain Store Age: Make Faster, More Confident Product Decisions",
       "urgency": "low"
     },
     {
       "name": "Amy Taylor",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Chain Store Age: Make Faster, More Confident Product Decisions",
       "urgency": "low"
     },
     {
@@ -21240,7 +21274,7 @@
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from ICSC LAS VEGAS: Important Event Updates!",
       "urgency": "low"
     },
     {
@@ -21443,14 +21477,14 @@
       "name": "Carmen Drake",
       "deal": " — Evansville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone - Five Below Lease",
+      "lastAction": "Email from Jacob Delk: ICSC Vegas",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Evansville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone - Five Below Lease",
+      "lastAction": "Email from Jacob Delk: ICSC Vegas",
       "urgency": "low"
     },
     {
@@ -21485,84 +21519,105 @@
       "name": "Joey",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone - Five Below Lease",
+      "lastAction": "Email from Jacob Delk: ICSC Vegas",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone - Five Below Lease",
+      "lastAction": "Email from Jacob Delk: ICSC Vegas",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone - Five Below Lease",
+      "lastAction": "Email from Jacob Delk: ICSC Vegas",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone - Five Below Lease",
+      "lastAction": "Email from Jacob Delk: ICSC Vegas",
       "urgency": "low"
     },
     {
       "name": "ala h.",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone - Five Below Lease",
+      "lastAction": "Email from Jacob Delk: ICSC Vegas",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone - Five Below Lease",
+      "lastAction": "Email from Jacob Delk: ICSC Vegas",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone - Five Below Lease",
+      "lastAction": "Email from Jacob Delk: ICSC Vegas",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone - Five Below Lease",
+      "lastAction": "Email from Jacob Delk: ICSC Vegas",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti <jvalenti@centenretail.com>",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone - Five Below Lease",
+      "lastAction": "Email from Jacob Delk: ICSC Vegas",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone - Five Below Lease",
+      "lastAction": "Email from Jacob Delk: ICSC Vegas",
       "urgency": "low"
     },
     {
       "name": "EJ",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone - Five Below Lease",
+      "lastAction": "Email from Jacob Delk: ICSC Vegas",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone - Five Below Lease",
+      "lastAction": "Email from Jacob Delk: ICSC Vegas",
+      "urgency": "low"
+    },
+    {
+      "name": "Julie Robbins",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CPE Daily Newsletter: Highwoods cashes in $255M for Nashville tower",
+      "urgency": "low"
+    },
+    {
+      "name": "Michael Dunn",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CPE Daily Newsletter: Highwoods cashes in $255M for Nashville tower",
+      "urgency": "low"
+    },
+    {
+      "name": "Cole @ DR Horton",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CPE Daily Newsletter: Highwoods cashes in $255M for Nashville tower",
       "urgency": "low"
     },
     {
@@ -21632,14 +21687,14 @@
       "name": "Juliana Fernandez",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from ICSC LAS VEGAS: Important Event Updates!",
       "urgency": "low"
     },
     {
       "name": "Carson Knight",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from ICSC LAS VEGAS: Important Event Updates!",
       "urgency": "low"
     },
     {
