@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T11:31:10.181581",
+  "lastUpdated": "2026-05-13T12:07:26.685892",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-13",
@@ -20323,19 +20323,27 @@
     {
       "id": "cleveland-furniture-bank-parma-heights",
       "name": "Cleveland Furniture Bank",
-      "property": "6282 Pearl Road, Parma Heights",
-      "status": "Tom Gaghan pushed back on payment follow-up, saying he interpreted it as no rent relief; Mathison replied he was not in rent-relief conversations and would talk to the team to understand it.",
+      "property": "Pearl Road / Cleveland Furniture Bank",
+      "status": "Micah reviewed CFB financials and said Anchor will proceed with the plan discussed yesterday; Clay to keep team posted on the tenant conversation.",
       "stage": "Trading Terms",
-      "nextStep": "Team needs align internally on Cleveland Furniture Bank rent relief/payment-plan position before further response.",
+      "nextStep": "Clay to report back after conversation; Jacob/Micah to decide rent relief structure if needed.",
       "priority": "medium",
       "contacts": [
         "Tom Gaghan (Executive Director, Cleveland Furniture Bank)",
         "Tom Gaghan (Cleveland Furniture Bank) - 440-263-9792 - tom@clevelandfurniturebank.org",
         "Tom Gaghan (Cleveland Furniture Bank)",
         "Mathison Ingham",
-        "Clay Richardson"
+        "Clay Richardson",
+        "Tom Gaghan",
+        "Micah Lacher",
+        "Clay"
       ],
       "timeline": [
+        {
+          "date": "2026-05-13",
+          "event": "Micah reviewed CFB financials and confirmed plan discussed with Jacob.",
+          "type": "email"
+        },
         {
           "date": "2026-05-12",
           "event": "Email from Tom Gaghan: FW: March and April Rent",
