@@ -1,8 +1,8 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-05-11 9:06 PM CDT
+Last updated: 2026-05-12 6:00 PM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T173 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T182 -->
 
 ## ACTIVE — Jacob needs to do these
 
@@ -27,7 +27,7 @@ Last updated: 2026-05-11 9:06 PM CDT
 - T138: Emerson / Lately Projects — get lease signed this week; Jacob said Anchor has legal standing on expiration timing and should proceed, with construction storefront height details to be worked out after signing. [source: Plaud leasing meeting 2026-05-04 00:02:29-00:03:30] [deal: Gallatin / Lately Projects]
 - T139: Hamilton vacancy / laundromat — Jacob re-upped in 5/8 brain dump: do the laundromat to-do from the leasing meeting by contacting prior laundromat contact and floating whether $200K-$300K TI would move the needle, with better rent required. [source: Plaud leasing meeting 2026-05-04 00:11:52-00:19:28; brain-dump 5/8] [deal: Hamilton] [asana: 1214669249370861]
 - T140: Adam onboarding / leasing cadence — Jacob re-upped in 5/8 brain dump: work on Adam's onboarding plan with early Slack/email access, leasing channel history, podcasts/lease self-study, early real outreach, weekly Jacob/Adam one-on-one, and continued Jacob/Micah active-deal meeting. 5/11 meeting: Adam likely full-time Nashville next week / June 1 formal start still likely; build in onboarding time. [source: Plaud leasing meeting 2026-05-04; brain-dump 5/8; 5/11 leasing meeting] [deal: Leasing Associate hire] [asana: 1214660658494786]
-- T141: MacBid / Evansville-Hamilton expansion — ping MacBid about expansion plans, San Antonio focus, Evansville interest, and whether Harrison/Gastonia locations affect Anchor targets. [source: Plaud leasing meeting 2026-05-04 00:13:45-00:17:50; Jacob correction 2026-05-04: say MacBid, not Yinz] [deal: Evansville / Hamilton]
+- T141: MacBid / Evansville-Hamilton expansion — Jacob pinged CBRE/MacBid for ICSC; Carmine replied 5/12 PM that Collin is no longer on the MAC account, James Stocker is now the main TM lead, and they will not be at ICSC this year. Next step: follow up with James after/around ICSC about expansion plans, San Antonio focus, Evansville interest, and whether Harrison/Gastonia locations affect Anchor targets. [gmail thread: 19e1dc9a339e91ac] [source: Plaud leasing meeting 2026-05-04 00:13:45-00:17:50; Jacob correction 2026-05-04: say MacBid, not Yinz; Communication Triage after-hours 2026-05-12] [deal: Evansville / Hamilton]
 - T142: Five Below / Malone kickoff follow-up — review latest layout/preliminary elevation from Five Below, confirm facade height alignment with Marshalls/Shoe Dept after 5/5 survey, and approve/comment so final sign exhibit can start. [source: Plaud Five Below kickoff 2026-05-04] [deal: Malone / Five Below]
 - T143: Five Below / Malone landlord drawings — decide with Clay/ownership whether to start landlord plan set before lease execution; scope includes facade, demising, loading, and RTU openings. [source: Plaud Five Below kickoff 2026-05-04] [deal: Malone / Five Below]
 - T144: Five Below / Malone lease exhibits — watch for lease by end of week and review work letter, final sign exhibit, and no-build-area exhibit. [source: Plaud Five Below kickoff 2026-05-04] [deal: Malone / Five Below]
@@ -49,7 +49,6 @@ Last updated: 2026-05-11 9:06 PM CDT
 - T161: Read/review Five Below lease and send it to Ashby — 5/11 meeting confirmed to send Ashby the lease now, ask for redline-fashion comments, and set a Thursday-ish call/timeframe while Jacob separately reviews business points. [source: brain-dump 2026-05-08; 5/11 leasing meeting] [deal: Malone / Five Below] [asana: 1214660167404030]
 - T162: Send Adam playlist of podcasts — 5/11 meeting indicates Jacob sent Adam the podcast playlist for his travel week; Asana still open at 6 PM self-review, so verify/close before removing. [source: brain-dump 2026-05-08; 5/11 leasing meeting; Asana check 2026-05-11 6 PM] [deal: Leasing Associate hire] [asana: 1214660167404041]
 - T163: Set up Adam's email. [source: brain-dump 2026-05-08] [deal: Leasing Associate hire] [asana: 1214660373247643]
-- T164: GMX/Hamilton REA/title follow-up — Bob McAuliff sent further revised REA/redline on 5/8 and asked if helpful to discuss; Ashby forwarded fresh Hamilton title/extension context 5/11 at 7:42 PM with “See below and let’s discuss.” 5/12 lease research: Subway Suite 113 expires 10/31/2027; no remaining renewal option found after the 2022-2027 Second Amendment; no Subway no-build/parking-ratio restriction found. AutoZone is the sensitive issue: Fifth Amendment consents to Dutch Bros drive-thru building subject to 2,000 SF cap, no violation of AutoZone protective covenants, and no blocking/impairing AutoZone signage. Review/coordinate with Ashby/Micah. [gmail threads: 19d9d19533d4ddf7, 19df518a3f3c4742] [asana: 1214660375898014] [source: after-hours triage 2026-05-08; Communication Triage 2026-05-11 9 PM; lease research 2026-05-12] [deal: Hamilton Community Partners sale]
 
 - T165: Meeting room cord/cord-management fix — find/order longer HDMI/USB-C cord and consider a cleaner cord-management box/system for the conference room. [source: 5/11 leasing meeting] [asana: 1214716864586590]
 - T166: McMinnville facade value-engineering — send Clay example screenshots and ask contractors for lower-cost ways to improve facade/screen rooftop/mechanical visibility before promising anything to UPS/Wingstop. [source: 5/11 leasing meeting] [deal: McMinnville Plaza] [asana: 1214716864652266]
@@ -61,6 +60,17 @@ Last updated: 2026-05-11 9:06 PM CDT
 
 - T171: Shawn Goffer / New Memphis Suite 411 pricing question — Shawn asked how much Suite 411 would be per month after Jacob previously quoted $3,500-$4,000 for suites 411/410/409 combined; Gmail draft reply loaded for Jacob approval saying Jacob will confirm the number and get back to him. Do not send unless Jacob approves. [gmail thread: 19e085dfeff5160c] [draft: r7538089274043099608] [source: Communication Triage 2026-05-11 4 PM] [deal: New Memphis Building]
 
+
+
+- T173: Offsite / Carole MRI historical data export — Carole’s top accounting rock for the quarter: export historical MRI data before renewal/access becomes urgent, likely 2021 forward; priority reports include income statements, balance sheets, rent rolls, investor/distribution history, and GLs where practical. Coordinate whether Jarvis can automate parts of export. [source: 2026-05-06 Q2 offsite] [owner: Carole/Jacob] [project: q2-offsite-2026]
+- T174: Offsite / Fund viability testing — Ryan to finalize/refine fund model, stress tests, legal/securities/accounting question list, securities attorney contact, model portfolio, and acquisition-volume test before major fund-doc spend. [source: 2026-05-06 Q2 offsite] [owner: Ryan/Micah] [project: q2-offsite-2026]
+- T175: Offsite / Investor socialization — Micah to start summer investor meetings for shortened fund deck with existing investors, family offices, foundations/charities, and money managers; collect feedback on demand, structure, audited-fund requirements, liquidity/redemption, and timing. [source: 2026-05-06 Q2 offsite] [owner: Micah] [project: q2-offsite-2026]
+- T176: Offsite / Wilson Pike feasibility — Clay to push Wilson Pike office/flex/yard feasibility with concepts, rent comps, cost assumptions, metal-building feasibility, and likely use direction. [source: 2026-05-06 Q2 offsite] [owner: Clay] [project: q2-offsite-2026]
+- T177: Offsite / Madison development feasibility — Clay to push Madison small-bay warehouse concept with example comps, updated site-plan thinking, pricing, and next-step feasibility. [source: 2026-05-06 Q2 offsite] [owner: Clay] [project: q2-offsite-2026]
+- T178: Offsite / Operations paperless adoption — Clay/team to own tenant portal / operations paperless adoption rock with measurable target toward ~50% adoption. [source: 2026-05-06 Q2 offsite] [owner: Clay/PM team] [project: q2-offsite-2026]
+- T179: Offsite / Department AI rocks — each department/team member should define one practical AI rock for the quarter; Jacob to prioritize automation work by ROI/time savings rather than novelty as margin opens. [source: 2026-05-06 Q2 offsite] [owner: Jacob/team leads] [project: q2-offsite-2026]
+- T180: Offsite / Cleveland Furniture Bank financial review — Jacob to send Micah/Ryan the tenant financials/sales info and decide whether to structure short-term rent relief with reporting/review period. [source: 2026-05-06 Q2 offsite] [owner: Jacob/Micah/Ryan] [deal: Parma / Cleveland Furniture Bank]
+- T181: Offsite / Russellville-Vance hold-sell analysis — analyze Russellville cash-flow hold vs sale after leasing progress and watch Vance/Uniform Source renewal/value path. [source: 2026-05-06 Q2 offsite] [owner: Micah/Ryan/Jacob] [deal: Russellville / Vance]
 
 
 ### Next Week+
@@ -76,9 +86,9 @@ Last updated: 2026-05-11 9:06 PM CDT
 
 ## WATCHING — Monitor, not actionable yet
 
-Note: WATCHING items should be removed once real movement comes in. Gastonia laundromat was removed on 4/10 after a fresh DocuSign reminder signaled movement. Pell City was removed earlier on 4/10 after fresh email movement from Factory Connection. McMinnville monument sign was removed on 4/14 after Clay sent fresh Slack PDFs/comments for review. ABC Russellville was removed on 4/27 after Clay asked whether to commission the ABC work; it is now active as T122. Crunch Fitness and McMinnville landscaping were removed from WATCHING on 5/5 and promoted to active follow-up tasks T152/T146. T137 Academy/Shelbyville started 5/4 and is not stale yet.
+Note: WATCHING items should be removed once real movement comes in. Gastonia laundromat was removed on 4/10 after a fresh DocuSign reminder signaled movement. Pell City was removed earlier on 4/10 after fresh email movement from Factory Connection. McMinnville monument sign was removed on 4/14 after Clay sent fresh Slack PDFs/comments for review. ABC Russellville was removed on 4/27 after Clay asked whether to commission the ABC work; it is now active as T122. Crunch Fitness and McMinnville landscaping were removed from WATCHING on 5/5 and promoted to active follow-up tasks T152/T146. T137 Academy/Shelbyville started 5/4 and was flagged stale on 5/12 for the next morning briefing.
 
-- T137: Academy Sports / Shelbyville — watch for response after Jacob sends pitch for former Big Lots box at 1840 E Michigan Rd; if no response, follow up with Brian Ferguson / Academy real estate contact. Proof points: ~30 miles from Indianapolis, ~25-30 min from Greenwood Academy store, 40K SF box, E Michigan Rd retail corridor, Academy outside-in exurb/satellite strategy. [source: Jacob 5/4; deal: Shelbyville]
+- T137: Academy Sports / Shelbyville — watch for response after Jacob sends pitch for former Big Lots box at 1840 E Michigan Rd; if no response, follow up with Brian Ferguson / Academy real estate contact. Proof points: ~30 miles from Indianapolis, ~25-30 min from Greenwood Academy store, 40K SF box, E Michigan Rd retail corridor, Academy outside-in exurb/satellite strategy. [source: Jacob 5/4; deal: Shelbyville] [stale-watch 5/12: 8 days with no movement; queued for morning briefing]
 
 ## COMPLETED — Recent (auto-cleaned after 7 days)
 
