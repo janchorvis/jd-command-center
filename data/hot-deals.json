@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T12:08:17.811027",
+  "lastUpdated": "2026-05-13T12:30:38.848090",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-13",
@@ -52,6 +52,16 @@
       "nextStep": "Jacob to review Five Below lease this week, send to Ashby, and ask for redline comments with a Thursday call/timeframe.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-13",
+          "event": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin Partners LLC - Lately Proj",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Email from Micah Lacher (via Google Drive): Folder shared with you: \"2518 Gallatin Partners, LLC\"",
+          "type": "email"
+        },
         {
           "date": "2026-05-13",
           "event": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
@@ -4281,6 +4291,11 @@
       "nextStep": "Tell Carole to put Russellville ABC commission on the books and pay when cash position permits.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-13",
+          "event": "Email from ICSC RETAIL FORWARD COLUMBUS: Registration Is Now Open",
+          "type": "email"
+        },
         {
           "date": "2026-05-13",
           "event": "Email from Tom McGee – ICSC President & CEO: Update on the Combating Organized Retail Crime Act",
@@ -9101,6 +9116,16 @@
       "timeline": [
         {
           "date": "2026-05-13",
+          "event": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin Partners LLC - Lately Proj",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Email from Micah Lacher (via Google Drive): Folder shared with you: \"2518 Gallatin Partners, LLC\"",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
           "event": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
           "type": "email"
         },
@@ -10389,6 +10414,11 @@
         "Sheldon (Aldi)"
       ],
       "timeline": [
+        {
+          "date": "2026-05-13",
+          "event": "Email from Tom Gaghan: Sales Report and P & L",
+          "type": "email"
+        },
         {
           "date": "2026-05-13",
           "event": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
@@ -11681,6 +11711,11 @@
       "timeline": [
         {
           "date": "2026-05-13",
+          "event": "Email from Laurie Seals: Automatic reply: Big Lots - S Green River Rd",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
           "event": "Email from Rashona Howard: LoopNet Lead for Pell City Marketplace",
           "type": "email"
         },
@@ -12026,7 +12061,7 @@
       "name": "",
       "property": "Evansville",
       "status": "Melissa sent interior/exterior photo set for the Big Lots space in Evansville.",
-      "stage": "Trading Terms",
+      "stage": "Lease Signed",
       "nextStep": "Use space photos for Evansville box marketing/prospect follow-up.",
       "priority": "high",
       "contacts": [
@@ -12034,6 +12069,21 @@
         "Melissa Drish <mdrish@anchorinv.com>"
       ],
       "timeline": [
+        {
+          "date": "2026-05-13",
+          "event": "Email from Jacob Delk: Q2 Offsite Recap + Next 90 Days",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Email from Anchor Leasing: Fwd: Firework Tent Details",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin Partners LLC - Lately Proj",
+          "type": "email"
+        },
         {
           "date": "2026-05-13",
           "event": "Email from Jacob Delk: ICSC Vegas",
@@ -12195,7 +12245,9 @@
         "suiteCount": 7,
         "vacantCount": 0
       },
-      "stageOverride": "Trading Terms"
+      "stageOverride": "Lease Signed",
+      "stageOverrideDate": "2026-05-13",
+      "stageOverrideSource": "email-signal: complete with docusign"
     },
     {
       "id": "mcminnville-plaza",
@@ -12673,6 +12725,21 @@
       "nextStep": "Wait for HVAC vendor inspection timing/findings before final Great Greek LOI posture.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-13",
+          "event": "Email from Jacob Delk: Q2 Offsite Recap + Next 90 Days",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Email from Anchor Leasing: Fwd: Firework Tent Details",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin Partners LLC - Lately Proj",
+          "type": "email"
+        },
         {
           "date": "2026-05-13",
           "event": "Email from Jacob Delk: ICSC Vegas",
@@ -13347,8 +13414,10 @@
         "EJ (Tenant Contractor)",
         "Melissa Drish"
       ],
-      "stage": "LOI",
-      "stageOverride": "LOI"
+      "stage": "Lease Signed",
+      "stageOverride": "Lease Signed",
+      "stageOverrideDate": "2026-05-13",
+      "stageOverrideSource": "email-signal: complete with docusign"
     },
     {
       "id": "evansville-easterseals",
@@ -13358,6 +13427,11 @@
       "nextStep": "Ping Laurie for update and ask for CEO feedback within 10-14 days because another interested party is active.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-13",
+          "event": "Email from Laurie Seals: Automatic reply: Big Lots - S Green River Rd",
+          "type": "email"
+        },
         {
           "date": "2026-05-11",
           "event": "Email from Melissa Drish: Big Lots space-Evansville IN-space pics",
@@ -14965,6 +15039,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-13",
+          "event": "Email from Dillon Eakes: FINAL CALL: Nashville Sounds - 05.28",
+          "type": "email"
+        },
+        {
           "date": "2026-05-12",
           "event": "Email from Mailynne Calvin: 2,500SF at 235 E MAIN ST, HENDERSONVILLE, TN 37075",
           "type": "email"
@@ -15721,7 +15800,7 @@
       "name": "Hamilton Title Objection",
       "property": "Hamilton",
       "status": "Ashby flagged buyer REA changes: blanket cross-parking over the whole lot, unanimous approval for material lot changes, Private Drive Maintenance Costs pushed back to seller, and buyer wants sole snow-removal control/reimbursement. Jacob replied that Anchor will review and send thoughts this afternoon.",
-      "stage": "Lease Draft & Review",
+      "stage": "Lease Signed",
       "nextStep": "Review Ashby's REA comments with Micah and send Anchor's response posture this afternoon.",
       "priority": "high",
       "contacts": [
@@ -15737,6 +15816,21 @@
         "Ashby Scott <ascott@evanspetree.com>"
       ],
       "timeline": [
+        {
+          "date": "2026-05-13",
+          "event": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin Partners LLC - Lately Proj",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Email from Micah Lacher (via Google Drive): Folder shared with you: \"2518 Gallatin Partners, LLC\"",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Email from Dillon Eakes: FINAL CALL: Nashville Sounds - 05.28",
+          "type": "email"
+        },
         {
           "date": "2026-05-12",
           "event": "Email from Chris Keenan: Rebooting the Phoenix Club Mentor Program!",
@@ -16041,7 +16135,10 @@
         "avgSqFt": 5334,
         "suiteCount": 12,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Lease Signed",
+      "stageOverrideDate": "2026-05-13",
+      "stageOverrideSource": "email-signal: complete with docusign"
     }
   ],
   "sideDeals": [
@@ -16692,6 +16789,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-05-13",
+          "event": "Email from Dillon Eakes: FINAL CALL: Nashville Sounds - 05.28",
+          "type": "email"
+        },
         {
           "date": "2026-05-13",
           "event": "Email from CPE Daily Newsletter: Highwoods cashes in $255M for Nashville tower",
@@ -17890,6 +17992,16 @@
       "priority": "high",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-05-13",
+          "event": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin Partners LLC - Lately Proj",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Email from Micah Lacher (via Google Drive): Folder shared with you: \"2518 Gallatin Partners, LLC\"",
+          "type": "email"
+        },
         {
           "date": "2026-05-13",
           "event": "Email from Porthaven Partners: Price Reduced: 6.00% Cap -  New Dutch Bros | Motivated Seller Offering Above Mar",
@@ -19971,6 +20083,11 @@
       "timeline": [
         {
           "date": "2026-05-13",
+          "event": "Email from ICSC RETAIL FORWARD COLUMBUS: Registration Is Now Open",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
           "event": "Email from ICSC Commerce + Communities Today: Dog Haus Pushes Toward 350 Locations in 3 Years",
           "type": "email"
         },
@@ -20344,7 +20461,7 @@
       "name": "Cleveland Furniture Bank",
       "property": "Pearl Road / Cleveland Furniture Bank",
       "status": "Micah reviewed CFB financials and said Anchor will proceed with the plan discussed yesterday; Clay to keep team posted on the tenant conversation.",
-      "stage": "Trading Terms",
+      "stage": "Lease Signed",
       "nextStep": "Clay to report back after conversation; Jacob/Micah to decide rent relief structure if needed.",
       "priority": "medium",
       "contacts": [
@@ -20358,6 +20475,21 @@
         "Clay"
       ],
       "timeline": [
+        {
+          "date": "2026-05-13",
+          "event": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin Partners LLC - Lately Proj",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Email from Micah Lacher (via Google Drive): Folder shared with you: \"2518 Gallatin Partners, LLC\"",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Email from Tom Gaghan: Sales Report and P & L",
+          "type": "email"
+        },
         {
           "date": "2026-05-13",
           "event": "Micah reviewed CFB financials and confirmed plan discussed with Jacob.",
@@ -20421,20 +20553,32 @@
         "suiteCount": 9,
         "vacantCount": 0
       },
-      "stageOverride": "Trading Terms"
+      "stageOverride": "Lease Signed",
+      "stageOverrideDate": "2026-05-13",
+      "stageOverrideSource": "email-signal: complete with docusign"
     },
     {
       "id": "gallatin-2512-daycare",
       "name": "Jordyn Stallings - Daycare Inquiry",
       "property": "2512 Gallatin Avenue",
       "status": "Jordyn Stallings asked whether daycare use would be approved and whether playground space is possible; draft reply exists saying Jacob will check on daycare/playground use and get back to her.",
-      "stage": "Contact Made",
+      "stage": "Lease Signed",
       "nextStep": "Jacob to confirm daycare/playground feasibility and respond.",
       "priority": "medium",
       "contacts": [
         "Jordyn Stallings (Cushman & Wakefield)"
       ],
       "timeline": [
+        {
+          "date": "2026-05-13",
+          "event": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin Partners LLC - Lately Proj",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Email from Micah Lacher (via Google Drive): Folder shared with you: \"2518 Gallatin Partners, LLC\"",
+          "type": "email"
+        },
         {
           "date": "2026-05-12",
           "event": "Email from Robert Burns: 209 29th Avenue N",
@@ -20487,7 +20631,10 @@
         "avgSqFt": 12304,
         "suiteCount": 2,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Lease Signed",
+      "stageOverrideDate": "2026-05-13",
+      "stageOverrideSource": "email-signal: complete with docusign"
     }
   ],
   "droppedBalls": [
@@ -20816,13 +20963,6 @@
       "urgency": "low"
     },
     {
-      "name": "Laurie",
-      "deal": " — Evansville",
-      "daysSinceContact": 2,
-      "lastAction": "Email from Melissa Drish: Big Lots space-Evansville IN-space pics",
-      "urgency": "low"
-    },
-    {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
       "daysSinceContact": 1,
@@ -20862,83 +21002,6 @@
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 1,
       "lastAction": "Email from Ashby Scott: Fwd: GMX/Hamilton Community Partners - Extension Request",
-      "urgency": "low"
-    },
-    {
-      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
-      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Mailynne Calvin: 2,500SF at 235 E MAIN ST, HENDERSONVILLE, TN 37075",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Chris Keenan: Rebooting the Phoenix Club Mentor Program!",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Chris Keenan: Rebooting the Phoenix Club Mentor Program!",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Chris Keenan: Rebooting the Phoenix Club Mentor Program!",
-      "urgency": "low"
-    },
-    {
-      "name": "Bob McAuliff",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Chris Keenan: Rebooting the Phoenix Club Mentor Program!",
-      "urgency": "low"
-    },
-    {
-      "name": "Bob McAuliff",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Chris Keenan: Rebooting the Phoenix Club Mentor Program!",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Chris Keenan: Rebooting the Phoenix Club Mentor Program!",
-      "urgency": "low"
-    },
-    {
-      "name": "Lisa Sweeney",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Chris Keenan: Rebooting the Phoenix Club Mentor Program!",
-      "urgency": "low"
-    },
-    {
-      "name": "Wm. Coey Vierling <oinkysurveying@gmail.com>",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Chris Keenan: Rebooting the Phoenix Club Mentor Program!",
-      "urgency": "low"
-    },
-    {
-      "name": "Bob McAuliff <BMcAuliff@taftlaw.com>",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Chris Keenan: Rebooting the Phoenix Club Mentor Program!",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott <ascott@evanspetree.com>",
-      "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Chris Keenan: Rebooting the Phoenix Club Mentor Program!",
       "urgency": "low"
     },
     {
@@ -21019,13 +21082,6 @@
       "urgency": "low"
     },
     {
-      "name": "Keystone Fireworks",
-      "deal": "Fireworks Stands — Multiple Sites",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Ashley Cusker | Katz & Associates: Fat Rosie's Seeking Sites in the N",
-      "urgency": "low"
-    },
-    {
       "name": "Pesach Gewirtz",
       "deal": "Infinite Equity Capital - 730 — 730",
       "daysSinceContact": 1,
@@ -21033,150 +21089,108 @@
       "urgency": "low"
     },
     {
-      "name": "Tom Gaghan",
-      "deal": "Cleveland Furniture Bank — 6282 Pearl Road, Parma Heights",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Tom Gaghan: FW: March and April Rent",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Gaghan - 440-263-9792 - tom@clevelandfurniturebank.org",
-      "deal": "Cleveland Furniture Bank — 6282 Pearl Road, Parma Heights",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Tom Gaghan: FW: March and April Rent",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Gaghan",
-      "deal": "Cleveland Furniture Bank — 6282 Pearl Road, Parma Heights",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Tom Gaghan: FW: March and April Rent",
-      "urgency": "low"
-    },
-    {
-      "name": "Mathison Ingham",
-      "deal": "Cleveland Furniture Bank — 6282 Pearl Road, Parma Heights",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Tom Gaghan: FW: March and April Rent",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": "Cleveland Furniture Bank — 6282 Pearl Road, Parma Heights",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Tom Gaghan: FW: March and April Rent",
-      "urgency": "low"
-    },
-    {
-      "name": "Jordyn Stallings",
-      "deal": "Jordyn Stallings - Daycare Inquiry — 2512 Gallatin Avenue",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Robert Burns: 209 29th Avenue N",
-      "urgency": "low"
-    },
-    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
@@ -21218,14 +21232,14 @@
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Tom McGee – ICSC President & CEO: Update on the Combating Organized R",
+      "lastAction": "Email from ICSC RETAIL FORWARD COLUMBUS: Registration Is Now Open",
       "urgency": "low"
     },
     {
       "name": "Carole",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Tom McGee – ICSC President & CEO: Update on the Combating Organized R",
+      "lastAction": "Email from ICSC RETAIL FORWARD COLUMBUS: Registration Is Now Open",
       "urgency": "low"
     },
     {
@@ -21323,140 +21337,140 @@
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson <Robert_Richardson@tjx.com>",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano <andriano@c2-designgroup.com>",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Spencer",
       "deal": "Royal Furniture — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Tom Gaghan: Sales Report and P & L",
       "urgency": "low"
     },
     {
       "name": "Sheldon",
       "deal": "Royal Furniture — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "lastAction": "Email from Tom Gaghan: Sales Report and P & L",
       "urgency": "low"
     },
     {
@@ -21470,63 +21484,63 @@
       "name": "Lauri Fowler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rashona Howard: LoopNet Lead for Pell City Marketplace",
+      "lastAction": "Email from Laurie Seals: Automatic reply: Big Lots - S Green River Rd",
       "urgency": "low"
     },
     {
       "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rashona Howard: LoopNet Lead for Pell City Marketplace",
+      "lastAction": "Email from Laurie Seals: Automatic reply: Big Lots - S Green River Rd",
       "urgency": "low"
     },
     {
       "name": "David Cooke",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rashona Howard: LoopNet Lead for Pell City Marketplace",
+      "lastAction": "Email from Laurie Seals: Automatic reply: Big Lots - S Green River Rd",
       "urgency": "low"
     },
     {
       "name": "Abbey Gill",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rashona Howard: LoopNet Lead for Pell City Marketplace",
+      "lastAction": "Email from Laurie Seals: Automatic reply: Big Lots - S Green River Rd",
       "urgency": "low"
     },
     {
       "name": "Scott Myers <smyerscre2@outlook.com>",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rashona Howard: LoopNet Lead for Pell City Marketplace",
+      "lastAction": "Email from Laurie Seals: Automatic reply: Big Lots - S Green River Rd",
       "urgency": "low"
     },
     {
       "name": "Laurie",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rashona Howard: LoopNet Lead for Pell City Marketplace",
+      "lastAction": "Email from Laurie Seals: Automatic reply: Big Lots - S Green River Rd",
       "urgency": "low"
     },
     {
       "name": "Mitch",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rashona Howard: LoopNet Lead for Pell City Marketplace",
+      "lastAction": "Email from Laurie Seals: Automatic reply: Big Lots - S Green River Rd",
       "urgency": "low"
     },
     {
       "name": "Carmen Drake",
       "deal": " — Evansville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC Vegas",
+      "lastAction": "Email from Jacob Delk: Q2 Offsite Recap + Next 90 Days",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Evansville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC Vegas",
+      "lastAction": "Email from Jacob Delk: Q2 Offsite Recap + Next 90 Days",
       "urgency": "low"
     },
     {
@@ -21561,161 +21575,259 @@
       "name": "Joey",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC Vegas",
+      "lastAction": "Email from Jacob Delk: Q2 Offsite Recap + Next 90 Days",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC Vegas",
+      "lastAction": "Email from Jacob Delk: Q2 Offsite Recap + Next 90 Days",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC Vegas",
+      "lastAction": "Email from Jacob Delk: Q2 Offsite Recap + Next 90 Days",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC Vegas",
+      "lastAction": "Email from Jacob Delk: Q2 Offsite Recap + Next 90 Days",
       "urgency": "low"
     },
     {
       "name": "ala h.",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC Vegas",
+      "lastAction": "Email from Jacob Delk: Q2 Offsite Recap + Next 90 Days",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC Vegas",
+      "lastAction": "Email from Jacob Delk: Q2 Offsite Recap + Next 90 Days",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC Vegas",
+      "lastAction": "Email from Jacob Delk: Q2 Offsite Recap + Next 90 Days",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC Vegas",
+      "lastAction": "Email from Jacob Delk: Q2 Offsite Recap + Next 90 Days",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti <jvalenti@centenretail.com>",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC Vegas",
+      "lastAction": "Email from Jacob Delk: Q2 Offsite Recap + Next 90 Days",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC Vegas",
+      "lastAction": "Email from Jacob Delk: Q2 Offsite Recap + Next 90 Days",
       "urgency": "low"
     },
     {
       "name": "EJ",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC Vegas",
+      "lastAction": "Email from Jacob Delk: Q2 Offsite Recap + Next 90 Days",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC Vegas",
+      "lastAction": "Email from Jacob Delk: Q2 Offsite Recap + Next 90 Days",
+      "urgency": "low"
+    },
+    {
+      "name": "Laurie",
+      "deal": " — Evansville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Laurie Seals: Automatic reply: Big Lots - S Green River Rd",
+      "urgency": "low"
+    },
+    {
+      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
+      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Dillon Eakes: FINAL CALL: Nashville Sounds - 05.28",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
+      "urgency": "low"
+    },
+    {
+      "name": "Bob McAuliff",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
+      "urgency": "low"
+    },
+    {
+      "name": "Bob McAuliff",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
+      "urgency": "low"
+    },
+    {
+      "name": "Lisa Sweeney",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
+      "urgency": "low"
+    },
+    {
+      "name": "Wm. Coey Vierling <oinkysurveying@gmail.com>",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
+      "urgency": "low"
+    },
+    {
+      "name": "Bob McAuliff <BMcAuliff@taftlaw.com>",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott <ascott@evanspetree.com>",
+      "deal": "Hamilton Title Objection — Hamilton",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from CPE Daily Newsletter: Highwoods cashes in $255M for Nashville tower",
+      "lastAction": "Email from Dillon Eakes: FINAL CALL: Nashville Sounds - 05.28",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from CPE Daily Newsletter: Highwoods cashes in $255M for Nashville tower",
+      "lastAction": "Email from Dillon Eakes: FINAL CALL: Nashville Sounds - 05.28",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from CPE Daily Newsletter: Highwoods cashes in $255M for Nashville tower",
+      "lastAction": "Email from Dillon Eakes: FINAL CALL: Nashville Sounds - 05.28",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Price Reduced: 6.00% Cap -  New Dutch Bros | Moti",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Price Reduced: 6.00% Cap -  New Dutch Bros | Moti",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Price Reduced: 6.00% Cap -  New Dutch Bros | Moti",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Price Reduced: 6.00% Cap -  New Dutch Bros | Moti",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Jordyn Stallings",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Price Reduced: 6.00% Cap -  New Dutch Bros | Moti",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Rebecca Miller",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Price Reduced: 6.00% Cap -  New Dutch Bros | Moti",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Price Reduced: 6.00% Cap -  New Dutch Bros | Moti",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Price Reduced: 6.00% Cap -  New Dutch Bros | Moti",
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
+      "urgency": "low"
+    },
+    {
+      "name": "Lexy Burke",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
+      "urgency": "low"
+    },
+    {
+      "name": "Dylan Bennett",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     },
     {
@@ -21726,17 +21838,31 @@
       "urgency": "low"
     },
     {
+      "name": "Keystone Fireworks",
+      "deal": "Fireworks Stands — Multiple Sites",
+      "daysSinceContact": 0,
+      "lastAction": "Jeb Thompson followed up for updates on Keystone firework tent site leases.",
+      "urgency": "low"
+    },
+    {
+      "name": "Jeb Thompson",
+      "deal": "Fireworks Stands — Multiple Sites",
+      "daysSinceContact": 0,
+      "lastAction": "Jeb Thompson followed up for updates on Keystone firework tent site leases.",
+      "urgency": "low"
+    },
+    {
       "name": "Juliana Fernandez",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: Dog Haus Pushes Toward 350 Locatio",
+      "lastAction": "Email from ICSC RETAIL FORWARD COLUMBUS: Registration Is Now Open",
       "urgency": "low"
     },
     {
       "name": "Carson Knight",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: Dog Haus Pushes Toward 350 Locatio",
+      "lastAction": "Email from ICSC RETAIL FORWARD COLUMBUS: Registration Is Now Open",
       "urgency": "low"
     },
     {
@@ -21765,6 +21891,69 @@
       "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
       "daysSinceContact": 0,
       "lastAction": "Email from Beth Azor: How to Interview Third-Party﻿ ﻿Leasing Brokers",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Gaghan",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Gaghan - 440-263-9792 - tom@clevelandfurniturebank.org",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Gaghan",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
+      "urgency": "low"
+    },
+    {
+      "name": "Mathison Ingham",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Gaghan",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
+      "urgency": "low"
+    },
+    {
+      "name": "Jordyn Stallings",
+      "deal": "Jordyn Stallings - Daycare Inquiry — 2512 Gallatin Avenue",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: 2518 Gallatin P",
       "urgency": "low"
     }
   ],
