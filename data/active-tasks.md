@@ -1,6 +1,6 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-05-12 6:00 PM CDT
+Last updated: 2026-05-13 6:00 PM CDT
 
 <!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T182 -->
 
@@ -45,7 +45,7 @@ Last updated: 2026-05-12 6:00 PM CDT
 - T156: PCON / Sean Spafford feedback request — Asana task created for Jacob to provide feedback on Sean Spafford, due 2026-05-15; thread labeled actioned/unread for visibility. [asana: 1214660516238793] [source: Communication Triage 2026-05-08 1 PM] [deal: PCON]
 
 - T157: Send Hope Smiles PDF to Amy and the broker — 5/11 meeting indicates tenant-profile PDF was created/sent/slacked and Amy reacted positively; Asana still open at 6 PM self-review, so keep active until broker/landlord delivery/response is confirmed. [source: brain-dump 2026-05-08; 5/11 leasing meeting; Asana check 2026-05-11 6 PM] [deal: HopeSmiles] [asana: 1214660658059111]
-- T159: Follow up with Mitch Ernest on Evansville box — 5/11 prep/meeting says the call happened and Jacob texted Mitch this morning; currently waiting on Mitch/Where Ya Bin after review of materials. [source: brain-dump 2026-05-08; 5/11 leasing meeting] [deal: Evansville / Where Ya Bin] [asana: 1214669249372525]
+- T159: Follow up with Mitch Ernest on Evansville box — 5/11 prep/meeting says the call happened and Jacob texted Mitch this morning; 5/13 Gmail verification found Melissa Drish sent 40 Evansville/Big Lots photos on 5/11, Jacob forwarded the full photo set to Mitch at 3:30 PM, and no Mitch reply was found in the last 14 days. Currently waiting on Mitch/Where Ya Bin after review of materials/photos. [source: brain-dump 2026-05-08; 5/11 leasing meeting; Gmail thread 19e17b7dceb03e70 verified 2026-05-13] [deal: Evansville / Where Ya Bin] [asana: 1214669249372525]
 - T161: Read/review Five Below lease and send it to Ashby — 5/11 meeting confirmed to send Ashby the lease now, ask for redline-fashion comments, and set a Thursday-ish call/timeframe while Jacob separately reviews business points. [source: brain-dump 2026-05-08; 5/11 leasing meeting] [deal: Malone / Five Below] [asana: 1214660167404030]
 - T162: Send Adam playlist of podcasts — 5/11 meeting indicates Jacob sent Adam the podcast playlist for his travel week; Asana still open at 6 PM self-review, so verify/close before removing. [source: brain-dump 2026-05-08; 5/11 leasing meeting; Asana check 2026-05-11 6 PM] [deal: Leasing Associate hire] [asana: 1214660167404041]
 - T163: Set up Adam's email. [source: brain-dump 2026-05-08] [deal: Leasing Associate hire] [asana: 1214660373247643]
@@ -53,7 +53,7 @@ Last updated: 2026-05-12 6:00 PM CDT
 - T165: Meeting room cord/cord-management fix — find/order longer HDMI/USB-C cord and consider a cleaner cord-management box/system for the conference room. [source: 5/11 leasing meeting] [asana: 1214716864586590]
 - T166: McMinnville facade value-engineering — send Clay example screenshots and ask contractors for lower-cost ways to improve facade/screen rooftop/mechanical visibility before promising anything to UPS/Wingstop. [source: 5/11 leasing meeting] [deal: McMinnville Plaza] [asana: 1214716864652266]
 - T167: Easterseals/CEO timing follow-up — tell Laurie another interested party is active and ask if she can get with CEO in next 10-14 days; communicate fairly without false pressure. [source: 5/11 leasing meeting] [deal: Pell City / Evansville Easterseals context] [asana: 1214716864818726]
-- T168: Keystone fireworks leases — confirm lease language/billing treatment and send DocuSigns for Hickory Village, Dixie Village, McMinnville Plaza, Millington Plaza, Forks of the River, and Malone Big Lots/Malone Plaza. [source: 5/11 leasing meeting] [deal: Fireworks stands / Keystone] [asana: 1214716864758962]
+- T168: Keystone fireworks leases — confirm lease language/billing treatment and send DocuSigns for Hickory Village, Dixie Village, McMinnville Plaza, Millington Plaza, Forks of the River, and Malone Big Lots/Malone Plaza. Jeb followed up 5/13 at 4:23 PM CT asking whether Millington tent can move farther back in the parking lot for local setback requirements; attached marked-up photo with original red / proposed blue location. [gmail thread: 19c9b0938ee30725] [source: 5/11 leasing meeting; Communication Triage after-hours 2026-05-13] [deal: Fireworks stands / Keystone] [asana: 1214716864758962]
 - T169: Fostr/Yardi rollout mapping — keep working with Hannah on Yardi field mapping, especially property code/address/GL connections, with June 1 team rollout as tentative goal. [source: 5/11 leasing meeting] [deal: Fostr] [asana: 1214716864798798]
 
 - T170: Scott Myers / Pell City Marketplace printing tenant follow-up — Scott asked whether the 1,300 SF portion lease went through because 2,500 SF is too large for his client; Gmail draft reply loaded for Jacob approval saying he will check and get back to Scott. Do not send unless Jacob approves. [gmail thread: 19d9c95f0ddf5a71] [draft: r4325732601995665381] [source: Communication Triage 2026-05-11 3 PM] [deal: Pell City]
@@ -88,7 +88,7 @@ Last updated: 2026-05-12 6:00 PM CDT
 
 Note: WATCHING items should be removed once real movement comes in. Gastonia laundromat was removed on 4/10 after a fresh DocuSign reminder signaled movement. Pell City was removed earlier on 4/10 after fresh email movement from Factory Connection. McMinnville monument sign was removed on 4/14 after Clay sent fresh Slack PDFs/comments for review. ABC Russellville was removed on 4/27 after Clay asked whether to commission the ABC work; it is now active as T122. Crunch Fitness and McMinnville landscaping were removed from WATCHING on 5/5 and promoted to active follow-up tasks T152/T146. T137 Academy/Shelbyville started 5/4 and was flagged stale on 5/12 for the next morning briefing.
 
-- T137: Academy Sports / Shelbyville — watch for response after Jacob sends pitch for former Big Lots box at 1840 E Michigan Rd; if no response, follow up with Brian Ferguson / Academy real estate contact. Proof points: ~30 miles from Indianapolis, ~25-30 min from Greenwood Academy store, 40K SF box, E Michigan Rd retail corridor, Academy outside-in exurb/satellite strategy. [source: Jacob 5/4; deal: Shelbyville] [stale-watch 5/12: 8 days with no movement; queued for morning briefing]
+- T137: Academy Sports / Shelbyville — watch for response after Jacob sends pitch for former Big Lots box at 1840 E Michigan Rd; if no response, follow up with Brian Ferguson / Academy real estate contact. Proof points: ~30 miles from Indianapolis, ~25-30 min from Greenwood Academy store, 40K SF box, E Michigan Rd retail corridor, Academy outside-in exurb/satellite strategy. [source: Jacob 5/4; deal: Shelbyville] [stale-watch 5/13: 9 days with no movement; queued for 5/14 morning briefing]
 
 ## COMPLETED — Recent (auto-cleaned after 7 days)
 
