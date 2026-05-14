@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T12:31:00.148949",
+  "lastUpdated": "2026-05-14T13:04:35.309303",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-14",
@@ -11928,9 +11928,9 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Drayer/PT parent company will remain liable for internal transfer assignment; Jacob approved proceeding without monetary net worth amounts. Tom Fidler is preparing lease draft and signed LOI copy.",
+      "status": "Drayer/PT parent company will remain liable for internal transfer assignment; Jacob approved proceeding without monetary net worth amounts. Tom Fidler is preparing lease draft and signed LOI copy and asked for 10 minutes to meet in Vegas.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Watch for Tom Fidler's lease draft and signed LOI copy; also coordinate 10-minute Vegas meet if Jacob wants it.",
+      "nextStep": "Watch for Tom Fidler's lease draft and signed LOI copy; Jacob also needs to decide whether to offer a 10-minute Vegas meetup.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
@@ -11982,6 +11982,11 @@
         {
           "date": "2026-05-14",
           "event": "Tom Fidler confirmed parent company remains liable for assignment; Jacob approved lease draft path without net worth amounts.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Tom Fidler said he is preparing the Drayer/PT lease draft and signed LOI copy, then asked whether Jacob has 10 minutes to meet in Vegas.",
           "type": "email"
         },
         {
