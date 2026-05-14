@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T12:04:25.462376",
+  "lastUpdated": "2026-05-14T12:31:00.148949",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-14",
@@ -58,6 +58,16 @@
       "nextStep": "Jacob to review Five Below lease this week, send to Ashby, and ask for redline comments with a Thursday call/timeframe.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-14",
+          "event": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Email from James Warren: Invoice N267995 is Ready",
+          "type": "email"
+        },
         {
           "date": "2026-05-14",
           "event": "Email from David S.: David S. is requesting Information on McMinnville Plaza Shopping Center, TN in M",
@@ -1379,6 +1389,11 @@
       "timeline": [
         {
           "date": "2026-05-14",
+          "event": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
           "event": "Email from David S.: David S. is requesting Information on McMinnville Plaza Shopping Center, TN in M",
           "type": "email"
         },
@@ -2412,6 +2427,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-14",
+          "event": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
+          "type": "email"
+        },
         {
           "date": "2026-05-14",
           "event": "Email from David S.: David S. is requesting Information on McMinnville Plaza Shopping Center, TN in M",
@@ -9274,6 +9294,11 @@
       "timeline": [
         {
           "date": "2026-05-14",
+          "event": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
           "event": "Email from Robert H. Burns Company, Inc.: Brentwood Executive Center",
           "type": "email"
         },
@@ -11921,6 +11946,11 @@
       "timeline": [
         {
           "date": "2026-05-14",
+          "event": "Email from James Warren: Invoice N267995 is Ready",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
           "event": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
           "type": "email"
         },
@@ -12323,6 +12353,16 @@
       "timeline": [
         {
           "date": "2026-05-14",
+          "event": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Email from James Warren: Invoice N267995 is Ready",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
           "event": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
           "type": "email"
         },
@@ -12563,6 +12603,16 @@
         "David S. (Crexi lead; Crossville/Cumberland Square tenant)"
       ],
       "timeline": [
+        {
+          "date": "2026-05-14",
+          "event": "Email from Lyssa Bryant: Quick Question - Maintenance Support",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
+          "type": "email"
+        },
         {
           "date": "2026-05-14",
           "event": "Email from Eric Snyder, Editor in Chief: Breaking: These titans meet in secret to talk Nashville",
@@ -13129,6 +13179,11 @@
       "nextStep": "Wait for HVAC vendor inspection timing/findings before final Great Greek LOI posture.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-14",
+          "event": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
+          "type": "email"
+        },
         {
           "date": "2026-05-14",
           "event": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
@@ -14032,6 +14087,11 @@
       "nextStep": "Keep pressure on all active prospects and let speed determine space control.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-14",
+          "event": "Email from James Warren: Invoice N267995 is Ready",
+          "type": "email"
+        },
         {
           "date": "2026-05-14",
           "event": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
@@ -15569,6 +15629,11 @@
       "timeline": [
         {
           "date": "2026-05-14",
+          "event": "Email from Lyssa Bryant: Quick Question - Maintenance Support",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
           "event": "Email from Christopher Keenan: PCON Board Meeting Minutes | May 2026",
           "type": "email"
         },
@@ -16730,6 +16795,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-05-14",
+          "event": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
+          "type": "email"
+        },
         {
           "date": "2026-05-14",
           "event": "Ross Smith asked for update on HopeSmiles office search.",
@@ -18581,6 +18651,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-05-14",
+          "event": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
+          "type": "email"
+        },
         {
           "date": "2026-05-14",
           "event": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
@@ -21655,83 +21730,6 @@
       "urgency": "low"
     },
     {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — Creekside Crossing",
-      "daysSinceContact": 2,
-      "lastAction": "Email from Ashley Cusker | Katz & Associates: Fat Rosie's Seeking Sites in the N",
-      "urgency": "low"
-    },
-    {
-      "name": "Shelby Hall",
-      "deal": "HopeSmiles — Creekside Crossing",
-      "daysSinceContact": 2,
-      "lastAction": "Email from Ashley Cusker | Katz & Associates: Fat Rosie's Seeking Sites in the N",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — Creekside Crossing",
-      "daysSinceContact": 2,
-      "lastAction": "Email from Ashley Cusker | Katz & Associates: Fat Rosie's Seeking Sites in the N",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Phillip Kemp",
-      "deal": "HopeSmiles — Creekside Crossing",
-      "daysSinceContact": 2,
-      "lastAction": "Email from Ashley Cusker | Katz & Associates: Fat Rosie's Seeking Sites in the N",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Kemp",
-      "deal": "HopeSmiles — Creekside Crossing",
-      "daysSinceContact": 2,
-      "lastAction": "Email from Ashley Cusker | Katz & Associates: Fat Rosie's Seeking Sites in the N",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy",
-      "deal": "HopeSmiles — Creekside Crossing",
-      "daysSinceContact": 2,
-      "lastAction": "Email from Ashley Cusker | Katz & Associates: Fat Rosie's Seeking Sites in the N",
-      "urgency": "low"
-    },
-    {
-      "name": "Matty",
-      "deal": "HopeSmiles — Creekside Crossing",
-      "daysSinceContact": 2,
-      "lastAction": "Email from Ashley Cusker | Katz & Associates: Fat Rosie's Seeking Sites in the N",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashley Marshall",
-      "deal": "HopeSmiles — Creekside Crossing",
-      "daysSinceContact": 2,
-      "lastAction": "Email from Ashley Cusker | Katz & Associates: Fat Rosie's Seeking Sites in the N",
-      "urgency": "low"
-    },
-    {
-      "name": "Bill Adair",
-      "deal": "HopeSmiles — Creekside Crossing",
-      "daysSinceContact": 2,
-      "lastAction": "Email from Ashley Cusker | Katz & Associates: Fat Rosie's Seeking Sites in the N",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy",
-      "deal": "HopeSmiles — Creekside Crossing",
-      "daysSinceContact": 2,
-      "lastAction": "Email from Ashley Cusker | Katz & Associates: Fat Rosie's Seeking Sites in the N",
-      "urgency": "low"
-    },
-    {
-      "name": "Phillip Kemp",
-      "deal": "HopeSmiles — Creekside Crossing",
-      "daysSinceContact": 2,
-      "lastAction": "Email from Ashley Cusker | Katz & Associates: Fat Rosie's Seeking Sites in the N",
-      "urgency": "low"
-    },
-    {
       "name": "Pesach Gewirtz",
       "deal": "Infinite Equity Capital - 730 — 730",
       "daysSinceContact": 2,
@@ -21798,140 +21796,140 @@
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from David S.: David S. is requesting Information on McMinnville Plaza Sho",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from David S.: David S. is requesting Information on McMinnville Plaza Sho",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from David S.: David S. is requesting Information on McMinnville Plaza Sho",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from David S.: David S. is requesting Information on McMinnville Plaza Sho",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from David S.: David S. is requesting Information on McMinnville Plaza Sho",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from David S.: David S. is requesting Information on McMinnville Plaza Sho",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from David S.: David S. is requesting Information on McMinnville Plaza Sho",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from David S.: David S. is requesting Information on McMinnville Plaza Sho",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from David S.: David S. is requesting Information on McMinnville Plaza Sho",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from David S.: David S. is requesting Information on McMinnville Plaza Sho",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from David S.: David S. is requesting Information on McMinnville Plaza Sho",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from David S.: David S. is requesting Information on McMinnville Plaza Sho",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from David S.: David S. is requesting Information on McMinnville Plaza Sho",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from David S.: David S. is requesting Information on McMinnville Plaza Sho",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from David S.: David S. is requesting Information on McMinnville Plaza Sho",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from David S.: David S. is requesting Information on McMinnville Plaza Sho",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from David S.: David S. is requesting Information on McMinnville Plaza Sho",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Tony Grillo",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from David S.: David S. is requesting Information on McMinnville Plaza Sho",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from David S.: David S. is requesting Information on McMinnville Plaza Sho",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from David S.: David S. is requesting Information on McMinnville Plaza Sho",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
@@ -22085,126 +22083,126 @@
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert H. Burns Company, Inc.: Brentwood Executive Center",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert H. Burns Company, Inc.: Brentwood Executive Center",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert H. Burns Company, Inc.: Brentwood Executive Center",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert H. Burns Company, Inc.: Brentwood Executive Center",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert H. Burns Company, Inc.: Brentwood Executive Center",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert H. Burns Company, Inc.: Brentwood Executive Center",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert H. Burns Company, Inc.: Brentwood Executive Center",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert H. Burns Company, Inc.: Brentwood Executive Center",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert H. Burns Company, Inc.: Brentwood Executive Center",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert H. Burns Company, Inc.: Brentwood Executive Center",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert H. Burns Company, Inc.: Brentwood Executive Center",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert H. Burns Company, Inc.: Brentwood Executive Center",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert H. Burns Company, Inc.: Brentwood Executive Center",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert H. Burns Company, Inc.: Brentwood Executive Center",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert H. Burns Company, Inc.: Brentwood Executive Center",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert H. Burns Company, Inc.: Brentwood Executive Center",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson <Robert_Richardson@tjx.com>",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert H. Burns Company, Inc.: Brentwood Executive Center",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano <andriano@c2-designgroup.com>",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert H. Burns Company, Inc.: Brentwood Executive Center",
+      "lastAction": "Email from Malone Chamber of Commerce: Outdoor Fun and Festivals Galore!!!",
       "urgency": "low"
     },
     {
@@ -22232,217 +22230,224 @@
       "name": "Lauri Fowler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from James Warren: Invoice N267995 is Ready",
       "urgency": "low"
     },
     {
       "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from James Warren: Invoice N267995 is Ready",
       "urgency": "low"
     },
     {
       "name": "David Cooke",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from James Warren: Invoice N267995 is Ready",
       "urgency": "low"
     },
     {
       "name": "Abbey Gill",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from James Warren: Invoice N267995 is Ready",
       "urgency": "low"
     },
     {
       "name": "Scott Myers <smyerscre2@outlook.com>",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from James Warren: Invoice N267995 is Ready",
       "urgency": "low"
     },
     {
       "name": "Laurie",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from James Warren: Invoice N267995 is Ready",
       "urgency": "low"
     },
     {
       "name": "Mitch",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from James Warren: Invoice N267995 is Ready",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from James Warren: Invoice N267995 is Ready",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Fidler",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from James Warren: Invoice N267995 is Ready",
       "urgency": "low"
     },
     {
       "name": "Carmen Drake",
       "deal": " — Evansville / Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Evansville / Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
       "urgency": "low"
     },
     {
       "name": "James Stocker",
       "deal": " — Evansville / Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
       "urgency": "low"
     },
     {
       "name": "Carmine DiLucente",
       "deal": " — Evansville / Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
       "urgency": "low"
     },
     {
       "name": "Joe Wesley",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: These titans meet in secret t",
+      "lastAction": "Email from Lyssa Bryant: Quick Question - Maintenance Support",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: These titans meet in secret t",
+      "lastAction": "Email from Lyssa Bryant: Quick Question - Maintenance Support",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: These titans meet in secret t",
+      "lastAction": "Email from Lyssa Bryant: Quick Question - Maintenance Support",
       "urgency": "low"
     },
     {
       "name": "Shady Azez",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: These titans meet in secret t",
+      "lastAction": "Email from Lyssa Bryant: Quick Question - Maintenance Support",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: These titans meet in secret t",
+      "lastAction": "Email from Lyssa Bryant: Quick Question - Maintenance Support",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: These titans meet in secret t",
+      "lastAction": "Email from Lyssa Bryant: Quick Question - Maintenance Support",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
       "urgency": "low"
     },
     {
       "name": "ala h.",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti <jvalenti@centenretail.com>",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
       "urgency": "low"
     },
     {
       "name": "EJ",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
       "urgency": "low"
     },
     {
       "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
       "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Minutes | May 2026",
+      "lastAction": "Email from Lyssa Bryant: Quick Question - Maintenance Support",
       "urgency": "low"
     },
     {
@@ -22523,6 +22528,90 @@
       "urgency": "low"
     },
     {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
+      "urgency": "low"
+    },
+    {
+      "name": "Shelby Hall",
+      "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Phillip Kemp",
+      "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Kemp",
+      "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy",
+      "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
+      "urgency": "low"
+    },
+    {
+      "name": "Matty",
+      "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashley Marshall",
+      "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
+      "urgency": "low"
+    },
+    {
+      "name": "Bill Adair",
+      "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy",
+      "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
+      "urgency": "low"
+    },
+    {
+      "name": "Phillip Kemp",
+      "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
+      "urgency": "low"
+    },
+    {
+      "name": "Ross Smith",
+      "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: 101 Westpark Dr - Harpeth One",
+      "urgency": "low"
+    },
+    {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
@@ -22547,98 +22636,98 @@
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
       "urgency": "low"
     },
     {
       "name": "Jordyn Stallings",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
       "urgency": "low"
     },
     {
       "name": "Rebecca Miller",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
       "urgency": "low"
     },
     {
       "name": "Lexy Burke",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
       "urgency": "low"
     },
     {
       "name": "Dylan Bennett",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
       "urgency": "low"
     },
     {
       "name": "Lexy Burke",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
       "urgency": "low"
     },
     {
       "name": "Dylan Bennett",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
       "urgency": "low"
     },
     {
