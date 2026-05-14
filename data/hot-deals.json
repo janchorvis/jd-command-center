@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T16:31:03.009828",
+  "lastUpdated": "2026-05-14T17:02:47.826052",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-14",
@@ -9491,10 +9491,10 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "Robert Richardson/TJX reiterated that the new wall for Shoe Store should be landlord work because it creates common area; without it Marshalls exits into another tenant and uses a dedicated compactor in another tenant's space.",
+      "status": "Ryan updated Malone proformas for bank submission with current bids, reduced contingency to $250K, used $30/SF TI for small shops, and included Jacob's Five Below rent/commission feedback. Micah called the economics painful and asked Ryan how Anchor can exit without losing $2M.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Clay/Jacob/Shaun need resolve landlord-wall/common-area egress revision with TJX so permit path does not slip.",
+      "nextStep": "Micah/Ryan need exit/risk plan; Jacob should only weigh in if he disagrees with updated proforma assumptions or small-shop leasing posture.",
       "priority": "high",
       "timeline": [
         {
@@ -9530,6 +9530,11 @@
         {
           "date": "2026-05-14",
           "event": "Email from David S.: David S. is requesting Information on McMinnville Plaza Shopping Center, TN in M",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Ryan sent updated Malone proformas; Micah flagged economics as painful and asked for exit plan.",
           "type": "email"
         },
         {
