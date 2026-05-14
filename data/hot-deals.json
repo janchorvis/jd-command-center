@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T08:05:42.434547",
+  "lastUpdated": "2026-05-14T09:05:17.239467",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-14",
@@ -12452,16 +12452,17 @@
       "id": "mcminnville-plaza",
       "name": "",
       "property": "McMinnville Plaza Shopping Center",
-      "status": "David S. submitted a Crexi inquiry requesting a tour; says he and his wife already rent from Anchor in Crossville/Benny's at Cumberland Square.",
+      "status": "Crexi inquiry from David S.: he and his wife want to arrange a tour; they already rent from Anchor at Benny's in Cumberland Square/Crossville. Gmail/Crexi draft exists asking for best phone number and email.",
       "stage": "LOI",
-      "nextStep": "Jacob review/send drafted reply requesting best phone number and email.",
+      "nextStep": "Jacob review/send draft, then schedule tour once David provides contact info.",
       "priority": "medium",
       "contacts": [
         "Joe Wesley (wesleyjoe829@gmail.com, 213-872-0190)",
         "Jon Petty (Southeast Venture)",
         "Clay Richardson (Construction)",
         "Shady Azez (LoopNet lead, 615-710-8025, shadyazezz@gmail.com)",
-        "David S. (Crexi lead)"
+        "David S. (Crexi lead)",
+        "David S. (Crexi lead; Crossville/Cumberland Square tenant)"
       ],
       "timeline": [
         {
@@ -12472,6 +12473,11 @@
         {
           "date": "2026-05-14",
           "event": "Crexi lead: David S. requested a tour and noted he/wife rent from Anchor in Crossville/Benny's at Cumberland Square.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Crexi inquiry: David S. requested a McMinnville Plaza tour and noted he already rents from Anchor in Crossville.",
           "type": "lead"
         },
         {
