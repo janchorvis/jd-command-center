@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T15:30:54.186770",
+  "lastUpdated": "2026-05-14T16:02:32.524252",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-14",
@@ -45,7 +45,10 @@
       "Keystone fireworks leases need DocuSign/billing treatment plus Millington tent-location response.",
       "Easterseals/Pell City CEO timing follow-up needs fair-pressure language and Jacob approval.",
       "McMinnville facade value-engineering needs Clay examples before UPS/Wingstop promises.",
-      "Respond to Tom Fidler on Pell City / Drayer PT: confirm whether Anchor can proceed without monetary net worth amounts so lease draft and signed LOI copy can move forward."
+      "Respond to Tom Fidler on Pell City / Drayer PT: confirm whether Anchor can proceed without monetary net worth amounts so lease draft and signed LOI copy can move forward.",
+      "Confirm Suite 411 monthly rent for Shawn Goffer at New Memphis.",
+      "Confirm whether Luis Nazario's Wednesday 12:30-2:30 ICSC availability works with Jacob's schedule.",
+      "Tell Mathison whether to punt New Memphis new-tenant signup to Carson or call the tenant/prospect himself."
     ]
   },
   "pipelineDeals": [
@@ -53,10 +56,10 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below attorney lease draft is in hand; Jacob plans to read it this week and send it to Ashby now so she can start a redline review instead of handwritten comments. Business points can be handled separately while legal markup proceeds.",
+      "status": "Ryan updated Malone bank proformas after Jacob/Clay feedback: tenant numbers reflect most recent bids, contingency cut to $250K, and small-shop TI set at $30/SF.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob to review Five Below lease this week, send to Ashby, and ask for redline comments with a Thursday call/timeframe.",
-      "priority": "high",
+      "nextStep": "Micah to review/submit numbers to bank; Jacob should only weigh in if he disagrees with proforma assumptions.",
+      "priority": "medium",
       "timeline": [
         {
           "date": "2026-05-14",
@@ -86,6 +89,11 @@
         {
           "date": "2026-05-14",
           "event": "Email from David S.: David S. is requesting Information on McMinnville Plaza Shopping Center, TN in M",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Ryan circulated updated Malone proformas with latest tenant buildout numbers, $250K contingency, and $30/SF small-shop TI.",
           "type": "email"
         },
         {
@@ -1368,7 +1376,8 @@
         "Manuel Veliz (Sargenti Architects)",
         "Tim Carlo (surveyor)",
         "Frank Soranno (Storecrafters)",
-        "Ashby (Attorney)"
+        "Ashby (Attorney)",
+        "Ryan Romes"
       ],
       "actions": [
         {
@@ -4382,10 +4391,10 @@
       "id": "russellville-abc",
       "name": "ABC Retail",
       "property": "Russellville",
-      "status": "ABC Alabama asked Clay/Jacob to nail down move-in readiness; ABC is month-to-month at current location and hopes buildout can finish by end of June because their warehouse timeline slipped.",
+      "status": "ABC asked to nail down move-in timing because their warehouse completion was pushed back; Clay replied contractor launches May 23, work likely into mid-July, signage 5-7 weeks, and end-of-June completion is unlikely.",
       "stage": "Lease Signed",
-      "nextStep": "Clay/Jacob need to confirm construction timeline and whether end-of-June delivery is feasible.",
-      "priority": "high",
+      "nextStep": "Monitor ABC timing and coordinate any move-in pressure with Clay/contractor.",
+      "priority": "medium",
       "timeline": [
         {
           "date": "2026-05-14",
@@ -4410,6 +4419,11 @@
         {
           "date": "2026-05-14",
           "event": "Inbox: Kurt Wilson (ABC Alabama) asked for Russellville construction/move-in timeline, targeting end-of-June if feasible.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "ABC requested construction/move-in timing; Clay replied mid-July is expected and end of June is unlikely.",
           "type": "email"
         },
         {
@@ -5327,7 +5341,9 @@
         "Melissa Eddy",
         "Carole (Accounting)",
         "Kurt Wilson (ABC Alabama)",
-        "Kyle Lindsey (ABC Alabama)"
+        "Kyle Lindsey (ABC Alabama)",
+        "Kurt Wilson (Alabama ABC)",
+        "Kyle Lindsey (Alabama ABC)"
       ],
       "actions": [
         {
