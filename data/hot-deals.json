@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T14:30:59.278511",
+  "lastUpdated": "2026-05-14T15:03:06.483571",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-14",
@@ -4362,10 +4362,10 @@
       "id": "russellville-abc",
       "name": "ABC Retail",
       "property": "Russellville",
-      "status": "Commission treatment discussed: hold ABC Store/Russellville commission for later payment while Russellville cash position improves; Carole should use judgment and put it on the books, then pay when able.",
-      "stage": "Lease Draft & Review",
-      "nextStep": "Tell Carole to put Russellville ABC commission on the books and pay when cash position permits.",
-      "priority": "medium",
+      "status": "ABC Alabama asked Clay/Jacob to nail down move-in readiness; ABC is month-to-month at current location and hopes buildout can finish by end of June because their warehouse timeline slipped.",
+      "stage": "Lease Signed",
+      "nextStep": "Clay/Jacob need to confirm construction timeline and whether end-of-June delivery is feasible.",
+      "priority": "high",
       "timeline": [
         {
           "date": "2026-05-14",
@@ -4380,6 +4380,11 @@
         {
           "date": "2026-05-14",
           "event": "Email from Chain Store Age: DayBreaker: Walmart cutting jobs; Retail sales up in April; Amazon debuts person",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Inbox: Kurt Wilson (ABC Alabama) asked for Russellville construction/move-in timeline, targeting end-of-June if feasible.",
           "type": "email"
         },
         {
@@ -5295,7 +5300,9 @@
       ],
       "contacts": [
         "Melissa Eddy",
-        "Carole (Accounting)"
+        "Carole (Accounting)",
+        "Kurt Wilson (ABC Alabama)",
+        "Kyle Lindsey (ABC Alabama)"
       ],
       "actions": [
         {
@@ -5311,7 +5318,8 @@
         "avgSqFt": 5908,
         "suiteCount": 18,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Lease Signed"
     },
     {
       "id": "emerson-hawkins",
@@ -6622,10 +6630,10 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "UPS area office finalizing paperwork and said no issues issuing lease for review; Jacob already replied to get lease issued.",
+      "status": "Crexi lead David S. requested a tour; he and his wife previously rented from Anchor at Benny's in Cumberland Square. Jacob already replied asking for phone/email and offering info/tour coordination.",
       "stage": "Lease Signed",
-      "nextStep": "Issue lease for review.",
-      "priority": "high",
+      "nextStep": "Wait for David S. to provide contact info/tour availability.",
+      "priority": "medium",
       "timeline": [
         {
           "date": "2026-05-14",
@@ -6646,6 +6654,11 @@
           "date": "2026-05-14",
           "event": "Email from David S.: David S. is requesting Information on McMinnville Plaza Shopping Center, TN in M",
           "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Inbox: Crexi lead David S. asked to tour McMinnville Plaza; Jacob replied asking for best phone/email.",
+          "type": "lead"
         },
         {
           "date": "2026-05-13",
@@ -7648,7 +7661,8 @@
         "Amy Taylor (UPS prospect)",
         "Amy Taylor",
         "Shady Azez <shadyazezz@gmail.com>",
-        "Jon Petty <jpetty@southeastventure.com>"
+        "Jon Petty <jpetty@southeastventure.com>",
+        "David S. (Crexi lead; prior Benny's/Cumberland Square tenant)"
       ],
       "actions": [
         {
