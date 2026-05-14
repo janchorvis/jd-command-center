@@ -1,8 +1,8 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-05-13 6:00 PM CDT
+Last updated: 2026-05-14 4:23 PM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T182 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T183 -->
 
 ## ACTIVE — Jacob needs to do these
 
@@ -71,12 +71,13 @@ Last updated: 2026-05-13 6:00 PM CDT
 - T179: Offsite / Department AI rocks — each department/team member should define one practical AI rock for the quarter; Jacob to prioritize automation work by ROI/time savings rather than novelty as margin opens. [source: 2026-05-06 Q2 offsite] [owner: Jacob/team leads] [project: q2-offsite-2026]
 - T180: Offsite / Cleveland Furniture Bank financial review — Jacob to send Micah/Ryan the tenant financials/sales info and decide whether to structure short-term rent relief with reporting/review period. [source: 2026-05-06 Q2 offsite] [owner: Jacob/Micah/Ryan] [deal: Parma / Cleveland Furniture Bank]
 - T181: Offsite / Russellville-Vance hold-sell analysis — analyze Russellville cash-flow hold vs sale after leasing progress and watch Vance/Uniform Source renewal/value path. [source: 2026-05-06 Q2 offsite] [owner: Micah/Ryan/Jacob] [deal: Russellville / Vance]
+- T182: Draft UPS lease - McMinnville Plaza Suite 108 — Jon Petty says UPS area office is finalizing paperwork and sees no issue with issuing a lease for review; Jacob replied 5/14 "I'll get it rolling on our end." Start the lease draft path for UPS Store at McMinnville Plaza Suite 108. [asana: 1214819500996383] [gmail thread: 19e1d15ee89ab75a] [source: Chrome extension inbox 2026-05-14] [deal: McMinnville Plaza / UPS Store]
 
 
 ### Next Week+
 - T019: Reach out to Runnings — exclusive with Ashby [source: brain-dump 3/6] [asana: 1213420777322230]
 - T048: Vercel → janchorvis GitHub reconnect (manual step, ~5 min) [source: SESSION_HANDOFF 3/12, not urgent]
-- T131: Label Shopper / Malone — monitor October 2027 expiration and renewal risk in light of Marshalls/Five Below; Micah flagged urgency because Label Shopper may be nervous about Marshalls. [source: 4/27 Plaud weekly meeting + prep doc context] [deal: Malone]
+- T131: Label Shopper / Malone — monitor October 2027 expiration and renewal risk in light of Marshalls/Five Below; Micah flagged urgency because Label Shopper may be nervous about Marshalls. [source: 4/27 Plaud weekly meeting] [deal: Malone]
 - T132: Adam temporary housing — if needed after Adam clarifies preference, Micah can ask church contacts/Kent about roommate options; Gallatin property may be available short-term. [source: 4/27 Plaud weekly meeting] [deal: Leasing Associate hire]
 
 ## WAITING — Blocked on someone else
