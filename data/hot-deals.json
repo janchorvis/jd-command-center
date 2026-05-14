@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T11:31:22.415567",
+  "lastUpdated": "2026-05-14T12:04:25.462376",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-14",
@@ -11903,9 +11903,9 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Drayer PT / Tom Fidler confirmed the parent company will remain liable after internal transfer assignment and asked whether Anchor is OK proceeding without monetary net worth amounts.",
+      "status": "Drayer/PT parent company will remain liable for internal transfer assignment; Jacob approved proceeding without monetary net worth amounts. Tom Fidler is preparing lease draft and signed LOI copy.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob to confirm whether to proceed without monetary net worth amounts; if yes, Drayer will proceed with lease draft and signed LOI copy.",
+      "nextStep": "Watch for Tom Fidler's lease draft and signed LOI copy; also coordinate 10-minute Vegas meet if Jacob wants it.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
@@ -11915,7 +11915,8 @@
         "Scott Myers <smyerscre2@outlook.com>",
         "Laurie (Easterseals)",
         "Mitch (Pell City prospect contact)",
-        "Tom Fidler (Drayer PT)"
+        "Tom Fidler (Drayer PT)",
+        "Tom Fidler (MacKenzie Retail)"
       ],
       "timeline": [
         {
@@ -11946,6 +11947,11 @@
         {
           "date": "2026-05-14",
           "event": "Tom Fidler confirmed parent company liability after internal transfer assignment and asked if Anchor can proceed without monetary net worth amounts.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Tom Fidler confirmed parent company remains liable for assignment; Jacob approved lease draft path without net worth amounts.",
           "type": "email"
         },
         {
@@ -16703,10 +16709,10 @@
     {
       "id": "hopesmiles",
       "name": "HopeSmiles",
-      "property": "Creekside Crossing",
+      "property": "Creekside Crossing / Harpeth One",
       "type": "Tenant Rep",
-      "status": "JLL/Bill Adair asked whether HopeSmiles training involves cadavers; Jacob forwarded to Amy/Dr. Kemp, and Phillip Kemp replied that they would not use cadavers, only heads if allowed, and are exploring animal jaws / potentially human heads for advanced implant training.",
-      "nextStep": "Jacob needs to shape Phillip Kemp's clarification into a landlord-safe reply to JLL on medical waste / training materials.",
+      "status": "Ross Smith followed up asking whether Jacob has any update on HopeSmiles' office search after prior Harpeth One tour/pricing discussion.",
+      "nextStep": "Jacob needs to reply to Ross with current HopeSmiles status or tell him no update yet.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -16718,11 +16724,17 @@
         "Ashley Marshall (JLL)",
         "Bill Adair (JLL)",
         "Amy (HopeSmiles)",
-        "Phillip Kemp (HopeSmiles)"
+        "Phillip Kemp (HopeSmiles)",
+        "Ross Smith (Stream Realty)"
       ],
-      "priority": "high",
+      "priority": "medium",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-05-14",
+          "event": "Ross Smith asked for update on HopeSmiles office search.",
+          "type": "email"
+        },
         {
           "date": "2026-05-12",
           "event": "Email from Ashley Cusker | Katz & Associates: Fat Rosie's Seeking Sites in the Nashville MSA",
