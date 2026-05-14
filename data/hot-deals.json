@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T09:30:57.547905",
+  "lastUpdated": "2026-05-14T10:05:36.063624",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-14",
@@ -44,7 +44,8 @@
       "Five Below/Malone lease and exhibit review needs prep for Ashby/Jacob business-point review.",
       "Keystone fireworks leases need DocuSign/billing treatment plus Millington tent-location response.",
       "Easterseals/Pell City CEO timing follow-up needs fair-pressure language and Jacob approval.",
-      "McMinnville facade value-engineering needs Clay examples before UPS/Wingstop promises."
+      "McMinnville facade value-engineering needs Clay examples before UPS/Wingstop promises.",
+      "Respond to Tom Fidler on Pell City / Drayer PT: confirm whether Anchor can proceed without monetary net worth amounts so lease draft and signed LOI copy can move forward."
     ]
   },
   "pipelineDeals": [
@@ -11882,10 +11883,10 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Scott Myers followed up asking whether the 1,300 SF portion went through; his printing-company client says 2,500 SF is too large.",
+      "status": "Drayer PT / Tom Fidler confirmed the parent company will remain liable after internal transfer assignment and asked whether Anchor is OK proceeding without monetary net worth amounts.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob needs to confirm whether the 1,300 SF lease is still pending/unavailable and respond to Scott with current small-space options.",
-      "priority": "medium",
+      "nextStep": "Jacob to confirm whether to proceed without monetary net worth amounts; if yes, Drayer will proceed with lease draft and signed LOI copy.",
+      "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
         "David Cooke (Cooke Commercial) - david@cookecommercial.com - 214-274-8020",
@@ -11893,7 +11894,8 @@
         "Abbey Gill (Tractor Supply Real Estate, abgill@tractorsupply.com, 615-933-1386)",
         "Scott Myers <smyerscre2@outlook.com>",
         "Laurie (Easterseals)",
-        "Mitch (Pell City prospect contact)"
+        "Mitch (Pell City prospect contact)",
+        "Tom Fidler (Drayer PT)"
       ],
       "timeline": [
         {
@@ -11909,6 +11911,11 @@
         {
           "date": "2026-05-14",
           "event": "Email from David S.: David S. is requesting Information on McMinnville Plaza Shopping Center, TN in M",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Tom Fidler confirmed parent company liability after internal transfer assignment and asked if Anchor can proceed without monetary net worth amounts.",
           "type": "email"
         },
         {
