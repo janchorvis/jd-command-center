@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T07:33:58.990533",
+  "lastUpdated": "2026-05-14T08:05:42.434547",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-14",
@@ -12451,22 +12451,28 @@
     {
       "id": "mcminnville-plaza",
       "name": "",
-      "property": "McMinnville Plaza",
-      "status": "New LoopNet lead from Shady Azez for McMinnville Plaza / 1030 Smithville Hwy; asked for additional information. Gmail draft reply loaded asking business and square footage.",
+      "property": "McMinnville Plaza Shopping Center",
+      "status": "David S. submitted a Crexi inquiry requesting a tour; says he and his wife already rent from Anchor in Crossville/Benny's at Cumberland Square.",
       "stage": "LOI",
-      "nextStep": "Jacob to review/send LoopNet draft to Shady Azez or answer directly.",
+      "nextStep": "Jacob review/send drafted reply requesting best phone number and email.",
       "priority": "medium",
       "contacts": [
         "Joe Wesley (wesleyjoe829@gmail.com, 213-872-0190)",
         "Jon Petty (Southeast Venture)",
         "Clay Richardson (Construction)",
-        "Shady Azez (LoopNet lead, 615-710-8025, shadyazezz@gmail.com)"
+        "Shady Azez (LoopNet lead, 615-710-8025, shadyazezz@gmail.com)",
+        "David S. (Crexi lead)"
       ],
       "timeline": [
         {
           "date": "2026-05-14",
           "event": "Email from David S.: David S. is requesting Information on McMinnville Plaza Shopping Center, TN in M",
           "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Crexi lead: David S. requested a tour and noted he/wife rent from Anchor in Crossville/Benny's at Cumberland Square.",
+          "type": "lead"
         },
         {
           "date": "2026-05-13",
