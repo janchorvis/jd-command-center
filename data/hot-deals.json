@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T07:32:45.083711",
+  "lastUpdated": "2026-05-15T08:03:51.895839",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-15",
@@ -12257,9 +12257,9 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Drayer PT / parent-company liability issue cleared; Tom confirmed parent company with nearly 210 locations remains liable and Jacob approved proceeding to lease draft. Tom also asked to meet briefly at ICSC, and Jacob offered late Tuesday availability.",
+      "status": "Drayer PT lease-draft path continues; Tom Fidler asked for age/information on the RTU/unit for Results PT.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Wait for signed LOI copy and lease draft from Tom; coordinate short ICSC Tuesday meeting if Tom responds.",
+      "nextStep": "Jacob/Clay need to provide RTU age/spec information to Tom Fidler.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
@@ -12270,7 +12270,8 @@
         "Laurie (Easterseals)",
         "Mitch (Pell City prospect contact)",
         "Tom Fidler (Drayer PT)",
-        "Tom Fidler (MacKenzie Retail)"
+        "Tom Fidler (MacKenzie Retail)",
+        "Tom Fidler (MacKenzie Retail / Drayer PT)"
       ],
       "timeline": [
         {
@@ -12281,6 +12282,11 @@
         {
           "date": "2026-05-15",
           "event": "Email from The CRE Rundown by Trepp: Motor City Office Market Stabilizing?",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Tom Fidler asked for age and information on the RTU/unit for Results PT/Drayer PT.",
           "type": "email"
         },
         {
