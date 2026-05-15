@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T15:02:01.684261",
+  "lastUpdated": "2026-05-15T15:02:06.899378",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-15",
@@ -62,6 +62,11 @@
       "nextStep": "Micah to review/submit numbers to bank; Jacob should only weigh in if he disagrees with proforma assumptions.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-15",
+          "event": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18, 2026 9pm - 10pm (CDT)",
+          "type": "email"
+        },
         {
           "date": "2026-05-15",
           "event": "Email from Jacob Delk: Malone co-tenancy",
@@ -4030,6 +4035,11 @@
         },
         {
           "date": "2026-05-11",
+          "event": "Email from Chris Brophy: PCON | State of Dev - May 2026",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-11",
           "event": "Email from Melissa Nevich: LoopNet Lead for Dixie Village Shopping Center",
           "type": "email"
         },
@@ -4527,6 +4537,11 @@
       "nextStep": "Monitor ABC timing and coordinate any move-in pressure with Clay/contractor.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-15",
+          "event": "Email from mcooper@stridecre.com: Still Available: 6117 Centennial Blvd — Office + Retail in The Nations",
+          "type": "email"
+        },
         {
           "date": "2026-05-15",
           "event": "Email from ICSC Commerce + Communities Today: Lending and Other Momentum Signals, 7 Retailers Reshaping Footprints, and Big C-",
@@ -7095,6 +7110,11 @@
         {
           "date": "2026-05-12",
           "event": "Jon Petty forwarded UPS prospect SBA/financial application materials for McMinnville Plaza Suite 108.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Email from Chris Brophy: PCON | State of Dev - May 2026",
           "type": "email"
         },
         {
@@ -12915,6 +12935,11 @@
       "timeline": [
         {
           "date": "2026-05-15",
+          "event": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18, 2026 9pm - 10pm (CDT)",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
           "event": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
           "type": "email"
         },
@@ -13929,6 +13954,11 @@
       "nextStep": "Wait for HVAC vendor inspection timing/findings before final Great Greek LOI posture.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-15",
+          "event": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18, 2026 9pm - 10pm (CDT)",
+          "type": "email"
+        },
         {
           "date": "2026-05-15",
           "event": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
@@ -21094,6 +21124,11 @@
       "timeline": [
         {
           "date": "2026-05-15",
+          "event": "Email from mcooper@stridecre.com: Still Available: 6117 Centennial Blvd — Office + Retail in The Nations",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
           "event": "Email from Amazon.com: Delivered: \"SightPro Magnetic Privacy...\"",
           "type": "email"
         },
@@ -23049,112 +23084,112 @@
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone co-tenancy",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone co-tenancy",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone co-tenancy",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone co-tenancy",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone co-tenancy",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone co-tenancy",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone co-tenancy",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone co-tenancy",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone co-tenancy",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone co-tenancy",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone co-tenancy",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone co-tenancy",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone co-tenancy",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone co-tenancy",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone co-tenancy",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Malone co-tenancy",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
@@ -23224,42 +23259,42 @@
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: Lending and Other Momentum Signals",
+      "lastAction": "Email from mcooper@stridecre.com: Still Available: 6117 Centennial Blvd — Office",
       "urgency": "low"
     },
     {
       "name": "Carole",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: Lending and Other Momentum Signals",
+      "lastAction": "Email from mcooper@stridecre.com: Still Available: 6117 Centennial Blvd — Office",
       "urgency": "low"
     },
     {
       "name": "Kurt Wilson",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: Lending and Other Momentum Signals",
+      "lastAction": "Email from mcooper@stridecre.com: Still Available: 6117 Centennial Blvd — Office",
       "urgency": "low"
     },
     {
       "name": "Kyle Lindsey",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: Lending and Other Momentum Signals",
+      "lastAction": "Email from mcooper@stridecre.com: Still Available: 6117 Centennial Blvd — Office",
       "urgency": "low"
     },
     {
       "name": "Kurt Wilson",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: Lending and Other Momentum Signals",
+      "lastAction": "Email from mcooper@stridecre.com: Still Available: 6117 Centennial Blvd — Office",
       "urgency": "low"
     },
     {
       "name": "Kyle Lindsey",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: Lending and Other Momentum Signals",
+      "lastAction": "Email from mcooper@stridecre.com: Still Available: 6117 Centennial Blvd — Office",
       "urgency": "low"
     },
     {
@@ -23602,28 +23637,28 @@
       "name": "Carmen Drake",
       "deal": " — Evansville / Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Evansville / Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "James Stocker",
       "deal": " — Evansville / Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Carmine DiLucente",
       "deal": " — Evansville / Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
@@ -23693,84 +23728,84 @@
       "name": "Joey",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "ala h.",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti <jvalenti@centenretail.com>",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "EJ",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
+      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
       "urgency": "low"
     },
     {
@@ -23994,7 +24029,7 @@
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
       "daysSinceContact": 0,
-      "lastAction": "Email from Amazon.com: Delivered: \"SightPro Magnetic Privacy...\"",
+      "lastAction": "Email from mcooper@stridecre.com: Still Available: 6117 Centennial Blvd — Office",
       "urgency": "low"
     },
     {
