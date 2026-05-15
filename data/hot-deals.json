@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T15:02:34.335513",
+  "lastUpdated": "2026-05-15T15:09:25.910672",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-15",
@@ -49,7 +49,9 @@
       "Schedule lunch w mailto:ctaylor@realsitecommerical.com (overdue — due 2026-03-23)",
       "See when Dallas could meet with carter (overdue — due 2026-03-31)",
       "Harrison Trampoline LOI (overdue — due 2026-03-31)",
-      "Add teeth to the default sections for Grease.  (overdue — due 2026-03-23)"
+      "Add teeth to the default sections for Grease.  (overdue — due 2026-03-23)",
+      "Send ICSC calendar invite to Kevin Moss for Wednesday 8:30 AM Central Hall CBRE booth",
+      "Review GMX Hamilton title requirements and inspection-period extension request"
     ]
   },
   "pipelineDeals": [
@@ -12921,16 +12923,19 @@
     {
       "id": "evansville",
       "name": "",
-      "property": "Evansville / Hamilton",
-      "status": "MacBid call with James Stocker is scheduled for Wednesday 5/27 after Carmine confirmed James is now the main MacBid TM lead and MacBid will not attend ICSC.",
+      "property": "Hamilton, OH",
+      "status": "GMX sent title/inspection-period requirements for the Dutch Bros outparcel sale: recorded Subway and AutoZone instruments removing/limiting subject property from shopping-center encumbrances, Subway consent/estoppel or seller indemnity for no-build/prohibited uses, AutoZone confirmation that Dutch Bros/signage do not impair AutoZone signage, Family Dollar memorandum termination, and inspection-period extension until first business day after executed documents are provided.",
       "stage": "Lease Signed",
-      "nextStep": "Use the scheduled 5/27 call with James Stocker to ask about current MacBid expansion plans, San Antonio focus, Evansville interest, and Harrison/Gastonia implications.",
-      "priority": "medium",
+      "nextStep": "Resolve title/lease encumbrance documents or inspection period will need extension.",
+      "priority": "high",
       "contacts": [
         "Carmen Drake (Bellacino's Pizza & Grinders / Runnebohm Realty)",
         "Melissa Drish <mdrish@anchorinv.com>",
         "James Stocker (CBRE / MacBid TM lead)",
-        "Carmine DiLucente (CBRE)"
+        "Carmine DiLucente (CBRE)",
+        "Stan Bobowski (GMX)",
+        "Paul Takacs (GMX)",
+        "Andrew Goodman (GMX)"
       ],
       "timeline": [
         {
@@ -12981,6 +12986,11 @@
         {
           "date": "2026-05-15",
           "event": "Communication triage confirmed James Stocker / MacBid call is scheduled for Wednesday 5/27.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "GMX summarized title issue requirements and inspection-period extension request.",
           "type": "email"
         },
         {
@@ -22576,10 +22586,10 @@
       "id": "parma-heights-royal-bazaar-indian",
       "name": "Royal Bazaar Indian",
       "property": "Parma Heights",
-      "status": "Kevin Moss / CBRE asked about 12,000-16,000 SF for Royal Bazaar Indian as a live ICSC lead; Jacob replied at 12:48 PM.",
+      "status": "Kevin Moss at CBRE asked about 12-16K SF for Royal Bazaar Indian Market; Jacob confirmed availability and set ICSC meeting for Wednesday 8:30 AM at Central Hall CBRE booth. Kevin asked Jacob to send invite.",
       "stage": "Contact Made",
-      "nextStep": "Track for Kevin Moss/Royal Bazaar response and evaluate viable Parma Heights space options if interest continues.",
-      "priority": "medium",
+      "nextStep": "Send ICSC calendar invite to Kevin Moss.",
+      "priority": "high",
       "contacts": [
         "Kevin Moss (CBRE)",
         "Royal Bazaar Indian"
@@ -22599,6 +22609,11 @@
           "date": "2026-05-15",
           "event": "Kevin Moss asked about 12,000-16,000 SF for Royal Bazaar Indian; Jacob replied.",
           "type": "lead"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "CBRE/Royal Bazaar Indian Market inquiry and ICSC meeting set for Wednesday 8:30 AM.",
+          "type": "email"
         }
       ],
       "actions": [],
@@ -22613,6 +22628,29 @@
         "suiteCount": 9,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "charter-school-30k-sf",
+      "name": "Charter School 30K+ SF Requirement",
+      "property": "TBD",
+      "status": "Richard Jones forwarded a charter school requirement from Daynon Kirby for 30K+ SF for lease.",
+      "stage": "Contact Made",
+      "nextStep": "Decide whether any Anchor box fits and reply to Richard if relevant.",
+      "priority": "medium",
+      "contacts": [
+        "Richard Jones (World Realty)",
+        "Daynon Kirby"
+      ],
+      "timeline": [
+        {
+          "date": "2026-05-15",
+          "event": "30K+ SF charter school requirement forwarded by Richard Jones.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-05-15"
     }
   ],
   "droppedBalls": [
