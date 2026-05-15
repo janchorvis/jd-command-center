@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T12:02:14.149394",
+  "lastUpdated": "2026-05-15T12:02:36.230673",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-15",
@@ -17107,9 +17107,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton",
-      "status": "Ashby/Micah thread remains active on purchaser's additional title/inspection-period requests; Micah told Ashby he would call this afternoon.",
+      "status": "GMX/Stan Bobowski forwarded purchaser/title issue requests and called Jacob to discuss additional inspection-period/title accommodations.",
       "stage": "Lease Signed",
-      "nextStep": "Business/legal call posture: cooperate on existing docs/title backup, but avoid open-ended tenant signatures/estoppels/approvals.",
+      "nextStep": "Jacob/Micah/Ashby need to decide which purchaser requests Anchor will accommodate before the inspection-period extension path slips.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -17121,7 +17121,9 @@
         "Lisa Sweeney (First American)",
         "Wm. Coey Vierling <oinkysurveying@gmail.com>",
         "Bob McAuliff <BMcAuliff@taftlaw.com>",
-        "Ashby Scott <ascott@evanspetree.com>"
+        "Ashby Scott <ascott@evanspetree.com>",
+        "Stan Bobowski (GMX Real Estate Group)",
+        "Micah Lacher (Anchor)"
       ],
       "timeline": [
         {
@@ -17137,6 +17139,11 @@
         {
           "date": "2026-05-15",
           "event": "Triage: Micah/Ashby call planned this afternoon on purchaser additional title/extension requests.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Stan Bobowski forwarded Hamilton title issue / inspection period extension requests and called Jacob to discuss.",
           "type": "email"
         },
         {
