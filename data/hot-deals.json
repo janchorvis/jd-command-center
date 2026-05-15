@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T15:09:25.910672",
+  "lastUpdated": "2026-05-15T15:30:58.413192",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-15",
@@ -12940,6 +12940,11 @@
       "timeline": [
         {
           "date": "2026-05-15",
+          "event": "Email from Paul Gold: Vegas Meeting",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
           "event": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18, 2026 9pm - 10pm (CDT)",
           "type": "email"
         },
@@ -22644,6 +22649,21 @@
       "timeline": [
         {
           "date": "2026-05-15",
+          "event": "Email from Richard Jones: World Realty is assisting a fitness user needing 25,000 sq ft or greater",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Email from Richard Jones: Fwd: 30k+ SF Needed for Lease",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Email from Richard Jones: Victoria Fields now Victoria Griffith's contact below",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
           "event": "30K+ SF charter school requirement forwarded by Richard Jones.",
           "type": "lead"
         }
@@ -23673,30 +23693,51 @@
     },
     {
       "name": "Carmen Drake",
-      "deal": " — Evansville / Hamilton",
+      "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
-      "deal": " — Evansville / Hamilton",
+      "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "James Stocker",
-      "deal": " — Evansville / Hamilton",
+      "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Carmine DiLucente",
-      "deal": " — Evansville / Hamilton",
+      "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ryan Romes: Invitation: Dinner with Marc/Colliers @ Wynn @ Mon May 18",
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
+      "urgency": "low"
+    },
+    {
+      "name": "Stan Bobowski",
+      "deal": " — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul Takacs",
+      "deal": " — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
+      "urgency": "low"
+    },
+    {
+      "name": "Andrew Goodman",
+      "deal": " — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
@@ -24194,6 +24235,20 @@
       "deal": "Royal Bazaar Indian — Parma Heights",
       "daysSinceContact": 0,
       "lastAction": "Email from Moss, Kevin @ Cleveland: Parma Heights - Royal Bazaar Indian",
+      "urgency": "low"
+    },
+    {
+      "name": "Richard Jones",
+      "deal": "Charter School 30K+ SF Requirement — TBD",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Richard Jones: World Realty is assisting a fitness user needing 25,00",
+      "urgency": "low"
+    },
+    {
+      "name": "Daynon Kirby",
+      "deal": "Charter School 30K+ SF Requirement — TBD",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Richard Jones: World Realty is assisting a fitness user needing 25,00",
       "urgency": "low"
     }
   ],
