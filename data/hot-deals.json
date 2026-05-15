@@ -22883,6 +22883,27 @@
       "property": "Sevierville CosmoProf",
       "lastSeen": "Week Of 4/20/26",
       "note": "Dropped from prep doc. Last status: I'll walk you through their revised offer in the meeting. I have some notes prepped, but ran out of time to get them in here before the reference call."
+    },
+    {
+      "id": "emerson-hall-lately-projects",
+      "name": "Emerson Hall / Lately Projects",
+      "property": "Emerson Hall / Lately Projects",
+      "lastSeen": "Week Of 5.4.26",
+      "note": "Dropped from prep doc. Last status: Ready to rock and roll. Let me know if there is anything you need me to do"
+    },
+    {
+      "id": "shelbyville",
+      "name": "Shelbyville",
+      "property": "Shelbyville",
+      "lastSeen": "Week Of 5.4.26",
+      "note": "Dropped from prep doc with no status recorded."
+    },
+    {
+      "id": "just-leaving-this-here-to-talk-about-shelbyville",
+      "name": "Just leaving this here to talk about Shelbyville",
+      "property": "Just leaving this here to talk about Shelbyville",
+      "lastSeen": "Week Of 5.4.26",
+      "note": "Dropped from prep doc. Last status: -OP -New ideas (shoutout jarvis) -ICSC"
     }
   ],
   "staleContacts": [
@@ -24165,7 +24186,7 @@
   "actionItems": [
     {
       "title": "Miscellaneous",
-      "detail": "-I didn't want to jinx it in MMM, but I worked on a Claude expense report project this weekend that I'm gonna give to a few people to test out. Plan is to work out the kinks this month so we can roll it out to the team going forward. -Fyxer -Weekly Report -AI podcast debrief -Tardy Debrief -Adam Onboarding 2008 johnson flyer"
+      "detail": "Anchor commissions from April. Figured we could talk through how we want them to be paid to Anchor. Below is my educated guess Montgomery - QT Nails: Pay first half and hold the second half until they open/commence (June 1)"
     }
   ],
   "crossRefAlerts": [
@@ -68241,70 +68262,136 @@
     ]
   },
   "prepDocDiff": {
-    "generatedAt": "2026-05-08T15:01:16.405187",
-    "thisWeek": "Leasing Meeting Prep - Week of 5.4.26",
-    "lastWeek": "Leasing Meeting Prep - Week of 5/4/26",
-    "new": [],
-    "dropped": [],
-    "progressed": [],
-    "stalled": [],
-    "updated": [],
-    "noChange": [
+    "generatedAt": "2026-05-15T15:01:33.150654",
+    "thisWeek": "Leasing Meeting Prep - Week of 5/11/26",
+    "lastWeek": "Leasing Meeting Prep - Week of 5.4.26",
+    "new": [
       {
-        "name": "Five Below LOI approved at REC",
-        "property": "Five Below LOI approved at REC",
-        "status": "",
-        "weeksUnchanged": 1
+        "name": "Pell City Marketplace",
+        "property": "Pell City Marketplace",
+        "status": "Physical Therapy / Home Health Fun plot twist: The original home health company is also now back trying to see if we can slot them in the middle space and get three deals done at once. We had a brief call last Friday and we were dusting off our old LOI.",
+        "nextStep": ""
       },
+      {
+        "name": "Evansville",
+        "property": "Evansville",
+        "status": "Where Ya Bin The call with Mitch did happen on Tuesday - I filled you in on it. We are waiting on Mitch/Where Ya Bin after he reviews the material. Just shot him a text this morning Easterseals Still waiting on Laurie/CEO feedback. Laurie said the CEO meeting got cancelled because of the CEO's schedule and DC travel, and she expected to connect the following week. I will ping her today and get an update",
+        "nextStep": ""
+      },
+      {
+        "name": "Firework Tent Details",
+        "property": "Firework Tent Details",
+        "status": "It took a minute, but I finally worked through all the details for these Fireworks leases. They will be going out via DocuSign to you this week. Here are the properties:",
+        "nextStep": ""
+      },
+      {
+        "name": "Hickory Village",
+        "property": "Jackson, TN",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Dixie Village",
+        "property": "Gastonia, NC",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "McMinnville Plaza",
+        "property": "McMinnville, TN",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Millington Plaza",
+        "property": "Millington, TN",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Forks of the River",
+        "property": "Sevierville, TN",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Malone Big Lots / Malone Plaza",
+        "property": "Malone, NY",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Malone",
+        "property": "Shoe Dept: Hold to pay at a later date",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Russellville",
+        "property": "ABC Store: Hold to pay at a later date",
+        "status": "",
+        "nextStep": ""
+      }
+    ],
+    "dropped": [
       {
         "name": "Emerson Hall / Lately Projects",
         "property": "Emerson Hall / Lately Projects",
-        "status": "Ready to rock and roll. Let me know if there is anything you need me to do",
-        "weeksUnchanged": 1
-      },
-      {
-        "name": "Five Below",
-        "property": "Malone",
-        "status": "Approved at REC. Clay and I have a kick-off call with their construction team this afternoon",
-        "weeksUnchanged": 1
-      },
-      {
-        "name": "UPS Store",
-        "property": "McMinnville",
-        "status": "Petty and I worked through the specifics, and he is taking the most recent version to get sign off from UPS. Pell City Physical Therapy / Home Health I can explain more in our meeting, but this one hit a little speed bump with their legal team, so it is having to go back through approvals. The short version is they wanted some broad assignment language that the broker and I discussed and were on the same page about, but he didn't document very well, so their legal team flagged it and rejected it on first go",
-        "weeksUnchanged": 1
-      },
-      {
-        "name": "Great Greek",
-        "property": "Maple Row",
-        "status": "They did a site visit the other day and are waiting for some numbers back.",
-        "weeksUnchanged": 1
-      },
-      {
-        "name": "Gastonia",
-        "property": "Gastonia",
-        "status": "The laundromat operator and I have a call scheduled for Wednesday to go over the specifics in the lease. Evansville Evansville / Where Ya Bin call got pushed to tomorrow. Evansville Easterseals has not talked with their CEO yet but is going to keep me in the loop.",
-        "weeksUnchanged": 1
+        "lastStatus": "Ready to rock and roll. Let me know if there is anything you need me to do"
       },
       {
         "name": "Shelbyville",
         "property": "Shelbyville",
-        "status": "",
-        "weeksUnchanged": 1
+        "lastStatus": ""
       },
       {
         "name": "Just leaving this here to talk about Shelbyville",
         "property": "Just leaving this here to talk about Shelbyville",
-        "status": "-OP -New ideas (shoutout jarvis) -ICSC",
-        "weeksUnchanged": 1
+        "lastStatus": "-OP -New ideas (shoutout jarvis) -ICSC"
+      }
+    ],
+    "progressed": [
+      {
+        "name": "Five Below",
+        "property": "Five Below",
+        "from": "",
+        "to": "Five Below's attorney sent the lease draft. I will review this week and also send it to Ashby so that way we can circle up on it"
+      },
+      {
+        "name": "McMinnville Plaza",
+        "property": "McMinnville Plaza",
+        "from": "Petty and I worked through the specifics, and he is taking the most recent version to get sign off from UPS. Pell City Physical Therapy / Home Health I can explain more in our meeting, but this one hit a little speed bump with their legal team, so it is having to go back through approvals. The short version is they wanted some broad assignment language that the broker and I discussed and were on the same page about, but he didn't document very well, so their legal team flagged it and rejected it on first go",
+        "to": "UPS Store This moved forward. Amy/UPS signed the LOI on 5/5. I returned the fully executed LOI on 5/6.We can get started on a lease while they get final approval from REC."
+      },
+      {
+        "name": "Maple Row / Hendersonville",
+        "property": "Maple Row / Hendersonville",
+        "from": "They did a site visit the other day and are waiting for some numbers back.",
+        "to": "Great Greek This is down to one issue. Construction numbers came back, and Joey returned LOI comments with only one change: tenant wants the ‘allegedly’ dead rooftop HVAC unit replaced now instead of just covered by the later HVAC language."
+      }
+    ],
+    "stalled": [],
+    "updated": [
+      {
+        "name": "Malone Plaza",
+        "property": "Malone Plaza",
+        "from": "Approved at REC. Clay and I have a kick-off call with their construction team this afternoon",
+        "to": ""
+      },
+      {
+        "name": "Gastonia / Dixie Village",
+        "property": "Gastonia / Dixie Village",
+        "from": "The laundromat operator and I have a call scheduled for Wednesday to go over the specifics in the lease. Evansville Evansville / Where Ya Bin call got pushed to tomorrow. Evansville Easterseals has not talked with their CEO yet but is going to keep me in the loop.",
+        "to": "Chad Vang laundromat I talked to Chad. Their other laundromat has taken longer than anticipated to get up and running. Instead of continuing to follow up, we put a call on the calendar four weeks from now to circle back up"
       },
       {
         "name": "Hope Smiles",
         "property": "Hope Smiles",
-        "status": "They are pretty sold out on Creekside Crossing currently. They want to look at one more suite that was locked in there when we toured the first time. The LL is working on a test fit (for one of the spaces they looked at the other week) and running the numbers, so hope smiles can make a decision. Fostr Yardi data has made it into the platform, but still needs lots of configuring on their end. But it's big time that you can go in and see where it's headed. I can show it to you",
-        "weeksUnchanged": 1
+        "from": "They are pretty sold out on Creekside Crossing currently. They want to look at one more suite that was locked in there when we toured the first time. The LL is working on a test fit (for one of the spaces they looked at the other week) and running the numbers, so hope smiles can make a decision. Fostr Yardi data has made it into the platform, but still needs lots of configuring on their end. But it's big time that you can go in and see where it's headed. I can show it to you",
+        "to": "I slacked you the PDF, but we put together a tenant profile for Creekside Crossing LL. I was impressed with Claude Design. Hopefully the LL is too… Fostr I had a good call with Fostr last week. We are closing in on the Yardi integration. I can share more 2008 Johnson flyer I'll show you what Jarvis came up with and what Claude Design came up with"
       }
-    ]
+    ],
+    "noChange": []
   },
   "propertyReviewTodos": {
     "generatedAt": "2026-03-17T20:49:53.959486",
