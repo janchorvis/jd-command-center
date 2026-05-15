@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T10:30:29.088732",
+  "lastUpdated": "2026-05-15T11:04:17.902781",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-15",
@@ -3967,9 +3967,13 @@
       "property": "Gastonia - Dixie Village",
       "status": "Chad Vang laundromat follow-up moved to a later calendar call because their other laundromat has taken longer than expected; no active chase until the scheduled circle-back.",
       "stage": "LOI",
-      "nextStep": "Wait for the scheduled call roughly four weeks out; do not keep chasing in the meantime.",
+      "nextStep": "Jacob to review/send drafted LoopNet reply to Belky Rodriguez asking business type and square footage.",
       "priority": "low",
       "timeline": [
+        {
+          "date": "2026-05-15",
+          "event": "LoopNet lead from Belky Rodriguez (704-605-9280, mibella1988@gmail.com) interested in 2500 W Franklin Blvd / Dixie Village. Gmail draft r1287281276946921415 loaded on thread 19e2c59ce9e7c368 asking business type and square footage."
+        },
         {
           "date": "2026-05-12",
           "event": "Email from Crexi: Julie H. clicked phone number on Hickory Village",
@@ -4323,7 +4327,8 @@
       ],
       "contacts": [
         "Chad Vang",
-        "Chad Vang (Laundromat)"
+        "Chad Vang (Laundromat)",
+        "Belky Rodriguez — 704-605-9280 — mibella1988@gmail.com"
       ],
       "actions": [
         {
@@ -13773,6 +13778,10 @@
           "date": "2026-05-15",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Nicolas Thomas",
           "type": "email"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Clay Richardson said he will send the Great Greek HVAC issue to Mad Dawg to get his HVAC contractor out there."
         },
         {
           "date": "2026-05-14",
