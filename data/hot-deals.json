@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T15:31:04.020826",
+  "lastUpdated": "2026-05-15T16:03:53.772541",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-15",
@@ -12466,9 +12466,9 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Drayer PT lease-draft path continues; Tom Fidler asked for age/information on the RTU/unit for Results PT.",
+      "status": "Physical Therapy/Home Health RFP prospect followed up asking for Anchor's proposal after Jacob said contractors were pricing the buildout.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob/Clay need to provide RTU age/spec information to Tom Fidler.",
+      "nextStep": "Jacob needs to get Lauri Fowler/ProStar a proposal response or interim update.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
@@ -12506,6 +12506,11 @@
         {
           "date": "2026-05-15",
           "event": "Tom Fidler asked for age and information on the RTU/unit for Results PT/Drayer PT.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Inbox: Lauri Fowler checked in on the 803 Martin St. S. proposal after a week without response.",
           "type": "email"
         },
         {
@@ -17366,10 +17371,10 @@
     {
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
-      "property": "Hamilton",
-      "status": "GMX/Stan Bobowski forwarded purchaser/title issue requests and called Jacob to discuss additional inspection-period/title accommodations.",
+      "property": "Hamilton, OH",
+      "status": "Purchaser requires lease/title encumbrance fixes for Subway, AutoZone, and Family Dollar; Seller agreed to extend inspection period through May 29 while buyer/Dutch Bros. counsel seek a less onerous resolution path.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Micah/Ashby need to decide which purchaser requests Anchor will accommodate before the inspection-period extension path slips.",
+      "nextStep": "Monitor Dutch Bros. counsel path and title/lease resolution before May 29 inspection-period deadline.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -17383,7 +17388,9 @@
         "Bob McAuliff <BMcAuliff@taftlaw.com>",
         "Ashby Scott <ascott@evanspetree.com>",
         "Stan Bobowski (GMX Real Estate Group)",
-        "Micah Lacher (Anchor)"
+        "Micah Lacher (Anchor)",
+        "Stan Bobowski (GMX)",
+        "Karen D'Antonio (Taft)"
       ],
       "timeline": [
         {
@@ -17424,6 +17431,11 @@
         {
           "date": "2026-05-15",
           "event": "Stan Bobowski forwarded Hamilton title issue / inspection period extension requests and called Jacob to discuss.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Inbox: Seller agreed to extend Hamilton inspection period through Friday, May 29, 2026 while Dutch Bros. counsel explores resolution of Subway/AutoZone/Family Dollar encumbrance concerns.",
           "type": "email"
         },
         {
@@ -22591,9 +22603,9 @@
       "id": "parma-heights-royal-bazaar-indian",
       "name": "Royal Bazaar Indian",
       "property": "Parma Heights",
-      "status": "Kevin Moss at CBRE asked about 12-16K SF for Royal Bazaar Indian Market; Jacob confirmed availability and set ICSC meeting for Wednesday 8:30 AM at Central Hall CBRE booth. Kevin asked Jacob to send invite.",
+      "status": "Kevin Moss/CBRE confirmed ICSC meeting for Royal Bazaar Indian Market at 8:30 AM Wednesday at the Central Hall CBRE booth; Jacob sent the invite.",
       "stage": "Contact Made",
-      "nextStep": "Send ICSC calendar invite to Kevin Moss.",
+      "nextStep": "Meet Kevin at ICSC and discuss 12-16K SF Royal Bazaar Indian Market requirement.",
       "priority": "high",
       "contacts": [
         "Kevin Moss (CBRE)",
@@ -22618,6 +22630,11 @@
         {
           "date": "2026-05-15",
           "event": "CBRE/Royal Bazaar Indian Market inquiry and ICSC meeting set for Wednesday 8:30 AM.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Inbox: Kevin Moss confirmed Wednesday 8:30 AM at Central Hall CBRE booth for Royal Bazaar Indian Market; Jacob sent invite.",
           "type": "email"
         }
       ],
