@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T07:15:52.792062",
+  "lastUpdated": "2026-05-15T07:15:58.050246",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-15",
@@ -57,6 +57,16 @@
       "nextStep": "Micah to review/submit numbers to bank; Jacob should only weigh in if he disagrees with proforma assumptions.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-14",
+          "event": "Email from Paul Gold: Vegas Meeting",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Extension",
+          "type": "email"
+        },
         {
           "date": "2026-05-14",
           "event": "Email from Bridgestone Arena Box Office: Arena Presale: Luke Bryan & Friends, Journey and Auburn vs. Wisconsin at Bridges",
@@ -1429,6 +1439,11 @@
       "timeline": [
         {
           "date": "2026-05-14",
+          "event": "Email from Paul Gold: Vegas Meeting",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
           "event": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
           "type": "email"
         },
@@ -2482,6 +2497,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-14",
+          "event": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NCS-1283410-CHI2",
+          "type": "email"
+        },
         {
           "date": "2026-05-14",
           "event": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
@@ -4423,6 +4443,16 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-05-15",
+          "event": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform; Another ex-Paramount exec j",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Email from Paul Gold: Vegas Meeting",
+          "type": "email"
+        },
+        {
           "date": "2026-05-14",
           "event": "Email from Wilson, Kurt: Russellville, AL Construction Timeline",
           "type": "email"
@@ -5397,6 +5427,11 @@
       "nextStep": "Jacob on call with Ashby at 10 AM — get through comments, push for signature",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-14",
+          "event": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Extension",
+          "type": "email"
+        },
         {
           "date": "2026-05-14",
           "event": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
@@ -6702,6 +6737,36 @@
       "nextStep": "Wait for David S. to provide contact info/tour availability.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-15",
+          "event": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform; Another ex-Paramount exec j",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Email from CRE Daily: Construction Risk Keeps Climbing",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Email from CoStar Alerts: CoStar Daily Alert for May 15, 2026",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Email from Kelsey Cornillie, Publisher: East Bank development scores anchor tenant",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Email from Carson West: Fundraising for Approved Grants",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Email from Stocker, James @ Dallas: ICSC Vegas - Mac Bid",
+          "type": "email"
+        },
         {
           "date": "2026-05-14",
           "event": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
@@ -8395,6 +8460,16 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-05-15",
+          "event": "Email from SpeCtre: You’re invited to: ''AI in Construction: Rethink Your Workflows with AI''",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Extension",
+          "type": "email"
+        },
+        {
           "date": "2026-05-14",
           "event": "Email from Catherine White: Inside the Elevate 2026 Agenda",
           "type": "email"
@@ -9493,6 +9568,11 @@
       "nextStep": "Micah/Ryan need exit/risk plan; Jacob should only weigh in if he disagrees with updated proforma assumptions or small-shop leasing posture.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-14",
+          "event": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Extension",
+          "type": "email"
+        },
         {
           "date": "2026-05-14",
           "event": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
@@ -11582,6 +11662,11 @@
       "timeline": [
         {
           "date": "2026-05-14",
+          "event": "Email from Stocker, James @ Dallas: ICSC Vegas - Mac Bid",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
           "event": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
           "type": "email"
         },
@@ -12186,6 +12271,21 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-15",
+          "event": "Email from Tom Fidler: Results PT RTU",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Email from The CRE Rundown by Trepp: Motor City Office Market Stabilizing?",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Extension",
+          "type": "email"
+        },
+        {
           "date": "2026-05-14",
           "event": "Email from Risa Lurie: FW: Merchant Email Receipt",
           "type": "email"
@@ -12609,6 +12709,26 @@
       "timeline": [
         {
           "date": "2026-05-14",
+          "event": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NCS-1283410-CHI2",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Extension",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Shawn Metzgar) @ Thu May 28, 2026 12:1",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Email from Stocker, James @ Dallas: ICSC Vegas - Mac Bid",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
           "event": "Email from Jacob Delk: 2433 Buena Vista Pike",
           "type": "email"
         },
@@ -12884,6 +13004,26 @@
         "David S. (Crexi lead; Crossville/Cumberland Square tenant)"
       ],
       "timeline": [
+        {
+          "date": "2026-05-15",
+          "event": "Email from CRE Daily: Construction Risk Keeps Climbing",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Email from CoStar Alerts: CoStar Daily Alert for May 15, 2026",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Email from Kelsey Cornillie, Publisher: East Bank development scores anchor tenant",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Email from Stocker, James @ Dallas: ICSC Vegas - Mac Bid",
+          "type": "email"
+        },
         {
           "date": "2026-05-14",
           "event": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
@@ -13475,6 +13615,11 @@
       "nextStep": "Wait for HVAC vendor inspection timing/findings before final Great Greek LOI posture.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-14",
+          "event": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Shawn Metzgar) @ Thu May 28, 2026 12:1",
+          "type": "email"
+        },
         {
           "date": "2026-05-14",
           "event": "Email from Jacob Delk: 2433 Buena Vista Pike",
@@ -14408,6 +14553,11 @@
       "nextStep": "Keep pressure on all active prospects and let speed determine space control.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-15",
+          "event": "Email from The CRE Rundown by Trepp: Motor City Office Market Stabilizing?",
+          "type": "email"
+        },
         {
           "date": "2026-05-14",
           "event": "Email from Risa Lurie: FW: Merchant Email Receipt",
@@ -15985,6 +16135,11 @@
       "timeline": [
         {
           "date": "2026-05-14",
+          "event": "Email from Carson West: Fundraising for Approved Grants",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
           "event": "Email from Mailynne Calvin: 2,500SF at 235 E MAIN ST, HENDERSONVILLE, TN 37075",
           "type": "email"
         },
@@ -16796,6 +16951,21 @@
         "Ashby Scott <ascott@evanspetree.com>"
       ],
       "timeline": [
+        {
+          "date": "2026-05-14",
+          "event": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NCS-1283410-CHI2",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Extension",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Email from Carson West: Fundraising for Approved Grants",
+          "type": "email"
+        },
         {
           "date": "2026-05-14",
           "event": "Email from Chris Brophy: PCON | Development Ask - Writer's Round",
@@ -19034,6 +19204,16 @@
       "timeline": [
         {
           "date": "2026-05-14",
+          "event": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NCS-1283410-CHI2",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Extension",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
           "event": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
           "type": "email"
         },
@@ -20458,6 +20638,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-15",
+          "event": "Email from CoStar News: CoStar Today: Kilroy Realty’s latest sale shows that live-work-play doesn’t jive",
+          "type": "email"
+        },
+        {
           "date": "2026-05-14",
           "event": "Email from Bisnow Educational Workshops: C-PACE Live Workshop Starts Monday — Final Spots + $100 Off",
           "type": "email"
@@ -21183,6 +21368,21 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-15",
+          "event": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform; Another ex-Paramount exec j",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Email from Carson West: Fundraising for Approved Grants",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-14",
+          "event": "Email from Stocker, James @ Dallas: ICSC Vegas - Mac Bid",
+          "type": "email"
+        },
+        {
           "date": "2026-05-14",
           "event": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
           "type": "email"
@@ -21626,6 +21826,11 @@
         "Clay"
       ],
       "timeline": [
+        {
+          "date": "2026-05-15",
+          "event": "Email from Kelsey Cornillie, Publisher: East Bank development scores anchor tenant",
+          "type": "email"
+        },
         {
           "date": "2026-05-14",
           "event": "Email from Mathison Ingham: Fwd: 8209 Highway 51 N Millington signage question",
@@ -22127,1149 +22332,1149 @@
     {
       "name": "Derek Tucker",
       "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
-      "daysSinceContact": 10,
+      "daysSinceContact": 11,
       "lastAction": "Email from Jacob Delk: Shelbyville, IN",
       "urgency": "low"
     },
     {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
-      "daysSinceContact": 2,
+      "daysSinceContact": 3,
       "lastAction": "Email from Crexi: Julie H. clicked phone number on Hickory Village",
       "urgency": "low"
     },
     {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
-      "daysSinceContact": 2,
+      "daysSinceContact": 3,
       "lastAction": "Email from Crexi: Julie H. clicked phone number on Hickory Village",
       "urgency": "low"
     },
     {
       "name": "Pesach Gewirtz",
       "deal": "Infinite Equity Capital - 730 — 730",
-      "daysSinceContact": 2,
+      "daysSinceContact": 3,
       "lastAction": "Email from NAIOP: NAIOP Source: Capital Markets Spotlight on the Podcast",
       "urgency": "low"
     },
     {
       "name": "Laurie",
       "deal": " — Evansville",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Email from Laurie Seals: Automatic reply: Big Lots - S Green River Rd",
       "urgency": "low"
     },
     {
       "name": "Keystone Fireworks",
       "deal": "Fireworks Stands — Multiple Sites",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Jeb Thompson followed up for updates on Keystone firework tent site leases.",
       "urgency": "low"
     },
     {
       "name": "Jeb Thompson",
       "deal": "Fireworks Stands — Multiple Sites",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Jeb Thompson followed up for updates on Keystone firework tent site leases.",
       "urgency": "low"
     },
     {
       "name": "Jeb Thompson",
       "deal": "Fireworks Stands — Multiple Sites",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Jeb Thompson followed up for updates on Keystone firework tent site leases.",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Bridgestone Arena Box Office: Arena Presale: Luke Bryan & Friends, Jo",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Bridgestone Arena Box Office: Arena Presale: Luke Bryan & Friends, Jo",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Bridgestone Arena Box Office: Arena Presale: Luke Bryan & Friends, Jo",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Bridgestone Arena Box Office: Arena Presale: Luke Bryan & Friends, Jo",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Bridgestone Arena Box Office: Arena Presale: Luke Bryan & Friends, Jo",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Bridgestone Arena Box Office: Arena Presale: Luke Bryan & Friends, Jo",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Bridgestone Arena Box Office: Arena Presale: Luke Bryan & Friends, Jo",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Bridgestone Arena Box Office: Arena Presale: Luke Bryan & Friends, Jo",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Bridgestone Arena Box Office: Arena Presale: Luke Bryan & Friends, Jo",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Bridgestone Arena Box Office: Arena Presale: Luke Bryan & Friends, Jo",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Bridgestone Arena Box Office: Arena Presale: Luke Bryan & Friends, Jo",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Bridgestone Arena Box Office: Arena Presale: Luke Bryan & Friends, Jo",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Bridgestone Arena Box Office: Arena Presale: Luke Bryan & Friends, Jo",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Bridgestone Arena Box Office: Arena Presale: Luke Bryan & Friends, Jo",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Bridgestone Arena Box Office: Arena Presale: Luke Bryan & Friends, Jo",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Bridgestone Arena Box Office: Arena Presale: Luke Bryan & Friends, Jo",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Tony Grillo",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Vegas Meeting",
       "urgency": "low"
     },
     {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
-      "urgency": "low"
-    },
-    {
-      "name": "Melissa Eddy",
-      "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Wilson, Kurt: Russellville, AL Construction Timeline",
-      "urgency": "low"
-    },
-    {
-      "name": "Carole",
-      "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Wilson, Kurt: Russellville, AL Construction Timeline",
-      "urgency": "low"
-    },
-    {
-      "name": "Kurt Wilson",
-      "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Wilson, Kurt: Russellville, AL Construction Timeline",
-      "urgency": "low"
-    },
-    {
-      "name": "Kyle Lindsey",
-      "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Wilson, Kurt: Russellville, AL Construction Timeline",
-      "urgency": "low"
-    },
-    {
-      "name": "Kurt Wilson",
-      "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Wilson, Kurt: Russellville, AL Construction Timeline",
-      "urgency": "low"
-    },
-    {
-      "name": "Kyle Lindsey",
-      "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Wilson, Kurt: Russellville, AL Construction Timeline",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Scott Myers: 803-1025 Martin St S - Pell City Marketplace",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Mathison Ingham: Fwd: 8209 Highway 51 N Millington signage question",
       "urgency": "low"
     },
     {
       "name": "Dwaine High",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Mathison Ingham: Fwd: 8209 Highway 51 N Millington signage question",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty - jpetty@southeastventure.com",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Taylor",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Taylor",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
-      "urgency": "low"
-    },
-    {
-      "name": "Shady Azez <shadyazezz@gmail.com>",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty <jpetty@southeastventure.com>",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
-      "urgency": "low"
-    },
-    {
-      "name": "David S.",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Kevin True",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Bell",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby",
-      "deal": "Prather Event Co — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Catherine White: Inside the Elevate 2026 Agenda",
       "urgency": "low"
     },
     {
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson <Robert_Richardson@tjx.com>",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano <andriano@c2-designgroup.com>",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
       "urgency": "low"
     },
     {
       "name": "Spencer",
       "deal": "Royal Furniture — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Sheldon",
       "deal": "Royal Furniture — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Peter Adams",
       "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
-      "urgency": "low"
-    },
-    {
-      "name": "Lauri Fowler",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Risa Lurie: FW: Merchant Email Receipt",
-      "urgency": "low"
-    },
-    {
-      "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Risa Lurie: FW: Merchant Email Receipt",
-      "urgency": "low"
-    },
-    {
-      "name": "David Cooke",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Risa Lurie: FW: Merchant Email Receipt",
-      "urgency": "low"
-    },
-    {
-      "name": "Abbey Gill",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Risa Lurie: FW: Merchant Email Receipt",
-      "urgency": "low"
-    },
-    {
-      "name": "Scott Myers <smyerscre2@outlook.com>",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Risa Lurie: FW: Merchant Email Receipt",
-      "urgency": "low"
-    },
-    {
-      "name": "Laurie",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Risa Lurie: FW: Merchant Email Receipt",
-      "urgency": "low"
-    },
-    {
-      "name": "Mitch",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Risa Lurie: FW: Merchant Email Receipt",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Fidler",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Risa Lurie: FW: Merchant Email Receipt",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Fidler",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Risa Lurie: FW: Merchant Email Receipt",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Stocker, James @ Dallas: ICSC Vegas - Mac Bid",
       "urgency": "low"
     },
     {
       "name": "Carmen Drake",
       "deal": " — Evansville / Hamilton",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2433 Buena Vista Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Evansville / Hamilton",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2433 Buena Vista Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "James Stocker",
       "deal": " — Evansville / Hamilton",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2433 Buena Vista Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Carmine DiLucente",
       "deal": " — Evansville / Hamilton",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2433 Buena Vista Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Joe Wesley",
-      "deal": " — McMinnville Plaza Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": " — McMinnville Plaza Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": " — McMinnville Plaza Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
-      "urgency": "low"
-    },
-    {
-      "name": "Shady Azez",
-      "deal": " — McMinnville Plaza Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
-      "urgency": "low"
-    },
-    {
-      "name": "David S.",
-      "deal": " — McMinnville Plaza Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
-      "urgency": "low"
-    },
-    {
-      "name": "David S.",
-      "deal": " — McMinnville Plaza Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2433 Buena Vista Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Shawn Metzgar) ",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2433 Buena Vista Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Shawn Metzgar) ",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2433 Buena Vista Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Shawn Metzgar) ",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2433 Buena Vista Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Shawn Metzgar) ",
       "urgency": "low"
     },
     {
       "name": "ala h.",
       "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2433 Buena Vista Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Shawn Metzgar) ",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2433 Buena Vista Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Shawn Metzgar) ",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2433 Buena Vista Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Shawn Metzgar) ",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2433 Buena Vista Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Shawn Metzgar) ",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti <jvalenti@centenretail.com>",
       "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2433 Buena Vista Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Shawn Metzgar) ",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2433 Buena Vista Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Shawn Metzgar) ",
       "urgency": "low"
     },
     {
       "name": "EJ",
       "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2433 Buena Vista Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Shawn Metzgar) ",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish",
       "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2433 Buena Vista Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Shawn Metzgar) ",
       "urgency": "low"
     },
     {
       "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
       "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Mailynne Calvin: 2,500SF at 235 E MAIN ST, HENDERSONVILLE, TN 37075",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Carson West: Fundraising for Approved Grants",
       "urgency": "low"
     },
     {
       "name": "Parker Brennan / Scenthound",
       "deal": "Scenthound — Atlanta Hwy",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Development Ask - Writer's Round",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Development Ask - Writer's Round",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Development Ask - Writer's Round",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Development Ask - Writer's Round",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Development Ask - Writer's Round",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Development Ask - Writer's Round",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Lisa Sweeney",
       "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Development Ask - Writer's Round",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Wm. Coey Vierling <oinkysurveying@gmail.com>",
       "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Development Ask - Writer's Round",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff <BMcAuliff@taftlaw.com>",
       "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Development Ask - Writer's Round",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott <ascott@evanspetree.com>",
       "deal": "Hamilton Title Objection — Hamilton",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Development Ask - Writer's Round",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
       "urgency": "low"
     },
     {
       "name": "Dr. Phillip Kemp",
       "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
       "urgency": "low"
     },
     {
       "name": "Dr. Kemp",
       "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
       "urgency": "low"
     },
     {
       "name": "Amy",
       "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
       "urgency": "low"
     },
     {
       "name": "Matty",
       "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
       "urgency": "low"
     },
     {
       "name": "Ashley Marshall",
       "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
       "urgency": "low"
     },
     {
       "name": "Bill Adair",
       "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
       "urgency": "low"
     },
     {
       "name": "Amy",
       "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
       "urgency": "low"
     },
     {
       "name": "Phillip Kemp",
       "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
       "urgency": "low"
     },
     {
       "name": "Ross Smith",
       "deal": "HopeSmiles — Creekside Crossing / Harpeth One",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Creekside Crossing: 5-10,000 SF Requirement",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2433 Buena Vista Pike",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2433 Buena Vista Pike",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2433 Buena Vista Pike",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Jordyn Stallings",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Rebecca Miller",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Lexy Burke",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Dylan Bennett",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Lexy Burke",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Dylan Bennett",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Miller Chandler, CCIM | Meagan Glazier: FOR LEASE | 2701 Greystone",
-      "urgency": "low"
-    },
-    {
-      "name": "Josh Levy",
-      "deal": "Live Nation — Emerson Hall",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Bisnow Educational Workshops: C-PACE Live Workshop Starts Monday — Fi",
-      "urgency": "low"
-    },
-    {
-      "name": "Juliana Fernandez",
-      "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
-      "urgency": "low"
-    },
-    {
-      "name": "Carson Knight",
-      "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+      "daysSinceContact": 1,
+      "lastAction": "Email from McAuliff, Bob: GMX/Hamilton Community Partners - Title Objection - NC",
       "urgency": "low"
     },
     {
       "name": "Madison Idell - madison.idell@avisonyoung.com - 316-650-4193",
       "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Idell, Madison (Avison Young - US): The Columns - Jackson, TN",
       "urgency": "low"
     },
     {
       "name": "Madison Idell - Hibbett/JD Sports/DTLR broker",
       "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Idell, Madison (Avison Young - US): The Columns - Jackson, TN",
       "urgency": "low"
     },
     {
       "name": "Madison Idell",
       "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Idell, Madison (Avison Young - US): The Columns - Jackson, TN",
       "urgency": "low"
     },
     {
       "name": "Brande Benson",
       "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Idell, Madison (Avison Young - US): The Columns - Jackson, TN",
+      "urgency": "low"
+    },
+    {
+      "name": "Jordyn Stallings",
+      "deal": "Jordyn Stallings - Daycare Inquiry — 2512 Gallatin Avenue",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Sean Reynolds: property investment company inquiry",
+      "urgency": "low"
+    },
+    {
+      "name": "Melissa Eddy",
+      "deal": "ABC Retail — Russellville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform;",
+      "urgency": "low"
+    },
+    {
+      "name": "Carole",
+      "deal": "ABC Retail — Russellville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform;",
+      "urgency": "low"
+    },
+    {
+      "name": "Kurt Wilson",
+      "deal": "ABC Retail — Russellville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform;",
+      "urgency": "low"
+    },
+    {
+      "name": "Kyle Lindsey",
+      "deal": "ABC Retail — Russellville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform;",
+      "urgency": "low"
+    },
+    {
+      "name": "Kurt Wilson",
+      "deal": "ABC Retail — Russellville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform;",
+      "urgency": "low"
+    },
+    {
+      "name": "Kyle Lindsey",
+      "deal": "ABC Retail — Russellville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform;",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform;",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform;",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform;",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform;",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform;",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty - jpetty@southeastventure.com",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform;",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Taylor",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform;",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Taylor",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform;",
+      "urgency": "low"
+    },
+    {
+      "name": "Shady Azez <shadyazezz@gmail.com>",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform;",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty <jpetty@southeastventure.com>",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform;",
+      "urgency": "low"
+    },
+    {
+      "name": "David S.",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform;",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Prather Event Co — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from SpeCtre: You’re invited to: ''AI in Construction: Rethink Your Workfl",
+      "urgency": "low"
+    },
+    {
+      "name": "Lauri Fowler",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Tom Fidler: Results PT RTU",
+      "urgency": "low"
+    },
+    {
+      "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Tom Fidler: Results PT RTU",
+      "urgency": "low"
+    },
+    {
+      "name": "David Cooke",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Tom Fidler: Results PT RTU",
+      "urgency": "low"
+    },
+    {
+      "name": "Abbey Gill",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Tom Fidler: Results PT RTU",
+      "urgency": "low"
+    },
+    {
+      "name": "Scott Myers <smyerscre2@outlook.com>",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Tom Fidler: Results PT RTU",
+      "urgency": "low"
+    },
+    {
+      "name": "Laurie",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Tom Fidler: Results PT RTU",
+      "urgency": "low"
+    },
+    {
+      "name": "Mitch",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Tom Fidler: Results PT RTU",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Fidler",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Tom Fidler: Results PT RTU",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Fidler",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Tom Fidler: Results PT RTU",
+      "urgency": "low"
+    },
+    {
+      "name": "Joe Wesley",
+      "deal": " — McMinnville Plaza Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Construction Risk Keeps Climbing",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": " — McMinnville Plaza Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Construction Risk Keeps Climbing",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": " — McMinnville Plaza Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Construction Risk Keeps Climbing",
+      "urgency": "low"
+    },
+    {
+      "name": "Shady Azez",
+      "deal": " — McMinnville Plaza Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Construction Risk Keeps Climbing",
+      "urgency": "low"
+    },
+    {
+      "name": "David S.",
+      "deal": " — McMinnville Plaza Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Construction Risk Keeps Climbing",
+      "urgency": "low"
+    },
+    {
+      "name": "David S.",
+      "deal": " — McMinnville Plaza Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Construction Risk Keeps Climbing",
+      "urgency": "low"
+    },
+    {
+      "name": "Josh Levy",
+      "deal": "Live Nation — Emerson Hall",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Kilroy Realty’s latest sale shows that liv",
+      "urgency": "low"
+    },
+    {
+      "name": "Juliana Fernandez",
+      "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform;",
+      "urgency": "low"
+    },
+    {
+      "name": "Carson Knight",
+      "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Most popular product discovery platform;",
       "urgency": "low"
     },
     {
       "name": "Tom Gaghan",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Mathison Ingham: Fwd: 8209 Highway 51 N Millington signage question",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: East Bank development scores anchor tena",
       "urgency": "low"
     },
     {
       "name": "Tom Gaghan - 440-263-9792 - tom@clevelandfurniturebank.org",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Mathison Ingham: Fwd: 8209 Highway 51 N Millington signage question",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: East Bank development scores anchor tena",
       "urgency": "low"
     },
     {
       "name": "Tom Gaghan",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Mathison Ingham: Fwd: 8209 Highway 51 N Millington signage question",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: East Bank development scores anchor tena",
       "urgency": "low"
     },
     {
       "name": "Mathison Ingham",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Mathison Ingham: Fwd: 8209 Highway 51 N Millington signage question",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: East Bank development scores anchor tena",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Mathison Ingham: Fwd: 8209 Highway 51 N Millington signage question",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: East Bank development scores anchor tena",
       "urgency": "low"
     },
     {
       "name": "Tom Gaghan",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Mathison Ingham: Fwd: 8209 Highway 51 N Millington signage question",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: East Bank development scores anchor tena",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Mathison Ingham: Fwd: 8209 Highway 51 N Millington signage question",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: East Bank development scores anchor tena",
       "urgency": "low"
     },
     {
       "name": "Clay",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Mathison Ingham: Fwd: 8209 Highway 51 N Millington signage question",
-      "urgency": "low"
-    },
-    {
-      "name": "Jordyn Stallings",
-      "deal": "Jordyn Stallings - Daycare Inquiry — 2512 Gallatin Avenue",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Sean Reynolds: property investment company inquiry",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: East Bank development scores anchor tena",
       "urgency": "low"
     }
   ],
