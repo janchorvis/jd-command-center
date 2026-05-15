@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-05-15T14:30:31.929971",
+  "lastUpdated": "2026-05-15T15:02:01.684261",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-15",
-    "greeting": "Good morning, Jacob. You have 10 overdue items.",
+    "greeting": "Good afternoon, Jacob. You have 10 overdue items.",
     "meetings": [
       {
         "time": "12:00 AM",
@@ -34,6 +34,11 @@
         "time": "12:00 PM",
         "title": "Weekly Report - Fill out by 12 on Fridays",
         "dealContext": null
+      },
+      {
+        "time": "3:00 PM",
+        "title": "Hamilton, OH | Title Issues & Inspection Period Expiration ",
+        "dealContext": "Stage: Lease Signed | MacBid call with James Stocker is scheduled for Wednesday 5/27 after Carmine con… | Next: Use the scheduled 5/27 call with James Stocker to ask about current MacBid expansion plans, San Antonio focus, Evansville interest, and Harrison/Gastonia implications."
       }
     ],
     "priorities": [
@@ -44,16 +49,7 @@
       "Schedule lunch w mailto:ctaylor@realsitecommerical.com (overdue — due 2026-03-23)",
       "See when Dallas could meet with carter (overdue — due 2026-03-31)",
       "Harrison Trampoline LOI (overdue — due 2026-03-31)",
-      "Add teeth to the default sections for Grease.  (overdue — due 2026-03-23)",
-      "Verify GMX/Hamilton due diligence extension counterpart status before the inspection-period clock causes pain.",
-      "Decide Keystone Millington tent relocation/setback posture and keep fireworks DocuSigns moving.",
-      "Move UPS Store McMinnville Suite 108 into lease-draft inputs after Jon Petty said paperwork is finalizing.",
-      "Review/send Zach Schunn ICSC Wednesday after-1 PM draft for Cincinnati/Hamilton-Harrison discussion.",
-      "Watch for Richard Jones answer on whether fitness user can consider ~20,000 SF at McMinnville.",
-      "Send/confirm lockbox code for Thomas Cashion / Carolina Kidz Therapy tour of 2547A Franklin Blvd.",
-      "Confirm/send lockbox or access code for Carolina Kidz Therapy / 2547A Franklin Blvd after Jacob said he would check.",
-      "Prepare for James Stocker / MacBid call scheduled Wednesday 5/27.",
-      "Track Kevin Moss / Royal Bazaar Indian 12K-16K SF Parma Heights lead after Jacob's 12:48 reply."
+      "Add teeth to the default sections for Grease.  (overdue — due 2026-03-23)"
     ]
   },
   "pipelineDeals": [
@@ -22572,7 +22568,16 @@
       ],
       "actions": [],
       "type": "Tenant Rep",
-      "lastUpdate": "2026-05-15"
+      "lastUpdate": "2026-05-15",
+      "rentComps": {
+        "property": "Parma Heights",
+        "avgRate": null,
+        "minRate": null,
+        "maxRate": null,
+        "avgSqFt": 16878,
+        "suiteCount": 9,
+        "vacantCount": 0
+      }
     }
   ],
   "droppedBalls": [
@@ -68054,7 +68059,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-05-15T07:33:25",
+    "generatedAt": "2026-05-15T15:02:01",
     "source": "morning-briefing",
     "yourPlate": [
       {
@@ -68691,7 +68696,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-05-15T07:33:25",
+    "generatedAt": "2026-05-15T15:02:01",
     "source": "morning-briefing",
     "items": [
       {
