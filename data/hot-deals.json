@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T12:30:32.200390",
+  "lastUpdated": "2026-05-15T13:05:20.228227",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-15",
@@ -50,7 +50,10 @@
       "Move UPS Store McMinnville Suite 108 into lease-draft inputs after Jon Petty said paperwork is finalizing.",
       "Review/send Zach Schunn ICSC Wednesday after-1 PM draft for Cincinnati/Hamilton-Harrison discussion.",
       "Watch for Richard Jones answer on whether fitness user can consider ~20,000 SF at McMinnville.",
-      "Send/confirm lockbox code for Thomas Cashion / Carolina Kidz Therapy tour of 2547A Franklin Blvd."
+      "Send/confirm lockbox code for Thomas Cashion / Carolina Kidz Therapy tour of 2547A Franklin Blvd.",
+      "Confirm/send lockbox or access code for Carolina Kidz Therapy / 2547A Franklin Blvd after Jacob said he would check.",
+      "Prepare for James Stocker / MacBid call scheduled Wednesday 5/27.",
+      "Track Kevin Moss / Royal Bazaar Indian 12K-16K SF Parma Heights lead after Jacob's 12:48 reply."
     ]
   },
   "pipelineDeals": [
@@ -12853,9 +12856,9 @@
       "id": "evansville",
       "name": "",
       "property": "Evansville / Hamilton",
-      "status": "Carmine said James Stocker is now the main MacBid TM lead; MacBid is not attending ICSC and is more focused on larger-format industrial locations, but there may still be synergies to discuss.",
+      "status": "MacBid call with James Stocker is scheduled for Wednesday 5/27 after Carmine confirmed James is now the main MacBid TM lead and MacBid will not attend ICSC.",
       "stage": "Lease Signed",
-      "nextStep": "Coordinate directly with James Stocker for a quick call after/around ICSC on current MacBid expansion plans and possible synergies.",
+      "nextStep": "Use the scheduled 5/27 call with James Stocker to ask about current MacBid expansion plans, San Antonio focus, Evansville interest, and Harrison/Gastonia implications.",
       "priority": "medium",
       "contacts": [
         "Carmen Drake (Bellacino's Pizza & Grinders / Runnebohm Realty)",
@@ -12887,6 +12890,11 @@
         {
           "date": "2026-05-15",
           "event": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Extension",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Communication triage confirmed James Stocker / MacBid call is scheduled for Wednesday 5/27.",
           "type": "email"
         },
         {
@@ -13173,7 +13181,7 @@
       "id": "mcminnville-plaza",
       "name": "",
       "property": "McMinnville Plaza Shopping Center",
-      "status": "New ICSC/lead signals: Richard Jones has a fitness user needing 25,000+ SF and will ask whether they can go down to roughly 20,000 SF; David S. Crexi tour inquiry was already replied to asking for phone/email; Carolina Kidz Therapy wants access to 2547A Franklin Blvd 3,600-7,600 SF and Jacob replied he will confirm lockbox/code.",
+      "status": "ICSC/triage signals remain active: Richard Jones has a fitness user needing 25,000+ SF and is checking whether roughly 20,000 SF works; Carolina Kidz Therapy wants access to 2547A Franklin Blvd (3,600-7,600 SF) and Jacob replied he will confirm lockbox/code.",
       "stage": "LOI",
       "nextStep": "Watch for Richard's fitness-user response and send lockbox/code to Thomas Cashion once confirmed.",
       "priority": "high",
@@ -13185,7 +13193,8 @@
         "David S. (Crexi lead)",
         "David S. (Crexi lead; Crossville/Cumberland Square tenant)",
         "Richard Jones (World Realty)",
-        "Thomas Cashion (Davis Moore Healthcare)"
+        "Thomas Cashion (Davis Moore Healthcare)",
+        "Thomas Cashion (Davis Moore Healthcare / Carolina Kidz Therapy)"
       ],
       "timeline": [
         {
@@ -13256,6 +13265,11 @@
         {
           "date": "2026-05-15",
           "event": "Triage: fitness user 25K+ and Carolina Kidz Therapy tour/access request surfaced; Crexi David S. already replied.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Communication triage confirmed Carolina Kidz Therapy access follow-through is still pending after Jacob replied he would confirm lockbox/code.",
           "type": "email"
         },
         {
@@ -22401,6 +22415,29 @@
       "stageOverride": "Lease Signed",
       "stageOverrideDate": "2026-05-13",
       "stageOverrideSource": "email-signal: complete with docusign"
+    },
+    {
+      "id": "parma-heights-royal-bazaar-indian",
+      "name": "Royal Bazaar Indian",
+      "property": "Parma Heights",
+      "status": "Kevin Moss / CBRE asked about 12,000-16,000 SF for Royal Bazaar Indian as a live ICSC lead; Jacob replied at 12:48 PM.",
+      "stage": "Contact Made",
+      "nextStep": "Track for Kevin Moss/Royal Bazaar response and evaluate viable Parma Heights space options if interest continues.",
+      "priority": "medium",
+      "contacts": [
+        "Kevin Moss (CBRE)",
+        "Royal Bazaar Indian"
+      ],
+      "timeline": [
+        {
+          "date": "2026-05-15",
+          "event": "Kevin Moss asked about 12,000-16,000 SF for Royal Bazaar Indian; Jacob replied.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-05-15"
     }
   ],
   "droppedBalls": [
