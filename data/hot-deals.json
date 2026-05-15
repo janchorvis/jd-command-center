@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T09:30:31.461479",
+  "lastUpdated": "2026-05-15T10:02:54.890873",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-15",
@@ -47,7 +47,10 @@
       "Add teeth to the default sections for Grease.  (overdue — due 2026-03-23)",
       "Verify GMX/Hamilton due diligence extension counterpart status before the inspection-period clock causes pain.",
       "Decide Keystone Millington tent relocation/setback posture and keep fireworks DocuSigns moving.",
-      "Move UPS Store McMinnville Suite 108 into lease-draft inputs after Jon Petty said paperwork is finalizing."
+      "Move UPS Store McMinnville Suite 108 into lease-draft inputs after Jon Petty said paperwork is finalizing.",
+      "Review/send Zach Schunn ICSC Wednesday after-1 PM draft for Cincinnati/Hamilton-Harrison discussion.",
+      "Watch for Richard Jones answer on whether fitness user can consider ~20,000 SF at McMinnville.",
+      "Send/confirm lockbox code for Thomas Cashion / Carolina Kidz Therapy tour of 2547A Franklin Blvd."
     ]
   },
   "pipelineDeals": [
@@ -13070,17 +13073,19 @@
       "id": "mcminnville-plaza",
       "name": "",
       "property": "McMinnville Plaza Shopping Center",
-      "status": "Crexi inquiry from David S.: he and his wife want to arrange a tour; they already rent from Anchor at Benny's in Cumberland Square/Crossville. Gmail/Crexi draft exists asking for best phone number and email.",
+      "status": "New ICSC/lead signals: Richard Jones has a fitness user needing 25,000+ SF and will ask whether they can go down to roughly 20,000 SF; David S. Crexi tour inquiry was already replied to asking for phone/email; Carolina Kidz Therapy wants access to 2547A Franklin Blvd 3,600-7,600 SF and Jacob replied he will confirm lockbox/code.",
       "stage": "LOI",
-      "nextStep": "Jacob review/send draft, then schedule tour once David provides contact info.",
-      "priority": "medium",
+      "nextStep": "Watch for Richard's fitness-user response and send lockbox/code to Thomas Cashion once confirmed.",
+      "priority": "high",
       "contacts": [
         "Joe Wesley (wesleyjoe829@gmail.com, 213-872-0190)",
         "Jon Petty (Southeast Venture)",
         "Clay Richardson (Construction)",
         "Shady Azez (LoopNet lead, 615-710-8025, shadyazezz@gmail.com)",
         "David S. (Crexi lead)",
-        "David S. (Crexi lead; Crossville/Cumberland Square tenant)"
+        "David S. (Crexi lead; Crossville/Cumberland Square tenant)",
+        "Richard Jones (World Realty)",
+        "Thomas Cashion (Davis Moore Healthcare)"
       ],
       "timeline": [
         {
@@ -13101,6 +13106,11 @@
         {
           "date": "2026-05-15",
           "event": "Email from Kelsey Cornillie, Publisher: East Bank development scores anchor tenant",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Triage: fitness user 25K+ and Carolina Kidz Therapy tour/access request surfaced; Crexi David S. already replied.",
           "type": "email"
         },
         {
@@ -17028,9 +17038,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton",
-      "status": "Ashby flagged buyer REA changes: blanket cross-parking over the whole lot, unanimous approval for material lot changes, Private Drive Maintenance Costs pushed back to seller, and buyer wants sole snow-removal control/reimbursement. Jacob replied that Anchor will review and send thoughts this afternoon.",
+      "status": "Ashby/Micah thread remains active on purchaser's additional title/inspection-period requests; Micah told Ashby he would call this afternoon.",
       "stage": "Lease Signed",
-      "nextStep": "Review Ashby's REA comments with Micah and send Anchor's response posture this afternoon.",
+      "nextStep": "Business/legal call posture: cooperate on existing docs/title backup, but avoid open-ended tenant signatures/estoppels/approvals.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -17048,6 +17058,11 @@
         {
           "date": "2026-05-15",
           "event": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Extension",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Triage: Micah/Ashby call planned this afternoon on purchaser additional title/extension requests.",
           "type": "email"
         },
         {
