@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T15:02:06.899378",
+  "lastUpdated": "2026-05-15T15:02:34.335513",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-15",
@@ -45879,12 +45879,12 @@
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -45892,12 +45892,12 @@
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -45905,12 +45905,12 @@
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -45918,12 +45918,12 @@
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -45931,12 +45931,12 @@
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -52337,6 +52337,240 @@
       }
     },
     {
+      "deal": "Anytime Fitness (Derek Tucker)",
+      "property": "Shelbyville",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 5/15, Pipedrive not updated since 3/19",
+      "severity": "high",
+      "details": {
+        "lastEmailDate": "2026-05-15",
+        "lastPipedriveDate": "2025-03-19",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 422
+      }
+    },
+    {
+      "deal": "Anytime Fitness (Derek Tucker)",
+      "property": "Shelbyville",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 5/15, Pipedrive not updated since 3/24",
+      "severity": "high",
+      "details": {
+        "lastEmailDate": "2026-05-15",
+        "lastPipedriveDate": "2025-03-24",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 417
+      }
+    },
+    {
+      "deal": "Anytime Fitness (Derek Tucker)",
+      "property": "Shelbyville",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 5/15, Pipedrive not updated since 8/26",
+      "severity": "high",
+      "details": {
+        "lastEmailDate": "2026-05-15",
+        "lastPipedriveDate": "2025-08-26",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 262
+      }
+    },
+    {
+      "deal": "Anytime Fitness (Derek Tucker)",
+      "property": "Shelbyville",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 5/15, Pipedrive not updated since 12/12",
+      "severity": "high",
+      "details": {
+        "lastEmailDate": "2026-05-15",
+        "lastPipedriveDate": "2025-12-12",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 154
+      }
+    },
+    {
+      "deal": "Anytime Fitness (Derek Tucker)",
+      "property": "Shelbyville",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 5/15, Pipedrive not updated since 12/12",
+      "severity": "high",
+      "details": {
+        "lastEmailDate": "2026-05-15",
+        "lastPipedriveDate": "2025-12-12",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 154
+      }
+    },
+    {
+      "deal": "Anytime Fitness (Derek Tucker)",
+      "property": "Shelbyville",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 5/15, Pipedrive not updated since 4/17",
+      "severity": "high",
+      "details": {
+        "lastEmailDate": "2026-05-15",
+        "lastPipedriveDate": "2026-04-17",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 28
+      }
+    },
+    {
+      "deal": "Anytime Fitness (Derek Tucker)",
+      "property": "Shelbyville",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 5/15, Pipedrive not updated since 4/16",
+      "severity": "high",
+      "details": {
+        "lastEmailDate": "2026-05-15",
+        "lastPipedriveDate": "2026-04-16",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 29
+      }
+    },
+    {
+      "deal": "Anytime Fitness (Derek Tucker)",
+      "property": "Shelbyville",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 5/15, Pipedrive not updated since 4/16",
+      "severity": "high",
+      "details": {
+        "lastEmailDate": "2026-05-15",
+        "lastPipedriveDate": "2026-04-16",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 29
+      }
+    },
+    {
+      "deal": "Anytime Fitness (Derek Tucker)",
+      "property": "Shelbyville",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 5/15, Pipedrive not updated since 4/16",
+      "severity": "high",
+      "details": {
+        "lastEmailDate": "2026-05-15",
+        "lastPipedriveDate": "2026-04-16",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 29
+      }
+    },
+    {
+      "deal": "Anytime Fitness (Derek Tucker)",
+      "property": "Shelbyville",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 5/15, Pipedrive not updated since 4/14",
+      "severity": "high",
+      "details": {
+        "lastEmailDate": "2026-05-15",
+        "lastPipedriveDate": "2026-04-14",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 31
+      }
+    },
+    {
+      "deal": "Anytime Fitness (Derek Tucker)",
+      "property": "Shelbyville",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 5/15, Pipedrive not updated since 4/17",
+      "severity": "high",
+      "details": {
+        "lastEmailDate": "2026-05-15",
+        "lastPipedriveDate": "2026-04-17",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 28
+      }
+    },
+    {
+      "deal": "Anytime Fitness (Derek Tucker)",
+      "property": "Shelbyville",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 5/15, Pipedrive not updated since 3/25",
+      "severity": "high",
+      "details": {
+        "lastEmailDate": "2026-05-15",
+        "lastPipedriveDate": "2025-03-25",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 416
+      }
+    },
+    {
+      "deal": "Anytime Fitness (Derek Tucker)",
+      "property": "Shelbyville",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 5/15, Pipedrive not updated since 3/26",
+      "severity": "high",
+      "details": {
+        "lastEmailDate": "2026-05-15",
+        "lastPipedriveDate": "2025-03-26",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 415
+      }
+    },
+    {
+      "deal": "Anytime Fitness (Derek Tucker)",
+      "property": "Shelbyville",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 5/15, Pipedrive not updated since 3/25",
+      "severity": "high",
+      "details": {
+        "lastEmailDate": "2026-05-15",
+        "lastPipedriveDate": "2025-03-25",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 416
+      }
+    },
+    {
+      "deal": "Anytime Fitness (Derek Tucker)",
+      "property": "Shelbyville",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 5/15, Pipedrive not updated since 8/2",
+      "severity": "high",
+      "details": {
+        "lastEmailDate": "2026-05-15",
+        "lastPipedriveDate": "2025-08-02",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 286
+      }
+    },
+    {
+      "deal": "Anytime Fitness (Derek Tucker)",
+      "property": "Shelbyville",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 5/15, Pipedrive not updated since 11/4",
+      "severity": "high",
+      "details": {
+        "lastEmailDate": "2026-05-15",
+        "lastPipedriveDate": "2025-11-04",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 192
+      }
+    },
+    {
+      "deal": "Anytime Fitness (Derek Tucker)",
+      "property": "Shelbyville",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 5/15, Pipedrive not updated since 2/19",
+      "severity": "high",
+      "details": {
+        "lastEmailDate": "2026-05-15",
+        "lastPipedriveDate": "2026-02-19",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 85
+      }
+    },
+    {
+      "deal": "Anytime Fitness (Derek Tucker)",
+      "property": "Shelbyville",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 5/15, Pipedrive not updated since 3/24",
+      "severity": "high",
+      "details": {
+        "lastEmailDate": "2026-05-15",
+        "lastPipedriveDate": "2026-03-24",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 52
+      }
+    },
+    {
       "deal": "Aramingo Plaza",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
@@ -53588,12 +53822,12 @@
       "deal": "Buena Vista",
       "property": "2433 Buena Vista Pike, Nashville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -55824,12 +56058,12 @@
       "deal": "Emerson Hall",
       "property": "2518 Gallatin Partners / Gallatin",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 3/24",
+      "message": "Last email 5/15, Pipedrive not updated since 3/24",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2026-03-24",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 52
       }
     },
@@ -56240,12 +56474,12 @@
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -56253,12 +56487,12 @@
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -56266,12 +56500,12 @@
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -56279,12 +56513,12 @@
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -56292,12 +56526,12 @@
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -56305,12 +56539,12 @@
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 3/26",
+      "message": "Last email 5/15, Pipedrive not updated since 3/26",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-03-26",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 415
       }
     },
@@ -56500,12 +56734,12 @@
       "deal": "Furniture Row Shopping Center",
       "property": "Maple Row Shopping Center",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -57215,12 +57449,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/18",
+      "message": "Last email 5/15, Pipedrive not updated since 9/18",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2024-09-18",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 604
       }
     },
@@ -57228,12 +57462,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 3/17",
+      "message": "Last email 5/15, Pipedrive not updated since 3/17",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-03-17",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 424
       }
     },
@@ -57241,12 +57475,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 3/11",
+      "message": "Last email 5/15, Pipedrive not updated since 3/11",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-03-11",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 430
       }
     },
@@ -57254,12 +57488,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -57267,12 +57501,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -57280,12 +57514,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -57293,12 +57527,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 10/27",
+      "message": "Last email 5/15, Pipedrive not updated since 10/27",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-10-27",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 200
       }
     },
@@ -57306,12 +57540,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -57319,12 +57553,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -57332,12 +57566,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -57345,12 +57579,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -57358,12 +57592,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -57371,12 +57605,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 10/27",
+      "message": "Last email 5/15, Pipedrive not updated since 10/27",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-10-27",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 200
       }
     },
@@ -57384,12 +57618,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -57397,12 +57631,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -57410,12 +57644,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -57423,12 +57657,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -57436,12 +57670,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 10/15",
+      "message": "Last email 5/15, Pipedrive not updated since 10/15",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-10-15",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 212
       }
     },
@@ -57449,12 +57683,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -57462,12 +57696,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -57475,12 +57709,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -57488,12 +57722,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -57501,12 +57735,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -57514,12 +57748,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -57527,12 +57761,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 11/18",
+      "message": "Last email 5/15, Pipedrive not updated since 11/18",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-11-18",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 178
       }
     },
@@ -57540,12 +57774,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -57553,12 +57787,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -57566,12 +57800,12 @@
       "deal": "Hamilton Title Objection",
       "property": "Hamilton",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/2",
+      "message": "Last email 5/15, Pipedrive not updated since 9/2",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-02",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 255
       }
     },
@@ -58281,12 +58515,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 3/11",
+      "message": "Last email 5/15, Pipedrive not updated since 3/11",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-03-11",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 430
       }
     },
@@ -58294,12 +58528,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -58307,12 +58541,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -58320,12 +58554,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -58333,12 +58567,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -58346,12 +58580,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -58359,12 +58593,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -58372,12 +58606,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -58385,12 +58619,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -58398,12 +58632,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -58411,12 +58645,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -58424,12 +58658,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 10/15",
+      "message": "Last email 5/15, Pipedrive not updated since 10/15",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-10-15",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 212
       }
     },
@@ -58437,12 +58671,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 10/15",
+      "message": "Last email 5/15, Pipedrive not updated since 10/15",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-10-15",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 212
       }
     },
@@ -58450,12 +58684,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -58463,12 +58697,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -58476,12 +58710,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -58489,12 +58723,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 10/15",
+      "message": "Last email 5/15, Pipedrive not updated since 10/15",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-10-15",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 212
       }
     },
@@ -58502,12 +58736,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -58515,12 +58749,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 10/15",
+      "message": "Last email 5/15, Pipedrive not updated since 10/15",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-10-15",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 212
       }
     },
@@ -58528,12 +58762,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -58541,12 +58775,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -58554,12 +58788,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -58567,12 +58801,12 @@
       "deal": "Infinite Equity Capital - 730",
       "property": "730",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/12, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-12",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 3,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -58983,12 +59217,12 @@
       "deal": "Kings Row Shopping Center",
       "property": "Maple Row Shopping Center",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -60062,12 +60296,12 @@
       "deal": "Maple Avenue Shopping Center",
       "property": "Maple Row Shopping Center",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -60088,12 +60322,12 @@
       "deal": "Maple Row - Great Greek",
       "property": "Maple Row Shopping Center",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 3/30",
+      "message": "Last email 5/15, Pipedrive not updated since 3/30",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2026-03-30",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 46
       }
     },
@@ -60101,12 +60335,12 @@
       "deal": "Maple Tree Shopping Center",
       "property": "Maple Row Shopping Center",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -60114,12 +60348,12 @@
       "deal": "Maple Valley Shopping Center",
       "property": "Maple Row Shopping Center",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 10/15",
+      "message": "Last email 5/15, Pipedrive not updated since 10/15",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-10-15",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 212
       }
     },
@@ -60231,12 +60465,12 @@
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 12/20",
+      "message": "Last email 5/15, Pipedrive not updated since 12/20",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2024-12-20",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 511
       }
     },
@@ -60244,12 +60478,12 @@
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 3/11",
+      "message": "Last email 5/15, Pipedrive not updated since 3/11",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-03-11",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 430
       }
     },
@@ -60257,12 +60491,12 @@
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -60270,12 +60504,12 @@
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -60283,12 +60517,12 @@
       "deal": "Marshalls",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -64131,12 +64365,12 @@
       "deal": "Royal Furniture",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -64144,12 +64378,12 @@
       "deal": "Royal Furniture",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -64157,12 +64391,12 @@
       "deal": "Royal Furniture",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 10/15",
+      "message": "Last email 5/15, Pipedrive not updated since 10/15",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-10-15",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 212
       }
     },
@@ -64170,12 +64404,12 @@
       "deal": "Royal Furniture",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -64183,12 +64417,12 @@
       "deal": "Royal Furniture",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -64196,12 +64430,12 @@
       "deal": "Royal Furniture",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 10/15",
+      "message": "Last email 5/15, Pipedrive not updated since 10/15",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-10-15",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 212
       }
     },
@@ -64209,12 +64443,12 @@
       "deal": "Royal Furniture",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -64222,12 +64456,12 @@
       "deal": "Royal Furniture",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -64235,12 +64469,12 @@
       "deal": "Royal Furniture",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -64430,12 +64664,12 @@
       "deal": "Scenthound",
       "property": "Atlanta Hwy",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 8/29",
+      "message": "Last email 5/15, Pipedrive not updated since 8/29",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-08-29",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 259
       }
     },
@@ -64443,12 +64677,12 @@
       "deal": "Scenthound",
       "property": "Atlanta Hwy",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 10/14",
+      "message": "Last email 5/15, Pipedrive not updated since 10/14",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-10-14",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 213
       }
     },
@@ -64456,12 +64690,12 @@
       "deal": "Scenthound",
       "property": "Atlanta Hwy",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -64469,12 +64703,12 @@
       "deal": "Scenthound",
       "property": "Atlanta Hwy",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 10/15",
+      "message": "Last email 5/15, Pipedrive not updated since 10/15",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-10-15",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 212
       }
     },
@@ -64482,12 +64716,12 @@
       "deal": "Scenthound",
       "property": "Atlanta Hwy",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -64716,12 +64950,12 @@
       "deal": "Shoe Dept",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -64729,12 +64963,12 @@
       "deal": "Shoe Dept",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 9/19",
+      "message": "Last email 5/15, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 238
       }
     },
@@ -67989,6 +68223,32 @@
       }
     },
     {
+      "deal": "Anytime Fitness (Derek Tucker)",
+      "property": "Shelbyville",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 5/15, Pipedrive not updated since 4/27",
+      "severity": "medium",
+      "details": {
+        "lastEmailDate": "2026-05-15",
+        "lastPipedriveDate": "2026-04-27",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 18
+      }
+    },
+    {
+      "deal": "Anytime Fitness (Derek Tucker)",
+      "property": "Shelbyville",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 5/15, Pipedrive not updated since 4/20",
+      "severity": "medium",
+      "details": {
+        "lastEmailDate": "2026-05-15",
+        "lastPipedriveDate": "2026-04-20",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 25
+      }
+    },
+    {
       "deal": "Bartlesville Plaza",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
@@ -68018,12 +68278,12 @@
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 4/23",
+      "message": "Last email 5/15, Pipedrive not updated since 4/23",
       "severity": "medium",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2026-04-23",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 22
       }
     },
@@ -68083,12 +68343,12 @@
       "deal": "Wingstop",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/14, Pipedrive not updated since 4/27",
+      "message": "Last email 5/15, Pipedrive not updated since 4/27",
       "severity": "medium",
       "details": {
-        "lastEmailDate": "2026-05-14",
+        "lastEmailDate": "2026-05-15",
         "lastPipedriveDate": "2026-04-27",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 18
       }
     }
