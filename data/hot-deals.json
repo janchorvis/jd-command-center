@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T11:30:41.046397",
+  "lastUpdated": "2026-05-18T12:04:31.033386",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-18",
@@ -18166,7 +18166,7 @@
       "property": "Brentwood / 144 Wilson Pike / Brentwood Commons",
       "type": "Tenant Rep",
       "status": "Mary Winston Cramer followed up asking whether HopeSmiles would be interested in Brentwood Commons and offered to confirm landlord comfort with the use on the front end.",
-      "nextStep": "Jacob needs to decide whether HopeSmiles should tour Brentwood Commons or tell Mary Winston no/not yet.",
+      "nextStep": "Jacob to decide whether HopeSmiles should tour Brentwood Commons or tell Mary Winston no/not yet.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -18211,6 +18211,11 @@
         {
           "date": "2026-05-18",
           "event": "Mary Winston Cramer followed up on Brentwood Commons for HopeSmiles and offered to pre-clear use with landlord.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "Mary Winston Cramer/JLL followed up on Brentwood Commons for HopeSmiles; Gmail draft reply loaded for Jacob approval.",
           "type": "email"
         },
         {
