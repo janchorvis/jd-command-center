@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T10:07:03.217740",
+  "lastUpdated": "2026-05-18T10:31:08.130510",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-18",
@@ -68,6 +68,11 @@
       "nextStep": "Send facade/rendering concepts and coordinate Clay/maintenance response to survey callouts.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-18",
+          "event": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent auction now and help fund jobs in Nashville",
+          "type": "email"
+        },
         {
           "date": "2026-05-18",
           "event": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
@@ -6621,6 +6626,11 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-05-18",
+          "event": "Email from Meriwether Commercial Real Estate: Leased in East Montgomery",
+          "type": "email"
+        },
+        {
           "date": "2026-05-14",
           "event": "Email from Mathison Ingham: Fwd: 8209 Highway 51 N Millington signage question",
           "type": "email"
@@ -6940,6 +6950,11 @@
       "nextStep": "Wait for David S. to provide contact info/tour availability.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-18",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
         {
           "date": "2026-05-18",
           "event": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webinar",
@@ -8767,6 +8782,11 @@
       "nextStep": "Send comments to Ashby, get on the phone Wed/Thu/Fri, turn one more draft, and pressure the tenant to sign.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-18",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
         {
           "date": "2026-05-15",
           "event": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
@@ -13491,6 +13511,11 @@
       "timeline": [
         {
           "date": "2026-05-18",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-18",
           "event": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webinar",
           "type": "email"
         },
@@ -18115,6 +18140,11 @@
       "timeline": [
         {
           "date": "2026-05-18",
+          "event": "Email from Cramer, MaryWinston: Brentwood Commons",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-18",
           "event": "Email from Jacob Delk: 144 Wilson Pike Circle",
           "type": "email"
         },
@@ -18772,6 +18802,16 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-05-18",
+          "event": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent auction now and help fund jobs in Nashville",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
         {
           "date": "2026-05-18",
           "event": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webinar",
@@ -21485,6 +21525,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-18",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
           "date": "2026-05-15",
           "event": "Email from mcooper@stridecre.com: Still Available: 6117 Centennial Blvd — Office + Retail in The Nations",
           "type": "email"
@@ -23406,20 +23451,6 @@
       "urgency": "low"
     },
     {
-      "name": "Nhung Pham",
-      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 4,
-      "lastAction": "Email from Mathison Ingham: Fwd: 8209 Highway 51 N Millington signage question",
-      "urgency": "low"
-    },
-    {
-      "name": "Dwaine High",
-      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 4,
-      "lastAction": "Email from Mathison Ingham: Fwd: 8209 Highway 51 N Millington signage question",
-      "urgency": "low"
-    },
-    {
       "name": "Derek Tucker",
       "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
       "daysSinceContact": 3,
@@ -23436,13 +23467,6 @@
     {
       "name": "Bell",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby",
-      "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 3,
       "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
       "urgency": "low"
@@ -23641,13 +23665,6 @@
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 3,
       "lastAction": "Email from Miller Fitts: (NEW LISTING) - 15,600 SF Multi-Tenant Retail Center in",
-      "urgency": "low"
-    },
-    {
-      "name": "Josh Levy",
-      "deal": "Live Nation — Emerson Hall",
-      "daysSinceContact": 3,
-      "lastAction": "Email from mcooper@stridecre.com: Still Available: 6117 Centennial Blvd — Office",
       "urgency": "low"
     },
     {
@@ -23906,126 +23923,126 @@
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
       "urgency": "low"
     },
     {
       "name": "Dawn Baker",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
       "urgency": "low"
     },
     {
@@ -24134,80 +24151,101 @@
       "urgency": "low"
     },
     {
+      "name": "Nhung Pham",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Meriwether Commercial Real Estate: Leased in East Montgomery",
+      "urgency": "low"
+    },
+    {
+      "name": "Dwaine High",
+      "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Meriwether Commercial Real Estate: Leased in East Montgomery",
+      "urgency": "low"
+    },
+    {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "Jon Petty - jpetty@southeastventure.com",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "Amy Taylor",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "Amy Taylor",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "Shady Azez <shadyazezz@gmail.com>",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "Jon Petty <jpetty@southeastventure.com>",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Prather Event Co — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
@@ -24389,63 +24427,63 @@
       "name": "Joe Wesley",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "Shady Azez",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "Richard Jones",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "Thomas Cashion",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
       "name": "Thomas Cashion",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
@@ -24534,128 +24572,142 @@
     },
     {
       "name": "Amy Harper",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / HopeSmiles",
+      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 144 Wilson Pike Circle",
+      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / HopeSmiles",
+      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 144 Wilson Pike Circle",
+      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / HopeSmiles",
+      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 144 Wilson Pike Circle",
+      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
       "urgency": "low"
     },
     {
       "name": "Dr. Phillip Kemp",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / HopeSmiles",
+      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 144 Wilson Pike Circle",
+      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
       "urgency": "low"
     },
     {
       "name": "Dr. Kemp",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / HopeSmiles",
+      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 144 Wilson Pike Circle",
+      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
       "urgency": "low"
     },
     {
       "name": "Amy",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / HopeSmiles",
+      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 144 Wilson Pike Circle",
+      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
       "urgency": "low"
     },
     {
       "name": "Matty",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / HopeSmiles",
+      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 144 Wilson Pike Circle",
+      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
       "urgency": "low"
     },
     {
       "name": "Ashley Marshall",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / HopeSmiles",
+      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 144 Wilson Pike Circle",
+      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
       "urgency": "low"
     },
     {
       "name": "Bill Adair",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / HopeSmiles",
+      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 144 Wilson Pike Circle",
+      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
       "urgency": "low"
     },
     {
       "name": "Amy",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / HopeSmiles",
+      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 144 Wilson Pike Circle",
+      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
       "urgency": "low"
     },
     {
       "name": "Phillip Kemp",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / HopeSmiles",
+      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 144 Wilson Pike Circle",
+      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
       "urgency": "low"
     },
     {
       "name": "Ross Smith",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / HopeSmiles",
+      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 144 Wilson Pike Circle",
+      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
       "urgency": "low"
     },
     {
       "name": "Devin McClendon",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / HopeSmiles",
+      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 144 Wilson Pike Circle",
+      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
       "urgency": "low"
     },
     {
       "name": "Ben Claybaker",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / HopeSmiles",
+      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 144 Wilson Pike Circle",
+      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
       "urgency": "low"
     },
     {
       "name": "Brandon Hoop",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / HopeSmiles",
+      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 144 Wilson Pike Circle",
+      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
+      "urgency": "low"
+    },
+    {
+      "name": "Mary Winston Cramer",
+      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Nashville Business Journal: Don't Miss Out: The Housing Effect Webina",
+      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
+      "urgency": "low"
+    },
+    {
+      "name": "Josh Levy",
+      "deal": "Live Nation — Emerson Hall",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Nashville Business Journal: Jacob, here are our upcoming events and n",
       "urgency": "low"
     },
     {
