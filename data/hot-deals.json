@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T16:31:19.515271",
+  "lastUpdated": "2026-05-18T17:01:53.186281",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-18",
@@ -18262,10 +18262,10 @@
     {
       "id": "hopesmiles",
       "name": "HopeSmiles",
-      "property": "144 Wilson Pike",
+      "property": "144 Wilson Pike Circle / Brentwood Commons",
       "type": "Tenant Rep",
-      "status": "Brandon Hoop sent as-builts and said NAI is happy to tour 144 Wilson Pike later this week; earlier Devin said building is still available but one group is under lease review and another LOI is expected, so timing is tight.",
-      "nextStep": "Get HopeSmiles availability and set a Wilson Pike tour this week if they want to pursue.",
+      "status": "Hope Smiles options advanced: Brandon Hoop sent 144 Wilson Pike Circle as-builts and offered tours later this week; Devin noted one group under lease review and another LOI expected, so timing is competitive. Mary Winston also followed up on Brentwood Commons and Jacob replied he would circle back with Hope Smiles.",
+      "nextStep": "Get Hope Smiles availability for a 144 Wilson Pike tour this week and decide whether Brentwood Commons should stay in the tour set.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -18330,6 +18330,16 @@
         {
           "date": "2026-05-18",
           "event": "144 Wilson Pike as-builts received; NAI offered tour times later this week while competing lease review/LOI activity is active.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "144 Wilson Pike still available but competitive; as-builts sent and tours offered later this week.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "Brentwood Commons follow-up received; Jacob replied he would circle back with Hope Smiles.",
           "type": "email"
         },
         {
@@ -22916,10 +22926,10 @@
     {
       "id": "hibbett-the-columns",
       "name": "Hibbett / JD Sports / DTLR",
-      "property": "The Columns",
-      "status": "Madison Idell confirmed Hibbett plans to open 30-40 locations this year after Jacob asked whether Hibbett is still expanding.",
+      "property": "The Columns - Jackson, TN",
+      "status": "Madison Idell confirmed Hibbett plans to open 30-40 locations this year after Jacob asked whether Hibbett is still expanding. Interest remains around a potential 5,000-7,500 SF opportunity, likely Uniform Source side if Anchor can create a path.",
       "stage": "Contact Made",
-      "nextStep": "Consider whether Hibbett expansion posture changes The Columns / Uniform Store opportunity strategy.",
+      "nextStep": "Determine whether to continue pursuing Hibbett/JD Sports around Uniform Source timing/options and what rate/delivery posture to quote.",
       "priority": "medium",
       "contacts": [
         "Madison Idell (Avison Young) - madison.idell@avisonyoung.com - 316-650-4193",
