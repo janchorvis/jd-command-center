@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T09:30:47.057065",
+  "lastUpdated": "2026-05-18T10:07:03.217740",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-18",
@@ -63,9 +63,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below followed up after survey with facade/rendering request and multiple landlord-confirmation items: roof/drainage due to rear water damage and ACT staining, sealing rear CMU wall, sprinkler/meter-room rear-access adjustment/lease-line change, and confirmation landlord will not require Five Below to add sprinklers. Dawn Baker is replacing Brian as Five Below construction PM.",
+      "status": "Five Below followed up after survey with EC markups, asking for facade renderings/adjacent tenant concepts and feedback on water damage/ACT staining callouts.",
       "stage": "Lease Signed",
-      "nextStep": "Clay/Jacob to respond with facade renderings/design direction and confirm roof/drainage, rear wall sealing, meter-room access/lease-line treatment, and sprinkler position.",
+      "nextStep": "Send facade/rendering concepts and coordinate Clay/maintenance response to survey callouts.",
       "priority": "high",
       "timeline": [
         {
@@ -76,6 +76,11 @@
         {
           "date": "2026-05-18",
           "event": "Desiree Warren sent Five Below survey follow-up with facade/rendering and landlord-confirmation requests.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "Five Below sent EC markups and requested facade concepts plus feedback on water damage/ACT staining.",
           "type": "email"
         },
         {
@@ -18083,10 +18088,10 @@
     {
       "id": "hopesmiles",
       "name": "HopeSmiles",
-      "property": "144 Wilson Pike Circle / HopeSmiles",
+      "property": "Brentwood / 144 Wilson Pike / Brentwood Commons",
       "type": "Tenant Rep",
-      "status": "Jacob sent HopeSmiles to the NAI Nashville team for 144 Wilson Pike Circle on 5/17. Devin McClendon replied 5/18 that the building is still available, but one group is under lease review and another LOI is expected; he recommends getting HopeSmiles on site quickly if they are a strong fit and noted Brentwood C-4 zoning/use should be checked.",
-      "nextStep": "Coordinate HopeSmiles tour at 144 Wilson Pike Circle this week and confirm Brentwood zoning/use fit.",
+      "status": "Devin confirmed 144 Wilson Pike is available but has one group under lease review and another LOI expected; Mary Winston also followed up on Brentwood Commons and can pre-clear HopeSmiles use with landlord.",
+      "nextStep": "Move quickly if HopeSmiles wants to tour 144 Wilson Pike; decide whether Brentwood Commons is worth landlord use check/tour.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -18102,7 +18107,8 @@
         "Ross Smith (Stream Realty)",
         "Devin McClendon (NAI Nashville)",
         "Ben Claybaker (NAI Nashville)",
-        "Brandon Hoop (NAI Nashville)"
+        "Brandon Hoop (NAI Nashville)",
+        "Mary Winston Cramer (JLL)"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-11",
@@ -18115,6 +18121,11 @@
         {
           "date": "2026-05-18",
           "event": "Devin McClendon confirmed 144 Wilson Pike Circle is still available but competitive; recommended a quick tour and zoning/use check for HopeSmiles.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "144 Wilson Pike availability confirmed with competing activity; Brentwood Commons follow-up received.",
           "type": "email"
         },
         {
