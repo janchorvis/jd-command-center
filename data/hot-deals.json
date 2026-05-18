@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T12:30:38.630863",
+  "lastUpdated": "2026-05-18T13:03:03.719913",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-18",
@@ -55,7 +55,9 @@
       "Jarvis GREEN queue ready in memory/am-sweep-pending.md for internal prep/cleanup if Jacob replies go.",
       "Respond to Five Below survey/facade follow-up with renderings and landlord confirmations",
       "Schedule/get Hope Smiles into 144 Wilson Pike Circle ASAP and check Brentwood code fit",
-      "Upload completed Keystone fireworks leases to server/property Slack channels and process $500/property invoicing"
+      "Upload completed Keystone fireworks leases to server/property Slack channels and process $500/property invoicing",
+      "Schedule HopeSmiles tour at 144 Wilson Pike Circle later this week and warn team about competing lease-review/LOI activity.",
+      "Add completed Keystone fireworks leases to server and relevant property Slack channels."
     ]
   },
   "pipelineDeals": [
@@ -18198,10 +18200,10 @@
     {
       "id": "hopesmiles",
       "name": "HopeSmiles",
-      "property": "Brentwood / 144 Wilson Pike / Brentwood Commons",
+      "property": "144 Wilson Pike Circle / Brentwood",
       "type": "Tenant Rep",
-      "status": "Mary Winston Cramer followed up asking whether HopeSmiles would be interested in Brentwood Commons and offered to confirm landlord comfort with the use on the front end.",
-      "nextStep": "Jacob to decide whether HopeSmiles should tour Brentwood Commons or tell Mary Winston no/not yet.",
+      "status": "HopeSmiles Wilson Pike option is live: NAI confirmed the building is still available but one group is under lease review and another LOI is expected; Brandon sent as-builts and offered tours later this week.",
+      "nextStep": "Get HopeSmiles availability for a tour later this week and set expectations on competing lease-review/LOI activity.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -18220,7 +18222,7 @@
         "Brandon Hoop (NAI Nashville)",
         "Mary Winston Cramer (JLL)"
       ],
-      "priority": "medium",
+      "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
@@ -18251,6 +18253,11 @@
         {
           "date": "2026-05-18",
           "event": "Mary Winston Cramer/JLL followed up on Brentwood Commons for HopeSmiles; Gmail draft reply loaded for Jacob approval.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "NAI Nashville confirmed 144 Wilson Pike Circle still available, disclosed competing lease-review/LOI activity, and sent as-builts for HopeSmiles tour planning.",
           "type": "email"
         },
         {
@@ -22207,17 +22214,22 @@
     {
       "id": "fireworks-stands",
       "name": "Fireworks Stands",
-      "property": "Multiple Sites",
-      "status": "Keystone checked in 5/13 for updates on firework tent leases; Jacob replied that Anchor is working through lease language and billing treatment and will send next steps on DocuSigns.",
-      "stage": "Lease Draft & Review",
-      "nextStep": "Confirm lease language/billing treatment internally and send DocuSigns for the Keystone firework tent sites.",
-      "priority": "high",
+      "property": "Keystone fireworks leases",
+      "status": "Micah forwarded five completed 2026 Keystone fireworks lease agreements for Malone Big Lots, Forks of the River Sevierville, McMinnville Plaza, Dixie Village Gastonia, and Hickory Village Jackson, and asked Jacob to add them to the server and property Slack channels.",
+      "stage": "Lease Signed",
+      "nextStep": "Upload completed lease PDFs to the server/property files and post them in the relevant property Slack channels; handle $500/property commission/property invoice treatment.",
+      "priority": "medium",
       "contacts": [
         "Keystone Fireworks",
         "Jeb Thompson",
         "Jeb Thompson (Keystone Novelties)"
       ],
       "timeline": [
+        {
+          "date": "2026-05-16",
+          "event": "Five completed Keystone fireworks leases received via DocuSign; Micah requested server upload and property-channel Slack posts.",
+          "type": "email"
+        },
         {
           "date": "2026-05-13",
           "event": "Jeb Thompson followed up for updates on Keystone firework tent site leases.",
@@ -22312,7 +22324,7 @@
       "actions": [],
       "type": "For Lease",
       "lastUpdate": "2026-03-24",
-      "stageOverride": "Lease Draft & Review"
+      "stageOverride": "Lease Signed"
     },
     {
       "id": "730-infinite-equity-capital",
