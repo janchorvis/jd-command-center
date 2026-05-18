@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T12:04:31.033386",
+  "lastUpdated": "2026-05-18T12:30:38.630863",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-18",
@@ -4069,6 +4069,11 @@
       "timeline": [
         {
           "date": "2026-05-18",
+          "event": "Email from Sean Spafford: Follow-Up",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-18",
           "event": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
           "type": "email"
         },
@@ -6965,6 +6970,16 @@
       "nextStep": "Wait for David S. to provide contact info/tour availability.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-18",
+          "event": "Email from Sean Spafford: Follow-Up",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "Email from Lauri Fowler: 803 Martin St. S.",
+          "type": "email"
+        },
         {
           "date": "2026-05-18",
           "event": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
@@ -12695,6 +12710,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-18",
+          "event": "Email from Lauri Fowler: 803 Martin St. S.",
+          "type": "email"
+        },
+        {
           "date": "2026-05-15",
           "event": "Email from Lauri Fowler: 803 Martin St. S.",
           "type": "email"
@@ -13539,6 +13559,11 @@
         "Thomas Cashion (Davis Moore Healthcare / Carolina Kidz Therapy)"
       ],
       "timeline": [
+        {
+          "date": "2026-05-18",
+          "event": "Email from Lauri Fowler: 803 Martin St. S.",
+          "type": "email"
+        },
         {
           "date": "2026-05-18",
           "event": "Email from HubSpot: PCON Donation - Send Thank You",
@@ -16879,6 +16904,11 @@
       "timeline": [
         {
           "date": "2026-05-18",
+          "event": "Email from Sean Spafford: Follow-Up",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-18",
           "event": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
           "type": "email"
         },
@@ -17734,6 +17764,11 @@
         "Karen D'Antonio (Taft)"
       ],
       "timeline": [
+        {
+          "date": "2026-05-18",
+          "event": "Email from Sean Spafford: Follow-Up",
+          "type": "email"
+        },
         {
           "date": "2026-05-18",
           "event": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
@@ -22356,6 +22391,11 @@
       "timeline": [
         {
           "date": "2026-05-18",
+          "event": "Email from ICSC: Reminder of ICSC Policies and Code of Conduct",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-18",
           "event": "Email from Jacob Delk: ICSC - Anchor / Chase",
           "type": "email"
         },
@@ -23598,76 +23638,6 @@
       "urgency": "low"
     },
     {
-      "name": "Lauri Fowler",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
-      "urgency": "low"
-    },
-    {
-      "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
-      "urgency": "low"
-    },
-    {
-      "name": "David Cooke",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
-      "urgency": "low"
-    },
-    {
-      "name": "Abbey Gill",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
-      "urgency": "low"
-    },
-    {
-      "name": "Scott Myers <smyerscre2@outlook.com>",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
-      "urgency": "low"
-    },
-    {
-      "name": "Laurie",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
-      "urgency": "low"
-    },
-    {
-      "name": "Mitch",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Fidler",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Fidler",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Fidler",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
-      "urgency": "low"
-    },
-    {
       "name": "Parker Brennan / Scenthound",
       "deal": "Scenthound — Atlanta Hwy",
       "daysSinceContact": 3,
@@ -23937,21 +23907,21 @@
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Belky Rodriguez — 704-605-9280 — mibella1988@gmail.com",
       "deal": "Chad Vang - Laundromat — Gastonia - Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
@@ -24042,77 +24012,77 @@
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Jon Petty - jpetty@southeastventure.com",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Amy Taylor",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Amy Taylor",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Shady Azez <shadyazezz@gmail.com>",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Jon Petty <jpetty@southeastventure.com>",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
@@ -24249,6 +24219,76 @@
       "urgency": "low"
     },
     {
+      "name": "Lauri Fowler",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
+      "urgency": "low"
+    },
+    {
+      "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
+      "urgency": "low"
+    },
+    {
+      "name": "David Cooke",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
+      "urgency": "low"
+    },
+    {
+      "name": "Abbey Gill",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
+      "urgency": "low"
+    },
+    {
+      "name": "Scott Myers <smyerscre2@outlook.com>",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
+      "urgency": "low"
+    },
+    {
+      "name": "Laurie",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
+      "urgency": "low"
+    },
+    {
+      "name": "Mitch",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Fidler",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Fidler",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Fidler",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
+      "urgency": "low"
+    },
+    {
       "name": "Carmen Drake",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
@@ -24301,63 +24341,63 @@
       "name": "Joe Wesley",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from HubSpot: PCON Donation - Send Thank You",
+      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from HubSpot: PCON Donation - Send Thank You",
+      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from HubSpot: PCON Donation - Send Thank You",
+      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
       "urgency": "low"
     },
     {
       "name": "Shady Azez",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from HubSpot: PCON Donation - Send Thank You",
+      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from HubSpot: PCON Donation - Send Thank You",
+      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from HubSpot: PCON Donation - Send Thank You",
+      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
       "urgency": "low"
     },
     {
       "name": "Richard Jones",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from HubSpot: PCON Donation - Send Thank You",
+      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
       "urgency": "low"
     },
     {
       "name": "Thomas Cashion",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from HubSpot: PCON Donation - Send Thank You",
+      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
       "urgency": "low"
     },
     {
       "name": "Thomas Cashion",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from HubSpot: PCON Donation - Send Thank You",
+      "lastAction": "Email from Lauri Fowler: 803 Martin St. S.",
       "urgency": "low"
     },
     {
@@ -24448,105 +24488,105 @@
       "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
       "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Lisa Sweeney",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Wm. Coey Vierling <oinkysurveying@gmail.com>",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff <BMcAuliff@taftlaw.com>",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott <ascott@evanspetree.com>",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Stan Bobowski",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Stan Bobowski",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
       "name": "Karen D'Antonio",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carson West: Fwd: Meet our first Chef of the Month: Amazyana",
+      "lastAction": "Email from Sean Spafford: Follow-Up",
       "urgency": "low"
     },
     {
@@ -24791,14 +24831,14 @@
       "name": "Juliana Fernandez",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC - Anchor / Chase",
+      "lastAction": "Email from ICSC: Reminder of ICSC Policies and Code of Conduct",
       "urgency": "low"
     },
     {
       "name": "Carson Knight",
       "deal": "America's Thrift Stores — ICSC / Southeast acquisition targets",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC - Anchor / Chase",
+      "lastAction": "Email from ICSC: Reminder of ICSC Policies and Code of Conduct",
       "urgency": "low"
     },
     {
