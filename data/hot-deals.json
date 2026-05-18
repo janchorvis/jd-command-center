@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T07:33:03.122793",
+  "lastUpdated": "2026-05-18T08:02:02.503329",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-18",
@@ -18043,10 +18043,10 @@
     {
       "id": "hopesmiles",
       "name": "HopeSmiles",
-      "property": "Creekside Crossing / Harpeth One",
+      "property": "144 Wilson Pike Circle / HopeSmiles",
       "type": "Tenant Rep",
-      "status": "Ross Smith followed up asking whether Jacob has any update on HopeSmiles' office search after prior Harpeth One tour/pricing discussion.",
-      "nextStep": "Jacob needs to reply to Ross with current HopeSmiles status or tell him no update yet.",
+      "status": "Jacob sent HopeSmiles to the NAI Nashville team for 144 Wilson Pike Circle on 5/17. Devin McClendon replied 5/18 that the building is still available, but one group is under lease review and another LOI is expected; he recommends getting HopeSmiles on site quickly if they are a strong fit and noted Brentwood C-4 zoning/use should be checked.",
+      "nextStep": "Coordinate HopeSmiles tour at 144 Wilson Pike Circle this week and confirm Brentwood zoning/use fit.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -18059,11 +18059,19 @@
         "Bill Adair (JLL)",
         "Amy (HopeSmiles)",
         "Phillip Kemp (HopeSmiles)",
-        "Ross Smith (Stream Realty)"
+        "Ross Smith (Stream Realty)",
+        "Devin McClendon (NAI Nashville)",
+        "Ben Claybaker (NAI Nashville)",
+        "Brandon Hoop (NAI Nashville)"
       ],
-      "priority": "medium",
+      "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-05-18",
+          "event": "Devin McClendon confirmed 144 Wilson Pike Circle is still available but competitive; recommended a quick tour and zoning/use check for HopeSmiles.",
+          "type": "email"
+        },
         {
           "date": "2026-05-17",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Jake Smith",
