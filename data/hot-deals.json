@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T13:03:03.719913",
+  "lastUpdated": "2026-05-18T13:31:09.446135",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-18",
@@ -70,6 +70,11 @@
       "nextStep": "Jacob/Clay need to respond to Five Below on renderings, roof/drainage/CMU wall, meter-room access/leaseline, and sprinkler requirement.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-18",
+          "event": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
+          "type": "email"
+        },
         {
           "date": "2026-05-18",
           "event": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent auction now and help fund jobs in Nashville",
@@ -5642,6 +5647,11 @@
       "nextStep": "Jacob on call with Ashby at 10 AM — get through comments, push for signature",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-18",
+          "event": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
+          "type": "email"
+        },
         {
           "date": "2026-05-18",
           "event": "Email from CoStar News: CoStar Today: Retail property sector arrives in Las Vegas on sound footing as av",
@@ -13183,6 +13193,11 @@
       "timeline": [
         {
           "date": "2026-05-18",
+          "event": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-18",
           "event": "Email from Jacob Delk: ICSC - Anchor / Chase",
           "type": "email"
         },
@@ -14282,6 +14297,11 @@
       "nextStep": "Wait for HVAC vendor inspection timing/findings before final Great Greek LOI posture.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-18",
+          "event": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
+          "type": "email"
+        },
         {
           "date": "2026-05-18",
           "event": "Email from Jacob Delk: ICSC - Anchor / Chase",
@@ -18225,6 +18245,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-05-18",
+          "event": "Email from Curt Johnson: Official Invitation to Bid — Municipal Infrastructure Project",
+          "type": "email"
+        },
         {
           "date": "2026-05-18",
           "event": "Email from Cramer, MaryWinston: Brentwood Commons",
@@ -23587,27 +23612,6 @@
       "urgency": "low"
     },
     {
-      "name": "Keystone Fireworks",
-      "deal": "Fireworks Stands — Multiple Sites",
-      "daysSinceContact": 5,
-      "lastAction": "Jeb Thompson followed up for updates on Keystone firework tent site leases.",
-      "urgency": "low"
-    },
-    {
-      "name": "Jeb Thompson",
-      "deal": "Fireworks Stands — Multiple Sites",
-      "daysSinceContact": 5,
-      "lastAction": "Jeb Thompson followed up for updates on Keystone firework tent site leases.",
-      "urgency": "low"
-    },
-    {
-      "name": "Jeb Thompson",
-      "deal": "Fireworks Stands — Multiple Sites",
-      "daysSinceContact": 5,
-      "lastAction": "Jeb Thompson followed up for updates on Keystone firework tent site leases.",
-      "urgency": "low"
-    },
-    {
       "name": "Derek Tucker",
       "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
       "daysSinceContact": 3,
@@ -23755,129 +23759,150 @@
       "urgency": "low"
     },
     {
+      "name": "Keystone Fireworks",
+      "deal": "Fireworks Stands — Keystone fireworks leases",
+      "daysSinceContact": 2,
+      "lastAction": "Five completed Keystone fireworks leases received via DocuSign; Micah requested ",
+      "urgency": "low"
+    },
+    {
+      "name": "Jeb Thompson",
+      "deal": "Fireworks Stands — Keystone fireworks leases",
+      "daysSinceContact": 2,
+      "lastAction": "Five completed Keystone fireworks leases received via DocuSign; Micah requested ",
+      "urgency": "low"
+    },
+    {
+      "name": "Jeb Thompson",
+      "deal": "Fireworks Stands — Keystone fireworks leases",
+      "daysSinceContact": 2,
+      "lastAction": "Five completed Keystone fireworks leases received via DocuSign; Micah requested ",
+      "urgency": "low"
+    },
+    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Dawn Baker",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from People Loving Nashville Fundraiser: Couldn’t make it? Join the silent",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
@@ -23982,28 +24007,28 @@
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from CoStar News: CoStar Today: Retail property sector arrives in Las Vega",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from CoStar News: CoStar Today: Retail property sector arrives in Las Vega",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from CoStar News: CoStar Today: Retail property sector arrives in Las Vega",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from CoStar News: CoStar Today: Retail property sector arrives in Las Vega",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
@@ -24304,49 +24329,49 @@
       "name": "Carmen Drake",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC - Anchor / Chase",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC - Anchor / Chase",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "James Stocker",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC - Anchor / Chase",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Carmine DiLucente",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC - Anchor / Chase",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Stan Bobowski",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC - Anchor / Chase",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Paul Takacs",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC - Anchor / Chase",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Andrew Goodman",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC - Anchor / Chase",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
@@ -24416,84 +24441,84 @@
       "name": "Joey",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC - Anchor / Chase",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC - Anchor / Chase",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC - Anchor / Chase",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC - Anchor / Chase",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "ala h.",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC - Anchor / Chase",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC - Anchor / Chase",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC - Anchor / Chase",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC - Anchor / Chase",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti <jvalenti@centenretail.com>",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC - Anchor / Chase",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC - Anchor / Chase",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "EJ",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC - Anchor / Chase",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: ICSC - Anchor / Chase",
+      "lastAction": "Email from Ryan Romes: Fwd: Hotel Confirmation Number",
       "urgency": "low"
     },
     {
@@ -24603,114 +24628,114 @@
     },
     {
       "name": "Amy Harper",
-      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
+      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood",
       "daysSinceContact": 0,
-      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
+      "lastAction": "Email from Curt Johnson: Official Invitation to Bid — Municipal Infrastructure P",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
-      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
+      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood",
       "daysSinceContact": 0,
-      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
+      "lastAction": "Email from Curt Johnson: Official Invitation to Bid — Municipal Infrastructure P",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
-      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
+      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood",
       "daysSinceContact": 0,
-      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
+      "lastAction": "Email from Curt Johnson: Official Invitation to Bid — Municipal Infrastructure P",
       "urgency": "low"
     },
     {
       "name": "Dr. Phillip Kemp",
-      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
+      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood",
       "daysSinceContact": 0,
-      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
+      "lastAction": "Email from Curt Johnson: Official Invitation to Bid — Municipal Infrastructure P",
       "urgency": "low"
     },
     {
       "name": "Dr. Kemp",
-      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
+      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood",
       "daysSinceContact": 0,
-      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
+      "lastAction": "Email from Curt Johnson: Official Invitation to Bid — Municipal Infrastructure P",
       "urgency": "low"
     },
     {
       "name": "Amy",
-      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
+      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood",
       "daysSinceContact": 0,
-      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
+      "lastAction": "Email from Curt Johnson: Official Invitation to Bid — Municipal Infrastructure P",
       "urgency": "low"
     },
     {
       "name": "Matty",
-      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
+      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood",
       "daysSinceContact": 0,
-      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
+      "lastAction": "Email from Curt Johnson: Official Invitation to Bid — Municipal Infrastructure P",
       "urgency": "low"
     },
     {
       "name": "Ashley Marshall",
-      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
+      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood",
       "daysSinceContact": 0,
-      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
+      "lastAction": "Email from Curt Johnson: Official Invitation to Bid — Municipal Infrastructure P",
       "urgency": "low"
     },
     {
       "name": "Bill Adair",
-      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
+      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood",
       "daysSinceContact": 0,
-      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
+      "lastAction": "Email from Curt Johnson: Official Invitation to Bid — Municipal Infrastructure P",
       "urgency": "low"
     },
     {
       "name": "Amy",
-      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
+      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood",
       "daysSinceContact": 0,
-      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
+      "lastAction": "Email from Curt Johnson: Official Invitation to Bid — Municipal Infrastructure P",
       "urgency": "low"
     },
     {
       "name": "Phillip Kemp",
-      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
+      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood",
       "daysSinceContact": 0,
-      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
+      "lastAction": "Email from Curt Johnson: Official Invitation to Bid — Municipal Infrastructure P",
       "urgency": "low"
     },
     {
       "name": "Ross Smith",
-      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
+      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood",
       "daysSinceContact": 0,
-      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
+      "lastAction": "Email from Curt Johnson: Official Invitation to Bid — Municipal Infrastructure P",
       "urgency": "low"
     },
     {
       "name": "Devin McClendon",
-      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
+      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood",
       "daysSinceContact": 0,
-      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
+      "lastAction": "Email from Curt Johnson: Official Invitation to Bid — Municipal Infrastructure P",
       "urgency": "low"
     },
     {
       "name": "Ben Claybaker",
-      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
+      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood",
       "daysSinceContact": 0,
-      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
+      "lastAction": "Email from Curt Johnson: Official Invitation to Bid — Municipal Infrastructure P",
       "urgency": "low"
     },
     {
       "name": "Brandon Hoop",
-      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
+      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood",
       "daysSinceContact": 0,
-      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
+      "lastAction": "Email from Curt Johnson: Official Invitation to Bid — Municipal Infrastructure P",
       "urgency": "low"
     },
     {
       "name": "Mary Winston Cramer",
-      "deal": "HopeSmiles — Brentwood / 144 Wilson Pike / Brentwood Commons",
+      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood",
       "daysSinceContact": 0,
-      "lastAction": "Email from Cramer, MaryWinston: Brentwood Commons",
+      "lastAction": "Email from Curt Johnson: Official Invitation to Bid — Municipal Infrastructure P",
       "urgency": "low"
     },
     {
