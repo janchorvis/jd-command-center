@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T08:02:02.503329",
+  "lastUpdated": "2026-05-18T09:03:01.117839",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-18",
@@ -52,7 +52,10 @@
       "See when Dallas could meet with carter (overdue — due 2026-03-31)",
       "ICSC travel day: protect time for flight, Franklin Blvd tour, and dinner with Marc/Colliers.",
       "Highest Jacob-owned items: GMX/Hamilton extension/title clock, existing lead response drafts needing approval, and ICSC/Royal Bazaar calendar follow-through.",
-      "Jarvis GREEN queue ready in memory/am-sweep-pending.md for internal prep/cleanup if Jacob replies go."
+      "Jarvis GREEN queue ready in memory/am-sweep-pending.md for internal prep/cleanup if Jacob replies go.",
+      "Respond to Five Below survey/facade follow-up with renderings and landlord confirmations",
+      "Schedule/get Hope Smiles into 144 Wilson Pike Circle ASAP and check Brentwood code fit",
+      "Upload completed Keystone fireworks leases to server/property Slack channels and process $500/property invoicing"
     ]
   },
   "pipelineDeals": [
@@ -60,11 +63,16 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Ryan updated Malone bank proformas after Jacob/Clay feedback: tenant numbers reflect most recent bids, contingency cut to $250K, and small-shop TI set at $30/SF.",
+      "status": "Five Below followed up after survey with facade/rendering request and multiple landlord-confirmation items: roof/drainage due to rear water damage and ACT staining, sealing rear CMU wall, sprinkler/meter-room rear-access adjustment/lease-line change, and confirmation landlord will not require Five Below to add sprinklers. Dawn Baker is replacing Brian as Five Below construction PM.",
       "stage": "Lease Signed",
-      "nextStep": "Micah to review/submit numbers to bank; Jacob should only weigh in if he disagrees with proforma assumptions.",
-      "priority": "medium",
+      "nextStep": "Clay/Jacob to respond with facade renderings/design direction and confirm roof/drainage, rear wall sealing, meter-room access/lease-line treatment, and sprinkler position.",
+      "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-18",
+          "event": "Desiree Warren sent Five Below survey follow-up with facade/rendering and landlord-confirmation requests.",
+          "type": "email"
+        },
         {
           "date": "2026-05-17",
           "event": "Email from Chris Brophy: PCON x Goodwill Proposal Doc",
@@ -1451,7 +1459,9 @@
         "Tim Carlo (surveyor)",
         "Frank Soranno (Storecrafters)",
         "Ashby (Attorney)",
-        "Ryan Romes"
+        "Ryan Romes",
+        "Desiree Warren (Five Below)",
+        "Dawn Baker (Five Below construction PM)"
       ],
       "actions": [
         {
