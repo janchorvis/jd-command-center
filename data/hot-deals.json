@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T10:31:08.130510",
+  "lastUpdated": "2026-05-18T11:02:51.321939",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-18",
@@ -63,9 +63,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below followed up after survey with EC markups, asking for facade renderings/adjacent tenant concepts and feedback on water damage/ACT staining callouts.",
+      "status": "Five Below sent survey/design follow-up with EC markups: requests facade renderings/adjacent-tenant context, asks for feedback on rear water damage/ACT staining/roof drainage, rear CMU wall sealing, sprinkler/meter room access and leaseline adjustment, and confirmation whether LL will require sprinklers. Dawn Baker is replacing Brian as Construction PM.",
       "stage": "Lease Signed",
-      "nextStep": "Send facade/rendering concepts and coordinate Clay/maintenance response to survey callouts.",
+      "nextStep": "Jacob/Clay need to respond to Five Below on renderings, roof/drainage/CMU wall, meter-room access/leaseline, and sprinkler requirement.",
       "priority": "high",
       "timeline": [
         {
@@ -86,6 +86,11 @@
         {
           "date": "2026-05-18",
           "event": "Five Below sent EC markups and requested facade concepts plus feedback on water damage/ACT staining.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "Five Below sent EC markups and requested LL feedback on facade, water damage/roof drainage, CMU sealing, meter-room access/leaseline, sprinklers, and PM change to Dawn Baker.",
           "type": "email"
         },
         {
@@ -18115,8 +18120,8 @@
       "name": "HopeSmiles",
       "property": "Brentwood / 144 Wilson Pike / Brentwood Commons",
       "type": "Tenant Rep",
-      "status": "Devin confirmed 144 Wilson Pike is available but has one group under lease review and another LOI expected; Mary Winston also followed up on Brentwood Commons and can pre-clear HopeSmiles use with landlord.",
-      "nextStep": "Move quickly if HopeSmiles wants to tour 144 Wilson Pike; decide whether Brentwood Commons is worth landlord use check/tour.",
+      "status": "Mary Winston Cramer followed up asking whether HopeSmiles would be interested in Brentwood Commons and offered to confirm landlord comfort with the use on the front end.",
+      "nextStep": "Jacob needs to decide whether HopeSmiles should tour Brentwood Commons or tell Mary Winston no/not yet.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -18135,7 +18140,7 @@
         "Brandon Hoop (NAI Nashville)",
         "Mary Winston Cramer (JLL)"
       ],
-      "priority": "high",
+      "priority": "medium",
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
@@ -18156,6 +18161,11 @@
         {
           "date": "2026-05-18",
           "event": "144 Wilson Pike availability confirmed with competing activity; Brentwood Commons follow-up received.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "Mary Winston Cramer followed up on Brentwood Commons for HopeSmiles and offered to pre-clear use with landlord.",
           "type": "email"
         },
         {
@@ -22698,9 +22708,9 @@
       "id": "hibbett-the-columns",
       "name": "Hibbett / JD Sports / DTLR",
       "property": "The Columns - Jackson, TN",
-      "status": "Avison Young/Hibbett asked about athletic shoes/apparel restrictions, delivery timing, and estimated lease rate for potential +/-7,000 SF Uniform Source opportunity.",
+      "status": "Madison Idell confirmed Hibbett plans to open 30-40 locations this year after Jacob questioned expansion/closures. Opportunity remains around Uniform Source space, subject to lease option and availability.",
       "stage": "Contact Made",
-      "nextStep": "Jacob to confirm restrictions, delivery, and rate; Gmail draft reply is loaded for approval.",
+      "nextStep": "Decide whether to continue conversation on Uniform Source / The Columns opportunity and what delivery/rate/restriction guidance to give Madison.",
       "priority": "medium",
       "contacts": [
         "Madison Idell (Avison Young) - madison.idell@avisonyoung.com - 316-650-4193",
@@ -22709,6 +22719,11 @@
         "Brande Benson (Avison Young)"
       ],
       "timeline": [
+        {
+          "date": "2026-05-18",
+          "event": "Madison Idell confirmed Hibbett plans to open 30-40 locations this year.",
+          "type": "email"
+        },
         {
           "date": "2026-05-15",
           "event": "Email from Mathison Ingham: Store Financials - Jackson and Hamilton",
