@@ -1,8 +1,8 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-05-14 4:23 PM CDT
+Last updated: 2026-05-15 6:00 PM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T183 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T184 -->
 
 ## ACTIVE — Jacob needs to do these
 
@@ -72,6 +72,7 @@ Last updated: 2026-05-14 4:23 PM CDT
 - T180: Offsite / Cleveland Furniture Bank financial review — Jacob to send Micah/Ryan the tenant financials/sales info and decide whether to structure short-term rent relief with reporting/review period. [source: 2026-05-06 Q2 offsite] [owner: Jacob/Micah/Ryan] [deal: Parma / Cleveland Furniture Bank]
 - T181: Offsite / Russellville-Vance hold-sell analysis — analyze Russellville cash-flow hold vs sale after leasing progress and watch Vance/Uniform Source renewal/value path. [source: 2026-05-06 Q2 offsite] [owner: Micah/Ryan/Jacob] [deal: Russellville / Vance]
 - T182: Draft UPS lease - McMinnville Plaza Suite 108 — Jon Petty says UPS area office is finalizing paperwork and sees no issue with issuing a lease for review; Jacob replied 5/14 "I'll get it rolling on our end." Start the lease draft path for UPS Store at McMinnville Plaza Suite 108. [asana: 1214819500996383] [gmail thread: 19e1d15ee89ab75a] [source: Chrome extension inbox 2026-05-14] [deal: McMinnville Plaza / UPS Store]
+- T183: Send ICSC calendar invite to Kevin Moss - Royal Bazaar meeting — Kevin confirmed Wednesday 8:30 AM at Central Hall CBRE booth for Parma Heights / Royal Bazaar Indian Market and asked Jacob to send an invite; Jacob may need to dip early for 9 AM South Hall meeting. [asana: 1214852315230400] [gmail thread: 19e2c9458f57e142] [source: Communication Triage 2026-05-15 3 PM] [deal: Parma Heights / Royal Bazaar Indian Market]
 
 
 ### Next Week+
@@ -89,7 +90,7 @@ Last updated: 2026-05-14 4:23 PM CDT
 
 Note: WATCHING items should be removed once real movement comes in. Gastonia laundromat was removed on 4/10 after a fresh DocuSign reminder signaled movement. Pell City was removed earlier on 4/10 after fresh email movement from Factory Connection. McMinnville monument sign was removed on 4/14 after Clay sent fresh Slack PDFs/comments for review. ABC Russellville was removed on 4/27 after Clay asked whether to commission the ABC work; it is now active as T122. Crunch Fitness and McMinnville landscaping were removed from WATCHING on 5/5 and promoted to active follow-up tasks T152/T146. T137 Academy/Shelbyville started 5/4 and was flagged stale on 5/12 for the next morning briefing.
 
-- T137: Academy Sports / Shelbyville — watch for response after Jacob sends pitch for former Big Lots box at 1840 E Michigan Rd; if no response, follow up with Brian Ferguson / Academy real estate contact. Proof points: ~30 miles from Indianapolis, ~25-30 min from Greenwood Academy store, 40K SF box, E Michigan Rd retail corridor, Academy outside-in exurb/satellite strategy. [source: Jacob 5/4; deal: Shelbyville] [stale-watch 5/13: 9 days with no movement; queued for 5/14 morning briefing]
+- T137: Academy Sports / Shelbyville — watch for response after Jacob sends pitch for former Big Lots box at 1840 E Michigan Rd; if no response, follow up with Brian Ferguson / Academy real estate contact. Proof points: ~30 miles from Indianapolis, ~25-30 min from Greenwood Academy store, 40K SF box, E Michigan Rd retail corridor, Academy outside-in exurb/satellite strategy. [source: Jacob 5/4; deal: Shelbyville] [stale-watch 5/13: 9 days with no movement; queued for 5/14 morning briefing; still quiet in 5/15 triage checks and should remain visible in next briefing if no movement]
 
 ## COMPLETED — Recent (auto-cleaned after 7 days)
 
