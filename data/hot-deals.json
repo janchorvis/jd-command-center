@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T13:31:09.446135",
+  "lastUpdated": "2026-05-18T14:02:45.338642",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-18",
@@ -57,7 +57,9 @@
       "Schedule/get Hope Smiles into 144 Wilson Pike Circle ASAP and check Brentwood code fit",
       "Upload completed Keystone fireworks leases to server/property Slack channels and process $500/property invoicing",
       "Schedule HopeSmiles tour at 144 Wilson Pike Circle later this week and warn team about competing lease-review/LOI activity.",
-      "Add completed Keystone fireworks leases to server and relevant property Slack channels."
+      "Add completed Keystone fireworks leases to server and relevant property Slack channels.",
+      "Coordinate response to Five Below EC markup/facade/water damage/sprinkler questions.",
+      "Get HopeSmiles availability and schedule 144 Wilson Pike tour this week if interested."
     ]
   },
   "pipelineDeals": [
@@ -65,9 +67,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below sent survey/design follow-up with EC markups: requests facade renderings/adjacent-tenant context, asks for feedback on rear water damage/ACT staining/roof drainage, rear CMU wall sealing, sprinkler/meter room access and leaseline adjustment, and confirmation whether LL will require sprinklers. Dawn Baker is replacing Brian as Construction PM.",
+      "status": "Desiree Warren sent EC markup follow-up asking for facade renderings/adjacent tenant context, water damage/ACT staining feedback, rear CMU/sealing confirmation, meter room/sprinkler room leaseline/access approval, and sprinkler requirement confirmation.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Clay need to respond to Five Below on renderings, roof/drainage/CMU wall, meter-room access/leaseline, and sprinkler requirement.",
+      "nextStep": "Jacob/Clay coordinate response to Five Below EC markups and open LL work/sprinkler/access questions.",
       "priority": "high",
       "timeline": [
         {
@@ -98,6 +100,11 @@
         {
           "date": "2026-05-18",
           "event": "Five Below sent EC markups and requested LL feedback on facade, water damage/roof drainage, CMU sealing, meter-room access/leaseline, sprinklers, and PM change to Dawn Baker.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "Five Below sent EC markup questions and requested facade/rendering + building-condition responses.",
           "type": "email"
         },
         {
@@ -18220,10 +18227,10 @@
     {
       "id": "hopesmiles",
       "name": "HopeSmiles",
-      "property": "144 Wilson Pike Circle / Brentwood",
+      "property": "144 Wilson Pike",
       "type": "Tenant Rep",
-      "status": "HopeSmiles Wilson Pike option is live: NAI confirmed the building is still available but one group is under lease review and another LOI is expected; Brandon sent as-builts and offered tours later this week.",
-      "nextStep": "Get HopeSmiles availability for a tour later this week and set expectations on competing lease-review/LOI activity.",
+      "status": "Brandon Hoop sent as-builts and said NAI is happy to tour 144 Wilson Pike later this week; earlier Devin said building is still available but one group is under lease review and another LOI is expected, so timing is tight.",
+      "nextStep": "Get HopeSmiles availability and set a Wilson Pike tour this week if they want to pursue.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -18283,6 +18290,11 @@
         {
           "date": "2026-05-18",
           "event": "NAI Nashville confirmed 144 Wilson Pike Circle still available, disclosed competing lease-review/LOI activity, and sent as-builts for HopeSmiles tour planning.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "144 Wilson Pike as-builts received; NAI offered tour times later this week while competing lease review/LOI activity is active.",
           "type": "email"
         },
         {
@@ -22864,10 +22876,10 @@
     {
       "id": "hibbett-the-columns",
       "name": "Hibbett / JD Sports / DTLR",
-      "property": "The Columns - Jackson, TN",
-      "status": "Madison Idell confirmed Hibbett plans to open 30-40 locations this year after Jacob questioned expansion/closures. Opportunity remains around Uniform Source space, subject to lease option and availability.",
+      "property": "The Columns",
+      "status": "Madison Idell confirmed Hibbett plans to open 30-40 locations this year after Jacob asked whether Hibbett is still expanding.",
       "stage": "Contact Made",
-      "nextStep": "Decide whether to continue conversation on Uniform Source / The Columns opportunity and what delivery/rate/restriction guidance to give Madison.",
+      "nextStep": "Consider whether Hibbett expansion posture changes The Columns / Uniform Store opportunity strategy.",
       "priority": "medium",
       "contacts": [
         "Madison Idell (Avison Young) - madison.idell@avisonyoung.com - 316-650-4193",
@@ -22889,6 +22901,11 @@
         {
           "date": "2026-05-18",
           "event": "Madison Idell confirmed Hibbett plans to open 30-40 locations this year.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-18",
+          "event": "Avison Young confirmed Hibbett plans 30-40 openings this year.",
           "type": "email"
         },
         {
