@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T14:30:42.982008",
+  "lastUpdated": "2026-05-19T15:02:02.672543",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-19",
@@ -18759,7 +18759,7 @@
       "name": "HopeSmiles",
       "property": "HopeSmiles / Nashville",
       "type": "Tenant Rep",
-      "status": "Bill Adair and Maddy Sickels suggested 3040 Sidco for HopeSmiles after seeing Duke Drive and Creekside, saying it may solve direct access, ground-level plumbing/drainage, training, and location needs; they are ready to tour soon.",
+      "status": "JLL/Stream surfaced 3040 Sidco as a possible HopeSmiles fit after Duke Drive and Creekside tours; Stream says direct suite access plus plumbing/drainage needs may be solvable and asked to tour soon.",
       "nextStep": "Jacob to decide whether to have HopeSmiles tour 3040 Sidco / connect with Stream.",
       "contacts": [
         "Amy Harper (Tenant)",
@@ -18822,6 +18822,11 @@
         {
           "date": "2026-05-19",
           "event": "Bill Adair/Maddy Sickels pitched 3040 Sidco as potential HopeSmiles fit and offered tour.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "Bill Adair suggested 3040 Sidco for HopeSmiles; Maddison Sickels said direct access and plumbing/drainage should be workable and asked to tour soon.",
           "type": "email"
         },
         {
@@ -22893,7 +22898,7 @@
       "id": "fireworks-stands",
       "name": "Fireworks Stands",
       "property": "Keystone fireworks leases",
-      "status": "Jeb Thompson said Keystone already submitted McMinnville permits and is checking with jurisdiction/site setup on whether spacing/operational requirements allow the tent despite the inherited prior fireworks agreement.",
+      "status": "Keystone has already submitted McMinnville permits and is checking with jurisdiction/site setup after Jacob disclosed an inherited prior fireworks agreement at McMinnville.",
       "stage": "Lease Signed",
       "nextStep": "Wait for Jeb's permitting/site setup update while Jacob keeps McMinnville conflict visible.",
       "priority": "medium",
@@ -22906,6 +22911,11 @@
         {
           "date": "2026-05-19",
           "event": "Keystone replied on McMinnville fireworks conflict: permits submitted, checking jurisdiction/site setup constraints.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "Jeb Thompson replied that Keystone already submitted McMinnville permits and will see what the jurisdiction allows given possible competing tent spacing/operational requirements.",
           "type": "email"
         },
         {
