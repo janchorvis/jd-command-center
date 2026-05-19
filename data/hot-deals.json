@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T16:31:10.883385",
+  "lastUpdated": "2026-05-19T17:05:47.511815",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-19",
@@ -70,9 +70,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Desiree Warren sent EC markup follow-up asking for facade renderings/adjacent tenant context, water damage/ACT staining feedback, rear CMU/sealing confirmation, meter room/sprinkler room leaseline/access approval, and sprinkler requirement confirmation.",
+      "status": "Justin Jeror asked via Anchor rental form whether the space left of the new Marshalls is available after previously being told the former Big Lots adjacency was under discussion.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Clay coordinate response to Five Below EC markups and open LL work/sprinkler/access questions.",
+      "nextStep": "Jacob to confirm availability/details and respond; draft reply is loaded on Micah's forwarded thread.",
       "priority": "high",
       "timeline": [
         {
@@ -84,6 +84,11 @@
           "date": "2026-05-19",
           "event": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
           "type": "email"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "Justin Jeror asked whether the space left of the new Marshalls is available; Gmail draft loaded for Jacob to follow up.",
+          "type": "lead"
         },
         {
           "date": "2026-05-18",
@@ -1528,7 +1533,9 @@
         "Ashby (Attorney)",
         "Ryan Romes",
         "Desiree Warren (Five Below)",
-        "Dawn Baker (Five Below construction PM)"
+        "Dawn Baker (Five Below construction PM)",
+        "Justin Jeror <justin.jeror@gmail.com>",
+        "Micah Lacher <mlacher@anchorinv.com>"
       ],
       "actions": [
         {
