@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T16:03:02.996689",
+  "lastUpdated": "2026-05-19T16:31:10.883385",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-19",
@@ -75,6 +75,11 @@
       "nextStep": "Jacob/Clay coordinate response to Five Below EC markups and open LL work/sprinkler/access questions.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-19",
+          "event": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+          "type": "email"
+        },
         {
           "date": "2026-05-19",
           "event": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
@@ -5749,6 +5754,11 @@
       "timeline": [
         {
           "date": "2026-05-19",
+          "event": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-19",
           "event": "Email from CoStar News: CoStar Today: Retail property sector arrives in Las Vegas on sound footing as av",
           "type": "email"
         },
@@ -7092,6 +7102,11 @@
       "nextStep": "Wait for David S. to provide contact info/tour availability.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-19",
+          "event": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
+          "type": "email"
+        },
         {
           "date": "2026-05-19",
           "event": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
@@ -10170,6 +10185,11 @@
       "timeline": [
         {
           "date": "2026-05-19",
+          "event": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-19",
           "event": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
           "type": "email"
         },
@@ -12989,6 +13009,11 @@
       "timeline": [
         {
           "date": "2026-05-19",
+          "event": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-19",
           "event": "Email from Chain Store Age: DayBreaker: Amazon hit with class action tariff suit; Shein reportedly to acquir",
           "type": "email"
         },
@@ -13519,6 +13544,11 @@
       "timeline": [
         {
           "date": "2026-05-19",
+          "event": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-19",
           "event": "Email from Anchor Leasing: Fwd: Firework Tent Details",
           "type": "email"
         },
@@ -13938,6 +13968,11 @@
         "Rawn Turner (LoopNet lead)"
       ],
       "timeline": [
+        {
+          "date": "2026-05-19",
+          "event": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
+          "type": "email"
+        },
         {
           "date": "2026-05-19",
           "event": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
@@ -14729,6 +14764,11 @@
       "nextStep": "Wait for HVAC vendor inspection timing/findings before final Great Greek LOI posture.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-19",
+          "event": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+          "type": "email"
+        },
         {
           "date": "2026-05-19",
           "event": "Email from Anchor Leasing: Fwd: Firework Tent Details",
@@ -18319,6 +18359,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-19",
+          "event": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+          "type": "email"
+        },
+        {
           "date": "2026-05-18",
           "event": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@anchorinv.com, 0 Backup it",
           "type": "email"
@@ -20834,6 +20879,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-05-19",
+          "event": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+          "type": "email"
+        },
         {
           "date": "2026-05-19",
           "event": "Email from Hillel Realty Group: Brooklyn Living: Elephant Marches, Memorial Day Plans & Spring Trends",
@@ -23659,6 +23709,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-19",
+          "event": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+          "type": "email"
+        },
+        {
           "date": "2026-05-18",
           "event": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@anchorinv.com, 0 Backup it",
           "type": "email"
@@ -24380,283 +24435,129 @@
       "urgency": "low"
     },
     {
-      "name": "Ashby",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
-      "name": "Bob McAuliff",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
-      "name": "Bob McAuliff",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
-      "name": "Lisa Sweeney",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
-      "name": "Wm. Coey Vierling <oinkysurveying@gmail.com>",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
-      "name": "Bob McAuliff <BMcAuliff@taftlaw.com>",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott <ascott@evanspetree.com>",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
-      "name": "Stan Bobowski",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
-      "name": "Stan Bobowski",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
-      "name": "Karen D'Antonio",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Gaghan",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Gaghan - 440-263-9792 - tom@clevelandfurniturebank.org",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Gaghan",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
-      "name": "Mathison Ingham",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Gaghan",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: [External]Fwd: Cloudally Backup Summary - mlacher@a",
-      "urgency": "low"
-    },
-    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Dawn Baker",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
@@ -24740,28 +24641,28 @@
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from CoStar News: CoStar Today: Retail property sector arrives in Las Vega",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from CoStar News: CoStar Today: Retail property sector arrives in Las Vega",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from CoStar News: CoStar Today: Retail property sector arrives in Las Vega",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from CoStar News: CoStar Today: Retail property sector arrives in Las Vega",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
@@ -24782,77 +24683,77 @@
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Jon Petty - jpetty@southeastventure.com",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Amy Taylor",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Amy Taylor",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Shady Azez <shadyazezz@gmail.com>",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Jon Petty <jpetty@southeastventure.com>",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
@@ -24880,126 +24781,126 @@
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson <Robert_Richardson@tjx.com>",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano <andriano@c2-designgroup.com>",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
@@ -25027,280 +24928,280 @@
       "name": "Lauri Fowler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Amazon hit with class action tariff suit",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Amazon hit with class action tariff suit",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "David Cooke",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Amazon hit with class action tariff suit",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Abbey Gill",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Amazon hit with class action tariff suit",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Scott Myers <smyerscre2@outlook.com>",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Amazon hit with class action tariff suit",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Laurie",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Amazon hit with class action tariff suit",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Mitch",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Amazon hit with class action tariff suit",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Amazon hit with class action tariff suit",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Amazon hit with class action tariff suit",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Amazon hit with class action tariff suit",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Susan S.",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: Amazon hit with class action tariff suit",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Carmen Drake",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Fwd: Firework Tent Details",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Fwd: Firework Tent Details",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "James Stocker",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Fwd: Firework Tent Details",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Carmine DiLucente",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Fwd: Firework Tent Details",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Stan Bobowski",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Fwd: Firework Tent Details",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Paul Takacs",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Fwd: Firework Tent Details",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Andrew Goodman",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Fwd: Firework Tent Details",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Joe Wesley",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Shady Azez",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Richard Jones",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Thomas Cashion",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Thomas Cashion",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Rawn Turner",
       "deal": " — McMinnville Plaza Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Patrick Kapla: Cystic Fibrosis Fundraiser - the race for first place!",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Fwd: Firework Tent Details",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Fwd: Firework Tent Details",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Fwd: Firework Tent Details",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Fwd: Firework Tent Details",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "ala h.",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Fwd: Firework Tent Details",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Fwd: Firework Tent Details",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Fwd: Firework Tent Details",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Fwd: Firework Tent Details",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti <jvalenti@centenretail.com>",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Fwd: Firework Tent Details",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Fwd: Firework Tent Details",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "EJ",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Fwd: Firework Tent Details",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish",
       "deal": " — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Fwd: Firework Tent Details",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
@@ -25308,6 +25209,104 @@
       "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
       "daysSinceContact": 0,
       "lastAction": "Email from Joey Valenti: RE: The Great Greek Hendersonville",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+      "urgency": "low"
+    },
+    {
+      "name": "Bob McAuliff",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+      "urgency": "low"
+    },
+    {
+      "name": "Bob McAuliff",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+      "urgency": "low"
+    },
+    {
+      "name": "Lisa Sweeney",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+      "urgency": "low"
+    },
+    {
+      "name": "Wm. Coey Vierling <oinkysurveying@gmail.com>",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+      "urgency": "low"
+    },
+    {
+      "name": "Bob McAuliff <BMcAuliff@taftlaw.com>",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott <ascott@evanspetree.com>",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+      "urgency": "low"
+    },
+    {
+      "name": "Stan Bobowski",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+      "urgency": "low"
+    },
+    {
+      "name": "Stan Bobowski",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+      "urgency": "low"
+    },
+    {
+      "name": "Karen D'Antonio",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
@@ -25461,98 +25460,98 @@
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Hillel Realty Group: Brooklyn Living: Elephant Marches, Memorial Day ",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Hillel Realty Group: Brooklyn Living: Elephant Marches, Memorial Day ",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Hillel Realty Group: Brooklyn Living: Elephant Marches, Memorial Day ",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Hillel Realty Group: Brooklyn Living: Elephant Marches, Memorial Day ",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Jordyn Stallings",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Hillel Realty Group: Brooklyn Living: Elephant Marches, Memorial Day ",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Rebecca Miller",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Hillel Realty Group: Brooklyn Living: Elephant Marches, Memorial Day ",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Hillel Realty Group: Brooklyn Living: Elephant Marches, Memorial Day ",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Hillel Realty Group: Brooklyn Living: Elephant Marches, Memorial Day ",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Lexy Burke",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Hillel Realty Group: Brooklyn Living: Elephant Marches, Memorial Day ",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Dylan Bennett",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Hillel Realty Group: Brooklyn Living: Elephant Marches, Memorial Day ",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Lexy Burke",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Hillel Realty Group: Brooklyn Living: Elephant Marches, Memorial Day ",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Hillel Realty Group: Brooklyn Living: Elephant Marches, Memorial Day ",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Dylan Bennett",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Hillel Realty Group: Brooklyn Living: Elephant Marches, Memorial Day ",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Hillel Realty Group: Brooklyn Living: Elephant Marches, Memorial Day ",
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     },
     {
@@ -25630,6 +25629,62 @@
       "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
       "daysSinceContact": 0,
       "lastAction": "Email from Crexi Webinars: Jacob, Reserve Your Spot | Crexi Tools for Brokers 🛠️",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Gaghan",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Gaghan - 440-263-9792 - tom@clevelandfurniturebank.org",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Gaghan",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+      "urgency": "low"
+    },
+    {
+      "name": "Mathison Ingham",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Gaghan",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Form Submission - New Form - Rental Space",
       "urgency": "low"
     }
   ],
