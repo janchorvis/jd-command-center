@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T13:31:04.484095",
+  "lastUpdated": "2026-05-19T14:02:35.938733",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-19",
@@ -12919,9 +12919,9 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Susan S. submitted a Crexi inquiry asking whether space is still available and what the price per square foot is.",
+      "status": "Crexi inquiry from Susan S. asked whether space is still available and price per square foot; draft reply loaded confirming availability and asking contact info, business type, and SF need.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob needs to approve/send a Crexi reply asking what size space she needs and for her phone/email; include pricing guidance if Jacob wants to answer directly.",
+      "nextStep": "Jacob to approve/send lead reply or respond directly.",
       "priority": "medium",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
@@ -12985,6 +12985,11 @@
         {
           "date": "2026-05-19",
           "event": "Crexi lead Susan S. asked if Pell City Marketplace space is available and requested price per square foot.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "Crexi inquiry from Susan S. on Pell City Marketplace about availability and pricing; draft reply loaded.",
           "type": "lead"
         },
         {
@@ -13866,10 +13871,10 @@
       "id": "mcminnville-plaza",
       "name": "",
       "property": "McMinnville Plaza Shopping Center",
-      "status": "ICSC/triage signals remain active: Richard Jones has a fitness user needing 25,000+ SF and is checking whether roughly 20,000 SF works; Carolina Kidz Therapy wants access to 2547A Franklin Blvd (3,600-7,600 SF) and Jacob replied he will confirm lockbox/code.",
+      "status": "New LoopNet lead from Rawn Turner came in 5/19 asking about McMinnville Plaza; reply draft loaded asking business type and SF need.",
       "stage": "LOI",
-      "nextStep": "Watch for Richard's fitness-user response and send lockbox/code to Thomas Cashion once confirmed.",
-      "priority": "high",
+      "nextStep": "Jacob to approve/send lead reply or respond directly.",
+      "priority": "medium",
       "contacts": [
         "Joe Wesley (wesleyjoe829@gmail.com, 213-872-0190)",
         "Jon Petty (Southeast Venture)",
@@ -13879,7 +13884,8 @@
         "David S. (Crexi lead; Crossville/Cumberland Square tenant)",
         "Richard Jones (World Realty)",
         "Thomas Cashion (Davis Moore Healthcare)",
-        "Thomas Cashion (Davis Moore Healthcare / Carolina Kidz Therapy)"
+        "Thomas Cashion (Davis Moore Healthcare / Carolina Kidz Therapy)",
+        "Rawn Turner (LoopNet lead)"
       ],
       "timeline": [
         {
@@ -13926,6 +13932,11 @@
           "date": "2026-05-19",
           "event": "Email from Kelsey Cornillie, Publisher: Global venue lands at Nashville Yards",
           "type": "email"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "LoopNet lead from Rawn Turner for McMinnville Plaza; draft reply loaded.",
+          "type": "lead"
         },
         {
           "date": "2026-05-18",
@@ -18678,8 +18689,8 @@
       "name": "HopeSmiles",
       "property": "HopeSmiles / Nashville",
       "type": "Tenant Rep",
-      "status": "Bill Adair and Maddison Sickels suggested 3040 Sidco as a potential HopeSmiles fit after touring Duke Drive and Creekside, citing office/training fit, direct suite access, ground-level plumbing/drainage, and proximity to their current location.",
-      "nextStep": "Jacob should decide whether to tour HopeSmiles at 3040 Sidco soon or pass/redirect based on size and fit.",
+      "status": "Bill Adair and Maddy Sickels suggested 3040 Sidco for HopeSmiles after seeing Duke Drive and Creekside, saying it may solve direct access, ground-level plumbing/drainage, training, and location needs; they are ready to tour soon.",
+      "nextStep": "Jacob to decide whether to have HopeSmiles tour 3040 Sidco / connect with Stream.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -18736,6 +18747,11 @@
         {
           "date": "2026-05-19",
           "event": "Bill Adair/Maddison Sickels proposed 3040 Sidco for HopeSmiles and asked if they can tour soon.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "Bill Adair/Maddy Sickels pitched 3040 Sidco as potential HopeSmiles fit and offered tour.",
           "type": "email"
         },
         {
@@ -22807,9 +22823,9 @@
       "id": "fireworks-stands",
       "name": "Fireworks Stands",
       "property": "Keystone fireworks leases",
-      "status": "Micah forwarded five completed 2026 Keystone fireworks lease agreements for Malone Big Lots, Forks of the River Sevierville, McMinnville Plaza, Dixie Village Gastonia, and Hickory Village Jackson, and asked Jacob to add them to the server and property Slack channels.",
+      "status": "Jeb Thompson said Keystone already submitted McMinnville permits and is checking with jurisdiction/site setup on whether spacing/operational requirements allow the tent despite the inherited prior fireworks agreement.",
       "stage": "Lease Signed",
-      "nextStep": "Upload completed lease PDFs to the server/property files and post them in the relevant property Slack channels; handle $500/property commission/property invoice treatment.",
+      "nextStep": "Wait for Jeb's permitting/site setup update while Jacob keeps McMinnville conflict visible.",
       "priority": "medium",
       "contacts": [
         "Keystone Fireworks",
@@ -22817,6 +22833,11 @@
         "Jeb Thompson (Keystone Novelties)"
       ],
       "timeline": [
+        {
+          "date": "2026-05-19",
+          "event": "Keystone replied on McMinnville fireworks conflict: permits submitted, checking jurisdiction/site setup constraints.",
+          "type": "email"
+        },
         {
           "date": "2026-05-16",
           "event": "Five completed Keystone fireworks leases received via DocuSign; Micah requested server upload and property-channel Slack posts.",
