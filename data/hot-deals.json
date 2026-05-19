@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T12:30:53.365553",
+  "lastUpdated": "2026-05-19T13:02:12.677035",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-19",
@@ -12914,9 +12914,9 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "New Crexi inquiry from Susan S. asking whether space is still available and price per square foot.",
+      "status": "Susan S. submitted a Crexi inquiry asking whether space is still available and what the price per square foot is.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Draft-only Crexi response awaiting Jacob approval; answer availability/pricing and ask for contact info plus use/SF needed.",
+      "nextStep": "Jacob needs to approve/send a Crexi reply asking what size space she needs and for her phone/email; include pricing guidance if Jacob wants to answer directly.",
       "priority": "medium",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
@@ -12975,6 +12975,11 @@
         {
           "date": "2026-05-19",
           "event": "Susan S. requested Pell City Marketplace availability and PSF pricing via Crexi.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "Crexi lead Susan S. asked if Pell City Marketplace space is available and requested price per square foot.",
           "type": "lead"
         },
         {
@@ -18666,10 +18671,10 @@
     {
       "id": "hopesmiles",
       "name": "HopeSmiles",
-      "property": "144 Wilson Pike Circle / Brentwood Commons",
+      "property": "HopeSmiles / Nashville",
       "type": "Tenant Rep",
-      "status": "Hope Smiles options advanced: Brandon Hoop sent 144 Wilson Pike Circle as-builts and offered tours later this week; Devin noted one group under lease review and another LOI expected, so timing is competitive. Mary Winston also followed up on Brentwood Commons and Jacob replied he would circle back with Hope Smiles.",
-      "nextStep": "Get Hope Smiles availability for a 144 Wilson Pike tour this week and decide whether Brentwood Commons should stay in the tour set.",
+      "status": "Bill Adair and Maddison Sickels suggested 3040 Sidco as a potential HopeSmiles fit after touring Duke Drive and Creekside, citing office/training fit, direct suite access, ground-level plumbing/drainage, and proximity to their current location.",
+      "nextStep": "Jacob should decide whether to tour HopeSmiles at 3040 Sidco soon or pass/redirect based on size and fit.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -18686,7 +18691,9 @@
         "Devin McClendon (NAI Nashville)",
         "Ben Claybaker (NAI Nashville)",
         "Brandon Hoop (NAI Nashville)",
-        "Mary Winston Cramer (JLL)"
+        "Mary Winston Cramer (JLL)",
+        "Maddison Sickels (Stream Realty)",
+        "Charlie Gibson (Stream Realty)"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-11",
@@ -18704,6 +18711,11 @@
         {
           "date": "2026-05-19",
           "event": "Email from Cisco Carter via Otter.ai: Meeting Summary for PCON | Dev Committee Meeting",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "Bill Adair/Maddison Sickels proposed 3040 Sidco for HopeSmiles and asked if they can tour soon.",
           "type": "email"
         },
         {
