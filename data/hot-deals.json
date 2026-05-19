@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T11:32:24.045445",
+  "lastUpdated": "2026-05-19T12:01:49.251117",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-19",
@@ -12914,10 +12914,10 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Physical Therapy/Home Health RFP prospect followed up asking for Anchor's proposal after Jacob said contractors were pricing the buildout.",
+      "status": "New Crexi inquiry from Susan S. asking whether space is still available and price per square foot.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob needs to get Lauri Fowler/ProStar a proposal response or interim update.",
-      "priority": "high",
+      "nextStep": "Draft-only Crexi response awaiting Jacob approval; answer availability/pricing and ask for contact info plus use/SF needed.",
+      "priority": "medium",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
         "David Cooke (Cooke Commercial) - david@cookecommercial.com - 214-274-8020",
@@ -12928,13 +12928,19 @@
         "Mitch (Pell City prospect contact)",
         "Tom Fidler (Drayer PT)",
         "Tom Fidler (MacKenzie Retail)",
-        "Tom Fidler (MacKenzie Retail / Drayer PT)"
+        "Tom Fidler (MacKenzie Retail / Drayer PT)",
+        "Susan S. (Crexi lead)"
       ],
       "timeline": [
         {
           "date": "2026-05-19",
           "event": "Email from Susan S.: Susan S. is requesting Information on Pell City Marketplace in Pell City",
           "type": "email"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "Susan S. requested Pell City Marketplace availability and PSF pricing via Crexi.",
+          "type": "lead"
         },
         {
           "date": "2026-05-18",
