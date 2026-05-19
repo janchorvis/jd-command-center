@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T13:02:12.677035",
+  "lastUpdated": "2026-05-19T13:31:04.484095",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-19",
@@ -8989,6 +8989,11 @@
       "nextStep": "Send comments to Ashby, get on the phone Wed/Thu/Fri, turn one more draft, and pressure the tenant to sign.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-19",
+          "event": "Email from Bisnow Elevate: Only 12 Rooms Left - Elevate Registration Closes at Sellout",
+          "type": "email"
+        },
         {
           "date": "2026-05-19",
           "event": "Email from Google Cloud: Online Event: Is Cloud Compute Costing You Too Much?",
@@ -18700,6 +18705,21 @@
       "timeline": [
         {
           "date": "2026-05-19",
+          "event": "Email from NASHtoday: Blue dot fever + a Super Bowl in Nashville?",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "Email from Kelsey Cornillie, Publisher: Global venue lands at Nashville Yards",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "Email from Eric Snyder, Editor in Chief: Breaking: Nashville awarded 2030 Super Bowl",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-19",
           "event": "Email from Adair, Bill: FW: 3040 Sidco",
           "type": "email"
         },
@@ -24794,7 +24814,7 @@
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Google Cloud: Online Event: Is Cloud Compute Costing You Too Much?",
+      "lastAction": "Email from Bisnow Elevate: Only 12 Rooms Left - Elevate Registration Closes at S",
       "urgency": "low"
     },
     {
@@ -25205,114 +25225,128 @@
     },
     {
       "name": "Amy Harper",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood Commons",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "lastAction": "Email from NASHtoday: Blue dot fever + a Super Bowl in Nashville?",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood Commons",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "lastAction": "Email from NASHtoday: Blue dot fever + a Super Bowl in Nashville?",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood Commons",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "lastAction": "Email from NASHtoday: Blue dot fever + a Super Bowl in Nashville?",
       "urgency": "low"
     },
     {
       "name": "Dr. Phillip Kemp",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood Commons",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "lastAction": "Email from NASHtoday: Blue dot fever + a Super Bowl in Nashville?",
       "urgency": "low"
     },
     {
       "name": "Dr. Kemp",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood Commons",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "lastAction": "Email from NASHtoday: Blue dot fever + a Super Bowl in Nashville?",
       "urgency": "low"
     },
     {
       "name": "Amy",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood Commons",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "lastAction": "Email from NASHtoday: Blue dot fever + a Super Bowl in Nashville?",
       "urgency": "low"
     },
     {
       "name": "Matty",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood Commons",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "lastAction": "Email from NASHtoday: Blue dot fever + a Super Bowl in Nashville?",
       "urgency": "low"
     },
     {
       "name": "Ashley Marshall",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood Commons",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "lastAction": "Email from NASHtoday: Blue dot fever + a Super Bowl in Nashville?",
       "urgency": "low"
     },
     {
       "name": "Bill Adair",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood Commons",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "lastAction": "Email from NASHtoday: Blue dot fever + a Super Bowl in Nashville?",
       "urgency": "low"
     },
     {
       "name": "Amy",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood Commons",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "lastAction": "Email from NASHtoday: Blue dot fever + a Super Bowl in Nashville?",
       "urgency": "low"
     },
     {
       "name": "Phillip Kemp",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood Commons",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "lastAction": "Email from NASHtoday: Blue dot fever + a Super Bowl in Nashville?",
       "urgency": "low"
     },
     {
       "name": "Ross Smith",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood Commons",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "lastAction": "Email from NASHtoday: Blue dot fever + a Super Bowl in Nashville?",
       "urgency": "low"
     },
     {
       "name": "Devin McClendon",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood Commons",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "lastAction": "Email from NASHtoday: Blue dot fever + a Super Bowl in Nashville?",
       "urgency": "low"
     },
     {
       "name": "Ben Claybaker",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood Commons",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "lastAction": "Email from NASHtoday: Blue dot fever + a Super Bowl in Nashville?",
       "urgency": "low"
     },
     {
       "name": "Brandon Hoop",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood Commons",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "lastAction": "Email from NASHtoday: Blue dot fever + a Super Bowl in Nashville?",
       "urgency": "low"
     },
     {
       "name": "Mary Winston Cramer",
-      "deal": "HopeSmiles — 144 Wilson Pike Circle / Brentwood Commons",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "lastAction": "Email from NASHtoday: Blue dot fever + a Super Bowl in Nashville?",
+      "urgency": "low"
+    },
+    {
+      "name": "Maddison Sickels",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NASHtoday: Blue dot fever + a Super Bowl in Nashville?",
+      "urgency": "low"
+    },
+    {
+      "name": "Charlie Gibson",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NASHtoday: Blue dot fever + a Super Bowl in Nashville?",
       "urgency": "low"
     },
     {
