@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T12:31:18.768896",
+  "lastUpdated": "2026-05-20T13:02:45.300664",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-20",
@@ -60,9 +60,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Marshalls Malone egress permit issue is awaiting city review after Josh Conroy resubmitted the package; Josh expects update in a day or two.",
+      "status": "Ashby returned suggested revisions and marginal comments/questions on Five Below lease for Jacob review/discussion.",
       "stage": "Lease Signed",
-      "nextStep": "Wait for Josh Conroy/city update on resubmitted egress package, then coordinate Clay/Robert response if comments remain.",
+      "nextStep": "Jacob to review Ashby's redline/comments and discuss when back in town.",
       "priority": "high",
       "timeline": [
         {
@@ -113,6 +113,11 @@
         {
           "date": "2026-05-20",
           "event": "Josh Conroy said Marshalls Malone egress package was resubmitted and he should know more in a day or two.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-20",
+          "event": "Ashby Scott returned suggested revisions and marginal comments/questions to Five Below Malone lease; requested Jacob review and discuss when back in town.",
           "type": "email"
         },
         {
@@ -1617,7 +1622,8 @@
         "Justin Jeror <justin.jeror@gmail.com>",
         "Micah Lacher <mlacher@anchorinv.com>",
         "Josh Conroy (Camburas Theodore)",
-        "Robert Richardson (TJX)"
+        "Robert Richardson (TJX)",
+        "Ashby Scott (Evans Petree)"
       ],
       "actions": [
         {
