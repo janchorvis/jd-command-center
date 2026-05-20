@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T09:30:42.085727",
+  "lastUpdated": "2026-05-20T10:03:15.678024",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-20",
@@ -60,9 +60,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Justin Jeror asked via Anchor rental form whether the space left of the new Marshalls is available after previously being told the former Big Lots adjacency was under discussion.",
+      "status": "Marshalls Malone egress permit issue is awaiting city review after Josh Conroy resubmitted the package; Josh expects update in a day or two.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob to confirm availability/details and respond; draft reply is loaded on Micah's forwarded thread.",
+      "nextStep": "Wait for Josh Conroy/city update on resubmitted egress package, then coordinate Clay/Robert response if comments remain.",
       "priority": "high",
       "timeline": [
         {
@@ -78,6 +78,11 @@
         {
           "date": "2026-05-20",
           "event": "Email from Andrew Roupas: Charlotte MSA Flex Portfolio --- 71K SF with Near-term Upside --- Available Indi",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-20",
+          "event": "Josh Conroy said Marshalls Malone egress package was resubmitted and he should know more in a day or two.",
           "type": "email"
         },
         {
@@ -1580,7 +1585,9 @@
         "Desiree Warren (Five Below)",
         "Dawn Baker (Five Below construction PM)",
         "Justin Jeror <justin.jeror@gmail.com>",
-        "Micah Lacher <mlacher@anchorinv.com>"
+        "Micah Lacher <mlacher@anchorinv.com>",
+        "Josh Conroy (Camburas Theodore)",
+        "Robert Richardson (TJX)"
       ],
       "actions": [
         {
@@ -23965,21 +23972,27 @@
       "id": "hibbett-the-columns",
       "name": "Hibbett / JD Sports / DTLR",
       "property": "The Columns - Jackson, TN",
-      "status": "Madison Idell confirmed Hibbett plans to open 30-40 locations this year after Jacob asked whether Hibbett is still expanding. Interest remains around a potential 5,000-7,500 SF opportunity, likely Uniform Source side if Anchor can create a path.",
+      "status": "Patrice M. Crexi lead asked for rental rate on 1032 Vann Dr; Jacob already replied 5/20 with $7-10 PSF range, caveat based on needed SF, and asked business type plus phone/email.",
       "stage": "Contact Made",
-      "nextStep": "Determine whether to continue pursuing Hibbett/JD Sports around Uniform Source timing/options and what rate/delivery posture to quote.",
+      "nextStep": "Wait for Patrice M. to provide business type, SF need, phone, and email.",
       "priority": "medium",
       "contacts": [
         "Madison Idell (Avison Young) - madison.idell@avisonyoung.com - 316-650-4193",
         "Madison Idell (Avison Young) - Hibbett/JD Sports/DTLR broker",
         "Madison Idell (Avison Young)",
-        "Brande Benson (Avison Young)"
+        "Brande Benson (Avison Young)",
+        "Patrice M. (Crexi lead)"
       ],
       "timeline": [
         {
           "date": "2026-05-20",
           "event": "Email from Patrice M.: Patrice M. is requesting Information on 1032 Vann Dr in Jackson",
           "type": "email"
+        },
+        {
+          "date": "2026-05-20",
+          "event": "Patrice M. Crexi lead asked rental rate on 1032 Vann Dr; Jacob replied with $7-10 PSF guidance and qualifying/contact questions.",
+          "type": "lead"
         },
         {
           "date": "2026-05-19",
