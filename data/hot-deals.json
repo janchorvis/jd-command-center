@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T10:30:27.234737",
+  "lastUpdated": "2026-05-20T11:03:10.035329",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-20",
@@ -10366,16 +10366,20 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "Ryan updated Malone proformas for bank submission with current bids, reduced contingency to $250K, used $30/SF TI for small shops, and included Jacob's Five Below rent/commission feedback. Micah called the economics painful and asked Ryan how Anchor can exit without losing $2M.",
+      "status": "Egress permit package resubmitted to city; Josh Conroy expects update in a day or two.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Micah/Ryan need exit/risk plan; Jacob should only weigh in if he disagrees with updated proforma assumptions or small-shop leasing posture.",
+      "nextStep": "Watch for city response / Josh Conroy update on Malone Marshalls egress permit package.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-05-20",
           "event": "Email from Robert Richardson: Permit Marshalls Malone NY",
           "type": "email"
+        },
+        {
+          "date": "2026-05-20",
+          "event": "Josh Conroy confirmed the Marshalls/Malone egress permit package was resubmitted to the city and said he should know more in a day or two."
         },
         {
           "date": "2026-05-19",
