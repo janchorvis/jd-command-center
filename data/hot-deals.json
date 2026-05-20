@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T07:32:21.016793",
+  "lastUpdated": "2026-05-20T08:02:46.377293",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-20",
@@ -23219,11 +23219,11 @@
     {
       "id": "fireworks-stands",
       "name": "Fireworks Stands",
-      "property": "Keystone fireworks leases",
-      "status": "Keystone has already submitted McMinnville permits and is checking with jurisdiction/site setup after Jacob disclosed an inherited prior fireworks agreement at McMinnville.",
+      "property": "McMinnville Plaza / fireworks tent sites",
+      "status": "Jeb Thompson replied that Keystone already submitted McMinnville permits and is checking jurisdiction/site setup constraints after Jacob flagged a possible inherited prior fireworks agreement.",
       "stage": "Lease Signed",
-      "nextStep": "Watch for Keystone's permitting/site setup update and resolve any McMinnville conflict.",
-      "priority": "medium",
+      "nextStep": "Wait for Keystone permitting/site setup update; continue DocuSign/exhibit path for active sites.",
+      "priority": "normal",
       "contacts": [
         "Keystone Fireworks",
         "Jeb Thompson",
@@ -23238,6 +23238,11 @@
         {
           "date": "2026-05-19",
           "event": "Jeb Thompson replied that Keystone already submitted McMinnville permits and will see what the jurisdiction allows given possible competing tent spacing/operational requirements.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-19",
+          "event": "Keystone said McMinnville permit already submitted and they will keep Jacob posted on spacing/operational constraints.",
           "type": "email"
         },
         {
