@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T13:30:41.269715",
+  "lastUpdated": "2026-05-20T14:01:50.532335",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-20",
@@ -23759,14 +23759,16 @@
     {
       "id": "america-thrift-icsc",
       "name": "America's Thrift Stores",
-      "property": "ICSC / Southeast acquisition targets",
-      "status": "America's Thrift Stores shared active requirements ahead of ICSC: 30,000-50,000 SF retail stores in Southeast markets plus 1,500-3,000 SF donation centers. Jacob forwarded to Carson/Ryan for acquisition ideas; Carson replied he will review past deals and may join the meeting.",
+      "property": "McMinnville / Gastonia / Columbia",
+      "status": "Micah flagged that America's Thrift might be interested in Columbia and said Jacob can send them the info. Existing follow-up also includes McMinnville and Gastonia opportunities.",
       "stage": "Contact Made",
-      "nextStep": "Carson/Ryan to send possible acquisition candidates or tag along to the ICSC meeting.",
-      "priority": "medium",
+      "nextStep": "Send America's Thrift Columbia info along with McMinnville and Gastonia opportunities.",
+      "priority": "high",
       "contacts": [
         "Juliana Fernandez (TSCG)",
-        "Carson Knight (Anchor)"
+        "Carson Knight (Anchor)",
+        "Micah Lacher",
+        "Ryan Romes"
       ],
       "timeline": [
         {
@@ -23782,6 +23784,11 @@
         {
           "date": "2026-05-20",
           "event": "Email from Carson West: Fundraising for Approved Grants",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-20",
+          "event": "Micah emailed Ryan/Jacob: America's Thrift might be interested in Columbia; Delk can send them the info.",
           "type": "email"
         },
         {
