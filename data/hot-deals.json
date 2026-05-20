@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T13:02:45.300664",
+  "lastUpdated": "2026-05-20T13:03:07.173292",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-20",
@@ -4269,9 +4269,9 @@
       "id": "gastonia-laundromat",
       "name": "Chad Vang - Laundromat",
       "property": "Gastonia - Dixie Village",
-      "status": "Chad Vang laundromat follow-up moved to a later calendar call because their other laundromat has taken longer than expected; no active chase until the scheduled circle-back.",
+      "status": "New LoopNet inquiry from Elie Najar; Gmail draft loaded asking business type and square footage.",
       "stage": "LOI",
-      "nextStep": "Jacob to review/send drafted LoopNet reply to Belky Rodriguez asking business type and square footage.",
+      "nextStep": "Wait for Jacob approval/send of draft reply, then qualify business type and SF need.",
       "priority": "low",
       "timeline": [
         {
@@ -4288,6 +4288,11 @@
           "date": "2026-05-20",
           "event": "Email from Jacob Delk: Fwd: Your ride with Christine Joy on May 19",
           "type": "email"
+        },
+        {
+          "date": "2026-05-20",
+          "event": "LoopNet lead from Elie Najar (904-666-8564, elienajar123@gmail.com) for Dixie Village. Gmail draft r6716283290041123376 loaded on thread 19e46881eb19741a asking business type and square footage.",
+          "type": "lead"
         },
         {
           "date": "2026-05-19",
@@ -4717,7 +4722,8 @@
       "contacts": [
         "Chad Vang",
         "Chad Vang (Laundromat)",
-        "Belky Rodriguez — 704-605-9280 — mibella1988@gmail.com"
+        "Belky Rodriguez — 704-605-9280 — mibella1988@gmail.com",
+        "Elie Najar (904-666-8564, elienajar123@gmail.com)"
       ],
       "actions": [
         {
