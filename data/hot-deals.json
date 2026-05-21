@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T07:32:04.340617",
+  "lastUpdated": "2026-05-21T08:03:00.235680",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-21",
@@ -4280,7 +4280,7 @@
       "id": "gastonia-laundromat",
       "name": "Chad Vang - Laundromat",
       "property": "Gastonia - Dixie Village",
-      "status": "New LoopNet inquiry from Elie Najar; Gmail draft loaded asking business type and square footage.",
+      "status": "New Crexi inquiry from David W. asking for information about the two endcap spaces at Dixie Village; Gmail draft loaded asking business type, square footage, phone, and email.",
       "stage": "LOI",
       "nextStep": "Wait for Jacob approval/send of draft reply, then qualify business type and SF need.",
       "priority": "low",
@@ -4289,6 +4289,11 @@
           "date": "2026-05-21",
           "event": "Email from David W.: David W. is requesting Information on Dixie Village in Gastonia",
           "type": "email"
+        },
+        {
+          "date": "2026-05-21",
+          "event": "Crexi lead from David W. for Dixie Village in Gastonia asking for information about the two endcap spaces. Gmail draft r2942691347587394298 loaded on thread 19e491fc5249c0dd asking business type, square footage, phone, and email.",
+          "type": "lead"
         },
         {
           "date": "2026-05-20",
@@ -4744,7 +4749,8 @@
         "Chad Vang",
         "Chad Vang (Laundromat)",
         "Belky Rodriguez — 704-605-9280 — mibella1988@gmail.com",
-        "Elie Najar (904-666-8564, elienajar123@gmail.com)"
+        "Elie Najar (904-666-8564, elienajar123@gmail.com)",
+        "David W. (Crexi lead)"
       ],
       "actions": [
         {
