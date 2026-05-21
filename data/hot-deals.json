@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T11:02:56.940893",
+  "lastUpdated": "2026-05-21T11:03:37.854411",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-21",
@@ -14111,10 +14111,10 @@
     {
       "id": "evansville",
       "name": "",
-      "property": "Evansville / Big Lots - S Green River Rd",
-      "status": "Easterseals/Rob Henson replied that they are touring the Big Lots box again with a contractor at 2:30 PM CST and will update afterward.",
+      "property": "Hamilton, OH",
+      "status": "GMX sent title/inspection-period requirements for the Dutch Bros outparcel sale: recorded Subway and AutoZone instruments removing/limiting subject property from shopping-center encumbrances, Subway consent/estoppel or seller indemnity for no-build/prohibited uses, AutoZone confirmation that Dutch Bros/signage do not impair AutoZone signage, Family Dollar memorandum termination, and inspection-period extension until first business day after executed documents are provided.",
       "stage": "Lease Signed",
-      "nextStep": "Wait for Rob Henson's post-contractor-tour update; be ready to respond quickly on sale/lease path.",
+      "nextStep": "Resolve title/lease encumbrance documents or inspection period will need extension.",
       "priority": "high",
       "contacts": [
         "Carmen Drake (Bellacino's Pizza & Grinders / Runnebohm Realty)",
@@ -14123,9 +14123,7 @@
         "Carmine DiLucente (CBRE)",
         "Stan Bobowski (GMX)",
         "Paul Takacs (GMX)",
-        "Andrew Goodman (GMX)",
-        "Rob Henson - Easterseals - 812-202-9384",
-        "Laurie Seals - Easterseals"
+        "Andrew Goodman (GMX)"
       ],
       "timeline": [
         {
@@ -14146,11 +14144,6 @@
         {
           "date": "2026-05-21",
           "event": "Email from Jacob Delk: Gallatin Broker Leasing Commissions",
-          "type": "email"
-        },
-        {
-          "date": "2026-05-21",
-          "event": "Rob Henson said Easterseals is touring Evansville Big Lots again with a contractor at 2:30 PM CST.",
           "type": "email"
         },
         {
@@ -16602,10 +16595,15 @@
       "id": "evansville-easterseals",
       "tenant": "Easterseals Rehabilitation",
       "property": "Evansville",
-      "status": "Still waiting on Laurie/CEO feedback; meeting was cancelled due CEO schedule/DC travel. Meeting guidance: follow up and communicate another interested party while keeping tone fair and transparent.",
-      "nextStep": "Ping Laurie for update and ask for CEO feedback within 10-14 days because another interested party is active.",
+      "status": "Easterseals/Rob Henson replied that they are touring the Big Lots box again with a contractor at 2:30 PM CST and will update afterward.",
+      "nextStep": "Wait for Rob Henson's post-contractor-tour update; be ready to respond quickly on sale/lease path.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-21",
+          "event": "Rob Henson said Easterseals is touring Evansville Big Lots again with a contractor at 2:30 PM CST.",
+          "type": "email"
+        },
         {
           "date": "2026-05-13",
           "event": "Email from Laurie Seals: Automatic reply: Big Lots - S Green River Rd",
@@ -16667,7 +16665,9 @@
         "vacantCount": 0
       },
       "contacts": [
-        "Laurie (Easterseals)"
+        "Laurie (Easterseals)",
+        "Rob Henson - Easterseals - 812-202-9384",
+        "Laurie Seals - Easterseals"
       ]
     },
     {
