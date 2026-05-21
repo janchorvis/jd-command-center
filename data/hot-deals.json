@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T15:30:33.973768",
+  "lastUpdated": "2026-05-21T16:30:33.789638",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-21",
@@ -4375,6 +4375,11 @@
       "nextStep": "Draft/approve Crexi response asking for best phone/email and clarifying which end spaces/use/SF he is considering.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-21",
+          "event": "Email from Bisnow Educational Workshops: 6 Spots Remaining: AI in Capital Raising Virtual Workshop May 27",
+          "type": "email"
+        },
         {
           "date": "2026-05-21",
           "event": "Email from Dairia Cowans: Open?",
@@ -9573,6 +9578,11 @@
       "nextStep": "Send comments to Ashby, get on the phone Wed/Thu/Fri, turn one more draft, and pressure the tenant to sign.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-21",
+          "event": "Email from Bisnow Educational Workshops: 6 Spots Remaining: AI in Capital Raising Virtual Workshop May 27",
+          "type": "email"
+        },
         {
           "date": "2026-05-21",
           "event": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
@@ -18610,6 +18620,11 @@
       "timeline": [
         {
           "date": "2026-05-21",
+          "event": "Email from Bisnow Educational Workshops: 6 Spots Remaining: AI in Capital Raising Virtual Workshop May 27",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-21",
           "event": "Email from Joey Valenti: Hendersonville",
           "type": "email"
         },
@@ -24413,6 +24428,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-21",
+          "event": "Email from Bisnow Educational Workshops: 6 Spots Remaining: AI in Capital Raising Virtual Workshop May 27",
+          "type": "email"
+        },
+        {
           "date": "2026-05-20",
           "event": "Email from CoStar News: CoStar Today: Hackman Capital pushes LA pricing with Amazon-anchored ‘bull's-eye",
           "type": "email"
@@ -25997,13 +26017,6 @@
       "urgency": "low"
     },
     {
-      "name": "Pesach Gewirtz",
-      "deal": "Infinite Equity Capital - 730 — 730",
-      "daysSinceContact": 1,
-      "lastAction": "Email from CoStar News: CoStar Today: Hackman Capital pushes LA pricing with Ama",
-      "urgency": "low"
-    },
-    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
@@ -26203,42 +26216,42 @@
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Dairia Cowans: Open?",
+      "lastAction": "Email from Bisnow Educational Workshops: 6 Spots Remaining: AI in Capital Raisin",
       "urgency": "low"
     },
     {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Dairia Cowans: Open?",
+      "lastAction": "Email from Bisnow Educational Workshops: 6 Spots Remaining: AI in Capital Raisin",
       "urgency": "low"
     },
     {
       "name": "Belky Rodriguez — 704-605-9280 — mibella1988@gmail.com",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Dairia Cowans: Open?",
+      "lastAction": "Email from Bisnow Educational Workshops: 6 Spots Remaining: AI in Capital Raisin",
       "urgency": "low"
     },
     {
       "name": "Elie Najar",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Dairia Cowans: Open?",
+      "lastAction": "Email from Bisnow Educational Workshops: 6 Spots Remaining: AI in Capital Raisin",
       "urgency": "low"
     },
     {
       "name": "David W.",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Dairia Cowans: Open?",
+      "lastAction": "Email from Bisnow Educational Workshops: 6 Spots Remaining: AI in Capital Raisin",
       "urgency": "low"
     },
     {
       "name": "David W. - Crexi inquiry",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Dairia Cowans: Open?",
+      "lastAction": "Email from Bisnow Educational Workshops: 6 Spots Remaining: AI in Capital Raisin",
       "urgency": "low"
     },
     {
@@ -26420,7 +26433,7 @@
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "lastAction": "Email from Bisnow Educational Workshops: 6 Spots Remaining: AI in Capital Raisin",
       "urgency": "low"
     },
     {
@@ -26889,7 +26902,7 @@
       "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
       "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: Hendersonville",
+      "lastAction": "Email from Bisnow Educational Workshops: 6 Spots Remaining: AI in Capital Raisin",
       "urgency": "low"
     },
     {
@@ -27128,6 +27141,13 @@
       "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
       "daysSinceContact": 0,
       "lastAction": "Email from Rawn Turner: LoopNet Lead for Mcminnville Plaza",
+      "urgency": "low"
+    },
+    {
+      "name": "Pesach Gewirtz",
+      "deal": "Infinite Equity Capital - 730 — 730",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Bisnow Educational Workshops: 6 Spots Remaining: AI in Capital Raisin",
       "urgency": "low"
     },
     {
