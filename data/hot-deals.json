@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T14:31:55.231489",
+  "lastUpdated": "2026-05-21T15:03:00.674010",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-21",
@@ -14779,10 +14779,10 @@
     {
       "id": "mcminnville-plaza",
       "name": "",
-      "property": "McMinnville Plaza Shopping Center",
-      "status": "New LoopNet lead from Rawn Turner came in 5/19 asking about McMinnville Plaza; reply draft loaded asking business type and SF need.",
+      "property": "McMinnville Plaza",
+      "status": "Valor Healthcare/VA clinic lead is looking for about 700 SF for a behavioral health office; they already operate the VA clinic at Three Star Mall and do not expect expansion needs.",
       "stage": "LOI",
-      "nextStep": "Jacob to approve/send lead reply or respond directly.",
+      "nextStep": "Jacob to direct Rawn Turner toward the best ~700 SF suite options.",
       "priority": "medium",
       "contacts": [
         "Joe Wesley (wesleyjoe829@gmail.com, 213-872-0190)",
@@ -14794,7 +14794,8 @@
         "Richard Jones (World Realty)",
         "Thomas Cashion (Davis Moore Healthcare)",
         "Thomas Cashion (Davis Moore Healthcare / Carolina Kidz Therapy)",
-        "Rawn Turner (LoopNet lead)"
+        "Rawn Turner (LoopNet lead)",
+        "Rawn Turner (Valor Healthcare Real Estate & Facilities Program Director) - rawn.turner@valorhealthcare.com - 972.435.4808"
       ],
       "timeline": [
         {
@@ -14856,6 +14857,11 @@
           "date": "2026-05-21",
           "event": "Email from Kelsey Cornillie, Publisher: Mayor's vision for hosting a Super Bowl on the East Bank",
           "type": "email"
+        },
+        {
+          "date": "2026-05-21",
+          "event": "Rawn Turner/Valor Healthcare replied to LoopNet follow-up: needs ~700 SF behavioral health office; no expected expansion need.",
+          "type": "lead"
         },
         {
           "date": "2026-05-20",
