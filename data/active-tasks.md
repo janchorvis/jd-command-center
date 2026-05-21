@@ -1,8 +1,8 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-05-19 9:00 PM CDT
+Last updated: 2026-05-20 6:00 PM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T190 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T193 -->
 
 ## ACTIVE — Jacob needs to do these
 
@@ -77,6 +77,9 @@ Last updated: 2026-05-19 9:00 PM CDT
 - T187: Yazan Alnahar / Dixie Village LoopNet lead — Gmail draft reply loaded for Jacob approval; prospect needs 4,000-6,000 SF and provided phone/email, so draft asks business type only. Marked unread for visibility. Do not send unless Jacob approves. [gmail thread: 19e42c2bee14711c] [draft: r5633604827775495175] [source: Communication Triage after-hours 2026-05-19] [deal: Dixie Village Shopping Center]
 - T188: Rawn Turner / McMinnville Plaza LoopNet lead — Gmail draft reply loaded for Jacob approval; prospect reached out through LoopNet and draft asks business + square footage. Marked unread for visibility. Do not send unless Jacob approves. [gmail thread: 19e4181866e58281] [draft: r3090839620478527167] [source: Communication Triage after-hours 2026-05-19] [deal: McMinnville Plaza]
 - T189: Susan S. / Pell City Marketplace Crexi lead — Gmail draft reply loaded for Jacob approval; prospect asked if space is available and price PSF, and draft confirms availability while asking for contact info, business type, and SF needed. Marked unread for visibility. Do not send unless Jacob approves. [gmail thread: 19e410344558b02b] [draft: r8967868522172729769] [source: Communication Triage after-hours 2026-05-19] [deal: Pell City Marketplace]
+- T190: Reach out to Emily S about McMinnville tenant prospects, specifically Bath & Body Works. Added to 5/21 ICSC post-show reminder. [source: Discord 2026-05-20] [deal: McMinnville Plaza / Bath & Body Works]
+- T191: Reach out to David Baker about Bealls for McMinnville. Added to 5/21 ICSC post-show reminder. [source: Discord 2026-05-20] [deal: McMinnville Plaza / Bealls]
+- T192: Send America's Thrift McMinnville, Gastonia, and Columbia opportunities. Added to 5/21 ICSC post-show reminder. [source: Discord 2026-05-20] [deal: America's Thrift / McMinnville / Gastonia / Columbia]
 
 
 ### Next Week+
@@ -94,7 +97,7 @@ Last updated: 2026-05-19 9:00 PM CDT
 
 Note: WATCHING items should be removed once real movement comes in. Gastonia laundromat was removed on 4/10 after a fresh DocuSign reminder signaled movement. Pell City was removed earlier on 4/10 after fresh email movement from Factory Connection. McMinnville monument sign was removed on 4/14 after Clay sent fresh Slack PDFs/comments for review. ABC Russellville was removed on 4/27 after Clay asked whether to commission the ABC work; it is now active as T122. Crunch Fitness and McMinnville landscaping were removed from WATCHING on 5/5 and promoted to active follow-up tasks T152/T146. T137 Academy/Shelbyville started 5/4 and was flagged stale on 5/12 for the next morning briefing.
 
-- T137: Academy Sports / Shelbyville — watch for response after Jacob sends pitch for former Big Lots box at 1840 E Michigan Rd; if no response, follow up with Brian Ferguson / Academy real estate contact. Proof points: ~30 miles from Indianapolis, ~25-30 min from Greenwood Academy store, 40K SF box, E Michigan Rd retail corridor, Academy outside-in exurb/satellite strategy. [source: Jacob 5/4; deal: Shelbyville] [stale-watch 5/13: 9 days with no movement; queued for 5/14 morning briefing; still quiet in 5/15, 5/18, and 5/19 checks; keep visible in next briefing if no movement]
+- T137: Academy Sports / Shelbyville — watch for response after Jacob sends pitch for former Big Lots box at 1840 E Michigan Rd; if no response, follow up with Brian Ferguson / Academy real estate contact. Proof points: ~30 miles from Indianapolis, ~25-30 min from Greenwood Academy store, 40K SF box, E Michigan Rd retail corridor, Academy outside-in exurb/satellite strategy. [source: Jacob 5/4; deal: Shelbyville] [stale-watch 5/13: 9 days with no movement; queued for 5/14 morning briefing; still quiet in 5/15, 5/18, 5/19, and 5/20 checks; keep visible in next briefing if no movement]
 
 ## COMPLETED — Recent (auto-cleaned after 7 days)
 
