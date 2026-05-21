@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T16:30:33.789638",
+  "lastUpdated": "2026-05-21T17:09:41.602007",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-21",
@@ -13639,7 +13639,7 @@
       "property": "Pell City Marketplace",
       "status": "Crexi lead Susan Swindal replied with contact info for Mama Suz Fried Pies, phone 205-567-9667, email Mamasuzfriedpies@gmail.com, and current 2,500-2,700 SF footprint after Jacob asked for contact info/business/SF.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob to follow up with pricing/availability posture for Pell City space and confirm whether Mama Suz Fried Pies fits the center.",
+      "nextStep": "Await Susan Swindal's reply on whether 2,500 SF works and what kitchen infrastructure Mama Suz Fried Pies needs.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
@@ -13653,7 +13653,8 @@
         "Tom Fidler (MacKenzie Retail)",
         "Tom Fidler (MacKenzie Retail / Drayer PT)",
         "Susan S. (Crexi lead)",
-        "Susan Swindal / Mama Suz Fried Pies - Mamasuzfriedpies@gmail.com - 205-567-9667"
+        "Susan Swindal / Mama Suz Fried Pies - Mamasuzfriedpies@gmail.com - 205-567-9667",
+        "Susan Swindal / Mama Suz Fried Pies (Mamasuzfriedpies@gmail.com, 205-567-9667)"
       ],
       "timeline": [
         {
@@ -13715,6 +13716,10 @@
           "date": "2026-05-21",
           "event": "Susan Swindal / Mama Suz Fried Pies replied to Pell City Crexi thread with contact info and 2,500-2,700 SF need.",
           "type": "lead"
+        },
+        {
+          "date": "2026-05-21",
+          "event": "Susan Swindal / Mama Suz Fried Pies provided contact info and said they need 2,500-2,700 SF; Jacob followed up on 2,500 SF and kitchen infrastructure."
         },
         {
           "date": "2026-05-20",
@@ -14797,7 +14802,7 @@
       "property": "McMinnville Plaza",
       "status": "Valor Healthcare/VA clinic lead is looking for about 700 SF for a behavioral health office; they already operate the VA clinic at Three Star Mall and do not expect expansion needs.",
       "stage": "LOI",
-      "nextStep": "Jacob to direct Rawn Turner toward the best ~700 SF suite options.",
+      "nextStep": "Review options and follow up with Rawn Turner / Valor Healthcare if a suitable fit exists; Rawn says he does not expect to need additional space.",
       "priority": "medium",
       "contacts": [
         "Joe Wesley (wesleyjoe829@gmail.com, 213-872-0190)",
@@ -14810,7 +14815,8 @@
         "Thomas Cashion (Davis Moore Healthcare)",
         "Thomas Cashion (Davis Moore Healthcare / Carolina Kidz Therapy)",
         "Rawn Turner (LoopNet lead)",
-        "Rawn Turner (Valor Healthcare Real Estate & Facilities Program Director) - rawn.turner@valorhealthcare.com - 972.435.4808"
+        "Rawn Turner (Valor Healthcare Real Estate & Facilities Program Director) - rawn.turner@valorhealthcare.com - 972.435.4808",
+        "Rawn Turner / Valor Healthcare"
       ],
       "timeline": [
         {
@@ -14877,6 +14883,10 @@
           "date": "2026-05-21",
           "event": "Rawn Turner/Valor Healthcare replied to LoopNet follow-up: needs ~700 SF behavioral health office; no expected expansion need.",
           "type": "lead"
+        },
+        {
+          "date": "2026-05-21",
+          "event": "Rawn Turner / Valor Healthcare confirmed he does not expect to need additional space; Jacob said he would review options and get back with him."
         },
         {
           "date": "2026-05-20",
@@ -16837,7 +16847,7 @@
       "tenant": "Easterseals Rehabilitation",
       "property": "Evansville",
       "status": "Easterseals/Rob Henson replied that they are touring the Big Lots box again with a contractor at 2:30 PM CST and will update afterward.",
-      "nextStep": "Wait for Rob Henson's post-contractor-tour update; be ready to respond quickly on sale/lease path.",
+      "nextStep": "Provide building drawings showing pillar placement to Rob/Easterseals after positive site visit.",
       "priority": "high",
       "timeline": [
         {
@@ -16849,6 +16859,10 @@
           "date": "2026-05-21",
           "event": "Rob Henson said Easterseals is touring Evansville Big Lots again with a contractor at 2:30 PM CST.",
           "type": "email"
+        },
+        {
+          "date": "2026-05-21",
+          "event": "Rob/Easterseals reported a good site visit and asked for building drawings showing pillar placement."
         },
         {
           "date": "2026-05-13",
@@ -20042,7 +20056,7 @@
       "property": "HopeSmiles / Nashville",
       "type": "Tenant Rep",
       "status": "JLL/Stream surfaced 3040 Sidco as a possible HopeSmiles fit after Duke Drive and Creekside tours; Stream says direct suite access plus plumbing/drainage needs may be solvable and asked to tour soon.",
-      "nextStep": "Jacob to decide whether to have HopeSmiles tour 3040 Sidco / connect with Stream.",
+      "nextStep": "Await landlord review/response on 144 Wilson Pike package.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -20066,6 +20080,10 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-05-21",
+          "event": "Jacob sent LOI, commission agreement, and Hope Smiles financial overview/pro forma for 144 Wilson Pike landlord review."
+        },
         {
           "date": "2026-05-20",
           "event": "Email from Adair, Bill: FW: 3040 Sidco",
