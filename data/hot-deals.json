@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-05-22T14:30:32.591241",
+  "lastUpdated": "2026-05-22T15:02:24.283244",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/18/26",
   "today": {
     "date": "2026-05-22",
-    "greeting": "Good morning, Jacob. You have 17 overdue items.",
+    "greeting": "Good afternoon, Jacob. You have 17 overdue items.",
     "meetings": [
       {
         "time": "12:00 AM",
@@ -39,6 +39,16 @@
         "time": "12:00 PM",
         "title": "Weekly Report - Fill out by 12 on Fridays",
         "dealContext": null
+      },
+      {
+        "time": "3:00 PM",
+        "title": "generosity charities",
+        "dealContext": null
+      },
+      {
+        "time": "3:30 PM",
+        "title": "commissions",
+        "dealContext": null
       }
     ],
     "priorities": [
@@ -49,10 +59,7 @@
       "Add in new Rocks (overdue — due 2026-05-19)",
       "PCON feedback: Zack Hubiak (overdue — due 2026-05-15)",
       "PCON feedback: Sean Spafford (overdue — due 2026-05-15)",
-      "PCON feedback: Griffin Hodge (overdue — due 2026-04-02)",
-      "Five Below/Malone lease review and Ashby comments are calendar-blocked today; focus on EC markup/legal-business issue matrix.",
-      "ICSC post-show follow-up queue is live: America's Thrift, Sally Beauty/Cosmo, Domino's/Malone, Emily S/Bath & Body Works, David Baker/Bealls.",
-      "No unanswered human Slack DMs overnight; Google Calendar bot only."
+      "PCON feedback: Griffin Hodge (overdue — due 2026-04-02)"
     ]
   },
   "pipelineDeals": [
@@ -65982,7 +65989,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-05-22T07:32:43",
+    "generatedAt": "2026-05-22T15:02:24",
     "source": "morning-briefing",
     "yourPlate": [
       {
@@ -66691,7 +66698,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-05-22T07:32:43",
+    "generatedAt": "2026-05-22T15:02:24",
     "source": "morning-briefing",
     "items": [
       {
