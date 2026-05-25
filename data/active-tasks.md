@@ -1,6 +1,6 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-05-21 7:08 PM CDT
+Last updated: 2026-05-22 6:00 PM CDT
 
 <!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T194 -->
 
@@ -98,7 +98,7 @@ Last updated: 2026-05-21 7:08 PM CDT
 
 Note: WATCHING items should be removed once real movement comes in. Gastonia laundromat was removed on 4/10 after a fresh DocuSign reminder signaled movement. Pell City was removed earlier on 4/10 after fresh email movement from Factory Connection. McMinnville monument sign was removed on 4/14 after Clay sent fresh Slack PDFs/comments for review. ABC Russellville was removed on 4/27 after Clay asked whether to commission the ABC work; it is now active as T122. Crunch Fitness and McMinnville landscaping were removed from WATCHING on 5/5 and promoted to active follow-up tasks T152/T146. T137 Academy/Shelbyville started 5/4 and was flagged stale on 5/12 for the next morning briefing.
 
-- T137: Academy Sports / Shelbyville — watch for response after Jacob sends pitch for former Big Lots box at 1840 E Michigan Rd; if no response, follow up with Brian Ferguson / Academy real estate contact. Proof points: ~30 miles from Indianapolis, ~25-30 min from Greenwood Academy store, 40K SF box, E Michigan Rd retail corridor, Academy outside-in exurb/satellite strategy. [source: Jacob 5/4; deal: Shelbyville] [stale-watch 5/13: 9 days with no movement; queued for 5/14 morning briefing; still quiet in 5/15, 5/18, 5/19, 5/20 checks and 5/21 AM sweep; keep visible in next briefing if no movement]
+- T137: Academy Sports / Shelbyville — watch for response after Jacob sends pitch for former Big Lots box at 1840 E Michigan Rd; if no response, follow up with Brian Ferguson / Academy real estate contact. Proof points: ~30 miles from Indianapolis, ~25-30 min from Greenwood Academy store, 40K SF box, E Michigan Rd retail corridor, Academy outside-in exurb/satellite strategy. [source: Jacob 5/4; deal: Shelbyville] [stale-watch 5/13: 9 days with no movement; queued for 5/14 morning briefing; still quiet in 5/15, 5/18, 5/19, 5/20 checks, 5/21 AM sweep, and 5/22 triage/self-review; keep visible in next briefing if no movement]
 
 ## COMPLETED — Recent (auto-cleaned after 7 days)
 
