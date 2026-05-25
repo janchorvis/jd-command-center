@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T13:30:43.072132",
+  "lastUpdated": "2026-05-25T14:30:44.374282",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/25/26",
   "today": {
     "date": "2026-05-25",
@@ -52,6 +52,11 @@
       "nextStep": "Jacob to review Ashby's redline/comments and discuss when back in town.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-25",
+          "event": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+          "type": "email"
+        },
         {
           "date": "2026-05-22",
           "event": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
@@ -4493,6 +4498,11 @@
       "timeline": [
         {
           "date": "2026-05-25",
+          "event": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-25",
           "event": "Email from Substack: Packy McCormick and David Senra posted new notes",
           "type": "email"
         },
@@ -7657,6 +7667,11 @@
       "nextStep": "Wait for David S. to provide contact info/tour availability.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-25",
+          "event": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+          "type": "email"
+        },
         {
           "date": "2026-05-25",
           "event": "Email from Substack: Packy McCormick and David Senra posted new notes",
@@ -14020,6 +14035,11 @@
       "timeline": [
         {
           "date": "2026-05-25",
+          "event": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-25",
           "event": "Email from Substack: Packy McCormick and David Senra posted new notes",
           "type": "email"
         },
@@ -19288,6 +19308,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-25",
+          "event": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+          "type": "email"
+        },
+        {
           "date": "2026-05-22",
           "event": "Email from Chris Brophy: Quarterly Partnership Update - Summer 2026",
           "type": "email"
@@ -20215,6 +20240,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-25",
+          "event": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+          "type": "email"
+        },
+        {
           "date": "2026-05-22",
           "event": "Email from Chris Brophy: Quarterly Partnership Update - Summer 2026",
           "type": "email"
@@ -20750,6 +20780,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-05-25",
+          "event": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+          "type": "email"
+        },
         {
           "date": "2026-05-22",
           "event": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
@@ -21567,6 +21602,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-05-25",
+          "event": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+          "type": "email"
+        },
         {
           "date": "2026-05-22",
           "event": "Email from Carly Zimmerman: Join Us for Coworking Day on May 28th",
@@ -26841,167 +26881,6 @@
     },
     {
       "name": "Paul",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Joseph Landry",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Vayda Good",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Desiree Warren",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Brian Connell",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Desiree Warren",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Brian Connell",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Manuel Veliz",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Manuel Veliz",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Tim Carlo",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Frank Soranno",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Ryan Romes",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Desiree Warren",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Dawn Baker",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Justin Jeror <justin.jeror@gmail.com>",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher <mlacher@anchorinv.com>",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Josh Conroy",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Robert Richardson",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 3,
       "lastAction": "Email from Turner, Rawn: RE: LoopNet Lead for McMinnville Plaza",
@@ -27421,258 +27300,6 @@
       "urgency": "low"
     },
     {
-      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
-      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Chris Brophy: Quarterly Partnership Update - Summer 2026",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Chris Brophy: Quarterly Partnership Update - Summer 2026",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Chris Brophy: Quarterly Partnership Update - Summer 2026",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Chris Brophy: Quarterly Partnership Update - Summer 2026",
-      "urgency": "low"
-    },
-    {
-      "name": "Bob McAuliff",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Chris Brophy: Quarterly Partnership Update - Summer 2026",
-      "urgency": "low"
-    },
-    {
-      "name": "Bob McAuliff",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Chris Brophy: Quarterly Partnership Update - Summer 2026",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Chris Brophy: Quarterly Partnership Update - Summer 2026",
-      "urgency": "low"
-    },
-    {
-      "name": "Lisa Sweeney",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Chris Brophy: Quarterly Partnership Update - Summer 2026",
-      "urgency": "low"
-    },
-    {
-      "name": "Wm. Coey Vierling <oinkysurveying@gmail.com>",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Chris Brophy: Quarterly Partnership Update - Summer 2026",
-      "urgency": "low"
-    },
-    {
-      "name": "Bob McAuliff <BMcAuliff@taftlaw.com>",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Chris Brophy: Quarterly Partnership Update - Summer 2026",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott <ascott@evanspetree.com>",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Chris Brophy: Quarterly Partnership Update - Summer 2026",
-      "urgency": "low"
-    },
-    {
-      "name": "Stan Bobowski",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Chris Brophy: Quarterly Partnership Update - Summer 2026",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Chris Brophy: Quarterly Partnership Update - Summer 2026",
-      "urgency": "low"
-    },
-    {
-      "name": "Stan Bobowski",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Chris Brophy: Quarterly Partnership Update - Summer 2026",
-      "urgency": "low"
-    },
-    {
-      "name": "Karen D'Antonio",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Chris Brophy: Quarterly Partnership Update - Summer 2026",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — HopeSmiles / Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
-      "urgency": "low"
-    },
-    {
-      "name": "Shelby Hall",
-      "deal": "HopeSmiles — HopeSmiles / Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — HopeSmiles / Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Phillip Kemp",
-      "deal": "HopeSmiles — HopeSmiles / Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Kemp",
-      "deal": "HopeSmiles — HopeSmiles / Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy",
-      "deal": "HopeSmiles — HopeSmiles / Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
-      "urgency": "low"
-    },
-    {
-      "name": "Matty",
-      "deal": "HopeSmiles — HopeSmiles / Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashley Marshall",
-      "deal": "HopeSmiles — HopeSmiles / Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
-      "urgency": "low"
-    },
-    {
-      "name": "Bill Adair",
-      "deal": "HopeSmiles — HopeSmiles / Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy",
-      "deal": "HopeSmiles — HopeSmiles / Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
-      "urgency": "low"
-    },
-    {
-      "name": "Phillip Kemp",
-      "deal": "HopeSmiles — HopeSmiles / Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
-      "urgency": "low"
-    },
-    {
-      "name": "Ross Smith",
-      "deal": "HopeSmiles — HopeSmiles / Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
-      "urgency": "low"
-    },
-    {
-      "name": "Devin McClendon",
-      "deal": "HopeSmiles — HopeSmiles / Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
-      "urgency": "low"
-    },
-    {
-      "name": "Ben Claybaker",
-      "deal": "HopeSmiles — HopeSmiles / Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
-      "urgency": "low"
-    },
-    {
-      "name": "Brandon Hoop",
-      "deal": "HopeSmiles — HopeSmiles / Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
-      "urgency": "low"
-    },
-    {
-      "name": "Mary Winston Cramer",
-      "deal": "HopeSmiles — HopeSmiles / Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
-      "urgency": "low"
-    },
-    {
-      "name": "Maddison Sickels",
-      "deal": "HopeSmiles — HopeSmiles / Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
-      "urgency": "low"
-    },
-    {
-      "name": "Charlie Gibson",
-      "deal": "HopeSmiles — HopeSmiles / Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
-      "urgency": "low"
-    },
-    {
-      "name": "Julie Robbins",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Carly Zimmerman: Join Us for Coworking Day on May 28th",
-      "urgency": "low"
-    },
-    {
-      "name": "Michael Dunn",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Carly Zimmerman: Join Us for Coworking Day on May 28th",
-      "urgency": "low"
-    },
-    {
-      "name": "Cole @ DR Horton",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Carly Zimmerman: Join Us for Coworking Day on May 28th",
-      "urgency": "low"
-    },
-    {
       "name": "Keystone Fireworks",
       "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
       "daysSinceContact": 3,
@@ -27939,213 +27566,374 @@
       "urgency": "low"
     },
     {
-      "name": "Chad Vang",
-      "deal": "Chad Vang - Laundromat — Dixie Village",
+      "name": "Paul",
+      "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Joseph Landry",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Vayda Good",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Desiree Warren",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Brian Connell",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Desiree Warren",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Brian Connell",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Manuel Veliz",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Manuel Veliz",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Tim Carlo",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Frank Soranno",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Ryan Romes",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Desiree Warren",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Dawn Baker",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Justin Jeror <justin.jeror@gmail.com>",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher <mlacher@anchorinv.com>",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Josh Conroy",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Robert Richardson",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Chad Vang",
+      "deal": "Chad Vang - Laundromat — Dixie Village",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Belky Rodriguez — 704-605-9280 — mibella1988@gmail.com",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Elie Najar",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "David W.",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "David W. - Crexi inquiry",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Jon Petty - jpetty@southeastventure.com",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Amy Taylor",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Amy Taylor",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Shady Azez <shadyazezz@gmail.com>",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Jon Petty <jpetty@southeastventure.com>",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Lauri Fowler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "David Cooke",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Abbey Gill",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Scott Myers <smyerscre2@outlook.com>",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Laurie",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Mitch",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Susan S.",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Susan Swindal / Mama Suz Fried Pies - Mamasuzfriedpies@gmail.com - 205-567-9667",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
       "name": "Susan Swindal / Mama Suz Fried Pies",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     },
     {
@@ -28230,6 +28018,258 @@
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
       "lastAction": "Email from Substack: Packy McCormick and David Senra posted new notes",
+      "urgency": "low"
+    },
+    {
+      "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
+      "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Bob McAuliff",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Bob McAuliff",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Lisa Sweeney",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Wm. Coey Vierling <oinkysurveying@gmail.com>",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Bob McAuliff <BMcAuliff@taftlaw.com>",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott <ascott@evanspetree.com>",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Stan Bobowski",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Stan Bobowski",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Karen D'Antonio",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Shelby Hall",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Phillip Kemp",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Kemp",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Matty",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashley Marshall",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Bill Adair",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Phillip Kemp",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Ross Smith",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Devin McClendon",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Ben Claybaker",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Brandon Hoop",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Mary Winston Cramer",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Maddison Sickels",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Charlie Gibson",
+      "deal": "HopeSmiles — HopeSmiles / Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Julie Robbins",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Michael Dunn",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
+      "urgency": "low"
+    },
+    {
+      "name": "Cole @ DR Horton",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
       "urgency": "low"
     }
   ],
