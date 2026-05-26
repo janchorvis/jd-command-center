@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T12:06:56.856892",
+  "lastUpdated": "2026-05-26T12:07:28.567005",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/25/26",
   "today": {
     "date": "2026-05-26",
@@ -16698,9 +16698,9 @@
     {
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
-      "property": "Maple Row Shopping Center",
-      "status": "Joey Valenti says Great Greek's LOI should arrive around noon CT with a slight adjustment; tenant wants to start drawings and needs a couple hours of access before 10 AM.",
-      "nextStep": "Jacob needs to help facilitate pre-10 AM access for Great Greek drawings and review the revised LOI when Joey sends it.",
+      "property": "Maple Row / Hendersonville",
+      "status": "Joey Valenti says the Great Greek LOI should arrive shortly with a slight adjustment; tenant wants a couple hours of access before 10 AM to start drawings.",
+      "nextStep": "Jacob to help facilitate tenant access before 10 AM and watch for revised LOI.",
       "priority": "high",
       "timeline": [
         {
@@ -16736,6 +16736,11 @@
         {
           "date": "2026-05-26",
           "event": "Joey Valenti emailed that Great Greek LOI should arrive in about an hour with a slight adjustment; tenant wants drawing access for a couple hours before 10 AM.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-26",
+          "event": "Joey Valenti requested pre-10 AM access for Great Greek drawings and said revised LOI should follow within about an hour.",
           "type": "email"
         },
         {
@@ -17880,7 +17885,8 @@
         "Joey (Great Greek Broker)",
         "EJ (Tenant Contractor)",
         "Melissa Drish",
-        "Tim Mehta (Great Greek / tenant rep)"
+        "Tim Mehta (Great Greek / tenant rep)",
+        "Tim Mehta (Meridian)"
       ],
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
