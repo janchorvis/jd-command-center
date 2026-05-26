@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T10:30:48.650776",
+  "lastUpdated": "2026-05-26T11:03:36.858348",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/25/26",
   "today": {
     "date": "2026-05-26",
@@ -16634,8 +16634,8 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Melissa Drish contacted the prior Maple Row HVAC vendor to inspect the Fox's Pizza / Suite 390 HVAC units for Great Greek; vendor will report timing and findings.",
-      "nextStep": "Wait for HVAC vendor inspection timing/findings before final Great Greek LOI posture.",
+      "status": "Joey Valenti says Great Greek's LOI should arrive around noon CT with a slight adjustment; tenant wants to start drawings and needs a couple hours of access before 10 AM.",
+      "nextStep": "Jacob needs to help facilitate pre-10 AM access for Great Greek drawings and review the revised LOI when Joey sends it.",
       "priority": "high",
       "timeline": [
         {
@@ -16661,6 +16661,11 @@
         {
           "date": "2026-05-26",
           "event": "Email from Jeff Runion: Anchor Investments Cybersecurity Agent Link",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-26",
+          "event": "Joey Valenti emailed that Great Greek LOI should arrive in about an hour with a slight adjustment; tenant wants drawing access for a couple hours before 10 AM.",
           "type": "email"
         },
         {
@@ -17804,7 +17809,8 @@
         "Joey Valenti <jvalenti@centenretail.com>",
         "Joey (Great Greek Broker)",
         "EJ (Tenant Contractor)",
-        "Melissa Drish"
+        "Melissa Drish",
+        "Tim Mehta (Great Greek / tenant rep)"
       ],
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
