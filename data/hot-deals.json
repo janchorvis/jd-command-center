@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T13:31:12.174701",
+  "lastUpdated": "2026-05-26T14:30:43.076152",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/25/26",
   "today": {
     "date": "2026-05-26",
@@ -77,6 +77,16 @@
       "nextStep": "Jacob to review Ashby's redline/comments and discuss when back in town.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-26",
+          "event": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-26",
+          "event": "Email from Eli Robertson (via Google Sheets): Spreadsheet shared with you: \"2026 Accrued Property Tax Schedule.xlsx\"",
+          "type": "email"
+        },
         {
           "date": "2026-05-26",
           "event": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Store)",
@@ -4583,6 +4593,11 @@
       "timeline": [
         {
           "date": "2026-05-26",
+          "event": "Email from Bisnow Elevate: Elevate registration closes EOD Friday: Only 10 discounted rooms remaining",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-26",
           "event": "Email from Hello BrightView: Dig Into... The Innings & Outfields of Sports Turf",
           "type": "email"
         },
@@ -7489,6 +7504,11 @@
       "timeline": [
         {
           "date": "2026-05-26",
+          "event": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-26",
           "event": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Store)",
           "type": "email"
         },
@@ -10131,6 +10151,11 @@
       "timeline": [
         {
           "date": "2026-05-26",
+          "event": "Email from Bisnow Elevate: Elevate registration closes EOD Friday: Only 10 discounted rooms remaining",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-26",
           "event": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
           "type": "email"
         },
@@ -11353,6 +11378,16 @@
       "nextStep": "Watch for city response / Josh Conroy update on Malone Marshalls egress permit package.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-26",
+          "event": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-26",
+          "event": "Email from Eli Robertson (via Google Sheets): Spreadsheet shared with you: \"2026 Accrued Property Tax Schedule.xlsx\"",
+          "type": "email"
+        },
         {
           "date": "2026-05-26",
           "event": "Email from Robert Richardson: Permit Marshalls Malone NY",
@@ -15154,6 +15189,11 @@
       "timeline": [
         {
           "date": "2026-05-26",
+          "event": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-26",
           "event": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Store)",
           "type": "email"
         },
@@ -16794,6 +16834,11 @@
       "nextStep": "Jacob to help facilitate tenant access before 10 AM and watch for revised LOI.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-26",
+          "event": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+          "type": "email"
+        },
         {
           "date": "2026-05-26",
           "event": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Store)",
@@ -19871,6 +19916,11 @@
       "timeline": [
         {
           "date": "2026-05-26",
+          "event": "Email from Bisnow Elevate: Elevate registration closes EOD Friday: Only 10 discounted rooms remaining",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-26",
           "event": "Email from Joey Valenti: FW: [EXTERNAL] - RE: TGG Hendersonville, TN",
           "type": "email"
         },
@@ -20811,6 +20861,11 @@
         "Karen D'Antonio (Taft)"
       ],
       "timeline": [
+        {
+          "date": "2026-05-26",
+          "event": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+          "type": "email"
+        },
         {
           "date": "2026-05-25",
           "event": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
@@ -23558,6 +23613,11 @@
       "timeline": [
         {
           "date": "2026-05-26",
+          "event": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-26",
           "event": "Email from Robert Richardson: Permit Marshalls Malone NY",
           "type": "email"
         },
@@ -26039,6 +26099,11 @@
       "timeline": [
         {
           "date": "2026-05-26",
+          "event": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-26",
           "event": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
           "type": "email"
         },
@@ -26741,6 +26806,11 @@
         "Clay"
       ],
       "timeline": [
+        {
+          "date": "2026-05-26",
+          "event": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+          "type": "email"
+        },
         {
           "date": "2026-05-26",
           "event": "Email from Richard Jones: Fwd: Edmonton State Bank",
@@ -27602,262 +27672,164 @@
       "urgency": "low"
     },
     {
-      "name": "Ashby",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
-      "urgency": "low"
-    },
-    {
-      "name": "Bob McAuliff",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
-      "urgency": "low"
-    },
-    {
-      "name": "Bob McAuliff",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
-      "urgency": "low"
-    },
-    {
-      "name": "Lisa Sweeney",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
-      "urgency": "low"
-    },
-    {
-      "name": "Wm. Coey Vierling <oinkysurveying@gmail.com>",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
-      "urgency": "low"
-    },
-    {
-      "name": "Bob McAuliff <BMcAuliff@taftlaw.com>",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott <ascott@evanspetree.com>",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
-      "urgency": "low"
-    },
-    {
-      "name": "Stan Bobowski",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
-      "urgency": "low"
-    },
-    {
-      "name": "Stan Bobowski",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
-      "urgency": "low"
-    },
-    {
-      "name": "Karen D'Antonio",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Michael Simmons: Happy Memorial Day + Grower Meet up Tomorrow",
-      "urgency": "low"
-    },
-    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Dawn Baker",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Justin Jeror <justin.jeror@gmail.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher <mlacher@anchorinv.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
@@ -27899,42 +27871,42 @@
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Hello BrightView: Dig Into... The Innings & Outfields of Sports Turf",
+      "lastAction": "Email from Bisnow Elevate: Elevate registration closes EOD Friday: Only 10 disco",
       "urgency": "low"
     },
     {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Hello BrightView: Dig Into... The Innings & Outfields of Sports Turf",
+      "lastAction": "Email from Bisnow Elevate: Elevate registration closes EOD Friday: Only 10 disco",
       "urgency": "low"
     },
     {
       "name": "Belky Rodriguez — 704-605-9280 — mibella1988@gmail.com",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Hello BrightView: Dig Into... The Innings & Outfields of Sports Turf",
+      "lastAction": "Email from Bisnow Elevate: Elevate registration closes EOD Friday: Only 10 disco",
       "urgency": "low"
     },
     {
       "name": "Elie Najar",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Hello BrightView: Dig Into... The Innings & Outfields of Sports Turf",
+      "lastAction": "Email from Bisnow Elevate: Elevate registration closes EOD Friday: Only 10 disco",
       "urgency": "low"
     },
     {
       "name": "David W.",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Hello BrightView: Dig Into... The Innings & Outfields of Sports Turf",
+      "lastAction": "Email from Bisnow Elevate: Elevate registration closes EOD Friday: Only 10 disco",
       "urgency": "low"
     },
     {
       "name": "David W. - Crexi inquiry",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Hello BrightView: Dig Into... The Innings & Outfields of Sports Turf",
+      "lastAction": "Email from Bisnow Elevate: Elevate registration closes EOD Friday: Only 10 disco",
       "urgency": "low"
     },
     {
@@ -28011,14 +27983,14 @@
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Dwaine High",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
@@ -28116,133 +28088,133 @@
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
+      "lastAction": "Email from Bisnow Elevate: Elevate registration closes EOD Friday: Only 10 disco",
       "urgency": "low"
     },
     {
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson <Robert_Richardson@tjx.com>",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano <andriano@c2-designgroup.com>",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
@@ -28361,49 +28333,49 @@
       "name": "Carmen Drake",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "James Stocker",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Carmine DiLucente",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Stan Bobowski",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Paul Takacs",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Andrew Goodman",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
@@ -28494,105 +28466,203 @@
       "name": "Joey",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "ala h.",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti <jvalenti@centenretail.com>",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "EJ",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Tim Mehta",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Tim Mehta",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Anchor Commission Approval (QT Nails, Shoe Dept, ABC Stor",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
       "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: [EXTERNAL] - RE: TGG Hendersonville, TN",
+      "lastAction": "Email from Bisnow Elevate: Elevate registration closes EOD Friday: Only 10 disco",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "urgency": "low"
+    },
+    {
+      "name": "Bob McAuliff",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "urgency": "low"
+    },
+    {
+      "name": "Bob McAuliff",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "urgency": "low"
+    },
+    {
+      "name": "Lisa Sweeney",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "urgency": "low"
+    },
+    {
+      "name": "Wm. Coey Vierling <oinkysurveying@gmail.com>",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "urgency": "low"
+    },
+    {
+      "name": "Bob McAuliff <BMcAuliff@taftlaw.com>",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott <ascott@evanspetree.com>",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "urgency": "low"
+    },
+    {
+      "name": "Stan Bobowski",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "urgency": "low"
+    },
+    {
+      "name": "Stan Bobowski",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "urgency": "low"
+    },
+    {
+      "name": "Karen D'Antonio",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
@@ -28746,98 +28816,98 @@
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Jordyn Stallings",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Rebecca Miller",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Lexy Burke",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Dylan Bennett",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Lexy Burke",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Dylan Bennett",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Richardson: Permit Marshalls Malone NY",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
@@ -28879,28 +28949,28 @@
       "name": "Juliana Fernandez",
       "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
       "daysSinceContact": 0,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Carson Knight",
       "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
       "daysSinceContact": 0,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
       "daysSinceContact": 0,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
       "daysSinceContact": 0,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
@@ -28942,56 +29012,56 @@
       "name": "Tom Gaghan",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Richard Jones: Fwd: Edmonton State Bank",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Tom Gaghan - 440-263-9792 - tom@clevelandfurniturebank.org",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Richard Jones: Fwd: Edmonton State Bank",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Tom Gaghan",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Richard Jones: Fwd: Edmonton State Bank",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Mathison Ingham",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Richard Jones: Fwd: Edmonton State Bank",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Richard Jones: Fwd: Edmonton State Bank",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Tom Gaghan",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Richard Jones: Fwd: Edmonton State Bank",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Richard Jones: Fwd: Edmonton State Bank",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
       "name": "Clay",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Richard Jones: Fwd: Edmonton State Bank",
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
       "urgency": "low"
     },
     {
