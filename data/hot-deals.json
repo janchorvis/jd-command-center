@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T07:34:29.636956",
+  "lastUpdated": "2026-05-26T09:03:22.295157",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/25/26",
   "today": {
     "date": "2026-05-26",
@@ -20937,10 +20937,10 @@
     {
       "id": "hopesmiles",
       "name": "HopeSmiles",
-      "property": "HopeSmiles / Nashville",
+      "property": "3040 Sidco / HopeSmiles",
       "type": "Tenant Rep",
-      "status": "JLL/Stream surfaced 3040 Sidco as a possible HopeSmiles fit after Duke Drive and Creekside tours; Stream says direct suite access plus plumbing/drainage needs may be solvable and asked to tour soon.",
-      "nextStep": "Await landlord review/response on 144 Wilson Pike package.",
+      "status": "Charlie Gibson asked at 8:15 AM whether today's 3040 Sidco tour can move from 3:00 PM to either 1:15 PM or 3:30 PM.",
+      "nextStep": "Jacob needs to confirm 1:15 or 3:30 today with Charlie before the tour.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -20964,6 +20964,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-05-26",
+          "event": "Charlie Gibson asked to adjust 3040 Sidco tour time to 1:15 or 3:30 today.",
+          "type": "email"
+        },
         {
           "date": "2026-05-25",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - ghjk hjkl",
