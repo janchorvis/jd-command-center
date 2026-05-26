@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T15:03:30.463948",
+  "lastUpdated": "2026-05-26T15:30:57.410386",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/25/26",
   "today": {
     "date": "2026-05-26",
@@ -77,6 +77,11 @@
       "nextStep": "Jacob to review Ashby's redline/comments and discuss when back in town.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-26",
+          "event": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carson, Jacob & Justin",
+          "type": "email"
+        },
         {
           "date": "2026-05-26",
           "event": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
@@ -9526,6 +9531,11 @@
       "timeline": [
         {
           "date": "2026-05-26",
+          "event": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carson, Jacob & Justin",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-26",
           "event": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
           "type": "email"
         },
@@ -16842,6 +16852,11 @@
       "timeline": [
         {
           "date": "2026-05-26",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-26",
           "event": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
           "type": "email"
         },
@@ -21415,6 +21430,11 @@
       "timeline": [
         {
           "date": "2026-05-26",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-26",
           "event": "Email from Ashley Cusker, CCIM | Katz & Associates: IMO's Pizza Seeking Sites in Middle TN",
           "type": "email"
         },
@@ -22270,6 +22290,16 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-05-26",
+          "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-26",
+          "event": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carson, Jacob & Justin",
+          "type": "email"
+        },
         {
           "date": "2026-05-26",
           "event": "Email from Suzanne Kebanli – Trade Expositions Planner: Inviting You to ICSC RETAIL FORWARD NASHVILLE",
@@ -26105,6 +26135,11 @@
       "timeline": [
         {
           "date": "2026-05-26",
+          "event": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carson, Jacob & Justin",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-26",
           "event": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
           "type": "email"
         },
@@ -27112,6 +27147,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-26",
+          "event": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carson, Jacob & Justin",
+          "type": "email"
+        },
+        {
           "date": "2026-05-15",
           "event": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
           "type": "email"
@@ -27622,20 +27662,6 @@
   ],
   "staleContacts": [
     {
-      "name": "Kevin Moss",
-      "deal": "Royal Bazaar Indian — Parma Heights",
-      "daysSinceContact": 11,
-      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
-      "urgency": "high"
-    },
-    {
-      "name": "Royal Bazaar Indian",
-      "deal": "Royal Bazaar Indian — Parma Heights",
-      "daysSinceContact": 11,
-      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
-      "urgency": "high"
-    },
-    {
       "name": "Derek Tucker",
       "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
       "daysSinceContact": 11,
@@ -27681,161 +27707,161 @@
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Dawn Baker",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Justin Jeror <justin.jeror@gmail.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher <mlacher@anchorinv.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
@@ -28080,14 +28106,14 @@
       "name": "Kevin True",
       "deal": "Wingstop — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Bell",
       "deal": "Wingstop — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Glasscock, Corey @ Dallas: 1100 Smithville Hwy, McMinnville, TN",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
@@ -28218,6 +28244,13 @@
     },
     {
       "name": "Shaun Andriano <andriano@c2-designgroup.com>",
+      "deal": "Marshalls — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "urgency": "low"
+    },
+    {
+      "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
       "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
@@ -28472,98 +28505,98 @@
       "name": "Joey",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "ala h.",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti <jvalenti@centenretail.com>",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "EJ",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Tim Mehta",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Tim Mehta",
       "deal": " — Maple Row / Hendersonville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
@@ -28675,147 +28708,147 @@
       "name": "Amy Harper",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker, CCIM | Katz & Associates: IMO's Pizza Seeking Sites in",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker, CCIM | Katz & Associates: IMO's Pizza Seeking Sites in",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker, CCIM | Katz & Associates: IMO's Pizza Seeking Sites in",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Dr. Phillip Kemp",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker, CCIM | Katz & Associates: IMO's Pizza Seeking Sites in",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Dr. Kemp",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker, CCIM | Katz & Associates: IMO's Pizza Seeking Sites in",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Amy",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker, CCIM | Katz & Associates: IMO's Pizza Seeking Sites in",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Matty",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker, CCIM | Katz & Associates: IMO's Pizza Seeking Sites in",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Ashley Marshall",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker, CCIM | Katz & Associates: IMO's Pizza Seeking Sites in",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Bill Adair",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker, CCIM | Katz & Associates: IMO's Pizza Seeking Sites in",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Amy",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker, CCIM | Katz & Associates: IMO's Pizza Seeking Sites in",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Phillip Kemp",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker, CCIM | Katz & Associates: IMO's Pizza Seeking Sites in",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Ross Smith",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker, CCIM | Katz & Associates: IMO's Pizza Seeking Sites in",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Devin McClendon",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker, CCIM | Katz & Associates: IMO's Pizza Seeking Sites in",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Ben Claybaker",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker, CCIM | Katz & Associates: IMO's Pizza Seeking Sites in",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Brandon Hoop",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker, CCIM | Katz & Associates: IMO's Pizza Seeking Sites in",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Mary Winston Cramer",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker, CCIM | Katz & Associates: IMO's Pizza Seeking Sites in",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Maddison Sickels",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker, CCIM | Katz & Associates: IMO's Pizza Seeking Sites in",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Charlie Gibson",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker, CCIM | Katz & Associates: IMO's Pizza Seeking Sites in",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Suzanne Kebanli – Trade Expositions Planner: Inviting You to ICSC RET",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Suzanne Kebanli – Trade Expositions Planner: Inviting You to ICSC RET",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Suzanne Kebanli – Trade Expositions Planner: Inviting You to ICSC RET",
+      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Gil Brandon",
       "urgency": "low"
     },
     {
@@ -28955,28 +28988,28 @@
       "name": "Juliana Fernandez",
       "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Carson Knight",
       "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
@@ -29068,6 +29101,20 @@
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
       "lastAction": "Email from Micah Lacher: Fwd: Follow Up - Montgomery",
+      "urgency": "low"
+    },
+    {
+      "name": "Kevin Moss",
+      "deal": "Royal Bazaar Indian — Parma Heights",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
+      "urgency": "low"
+    },
+    {
+      "name": "Royal Bazaar Indian",
+      "deal": "Royal Bazaar Indian — Parma Heights",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Justin Sturdivant: East Nashville // Call // Mark, Kevin, Ryan, Carso",
       "urgency": "low"
     },
     {
