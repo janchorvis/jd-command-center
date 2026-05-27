@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T12:30:49.956897",
+  "lastUpdated": "2026-05-27T13:02:25.486813",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/25/26",
   "today": {
     "date": "2026-05-27",
@@ -65,9 +65,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Ashby returned suggested revisions and marginal comments/questions on Five Below lease for Jacob review/discussion.",
+      "status": "Jacob told Five Below/Julia Gibson that Anchor is 95% done with redlines and expects to send everything by end of week; Bill Castagna acknowledged.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob to review Ashby's redline/comments and discuss when back in town.",
+      "nextStep": "Finish attorney answers and send redlines by end of week.",
       "priority": "high",
       "timeline": [
         {
@@ -108,6 +108,11 @@
         {
           "date": "2026-05-27",
           "event": "Email from Melissa Eddy: Birthday Card to sign for Carson - Sign by Sunday, May 31st",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-27",
+          "event": "Jacob updated Five Below that lease redlines are 95% complete and expected by end of week; Bill acknowledged.",
           "type": "email"
         },
         {
@@ -1873,7 +1878,9 @@
         "Micah Lacher <mlacher@anchorinv.com>",
         "Josh Conroy (Camburas Theodore)",
         "Robert Richardson (TJX)",
-        "Ashby Scott (Evans Petree)"
+        "Ashby Scott (Evans Petree)",
+        "Bill Castagna (Five Below)",
+        "Julia Gibson (Maynard Nexsen)"
       ],
       "actions": [
         {
@@ -15547,9 +15554,9 @@
       "id": "evansville",
       "name": "",
       "property": "Hamilton, OH",
-      "status": "GMX sent title/inspection-period requirements for the Dutch Bros outparcel sale: recorded Subway and AutoZone instruments removing/limiting subject property from shopping-center encumbrances, Subway consent/estoppel or seller indemnity for no-build/prohibited uses, AutoZone confirmation that Dutch Bros/signage do not impair AutoZone signage, Family Dollar memorandum termination, and inspection-period extension until first business day after executed documents are provided.",
+      "status": "Inspection period runs through 2026-05-29. Micah asked Karen D'Antonio for an update on Dutch Bros counsel conversation and the minimum Dutch Bros will agree to.",
       "stage": "Lease Signed",
-      "nextStep": "Resolve title/lease encumbrance documents or inspection period will need extension.",
+      "nextStep": "Watch for Karen/Taft/GMX response before May 29 inspection-period deadline.",
       "priority": "high",
       "contacts": [
         "Carmen Drake (Bellacino's Pizza & Grinders / Runnebohm Realty)",
@@ -15558,7 +15565,9 @@
         "Carmine DiLucente (CBRE)",
         "Stan Bobowski (GMX)",
         "Paul Takacs (GMX)",
-        "Andrew Goodman (GMX)"
+        "Andrew Goodman (GMX)",
+        "Karen D'Antonio (Taft)",
+        "Ashby Scott (Evans Petree)"
       ],
       "timeline": [
         {
@@ -15594,6 +15603,11 @@
         {
           "date": "2026-05-27",
           "event": "Email from Melissa Eddy: Birthday Card to sign for Carson - Sign by Sunday, May 31st",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-27",
+          "event": "Micah asked buyer counsel for Dutch Bros title/encumbrance resolution update before the May 29 inspection deadline.",
           "type": "email"
         },
         {
