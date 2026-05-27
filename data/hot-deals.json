@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T13:02:25.486813",
+  "lastUpdated": "2026-05-27T13:02:53.065040",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/25/26",
   "today": {
     "date": "2026-05-27",
@@ -17333,8 +17333,8 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row / Hendersonville",
-      "status": "Joey Valenti says the Great Greek LOI should arrive shortly with a slight adjustment; tenant wants a couple hours of access before 10 AM to start drawings.",
-      "nextStep": "Jacob to help facilitate tenant access before 10 AM and watch for revised LOI.",
+      "status": "Tenant returned LOI comments; only material change is HVAC because space was hot during visit and tenant thinks unit is shot. Tenant wants drawings started and lease moving, including early access for drawings.",
+      "nextStep": "Jacob/Micah to decide HVAC posture and early access for drawings, then respond to Joey Valenti.",
       "priority": "high",
       "timeline": [
         {
@@ -17365,6 +17365,11 @@
         {
           "date": "2026-05-27",
           "event": "Email from Melissa Eddy: Birthday Card to sign for Carson - Sign by Sunday, May 31st",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-27",
+          "event": "Joey Valenti sent tenant LOI comments; HVAC is the only change and tenant wants drawings/lease moving.",
           "type": "email"
         },
         {
