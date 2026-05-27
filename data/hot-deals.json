@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T15:30:52.720342",
+  "lastUpdated": "2026-05-27T16:03:04.518665",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/25/26",
   "today": {
     "date": "2026-05-27",
@@ -17437,9 +17437,9 @@
     {
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
-      "property": "Maple Row / Hendersonville",
-      "status": "Tenant returned LOI comments; only material change is HVAC because space was hot during visit and tenant thinks unit is shot. Tenant wants drawings started and lease moving, including early access for drawings.",
-      "nextStep": "Jacob/Micah to decide HVAC posture and early access for drawings, then respond to Joey Valenti.",
+      "property": "Maple Row",
+      "status": "Great Greek tenant returned LOI with HVAC as the only change; tenant says the Fox's space was hot / unit is shot, wants drawings and lease process started, and asks about early access for drawings.",
+      "nextStep": "Jacob/Micah to decide HVAC position and whether to allow early access for drawings.",
       "priority": "high",
       "timeline": [
         {
@@ -17490,6 +17490,11 @@
         {
           "date": "2026-05-27",
           "event": "Joey Valenti sent tenant LOI comments; HVAC is the only change and tenant wants drawings/lease moving.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-27",
+          "event": "Joey Valenti sent tenant LOI: only change is HVAC; tenant wants drawings/lease started and early access decision.",
           "type": "email"
         },
         {
@@ -21542,10 +21547,10 @@
     {
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
-      "property": "Hamilton, OH",
-      "status": "Purchaser requires lease/title encumbrance fixes for Subway, AutoZone, and Family Dollar; Seller agreed to extend inspection period through May 29 while buyer/Dutch Bros. counsel seek a less onerous resolution path.",
+      "property": "Hamilton",
+      "status": "Dutch expected to provide GMX minimum acceptable requirements / items by Friday 2026-05-29; seller team will review once received and respond on timing / possible extension structure.",
       "stage": "Lease Signed",
-      "nextStep": "Monitor Dutch Bros. counsel path and title/lease resolution before May 29 inspection-period deadline.",
+      "nextStep": "Watch for GMX/Dutch requirements by Friday and evaluate seller response timeline.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -21567,6 +21572,11 @@
         {
           "date": "2026-05-27",
           "event": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Extension",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-27",
+          "event": "Stan Bobowski said Dutch will provide minimum acceptable requirements by Friday at latest; GMX will forward for Anchor review.",
           "type": "email"
         },
         {
