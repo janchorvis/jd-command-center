@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T17:02:25.039408",
+  "lastUpdated": "2026-05-27T17:02:47.842159",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/25/26",
   "today": {
     "date": "2026-05-27",
@@ -17442,9 +17442,9 @@
     {
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
-      "property": "Maple Row",
-      "status": "Great Greek tenant returned LOI with HVAC as the only change; tenant says the Fox's space was hot / unit is shot, wants drawings and lease process started, and asks about early access for drawings.",
-      "nextStep": "Jacob/Micah to decide HVAC position and whether to allow early access for drawings.",
+      "property": "Maple Row / Hendersonville Fox's",
+      "status": "Joey Valenti sent tenant LOI comments 5/27; only change is HVAC. Tenant says unit is shot after space was hot during visit, wants drawings started, lease moving, and early access for drawings.",
+      "nextStep": "Jacob/Micah to decide HVAC response and early-access posture, then reply to Joey.",
       "priority": "high",
       "timeline": [
         {
@@ -17500,6 +17500,11 @@
         {
           "date": "2026-05-27",
           "event": "Joey Valenti sent tenant LOI: only change is HVAC; tenant wants drawings/lease started and early access decision.",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-27",
+          "event": "Joey Valenti sent tenant LOI comments; only change is HVAC, with request for early access for drawings.",
           "type": "email"
         },
         {
