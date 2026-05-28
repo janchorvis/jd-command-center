@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T10:31:20.873791",
+  "lastUpdated": "2026-05-28T12:30:28.880712",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/25/26",
   "today": {
     "date": "2026-05-28",
@@ -60,6 +60,11 @@
       "nextStep": "Finish attorney answers and send redlines by end of week.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-28",
+          "event": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
+          "type": "email"
+        },
         {
           "date": "2026-05-28",
           "event": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
@@ -4738,6 +4743,21 @@
       "timeline": [
         {
           "date": "2026-05-28",
+          "event": "Email from Kimberly Latrice Washington: LoopNet Lead for Dixie Village Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-28",
+          "event": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-28",
+          "event": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Springs Dr. in Jackson",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-28",
           "event": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
           "type": "email"
         },
@@ -6634,6 +6654,11 @@
       "timeline": [
         {
           "date": "2026-05-28",
+          "event": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@altusdg.com",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-28",
           "event": "Email from Craige Pearson: SPACE FOR LEASE | Elizabethton, TN",
           "type": "email"
         },
@@ -8097,6 +8122,16 @@
       "nextStep": "Wait for David S. to provide contact info/tour availability.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-05-28",
+          "event": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-28",
+          "event": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Springs Dr. in Jackson",
+          "type": "email"
+        },
         {
           "date": "2026-05-28",
           "event": "Email from STR: Profitability, Forecasting and AI application all at HDC",
@@ -14931,6 +14966,16 @@
       "timeline": [
         {
           "date": "2026-05-28",
+          "event": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-28",
+          "event": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Springs Dr. in Jackson",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-28",
           "event": "Email from STR: Profitability, Forecasting and AI application all at HDC",
           "type": "email"
         },
@@ -16468,6 +16513,11 @@
         "Rawn Turner / Valor Healthcare"
       ],
       "timeline": [
+        {
+          "date": "2026-05-28",
+          "event": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Springs Dr. in Jackson",
+          "type": "email"
+        },
         {
           "date": "2026-05-28",
           "event": "Email from STR: Profitability, Forecasting and AI application all at HDC",
@@ -20889,6 +20939,11 @@
       "timeline": [
         {
           "date": "2026-05-28",
+          "event": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-28",
           "event": "Email from Shawn Metzgar: Accepted: Jacob Delk x Shawn Metzgar Lunch @ Thu Jun 4, 2026 12:15pm - 1:15pm (C",
           "type": "email"
         },
@@ -21841,6 +21896,11 @@
       "timeline": [
         {
           "date": "2026-05-28",
+          "event": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-28",
           "event": "Email from Shawn Metzgar: Accepted: Jacob Delk x Shawn Metzgar Lunch @ Thu Jun 4, 2026 12:15pm - 1:15pm (C",
           "type": "email"
         },
@@ -22405,6 +22465,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-05-28",
+          "event": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@altusdg.com",
+          "type": "email"
+        },
         {
           "date": "2026-05-28",
           "event": "Email from Make: The Make AI Agents challenge, plus guides to get you building 🏆",
@@ -23292,6 +23357,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-05-28",
+          "event": "Email from Industrious Gulch: Save the date: Industrious Gulch - Singer Songwriter Night + Open House",
+          "type": "email"
+        },
         {
           "date": "2026-05-28",
           "event": "Email from CRE615®: CRE615 Volunteers - Nashville Humane Association - June 2nd",
@@ -26256,6 +26326,11 @@
       "timeline": [
         {
           "date": "2026-05-28",
+          "event": "Email from Quest: Live in 1 hour: From data swamp to data product",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-28",
           "event": "Email from Make: The Make AI Agents challenge, plus guides to get you building 🏆",
           "type": "email"
         },
@@ -27856,6 +27931,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-05-28",
+          "event": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Springs Dr. in Jackson",
+          "type": "email"
+        },
+        {
           "date": "2026-05-27",
           "event": "Email from Daniel Herrold: 100+ retailers updated post-ICSC, plus new site criteria columns are live",
           "type": "email"
@@ -28983,41 +29063,6 @@
       "urgency": "low"
     },
     {
-      "name": "Madison Idell - madison.idell@avisonyoung.com - 316-650-4193",
-      "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Daniel Herrold: 100+ retailers updated post-ICSC, plus new site crite",
-      "urgency": "low"
-    },
-    {
-      "name": "Madison Idell - Hibbett/JD Sports/DTLR broker",
-      "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Daniel Herrold: 100+ retailers updated post-ICSC, plus new site crite",
-      "urgency": "low"
-    },
-    {
-      "name": "Madison Idell",
-      "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Daniel Herrold: 100+ retailers updated post-ICSC, plus new site crite",
-      "urgency": "low"
-    },
-    {
-      "name": "Brande Benson",
-      "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Daniel Herrold: 100+ retailers updated post-ICSC, plus new site crite",
-      "urgency": "low"
-    },
-    {
-      "name": "Patrice M.",
-      "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Daniel Herrold: 100+ retailers updated post-ICSC, plus new site crite",
-      "urgency": "low"
-    },
-    {
       "name": "Tom Gaghan",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 1,
@@ -29077,175 +29122,175 @@
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Dawn Baker",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Justin Jeror <justin.jeror@gmail.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher <mlacher@anchorinv.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Bill Castagna",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Julia Gibson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
@@ -29287,42 +29332,42 @@
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Kimberly Latrice Washington: LoopNet Lead for Dixie Village Shopping ",
       "urgency": "low"
     },
     {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Kimberly Latrice Washington: LoopNet Lead for Dixie Village Shopping ",
       "urgency": "low"
     },
     {
       "name": "Belky Rodriguez — 704-605-9280 — mibella1988@gmail.com",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Kimberly Latrice Washington: LoopNet Lead for Dixie Village Shopping ",
       "urgency": "low"
     },
     {
       "name": "Elie Najar",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Kimberly Latrice Washington: LoopNet Lead for Dixie Village Shopping ",
       "urgency": "low"
     },
     {
       "name": "David W.",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Kimberly Latrice Washington: LoopNet Lead for Dixie Village Shopping ",
       "urgency": "low"
     },
     {
       "name": "David W. - Crexi inquiry",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Kimberly Latrice Washington: LoopNet Lead for Dixie Village Shopping ",
       "urgency": "low"
     },
     {
@@ -29371,105 +29416,105 @@
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Craige Pearson: SPACE FOR LEASE | Elizabethton, TN",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Craige Pearson: SPACE FOR LEASE | Elizabethton, TN",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Craige Pearson: SPACE FOR LEASE | Elizabethton, TN",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Craige Pearson: SPACE FOR LEASE | Elizabethton, TN",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Jon Petty - jpetty@southeastventure.com",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Amy Taylor",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Amy Taylor",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Shady Azez <shadyazezz@gmail.com>",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Jon Petty <jpetty@southeastventure.com>",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
@@ -29616,91 +29661,91 @@
       "name": "Lauri Fowler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "David Cooke",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Abbey Gill",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Scott Myers <smyerscre2@outlook.com>",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Laurie",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Mitch",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Susan S.",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Susan Swindal / Mama Suz Fried Pies - Mamasuzfriedpies@gmail.com - 205-567-9667",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Susan Swindal / Mama Suz Fried Pies",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
@@ -29770,84 +29815,84 @@
       "name": "Joe Wesley",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Sp",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Sp",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Sp",
       "urgency": "low"
     },
     {
       "name": "Shady Azez",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Sp",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Sp",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Sp",
       "urgency": "low"
     },
     {
       "name": "Richard Jones",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Sp",
       "urgency": "low"
     },
     {
       "name": "Thomas Cashion",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Sp",
       "urgency": "low"
     },
     {
       "name": "Thomas Cashion",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Sp",
       "urgency": "low"
     },
     {
       "name": "Rawn Turner",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Sp",
       "urgency": "low"
     },
     {
       "name": "Rawn Turner - rawn.turner@valorhealthcare.com - 972.435.4808",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Sp",
       "urgency": "low"
     },
     {
       "name": "Rawn Turner / Valor Healthcare",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from STR: Profitability, Forecasting and AI application all at HDC",
+      "lastAction": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Sp",
       "urgency": "low"
     },
     {
@@ -29952,252 +29997,252 @@
       "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
       "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shawn Metzgar: Accepted: Jacob Delk x Shawn Metzgar Lunch @ Thu Jun 4",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shawn Metzgar: Accepted: Jacob Delk x Shawn Metzgar Lunch @ Thu Jun 4",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shawn Metzgar: Accepted: Jacob Delk x Shawn Metzgar Lunch @ Thu Jun 4",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shawn Metzgar: Accepted: Jacob Delk x Shawn Metzgar Lunch @ Thu Jun 4",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shawn Metzgar: Accepted: Jacob Delk x Shawn Metzgar Lunch @ Thu Jun 4",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shawn Metzgar: Accepted: Jacob Delk x Shawn Metzgar Lunch @ Thu Jun 4",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shawn Metzgar: Accepted: Jacob Delk x Shawn Metzgar Lunch @ Thu Jun 4",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Lisa Sweeney",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shawn Metzgar: Accepted: Jacob Delk x Shawn Metzgar Lunch @ Thu Jun 4",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Wm. Coey Vierling <oinkysurveying@gmail.com>",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shawn Metzgar: Accepted: Jacob Delk x Shawn Metzgar Lunch @ Thu Jun 4",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff <BMcAuliff@taftlaw.com>",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shawn Metzgar: Accepted: Jacob Delk x Shawn Metzgar Lunch @ Thu Jun 4",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott <ascott@evanspetree.com>",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shawn Metzgar: Accepted: Jacob Delk x Shawn Metzgar Lunch @ Thu Jun 4",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Stan Bobowski",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shawn Metzgar: Accepted: Jacob Delk x Shawn Metzgar Lunch @ Thu Jun 4",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shawn Metzgar: Accepted: Jacob Delk x Shawn Metzgar Lunch @ Thu Jun 4",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Stan Bobowski",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shawn Metzgar: Accepted: Jacob Delk x Shawn Metzgar Lunch @ Thu Jun 4",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Karen D'Antonio",
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
-      "lastAction": "Email from Shawn Metzgar: Accepted: Jacob Delk x Shawn Metzgar Lunch @ Thu Jun 4",
+      "lastAction": "Email from Larry Kloess: Interested in Serving on the 2027 PCON Board?",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Make: The Make AI Agents challenge, plus guides to get you building 🏆",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Make: The Make AI Agents challenge, plus guides to get you building 🏆",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Make: The Make AI Agents challenge, plus guides to get you building 🏆",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Dr. Phillip Kemp",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Make: The Make AI Agents challenge, plus guides to get you building 🏆",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Dr. Kemp",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Make: The Make AI Agents challenge, plus guides to get you building 🏆",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Amy",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Make: The Make AI Agents challenge, plus guides to get you building 🏆",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Matty",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Make: The Make AI Agents challenge, plus guides to get you building 🏆",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Ashley Marshall",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Make: The Make AI Agents challenge, plus guides to get you building 🏆",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Bill Adair",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Make: The Make AI Agents challenge, plus guides to get you building 🏆",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Amy",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Make: The Make AI Agents challenge, plus guides to get you building 🏆",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Phillip Kemp",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Make: The Make AI Agents challenge, plus guides to get you building 🏆",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Ross Smith",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Make: The Make AI Agents challenge, plus guides to get you building 🏆",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Devin McClendon",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Make: The Make AI Agents challenge, plus guides to get you building 🏆",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Ben Claybaker",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Make: The Make AI Agents challenge, plus guides to get you building 🏆",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Brandon Hoop",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Make: The Make AI Agents challenge, plus guides to get you building 🏆",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Mary Winston Cramer",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Make: The Make AI Agents challenge, plus guides to get you building 🏆",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Maddison Sickels",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Make: The Make AI Agents challenge, plus guides to get you building 🏆",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Charlie Gibson",
       "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
       "daysSinceContact": 0,
-      "lastAction": "Email from Make: The Make AI Agents challenge, plus guides to get you building 🏆",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  phillip@",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from CRE615®: CRE615 Volunteers - Nashville Humane Association - June 2nd",
+      "lastAction": "Email from Industrious Gulch: Save the date: Industrious Gulch - Singer Songwrit",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from CRE615®: CRE615 Volunteers - Nashville Humane Association - June 2nd",
+      "lastAction": "Email from Industrious Gulch: Save the date: Industrious Gulch - Singer Songwrit",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from CRE615®: CRE615 Volunteers - Nashville Humane Association - June 2nd",
+      "lastAction": "Email from Industrious Gulch: Save the date: Industrious Gulch - Singer Songwrit",
       "urgency": "low"
     },
     {
@@ -30302,7 +30347,7 @@
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
       "daysSinceContact": 0,
-      "lastAction": "Email from Make: The Make AI Agents challenge, plus guides to get you building 🏆",
+      "lastAction": "Email from Quest: Live in 1 hour: From data swamp to data product",
       "urgency": "low"
     },
     {
@@ -30310,6 +30355,41 @@
       "deal": "Infinite Equity Capital - 730 — 730",
       "daysSinceContact": 0,
       "lastAction": "Email from CPE Daily Newsletter: Bain Capital, 11North make $300M retail buy",
+      "urgency": "low"
+    },
+    {
+      "name": "Madison Idell - madison.idell@avisonyoung.com - 316-650-4193",
+      "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Sp",
+      "urgency": "low"
+    },
+    {
+      "name": "Madison Idell - Hibbett/JD Sports/DTLR broker",
+      "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Sp",
+      "urgency": "low"
+    },
+    {
+      "name": "Madison Idell",
+      "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Sp",
+      "urgency": "low"
+    },
+    {
+      "name": "Brande Benson",
+      "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Sp",
+      "urgency": "low"
+    },
+    {
+      "name": "Patrice M.",
+      "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Belinda Brown: Belinda B. is requesting Information on 21 Meridian Sp",
       "urgency": "low"
     },
     {
