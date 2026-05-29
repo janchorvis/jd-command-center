@@ -48115,10 +48115,124 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-05-29T15:38:05",
+    "generatedAt": "2026-05-29T15:38:28",
     "source": "morning-briefing",
-    "yourPlate": [],
-    "prepping": [],
+    "yourPlate": [
+      {
+        "id": "sweep-plate-1",
+        "text": "Five Below/Malone — EC markups, lease exhibits, and landlord drawings need Jacob/Clay decisions.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-2",
+        "text": "Marshalls/Malone — permit/mobilization path needs owner-level push so timing does not slip.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-3",
+        "text": "UPS/McMinnville — lease path moving; keep facade promises disciplined until VE pricing is real.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-4",
+        "text": "Keystone fireworks leases — confirm treatment/locations before DocuSigns go out.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-5",
+        "text": "Great Greek/Maple Row — HVAC responsibility posture needs Jacob/Micah judgment.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-6",
+        "text": "Pell City/Easterseals — Laurie/CEO timing follow-up is relationship-sensitive.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-7",
+        "text": "Buena Vista Diego call — purchase inquiry needs Jacob live.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-8",
+        "text": "Cleveland Furniture Bank — financial/rent-relief posture needs Jacob/Micah/Ryan.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ],
+    "prepping": [
+      {
+        "id": "sweep-prep-1",
+        "text": "America's Thrift — package McMinnville, Gastonia, and Columbia opportunities.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-2",
+        "text": "Domino's/Malone — research Plattsburgh operator and draft outreach.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-3",
+        "text": "Sally Beauty/Cosmo — draft post-ICSC follow-up.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-4",
+        "text": "McMinnville prospects — draft Emily/Bath & Body Works and Bealls follow-ups.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-5",
+        "text": "Active lead drafts — Dixie, McMinnville, Pell City, Russellville drafts stay ready for approval.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-6",
+        "text": "Adam onboarding — clean doc-sharing plan is ready; next is Adam-safe copy/summaries if needed.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-7",
+        "text": "Buena Vista send-out — fold Derek Morgan/Millrose/Lennar into one clean outreach batch.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-8",
+        "text": "McMinnville facade VE — prep screenshot/examples and contractor ask.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ],
     "handling": [
       {
         "id": "sweep-handle-1",
@@ -48166,13 +48280,48 @@
     "deferred": [
       {
         "id": "sweep-defer-1",
-        "text": "Camile C. JV inquiry deferred; Nicole/Chase due 6/8; Label Shopper and Adam housing are watch-only; Joe Wesley/Yasser waiting on replies.",
+        "text": "Camile C. JV inquiry — deferred unless Jacob reopens.",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-defer-2",
+        "text": "Nicole/Chase — future-dated for 6/8.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-3",
+        "text": "Label Shopper/Malone — watch-only renewal risk.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-4",
+        "text": "Adam housing — waiting on Adam preference.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-5",
+        "text": "Joe Wesley — waiting on reply.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-6",
+        "text": "Yasser Salim — waiting on reply.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-7",
         "text": "🚀 Command Center: https://jd-command-center.vercel.app",
         "detail": "",
         "completed": false,
@@ -48591,8 +48740,36 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-05-29T15:38:05",
+    "generatedAt": "2026-05-29T15:38:28",
     "source": "morning-briefing",
-    "items": []
+    "items": [
+      {
+        "id": "focus-plate-1",
+        "dealName": "Five Below/Malone",
+        "property": null,
+        "action": "EC markups, lease exhibits, and landlord drawings need Jacob/Clay decisions.",
+        "why": "#1 on your plate today.",
+        "urgency": "high",
+        "type": "briefing"
+      },
+      {
+        "id": "focus-plate-2",
+        "dealName": "Marshalls/Malone",
+        "property": null,
+        "action": "permit/mobilization path needs owner-level push so timing does not slip.",
+        "why": "#2 on your plate today.",
+        "urgency": "high",
+        "type": "briefing"
+      },
+      {
+        "id": "focus-plate-3",
+        "dealName": "UPS/McMinnville",
+        "property": null,
+        "action": "lease path moving; keep facade promises disciplined until VE pricing is real.",
+        "why": "#3 on your plate today.",
+        "urgency": "medium",
+        "type": "briefing"
+      }
+    ]
   }
 }
