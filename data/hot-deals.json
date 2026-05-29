@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T18:06:14.775042",
+  "lastUpdated": "2026-05-29T18:06:21.126449",
   "sourceDoc": "2026-05-11 - Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-29",
@@ -48341,7 +48341,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-05-29T18:06:14",
+    "generatedAt": "2026-05-29T18:04:12",
     "source": "morning-briefing",
     "yourPlate": [
       {
@@ -48549,114 +48549,133 @@
     ]
   },
   "prepDocDiff": {
-    "generatedAt": "2026-05-22T15:01:55.029105",
-    "thisWeek": "Leasing Meeting Prep - Week of 5/18/26",
-    "lastWeek": "Leasing Meeting Prep - Week of 5/11/26",
+    "generatedAt": "2026-05-29T18:05:46.772243",
+    "thisWeek": "2026-05-11 - Leasing Meeting Prep - Week of 5/11/26",
+    "lastWeek": "2026-05-04 - Leasing Meeting Prep - Week of 5.4.26",
     "new": [
       {
-        "name": "Royal Bazaar Indian",
-        "property": "Parma Heights",
-        "status": "New live ICSC lead from Kevin Moss at CBRE. He asked if we have 12-16K SF in Parma Heights for Royal Bazaar Indian Market, and I told him yes and that the timing is funny because we do have a story there. We landed on Wednesday 8:30 AM at the CBRE booth, and he asked me to send an invite. This feels worth a quick mention because it could be a real Parma Heights use, but I do not think it needs much meeting time beyond making sure I am pitching it the right way.",
+        "name": "Pell City Marketplace",
+        "property": "Pell City Marketplace",
+        "status": "Physical Therapy / Home Health Fun plot twist: The original home health company is also now back trying to see if we can slot them in the middle space and get three deals done at once. We had a brief call last Friday and we were dusting off our old LOI.",
+        "nextStep": ""
+      },
+      {
+        "name": "Evansville",
+        "property": "Evansville",
+        "status": "Where Ya Bin The call with Mitch did happen on Tuesday - I filled you in on it. We are waiting on Mitch/Where Ya Bin after he reviews the material. Just shot him a text this morning Easterseals Still waiting on Laurie/CEO feedback. Laurie said the CEO meeting got cancelled because of the CEO's schedule and DC travel, and she expected to connect the following week. I will ping her today and get an update",
+        "nextStep": ""
+      },
+      {
+        "name": "Firework Tent Details",
+        "property": "Firework Tent Details",
+        "status": "It took a minute, but I finally worked through all the details for these Fireworks leases. They will be going out via DocuSign to you this week. Here are the properties:",
+        "nextStep": ""
+      },
+      {
+        "name": "Hickory Village",
+        "property": "Jackson, TN",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Dixie Village",
+        "property": "Gastonia, NC",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "McMinnville Plaza",
+        "property": "McMinnville, TN",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Millington Plaza",
+        "property": "Millington, TN",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Forks of the River",
+        "property": "Sevierville, TN",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Malone Big Lots / Malone Plaza",
+        "property": "Malone, NY",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Malone",
+        "property": "Shoe Dept: Hold to pay at a later date",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Russellville",
+        "property": "ABC Store: Hold to pay at a later date",
+        "status": "",
         "nextStep": ""
       }
     ],
     "dropped": [
       {
+        "name": "Emerson Hall / Lately Projects",
+        "property": "Emerson Hall / Lately Projects",
+        "lastStatus": "Ready to rock and roll. Let me know if there is anything you need me to do"
+      },
+      {
+        "name": "Shelbyville",
+        "property": "Shelbyville",
+        "lastStatus": ""
+      },
+      {
+        "name": "Just leaving this here to talk about Shelbyville",
+        "property": "Just leaving this here to talk about Shelbyville",
+        "lastStatus": "-OP -New ideas (shoutout jarvis) -ICSC"
+      }
+    ],
+    "progressed": [
+      {
         "name": "Five Below",
         "property": "Five Below",
-        "lastStatus": "Five Below's attorney sent the lease draft. I will review this week and also send it to Ashby so that way we can circle up on it"
+        "from": "",
+        "to": "Five Below's attorney sent the lease draft. I will review this week and also send it to Ashby so that way we can circle up on it"
       },
       {
-        "name": "Pell City Marketplace",
-        "property": "Pell City Marketplace",
-        "lastStatus": "Physical Therapy / Home Health Fun plot twist: The original home health company is also now back trying to see if we can slot them in the middle space and get three deals done at once. We had a brief call last Friday and we were dusting off our old LOI."
+        "name": "McMinnville Plaza",
+        "property": "McMinnville Plaza",
+        "from": "Petty and I worked through the specifics, and he is taking the most recent version to get sign off from UPS. Pell City Physical Therapy / Home Health I can explain more in our meeting, but this one hit a little speed bump with their legal team, so it is having to go back through approvals. The short version is they wanted some broad assignment language that the broker and I discussed and were on the same page about, but he didn't document very well, so their legal team flagged it and rejected it on first go",
+        "to": "UPS Store This moved forward. Amy/UPS signed the LOI on 5/5. I returned the fully executed LOI on 5/6.We can get started on a lease while they get final approval from REC."
       },
       {
-        "name": "Firework Tent Details",
-        "property": "Firework Tent Details",
-        "lastStatus": "It took a minute, but I finally worked through all the details for these Fireworks leases. They will be going out via DocuSign to you this week. Here are the properties:"
-      },
-      {
-        "name": "Hickory Village",
-        "property": "Jackson, TN",
-        "lastStatus": ""
-      },
-      {
-        "name": "Dixie Village",
-        "property": "Gastonia, NC",
-        "lastStatus": ""
-      },
-      {
-        "name": "Millington Plaza",
-        "property": "Millington, TN",
-        "lastStatus": ""
-      },
-      {
-        "name": "Forks of the River",
-        "property": "Sevierville, TN",
-        "lastStatus": ""
-      },
-      {
-        "name": "Malone Big Lots / Malone Plaza",
-        "property": "Malone, NY",
-        "lastStatus": ""
-      },
-      {
-        "name": "Hope Smiles",
-        "property": "Hope Smiles",
-        "lastStatus": "I slacked you the PDF, but we put together a tenant profile for Creekside Crossing LL. I was impressed with Claude Design. Hopefully the LL is too… Fostr I had a good call with Fostr last week. We are closing in on the Yardi integration. I can share more 2008 Johnson flyer I'll show you what Jarvis came up with and what Claude Design came up with"
-      },
-      {
-        "name": "Malone",
-        "property": "Shoe Dept: Hold to pay at a later date",
-        "lastStatus": ""
+        "name": "Maple Row / Hendersonville",
+        "property": "Maple Row / Hendersonville",
+        "from": "They did a site visit the other day and are waiting for some numbers back.",
+        "to": "Great Greek This is down to one issue. Construction numbers came back, and Joey returned LOI comments with only one change: tenant wants the ‘allegedly’ dead rooftop HVAC unit replaced now instead of just covered by the later HVAC language."
       }
     ],
-    "progressed": [],
-    "stalled": [
-      {
-        "name": "Great Greek",
-        "property": "Maple Row",
-        "status": "This is still basically down to the HVAC report. Joey only changed one thing in the LOI - he wants the allegedly dead rooftop unit replaced now instead of waiting for the HVAC language later. I told him we would inspect first, then asked Melissa to get an HVAC vendor/report for the Fox's Pizza space; she said Monday she would get someone out ASAP and circle back. If the report confirms the unit is shot, I think we need to decide whether replacing it is acceptable to land the LOI or whether we trade it against another term.",
-        "weeksUnchanged": 1
-      },
-      {
-        "name": "Evansville",
-        "property": "Easterseals / Where Ya Bin",
-        "status": "Easterseals moved forward a little. Laurie looped in Rob Henson, Rob said they are looking at this and one other property, and after we talked I sent him lockbox/alarm info and photos on Wednesday. Where Ya Bin is quieter - the call happened last week and I forwarded Mitch the photo set, but I have not found a reply since then. I think Easterseals is the better active thread right now; Where Ya Bin is waiting on Mitch unless we want to press again.",
-        "weeksUnchanged": 1
-      }
-    ],
+    "stalled": [],
     "updated": [
       {
         "name": "Malone Plaza",
         "property": "Malone Plaza",
-        "from": "",
-        "to": "Five Below is now with Ashby. I sent him the lease on Wednesday and asked for redline comments by next Wednesday because of ICSC, and he said he has done a couple of Five Below leases and is getting to work. The internal economics are the bigger thing I want to talk through: Ryan was updating the bank proformas Friday, I gave him the updated rent/commission numbers, and I also checked the co-tenancy issue - Marshalls and Shoe Dept are not tied to Five Below, so we have flexibility if the Five Below economics keep getting worse. I want your gut on how hard we should press Five Below vs. how badly we need the box momentum. Keystone fireworks tents Jeb followed up again Wednesday. I told him we are still working through lease language and billing treatment and would get back to him on DocuSigns, but he also asked a specific Millington site-plan question: local jurisdiction will not allow the tent as close to the road, so he wants to move it farther back in the parking lot and sent a marked-up photo. I need to confirm whether you are comfortable approving that revised Millington placement and then keep the lease/billing path moving for Hickory Village, Dixie Village, McMinnville, Millington, Forks of the River, and Malone. Pell City Marketplace There are two live threads here. On the Results/PT deal, Tom Fidler asked Friday for the age and info on the RTU that would serve their space; I told him I requested it from PM and need to identify which unit is theirs before I answer. On the home health deal, David Cooke resurfaced last week saying the project is active again and forwarded the old draft lease, so that one may be back on the table too. I want to talk through how we want to sequence these and whether we should keep both warm while we wait on RTU info."
+        "from": "Approved at REC. Clay and I have a kick-off call with their construction team this afternoon",
+        "to": ""
       },
       {
-        "name": "UPS Store",
-        "property": "McMinnville Plaza",
-        "from": "UPS Store This moved forward. Amy/UPS signed the LOI on 5/5. I returned the fully executed LOI on 5/6.We can get started on a lease while they get final approval from REC.",
-        "to": "UPS is still moving forward, but I did not find a newer email after the site/package cleanup from last week. The latest thread has Jon and Amy aligned that the space is Suite 108, roughly 20' x 100', and Jon said they can change the suite number in the final LOI. Jon also said the UPS area office is finalizing paperwork and did not see an issue with issuing a lease for review, so I told him I would get it rolling on our end. I am starting the lease path, but I do not want to promise facade work to UPS or Wingstop until we have real VE pricing."
+        "name": "Gastonia / Dixie Village",
+        "property": "Gastonia / Dixie Village",
+        "from": "The laundromat operator and I have a call scheduled for Wednesday to go over the specifics in the lease. Evansville Evansville / Where Ya Bin call got pushed to tomorrow. Evansville Easterseals has not talked with their CEO yet but is going to keep me in the loop.",
+        "to": "Chad Vang laundromat I talked to Chad. Their other laundromat has taken longer than anticipated to get up and running. Instead of continuing to follow up, we put a call on the calendar four weeks from now to circle back up"
       },
       {
-        "name": "Russellville ABC Store",
-        "property": "Russellville ABC Store",
-        "from": "",
-        "to": "Kurt Wilson asked Thursday whether we can finish the buildout by the end of June because ABC is month-to-month at their current location and their warehouse timeline slipped. Clay replied that the contractor is planning a full start around May 23, has already been doing some work, but he expects completion to run into mid-July; the sign vendor is 5-7 weeks and already commissioned. Not a big decision unless you want to push construction harder, but ABC is clearly trying to coordinate move timing now."
-      },
-      {
-        "name": "McMinnville fitness / broker outreach",
-        "property": "McMinnville fitness / broker outreach",
-        "from": "",
-        "to": "Richard Jones sent a fitness user needing 25,000+ SF before ICSC. I asked whether 25,000 SF was the absolute minimum because we could maybe get around 20,000 SF by combining suites at McMinnville, and he said he would ask. Separately, Zach Schunn from EDGE wants to talk in Vegas about Hamilton/Harrison leasing, and I told him Wednesday after 1 could work. These are active but early ICSC conversations."
-      },
-      {
-        "name": "Dixie Village / laundromat",
-        "property": "Dixie Village / laundromat",
-        "from": "Chad Vang laundromat I talked to Chad. Their other laundromat has taken longer than anticipated to get up and running. Instead of continuing to follow up, we put a call on the calendar four weeks from now to circle back up",
-        "to": "Chad Vang accepted the June 10 touch-base invite, so I am not going to keep chasing him until then. We also had a couple of LoopNet Dixie Village leads this week: Melissa was a purchase inquiry and I told her we are not selling, and Belky asked about leasing on Friday so I asked for business and square footage. Nothing there needs your input unless Belky turns into a real tenant. Dropped / Worth Discussing Hope Smiles - no new substantive Gmail movement this week after the tenant-profile PDF, so I would not spend time on it unless you have landlord/broker feedback from another channel. Fostr - the weekly check-in was canceled Tuesday and I did not find a substantive email update, so I would not spend meeting time on it unless you want to talk rollout outside the leasing agenda. 2008 Johnson flyer - I did not find a current email thread, so I am leaving it off unless you want to pull it up live."
+        "name": "Hope Smiles",
+        "property": "Hope Smiles",
+        "from": "They are pretty sold out on Creekside Crossing currently. They want to look at one more suite that was locked in there when we toured the first time. The LL is working on a test fit (for one of the spaces they looked at the other week) and running the numbers, so hope smiles can make a decision. Fostr Yardi data has made it into the platform, but still needs lots of configuring on their end. But it's big time that you can go in and see where it's headed. I can show it to you",
+        "to": "I slacked you the PDF, but we put together a tenant profile for Creekside Crossing LL. I was impressed with Claude Design. Hopefully the LL is too… Fostr I had a good call with Fostr last week. We are closing in on the Yardi integration. I can share more 2008 Johnson flyer I'll show you what Jarvis came up with and what Claude Design came up with"
       }
     ],
     "noChange": []
@@ -48959,7 +48978,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-05-29T18:06:14",
+    "generatedAt": "2026-05-29T18:04:12",
     "source": "morning-briefing",
     "items": [
       {
