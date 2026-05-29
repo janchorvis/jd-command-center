@@ -48115,170 +48115,49 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-05-28T07:34:39",
+    "generatedAt": "2026-05-29T15:38:05",
     "source": "morning-briefing",
-    "yourPlate": [
-      {
-        "id": "sweep-plate-1",
-        "text": "Pell City Outparcel / Ellianos — Wallace/Keith LOI feedback needs your pricing/negotiation call.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-plate-2",
-        "text": "Emerson / Lately Projects — lease signature push needs your relationship/legal posture.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-plate-3",
-        "text": "Hamilton laundromat — float $200K-$300K TI only if rent moves enough.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-plate-4",
-        "text": "GMX / Hamilton extension — Ashby/title/inspection-period decision is still yours.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-plate-5",
-        "text": "Pell City calls — David Cooke revived project + Dr. Dupre lead need relationship follow-up.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-plate-6",
-        "text": "Mitch Ernest / Evansville box — Where Ya Bin is still waiting on Mitch’s reaction to photos.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-plate-7",
-        "text": "Fund/investor rocks — fund model + investor socialization are Micah/Ryan/Jacob strategy.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-plate-8",
-        "text": "PCON feedback/prospect forms — several old Asana items need your PCON judgment or explicit delegation.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      }
-    ],
-    "prepping": [
-      {
-        "id": "sweep-prep-1",
-        "text": "Adam onboarding — first-week plan, system checklist, and cadence using Micah’s overnight note.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-2",
-        "text": "Five Below / Malone — lease/exhibit/construction review matrix for Ashby + Clay.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-3",
-        "text": "McMinnville package — UPS/Crunch/facade VE floor-plan/forms/options in one queue.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-4",
-        "text": "Buena Vista — consolidated send-out list, bid-material ask, sign installer options, Diego call sheet.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-5",
-        "text": "Loaded lead drafts — Jesse, David W., Yazan, Rawn, Susan, Jason Jiang, Jordyn, Cleveland FB approval queue.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-6",
-        "text": "Marshalls / Malone — permit/mobilization status note and onsite questions.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-7",
-        "text": "Great Greek HVAC — landlord/tenant responsibility posture and LOI response options.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-8",
-        "text": "HopeSmiles / 144 Wilson Pike — tour/as-built tracker and delivery checklist.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-9",
-        "text": "Keystone fireworks leases — DocuSign/billing checklist + Millington tent-location summary.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-10",
-        "text": "MRI export / AI rocks / CFB review / Russellville-Vance — prep frameworks, not decisions.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      }
-    ],
+    "yourPlate": [],
+    "prepping": [],
     "handling": [
       {
         "id": "sweep-handle-1",
-        "text": "ICSC follow-up packets — Domino’s/Malone, Bath & Body Works, Bealls, America’s Thrift.",
+        "text": "Buena Vista sign — research handyman/install options only.",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-handle-2",
-        "text": "McMinnville facade VE — example screenshots and lower-cost contractor/Clay ask.",
+        "text": "Pell City facade — pull photo context and scope options.",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-handle-3",
-        "text": "Academy / Shelbyville — re-check for movement and prep follow-up if still quiet.",
+        "text": "Adam podcast playlist — verify status before closing stale Asana.",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-handle-4",
-        "text": "Meeting-room cord fix — shortlist cleaner HDMI/USB-C + cable-management options.",
+        "text": "Meeting room cord — find order-ready cable/cord-management options.",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-handle-5",
-        "text": "Draft hygiene — verify existing Gmail drafts are current and unread/visible.",
+        "text": "Domino's/Malone — research operator and draft package.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-handle-6",
+        "text": "Academy/Shelbyville — quiet-check remains visible after 25 days stale.",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
@@ -48287,34 +48166,13 @@
     "deferred": [
       {
         "id": "sweep-defer-1",
-        "text": "Camile / Buena Vista JV — intentionally deferred unless reopened.",
+        "text": "Camile C. JV inquiry deferred; Nicole/Chase due 6/8; Label Shopper and Adam housing are watch-only; Joe Wesley/Yasser waiting on replies.",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-defer-2",
-        "text": "Joe Wesley + Yasser Salim — waiting on replies.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-defer-3",
-        "text": "Chase / Nicole — future follow-up due 6/8.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-defer-4",
-        "text": "Setup/legacy backlog — not today unless you want admin cleanup.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-defer-5",
         "text": "🚀 Command Center: https://jd-command-center.vercel.app",
         "detail": "",
         "completed": false,
@@ -48733,36 +48591,8 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-05-28T07:34:39",
+    "generatedAt": "2026-05-29T15:38:05",
     "source": "morning-briefing",
-    "items": [
-      {
-        "id": "focus-plate-1",
-        "dealName": "Pell City Outparcel / Ellianos",
-        "property": null,
-        "action": "Wallace/Keith LOI feedback needs your pricing/negotiation call.",
-        "why": "#1 on your plate today.",
-        "urgency": "high",
-        "type": "briefing"
-      },
-      {
-        "id": "focus-plate-2",
-        "dealName": "Emerson / Lately Projects",
-        "property": null,
-        "action": "lease signature push needs your relationship/legal posture.",
-        "why": "#2 on your plate today.",
-        "urgency": "high",
-        "type": "briefing"
-      },
-      {
-        "id": "focus-plate-3",
-        "dealName": "Hamilton laundromat",
-        "property": null,
-        "action": "float $200K-$300K TI only if rent moves enough.",
-        "why": "#3 on your plate today.",
-        "urgency": "medium",
-        "type": "briefing"
-      }
-    ]
+    "items": []
   }
 }
