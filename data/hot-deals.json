@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T15:11:39.441273",
+  "lastUpdated": "2026-05-29T15:30:11.941857",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/25/26",
   "today": {
     "date": "2026-05-28",
@@ -64,6 +64,11 @@
       "nextStep": "Finish attorney answers and send redlines by end of week.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-05-29",
+          "event": "Email from Adair, Bill: FW: 3040 Sidco",
+          "type": "email"
+        },
         {
           "date": "2026-05-29",
           "event": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Extension",
@@ -23020,6 +23025,11 @@
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
+          "date": "2026-05-29",
+          "event": "Email from Adair, Bill: FW: 3040 Sidco",
+          "type": "email"
+        },
+        {
           "date": "2026-05-28",
           "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
           "type": "email"
@@ -29638,132 +29648,6 @@
       "urgency": "low"
     },
     {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Shelby Hall",
-      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Phillip Kemp",
-      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Kemp",
-      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy",
-      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Matty",
-      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashley Marshall",
-      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Bill Adair",
-      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy",
-      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Phillip Kemp",
-      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Ross Smith",
-      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Devin McClendon",
-      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Ben Claybaker",
-      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Brandon Hoop",
-      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Mary Winston Cramer",
-      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Maddison Sickels",
-      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
-      "name": "Charlie Gibson",
-      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
-      "urgency": "low"
-    },
-    {
       "name": "Pesach Gewirtz",
       "deal": "Infinite Equity Capital - 730 — 730",
       "daysSinceContact": 1,
@@ -29837,175 +29721,175 @@
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Dawn Baker",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Justin Jeror <justin.jeror@gmail.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher <mlacher@anchorinv.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Bill Castagna",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
       "name": "Julia Gibson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
@@ -30867,6 +30751,132 @@
       "deal": "Hamilton Title Objection — Hamilton",
       "daysSinceContact": 0,
       "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "urgency": "low"
+    },
+    {
+      "name": "Shelby Hall",
+      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Phillip Kemp",
+      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Kemp",
+      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy",
+      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "urgency": "low"
+    },
+    {
+      "name": "Matty",
+      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashley Marshall",
+      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "urgency": "low"
+    },
+    {
+      "name": "Bill Adair",
+      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy",
+      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "urgency": "low"
+    },
+    {
+      "name": "Phillip Kemp",
+      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "urgency": "low"
+    },
+    {
+      "name": "Ross Smith",
+      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "urgency": "low"
+    },
+    {
+      "name": "Devin McClendon",
+      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "urgency": "low"
+    },
+    {
+      "name": "Ben Claybaker",
+      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "urgency": "low"
+    },
+    {
+      "name": "Brandon Hoop",
+      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "urgency": "low"
+    },
+    {
+      "name": "Mary Winston Cramer",
+      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "urgency": "low"
+    },
+    {
+      "name": "Maddison Sickels",
+      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
+      "urgency": "low"
+    },
+    {
+      "name": "Charlie Gibson",
+      "deal": "HopeSmiles — 3040 Sidco / HopeSmiles",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Adair, Bill: FW: 3040 Sidco",
       "urgency": "low"
     },
     {
