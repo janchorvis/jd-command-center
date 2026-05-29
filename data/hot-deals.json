@@ -48115,7 +48115,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-05-29T15:38:28",
+    "generatedAt": "2026-05-29T15:39:06",
     "source": "morning-briefing",
     "yourPlate": [
       {
@@ -48316,13 +48316,6 @@
       {
         "id": "sweep-defer-6",
         "text": "Yasser Salim — waiting on reply.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-defer-7",
-        "text": "🚀 Command Center: https://jd-command-center.vercel.app",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
@@ -48740,7 +48733,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-05-29T15:38:28",
+    "generatedAt": "2026-05-29T15:39:06",
     "source": "morning-briefing",
     "items": [
       {
