@@ -1,38 +1,33 @@
 {
-  "lastUpdated": "2026-05-29T17:30:13.187774",
-  "sourceDoc": "Leasing Meeting Prep - Week of 5/25/26",
+  "lastUpdated": "2026-05-29T18:04:12.384221",
+  "sourceDoc": "2026-05-11 - Leasing Meeting Prep - Week of 5/11/26",
   "today": {
-    "date": "2026-05-28",
-    "greeting": "Good morning, Jacob. You have 17 overdue items.",
+    "date": "2026-05-29",
+    "greeting": "Good evening, Jacob. You have 17 overdue items.",
     "meetings": [
       {
-        "time": "6:00 AM",
-        "title": "West End Men’s Bible Study",
+        "time": "12:00 AM",
+        "title": "Weekly Report Due: See Notes",
         "dealContext": null
       },
       {
-        "time": "8:00 AM",
-        "title": "Sam High Check in ",
+        "time": "12:00 AM",
+        "title": "Weekly Report Due: See Notes",
         "dealContext": null
       },
       {
-        "time": "8:00 AM",
-        "title": "PCON Mid-Year 2:1",
+        "time": "9:00 AM",
+        "title": "Shout - Outs",
         "dealContext": null
       },
       {
-        "time": "12:15 PM",
-        "title": "Jacob Delk x Shawn Metzgar Lunch",
+        "time": "9:30 AM",
+        "title": "930 Prayer for Anchor ",
         "dealContext": null
       },
       {
-        "time": "1:15 PM",
-        "title": "Pick up Dallas",
-        "dealContext": null
-      },
-      {
-        "time": "4:00 PM",
-        "title": "4pm: Eli & Heidi Baby Shower ",
+        "time": "12:00 PM",
+        "title": "Weekly Report - Fill out by 12 on Fridays",
         "dealContext": null
       }
     ],
@@ -44,19 +39,7 @@
       "Add in new Rocks (overdue — due 2026-05-19)",
       "PCON feedback: Zack Hubiak (overdue — due 2026-05-15)",
       "PCON feedback: Sean Spafford (overdue — due 2026-05-15)",
-      "PCON feedback: Griffin Hodge (overdue — due 2026-04-02)",
-      "Prep Adam onboarding/cadence plan using Micah's overnight Slack context.",
-      "Keep Academy/Shelbyville visible: still quiet after 24+ days.",
-      "Prep ICSC post-show outreach packets for America's Thrift, Bealls, Bath & Body Works, and Domino's.",
-      "Five Below/Malone: resolve EC markups, landlord drawings/exhibits, and lease-to-Ashby path.",
-      "Marshalls/Malone: keep permit/mobilization path from slipping after expected permit update.",
-      "McMinnville/UPS: move LOI-returned deal into lease path without over-promising facade work.",
-      "Post-ICSC: prep McMinnville/Bealls, Bath & Body Works, America's Thrift, Sally Beauty, Domino's follow-ups.",
-      "Review top Jacob-owned deal decisions: Five Below/Malone, UPS/McMinnville lease path, Marshalls/Malone permit/mobilization, Keystone fireworks leases, Great Greek HVAC posture.",
-      "Prep post-ICSC outreach drafts: America's Thrift, Sally Beauty/Cosmo, Domino's/Malone, McMinnville Bath & Body Works/Bealls.",
-      "Respond to Kevin Trujillo with CosmoProf LOI response ETA.",
-      "Reply to Bob McAuliff confirming Hamilton inspection period is extended through Tuesday, June 2, 2026.",
-      "Use Kenia Pou-Ortiz / Domino's Development Team ICSC follow-up and real estate brochure for Malone Domino's outreach."
+      "PCON feedback: Griffin Hodge (overdue — due 2026-04-02)"
     ]
   },
   "pipelineDeals": [
@@ -48228,7 +48211,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-05-29T15:39:06",
+    "generatedAt": "2026-05-29T18:04:12",
     "source": "morning-briefing",
     "yourPlate": [
       {
@@ -48846,7 +48829,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-05-29T15:39:06",
+    "generatedAt": "2026-05-29T18:04:12",
     "source": "morning-briefing",
     "items": [
       {
