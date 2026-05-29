@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T16:30:19.421612",
+  "lastUpdated": "2026-05-29T17:02:42.773325",
   "sourceDoc": "Leasing Meeting Prep - Week of 5/25/26",
   "today": {
     "date": "2026-05-28",
@@ -54,7 +54,9 @@
       "Post-ICSC: prep McMinnville/Bealls, Bath & Body Works, America's Thrift, Sally Beauty, Domino's follow-ups.",
       "Review top Jacob-owned deal decisions: Five Below/Malone, UPS/McMinnville lease path, Marshalls/Malone permit/mobilization, Keystone fireworks leases, Great Greek HVAC posture.",
       "Prep post-ICSC outreach drafts: America's Thrift, Sally Beauty/Cosmo, Domino's/Malone, McMinnville Bath & Body Works/Bealls.",
-      "Respond to Kevin Trujillo with CosmoProf LOI response ETA."
+      "Respond to Kevin Trujillo with CosmoProf LOI response ETA.",
+      "Reply to Bob McAuliff confirming Hamilton inspection period is extended through Tuesday, June 2, 2026.",
+      "Use Kenia Pou-Ortiz / Domino's Development Team ICSC follow-up and real estate brochure for Malone Domino's outreach."
     ]
   },
   "pipelineDeals": [
@@ -22425,9 +22427,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton",
-      "status": "Dutch expected to provide GMX minimum acceptable requirements / items by Friday 2026-05-29; seller team will review once received and respond on timing / possible extension structure.",
+      "status": "Buyer/Taft sent Dutch Bros title-confirmation requirements; Jacob pushed back on confirmation agreements and offered inspection-period extension through Tuesday 2026-06-02. Bob McAuliff now asks Jacob to confirm the extension by reply.",
       "stage": "Lease Signed",
-      "nextStep": "Watch for GMX/Dutch requirements by Friday and evaluate seller response timeline.",
+      "nextStep": "Jacob should reply confirming inspection period is extended through Tuesday, June 2, 2026.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -22454,6 +22456,11 @@
         {
           "date": "2026-05-29",
           "event": "Email from Jacob Delk: Hamilton, OH draft",
+          "type": "email"
+        },
+        {
+          "date": "2026-05-29",
+          "event": "Taft/Bob asked Jacob to confirm Hamilton inspection-period extension through Tuesday, June 2, 2026 after Jacob offered the extension.",
           "type": "email"
         },
         {
