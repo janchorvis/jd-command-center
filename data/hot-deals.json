@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T10:30:12.471639",
+  "lastUpdated": "2026-06-01T11:03:11.740330",
   "sourceDoc": "2026-05-11 - Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-29",
@@ -12314,10 +12314,10 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "City comments have been satisfied and Marshalls permit approval has been received, pending GC and fee. StoreCrafters is the GC, will arrange pickup, and Bob Richardson wants full gear starting Monday 2026-06-08 with onsite time TBA.",
+      "status": "City permit comments satisfied; permit approved pending GC and fee. StoreCrafters is GC and is arranging permit pickup; start targeted Monday 6/8.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Track permit fee/pickup and June 8 StoreCrafters mobilization.",
+      "nextStep": "Monitor fee/payment and GC pickup/start timing.",
       "priority": "high",
       "timeline": [
         {
@@ -12344,6 +12344,11 @@
           "date": "2026-06-01",
           "event": "Josh Conroy confirmed Marshalls permit approval pending GC/fee; StoreCrafters copied for June 8 mobilization.",
           "type": "email"
+        },
+        {
+          "date": "2026-06-01",
+          "event": "Marshalls Malone permit approved pending GC and fee; StoreCrafters copied for pickup and 6/8 start.",
+          "type": "permit"
         },
         {
           "date": "2026-05-29",
@@ -18587,9 +18592,9 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row / Hendersonville Fox's",
-      "status": "Joey Valenti says Great Greek needs access despite existing tenant friction; corporate also requested landlord signage-review contact, signage criteria, and confirmation of approved signage locations before preparing the signage package.",
-      "nextStep": "Jacob/Clay need to coordinate access with Fox's/EJ and provide signage-contact/signage-criteria information to Joey.",
-      "priority": "high",
+      "status": "Clay reports EJ will not let Great Greek architect in before 9:00; Friday or Saturday at 9:00 works, despite Fox's operating.",
+      "nextStep": "Tell Joey/Great Greek that access is available Friday or Saturday at 9:00.",
+      "priority": "medium",
       "timeline": [
         {
           "date": "2026-06-01",
@@ -18614,6 +18619,11 @@
         {
           "date": "2026-06-01",
           "event": "Joey Valenti requested Great Greek access and landlord signage criteria/contact details.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-01",
+          "event": "Clay confirmed Great Greek architect access can be Friday/Saturday at 9:00, not 7:00.",
           "type": "email"
         },
         {
@@ -19956,7 +19966,9 @@
         "Tim Mehta (Great Greek / tenant rep)",
         "Tim Mehta (Meridian)",
         "Joey Valenti (Centennial Retail)",
-        "Punit Patel / Great Greek corporate"
+        "Punit Patel / Great Greek corporate",
+        "Joey Valenti (Centennial)",
+        "Clay Richardson"
       ],
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
@@ -22879,9 +22891,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton, OH",
-      "status": "Inspection period is extended through Tuesday 2026-06-02; Stan Bobowski asked Jacob, Micah, and Ashby to send available times today for a call to discuss next steps on title/Dutch Bros issues.",
+      "status": "Stan Bobowski asked 6/1 for available times today to discuss title/inspection-period next steps before the 6/2 extension deadline.",
       "stage": "Lease Signed",
-      "nextStep": "Send availability today for GMX/Taft/Anchor call before the June 2 inspection-period deadline.",
+      "nextStep": "Send times for call today with GMX/Taft.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -22918,6 +22930,11 @@
         {
           "date": "2026-06-01",
           "event": "Stan Bobowski asked for available times today to discuss Hamilton title/Dutch Bros next steps.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-01",
+          "event": "Stan requested call times to discuss Hamilton title/inspection period next steps.",
           "type": "email"
         },
         {
@@ -23484,10 +23501,10 @@
     {
       "id": "hopesmiles",
       "name": "HopeSmiles",
-      "property": "3040 Sidco / HopeSmiles",
+      "property": "3040 Sidco",
       "type": "Tenant Rep",
-      "status": "Charlie Gibson asked Jacob to confirm whether Hope Smiles wants to move forward with a test fit at 3040 Sidco and whether Jacob will send an RFP.",
-      "nextStep": "Confirm test-fit direction and whether an RFP is coming.",
+      "status": "Charlie Gibson asked 6/1 whether Hope Smiles wants to move forward with a test fit and whether an RFP is coming.",
+      "nextStep": "Confirm test fit/RFP direction to Charlie/Maddy.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -23529,6 +23546,11 @@
         {
           "date": "2026-06-01",
           "event": "Charlie Gibson requested confirmation on Hope Smiles test fit/RFP path for 3040 Sidco.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-01",
+          "event": "Stream asked if Hope Smiles is moving forward with test fit and RFP at 3040 Sidco.",
           "type": "email"
         },
         {
@@ -29670,10 +29692,10 @@
       "id": "parma-heights-royal-bazaar-indian",
       "name": "Royal Bazaar Indian",
       "property": "Parma Heights",
-      "status": "Kevin Moss/CBRE confirmed ICSC meeting for Royal Bazaar Indian Market at 8:30 AM Wednesday at the Central Hall CBRE booth; Jacob sent the invite.",
+      "status": "Kevin Moss asked 6/1 for the Parma Heights marketing package for Royal Bazaar Indian Market.",
       "stage": "Contact Made",
-      "nextStep": "Meet Kevin at ICSC and discuss 12-16K SF Royal Bazaar Indian Market requirement.",
-      "priority": "high",
+      "nextStep": "Send Parma Heights marketing package.",
+      "priority": "medium",
       "contacts": [
         "Kevin Moss (CBRE)",
         "Royal Bazaar Indian"
@@ -29692,6 +29714,11 @@
         {
           "date": "2026-06-01",
           "event": "Email from Veritas Realty: Taco Bell | Indianapolis MSA | Absolute NNN",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-01",
+          "event": "Kevin Moss requested Parma Heights marketing package for Royal Bazaar.",
           "type": "email"
         },
         {
@@ -29845,6 +29872,28 @@
       "actions": [],
       "type": "Tenant Rep",
       "lastUpdate": "2026-05-15"
+    },
+    {
+      "id": "dixie-village-juany-almanza",
+      "name": "Juany Almanza",
+      "property": "Dixie Village Shopping Center",
+      "status": "New LoopNet lead received 6/1; Gmail draft loaded asking business type and desired square footage.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob review/send lead reply draft, then qualify business/SF.",
+      "priority": "medium",
+      "contacts": [
+        "Juany Almanza (jalmanza@alanync.com, 704-701-5518)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-01",
+          "event": "LoopNet lead from Juany Almanza for Dixie Village; draft response loaded.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-06-01"
     }
   ],
   "droppedBalls": [
