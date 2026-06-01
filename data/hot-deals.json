@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T12:30:12.568952",
+  "lastUpdated": "2026-06-01T13:02:33.266208",
   "sourceDoc": "2026-05-11 - Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-29",
@@ -30023,6 +30023,28 @@
         {
           "date": "2026-06-01",
           "event": "LoopNet lead from Juany Almanza for Dixie Village; draft response loaded.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-06-01"
+    },
+    {
+      "id": "russellville-franklin-center-building-16-jesse-warhurst",
+      "name": "Jesse Warhurst - Building 16 inquiry",
+      "property": "Franklin Center / Russellville, AL",
+      "status": "Inbound leasing inquiry asked whether Building 16 is still available.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob to approve/send qualifying reply asking business type and square footage.",
+      "priority": "medium",
+      "contacts": [
+        "Jesse Warhurst <jessewarhurst@yahoo.com>"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-01",
+          "event": "Inbound leasing inquiry received for Building 16 availability at Franklin Center in Russellville, AL.",
           "type": "lead"
         }
       ],
