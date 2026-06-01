@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T15:30:16.186821",
+  "lastUpdated": "2026-06-01T16:02:26.218246",
   "sourceDoc": "2026-05-11 - Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-29",
@@ -45,7 +45,8 @@
       "UPS/McMinnville - lease path moving; keep facade promises disciplined until VE pricing is real.",
       "Emerson Hall/Lately Projects - calendar shows pipe/PM handoff today; keep executed lease file and construction approvals tight.",
       "Adam onboarding - first-day calendar is packed; keep onboarding/doc-sharing plan ready.",
-      "Pell City / Compassus: send Lauri Fowler an update on the 803 Martin St. S. proposal."
+      "Pell City / Compassus: send Lauri Fowler an update on the 803 Martin St. S. proposal.",
+      "Reply confirming Hamilton/GMX inspection-period extension to 2026-06-09"
     ]
   },
   "pipelineDeals": [
@@ -23042,9 +23043,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton, OH",
-      "status": "Stan Bobowski asked 6/1 for available times today to discuss title/inspection-period next steps before the 6/2 extension deadline.",
+      "status": "Post-call, GMX/Taft asked Jacob and Ashby to confirm agreement to extend the inspection period to Tuesday 2026-06-09 while Dutch legal reviews the proposed solutions Ashby is drafting/sending.",
       "stage": "Lease Signed",
-      "nextStep": "Send times for call today with GMX/Taft.",
+      "nextStep": "Jacob needs to reply confirming the inspection-period extension to 2026-06-09.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -23091,6 +23092,11 @@
         {
           "date": "2026-06-01",
           "event": "Stan requested call times to discuss Hamilton title/inspection period next steps.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-01",
+          "event": "Stan Bobowski asked Jacob/Ashby to confirm inspection-period extension to 2026-06-09 after call on Dutch Bros title solution path.",
           "type": "email"
         },
         {
