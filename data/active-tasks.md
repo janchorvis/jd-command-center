@@ -1,8 +1,8 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-05-29 6:00 PM CDT
+Last updated: 2026-05-31 1:27 AM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T196 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T197 -->
 
 ## ACTIVE — Jacob needs to do these
 
@@ -86,6 +86,7 @@ Last updated: 2026-05-29 6:00 PM CDT
 
 
 ### Next Week+
+- T196: Monitor Monday 2026-06-01 Daily Morning Briefing and stale AM sweep pending file — verify the next scheduled Daily Morning Briefing delivers normally at 7:30 AM CDT after Friday recovery; keep `memory/am-sweep-pending.md` visible in the briefing or dispatch it only if Jacob explicitly says go. [source: heartbeat commitment rollover 2026-05-31; job: 7cb5add0-c465-44c1-b950-ecb78ddd06f5] [internal]
 - T019: Reach out to Runnings — exclusive with Ashby [source: brain-dump 3/6] [asana: 1213420777322230]
 - T048: Vercel → janchorvis GitHub reconnect (manual step, ~5 min) [source: SESSION_HANDOFF 3/12, not urgent]
 - T131: Label Shopper / Malone — monitor October 2027 expiration and renewal risk in light of Marshalls/Five Below; Micah flagged urgency because Label Shopper may be nervous about Marshalls. [source: 4/27 Plaud weekly meeting] [deal: Malone]
