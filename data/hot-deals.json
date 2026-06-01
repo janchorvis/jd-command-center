@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T09:30:15.081408",
+  "lastUpdated": "2026-06-01T10:03:31.233222",
   "sourceDoc": "2026-05-11 - Leasing Meeting Prep - Week of 5/11/26",
   "today": {
     "date": "2026-05-29",
@@ -12239,10 +12239,10 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "TJX development manager Robert Richardson told StoreCrafters he hopes to get the Marshalls permit this week and wants to mobilize / meet onsite next week.",
+      "status": "City comments have been satisfied and Marshalls permit approval has been received, pending GC and fee. StoreCrafters is the GC, will arrange pickup, and Bob Richardson wants full gear starting Monday 2026-06-08 with onsite time TBA.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Coordinate with Clay/StoreCrafters on permit timing, mobilization, and onsite meeting logistics.",
+      "nextStep": "Track permit fee/pickup and June 8 StoreCrafters mobilization.",
       "priority": "high",
       "timeline": [
         {
@@ -12258,6 +12258,11 @@
         {
           "date": "2026-06-01",
           "event": "Email from Robert Richardson: Permit Marshalls Malone NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-01",
+          "event": "Josh Conroy confirmed Marshalls permit approval pending GC/fee; StoreCrafters copied for June 8 mobilization.",
           "type": "email"
         },
         {
@@ -13849,7 +13854,9 @@
         "Shaun Andriano",
         "Robert Richardson <Robert_Richardson@tjx.com>",
         "Shaun Andriano <andriano@c2-designgroup.com>",
-        "Robert Richardson (TJX Development Manager)"
+        "Robert Richardson (TJX Development Manager)",
+        "Joshua Conroy (Camburas Theodore)",
+        "Laurie Schindler (StoreCrafters)"
       ],
       "actions": [
         {
@@ -18475,8 +18482,8 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row / Hendersonville Fox's",
-      "status": "Joey Valenti sent tenant LOI comments 5/27; only change is HVAC. Tenant says unit is shot after space was hot during visit, wants drawings started, lease moving, and early access for drawings.",
-      "nextStep": "Jacob/Micah to decide HVAC response and early-access posture, then reply to Joey.",
+      "status": "Joey Valenti says Great Greek needs access despite existing tenant friction; corporate also requested landlord signage-review contact, signage criteria, and confirmation of approved signage locations before preparing the signage package.",
+      "nextStep": "Jacob/Clay need to coordinate access with Fox's/EJ and provide signage-contact/signage-criteria information to Joey.",
       "priority": "high",
       "timeline": [
         {
@@ -18492,6 +18499,11 @@
         {
           "date": "2026-06-01",
           "event": "Email from Joey Valenti: FW: TGG Punit Patel- Hendersonville TN",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-01",
+          "event": "Joey Valenti requested Great Greek access and landlord signage criteria/contact details.",
           "type": "email"
         },
         {
@@ -19832,7 +19844,9 @@
         "EJ (Tenant Contractor)",
         "Melissa Drish",
         "Tim Mehta (Great Greek / tenant rep)",
-        "Tim Mehta (Meridian)"
+        "Tim Mehta (Meridian)",
+        "Joey Valenti (Centennial Retail)",
+        "Punit Patel / Great Greek corporate"
       ],
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
@@ -22744,10 +22758,10 @@
     {
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
-      "property": "Hamilton",
-      "status": "Buyer/Taft sent Dutch Bros title-confirmation requirements; Jacob pushed back on confirmation agreements and offered inspection-period extension through Tuesday 2026-06-02. Bob McAuliff now asks Jacob to confirm the extension by reply.",
+      "property": "Hamilton, OH",
+      "status": "Inspection period is extended through Tuesday 2026-06-02; Stan Bobowski asked Jacob, Micah, and Ashby to send available times today for a call to discuss next steps on title/Dutch Bros issues.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob should reply confirming inspection period is extended through Tuesday, June 2, 2026.",
+      "nextStep": "Send availability today for GMX/Taft/Anchor call before the June 2 inspection-period deadline.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -22769,6 +22783,11 @@
         {
           "date": "2026-06-01",
           "event": "Email from Micah Lacher: Fwd: Account suspended - please contact us",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-01",
+          "event": "Stan Bobowski asked for available times today to discuss Hamilton title/Dutch Bros next steps.",
           "type": "email"
         },
         {
@@ -23337,8 +23356,8 @@
       "name": "HopeSmiles",
       "property": "3040 Sidco / HopeSmiles",
       "type": "Tenant Rep",
-      "status": "Charlie Gibson asked at 8:15 AM whether today's 3040 Sidco tour can move from 3:00 PM to either 1:15 PM or 3:30 PM.",
-      "nextStep": "Jacob needs to confirm 1:15 or 3:30 today with Charlie before the tour.",
+      "status": "Charlie Gibson asked Jacob to confirm whether Hope Smiles wants to move forward with a test fit at 3040 Sidco and whether Jacob will send an RFP.",
+      "nextStep": "Confirm test-fit direction and whether an RFP is coming.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -23375,6 +23394,11 @@
         {
           "date": "2026-06-01",
           "event": "Email from Adair, Bill: FW: 3040 Sidco",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-01",
+          "event": "Charlie Gibson requested confirmation on Hope Smiles test fit/RFP path for 3040 Sidco.",
           "type": "email"
         },
         {
