@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T07:16:52.196258",
+  "lastUpdated": "2026-06-02T07:17:26.895882",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-02",
@@ -47654,12 +47654,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 12/16",
+      "message": "Last email 6/2, Pipedrive not updated since 12/16",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2024-12-16",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 533
       }
     },
@@ -47667,12 +47667,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 8/22",
+      "message": "Last email 6/2, Pipedrive not updated since 8/22",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2024-08-22",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 649
       }
     },
@@ -47680,12 +47680,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 8/26",
+      "message": "Last email 6/2, Pipedrive not updated since 8/26",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-08-26",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 280
       }
     },
@@ -47693,12 +47693,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 3/19",
+      "message": "Last email 6/2, Pipedrive not updated since 3/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-03-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 440
       }
     },
@@ -47706,12 +47706,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -47719,12 +47719,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -47732,12 +47732,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -47745,12 +47745,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -47758,12 +47758,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -47771,12 +47771,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -47784,12 +47784,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -47797,12 +47797,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -47810,12 +47810,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -47823,12 +47823,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -47836,12 +47836,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -47849,12 +47849,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -47862,12 +47862,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 3/19",
+      "message": "Last email 6/2, Pipedrive not updated since 3/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-03-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 440
       }
     },
@@ -47875,12 +47875,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 1/28",
+      "message": "Last email 6/2, Pipedrive not updated since 1/28",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2026-01-28",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 125
       }
     },
@@ -47888,12 +47888,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 2/19",
+      "message": "Last email 6/2, Pipedrive not updated since 2/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2026-02-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 103
       }
     },
@@ -47901,12 +47901,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 1/5",
+      "message": "Last email 6/2, Pipedrive not updated since 1/5",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2026-01-05",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 148
       }
     },
@@ -47914,12 +47914,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 1/28",
+      "message": "Last email 6/2, Pipedrive not updated since 1/28",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2026-01-28",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 125
       }
     },
@@ -47927,12 +47927,12 @@
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -47940,12 +47940,12 @@
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -47953,12 +47953,12 @@
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -47966,12 +47966,12 @@
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -47979,12 +47979,12 @@
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48083,12 +48083,12 @@
       "deal": "Evansville - church deal",
       "property": "Evansville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/29, Pipedrive not updated since 8/25",
+      "message": "Last email 6/2, Pipedrive not updated since 8/25",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-29",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-08-25",
-        "emailDaysAgo": 4,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 281
       }
     },
@@ -48096,12 +48096,12 @@
       "deal": "Evansville Morgan Avenue Shopping Center",
       "property": "Evansville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/29, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-29",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 4,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48109,12 +48109,12 @@
       "deal": "Evansville Pavilion",
       "property": "Evansville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/29, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-29",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 4,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48122,12 +48122,12 @@
       "deal": "Evansville Pavilion",
       "property": "Evansville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/29, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-29",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 4,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48135,12 +48135,12 @@
       "deal": "Evansville West Center",
       "property": "Evansville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/29, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-29",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 4,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48551,12 +48551,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 3/11",
+      "message": "Last email 6/2, Pipedrive not updated since 3/11",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-03-11",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 448
       }
     },
@@ -48564,12 +48564,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 10/15",
+      "message": "Last email 6/2, Pipedrive not updated since 10/15",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-10-15",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 230
       }
     },
@@ -48577,12 +48577,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 3/11",
+      "message": "Last email 6/2, Pipedrive not updated since 3/11",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-03-11",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 448
       }
     },
@@ -48590,12 +48590,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 3/11",
+      "message": "Last email 6/2, Pipedrive not updated since 3/11",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-03-11",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 448
       }
     },
@@ -48603,12 +48603,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 3/11",
+      "message": "Last email 6/2, Pipedrive not updated since 3/11",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-03-11",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 448
       }
     },
@@ -48616,12 +48616,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48629,12 +48629,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 3/20",
+      "message": "Last email 6/2, Pipedrive not updated since 3/20",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2026-03-20",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 74
       }
     },
@@ -48642,12 +48642,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48655,12 +48655,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48668,12 +48668,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48681,12 +48681,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48694,12 +48694,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48707,12 +48707,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48720,12 +48720,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48733,12 +48733,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48746,12 +48746,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/12",
+      "message": "Last email 6/2, Pipedrive not updated since 9/12",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-12",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 263
       }
     },
@@ -48759,12 +48759,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48772,12 +48772,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48785,12 +48785,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 10/15",
+      "message": "Last email 6/2, Pipedrive not updated since 10/15",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-10-15",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 230
       }
     },
@@ -48798,12 +48798,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48811,12 +48811,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 10/15",
+      "message": "Last email 6/2, Pipedrive not updated since 10/15",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-10-15",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 230
       }
     },
@@ -48824,12 +48824,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48837,12 +48837,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48850,12 +48850,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48863,12 +48863,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48876,12 +48876,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48889,12 +48889,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48902,12 +48902,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 1/12",
+      "message": "Last email 6/2, Pipedrive not updated since 1/12",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2026-01-12",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 141
       }
     },
@@ -48915,12 +48915,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48928,12 +48928,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48941,12 +48941,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48954,12 +48954,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48967,12 +48967,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48980,12 +48980,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -48993,12 +48993,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -49006,12 +49006,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -49019,12 +49019,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -49032,12 +49032,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -49045,12 +49045,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -49058,12 +49058,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -49071,12 +49071,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -49084,12 +49084,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -49097,12 +49097,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 10/14",
+      "message": "Last email 6/2, Pipedrive not updated since 10/14",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-10-14",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 231
       }
     },
@@ -49110,12 +49110,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -49123,12 +49123,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 10/15",
+      "message": "Last email 6/2, Pipedrive not updated since 10/15",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-10-15",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 230
       }
     },
@@ -49136,12 +49136,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -49149,12 +49149,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -49162,12 +49162,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -49175,12 +49175,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -49188,12 +49188,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -49201,12 +49201,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 10/15",
+      "message": "Last email 6/2, Pipedrive not updated since 10/15",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-10-15",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 230
       }
     },
@@ -50761,12 +50761,12 @@
       "deal": "QT Nails",
       "property": "Montgomery (1642 Atlanta HWY)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/26, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-26",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 7,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -50774,12 +50774,12 @@
       "deal": "QT Nails",
       "property": "Montgomery (1642 Atlanta HWY)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/26, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-26",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 7,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -50787,12 +50787,12 @@
       "deal": "QT Nails",
       "property": "Montgomery (1642 Atlanta HWY)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/26, Pipedrive not updated since 9/19",
+      "message": "Last email 6/2, Pipedrive not updated since 9/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-26",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-09-19",
-        "emailDaysAgo": 7,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 256
       }
     },
@@ -50800,12 +50800,12 @@
       "deal": "QT Nails",
       "property": "Montgomery (1642 Atlanta HWY)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/26, Pipedrive not updated since 11/26",
+      "message": "Last email 6/2, Pipedrive not updated since 11/26",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-26",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-11-26",
-        "emailDaysAgo": 7,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 188
       }
     },
@@ -50813,12 +50813,12 @@
       "deal": "QT Nails",
       "property": "Montgomery (1642 Atlanta HWY)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/26, Pipedrive not updated since 10/15",
+      "message": "Last email 6/2, Pipedrive not updated since 10/15",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-05-26",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2025-10-15",
-        "emailDaysAgo": 7,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 230
       }
     },
@@ -51606,12 +51606,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 5/6",
+      "message": "Last email 6/2, Pipedrive not updated since 5/6",
       "severity": "medium",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2026-05-06",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 27
       }
     },
@@ -51619,12 +51619,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 5/15",
+      "message": "Last email 6/2, Pipedrive not updated since 5/15",
       "severity": "medium",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2026-05-15",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 18
       }
     },
@@ -51632,12 +51632,12 @@
       "deal": "Ajay Secore - Golf Simulator",
       "property": "Malone Plaza (Unit 3)",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 5/6",
+      "message": "Last email 6/2, Pipedrive not updated since 5/6",
       "severity": "medium",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2026-05-06",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 27
       }
     },
@@ -51645,12 +51645,12 @@
       "deal": "Evansville - Where Ya Bin",
       "property": "Evansville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 5/29, Pipedrive not updated since 5/12",
+      "message": "Last email 6/2, Pipedrive not updated since 5/12",
       "severity": "medium",
       "details": {
-        "lastEmailDate": "2026-05-29",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2026-05-12",
-        "emailDaysAgo": 4,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 21
       }
     },
@@ -51697,12 +51697,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 5/6",
+      "message": "Last email 6/2, Pipedrive not updated since 5/6",
       "severity": "medium",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2026-05-06",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 27
       }
     },
@@ -51710,12 +51710,12 @@
       "deal": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/1, Pipedrive not updated since 5/15",
+      "message": "Last email 6/2, Pipedrive not updated since 5/15",
       "severity": "medium",
       "details": {
-        "lastEmailDate": "2026-06-01",
+        "lastEmailDate": "2026-06-02",
         "lastPipedriveDate": "2026-05-15",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 18
       }
     },
