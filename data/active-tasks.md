@@ -1,6 +1,6 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-06-01 6:00 PM CDT
+Last updated: 2026-06-02 5:25 AM CDT
 
 <!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T198 -->
 
@@ -8,7 +8,7 @@ Last updated: 2026-06-01 6:00 PM CDT
 
 ### This Week (week of 5/11)
 
-- T197: May 2026 expense report due Wednesday 2026-06-03 — started prep in `expense-receipts/2026-05/`; Carole May CC total not found yet after Gmail search, confirmed/staged ZIO'S Lounge $66.27 ICSC meal receipt from #receipts, and next step is pulling May unused card transactions from Concur before receipt/coding reconciliation. [source: #receipts 2026-06-01] [due: 2026-06-03] [project: expense report]
+- T197: May 2026 expense report due Wednesday 2026-06-03 — Concur May charge list pulled; 18 upload-ready receipts totaling `$1,453.89` are staged under `expense-receipts/2026-05/upload-ready/`, with 8 missing/portal-review items totaling `$1,839.68` after matching the MKT LAS and Las Vegas Convention Center receipts. Carole May CC total still not found in Gmail; CC-total check crons are scheduled for 2026-06-02 and 2026-06-03 at 08:30 CDT. [source: #receipts/Concur/Gmail 2026-06-01] [due: 2026-06-03] [project: expense report]
 
 - T068: Send Malone flyer to small shop tenants — carried forward in latest reaction card; still depends on finished flyer. [asana: 1213840882213654] [depends on: T069] [monday-sync 5/1: carry; reaction-card 5/3: carry]
 - T069: Finish Malone flyer — carried forward in latest reaction card. [asana: 1213840882213751] [monday-sync 5/1: carry; reaction-card 5/3: carry]

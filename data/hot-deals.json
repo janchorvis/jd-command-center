@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T05:12:16.957144",
+  "lastUpdated": "2026-06-02T07:16:41.000014",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-02",
@@ -51685,12 +51685,12 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-06-02T05:11:30",
+    "generatedAt": "2026-06-02T07:16:41",
     "source": "active-tasks",
     "yourPlate": [
       {
         "id": "sweep-plate-1",
-        "text": "May 2026 expense report due Wednesday 2026-06-03 — started prep in `expense-receipts/2026-05/`; Carole May CC total not found yet after Gmail search, confirmed/staged ZIO'S Lounge $66.27 ICSC meal receipt from #receipts, and next step is pulling May unused card transactions from Concur before receipt/coding reconciliation",
+        "text": "May 2026 expense report due Wednesday 2026-06-03 — Concur May charge list pulled; 18 upload-ready receipts totaling `$1,453.89` are staged under `expense-receipts/2026-05/upload-ready/`, with 8 missing/portal-review items totaling `$1,839.68` after matching the MKT LAS and Las Vegas Convention Center receipts. Carole May CC total still not found in Gmail; CC-total check crons are scheduled for 2026-06-02 and 2026-06-03 at 08:30 CDT",
         "detail": "",
         "completed": false,
         "source": "active-tasks"
@@ -52599,14 +52599,14 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-06-02T05:11:30",
+    "generatedAt": "2026-06-02T07:16:41",
     "source": "active-tasks",
     "items": [
       {
         "id": "focus-plate-1",
         "dealName": "May 2026 expense report due Wednesday 2026-06-03",
         "property": null,
-        "action": "started prep in `expense-receipts/2026-05/`; Carole May CC total not found yet after Gmail search, confirmed/staged ZIO'S Lounge $66.27 I...",
+        "action": "Concur May charge list pulled; 18 upload-ready receipts totaling `$1,453.89` are staged under `expense-receipts/2026-05/upload-ready/`, w...",
         "why": "Top of your active task list this week.",
         "urgency": "high",
         "type": "task"
