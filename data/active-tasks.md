@@ -1,12 +1,14 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-05-31 1:27 AM CDT
+Last updated: 2026-06-01 6:00 PM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T197 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T198 -->
 
 ## ACTIVE — Jacob needs to do these
 
 ### This Week (week of 5/11)
+
+- T197: May 2026 expense report due Wednesday 2026-06-03 — started prep in `expense-receipts/2026-05/`; Carole May CC total not found yet after Gmail search, confirmed/staged ZIO'S Lounge $66.27 ICSC meal receipt from #receipts, and next step is pulling May unused card transactions from Concur before receipt/coding reconciliation. [source: #receipts 2026-06-01] [due: 2026-06-03] [project: expense report]
 
 - T068: Send Malone flyer to small shop tenants — carried forward in latest reaction card; still depends on finished flyer. [asana: 1213840882213654] [depends on: T069] [monday-sync 5/1: carry; reaction-card 5/3: carry]
 - T069: Finish Malone flyer — carried forward in latest reaction card. [asana: 1213840882213751] [monday-sync 5/1: carry; reaction-card 5/3: carry]
@@ -86,7 +88,7 @@ Last updated: 2026-05-31 1:27 AM CDT
 
 
 ### Next Week+
-- T196: Monitor Monday 2026-06-01 Daily Morning Briefing and stale AM sweep pending file — verify the next scheduled Daily Morning Briefing delivers normally at 7:30 AM CDT after Friday recovery; keep `memory/am-sweep-pending.md` visible in the briefing or dispatch it only if Jacob explicitly says go. [source: heartbeat commitment rollover 2026-05-31; job: 7cb5add0-c465-44c1-b950-ecb78ddd06f5] [internal]
+- T196: Monitor Tuesday 2026-06-02 Daily Morning Briefing recovery after Monday timeout — Monday 2026-06-01 7:30 AM run timed out with `deliveryStatus=unknown` and no June 1 Discord briefing found; Jacob was alerted on Telegram message `6948`. Verify Tuesday 2026-06-02 7:30 AM delivers normally before closing, and keep `memory/am-sweep-pending.md` visible in the briefing or dispatch it only if Jacob explicitly says go. [source: heartbeat commitment rollover 2026-05-31; 2026-06-01 heartbeat; job: 7cb5add0-c465-44c1-b950-ecb78ddd06f5] [internal]
 - T019: Reach out to Runnings — exclusive with Ashby [source: brain-dump 3/6] [asana: 1213420777322230]
 - T048: Vercel → janchorvis GitHub reconnect (manual step, ~5 min) [source: SESSION_HANDOFF 3/12, not urgent]
 - T131: Label Shopper / Malone — monitor October 2027 expiration and renewal risk in light of Marshalls/Five Below; Micah flagged urgency because Label Shopper may be nervous about Marshalls. [source: 4/27 Plaud weekly meeting] [deal: Malone]
@@ -101,7 +103,7 @@ Last updated: 2026-05-31 1:27 AM CDT
 
 Note: WATCHING items should be removed once real movement comes in. Gastonia laundromat was removed on 4/10 after a fresh DocuSign reminder signaled movement. Pell City was removed earlier on 4/10 after fresh email movement from Factory Connection. McMinnville monument sign was removed on 4/14 after Clay sent fresh Slack PDFs/comments for review. ABC Russellville was removed on 4/27 after Clay asked whether to commission the ABC work; it is now active as T122. Crunch Fitness and McMinnville landscaping were removed from WATCHING on 5/5 and promoted to active follow-up tasks T152/T146. T137 Academy/Shelbyville started 5/4 and was flagged stale on 5/12 for the next morning briefing.
 
-- T137: Academy Sports / Shelbyville — watch for response after Jacob sends pitch for former Big Lots box at 1840 E Michigan Rd; if no response, follow up with Brian Ferguson / Academy real estate contact. Proof points: ~30 miles from Indianapolis, ~25-30 min from Greenwood Academy store, 40K SF box, E Michigan Rd retail corridor, Academy outside-in exurb/satellite strategy. [source: Jacob 5/4; deal: Shelbyville] [stale-watch 5/13: 9 days with no movement; queued for 5/14 morning briefing; still quiet in 5/15, 5/18, 5/19, 5/20 checks, 5/21 AM sweep, 5/22 triage/self-review, 5/25 triage/self-review, 5/26 triage/self-review, 5/27 self-review, 5/29 AM sweep, and 5/29 self-review; keep visible in next briefing if no movement]
+- T137: Academy Sports / Shelbyville — watch for response after Jacob sends pitch for former Big Lots box at 1840 E Michigan Rd; if no response, follow up with Brian Ferguson / Academy real estate contact. Proof points: ~30 miles from Indianapolis, ~25-30 min from Greenwood Academy store, 40K SF box, E Michigan Rd retail corridor, Academy outside-in exurb/satellite strategy. [source: Jacob 5/4; deal: Shelbyville] [stale-watch 5/13: 9 days with no movement; queued for 5/14 morning briefing; still quiet in 5/15, 5/18, 5/19, 5/20 checks, 5/21 AM sweep, 5/22 triage/self-review, 5/25 triage/self-review, 5/26 triage/self-review, 5/27 self-review, 5/29 AM sweep, 5/29 self-review, and 6/1 comm triage/self-review; keep visible in next briefing if no movement]
 
 ## COMPLETED — Recent (auto-cleaned after 7 days)
 
