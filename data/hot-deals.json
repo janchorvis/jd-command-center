@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T07:17:26.895882",
+  "lastUpdated": "2026-06-02T15:22:03.335966",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-02",
@@ -4978,11 +4978,16 @@
       "id": "gastonia-laundromat",
       "name": "Chad Vang - Laundromat",
       "property": "Dixie Village",
-      "status": "New Crexi inquiry from David W. asking for information about the two end spaces at Dixie Village in Gastonia.",
+      "status": "Juany Almanza replied to the Dixie Village LoopNet thread: new Mexican bakery concept, first venture, looking for 1,200-1,700 SF; Gmail draft loaded for Jacob to check with ownership and circle back.",
       "stage": "LOI",
-      "nextStep": "Draft/approve Crexi response asking for best phone/email and clarifying which end spaces/use/SF he is considering.",
+      "nextStep": "Jacob approve/send draft reply to Juany after deciding whether ownership is open to another bakery use.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-06-02",
+          "event": "Juany Almanza replied on Dixie Village LoopNet lead: Mexican bakery concept, new venture, 1,200-1,700 SF; Gmail draft r6931857387735745676 loaded on thread 19e83b9bd2847c27.",
+          "type": "lead"
+        },
         {
           "date": "2026-06-01",
           "event": "Email from Chris Brophy: PCON | Grant Funding Strategy",
@@ -5639,7 +5644,8 @@
         "Belky Rodriguez — 704-605-9280 — mibella1988@gmail.com",
         "Elie Najar (904-666-8564, elienajar123@gmail.com)",
         "David W. (Crexi lead)",
-        "David W. - Crexi inquiry"
+        "David W. - Crexi inquiry",
+        "Juany Almanza (prospect)"
       ],
       "actions": [
         {
@@ -23511,9 +23517,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton, OH",
-      "status": "Post-call, GMX/Taft asked Jacob and Ashby to confirm agreement to extend the inspection period to Tuesday 2026-06-09 while Dutch legal reviews the proposed solutions Ashby is drafting/sending.",
+      "status": "Ashby sent revised Seller Estoppel drafts for AutoZone/Subway and an owner's affidavit form after the Dutch Bros title/inspection-period call; seller posture remains existing docs/title affidavit path instead of tenant-signed agreements.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob needs to reply confirming the inspection-period extension to 2026-06-09.",
+      "nextStep": "Jacob/Micah review Ashby's revised estoppel/affidavit package and give thoughts; inspection period currently extended to 2026-06-09.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -23532,6 +23538,11 @@
         "Karen D'Antonio (Taft)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-02",
+          "event": "Ashby Scott sent revised Seller Estoppel drafts for AutoZone/Subway plus owner affidavit form for Hamilton/Dutch Bros title issue; requested Jacob/Micah review and thoughts.",
+          "type": "email"
+        },
         {
           "date": "2026-06-01",
           "event": "Email from Chris Brophy: PCON | Grant Funding Strategy",
