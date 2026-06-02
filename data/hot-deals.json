@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T16:03:54.481600",
+  "lastUpdated": "2026-06-02T16:30:10.765518",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-02",
@@ -7126,6 +7126,11 @@
       "nextStep": "Jacob on call with Ashby at 10 AM — get through comments, push for signature",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-02",
+          "event": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  malkeetsingh@nhit.co.in",
+          "type": "email"
+        },
         {
           "date": "2026-06-02",
           "event": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
@@ -31433,6 +31438,16 @@
       "timeline": [
         {
           "date": "2026-06-02",
+          "event": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (08434)",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-02",
+          "event": "Email from Marlon Rodriguez: LoopNet Lead for Dixie Village Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-02",
           "event": "LoopNet lead from Marlon Rodriguez (704-307-1530, marlonjavy@yahoo.com) for Dixie Village. Gmail draft r266459856571672694 loaded on thread 19e8a1b499308a81 asking business type.",
           "type": "lead"
         }
@@ -32174,28 +32189,28 @@
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  malkeets",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  malkeets",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  malkeets",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  malkeets",
       "urgency": "low"
     },
     {
@@ -33398,6 +33413,13 @@
     {
       "name": "Jesse Warhurst <jessewarhurst@yahoo.com>",
       "deal": "Jesse Warhurst - Building 16 inquiry — Franklin Center / Russellville, AL",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (084",
+      "urgency": "low"
+    },
+    {
+      "name": "Marlon Rodriguez",
+      "deal": "Marlon Rodriguez — Dixie Village Shopping Center",
       "daysSinceContact": 0,
       "lastAction": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (084",
       "urgency": "low"
