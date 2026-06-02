@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T15:30:11.873363",
+  "lastUpdated": "2026-06-02T16:03:17.973643",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-02",
@@ -54,7 +54,8 @@
       "Add in new Rocks (overdue — due 2026-05-19)",
       "PCON feedback: Zack Hubiak (overdue — due 2026-05-15)",
       "PCON feedback: Sean Spafford (overdue — due 2026-05-15)",
-      "PCON feedback: Griffin Hodge (overdue — due 2026-04-02)"
+      "PCON feedback: Griffin Hodge (overdue — due 2026-04-02)",
+      "Marlon Rodriguez / Dixie Village LoopNet lead — approve/send Gmail draft asking business type"
     ]
   },
   "pipelineDeals": [
@@ -5052,10 +5053,10 @@
     {
       "id": "gastonia-laundromat",
       "name": "Chad Vang - Laundromat",
-      "property": "Dixie Village",
-      "status": "Juany Almanza replied to the Dixie Village LoopNet thread: new Mexican bakery concept, first venture, looking for 1,200-1,700 SF; Gmail draft loaded for Jacob to check with ownership and circle back.",
+      "property": "Dixie Village Shopping Center",
+      "status": "Marlon Rodriguez submitted a LoopNet lead for Dixie Village, gave phone/email, and indicated a space need under/around 4,000 SF; Gmail draft loaded for Jacob approval asking for business type.",
       "stage": "LOI",
-      "nextStep": "Jacob approve/send draft reply to Juany after deciding whether ownership is open to another bakery use.",
+      "nextStep": "Jacob approve/send draft reply to Marlon asking for business type.",
       "priority": "medium",
       "timeline": [
         {
@@ -5071,6 +5072,11 @@
         {
           "date": "2026-06-02",
           "event": "Juany Almanza replied on Dixie Village LoopNet lead: Mexican bakery concept, new venture, 1,200-1,700 SF; Gmail draft r6931857387735745676 loaded on thread 19e83b9bd2847c27.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-06-02",
+          "event": "LoopNet lead from Marlon Rodriguez (704-307-1530, marlonjavy@yahoo.com) for Dixie Village. Gmail draft r266459856571672694 loaded on thread 19e8a1b499308a81 asking business type.",
           "type": "lead"
         },
         {
@@ -5730,7 +5736,8 @@
         "Elie Najar (904-666-8564, elienajar123@gmail.com)",
         "David W. (Crexi lead)",
         "David W. - Crexi inquiry",
-        "Juany Almanza (prospect)"
+        "Juany Almanza (prospect)",
+        "Marlon Rodriguez (LoopNet prospect)"
       ],
       "actions": [
         {
