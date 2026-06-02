@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T16:30:11.243178",
+  "lastUpdated": "2026-06-02T17:02:00.889832",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-02",
@@ -24682,6 +24682,26 @@
       "stageOverride": "Lease Signed",
       "stageOverrideDate": "2026-05-13",
       "stageOverrideSource": "email-signal: complete with docusign"
+    },
+    {
+      "id": "smart-led-highland",
+      "name": "Smart LED TN LLC",
+      "property": "Highland - 2151 N Highland Ave, Jackson TN",
+      "status": "Amin Lakhani submitted a lease application for Smart LED TN LLC / Led Lighting. Proposed use: expansion of business. Requested lease term: 5 years. Application says supporting financial PDFs were submitted and notes they already sent Jacob a proposal/text message.",
+      "stage": "Obtain Financials",
+      "nextStep": "Jacob/Adam should review application package and uploaded financials for Highland Ave Jackson TN.",
+      "priority": "medium",
+      "contacts": [
+        "Amin Lakhani (Smart LED TN LLC) - smartledtn@gmail.com - 901-907-2646"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-02",
+          "event": "Lease application received from Amin Lakhani for Smart LED TN LLC at Highland Ave Jackson TN.",
+          "type": "lead"
+        }
+      ],
+      "actions": []
     }
   ],
   "sideDeals": [
