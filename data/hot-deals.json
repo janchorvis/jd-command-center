@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T11:30:22.268647",
+  "lastUpdated": "2026-06-03T12:03:59.545146",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-03",
@@ -5153,11 +5153,16 @@
       "id": "gastonia-laundromat",
       "name": "Chad Vang - Laundromat",
       "property": "Dixie Village",
-      "status": "Juany Almanza replied to the Dixie Village LoopNet thread: new Mexican bakery concept, first venture, looking for 1,200-1,700 SF; Gmail draft loaded for Jacob to check with ownership and circle back.",
+      "status": "Juany Almanza confirmed she has the $140,000 on hand and wants 1,300-1,600 SF for the Mexican bakery concept at Dixie Village.",
       "stage": "LOI",
-      "nextStep": "Jacob approve/send draft reply to Juany after deciding whether ownership is open to another bakery use.",
+      "nextStep": "Jacob review with ownership and decide whether another Mexican bakery use is acceptable at Dixie Village.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-06-03",
+          "event": "Inbox: Juany confirmed funds are on hand and target size is 1,300-1,600 SF; Gmail draft loaded for Jacob to review with ownership and circle back.",
+          "type": "lead"
+        },
         {
           "date": "2026-06-02",
           "event": "Email from Heather G.: Heather G. requesting Information on 2433 Buena Vista Pike in Nashville",
@@ -5840,7 +5845,8 @@
         "Elie Najar (904-666-8564, elienajar123@gmail.com)",
         "David W. (Crexi lead)",
         "David W. - Crexi inquiry",
-        "Juany Almanza (prospect)"
+        "Juany Almanza (prospect)",
+        "Juany Almanza"
       ],
       "actions": [
         {
