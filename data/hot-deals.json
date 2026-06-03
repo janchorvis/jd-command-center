@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T12:31:04.891340",
+  "lastUpdated": "2026-06-03T13:30:58.906642",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-03",
@@ -77,6 +77,11 @@
       "nextStep": "Finish attorney answers and send redlines by end of week.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-03",
+          "event": "Email from Robert Henson: Big Lots Evansville",
+          "type": "email"
+        },
         {
           "date": "2026-06-03",
           "event": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
@@ -6031,6 +6036,11 @@
       "nextStep": "Monitor ABC timing and coordinate any move-in pressure with Clay/contractor.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-06-03",
+          "event": "Email from Brandon Hoop: 144 Wilson",
+          "type": "email"
+        },
         {
           "date": "2026-06-03",
           "event": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This November",
@@ -13159,6 +13169,11 @@
       "timeline": [
         {
           "date": "2026-06-03",
+          "event": "Email from Robert Henson: Big Lots Evansville",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-03",
           "event": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Extension",
           "type": "email"
         },
@@ -20095,6 +20110,11 @@
       "timeline": [
         {
           "date": "2026-06-03",
+          "event": "Email from Jeff Runion: Finalzing Cybersecurity Licenses and setup",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-03",
           "event": "Email from Jacob Delk: Shelbyville Fireworks",
           "type": "email"
         },
@@ -21595,6 +21615,11 @@
       "nextStep": "Provide building drawings showing pillar placement to Rob/Easterseals after positive site visit.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-03",
+          "event": "Email from Robert Henson: Big Lots Evansville",
+          "type": "email"
+        },
         {
           "date": "2026-06-02",
           "event": "Email from Jonathan Buckelew & Topher Stephenson: CRE AI Studio: Building a Second Brain in Claude",
@@ -25476,6 +25501,11 @@
       "timeline": [
         {
           "date": "2026-06-03",
+          "event": "Email from Brandon Hoop: 144 Wilson",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-03",
           "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
           "type": "email"
         },
@@ -26466,6 +26496,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-06-03",
+          "event": "Email from Brandon Hoop: 144 Wilson",
+          "type": "email"
+        },
         {
           "date": "2026-06-03",
           "event": "Email from 'Patrick Kapla' via PCON Board: Cystic Fibrosis Fundraiser - 30 Under 30",
@@ -32146,6 +32181,11 @@
       "timeline": [
         {
           "date": "2026-06-03",
+          "event": "Email from Riki at BeWell in School: Summer Resources, School Supplies & New Faces at BeWell",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-03",
           "event": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
           "type": "email"
         },
@@ -32921,199 +32961,178 @@
       "urgency": "low"
     },
     {
-      "name": "Laurie",
-      "deal": " — Evansville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: CRE AI Studio: Building a Seco",
-      "urgency": "low"
-    },
-    {
-      "name": "Rob Henson - Easterseals - 812-202-9384",
-      "deal": " — Evansville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: CRE AI Studio: Building a Seco",
-      "urgency": "low"
-    },
-    {
-      "name": "Laurie Seals - Easterseals",
-      "deal": " — Evansville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: CRE AI Studio: Building a Seco",
-      "urgency": "low"
-    },
-    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Dawn Baker",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Justin Jeror <justin.jeror@gmail.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher <mlacher@anchorinv.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Bill Castagna",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Julia Gibson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
@@ -33218,42 +33237,42 @@
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Carole",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Kurt Wilson",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Kyle Lindsey",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Kurt Wilson",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Kyle Lindsey",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
@@ -33386,147 +33405,147 @@
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson <Robert_Richardson@tjx.com>",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano <andriano@c2-designgroup.com>",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
       "name": "Laurie Schindler",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
@@ -33792,126 +33811,147 @@
       "name": "Joey",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
+      "lastAction": "Email from Jeff Runion: Finalzing Cybersecurity Licenses and setup",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
+      "lastAction": "Email from Jeff Runion: Finalzing Cybersecurity Licenses and setup",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
+      "lastAction": "Email from Jeff Runion: Finalzing Cybersecurity Licenses and setup",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
+      "lastAction": "Email from Jeff Runion: Finalzing Cybersecurity Licenses and setup",
       "urgency": "low"
     },
     {
       "name": "ala h.",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
+      "lastAction": "Email from Jeff Runion: Finalzing Cybersecurity Licenses and setup",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
+      "lastAction": "Email from Jeff Runion: Finalzing Cybersecurity Licenses and setup",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
+      "lastAction": "Email from Jeff Runion: Finalzing Cybersecurity Licenses and setup",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
+      "lastAction": "Email from Jeff Runion: Finalzing Cybersecurity Licenses and setup",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti <jvalenti@centenretail.com>",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
+      "lastAction": "Email from Jeff Runion: Finalzing Cybersecurity Licenses and setup",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
+      "lastAction": "Email from Jeff Runion: Finalzing Cybersecurity Licenses and setup",
       "urgency": "low"
     },
     {
       "name": "EJ",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
+      "lastAction": "Email from Jeff Runion: Finalzing Cybersecurity Licenses and setup",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
+      "lastAction": "Email from Jeff Runion: Finalzing Cybersecurity Licenses and setup",
       "urgency": "low"
     },
     {
       "name": "Tim Mehta",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
+      "lastAction": "Email from Jeff Runion: Finalzing Cybersecurity Licenses and setup",
       "urgency": "low"
     },
     {
       "name": "Tim Mehta",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
+      "lastAction": "Email from Jeff Runion: Finalzing Cybersecurity Licenses and setup",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
+      "lastAction": "Email from Jeff Runion: Finalzing Cybersecurity Licenses and setup",
       "urgency": "low"
     },
     {
       "name": "Punit Patel / Great Greek corporate",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
+      "lastAction": "Email from Jeff Runion: Finalzing Cybersecurity Licenses and setup",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
+      "lastAction": "Email from Jeff Runion: Finalzing Cybersecurity Licenses and setup",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
+      "lastAction": "Email from Jeff Runion: Finalzing Cybersecurity Licenses and setup",
+      "urgency": "low"
+    },
+    {
+      "name": "Laurie",
+      "deal": " — Evansville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "urgency": "low"
+    },
+    {
+      "name": "Rob Henson - Easterseals - 812-202-9384",
+      "deal": " — Evansville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "urgency": "low"
+    },
+    {
+      "name": "Laurie Seals - Easterseals",
+      "deal": " — Evansville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Robert Henson: Big Lots Evansville",
       "urgency": "low"
     },
     {
@@ -34030,147 +34070,147 @@
       "name": "Amy Harper",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Dr. Phillip Kemp",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Dr. Kemp",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Amy",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Matty",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Ashley Marshall",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Bill Adair",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Amy",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Phillip Kemp",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Ross Smith",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Devin McClendon",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Ben Claybaker",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Brandon Hoop",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Mary Winston Cramer",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Maddison Sickels",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Charlie Gibson",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from 'Patrick Kapla' via PCON Board: Cystic Fibrosis Fundraiser - 30 Under",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from 'Patrick Kapla' via PCON Board: Cystic Fibrosis Fundraiser - 30 Under",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from 'Patrick Kapla' via PCON Board: Cystic Fibrosis Fundraiser - 30 Under",
+      "lastAction": "Email from Brandon Hoop: 144 Wilson",
       "urgency": "low"
     },
     {
@@ -34436,14 +34476,14 @@
       "name": "Richard Jones",
       "deal": "Charter School 30K+ SF Requirement — TBD",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Riki at BeWell in School: Summer Resources, School Supplies & New Fac",
       "urgency": "low"
     },
     {
       "name": "Daynon Kirby",
       "deal": "Charter School 30K+ SF Requirement — TBD",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Riki at BeWell in School: Summer Resources, School Supplies & New Fac",
       "urgency": "low"
     },
     {
