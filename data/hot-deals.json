@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T10:03:19.459852",
+  "lastUpdated": "2026-06-03T10:30:21.953475",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-03",
@@ -77,6 +77,11 @@
       "nextStep": "Finish attorney answers and send redlines by end of week.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-03",
+          "event": "Email from Jacob Delk: Shelbyville Fireworks",
+          "type": "email"
+        },
         {
           "date": "2026-06-03",
           "event": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
@@ -5843,6 +5848,11 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-06-03",
+          "event": "Email from Jacob Delk: Shelbyville Fireworks",
+          "type": "email"
+        },
+        {
           "date": "2026-06-02",
           "event": "Email from Jacob Delk: Shelbyville Fireworks",
           "type": "email"
@@ -5970,6 +5980,11 @@
       "nextStep": "Monitor ABC timing and coordinate any move-in pressure with Clay/contractor.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-06-03",
+          "event": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This November",
+          "type": "email"
+        },
         {
           "date": "2026-06-03",
           "event": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
@@ -17617,6 +17632,11 @@
       "timeline": [
         {
           "date": "2026-06-03",
+          "event": "Email from Jacob Delk: Shelbyville Fireworks",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-03",
           "event": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
           "type": "email"
         },
@@ -19909,6 +19929,11 @@
       "timeline": [
         {
           "date": "2026-06-03",
+          "event": "Email from Jacob Delk: Shelbyville Fireworks",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-03",
           "event": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
           "type": "email"
         },
@@ -21507,6 +21532,11 @@
       "nextStep": "Jacob: propose high teens + 4-5 mo free OR low twenties + 7 mo free. No $100K TI.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-06-03",
+          "event": "Email from Jacob Delk: Shelbyville Fireworks",
+          "type": "email"
+        },
         {
           "date": "2026-06-02",
           "event": "Email from Jacob Delk: Shelbyville Fireworks",
@@ -25243,6 +25273,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-06-03",
+          "event": "Email from Jacob Delk: Shelbyville Fireworks",
+          "type": "email"
+        },
         {
           "date": "2026-06-03",
           "event": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
@@ -29379,6 +29414,11 @@
       "timeline": [
         {
           "date": "2026-06-03",
+          "event": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This November",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-03",
           "event": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
           "type": "email"
         },
@@ -30146,6 +30186,11 @@
         "Jeb Thompson (Keystone Novelties)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-03",
+          "event": "Email from Jacob Delk: Shelbyville Fireworks",
+          "type": "email"
+        },
         {
           "date": "2026-06-03",
           "event": "Email from Jeb Thompson: SEVIERVILLE TN FORKS OF THE RIVER",
@@ -31752,6 +31797,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-06-03",
+          "event": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This November",
+          "type": "email"
+        },
+        {
           "date": "2026-06-02",
           "event": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
           "type": "email"
@@ -32650,13 +32700,6 @@
       "urgency": "low"
     },
     {
-      "name": "Derek Tucker",
-      "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
-      "urgency": "low"
-    },
-    {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
       "daysSinceContact": 1,
@@ -32790,234 +32833,227 @@
       "urgency": "low"
     },
     {
-      "name": "Kevin Moss",
-      "deal": "Royal Bazaar Indian — Parma Heights",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
-      "urgency": "low"
-    },
-    {
-      "name": "Royal Bazaar Indian",
-      "deal": "Royal Bazaar Indian — Parma Heights",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Kevin Trujillo: Re: River Parkway Plaza - LOI - CosmoProf",
-      "urgency": "low"
-    },
-    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Dawn Baker",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Justin Jeror <justin.jeror@gmail.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher <mlacher@anchorinv.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Bill Castagna",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Julia Gibson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
+      "urgency": "low"
+    },
+    {
+      "name": "Derek Tucker",
+      "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This",
       "urgency": "low"
     },
     {
       "name": "Carole",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This",
       "urgency": "low"
     },
     {
       "name": "Kurt Wilson",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This",
       "urgency": "low"
     },
     {
       "name": "Kyle Lindsey",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This",
       "urgency": "low"
     },
     {
       "name": "Kurt Wilson",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This",
       "urgency": "low"
     },
     {
       "name": "Kyle Lindsey",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This",
       "urgency": "low"
     },
     {
@@ -33374,63 +33410,63 @@
       "name": "Carmen Drake",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "James Stocker",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Carmine DiLucente",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Stan Bobowski",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Paul Takacs",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Andrew Goodman",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Karen D'Antonio",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
@@ -33521,126 +33557,126 @@
       "name": "Joey",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "ala h.",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti <jvalenti@centenretail.com>",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "EJ",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Tim Mehta",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Tim Mehta",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Punit Patel / Great Greek corporate",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
@@ -33745,126 +33781,126 @@
       "name": "Amy Harper",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Dr. Phillip Kemp",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Dr. Kemp",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Amy",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Matty",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Ashley Marshall",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Bill Adair",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Amy",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Phillip Kemp",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Ross Smith",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Devin McClendon",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Ben Claybaker",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Brandon Hoop",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Mary Winston Cramer",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Maddison Sickels",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Charlie Gibson",
       "deal": "HopeSmiles — 3040 Sidco",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
@@ -33969,28 +34005,28 @@
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
       "daysSinceContact": 0,
-      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
+      "lastAction": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This",
       "urgency": "low"
     },
     {
       "name": "Keystone Fireworks",
       "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jeb Thompson: SEVIERVILLE TN FORKS OF THE RIVER",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Jeb Thompson",
       "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jeb Thompson: SEVIERVILLE TN FORKS OF THE RIVER",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
       "name": "Jeb Thompson",
       "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jeb Thompson: SEVIERVILLE TN FORKS OF THE RIVER",
+      "lastAction": "Email from Jacob Delk: Shelbyville Fireworks",
       "urgency": "low"
     },
     {
@@ -34082,6 +34118,20 @@
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
       "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "urgency": "low"
+    },
+    {
+      "name": "Kevin Moss",
+      "deal": "Royal Bazaar Indian — Parma Heights",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This",
+      "urgency": "low"
+    },
+    {
+      "name": "Royal Bazaar Indian",
+      "deal": "Royal Bazaar Indian — Parma Heights",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This",
       "urgency": "low"
     },
     {
