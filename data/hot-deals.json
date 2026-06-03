@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T15:31:18.435596",
+  "lastUpdated": "2026-06-03T16:05:45.363697",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-03",
@@ -21635,14 +21635,19 @@
     {
       "id": "evansville-easterseals",
       "tenant": "Easterseals Rehabilitation",
-      "property": "Evansville",
-      "status": "Easterseals/Rob Henson replied that they are touring the Big Lots box again with a contractor at 2:30 PM CST and will update afterward.",
-      "nextStep": "Provide building drawings showing pillar placement to Rob/Easterseals after positive site visit.",
-      "priority": "high",
+      "property": "Evansville Big Lots",
+      "status": "Robert Henson sent details on Evansville Rehab's planned $25M facility, capital campaign, and potential Big Lots use for Adult Day Services / supportive programming.",
+      "nextStep": "Jacob to review internally and circle back; Gmail draft loaded.",
+      "priority": "medium",
       "timeline": [
         {
           "date": "2026-06-03",
           "event": "Email from Robert Henson: Big Lots Evansville",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-03",
+          "event": "Robert Henson provided Evansville Rehab concept/background for possible Big Lots use and capital campaign timing.",
           "type": "email"
         },
         {
@@ -21737,7 +21742,8 @@
       "contacts": [
         "Laurie (Easterseals)",
         "Rob Henson - Easterseals - 812-202-9384",
-        "Laurie Seals - Easterseals"
+        "Laurie Seals - Easterseals",
+        "Robert Henson (Evansville Rehab)"
       ]
     },
     {
@@ -25497,10 +25503,10 @@
     {
       "id": "hopesmiles",
       "name": "HopeSmiles",
-      "property": "3040 Sidco",
+      "property": "144 Wilson Pike",
       "type": "Tenant Rep",
-      "status": "Charlie Gibson asked 6/1 whether Hope Smiles wants to move forward with a test fit and whether an RFP is coming.",
-      "nextStep": "Confirm test fit/RFP direction to Charlie/Maddy.",
+      "status": "Brandon Hoop said C4 zoning initially appears workable for Dr. Kemp but recommended confirming with Brentwood planning before finalizing.",
+      "nextStep": "Jacob to get city confirmation and respond; Gmail draft loaded saying he will work on it and circle back.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -25519,7 +25525,8 @@
         "Brandon Hoop (NAI Nashville)",
         "Mary Winston Cramer (JLL)",
         "Maddison Sickels (Stream Realty)",
-        "Charlie Gibson (Stream Realty)"
+        "Charlie Gibson (Stream Realty)",
+        "Todd Petrowski (City of Brentwood Planning)"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-11",
@@ -25552,6 +25559,11 @@
         {
           "date": "2026-06-03",
           "event": "Email from CoStar News: CoStar Today: Food hall rebound sparks Las Vegas bet on Stix Asia expansion",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-03",
+          "event": "144 Wilson / Dr. Kemp follow-up: NAI recommended confirming use-change/zoning with Brentwood planning.",
           "type": "email"
         },
         {
@@ -32576,6 +32588,50 @@
           "type": "lead"
         }
       ]
+    },
+    {
+      "id": "pea-ridge-omar-hidais",
+      "name": "Omar Hidais",
+      "property": "Pea Ridge Shopping Center",
+      "status": "Omar Hidais said he operates several Tobacco/Vape shops across multiple states and is also a landlord after Jacob asked about operating history.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob to confirm desired square footage; Gmail draft loaded asking what size space he is looking for.",
+      "priority": "medium",
+      "contacts": [
+        "Omar Hidais"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-03",
+          "event": "Omar Hidais replied to Pea Ridge LoopNet follow-up with operating-history details; Gmail draft asks for target SF.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-06-03"
+    },
+    {
+      "id": "russellville-factory-connection-justin-rains",
+      "name": "Factory Connection",
+      "property": "Russellville",
+      "status": "Factory Connection says Russellville remains on target list for October openings and asked whether any new space is available.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob to verify current availability and reply; Gmail draft loaded saying he will check and get back.",
+      "priority": "medium",
+      "contacts": [
+        "Justin Rains (Factory Connection)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-03",
+          "event": "Justin Rains / Factory Connection asked for current Russellville openings for October target openings.",
+          "type": "email"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-06-03"
     }
   ],
   "droppedBalls": [
