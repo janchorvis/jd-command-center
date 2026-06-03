@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T13:30:58.906642",
+  "lastUpdated": "2026-06-03T15:31:18.435596",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-03",
@@ -77,6 +77,11 @@
       "nextStep": "Finish attorney answers and send redlines by end of week.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-03",
+          "event": "Email from Justin Rains: Russellville Update",
+          "type": "email"
+        },
         {
           "date": "2026-06-03",
           "event": "Email from Robert Henson: Big Lots Evansville",
@@ -6038,6 +6043,11 @@
       "timeline": [
         {
           "date": "2026-06-03",
+          "event": "Email from Justin Rains: Russellville Update",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-03",
           "event": "Email from Brandon Hoop: 144 Wilson",
           "type": "email"
         },
@@ -8876,6 +8886,11 @@
       "nextStep": "Wait for David S. to provide contact info/tour availability.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-06-03",
+          "event": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, FL | Build-to-Suit | Brand New",
+          "type": "email"
+        },
         {
           "date": "2026-06-03",
           "event": "Email from ICSC Commerce + Communities Today: ICSC Visual Victories Awards: 16 Pop-Ups, Kiosks and Temporary Stores That Broug",
@@ -16567,6 +16582,11 @@
       "timeline": [
         {
           "date": "2026-06-03",
+          "event": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, FL | Build-to-Suit | Brand New",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-03",
           "event": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
           "type": "email"
         },
@@ -18599,6 +18619,11 @@
         "Rawn Turner / Valor Healthcare"
       ],
       "timeline": [
+        {
+          "date": "2026-06-03",
+          "event": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, FL | Build-to-Suit | Brand New",
+          "type": "email"
+        },
         {
           "date": "2026-06-03",
           "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
@@ -27990,6 +28015,11 @@
       "timeline": [
         {
           "date": "2026-06-03",
+          "event": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin Corridor) + 121 Cleveland St (Clev",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-03",
           "event": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Extension",
           "type": "email"
         },
@@ -29670,6 +29700,11 @@
       "timeline": [
         {
           "date": "2026-06-03",
+          "event": "Email from Milrose Insights: Unlock Success: National Permitting Webinar 2026",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-03",
           "event": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This November",
           "type": "email"
         },
@@ -30442,6 +30477,11 @@
         "Jeb Thompson (Keystone Novelties)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-03",
+          "event": "Email from The Tech Buzz: Webinar in 15 Mins, Real Intent's Superagent",
+          "type": "email"
+        },
         {
           "date": "2026-06-03",
           "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
@@ -31685,6 +31725,11 @@
       "timeline": [
         {
           "date": "2026-06-03",
+          "event": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin Corridor) + 121 Cleveland St (Clev",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-03",
           "event": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
           "type": "email"
         },
@@ -31967,6 +32012,11 @@
         "Jordyn Stallings (Cushman & Wakefield)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-03",
+          "event": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin Corridor) + 121 Cleveland St (Clev",
+          "type": "email"
+        },
         {
           "date": "2026-06-01",
           "event": "Email from Brothers Burger Joint: Order & Pay Receipt for $118.43 at Brothers Burger Joint - 2821 Bransford Avenue",
@@ -32373,6 +32423,11 @@
         "Jesse Warhurst <jessewarhurst@yahoo.com>"
       ],
       "timeline": [
+        {
+          "date": "2026-06-03",
+          "event": "Email from Justin Rains: Russellville Update",
+          "type": "email"
+        },
         {
           "date": "2026-06-03",
           "event": "Email from Juany Almanza: LoopNet Lead for Dixie Village Shopping Center",
@@ -32940,13 +32995,6 @@
       "urgency": "low"
     },
     {
-      "name": "Jordyn Stallings",
-      "deal": "Jordyn Stallings - Daycare Inquiry — 2512 Gallatin Avenue",
-      "daysSinceContact": 2,
-      "lastAction": "Email from Brothers Burger Joint: Order & Pay Receipt for $118.43 at Brothers Bu",
-      "urgency": "low"
-    },
-    {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
       "daysSinceContact": 1,
@@ -32964,175 +33012,175 @@
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Dawn Baker",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Justin Jeror <justin.jeror@gmail.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher <mlacher@anchorinv.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Bill Castagna",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Julia Gibson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
@@ -33237,42 +33285,42 @@
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brandon Hoop: 144 Wilson",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Carole",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brandon Hoop: 144 Wilson",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Kurt Wilson",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brandon Hoop: 144 Wilson",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Kyle Lindsey",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brandon Hoop: 144 Wilson",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Kurt Wilson",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brandon Hoop: 144 Wilson",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
       "name": "Kyle Lindsey",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brandon Hoop: 144 Wilson",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
@@ -33307,77 +33355,77 @@
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: ICSC Visual Victories Awards: 16 P",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: ICSC Visual Victories Awards: 16 P",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: ICSC Visual Victories Awards: 16 P",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: ICSC Visual Victories Awards: 16 P",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: ICSC Visual Victories Awards: 16 P",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Jon Petty - jpetty@southeastventure.com",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: ICSC Visual Victories Awards: 16 P",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Amy Taylor",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: ICSC Visual Victories Awards: 16 P",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Amy Taylor",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: ICSC Visual Victories Awards: 16 P",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Shady Azez <shadyazezz@gmail.com>",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: ICSC Visual Victories Awards: 16 P",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Jon Petty <jpetty@southeastventure.com>",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: ICSC Visual Victories Awards: 16 P",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: ICSC Visual Victories Awards: 16 P",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
@@ -33573,91 +33621,91 @@
       "name": "Lauri Fowler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "David Cooke",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Abbey Gill",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Scott Myers <smyerscre2@outlook.com>",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Laurie",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Mitch",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Susan S.",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Susan Swindal / Mama Suz Fried Pies - Mamasuzfriedpies@gmail.com - 205-567-9667",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Susan Swindal / Mama Suz Fried Pies",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Christopher Keenan: PCON Board Meeting Prep | June 08, 2026",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
@@ -33727,84 +33775,84 @@
       "name": "Joe Wesley",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Shady Azez",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Richard Jones",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Thomas Cashion",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Thomas Cashion",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Rawn Turner",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Rawn Turner - rawn.turner@valorhealthcare.com - 972.435.4808",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
       "name": "Rawn Turner / Valor Healthcare",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from NLCM | Colliers​: JUST LISTED: Owens Corning Manufacturing | Ocala, F",
       "urgency": "low"
     },
     {
@@ -34217,126 +34265,126 @@
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
       "name": "Jordyn Stallings",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
       "name": "Rebecca Miller",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
       "name": "Lexy Burke",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
       "name": "Dylan Bennett",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
       "name": "Lexy Burke",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
       "name": "Dylan Bennett",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | Title Issues & Inspection Period Exte",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
       "daysSinceContact": 0,
-      "lastAction": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This",
+      "lastAction": "Email from Milrose Insights: Unlock Success: National Permitting Webinar 2026",
       "urgency": "low"
     },
     {
       "name": "Keystone Fireworks",
       "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from The Tech Buzz: Webinar in 15 Mins, Real Intent's Superagent",
       "urgency": "low"
     },
     {
       "name": "Jeb Thompson",
       "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from The Tech Buzz: Webinar in 15 Mins, Real Intent's Superagent",
       "urgency": "low"
     },
     {
       "name": "Jeb Thompson",
       "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
       "daysSinceContact": 0,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "lastAction": "Email from The Tech Buzz: Webinar in 15 Mins, Real Intent's Superagent",
       "urgency": "low"
     },
     {
@@ -34406,56 +34454,63 @@
       "name": "Tom Gaghan",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
       "name": "Tom Gaghan - 440-263-9792 - tom@clevelandfurniturebank.org",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
       "name": "Tom Gaghan",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
       "name": "Mathison Ingham",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
       "name": "Tom Gaghan",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
       "name": "Clay",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Clay Richardson: Requesting Leasing Comps - Madison & Wilson",
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
+      "urgency": "low"
+    },
+    {
+      "name": "Jordyn Stallings",
+      "deal": "Jordyn Stallings - Daycare Inquiry — 2512 Gallatin Avenue",
+      "daysSinceContact": 0,
+      "lastAction": "Email from mcooper@stridecre.com: New Listings | 1056 E. Trinity Lane (Gallatin ",
       "urgency": "low"
     },
     {
@@ -34497,7 +34552,7 @@
       "name": "Jesse Warhurst <jessewarhurst@yahoo.com>",
       "deal": "Jesse Warhurst - Building 16 inquiry — Franklin Center / Russellville, AL",
       "daysSinceContact": 0,
-      "lastAction": "Email from Juany Almanza: LoopNet Lead for Dixie Village Shopping Center",
+      "lastAction": "Email from Justin Rains: Russellville Update",
       "urgency": "low"
     },
     {
