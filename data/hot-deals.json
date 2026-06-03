@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T07:33:01.639398",
+  "lastUpdated": "2026-06-03T08:02:48.445762",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-03",
@@ -30034,16 +30034,21 @@
       "id": "fireworks-stands",
       "name": "Fireworks Stands",
       "property": "McMinnville Plaza / fireworks tent sites",
-      "status": "Jeb Thompson replied that Keystone already submitted McMinnville permits and is checking jurisdiction/site setup constraints after Jacob flagged a possible inherited prior fireworks agreement.",
+      "status": "Keystone's Sevierville / Forks of the River permit was denied at the city level, so Keystone needs to cancel that site for the 2026 season. Other fireworks tent locations are still progressing pending final smaller permits/approvals.",
       "stage": "Lease Signed",
-      "nextStep": "Wait for Keystone permitting/site setup update; continue DocuSign/exhibit path for active sites.",
-      "priority": "normal",
+      "nextStep": "Jacob should decide whether to request Keystone's formal permit-denial letter for Sevierville and confirm whether any lease/billing cleanup is needed for the cancelled site.",
+      "priority": "high",
       "contacts": [
         "Keystone Fireworks",
         "Jeb Thompson",
         "Jeb Thompson (Keystone Novelties)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-03",
+          "event": "Communication triage: Jeb Thompson said Keystone's Sevierville / Forks of the River city permit was denied, so Keystone needs to cancel that site for the 2026 season; other sites still appear to be progressing.",
+          "type": "email"
+        },
         {
           "date": "2026-06-02",
           "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
