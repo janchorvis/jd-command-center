@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T07:16:18.011226",
+  "lastUpdated": "2026-06-03T07:33:01.639398",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-03",
@@ -59,7 +59,10 @@
       "PCON feedback: Sean Spafford (overdue — due 2026-05-15)",
       "PCON feedback: Griffin Hodge (overdue — due 2026-04-02)",
       "Make flyer for mattresses listing (overdue — due 2026-03-23)",
-      "put mattresses on the market (overdue — due 2026-03-23)"
+      "put mattresses on the market (overdue — due 2026-03-23)",
+      "Review Smart LED TN LLC / Highland application and financial PDFs.",
+      "Review Juany Almanza's Dixie Village Mexican bakery business plan and ownership-fit question.",
+      "Handle Hamilton Community Partners seller-estoppel/owner-affidavit review before the 2026-06-09 inspection-period deadline."
     ]
   },
   "pipelineDeals": [
@@ -25086,14 +25089,19 @@
       "id": "smart-led-highland",
       "name": "Smart LED TN LLC",
       "property": "Highland - 2151 N Highland Ave, Jackson TN",
-      "status": "Amin Lakhani submitted a lease application for Smart LED TN LLC / Led Lighting. Proposed use: expansion of business. Requested lease term: 5 years. Application says supporting financial PDFs were submitted and notes they already sent Jacob a proposal/text message.",
+      "status": "Amin Lakhani submitted a Highland Ave Jackson TN lease application for Smart LED TN LLC; proposed use is business expansion, requested 5-year term, and supporting financial PDFs were listed in the Jotform submission.",
       "stage": "Obtain Financials",
-      "nextStep": "Jacob/Adam should review application package and uploaded financials for Highland Ave Jackson TN.",
-      "priority": "medium",
+      "nextStep": "Jacob/Adam should review application package and uploaded financials.",
+      "priority": "high",
       "contacts": [
         "Amin Lakhani (Smart LED TN LLC) - smartledtn@gmail.com - 901-907-2646"
       ],
       "timeline": [
+        {
+          "date": "2026-06-03",
+          "event": "Briefing: Highland / Smart LED TN LLC application is on Jacob's plate for review.",
+          "type": "task"
+        },
         {
           "date": "2026-06-02",
           "event": "Email from Chris Brophy: PCON x Goodwill Proposal Doc",
@@ -31817,14 +31825,19 @@
       "id": "dixie-village-juany-almanza",
       "name": "Juany Almanza",
       "property": "Dixie Village Shopping Center",
-      "status": "New LoopNet lead received 6/1; Gmail draft loaded asking business type and desired square footage.",
+      "status": "Juany Almanza resent the business plan PDF link for the Dixie Village Mexican bakery concept after Jacob asked for it; draft acknowledgment is loaded but needs approval.",
       "stage": "Contact Made",
-      "nextStep": "Jacob review/send lead reply draft, then qualify business/SF.",
+      "nextStep": "Jacob should review the business plan and decide whether to discuss with ownership given existing Mexican bakery at Dixie Village.",
       "priority": "medium",
       "contacts": [
         "Juany Almanza (jalmanza@alanync.com, 704-701-5518)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-03",
+          "event": "Briefing: Juany Almanza / Dixie Village business-plan follow-up needs Jacob review.",
+          "type": "task"
+        },
         {
           "date": "2026-06-02",
           "event": "Email from Omar Hidais: LoopNet Lead for Pea Ridge Shopping Center",
