@@ -1,14 +1,20 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-06-02 5:25 AM CDT
+Last updated: 2026-06-02 7:00 PM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T198 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T202 -->
 
 ## ACTIVE — Jacob needs to do these
 
 ### This Week (week of 5/11)
 
 - T197: May 2026 expense report due Wednesday 2026-06-03 — Concur May charge list pulled; 18 upload-ready receipts totaling `$1,453.89` are staged under `expense-receipts/2026-05/upload-ready/`, with 8 missing/portal-review items totaling `$1,839.68` after matching the MKT LAS and Las Vegas Convention Center receipts. Carole May CC total still not found in Gmail; CC-total check crons are scheduled for 2026-06-02 and 2026-06-03 at 08:30 CDT. [source: #receipts/Concur/Gmail 2026-06-01] [due: 2026-06-03] [project: expense report]
+
+- T199: Marlon Rodriguez / Dixie Village LoopNet lead — prospect asked about Dixie Village and indicated 0-4,000 SF range; Gmail draft reply loaded for Jacob approval asking for business type. Do not send unless Jacob approves. [gmail thread: 19e8a1b499308a81] [draft: r266459856571672694] [source: Communication Triage 2026-06-02 4 PM] [deal: Dixie Village Shopping Center]
+
+- T200: Amin Lakhani / Smart LED TN LLC Highland lease application — lease application received for Highland Ave Jackson TN; proposed use is business expansion, requested 5-year term, and supporting financial PDFs were listed in the Jotform submission. Review application package and uploaded financials. [gmail thread: 19e8a4f2a98c2916] [source: Communication Triage 2026-06-02 5 PM] [deal: Highland / Smart LED TN LLC]
+
+- T201: Juany Almanza / Dixie Village Mexican bakery LoopNet follow-up — prospect resent the business plan PDF link after Jacob asked for it; Gmail draft acknowledgment loaded for Jacob approval and latest inbound marked unread. Review concept/business plan and decide whether to discuss with ownership given existing Mexican bakery at Dixie Village. Do not send unless Jacob approves. [gmail thread: 19e83b9bd2847c27] [draft: r-5249934330585868996] [source: Communication Triage after-hours 2026-06-02 7 PM] [deal: Dixie Village Shopping Center]
 
 - T068: Send Malone flyer to small shop tenants — carried forward in latest reaction card; still depends on finished flyer. [asana: 1213840882213654] [depends on: T069] [monday-sync 5/1: carry; reaction-card 5/3: carry]
 - T069: Finish Malone flyer — carried forward in latest reaction card. [asana: 1213840882213751] [monday-sync 5/1: carry; reaction-card 5/3: carry]
@@ -37,7 +43,7 @@ Last updated: 2026-06-02 5:25 AM CDT
 - T146: McMinnville landscaping — active landscaper/weeds follow-up per Monday sync; no longer passive watch. [source: leasing meeting 3/30; monday-sync 5/3; heartbeat 2026-05-05] [deal: McMinnville Plaza]
 - T152: Crunch Fitness / McMinnville Suite 107 — follow up/send floor plan reply; moved from stale WATCHING to active DO per Monday sync. [source: leasing meeting 3/30; monday-sync 5/3; active-task hygiene 2026-05-05] [deal: McMinnville Plaza]
 - T147: Cleveland Furniture Bank / 6282 Pearl Road — Gmail draft reply loaded for Jacob approval; draft says Jacob will get back up to speed and call Tom. Do not send unless Jacob approves. [gmail thread: 19df98bf8433b87f] [draft: r5088746938907387776] [source: Communication Triage 2026-05-05] [deal: Pearl Road / Cleveland Furniture Bank]
-- T148: GMX / Hamilton Community Partners due diligence extension — Ashby requested signed scanned counterpart for May 13 extension if no comments; high-priority action item because inspection-period clock is running. [gmail thread: 19df518a3f3c4742] [source: Communication Triage 2026-05-05] [deal: Hamilton Community Partners sale]
+- T148: GMX / Hamilton Community Partners due diligence extension — Ashby sent revised Seller Estoppel drafts for AutoZone/Subway plus owner's affidavit form after the Dutch Bros title/inspection-period call; Jacob/Micah need to review and give thoughts. Inspection period is extended to 2026-06-09. [gmail thread: 19e28c72d8684caa] [source: Communication Triage 2026-06-02 3 PM] [deal: Hamilton Community Partners sale]
 - T149: Jordyn Stallings / 2512 Gallatin daycare-playground inquiry — Gmail draft reply loaded for Jacob approval; do not send unless Jacob approves. [gmail thread: 19dfe1672f7faed8] [draft: r9179140411601449754] [source: Communication Triage 2026-05-06 1/2 PM] [deal: 2512 Gallatin]
 - T150: David Cooke / Pell City 807 Martin St S revived project — call David about revived project. [source: Communication Triage 2026-05-06 5 PM] [deal: Pell City / 807 Martin St S]
 - T151: Dr. Michael Dupre / Pell City lead — follow up on Mathison Slack lead for Dr. Michael Dupre. [source: Communication Triage 2026-05-06 5 PM] [deal: Pell City]
@@ -88,7 +94,7 @@ Last updated: 2026-06-02 5:25 AM CDT
 
 
 ### Next Week+
-- T196: Monitor Tuesday 2026-06-02 Daily Morning Briefing recovery after Monday timeout — Monday 2026-06-01 7:30 AM run timed out with `deliveryStatus=unknown` and no June 1 Discord briefing found; Jacob was alerted on Telegram message `6948`. Verify Tuesday 2026-06-02 7:30 AM delivers normally before closing, and keep `memory/am-sweep-pending.md` visible in the briefing or dispatch it only if Jacob explicitly says go. [source: heartbeat commitment rollover 2026-05-31; 2026-06-01 heartbeat; job: 7cb5add0-c465-44c1-b950-ecb78ddd06f5] [internal]
+- T196: Monitor Daily Morning Briefing recovery — Monday 2026-06-01 run timed out during execution; Tuesday 2026-06-02 run failed during isolated-agent setup after 60s, so no fresh Discord briefing delivered and the last successful visible briefing remained Friday 2026-05-29. On 2026-06-02, patched the job with `lightContext`, timeout 900s, failure alert after 1 error to #system-logs, and freshness guard to prevent stale `am-sweep-pending.md`/`latest-briefing.txt` reuse; smoke test `manual:7b32bc64-1703-4fca-b17e-9be4e0d54f04:1780431767825:1` passed in 3.8s with no delivery. Verify Wednesday 2026-06-03 7:30 AM delivers normally before closing. [source: heartbeat commitment rollover 2026-05-31; 2026-06-01/06-02 troubleshooting; job: 7cb5add0-c465-44c1-b950-ecb78ddd06f5] [internal]
 - T019: Reach out to Runnings — exclusive with Ashby [source: brain-dump 3/6] [asana: 1213420777322230]
 - T048: Vercel → janchorvis GitHub reconnect (manual step, ~5 min) [source: SESSION_HANDOFF 3/12, not urgent]
 - T131: Label Shopper / Malone — monitor October 2027 expiration and renewal risk in light of Marshalls/Five Below; Micah flagged urgency because Label Shopper may be nervous about Marshalls. [source: 4/27 Plaud weekly meeting] [deal: Malone]
@@ -103,9 +109,11 @@ Last updated: 2026-06-02 5:25 AM CDT
 
 Note: WATCHING items should be removed once real movement comes in. Gastonia laundromat was removed on 4/10 after a fresh DocuSign reminder signaled movement. Pell City was removed earlier on 4/10 after fresh email movement from Factory Connection. McMinnville monument sign was removed on 4/14 after Clay sent fresh Slack PDFs/comments for review. ABC Russellville was removed on 4/27 after Clay asked whether to commission the ABC work; it is now active as T122. Crunch Fitness and McMinnville landscaping were removed from WATCHING on 5/5 and promoted to active follow-up tasks T152/T146. T137 Academy/Shelbyville started 5/4 and was flagged stale on 5/12 for the next morning briefing.
 
-- T137: Academy Sports / Shelbyville — watch for response after Jacob sends pitch for former Big Lots box at 1840 E Michigan Rd; if no response, follow up with Brian Ferguson / Academy real estate contact. Proof points: ~30 miles from Indianapolis, ~25-30 min from Greenwood Academy store, 40K SF box, E Michigan Rd retail corridor, Academy outside-in exurb/satellite strategy. [source: Jacob 5/4; deal: Shelbyville] [stale-watch 5/13: 9 days with no movement; queued for 5/14 morning briefing; still quiet in 5/15, 5/18, 5/19, 5/20 checks, 5/21 AM sweep, 5/22 triage/self-review, 5/25 triage/self-review, 5/26 triage/self-review, 5/27 self-review, 5/29 AM sweep, 5/29 self-review, and 6/1 comm triage/self-review; keep visible in next briefing if no movement]
+- T137: Academy Sports / Shelbyville — watch for response after Jacob sends pitch for former Big Lots box at 1840 E Michigan Rd; if no response, follow up with Brian Ferguson / Academy real estate contact. Proof points: ~30 miles from Indianapolis, ~25-30 min from Greenwood Academy store, 40K SF box, E Michigan Rd retail corridor, Academy outside-in exurb/satellite strategy. [source: Jacob 5/4; deal: Shelbyville] [stale-watch 5/13: 9 days with no movement; queued for 5/14 morning briefing; still quiet in 5/15, 5/18, 5/19, 5/20 checks, 5/21 AM sweep, 5/22 triage/self-review, 5/25 triage/self-review, 5/26 triage/self-review, 5/27 self-review, 5/29 AM sweep, 5/29 self-review, 6/1 comm triage/self-review, and 6/2 comm triage/self-review; keep visible in next briefing if no movement]
 
 ## COMPLETED — Recent (auto-cleaned after 7 days)
+
+- T198: Juany Almanza / Dixie Village LoopNet lead — prospect replied that the use is a new Mexican bakery and needs 1,200-1,700 SF; Gmail draft reply was loaded, then Jacob handled the thread at 3:20 PM CT. [gmail thread: 19e83b9bd2847c27] [draft: r6931857387735745676] [source: Communication Triage 2026-06-02 3/4 PM] [deal: Dixie Village Shopping Center] [completed: 2026-06-02]
 
 - T156: PCON / Sean Spafford feedback request — Jacob already replied by 2026-05-18 triage; PCON/Crexi/LoopNet scans had no further feedback triggers. [asana: 1214660516238793] [source: Communication Triage 2026-05-08/18] [deal: PCON] [completed: 2026-05-18]
 - T160: Prep for leasing meeting and talk commissions with Micah — meeting completed 5/11; Asana still open at 6 PM self-review but source task is substantively complete. Commission treatment discussed (QT Nails pay first half/hold second, Malone Shoe Dept hold, Russellville ABC book/pay later), and comp structure conversation advanced to $65K base now + revisit leasing/company-performance incentives later in 2026. [source: brain-dump 2026-05-08; 5/11 leasing meeting; Asana check 2026-05-11 6 PM] [deal: leasing meeting / commissions] [asana: 1214660372660685] [due: 2026-05-11] [completed: 2026-05-11]
