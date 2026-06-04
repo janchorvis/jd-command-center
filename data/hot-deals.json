@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T07:32:48.951815",
+  "lastUpdated": "2026-06-04T09:03:13.774496",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-04",
@@ -47,7 +47,8 @@
       "put mattresses on the market (overdue — due 2026-03-23)",
       "Call Jesse Warhurst at 256-436-5984 about Russellville building 16.",
       "Send Emerson pipe to PMs at/around the 10:15 AM calendar block.",
-      "Check whether HopeSmiles responded before the 11:00 AM reminder."
+      "Check whether HopeSmiles responded before the 11:00 AM reminder.",
+      "Respond to Ryan Jordan with asking price and property information for former Big Lots - Shelbyville."
     ]
   },
   "pipelineDeals": [
@@ -32953,6 +32954,28 @@
         "suiteCount": 18,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "shelbyville-ryan-jordan-former-big-lots",
+      "name": "Ryan Jordan / Former Big Lots",
+      "property": "Shelbyville",
+      "status": "Ryan Jordan asked for asking price and property information for the former Big Lots at 1840 E Michigan Rd.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob needs to send asking price and property information.",
+      "priority": "high",
+      "contacts": [
+        "Ryan Jordan (AVID Real Estate Advisors)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-04",
+          "event": "Ryan Jordan asked for asking price and property info for former Big Lots - Shelbyville.",
+          "type": "email"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-06-04"
     }
   ],
   "droppedBalls": [
