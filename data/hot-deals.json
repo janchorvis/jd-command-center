@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T07:16:17.252659",
+  "lastUpdated": "2026-06-04T07:32:48.951815",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-04",
@@ -44,7 +44,10 @@
       "PCON feedback: Sean Spafford (overdue — due 2026-05-15)",
       "PCON feedback: Griffin Hodge (overdue — due 2026-04-02)",
       "Make flyer for mattresses listing (overdue — due 2026-03-23)",
-      "put mattresses on the market (overdue — due 2026-03-23)"
+      "put mattresses on the market (overdue — due 2026-03-23)",
+      "Call Jesse Warhurst at 256-436-5984 about Russellville building 16.",
+      "Send Emerson pipe to PMs at/around the 10:15 AM calendar block.",
+      "Check whether HopeSmiles responded before the 11:00 AM reminder."
     ]
   },
   "pipelineDeals": [
@@ -7326,15 +7329,20 @@
       "id": "emerson-hawkins",
       "name": "Charles Hawkins Co.",
       "property": "Emerson Hall - Hotel Space",
-      "status": "Lease Review call with Ashby scheduled 10:00-10:30 AM today",
+      "status": "Today calendar includes a 10:15 AM reminder to send Emerson pipe to PMs.",
       "stage": "LOI",
-      "nextStep": "Jacob on call with Ashby at 10 AM — get through comments, push for signature",
+      "nextStep": "Send Emerson pipe to property managers and keep lease-signature pressure moving.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-06-04",
           "event": "Email from Chain Store Age: DayBreaker: Macy's turnaround continues; Ulta to open Times Square flagship; Des",
           "type": "email"
+        },
+        {
+          "date": "2026-06-04",
+          "event": "Briefing: calendar reminder surfaced Emerson pipe follow-up at 10:15 AM.",
+          "type": "task"
         },
         {
           "date": "2026-06-03",
@@ -32682,14 +32690,19 @@
       "id": "russellville-franklin-center-building-16-jesse-warhurst",
       "name": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
-      "status": "Inbound leasing inquiry asked whether Building 16 is still available.",
+      "status": "Jesse supplied his phone number overnight after Jacob asked for the best number to discuss Franklin Center / Russellville availability.",
       "stage": "Contact Made",
-      "nextStep": "Jacob to approve/send qualifying reply asking business type and square footage.",
-      "priority": "medium",
+      "nextStep": "Jacob to call Jesse at 256-436-5984 about building 16 availability.",
+      "priority": "high",
       "contacts": [
         "Jesse Warhurst <jessewarhurst@yahoo.com>"
       ],
       "timeline": [
+        {
+          "date": "2026-06-04",
+          "event": "Briefing: overnight reply supplied Jesse Warhurst phone number for Russellville building 16 follow-up.",
+          "type": "task"
+        },
         {
           "date": "2026-06-03",
           "event": "Email from jesse warhurst: Leasing",
