@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T11:30:13.895648",
+  "lastUpdated": "2026-06-04T12:02:16.858057",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-04",
@@ -18225,9 +18225,9 @@
       "id": "evansville",
       "name": "",
       "property": "Hamilton, OH",
-      "status": "Inspection period runs through 2026-05-29. Micah asked Karen D'Antonio for an update on Dutch Bros counsel conversation and the minimum Dutch Bros will agree to.",
+      "status": "Seller-side revised AutoZone/Subway estoppel agreements and owner affidavit have been sent to Dutch counsel; Karen D'Antonio says Dutch outside/inside counsel will review and respond.",
       "stage": "Lease Signed",
-      "nextStep": "Watch for Karen/Taft/GMX response before May 29 inspection-period deadline.",
+      "nextStep": "Wait for Dutch counsel response; keep inspection-period timing visible.",
       "priority": "high",
       "contacts": [
         "Carmen Drake (Bellacino's Pizza & Grinders / Runnebohm Realty)",
@@ -18238,7 +18238,8 @@
         "Paul Takacs (GMX)",
         "Andrew Goodman (GMX)",
         "Karen D'Antonio (Taft)",
-        "Ashby Scott (Evans Petree)"
+        "Ashby Scott (Evans Petree)",
+        "Karen D'Antonio (Taft/Dutch counsel)"
       ],
       "timeline": [
         {
@@ -18284,6 +18285,11 @@
         {
           "date": "2026-06-04",
           "event": "Email from Micah Lacher: Fwd: [EXTERNAL] Re: AutoZone #1717-01-01 (Hamilton, OH) - Re: Upcoming Lease Exp",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-04",
+          "event": "Ashby sent revised AutoZone/Subway estoppels and owner affidavit; Karen forwarded documents to Dutch outside/inside counsel for review.",
           "type": "email"
         },
         {
@@ -33622,13 +33628,15 @@
       "id": "spirit-halloween-hamilton",
       "name": "Spirit Halloween",
       "property": "Hamilton, OH",
-      "status": "Spirit Halloween ops manager Steve Stapleton can visit the Hamilton space tomorrow, 2026-06-05, at 11 AM or later.",
+      "status": "Jacob replied to Steve Stapleton that tomorrow's Hamilton space visit works and he will send lockbox info shortly.",
       "stage": "Touring",
-      "nextStep": "Jacob confirm/send lockbox access details for tomorrow's site visit.",
+      "nextStep": "Send/confirm actual Hamilton lockbox access before Steve's 2026-06-05 visit at 11 AM or later.",
       "priority": "high",
       "contacts": [
         "Tina Charnitsky (Spirit Halloween Real Estate)",
-        "Steve Stapleton (Spirit Halloween / Spirit Christmas Zone Manager Ohio/KY)"
+        "Steve Stapleton (Spirit Halloween / Spirit Christmas Zone Manager Ohio/KY)",
+        "Steve Stapleton (Spirit Halloween)",
+        "Tina Charnitsky (Spirit Halloween)"
       ],
       "timeline": [
         {
@@ -33652,9 +33660,37 @@
           "type": "lead"
         },
         {
+          "date": "2026-06-04",
+          "event": "Jacob replied to Steve Stapleton that tomorrow works and lockbox info will follow.",
+          "type": "email"
+        },
+        {
           "date": "2026-06-03",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Anthony Stevens",
           "type": "email"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-06-04"
+    },
+    {
+      "id": "smart-led-highland",
+      "name": "Smart LED TN LLC",
+      "property": "Highland Ave Jackson TN",
+      "status": "Lease/application package is in review; Carson shared a Google Doc with proposed changes highlighted in yellow and deletions in red.",
+      "stage": "Obtain Financials",
+      "nextStep": "Jacob/Anchor review Carson's marked changes and decide whether to discuss today or tomorrow.",
+      "priority": "high",
+      "contacts": [
+        "Carson Knight",
+        "Amin Lakhani / Smart LED TN LLC"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-04",
+          "event": "Carson shared marked Google Doc changes for Highland/Smart LED review and offered to discuss today or tomorrow.",
+          "type": "slack"
         }
       ],
       "actions": [],
