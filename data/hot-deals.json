@@ -1,18 +1,13 @@
 {
-  "lastUpdated": "2026-06-03T17:30:45.120182",
+  "lastUpdated": "2026-06-04T07:15:37.264781",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
-    "date": "2026-06-03",
+    "date": "2026-06-04",
     "greeting": "Good morning, Jacob. You have 15 overdue items.",
     "meetings": [
       {
-        "time": "7:30 AM",
-        "title": "JD + JD Phone Call",
-        "dealContext": null
-      },
-      {
-        "time": "8:00 AM",
-        "title": "What to expect from Anchor Leadership w/ Delk",
+        "time": "6:00 AM",
+        "title": "West End Men’s Bible Study",
         "dealContext": null
       },
       {
@@ -21,33 +16,23 @@
         "dealContext": null
       },
       {
-        "time": "11:30 AM",
-        "title": "JD x PK Baja Lunch",
+        "time": "10:15 AM",
+        "title": "Send Emerson pipe to PMs",
+        "dealContext": "Stage: LOI | Lease Review call with Ashby scheduled 10:00-10:30 AM today | Next: Jacob on call with Ashby at 10 AM — get through comments, push for signature"
+      },
+      {
+        "time": "11:00 AM",
+        "title": "Did Hope smiles respond",
         "dealContext": null
       },
       {
-        "time": "1:15 PM",
-        "title": "Shadow Delk (TBD)",
-        "dealContext": null
-      },
-      {
-        "time": "4:00 PM",
-        "title": "Review & Update Asst Mgmt Dashboard",
-        "dealContext": null
-      },
-      {
-        "time": "5:00 PM",
-        "title": "EXPENSE REPORT DUE",
+        "time": "12:15 PM",
+        "title": "Jacob Delk x Shawn Metzgar Lunch",
         "dealContext": null
       },
       {
         "time": "5:00 PM",
         "title": "Leasing EOD Standup",
-        "dealContext": null
-      },
-      {
-        "time": "5:00 PM",
-        "title": "Anchor Trash Cans",
         "dealContext": null
       }
     ],
@@ -59,12 +44,7 @@
       "PCON feedback: Sean Spafford (overdue — due 2026-05-15)",
       "PCON feedback: Griffin Hodge (overdue — due 2026-04-02)",
       "Make flyer for mattresses listing (overdue — due 2026-03-23)",
-      "put mattresses on the market (overdue — due 2026-03-23)",
-      "Review Smart LED TN LLC / Highland application and financial PDFs.",
-      "Review Juany Almanza's Dixie Village Mexican bakery business plan and ownership-fit question.",
-      "Handle Hamilton Community Partners seller-estoppel/owner-affidavit review before the 2026-06-09 inspection-period deadline.",
-      "Clay needs Madison/Wilson leasing comps for development pro formas; Adam should run point with Jacob guidance. Source: Clay email 2026-06-03 9:15 AM.",
-      "Keystone canceled the Sevierville Forks of the River fireworks tent for 2026 after city permit denial; Jeb plans offseason appeal/alternative-path work. Source: Jeb Thompson email 2026-06-03 7:49 AM."
+      "put mattresses on the market (overdue — due 2026-03-23)"
     ]
   },
   "pipelineDeals": [
@@ -32759,7 +32739,16 @@
       ],
       "actions": [],
       "type": "Tenant Rep",
-      "lastUpdate": "2026-06-03"
+      "lastUpdate": "2026-06-03",
+      "rentComps": {
+        "property": "Pea Ridge",
+        "avgRate": null,
+        "minRate": null,
+        "maxRate": null,
+        "avgSqFt": 6117,
+        "suiteCount": 14,
+        "vacantCount": 0
+      }
     },
     {
       "id": "russellville-factory-connection-justin-rains",
@@ -32786,7 +32775,16 @@
       ],
       "actions": [],
       "type": "Tenant Rep",
-      "lastUpdate": "2026-06-03"
+      "lastUpdate": "2026-06-03",
+      "rentComps": {
+        "property": "Russellville",
+        "avgRate": null,
+        "minRate": null,
+        "maxRate": null,
+        "avgSqFt": 5908,
+        "suiteCount": 18,
+        "vacantCount": 0
+      }
     }
   ],
   "droppedBalls": [
@@ -54158,156 +54156,552 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-06-03T07:33:30",
-    "source": "morning-briefing",
+    "generatedAt": "2026-06-04T07:15:37",
+    "source": "active-tasks",
     "yourPlate": [
       {
         "id": "sweep-plate-1",
-        "text": "Expense report due today — 18 receipts staged; 8 missing/portal-review items remain.",
+        "text": "May 2026 expense report due Wednesday 2026-06-03 — Concur report `May 2026 - JD` / `C4BH0J` created and populated with 26 May candidate rows totaling `$3,293.57`; all 18 matched receipt rows are attached and slow-verified in Concur (proof: `expense-receipts/2026-05/concur-receipt-attach-verification.json`, screenshot `concur-may-final-verified-list-slow.png`). On 2026-06-03 21:11 CDT, replaced the low-quality/text-fallback attachments in Concur with clean rendered receipts for Crema, BOA, both Lyft rows, Sir Speedy merchant receipt, both Amazon rows, and Google Cloud; final proof is `expense-receipts/2026-05/concur-clean-replacement-final-verification.json`, with screenshots `concur-clean-replacements-final-list.png` and `verify-clean-*.png` samples. Carole's official May CC total was found in Gmail thread/message `19e891760fc8634a` (`Fwd: 05.26 CC Totals`): Jacob = `$3,596.48`. Remaining blockers: 8 missing/portal-review receipts totaling `$1,839.68`; Concur row alerts/errors still need coding/business-purpose/property review; reconciliation is narrowed but not clean because candidate total `$3,293.57` is `$302.91` below Carole due to excluded `RETAIL LIVE USA LLC` `$299.00` already submitted in April plus a separate `$3.91` all-May transaction-date gap. Do not submit Concur without Jacob approval",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-2",
-        "text": "Smart LED TN LLC / Highland — review lease application + financial PDFs for 5-year request.",
+        "text": "Marlon Rodriguez / Dixie Village LoopNet lead — prospect asked about Dixie Village and indicated 0-4,000 SF range; Gmail draft reply loaded for Jacob approval asking for business type. Do not send unless Jacob approves",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-3",
-        "text": "Juany / Dixie Village bakery — review business plan and decide ownership-fit path.",
+        "text": "Amin Lakhani / Smart LED TN LLC Highland lease application — lease application received for Highland Ave Jackson TN; proposed use is business expansion, requested 5-year term, and supporting financial PDFs were listed in the Jotform submission. Review application package and uploaded financials",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-4",
-        "text": "Hamilton Community Partners — review Ashby's seller estoppels/owner affidavit before 6/9.",
+        "text": "Juany Almanza / Dixie Village Mexican bakery LoopNet follow-up — after Jacob asked whether the $140,000 was on hand and what size suite she needed, prospect replied that she has the money and wants 1,300-1,600 SF. Gmail draft reply loaded for Jacob approval saying he will review with ownership and circle back. Review concept/business plan and decide whether to discuss with ownership given existing Mexican bakery at Dixie Village. Do not send unless Jacob approves",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-5",
-        "text": "Five Below / Malone — business-point lease review + Ashby path.",
+        "text": "Keystone / Sevierville Forks of the River fireworks tent cancellation — Jeb Thompson said the city denied their permit application, so Keystone needs to cancel the Sevierville agreement for this season while the other locations are still progressing. Gmail draft reply loaded asking Jeb to send a formal denial letter/notice for the file; do not send unless Jacob approves",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-6",
-        "text": "Calls/relationship items — Diego Buena Vista, David Cooke Pell City, Laurie/Easterseals timing.",
+        "text": "Omar Hidais / Pea Ridge LoopNet follow-up — after Jacob asked whether this would be Omar's first location, Omar replied that he operates several Tobacco/Vape shops across multiple states and is also a landlord; Gmail draft reply loaded asking what size space he is looking for. Do not send unless Jacob approves",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-7",
+        "text": "Factory Connection / Russellville availability check — Justin Rains said Russellville remains on Factory Connection's target list for October openings and asked whether Anchor has any new openings there; Gmail draft reply loaded saying Jacob will check available space and get back to him. Do not send unless Jacob approves",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-8",
+        "text": "Brandon Hoop / 144 Wilson Dr. Kemp zoning follow-up — Brandon said C4 zoning initially looks workable for Dr. Kemp's use but recommended confirming with Brentwood planning before finalizing; Gmail draft reply loaded saying Jacob will work on city confirmation and circle back. Do not send unless Jacob approves",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-9",
+        "text": "Robert Henson / Big Lots Evansville concept follow-up — Robert sent details on Evansville Rehab's planned $25M facility, capital campaign, and possible use of the Big Lots property for Adult Day Services / supportive programming; Gmail draft reply loaded saying Jacob will review internally and circle back. Do not send unless Jacob approves",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-10",
+        "text": "Jesse Warhurst / Russellville building 16 phone follow-up — Jesse replied with phone number 256-436-5984 after Jacob asked for the best number to discuss availability. Gmail draft reply loaded for Jacob approval saying Jacob will call tomorrow; thread marked unread/to-respond. Do not send unless Jacob approves",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-11",
+        "text": "Send Malone flyer to small shop tenants — carried forward in latest reaction card; still depends on finished flyer",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-12",
+        "text": "Finish Malone flyer — carried forward in latest reaction card",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-13",
+        "text": "Blast out Buena Vista listings — Jacob re-upped in 5/8 brain dump: send Buena Vista out to all those people, including Derek Morgan from Micah email",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-14",
+        "text": "Buena Vista sign — pick a handyman to go do/install the Buena Vista sign; previously framed as working with Parker on the sign",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-15",
+        "text": "Ask Buena Vista land contacts for prior bid materials and move the sod / site presentation work forward — carried forward per reaction card item 6",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-16",
+        "text": "Call Diego re Buena Vista purchase inquiry - texted from Approver after seeing Craigslist Nashville listing, wants to discuss purchase price and site conditions. Call back: 561-517-6728. Carried forward per reaction card item 7",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-17",
+        "text": "Send Buena Vista to Millrose and Lennar — carried forward per reaction card item 8; fold into broader Buena Vista send-out list including Derek Morgan from Micah email",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-18",
+        "text": "Pell City — pressure wash or repaint facade; recent photos made the frontage look rough. Carried forward per reaction card item 9",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-19",
+        "text": "Respond to Pell City Outparcel LOI — Ellianos Coffee LOI received from Wallace Schmuck (ws@shanwalt.com, 210-464-7707) / Shannon Waltchack. Latest reaction fallback says carry forward rather than Monday. Call Wallace or Keith with feedback when Jacob re-prioritizes",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-20",
+        "text": "Camile C. (Crexi) — Buena Vista Pike JV/participation inquiry deferred per closeout; do not chase now. Reopen only if Jacob decides to pursue JV/participation conversation",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-21",
+        "text": "Jason Jones — Malone Card Show inquiry, short-term 8,000 SF event rental at Malone. Carried forward per reaction card item 14",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-22",
+        "text": "Update New Memphis lease late fee language to $100 or 5%, whichever is greater — carried forward per reaction card item 15",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-23",
+        "text": "Shoe Dept (Malone) - lock construction timeline and lease-obligation map with Clay to avoid opening-year slippage. Carried forward per reaction card item 16",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-24",
+        "text": "Pell City Physical Therapy / Home Health RFP — Challenge/value-engineer RFP pricing; 5/11 meeting added that the original home-health company is back and may slot into the middle space, so keep competitive pressure across the Pell City prospects. Also tell Easterseals/Laurie another interested party is active and ask for CEO feedback within 10-14 days",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-25",
+        "text": "Emerson / Lately Projects — get lease signed this week; Jacob said Anchor has legal standing on expiration timing and should proceed, with construction storefront height details to be worked out after signing",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-26",
+        "text": "Hamilton vacancy / laundromat — Jacob re-upped in 5/8 brain dump: do the laundromat to-do from the leasing meeting by contacting prior laundromat contact and floating whether $200K-$300K TI would move the needle, with better rent required",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-27",
+        "text": "Adam onboarding / leasing cadence — Jacob re-upped in 5/8 brain dump: work on Adam's onboarding plan with early Slack/email access, leasing channel history, podcasts/lease self-study, early real outreach, weekly Jacob/Adam one-on-one, and continued Jacob/Micah active-deal meeting. 5/11 meeting: Adam likely full-time Nashville next week / June 1 formal start still likely; build in onboarding time. 5/27 Adam materials review completed: 56 Leasing Weekly Activity docs reviewed, with 16 safe, 36 needing redaction, and 4 do-not-share-raw; next step is cleaned Adam-safe copies/summaries if Jacob asks",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-28",
+        "text": "MacBid / Evansville-Hamilton expansion — Jacob pinged CBRE/MacBid for ICSC; Carmine replied 5/12 PM that Collin is no longer on the MAC account, James Stocker is now the main TM lead, and they will not be at ICSC this year. Next step: follow up with James after/around ICSC about expansion plans, San Antonio focus, Evansville interest, and whether Harrison/Gastonia locations affect Anchor targets",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-29",
+        "text": "Five Below / Malone kickoff follow-up — Desiree Warren sent EC markups 5/18 asking for facade renderings/adjacent-tenant context, roof/drainage/water-damage feedback, rear CMU sealing confirmation, sprinkler/meter-room access + leaseline adjustment approval, and confirmation whether LL will require sprinklers; Dawn Baker is replacing Brian as Five Below construction PM. Review/respond with Clay",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-30",
+        "text": "Five Below / Malone landlord drawings — decide with Clay/ownership whether to start landlord plan set before lease execution; scope includes facade, demising, loading, and RTU openings",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-31",
+        "text": "Five Below / Malone lease exhibits — watch for lease by end of week and review work letter, final sign exhibit, and no-build-area exhibit",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-32",
+        "text": "UPS Store / McMinnville — LOI is signed/returned and deal can move toward lease/REC path; 5/11 meeting clarified UPS and Wingstop are not requiring facade work, just hoping for it, so do not promise upgrades until pricing/value-engineering is known. Jon Petty had also asked for application/financial forms",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-33",
+        "text": "McMinnville landscaping — active landscaper/weeds follow-up per Monday sync; no longer passive watch",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-34",
+        "text": "Crunch Fitness / McMinnville Suite 107 — follow up/send floor plan reply; moved from stale WATCHING to active DO per Monday sync",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-35",
+        "text": "Cleveland Furniture Bank / 6282 Pearl Road — Gmail draft reply loaded for Jacob approval; draft says Jacob will get back up to speed and call Tom. Do not send unless Jacob approves",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-36",
+        "text": "GMX / Hamilton Community Partners due diligence extension — Ashby sent revised Seller Estoppel drafts for AutoZone/Subway plus owner's affidavit form after the Dutch Bros title/inspection-period call; Jacob/Micah need to review and give thoughts. Inspection period is extended to 2026-06-09",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-37",
+        "text": "Jordyn Stallings / 2512 Gallatin daycare-playground inquiry — Gmail draft reply loaded for Jacob approval; do not send unless Jacob approves",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-38",
+        "text": "David Cooke / Pell City 807 Martin St S revived project — call David about revived project",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-39",
+        "text": "Dr. Michael Dupre / Pell City lead — follow up on Mathison Slack lead for Dr. Michael Dupre",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-40",
+        "text": "Jason Jiang / Dixie Village LoopNet lead — Gmail draft reply loaded for Jacob approval; marked unread for visibility. Do not send unless Jacob approves",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-41",
+        "text": "Great Greek / Maple Row HVAC LOI issue — Joey says the rooftop unit is dead and wants HVAC replacement addressed now in the LOI path; evaluate landlord vs tenant responsibility and prepare Jacob/Micah response posture",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-42",
+        "text": "Marshalls / Malone permit egress markups — resolve permit hold tied to vacant-space egress markups so Marshalls/Malone path does not slip. 5/20 Josh resubmitted the permit package and expected an update in 1-2 days; 5/26 Clay asked Bob if TJX selected a contractor; Bob told StoreCrafters he hopes to get the permit this week and wants to mobilize/meet onsite next week",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-43",
+        "text": "Send Hope Smiles PDF to Amy and the broker — 5/11 meeting indicates tenant-profile PDF was created/sent/slacked and Amy reacted positively; 5/18 triage flagged HopeSmiles/144 Wilson Pike as-builts plus tour urgency, and Mary Winston/Brentwood Commons was already replied to by Jacob. Keep active until broker/landlord delivery/response and 144 Wilson Pike tour/as-built path are confirmed",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-44",
+        "text": "Follow up with Mitch Ernest on Evansville box — 5/11 prep/meeting says the call happened and Jacob texted Mitch this morning; 5/13 Gmail verification found Melissa Drish sent 40 Evansville/Big Lots photos on 5/11, Jacob forwarded the full photo set to Mitch at 3:30 PM, and no Mitch reply was found in the last 14 days. Currently waiting on Mitch/Where Ya Bin after review of materials/photos",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-45",
+        "text": "Read/review Five Below lease and send it to Ashby — 5/11 meeting confirmed to send Ashby the lease now, ask for redline-fashion comments, and set a Thursday-ish call/timeframe while Jacob separately reviews business points",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-46",
+        "text": "Send Adam playlist of podcasts — 5/11 meeting indicates Jacob sent Adam the podcast playlist for his travel week; Asana still open at 6 PM self-review, so verify/close before removing",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-47",
+        "text": "Set up Adam's email",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-48",
+        "text": "Meeting room cord/cord-management fix — find/order longer HDMI/USB-C cord and consider a cleaner cord-management box/system for the conference room",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-49",
+        "text": "McMinnville facade value-engineering — send Clay example screenshots and ask contractors for lower-cost ways to improve facade/screen rooftop/mechanical visibility before promising anything to UPS/Wingstop",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-50",
+        "text": "Easterseals/CEO timing follow-up — tell Laurie another interested party is active and ask if she can get with CEO in next 10-14 days; communicate fairly without false pressure",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-51",
+        "text": "Keystone fireworks leases — confirm lease language/billing treatment and send DocuSigns for Hickory Village, Dixie Village, McMinnville Plaza, Millington Plaza, Forks of the River, and Malone Big Lots/Malone Plaza. Jeb followed up 5/13 at 4:23 PM CT asking whether Millington tent can move farther back in the parking lot for local setback requirements; attached marked-up photo with original red / proposed blue location",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-52",
+        "text": "Fostr/Yardi rollout mapping — keep working with Hannah on Yardi field mapping, especially property code/address/GL connections, with June 1 team rollout as tentative goal",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-53",
+        "text": "Scott Myers / Pell City Marketplace printing tenant follow-up — Scott asked whether the 1,300 SF portion lease went through because 2,500 SF is too large for his client; Gmail draft reply loaded for Jacob approval saying he will check and get back to Scott. Do not send unless Jacob approves",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-54",
+        "text": "Shawn Goffer / New Memphis Suite 411 pricing question — Shawn asked how much Suite 411 would be per month after Jacob previously quoted $3,500-$4,000 for suites 411/410/409 combined; Gmail draft reply loaded for Jacob approval saying Jacob will confirm the number and get back to him. Do not send unless Jacob approves",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-55",
+        "text": "Offsite / Carole MRI historical data export — Carole’s top accounting rock for the quarter: export historical MRI data before renewal/access becomes urgent, likely 2021 forward; priority reports include income statements, balance sheets, rent rolls, investor/distribution history, and GLs where practical. Coordinate whether Jarvis can automate parts of export",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-56",
+        "text": "Offsite / Fund viability testing — Ryan to finalize/refine fund model, stress tests, legal/securities/accounting question list, securities attorney contact, model portfolio, and acquisition-volume test before major fund-doc spend",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-57",
+        "text": "Offsite / Investor socialization — Micah to start summer investor meetings for shortened fund deck with existing investors, family offices, foundations/charities, and money managers; collect feedback on demand, structure, audited-fund requirements, liquidity/redemption, and timing",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-58",
+        "text": "Offsite / Wilson Pike feasibility — Clay to push Wilson Pike office/flex/yard feasibility with concepts, rent comps, cost assumptions, metal-building feasibility, and likely use direction",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-59",
+        "text": "Offsite / Madison development feasibility — Clay to push Madison small-bay warehouse concept with example comps, updated site-plan thinking, pricing, and next-step feasibility",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-60",
+        "text": "Offsite / Operations paperless adoption — Clay/team to own tenant portal / operations paperless adoption rock with measurable target toward ~50% adoption",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-61",
+        "text": "Offsite / Department AI rocks — each department/team member should define one practical AI rock for the quarter; Jacob to prioritize automation work by ROI/time savings rather than novelty as margin opens",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-62",
+        "text": "Offsite / Cleveland Furniture Bank financial review — Jacob to send Micah/Ryan the tenant financials/sales info and decide whether to structure short-term rent relief with reporting/review period",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-63",
+        "text": "Offsite / Russellville-Vance hold-sell analysis — analyze Russellville cash-flow hold vs sale after leasing progress and watch Vance/Uniform Source renewal/value path",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-64",
+        "text": "Draft UPS lease - McMinnville Plaza Suite 108 — Jon Petty says UPS area office is finalizing paperwork and sees no issue with issuing a lease for review; Jacob replied 5/14 \"I'll get it rolling on our end.\" Start the lease draft path for UPS Store at McMinnville Plaza Suite 108",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-65",
+        "text": "Send ICSC calendar invite to Kevin Moss - Royal Bazaar meeting — Kevin confirmed Wednesday 8:30 AM at Central Hall CBRE booth for Parma Heights / Royal Bazaar Indian Market and asked Jacob to send an invite; Jacob may need to dip early for 9 AM South Hall meeting",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-66",
+        "text": "Follow up with Nicole Dautovic / Chase after ICSC — Jacob asked to be reminded to reach out in a few weeks from the ICSC - Anchor / Chase thread; Nicole had offered Tuesday 1 PM-ish or Wednesday after 10:30 as possible ICSC/booth timing",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-67",
+        "text": "Follow up with Sally Beauty after ICSC — Jacob asked for a reminder to follow up with Sally Beauty/Cosmo after the ICSC meeting",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-68",
+        "text": "Reach out to Domino's about Malone — Jacob said there is a Domino's operator in Plattsburgh; research/contact the operator and draft outreach for Malone",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-69",
+        "text": "Yazan Alnahar / Dixie Village LoopNet lead — Gmail draft reply loaded for Jacob approval; prospect needs 4,000-6,000 SF and provided phone/email, so draft asks business type only. Marked unread for visibility. Do not send unless Jacob approves",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-70",
+        "text": "Rawn Turner / McMinnville Plaza LoopNet lead — Gmail draft reply loaded for Jacob approval; prospect reached out through LoopNet and draft asks business + square footage. Marked unread for visibility. Do not send unless Jacob approves",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-71",
+        "text": "Susan S. / Pell City Marketplace Crexi lead — Gmail draft reply loaded for Jacob approval; prospect asked if space is available and price PSF, and draft confirms availability while asking for contact info, business type, and SF needed. Marked unread for visibility. Do not send unless Jacob approves",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-72",
+        "text": "Reach out to Emily S about McMinnville tenant prospects, specifically Bath & Body Works. Added to 5/21 ICSC post-show reminder",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-73",
+        "text": "David W. / Dixie Village Crexi lead — Gmail draft reply loaded for Jacob approval; prospect asked for information about the two end spaces, so draft asks for best phone/email and says Jacob can send available options. Marked unread/awaiting reply for visibility. Do not send unless Jacob approves",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-74",
+        "text": "Jesse Warhurst / Franklin Shopping Center Russellville leasing inquiry — asked whether the 770 SF building discussed a few months ago is still available; Gmail draft reply loaded for Jacob approval asking business and SF needed. Marked unread/awaiting reply for visibility. Do not send unless Jacob approves",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-75",
+        "text": "Ahmed Alsofiani / McMinnville Plaza LoopNet lead — Gmail draft reply loaded for Jacob approval; prospect provided phone/email through LoopNet but did not provide business type or square footage, so draft asks both. Marked unread/actioned for visibility. Do not send unless Jacob approves",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-76",
+        "text": "Reach out to David Baker about Bealls for McMinnville. Added to 5/21 ICSC post-show reminder",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-77",
+        "text": "Send America's Thrift McMinnville, Gastonia, and Columbia opportunities. Added to 5/21 ICSC post-show reminder",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
       }
     ],
-    "prepping": [
-      {
-        "id": "sweep-prep-1",
-        "text": "Dixie lead drafts — Marlon/Juany/Yazan/David/Jesse/McMinnville drafts queued for approval.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-2",
-        "text": "Buena Vista send-out — prospect list + Millrose/Lennar/Derek Morgan package.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-3",
-        "text": "Malone flyer/small-shop blast — flyer/send list prep, blocked on finished flyer.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-4",
-        "text": "Five Below issue list — EC markups, exhibits, LL drawings, Clay questions.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-5",
-        "text": "McMinnville package — UPS lease path, facade VE, Crunch, Bealls/America's Thrift outreach.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-6",
-        "text": "Pell City package — Ellianos/Home Health/RFP/facade/pricing context.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-7",
-        "text": "Great Greek HVAC — landlord-vs-tenant responsibility/options brief.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-8",
-        "text": "Keystone fireworks — DocuSign/billing/location checklist.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      }
-    ],
-    "handling": [
-      {
-        "id": "sweep-handle-1",
-        "text": "Adam cleanup — verify podcast playlist + email setup tasks and update Asana.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-handle-2",
-        "text": "Completed-task cleanup — commissions task still open in Asana; verify/close.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-handle-3",
-        "text": "Morning briefing recovery proof — update T196 after today's delivery lands.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-handle-4",
-        "text": "Meeting-room cord — source clean longer HDMI/USB-C options for approval/order.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      }
-    ],
-    "deferred": [
-      {
-        "id": "sweep-defer-1",
-        "text": "Camile/Buena Vista JV deferred; Mitch/Where Ya Bin waiting; Joe Wesley/Yasser waiting; Nicole/Chase due 6/8; Add Rocks due 6/9; Academy/Shelbyville still quiet watch; Clay-owned Wilson Pike/Madison/paperless rocks; old PCON/admin backlog not today's fire.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-defer-2",
-        "text": "🚀 Command Center: https://jd-command-center.vercel.app",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      }
-    ]
+    "prepping": [],
+    "handling": [],
+    "deferred": []
   },
   "prepDocDiff": {
     "generatedAt": "2026-05-29T18:05:46.772243",
@@ -54739,35 +55133,35 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-06-03T07:33:30",
-    "source": "morning-briefing",
+    "generatedAt": "2026-06-04T07:15:37",
+    "source": "active-tasks",
     "items": [
       {
         "id": "focus-plate-1",
-        "dealName": "Expense report due today",
+        "dealName": "May 2026 expense report due Wednesday 2026-06-03",
         "property": null,
-        "action": "18 receipts staged; 8 missing/portal-review items remain.",
-        "why": "#1 on your plate today.",
+        "action": "Concur report `May 2026 - JD` / `C4BH0J` created and populated with 26 May candidate rows totaling `$3,293.57`; all 18 matched receipt ro...",
+        "why": "Top of your active task list this week.",
         "urgency": "high",
-        "type": "briefing"
+        "type": "task"
       },
       {
         "id": "focus-plate-2",
-        "dealName": "Smart LED TN LLC / Highland",
+        "dealName": "Marlon Rodriguez / Dixie Village LoopNet lead",
         "property": null,
-        "action": "review lease application + financial PDFs for 5-year request.",
-        "why": "#2 on your plate today.",
+        "action": "prospect asked about Dixie Village and indicated 0-4,000 SF range; Gmail draft reply loaded for Jacob approval asking for business type. ...",
+        "why": "Top of your active task list this week.",
         "urgency": "high",
-        "type": "briefing"
+        "type": "task"
       },
       {
         "id": "focus-plate-3",
-        "dealName": "Juany / Dixie Village bakery",
+        "dealName": "Amin Lakhani / Smart LED TN LLC Highland lease application",
         "property": null,
-        "action": "review business plan and decide ownership-fit path.",
-        "why": "#3 on your plate today.",
+        "action": "lease application received for Highland Ave Jackson TN; proposed use is business expansion, requested 5-year term, and supporting financi...",
+        "why": "Top of your active task list this week.",
         "urgency": "medium",
-        "type": "briefing"
+        "type": "task"
       }
     ]
   }
