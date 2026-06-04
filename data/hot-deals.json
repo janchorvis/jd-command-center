@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T12:30:19.848557",
+  "lastUpdated": "2026-06-04T13:02:55.088840",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-04",
@@ -49,7 +49,8 @@
       "Send Emerson pipe to PMs at/around the 10:15 AM calendar block.",
       "Check whether HopeSmiles responded before the 11:00 AM reminder.",
       "Respond to Ryan Jordan with asking price and property information for former Big Lots - Shelbyville.",
-      "Send/confirm Hamilton lockbox access for Spirit Halloween site visit tomorrow after 11 AM."
+      "Send/confirm Hamilton lockbox access for Spirit Halloween site visit tomorrow after 11 AM.",
+      "Hamilton Subway renewal - answer Mathison whether he should send the renewal offer now or wait."
     ]
   },
   "pipelineDeals": [
@@ -20795,9 +20796,9 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row / Hendersonville Fox's",
-      "status": "Clay reports EJ will not let Great Greek architect in before 9:00; Friday or Saturday at 9:00 works, despite Fox's operating.",
-      "nextStep": "Tell Joey/Great Greek that access is available Friday or Saturday at 9:00.",
-      "priority": "medium",
+      "status": "Signed Final LOI received from Joey Valenti with TGG LOI.pdf attached.",
+      "nextStep": "Move signed LOI into lease draft / ownership handoff path; preserve HVAC/equipment responsibility review if still unresolved.",
+      "priority": "high",
       "timeline": [
         {
           "date": "2026-06-04",
@@ -20857,6 +20858,11 @@
         {
           "date": "2026-06-04",
           "event": "Email from Micah Lacher: Fwd: [EXTERNAL] Re: AutoZone #1717-01-01 (Hamilton, OH) - Re: Upcoming Lease Exp",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-04",
+          "event": "Joey Valenti sent signed Final LOI with TGG LOI.pdf attached.",
           "type": "email"
         },
         {
