@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T09:30:18.850022",
+  "lastUpdated": "2026-06-04T10:03:43.892971",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-04",
@@ -48,7 +48,8 @@
       "Call Jesse Warhurst at 256-436-5984 about Russellville building 16.",
       "Send Emerson pipe to PMs at/around the 10:15 AM calendar block.",
       "Check whether HopeSmiles responded before the 11:00 AM reminder.",
-      "Respond to Ryan Jordan with asking price and property information for former Big Lots - Shelbyville."
+      "Respond to Ryan Jordan with asking price and property information for former Big Lots - Shelbyville.",
+      "Send/confirm Hamilton lockbox access for Spirit Halloween site visit tomorrow after 11 AM."
     ]
   },
   "pipelineDeals": [
@@ -33396,6 +33397,29 @@
           "date": "2026-06-04",
           "event": "Ryan Jordan asked for asking price and property info for former Big Lots - Shelbyville.",
           "type": "email"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-06-04"
+    },
+    {
+      "id": "spirit-halloween-hamilton",
+      "name": "Spirit Halloween",
+      "property": "Hamilton, OH",
+      "status": "Spirit Halloween ops manager Steve Stapleton can visit the Hamilton space tomorrow, 2026-06-05, at 11 AM or later.",
+      "stage": "Touring",
+      "nextStep": "Jacob confirm/send lockbox access details for tomorrow's site visit.",
+      "priority": "high",
+      "contacts": [
+        "Tina Charnitsky (Spirit Halloween Real Estate)",
+        "Steve Stapleton (Spirit Halloween / Spirit Christmas Zone Manager Ohio/KY)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-04",
+          "event": "Inbox: Steve Stapleton said he can stop by the Hamilton space tomorrow at 11 AM or later; Gmail draft loaded for Jacob to confirm and send lockbox access.",
+          "type": "lead"
         }
       ],
       "actions": [],
