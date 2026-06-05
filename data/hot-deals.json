@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-05T15:00:22.705240",
+  "lastUpdated": "2026-06-05T15:00:54.627534",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-05",
-    "greeting": "Good morning, Jacob. You have 15 overdue items.",
+    "greeting": "Good afternoon, Jacob. You have 15 overdue items.",
     "meetings": [
       {
         "time": "12:00 AM",
@@ -23,7 +23,7 @@
       {
         "time": "9:00 AM",
         "title": "Fox Pizza Hendersonville Walk Through",
-        "dealContext": "Stage: Lease Signed | Signed Final LOI received from Joey Valenti with TGG LOI.pdf attached. | Next: Move signed LOI into lease draft / ownership handoff path; preserve HVAC/equipment responsibility review if still unresolved."
+        "dealContext": "Stage: Lease Signed | Calendar shows Fox Pizza Hendersonville walk-through at 9:00 AM today. | Next: Attend walk-through and capture any lease/work-letter issues from the site visit."
       },
       {
         "time": "9:00 AM",
@@ -36,18 +36,13 @@
         "dealContext": null
       },
       {
-        "time": "12:00 PM",
-        "title": "Weekly Report - Fill out by 12 on Fridays",
-        "dealContext": null
-      },
-      {
-        "time": "12:00 PM",
+        "time": "11:30 AM",
         "title": "Lunch Joe Garcia Ladybird",
         "dealContext": null
       },
       {
-        "time": "3:45 PM",
-        "title": "Commissions (Anchor + Delk)",
+        "time": "12:00 PM",
+        "title": "Weekly Report - Fill out by 12 on Fridays",
         "dealContext": null
       },
       {
@@ -64,10 +59,7 @@
       "PCON feedback: Sean Spafford (overdue — due 2026-05-15)",
       "PCON feedback: Griffin Hodge (overdue — due 2026-04-02)",
       "Make flyer for mattresses listing (overdue — due 2026-03-23)",
-      "put mattresses on the market (overdue — due 2026-03-23)",
-      "Send Spirit Halloween Hamilton lockbox/access info before the after-noon site visit.",
-      "Attend Fox Pizza Hendersonville walk-through at 9:00 AM and capture next steps.",
-      "Answer Mathison on whether to send Hamilton Subway renewal offer or wait."
+      "put mattresses on the market (overdue — due 2026-03-23)"
     ]
   },
   "pipelineDeals": [
@@ -80,21 +72,6 @@
       "nextStep": "Finish attorney answers and send redlines by end of week.",
       "priority": "high",
       "timeline": [
-        {
-          "date": "2026-06-05",
-          "event": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
-          "event": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (Anchor Investments - 3654",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
-          "event": "Email from Micah Lacher: Invitation: 90 Day Check-In: Adam X Delk X Micah @ Fri Sep 11, 2026 10:15am - 11",
-          "type": "email"
-        },
         {
           "date": "2026-06-05",
           "event": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
@@ -6356,11 +6333,6 @@
       "timeline": [
         {
           "date": "2026-06-05",
-          "event": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
           "event": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 2026 10am - 11am (CDT) (Ja",
           "type": "email"
         },
@@ -7699,16 +7671,6 @@
       "nextStep": "Send Emerson pipe to property managers and keep lease-signature pressure moving.",
       "priority": "high",
       "timeline": [
-        {
-          "date": "2026-06-05",
-          "event": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Available at McHenry Center — Up",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
-          "event": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (Anchor Investments - 3654",
-          "type": "email"
-        },
         {
           "date": "2026-06-05",
           "event": "Email from Kabani Hotel Group: For Sale | Super 8 Miami Dade County",
@@ -9344,11 +9306,6 @@
       "nextStep": "Prepare/send UPS lease draft or tell Jon timing for draft delivery.",
       "priority": "high",
       "timeline": [
-        {
-          "date": "2026-06-05",
-          "event": "Email from Yardi CommercialCafe: V26.2 Release Notification",
-          "type": "email"
-        },
         {
           "date": "2026-06-05",
           "event": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct threat'",
@@ -12408,11 +12365,6 @@
       "timeline": [
         {
           "date": "2026-06-05",
-          "event": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (Anchor Investments - 3654",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
           "event": "Email from SpeCtre: You’re invited to: ''AI in Construction: Rethink Your Workflows with AI''",
           "type": "email"
         },
@@ -13865,16 +13817,6 @@
       "nextStep": "Monitor fee/payment and GC pickup/start timing.",
       "priority": "high",
       "timeline": [
-        {
-          "date": "2026-06-05",
-          "event": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (Anchor Investments - 3654",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
-          "event": "Email from Micah Lacher: Invitation: 90 Day Check-In: Adam X Delk X Micah @ Fri Sep 11, 2026 10:15am - 11",
-          "type": "email"
-        },
         {
           "date": "2026-06-05",
           "event": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
@@ -17228,11 +17170,6 @@
       "timeline": [
         {
           "date": "2026-06-05",
-          "event": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Available at McHenry Center — Up",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
           "event": "Email from Chain Store Age: DayBreaker: Retail expansion update; Five Below sales soar; Pinterest in big dea",
           "type": "email"
         },
@@ -17388,16 +17325,6 @@
         "Susan Swindal / Mama Suz Fried Pies (Mamasuzfriedpies@gmail.com, 205-567-9667)"
       ],
       "timeline": [
-        {
-          "date": "2026-06-05",
-          "event": "Email from Yardi CommercialCafe: V26.2 Release Notification",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
-          "event": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (Anchor Investments - 3654",
-          "type": "email"
-        },
         {
           "date": "2026-06-05",
           "event": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct threat'",
@@ -18752,21 +18679,6 @@
       "timeline": [
         {
           "date": "2026-06-05",
-          "event": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
-          "event": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (Anchor Investments - 3654",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
-          "event": "Email from Micah Lacher: Invitation: 90 Day Check-In: Adam X Delk X Micah @ Fri Sep 11, 2026 10:15am - 11",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
           "event": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 2026 10am - 11am (CDT) (Ja",
           "type": "email"
         },
@@ -19708,11 +19620,6 @@
         "Rawn Turner / Valor Healthcare"
       ],
       "timeline": [
-        {
-          "date": "2026-06-05",
-          "event": "Email from Yardi CommercialCafe: V26.2 Release Notification",
-          "type": "email"
-        },
         {
           "date": "2026-06-05",
           "event": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct threat'",
@@ -21352,16 +21259,6 @@
       "nextStep": "Attend walk-through and capture any lease/work-letter issues from the site visit.",
       "priority": "medium",
       "timeline": [
-        {
-          "date": "2026-06-05",
-          "event": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
-          "event": "Email from Micah Lacher: Invitation: 90 Day Check-In: Adam X Delk X Micah @ Fri Sep 11, 2026 10:15am - 11",
-          "type": "email"
-        },
         {
           "date": "2026-06-05",
           "event": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 2026 10am - 11am (CDT) (Ja",
@@ -26221,16 +26118,6 @@
       "timeline": [
         {
           "date": "2026-06-05",
-          "event": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (Anchor Investments - 3654",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
-          "event": "Email from Micah Lacher: Invitation: 90 Day Check-In: Adam X Delk X Micah @ Fri Sep 11, 2026 10:15am - 11",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
           "event": "Email from Jake Stansell: Board Affirms Michael Check as Executive Director",
           "type": "email"
         },
@@ -28079,16 +27966,6 @@
       "timeline": [
         {
           "date": "2026-06-05",
-          "event": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Available at McHenry Center — Up",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
-          "event": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
           "event": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
           "type": "email"
         },
@@ -29649,21 +29526,6 @@
       "priority": "high",
       "lastUpdate": "2026-03-09",
       "timeline": [
-        {
-          "date": "2026-06-05",
-          "event": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Available at McHenry Center — Up",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
-          "event": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (Anchor Investments - 3654",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
-          "event": "Email from Micah Lacher: Invitation: 90 Day Check-In: Adam X Delk X Micah @ Fri Sep 11, 2026 10:15am - 11",
-          "type": "email"
-        },
         {
           "date": "2026-06-05",
           "event": "Email from Kabani Hotel Group: For Sale | Super 8 Miami Dade County",
@@ -32617,11 +32479,6 @@
       "timeline": [
         {
           "date": "2026-06-05",
-          "event": "Email from Micah Lacher: Invitation: 90 Day Check-In: Adam X Delk X Micah @ Fri Sep 11, 2026 10:15am - 11",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
           "event": "Email from Ryan Jordan: Former Big Lots - Shelbyville",
           "type": "email"
         },
@@ -33535,11 +33392,6 @@
       ],
       "timeline": [
         {
-          "date": "2026-06-05",
-          "event": "Email from Micah Lacher: Invitation: 90 Day Check-In: Adam X Delk X Micah @ Fri Sep 11, 2026 10:15am - 11",
-          "type": "email"
-        },
-        {
           "date": "2026-06-04",
           "event": "Email from Mathison Ingham: Declined: Anchor Trash Cans @ Weekly from 5pm to 5pm on Wednesday (CDT) (Jacob D",
           "type": "email"
@@ -34199,11 +34051,6 @@
       "timeline": [
         {
           "date": "2026-06-05",
-          "event": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Available at McHenry Center — Up",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
           "event": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct threat'",
           "type": "email"
         },
@@ -34299,16 +34146,6 @@
         "Jesse Warhurst <jessewarhurst@yahoo.com>"
       ],
       "timeline": [
-        {
-          "date": "2026-06-05",
-          "event": "Email from jesse warhurst: Leasing",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
-          "event": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Available at McHenry Center — Up",
-          "type": "email"
-        },
         {
           "date": "2026-06-05",
           "event": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
@@ -34478,11 +34315,6 @@
       "timeline": [
         {
           "date": "2026-06-05",
-          "event": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Available at McHenry Center — Up",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
           "event": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct threat'",
           "type": "email"
         },
@@ -34558,11 +34390,6 @@
       "timeline": [
         {
           "date": "2026-06-05",
-          "event": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Available at McHenry Center — Up",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-05",
           "event": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct threat'",
           "type": "email"
         },
@@ -34628,17 +34455,7 @@
         },
         {
           "date": "2026-06-02",
-          "event": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (08434)",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-02",
           "event": "Email from Marlon Rodriguez: LoopNet Lead for Dixie Village Shopping Center",
-          "type": "email"
-        },
-        {
-          "date": "2026-05-29",
-          "event": "Email from Palomar and Baker Storey McDonald Properties: RSVP Confirmation – Nashville Happy Hour - Freedom Tour On the Road Again",
           "type": "email"
         }
       ],
@@ -34745,11 +34562,6 @@
         },
         {
           "date": "2026-06-02",
-          "event": "Email from Ryan Romes: Malone Costs",
-          "type": "email"
-        },
-        {
-          "date": "2026-06-02",
           "event": "Email from TiQuasia Jordan: TiQuasia Jordan favorited 2500 W Franklin Blvd",
           "type": "email"
         }
@@ -34826,11 +34638,6 @@
           "date": "2026-06-03",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Anthony Stevens",
           "type": "email"
-        },
-        {
-          "date": "2026-05-29",
-          "event": "Email from Jacob Delk: Hamilton, OH draft",
-          "type": "email"
         }
       ],
       "actions": [],
@@ -34859,11 +34666,6 @@
         "Amin Lakhani / Smart LED TN LLC"
       ],
       "timeline": [
-        {
-          "date": "2026-06-05",
-          "event": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
-          "type": "email"
-        },
         {
           "date": "2026-06-04",
           "event": "Email from Carson Knight: Retail Lease - 2151 Highland Ave",
@@ -35293,230 +35095,6 @@
       "property": "Shoe Dept: Hold to pay at a later date",
       "lastSeen": "Week Of 5/11/26",
       "note": "Dropped from prep doc with no status recorded."
-    },
-    {
-      "id": "leasing-activity-weekly-update",
-      "name": "Leasing Activity",
-      "property": "Weekly Update",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc with no status recorded."
-    },
-    {
-      "id": "shelbyville-property-initiatives",
-      "name": "Shelbyville Property Initiatives:",
-      "property": "Shelbyville Property Initiatives:",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: Local Government Outreach"
-    },
-    {
-      "id": "shelbyville-development-corporation",
-      "name": "Shelbyville Development Corporation",
-      "property": "Shelbyville Development Corporation",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: Left voicemail and sent email"
-    },
-    {
-      "id": "received-callback-they-will-add-our-listing-to-their-website",
-      "name": "Received callback",
-      "property": "they will add our listing to their website",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc with no status recorded."
-    },
-    {
-      "id": "mayor-of-shelbyville",
-      "name": "Mayor of Shelbyville",
-      "property": "Mayor of Shelbyville",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: Called, left voicemail, and emailed"
-    },
-    {
-      "id": "mayor-responded-no-specific-prospects-in-mind",
-      "name": "Mayor responded",
-      "property": "no specific prospects in mind",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: Offered assistance if needed Potential resource for future credits/incentives if we pursue redevelopment or box splitting"
-    },
-    {
-      "id": "retailer-outreach-for-shelbyville",
-      "name": "Retailer Outreach for Shelbyville",
-      "property": "Retailer Outreach for Shelbyville",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc with no status recorded."
-    },
-    {
-      "id": "tjx",
-      "name": "TJX",
-      "property": "TJX",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc with no status recorded."
-    },
-    {
-      "id": "contacted-regarding-potential-shelbyville-location",
-      "name": "Contacted regarding potential Shelbyville location",
-      "property": "Contacted regarding potential Shelbyville location",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc with no status recorded."
-    },
-    {
-      "id": "they-responded-that-they-ve-previously-evaluated-shelbyville",
-      "name": "They responded that they've previously evaluated Shelbyville",
-      "property": "They responded that they've previously evaluated Shelbyville",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: Not interested as it would cannibalize their other nearby stores"
-    },
-    {
-      "id": "broker-activity-for-shelbyville",
-      "name": "Broker Activity for Shelbyville",
-      "property": "Broker Activity for Shelbyville",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc with no status recorded."
-    },
-    {
-      "id": "paul-gold-echo-retail",
-      "name": "Paul Gold (Echo Retail)",
-      "property": "Paul Gold (Echo Retail)",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc with no status recorded."
-    },
-    {
-      "id": "discussed-shelbyville-property",
-      "name": "Discussed Shelbyville property",
-      "property": "Discussed Shelbyville property",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: Presented my new thesis about splitting the box He requested site plan renderings to present to clients Woodcrest Capital Called listing broker for adjacent property No answer Mid-Atlantic Broker (works with Pat Boyle) Connected regarding development behind our property Received intel that Hobby Lobby is looking at the development Hobby Lobby Called Brooks McMillan who confirmed he wasn't the right contact Brooks is connecting us with the correct contact (Les Mills) Good relationship-building opportunity with Brooks Pat Boyle Playing phone tag Attempting to reconnect"
-    },
-    {
-      "id": "inbound-leads-for-shelbyville",
-      "name": "Inbound Leads for Shelbyville",
-      "property": "Inbound Leads for Shelbyville",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: Bomgaars Supply"
-    },
-    {
-      "id": "farm-ranch-and-agricultural-supplier-interested-in-shelbyville-location",
-      "name": "Farm, ranch, and agricultural supplier interested in Shelbyville location",
-      "property": "Farm, ranch, and agricultural supplier interested in Shelbyville location",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: Planning to follow up with broker next week"
-    },
-    {
-      "id": "retailer-outreach-for-malone",
-      "name": "Retailer Outreach for Malone",
-      "property": "Retailer Outreach for Malone",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: Jodie Womack (Harbor Freight)"
-    },
-    {
-      "id": "primary-target-for-malone-location",
-      "name": "Primary target for Malone location",
-      "property": "Primary target for Malone location",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: Left voicemail and sent follow-up email No response yet Aaron's Called Casey regarding Malone location (noting Rent-A-Center is in Malone, but not Aaron's) No answer - sent follow-up email"
-    },
-    {
-      "id": "planet-fitness",
-      "name": "Planet Fitness",
-      "property": "Planet Fitness",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc with no status recorded."
-    },
-    {
-      "id": "followed-up-with-kent-adams-regarding-malone-location",
-      "name": "Followed up with Kent Adams regarding Malone location",
-      "property": "Followed up with Kent Adams regarding Malone location",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: No response to call or email BJ's Wholesale"
-    },
-    {
-      "id": "called-regarding-malone-location-noting-they-have-a-store-in-massena-ny",
-      "name": "Called regarding Malone location (noting they have a store in Massena, NY)",
-      "property": "Called regarding Malone location (noting they have a store in Massena, NY)",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc with no status recorded."
-    },
-    {
-      "id": "received-email-response-indicating-no-interest-in-malone",
-      "name": "Received email response indicating no interest in Malone",
-      "property": "Received email response indicating no interest in Malone",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: Michaels Called regarding Malone location (noting they have a store in Massena and we are losing Joann) Spoke with Karen (Director of Real Estate) who connected us with Maureen (New York market)"
-    },
-    {
-      "id": "reached-out-to-maureen-no-answer",
-      "name": "Reached out to Maureen",
-      "property": "no answer",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: Planning to follow up next week"
-    },
-    {
-      "id": "broker-activity-for-malone",
-      "name": "Broker Activity for Malone",
-      "property": "Broker Activity for Malone",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: Brian Donovan Successfully connected with Brian (previous contact) He indicated he didn't have any prospects for us Referred us to Ken Brownell Ken Brownell"
-    },
-    {
-      "id": "called-but-didn-t-connect-left-message",
-      "name": "Called but didn't connect",
-      "property": "left message",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: Sent follow-up email Planning to follow up next week Represents major retailers in upstate New York"
-    },
-    {
-      "id": "is-the-listing-broker-for-all-dollar-tree-shopping-center-adjacent-to-mlm",
-      "name": "Is the listing broker for All & Dollar Tree Shopping Center adjacent to MLM",
-      "property": "Is the listing broker for All & Dollar Tree Shopping Center adjacent to MLM",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: Regional/Other Initiatives:"
-    },
-    {
-      "id": "grocery-general-retail",
-      "name": "Grocery & General Retail",
-      "property": "Grocery & General Retail",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: Hannaford Grocery"
-    },
-    {
-      "id": "called-vermont-plattsburgh-representative-no-answer",
-      "name": "Called Vermont/Plattsburgh representative",
-      "property": "no answer",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: Sent follow-up email Was connected with New York representative Called New York rep multiple times and sent email Planning to follow up next week Dollarama Contacted real estate representative about Canadian store Exchanged text messages They confirmed they are not looking to expand into US at this time Northern Tool"
-    },
-    {
-      "id": "called-real-estate-representative-no-answer",
-      "name": "Called real estate representative",
-      "property": "no answer",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: Sent follow-up email Received email response indicating no interest in our sites Aldi Spoke with Clayton (Russ's contact) for approximately 10 minutes Clayton connected us with his broker for follow-up next week Intel: They might consider the new development down the road They are not one of the main players/drivers for that development Dunham's"
-    },
-    {
-      "id": "called-michael-stozicki-no-answer",
-      "name": "Called Michael Stozicki",
-      "property": "no answer",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: Sent follow-up email"
-    },
-    {
-      "id": "received-out-of-office-response-will-be-back-next-week",
-      "name": "Received out",
-      "property": "of-office response - will be back next week",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: Evansville Development Outreach Evansville Economic Development Office Left voicemail Emailed the CEO of Development Awaiting response Harbor Freight Initiatives: Bill Gearhart (Harbor Freight) Called and left voicemail regarding locations in his region"
-    },
-    {
-      "id": "received-email-response-that-gastonia-location-wouldn-t-work",
-      "name": "Received email response that Gastonia location wouldn't work",
-      "property": "Received email response that Gastonia location wouldn't work",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: This was the only property in his territory Jodie Womack (Harbor Freight)"
-    },
-    {
-      "id": "primary-target-for-discussion-about-malone-location",
-      "name": "Primary target for discussion about Malone location",
-      "property": "Primary target for discussion about Malone location",
-      "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
-      "note": "Dropped from prep doc. Last status: Left voicemail and sent follow-up email No response yet Bryce Islava (Harbor Freight) Attempting to get answers regarding Indiana and Ohio locations Also inquiring about potential expansion in Harrison or Parma Heights Called but didn't connect Sent follow-up email Planning to follow up next week Newmark Brokers (Harbor Freight Representatives) Discovered Harbor Freight works with Newmark brokers from company website Contacted Gloria at Newmark via email and phone Gloria has not been responsive"
     }
   ],
   "staleContacts": [
@@ -35633,6 +35211,62 @@
       "urgency": "low"
     },
     {
+      "name": "Tom Gaghan",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Mathison Ingham: Declined: Anchor Trash Cans @ Weekly from 5pm to 5pm",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Gaghan - 440-263-9792 - tom@clevelandfurniturebank.org",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Mathison Ingham: Declined: Anchor Trash Cans @ Weekly from 5pm to 5pm",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Gaghan",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Mathison Ingham: Declined: Anchor Trash Cans @ Weekly from 5pm to 5pm",
+      "urgency": "low"
+    },
+    {
+      "name": "Mathison Ingham",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Mathison Ingham: Declined: Anchor Trash Cans @ Weekly from 5pm to 5pm",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Mathison Ingham: Declined: Anchor Trash Cans @ Weekly from 5pm to 5pm",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Gaghan",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Mathison Ingham: Declined: Anchor Trash Cans @ Weekly from 5pm to 5pm",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Mathison Ingham: Declined: Anchor Trash Cans @ Weekly from 5pm to 5pm",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Mathison Ingham: Declined: Anchor Trash Cans @ Weekly from 5pm to 5pm",
+      "urgency": "low"
+    },
+    {
       "name": "Jordyn Stallings",
       "deal": "Jordyn Stallings - Daycare Inquiry — 2512 Gallatin Avenue",
       "daysSinceContact": 1,
@@ -35654,178 +35288,192 @@
       "urgency": "low"
     },
     {
+      "name": "Carson Knight",
+      "deal": "Smart LED TN LLC — Highland Ave Jackson TN",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Carson Knight: Retail Lease - 2151 Highland Ave",
+      "urgency": "low"
+    },
+    {
+      "name": "Amin Lakhani / Smart LED TN LLC",
+      "deal": "Smart LED TN LLC — Highland Ave Jackson TN",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Carson Knight: Retail Lease - 2151 Highland Ave",
+      "urgency": "low"
+    },
+    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Dawn Baker",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Justin Jeror <justin.jeror@gmail.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher <mlacher@anchorinv.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Bill Castagna",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Julia Gibson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
@@ -35874,147 +35522,147 @@
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Carole",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Kurt Wilson",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Kyle Lindsey",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Kurt Wilson",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Kyle Lindsey",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Kabani Hotel Group: For Sale | Super 8 Miami Dade County",
       "urgency": "low"
     },
     {
       "name": "Lexy & Austin",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Kabani Hotel Group: For Sale | Super 8 Miami Dade County",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Kabani Hotel Group: For Sale | Super 8 Miami Dade County",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Kabani Hotel Group: For Sale | Super 8 Miami Dade County",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Jon Petty - jpetty@southeastventure.com",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Amy Taylor",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Amy Taylor",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Shady Azez <shadyazezz@gmail.com>",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Jon Petty <jpetty@southeastventure.com>",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
@@ -36035,154 +35683,154 @@
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from SpeCtre: You’re invited to: ''AI in Construction: Rethink Your Workfl",
       "urgency": "low"
     },
     {
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson <Robert_Richardson@tjx.com>",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano <andriano@c2-designgroup.com>",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
       "name": "Laurie Schindler",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
       "urgency": "low"
     },
     {
@@ -36210,371 +35858,371 @@
       "name": "Lauri Fowler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "David Cooke",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Abbey Gill",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Scott Myers <smyerscre2@outlook.com>",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Laurie",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Mitch",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Susan S.",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Susan Swindal / Mama Suz Fried Pies - Mamasuzfriedpies@gmail.com - 205-567-9667",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Susan Swindal / Mama Suz Fried Pies",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Carmen Drake",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "James Stocker",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Carmine DiLucente",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Stan Bobowski",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Paul Takacs",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Andrew Goodman",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Karen D'Antonio",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Karen D'Antonio",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Joe Wesley",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Shady Azez",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Richard Jones",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Thomas Cashion",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Thomas Cashion",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Rawn Turner",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Rawn Turner - rawn.turner@valorhealthcare.com - 972.435.4808",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Rawn Turner / Valor Healthcare",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Yardi CommercialCafe: V26.2 Release Notification",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "ala h.",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti <jvalenti@centenretail.com>",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "EJ",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Tim Mehta",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Tim Mehta",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Punit Patel / Great Greek corporate",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
+      "lastAction": "Email from Carole Ward: Invitation: Delk/Carole MRI Data Export @ Thu Jun 11, 20",
       "urgency": "low"
     },
     {
@@ -36609,98 +36257,98 @@
       "name": "Ashby",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jake Stansell: Board Affirms Michael Check as Executive Director",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jake Stansell: Board Affirms Michael Check as Executive Director",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jake Stansell: Board Affirms Michael Check as Executive Director",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jake Stansell: Board Affirms Michael Check as Executive Director",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jake Stansell: Board Affirms Michael Check as Executive Director",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jake Stansell: Board Affirms Michael Check as Executive Director",
       "urgency": "low"
     },
     {
       "name": "Lisa Sweeney",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jake Stansell: Board Affirms Michael Check as Executive Director",
       "urgency": "low"
     },
     {
       "name": "Wm. Coey Vierling <oinkysurveying@gmail.com>",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jake Stansell: Board Affirms Michael Check as Executive Director",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff <BMcAuliff@taftlaw.com>",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jake Stansell: Board Affirms Michael Check as Executive Director",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott <ascott@evanspetree.com>",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jake Stansell: Board Affirms Michael Check as Executive Director",
       "urgency": "low"
     },
     {
       "name": "Stan Bobowski",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jake Stansell: Board Affirms Michael Check as Executive Director",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jake Stansell: Board Affirms Michael Check as Executive Director",
       "urgency": "low"
     },
     {
       "name": "Stan Bobowski",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jake Stansell: Board Affirms Michael Check as Executive Director",
       "urgency": "low"
     },
     {
       "name": "Karen D'Antonio",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Match for File Number:TAM260148 Amount:$50,000.00 (A",
+      "lastAction": "Email from Jake Stansell: Board Affirms Michael Check as Executive Director",
       "urgency": "low"
     },
     {
@@ -36840,119 +36488,119 @@
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Kabani Hotel Group: For Sale | Super 8 Miami Dade County",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Kabani Hotel Group: For Sale | Super 8 Miami Dade County",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Kabani Hotel Group: For Sale | Super 8 Miami Dade County",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Kabani Hotel Group: For Sale | Super 8 Miami Dade County",
       "urgency": "low"
     },
     {
       "name": "Jordyn Stallings",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Kabani Hotel Group: For Sale | Super 8 Miami Dade County",
       "urgency": "low"
     },
     {
       "name": "Rebecca Miller",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Kabani Hotel Group: For Sale | Super 8 Miami Dade County",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Kabani Hotel Group: For Sale | Super 8 Miami Dade County",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Kabani Hotel Group: For Sale | Super 8 Miami Dade County",
       "urgency": "low"
     },
     {
       "name": "Lexy Burke",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Kabani Hotel Group: For Sale | Super 8 Miami Dade County",
       "urgency": "low"
     },
     {
       "name": "Dylan Bennett",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Kabani Hotel Group: For Sale | Super 8 Miami Dade County",
       "urgency": "low"
     },
     {
       "name": "Lexy Burke",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Kabani Hotel Group: For Sale | Super 8 Miami Dade County",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Kabani Hotel Group: For Sale | Super 8 Miami Dade County",
       "urgency": "low"
     },
     {
       "name": "Dylan Bennett",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Kabani Hotel Group: For Sale | Super 8 Miami Dade County",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Kabani Hotel Group: For Sale | Super 8 Miami Dade County",
       "urgency": "low"
     },
     {
@@ -36987,28 +36635,28 @@
       "name": "Juliana Fernandez",
       "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Invitation: 90 Day Check-In: Adam X Delk X Micah @ Fri ",
+      "lastAction": "Email from Ryan Jordan: Former Big Lots - Shelbyville",
       "urgency": "low"
     },
     {
       "name": "Carson Knight",
       "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Invitation: 90 Day Check-In: Adam X Delk X Micah @ Fri ",
+      "lastAction": "Email from Ryan Jordan: Former Big Lots - Shelbyville",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Invitation: 90 Day Check-In: Adam X Delk X Micah @ Fri ",
+      "lastAction": "Email from Ryan Jordan: Former Big Lots - Shelbyville",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Invitation: 90 Day Check-In: Adam X Delk X Micah @ Fri ",
+      "lastAction": "Email from Ryan Jordan: Former Big Lots - Shelbyville",
       "urgency": "low"
     },
     {
@@ -37047,94 +36695,38 @@
       "urgency": "low"
     },
     {
-      "name": "Tom Gaghan",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Invitation: 90 Day Check-In: Adam X Delk X Micah @ Fri ",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Gaghan - 440-263-9792 - tom@clevelandfurniturebank.org",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Invitation: 90 Day Check-In: Adam X Delk X Micah @ Fri ",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Gaghan",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Invitation: 90 Day Check-In: Adam X Delk X Micah @ Fri ",
-      "urgency": "low"
-    },
-    {
-      "name": "Mathison Ingham",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Invitation: 90 Day Check-In: Adam X Delk X Micah @ Fri ",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Invitation: 90 Day Check-In: Adam X Delk X Micah @ Fri ",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Gaghan",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Invitation: 90 Day Check-In: Adam X Delk X Micah @ Fri ",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Invitation: 90 Day Check-In: Adam X Delk X Micah @ Fri ",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Invitation: 90 Day Check-In: Adam X Delk X Micah @ Fri ",
-      "urgency": "low"
-    },
-    {
       "name": "Juany Almanza",
       "deal": "Juany Almanza — Dixie Village Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Jesse Warhurst <jessewarhurst@yahoo.com>",
       "deal": "Jesse Warhurst - Building 16 inquiry — Franklin Center / Russellville, AL",
       "daysSinceContact": 0,
-      "lastAction": "Email from jesse warhurst: Leasing",
+      "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
       "urgency": "low"
     },
     {
       "name": "Marlon Rodriguez",
       "deal": "Marlon Rodriguez — Dixie Village Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Omar Hidais",
       "deal": "Omar Hidais — Pea Ridge Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
       "name": "Omar Hidais",
       "deal": "Omar Hidais — Pea Ridge Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Miller Fitts: (NASHVILLE MSA) | Small Shop & Junior Box Space Availab",
+      "lastAction": "Email from Eric Snyder, Editor in Chief: Zoo CEO calls data center 'a direct thr",
       "urgency": "low"
     },
     {
@@ -37177,20 +36769,6 @@
       "deal": "Spirit Halloween — Hamilton, OH",
       "daysSinceContact": 0,
       "lastAction": "Gmail: Jacob sent lockbox location/code at 8:57 PM on 6/4; Steve acknowledged at",
-      "urgency": "low"
-    },
-    {
-      "name": "Carson Knight",
-      "deal": "Smart LED TN LLC — Highland Ave Jackson TN",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
-      "urgency": "low"
-    },
-    {
-      "name": "Amin Lakhani / Smart LED TN LLC",
-      "deal": "Smart LED TN LLC — Highland Ave Jackson TN",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Carole Ward: Fwd: Invoice 7416 from Nashville IT Health LLC",
       "urgency": "low"
     }
   ],
@@ -56759,7 +56337,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-06-05T07:33:11",
+    "generatedAt": "2026-06-05T15:00:54",
     "source": "morning-briefing",
     "yourPlate": [
       {
@@ -56932,224 +56510,133 @@
     ]
   },
   "prepDocDiff": {
-    "generatedAt": "2026-06-05T15:00:23.528352",
-    "thisWeek": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
-    "lastWeek": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
+    "generatedAt": "2026-05-29T18:05:46.772243",
+    "thisWeek": "2026-05-11 - Leasing Meeting Prep - Week of 5/11/26",
+    "lastWeek": "2026-05-04 - Leasing Meeting Prep - Week of 5.4.26",
     "new": [
       {
-        "name": "Great Greek",
-        "property": "Maple Row / Hendersonville",
-        "status": "This one has moved from \"last LOI issue\" into real pre-construction momentum. Joey said they were making a slight LOI adjustment, but the franchisee already wants the architect into Fox's at 7:00 AM Friday or Saturday so they can start drawings and finish before Fox's opens. I told Clay and Melissa I feel good we can get the LOI done, but I want to make sure we are aligned on the HVAC posture before this gets away from us: I am comfortable replacing the unit if it is actually shot, but I do not want this to turn into an open-ended landlord-funded construction bucket.",
-        "nextStep": ""
-      },
-      {
         "name": "Pell City Marketplace",
-        "property": "Physical Therapy / Home Health",
-        "status": "The physical therapy RFP is still waiting on our response. Lauri followed up on May 15, and I told her on May 18 that we are still very interested but short staffed and still crunching the RFP numbers. This is where I need your read on how aggressive we want to be on landlord work: the earlier economics were around 2,700 SF at $16/SF NNN or 5,000 SF at $13/SF NNN, with demising at our expense and TI potentially amortized into rent. If we want this, I need to get her a real proposal early this week.",
-        "nextStep": ""
-      },
-      {
-        "name": "Pell City Marketplace",
-        "property": "Existing PT LOI / Assignment Language",
-        "status": "The other Pell City PT thread is mostly legal cleanup around assignment language. Their legal team flagged the TBD around internal transfers, and my prior response was that we can define the financial/net-worth requirement in the lease. I think this is solvable, but I want to make sure we are not giving them assignment language that makes the guaranty or credit support meaningless.",
-        "nextStep": ""
-      },
-      {
-        "name": "McMinnville Plaza / Marketplace",
-        "property": "McMinnville Plaza / Marketplace",
-        "status": "UPS is ready for lease review. Jon Petty said the UPS area office was finalizing paperwork and that there was no issue issuing a lease now, and I told him I would get it rolling. At the same time, a new Newmark medical/substance-abuse RFP came in Thursday asking whether suites 105 and 106 are still available, and a new LoopNet lead came in Friday for a smoke shop; I already replied to the smoke-shop lead asking about the business and square footage. I want to talk through suite strategy here before we casually promise space - UPS is the priority, Wingstop/CosmoProf/Prather-type activity is still around the edges, and the wrong use could hurt the rebrand.",
-        "nextStep": ""
-      },
-      {
-        "name": "Hope Smiles",
-        "property": "3040 Sidco",
-        "status": "Hope Smiles moved from \"tenant profile ready\" to a real Sidco push. Bill Adair suggested 3040 Sidco, the Stream team toured them, and I sent Maddy the tenant profile, rough sketch layout, and programming requirements Friday evening. Their needs are still fluid: 10-15 offices, training/conference rooms, support space, kitchen/lounge, and a dental component with around 10 private treatment rooms plus 10-15 open-concept dental chairs. My view is Sidco should get tested before we re-engage Cool Springs Commons, but I want your gut check on whether this is the right lane for them.",
+        "property": "Pell City Marketplace",
+        "status": "Physical Therapy / Home Health Fun plot twist: The original home health company is also now back trying to see if we can slot them in the middle space and get three deals done at once. We had a brief call last Friday and we were dusting off our old LOI.",
         "nextStep": ""
       },
       {
         "name": "Evansville",
-        "property": "Where Ya Bin",
-        "status": "This is still alive but waiting on Mitch. Melissa sent the Big Lots photos, I forwarded the photo set to Mitch, and the latest Friday activity was internal/photos follow-up rather than a tenant response. I do not think we need to spend much time here unless you want to push Mitch harder or reframe the economics. Hamilton Title / Sale Issues Ashby's Hamilton title thread was active again Friday. This is not really a leasing deal, but it touches the broader Hamilton strategy and may need your judgment if the buyer keeps asking for title/inspection-period cleanup beyond what we should reasonably provide. My posture is still to cooperate on existing docs and title backup, but not agree to new tenant signatures, estoppels, or open-ended third-party conditions. April Commissions I sent the commission approval thread on May 26 for QT Nails, Shoe Dept, and ABC Store, and it is still sitting in the to-respond bucket. My recommendation is still: pay first half on Montgomery / QT Nails and hold the second half until opening/commencement, hold Malone / Shoe Dept until later, and hold Russellville / ABC until later. I just need your confirmation before we hand that to accounting. Dropped / Worth Discussing Chad Vang / Dixie Village laundromat - we put a five-week touch-base call on the calendar for June 10, so I am not going to keep chasing it in the weekly prep until that date. Fostr and the 2008 Johnson flyer - both were in last prep, but neither needs Micah leasing-deal time this week unless you want to see the materials separately.",
+        "property": "Evansville",
+        "status": "Where Ya Bin The call with Mitch did happen on Tuesday - I filled you in on it. We are waiting on Mitch/Where Ya Bin after he reviews the material. Just shot him a text this morning Easterseals Still waiting on Laurie/CEO feedback. Laurie said the CEO meeting got cancelled because of the CEO's schedule and DC travel, and she expected to connect the following week. I will ping her today and get an update",
+        "nextStep": ""
+      },
+      {
+        "name": "Firework Tent Details",
+        "property": "Firework Tent Details",
+        "status": "It took a minute, but I finally worked through all the details for these Fireworks leases. They will be going out via DocuSign to you this week. Here are the properties:",
+        "nextStep": ""
+      },
+      {
+        "name": "Hickory Village",
+        "property": "Jackson, TN",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Dixie Village",
+        "property": "Gastonia, NC",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "McMinnville Plaza",
+        "property": "McMinnville, TN",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Millington Plaza",
+        "property": "Millington, TN",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Forks of the River",
+        "property": "Sevierville, TN",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Malone Big Lots / Malone Plaza",
+        "property": "Malone, NY",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Malone",
+        "property": "Shoe Dept: Hold to pay at a later date",
+        "status": "",
+        "nextStep": ""
+      },
+      {
+        "name": "Russellville",
+        "property": "ABC Store: Hold to pay at a later date",
+        "status": "",
         "nextStep": ""
       }
     ],
     "dropped": [
       {
-        "name": "Leasing Activity",
-        "property": "Weekly Update",
+        "name": "Emerson Hall / Lately Projects",
+        "property": "Emerson Hall / Lately Projects",
+        "lastStatus": "Ready to rock and roll. Let me know if there is anything you need me to do"
+      },
+      {
+        "name": "Shelbyville",
+        "property": "Shelbyville",
         "lastStatus": ""
       },
       {
-        "name": "Shelbyville Property Initiatives:",
-        "property": "Shelbyville Property Initiatives:",
-        "lastStatus": "Local Government Outreach"
-      },
-      {
-        "name": "Shelbyville Development Corporation",
-        "property": "Shelbyville Development Corporation",
-        "lastStatus": "Left voicemail and sent email"
-      },
-      {
-        "name": "Received callback",
-        "property": "they will add our listing to their website",
-        "lastStatus": ""
-      },
-      {
-        "name": "Mayor of Shelbyville",
-        "property": "Mayor of Shelbyville",
-        "lastStatus": "Called, left voicemail, and emailed"
-      },
-      {
-        "name": "Mayor responded",
-        "property": "no specific prospects in mind",
-        "lastStatus": "Offered assistance if needed Potential resource for future credits/incentives if we pursue redevelopment or box splitting"
-      },
-      {
-        "name": "Retailer Outreach for Shelbyville",
-        "property": "Retailer Outreach for Shelbyville",
-        "lastStatus": ""
-      },
-      {
-        "name": "TJX",
-        "property": "TJX",
-        "lastStatus": ""
-      },
-      {
-        "name": "Contacted regarding potential Shelbyville location",
-        "property": "Contacted regarding potential Shelbyville location",
-        "lastStatus": ""
-      },
-      {
-        "name": "They responded that they've previously evaluated Shelbyville",
-        "property": "They responded that they've previously evaluated Shelbyville",
-        "lastStatus": "Not interested as it would cannibalize their other nearby stores"
-      },
-      {
-        "name": "Broker Activity for Shelbyville",
-        "property": "Broker Activity for Shelbyville",
-        "lastStatus": ""
-      },
-      {
-        "name": "Paul Gold (Echo Retail)",
-        "property": "Paul Gold (Echo Retail)",
-        "lastStatus": ""
-      },
-      {
-        "name": "Discussed Shelbyville property",
-        "property": "Discussed Shelbyville property",
-        "lastStatus": "Presented my new thesis about splitting the box He requested site plan renderings to present to clients Woodcrest Capital Called listing broker for adjacent property No answer Mid-Atlantic Broker (works with Pat Boyle) Connected regarding development behind our property Received intel that Hobby Lobby is looking at the development Hobby Lobby Called Brooks McMillan who confirmed he wasn't the right contact Brooks is connecting us with the correct contact (Les Mills) Good relationship-building opportunity with Brooks Pat Boyle Playing phone tag Attempting to reconnect"
-      },
-      {
-        "name": "Inbound Leads for Shelbyville",
-        "property": "Inbound Leads for Shelbyville",
-        "lastStatus": "Bomgaars Supply"
-      },
-      {
-        "name": "Farm, ranch, and agricultural supplier interested in Shelbyville location",
-        "property": "Farm, ranch, and agricultural supplier interested in Shelbyville location",
-        "lastStatus": "Planning to follow up with broker next week"
-      },
-      {
-        "name": "Retailer Outreach for Malone",
-        "property": "Retailer Outreach for Malone",
-        "lastStatus": "Jodie Womack (Harbor Freight)"
-      },
-      {
-        "name": "Primary target for Malone location",
-        "property": "Primary target for Malone location",
-        "lastStatus": "Left voicemail and sent follow-up email No response yet Aaron's Called Casey regarding Malone location (noting Rent-A-Center is in Malone, but not Aaron's) No answer - sent follow-up email"
-      },
-      {
-        "name": "Planet Fitness",
-        "property": "Planet Fitness",
-        "lastStatus": ""
-      },
-      {
-        "name": "Followed up with Kent Adams regarding Malone location",
-        "property": "Followed up with Kent Adams regarding Malone location",
-        "lastStatus": "No response to call or email BJ's Wholesale"
-      },
-      {
-        "name": "Called regarding Malone location (noting they have a store in Massena, NY)",
-        "property": "Called regarding Malone location (noting they have a store in Massena, NY)",
-        "lastStatus": ""
-      },
-      {
-        "name": "Received email response indicating no interest in Malone",
-        "property": "Received email response indicating no interest in Malone",
-        "lastStatus": "Michaels Called regarding Malone location (noting they have a store in Massena and we are losing Joann) Spoke with Karen (Director of Real Estate) who connected us with Maureen (New York market)"
-      },
-      {
-        "name": "Reached out to Maureen",
-        "property": "no answer",
-        "lastStatus": "Planning to follow up next week"
-      },
-      {
-        "name": "Broker Activity for Malone",
-        "property": "Broker Activity for Malone",
-        "lastStatus": "Brian Donovan Successfully connected with Brian (previous contact) He indicated he didn't have any prospects for us Referred us to Ken Brownell Ken Brownell"
-      },
-      {
-        "name": "Called but didn't connect",
-        "property": "left message",
-        "lastStatus": "Sent follow-up email Planning to follow up next week Represents major retailers in upstate New York"
-      },
-      {
-        "name": "Is the listing broker for All & Dollar Tree Shopping Center adjacent to MLM",
-        "property": "Is the listing broker for All & Dollar Tree Shopping Center adjacent to MLM",
-        "lastStatus": "Regional/Other Initiatives:"
-      },
-      {
-        "name": "Grocery & General Retail",
-        "property": "Grocery & General Retail",
-        "lastStatus": "Hannaford Grocery"
-      },
-      {
-        "name": "Called Vermont/Plattsburgh representative",
-        "property": "no answer",
-        "lastStatus": "Sent follow-up email Was connected with New York representative Called New York rep multiple times and sent email Planning to follow up next week Dollarama Contacted real estate representative about Canadian store Exchanged text messages They confirmed they are not looking to expand into US at this time Northern Tool"
-      },
-      {
-        "name": "Called real estate representative",
-        "property": "no answer",
-        "lastStatus": "Sent follow-up email Received email response indicating no interest in our sites Aldi Spoke with Clayton (Russ's contact) for approximately 10 minutes Clayton connected us with his broker for follow-up next week Intel: They might consider the new development down the road They are not one of the main players/drivers for that development Dunham's"
-      },
-      {
-        "name": "Called Michael Stozicki",
-        "property": "no answer",
-        "lastStatus": "Sent follow-up email"
-      },
-      {
-        "name": "Received out",
-        "property": "of-office response - will be back next week",
-        "lastStatus": "Evansville Development Outreach Evansville Economic Development Office Left voicemail Emailed the CEO of Development Awaiting response Harbor Freight Initiatives: Bill Gearhart (Harbor Freight) Called and left voicemail regarding locations in his region"
-      },
-      {
-        "name": "Received email response that Gastonia location wouldn't work",
-        "property": "Received email response that Gastonia location wouldn't work",
-        "lastStatus": "This was the only property in his territory Jodie Womack (Harbor Freight)"
-      },
-      {
-        "name": "Primary target for discussion about Malone location",
-        "property": "Primary target for discussion about Malone location",
-        "lastStatus": "Left voicemail and sent follow-up email No response yet Bryce Islava (Harbor Freight) Attempting to get answers regarding Indiana and Ohio locations Also inquiring about potential expansion in Harrison or Parma Heights Called but didn't connect Sent follow-up email Planning to follow up next week Newmark Brokers (Harbor Freight Representatives) Discovered Harbor Freight works with Newmark brokers from company website Contacted Gloria at Newmark via email and phone Gloria has not been responsive"
+        "name": "Just leaving this here to talk about Shelbyville",
+        "property": "Just leaving this here to talk about Shelbyville",
+        "lastStatus": "-OP -New ideas (shoutout jarvis) -ICSC"
       }
     ],
     "progressed": [
       {
         "name": "Five Below",
-        "property": "Malone Plaza",
-        "from": "Developing new thesis about splitting the box for a soft goods user with Five Below",
-        "to": "Five Below is active on two tracks now. Ashby sent lease revisions on May 20, I reviewed with him, and he sent a revised draft to Five Below's counsel on May 27; we are waiting on their legal response. On the construction side, Clay answered Desiree's survey comments: roof is newer and under warranty, pipe issue was fixed, we will seal the rear CMU wall, we are okay making the sprinkler/meter room common area with rear access, and Five Below will not have to sprinkler the space. The remaining Micah-level item is the facade/elevation plan - I need to make sure we are comfortable starting cost-effective exterior concepts before the lease is fully finished, because Five Below is moving their layout forward."
+        "property": "Five Below",
+        "from": "",
+        "to": "Five Below's attorney sent the lease draft. I will review this week and also send it to Ashby so that way we can circle up on it"
+      },
+      {
+        "name": "McMinnville Plaza",
+        "property": "McMinnville Plaza",
+        "from": "Petty and I worked through the specifics, and he is taking the most recent version to get sign off from UPS. Pell City Physical Therapy / Home Health I can explain more in our meeting, but this one hit a little speed bump with their legal team, so it is having to go back through approvals. The short version is they wanted some broad assignment language that the broker and I discussed and were on the same page about, but he didn't document very well, so their legal team flagged it and rejected it on first go",
+        "to": "UPS Store This moved forward. Amy/UPS signed the LOI on 5/5. I returned the fully executed LOI on 5/6.We can get started on a lease while they get final approval from REC."
+      },
+      {
+        "name": "Maple Row / Hendersonville",
+        "property": "Maple Row / Hendersonville",
+        "from": "They did a site visit the other day and are waiting for some numbers back.",
+        "to": "Great Greek This is down to one issue. Construction numbers came back, and Joey returned LOI comments with only one change: tenant wants the ‘allegedly’ dead rooftop HVAC unit replaced now instead of just covered by the later HVAC language."
       }
     ],
     "stalled": [],
     "updated": [
       {
         "name": "Malone Plaza",
-        "property": "Marshalls / Shoe Dept / Five Below Coordination",
-        "from": "",
-        "to": "Marshalls still needs pressure because Bob told StoreCrafters he hoped to get the permit this week and wanted to mobilize or meet onsite next week, and Clay asked whether TJX has selected a contractor. This ties directly into Shoe Dept and Five Below because the egress/wall layout, facade height, common areas, and sequencing all touch each other. I want us to treat Malone as one coordinated construction path rather than three separate tenant projects."
+        "property": "Malone Plaza",
+        "from": "Approved at REC. Clay and I have a kick-off call with their construction team this afternoon",
+        "to": ""
+      },
+      {
+        "name": "Gastonia / Dixie Village",
+        "property": "Gastonia / Dixie Village",
+        "from": "The laundromat operator and I have a call scheduled for Wednesday to go over the specifics in the lease. Evansville Evansville / Where Ya Bin call got pushed to tomorrow. Evansville Easterseals has not talked with their CEO yet but is going to keep me in the loop.",
+        "to": "Chad Vang laundromat I talked to Chad. Their other laundromat has taken longer than anticipated to get up and running. Instead of continuing to follow up, we put a call on the calendar four weeks from now to circle back up"
+      },
+      {
+        "name": "Hope Smiles",
+        "property": "Hope Smiles",
+        "from": "They are pretty sold out on Creekside Crossing currently. They want to look at one more suite that was locked in there when we toured the first time. The LL is working on a test fit (for one of the spaces they looked at the other week) and running the numbers, so hope smiles can make a decision. Fostr Yardi data has made it into the platform, but still needs lots of configuring on their end. But it's big time that you can go in and see where it's headed. I can show it to you",
+        "to": "I slacked you the PDF, but we put together a tenant profile for Creekside Crossing LL. I was impressed with Claude Design. Hopefully the LL is too… Fostr I had a good call with Fostr last week. We are closing in on the Yardi integration. I can share more 2008 Johnson flyer I'll show you what Jarvis came up with and what Claude Design came up with"
       }
     ],
     "noChange": []
@@ -57452,7 +56939,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-06-05T07:33:11",
+    "generatedAt": "2026-06-05T15:00:54",
     "source": "morning-briefing",
     "items": [
       {
