@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T14:02:09.947813",
+  "lastUpdated": "2026-06-05T14:02:34.909467",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-05",
@@ -34444,15 +34444,20 @@
     {
       "id": "shelbyville-ryan-jordan-former-big-lots",
       "name": "Ryan Jordan / Former Big Lots",
-      "property": "Shelbyville",
-      "status": "Ryan Jordan asked for asking price and property information for the former Big Lots at 1840 E Michigan Rd.",
+      "property": "Shelbyville former Big Lots",
+      "status": "Jacob replied to Ryan Jordan with mid-single-digits net rent posture, flyer attached, and asked for the user/size range.",
       "stage": "Contact Made",
-      "nextStep": "Jacob needs to send asking price and property information.",
-      "priority": "high",
+      "nextStep": "Await Ryan Jordan response with user and size range.",
+      "priority": "medium",
       "contacts": [
         "Ryan Jordan (AVID Real Estate Advisors)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-05",
+          "event": "Jacob replied to Ryan Jordan with pricing posture and flyer; awaiting user/size range.",
+          "type": "email"
+        },
         {
           "date": "2026-06-04",
           "event": "Email from Will Toffey: Prime land opportunity: 3.6 & 1.5 acre lots for sale",
