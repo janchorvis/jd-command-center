@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T07:32:39.890610",
+  "lastUpdated": "2026-06-05T09:03:30.698464",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-05",
@@ -33990,9 +33990,9 @@
       "id": "spirit-halloween-hamilton",
       "name": "Spirit Halloween",
       "property": "Hamilton, OH",
-      "status": "Steve Stapleton's Hamilton site visit is today after noon; actual lockbox/access details still need to be sent or confirmed.",
+      "status": "Jacob sent Hamilton lockbox location/code to Steve Stapleton, and Steve acknowledged he will stop by Friday afternoon for about 30 minutes.",
       "stage": "Touring",
-      "nextStep": "Send or confirm Hamilton lockbox/access details before the after-noon visit.",
+      "nextStep": "Wait for Steve Stapleton's site-visit feedback; no further access action unless he has trouble.",
       "priority": "high",
       "contacts": [
         "Tina Charnitsky (Spirit Halloween Real Estate)",
@@ -34005,6 +34005,11 @@
           "date": "2026-06-05",
           "event": "Briefing: Spirit Halloween Hamilton visit is today after noon; lockbox/access remains the urgent next step.",
           "type": "task"
+        },
+        {
+          "date": "2026-06-05",
+          "event": "Gmail: Jacob sent lockbox location/code at 8:57 PM on 6/4; Steve acknowledged at 9:07 PM that he will stop by Friday afternoon for about 30 minutes.",
+          "type": "email"
         },
         {
           "date": "2026-06-04",
