@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T09:30:13.528251",
+  "lastUpdated": "2026-06-05T10:02:31.004933",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-05",
@@ -34032,18 +34032,24 @@
       "id": "pea-ridge-omar-hidais",
       "name": "Omar Hidais",
       "property": "Pea Ridge Shopping Center",
-      "status": "Omar Hidais said he operates several Tobacco/Vape shops across multiple states and is also a landlord after Jacob asked about operating history.",
+      "status": "Omar Hidais, a multi-state tobacco/vape operator and landlord, asked what spaces are available and what the asking rent is after Jacob asked about locations/first store.",
       "stage": "Contact Made",
-      "nextStep": "Jacob to confirm desired square footage; Gmail draft loaded asking what size space he is looking for.",
+      "nextStep": "Jacob to review current Pea Ridge availability and asking rent, then reply to Omar.",
       "priority": "medium",
       "contacts": [
-        "Omar Hidais"
+        "Omar Hidais",
+        "Omar Hidais (tobacco/vape operator, ohidais23@gmail.com)"
       ],
       "timeline": [
         {
           "date": "2026-06-05",
           "event": "Email from Bridgestone Arena Box Office: Gracie Abrams tickets are on sale today!",
           "type": "email"
+        },
+        {
+          "date": "2026-06-05",
+          "event": "Omar Hidais asked for available spaces and asking rent at Pea Ridge.",
+          "type": "lead"
         },
         {
           "date": "2026-06-04",
