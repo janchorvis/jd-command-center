@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T07:15:52.020150",
+  "lastUpdated": "2026-06-05T07:32:39.890610",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-05",
@@ -64,7 +64,10 @@
       "PCON feedback: Sean Spafford (overdue — due 2026-05-15)",
       "PCON feedback: Griffin Hodge (overdue — due 2026-04-02)",
       "Make flyer for mattresses listing (overdue — due 2026-03-23)",
-      "put mattresses on the market (overdue — due 2026-03-23)"
+      "put mattresses on the market (overdue — due 2026-03-23)",
+      "Send Spirit Halloween Hamilton lockbox/access info before the after-noon site visit.",
+      "Attend Fox Pizza Hendersonville walk-through at 9:00 AM and capture next steps.",
+      "Answer Mathison on whether to send Hamilton Subway renewal offer or wait."
     ]
   },
   "pipelineDeals": [
@@ -20930,10 +20933,15 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row / Hendersonville Fox's",
-      "status": "Signed Final LOI received from Joey Valenti with TGG LOI.pdf attached.",
-      "nextStep": "Move signed LOI into lease draft / ownership handoff path; preserve HVAC/equipment responsibility review if still unresolved.",
-      "priority": "high",
+      "status": "Calendar shows Fox Pizza Hendersonville walk-through at 9:00 AM today.",
+      "nextStep": "Attend walk-through and capture any lease/work-letter issues from the site visit.",
+      "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-06-05",
+          "event": "Briefing: Fox Pizza Hendersonville walk-through scheduled for 9:00 AM.",
+          "type": "task"
+        },
         {
           "date": "2026-06-04",
           "event": "Email from CoStar Client Success Team: CoStar webinars: Prospecting, land tools and more",
@@ -33982,9 +33990,9 @@
       "id": "spirit-halloween-hamilton",
       "name": "Spirit Halloween",
       "property": "Hamilton, OH",
-      "status": "Jacob replied to Steve Stapleton that tomorrow's Hamilton space visit works and he will send lockbox info shortly.",
+      "status": "Steve Stapleton's Hamilton site visit is today after noon; actual lockbox/access details still need to be sent or confirmed.",
       "stage": "Touring",
-      "nextStep": "Send/confirm actual Hamilton lockbox access before Steve's 2026-06-05 visit at 11 AM or later.",
+      "nextStep": "Send or confirm Hamilton lockbox/access details before the after-noon visit.",
       "priority": "high",
       "contacts": [
         "Tina Charnitsky (Spirit Halloween Real Estate)",
@@ -33993,6 +34001,11 @@
         "Tina Charnitsky (Spirit Halloween)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-05",
+          "event": "Briefing: Spirit Halloween Hamilton visit is today after noon; lockbox/access remains the urgent next step.",
+          "type": "task"
+        },
         {
           "date": "2026-06-04",
           "event": "Email from Charnitsky, Tina: Spirit Halloween - Hamilton OH",
