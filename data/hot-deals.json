@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T13:17:58.874681",
+  "lastUpdated": "2026-06-05T13:24:25.299376",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-05",
@@ -9269,10 +9269,10 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "Crexi lead David S. requested a tour; he and his wife previously rented from Anchor at Benny's in Cumberland Square. Jacob already replied asking for phone/email and offering info/tour coordination.",
+      "status": "UPS has full site approval for the McMinnville Plaza UPS Store deal; Jon Petty asked whether Anchor can get a lease draft out soon.",
       "stage": "Lease Signed",
-      "nextStep": "Wait for David S. to provide contact info/tour availability.",
-      "priority": "medium",
+      "nextStep": "Prepare/send UPS lease draft or tell Jon timing for draft delivery.",
+      "priority": "high",
       "timeline": [
         {
           "date": "2026-06-05",
@@ -9312,6 +9312,11 @@
         {
           "date": "2026-06-05",
           "event": "Email from Kelsey Cornillie, Publisher: What the music industry reveals about the economy",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-05",
+          "event": "Jon Petty: UPS has full site approval and asked if Anchor can get a lease draft soon.",
           "type": "email"
         },
         {
