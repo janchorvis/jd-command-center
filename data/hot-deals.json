@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T17:30:10.067197",
+  "lastUpdated": "2026-06-08T10:03:37.448975",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-05",
@@ -67,7 +67,9 @@
       "put mattresses on the market (overdue — due 2026-03-23)",
       "Send Spirit Halloween Hamilton lockbox/access info before the after-noon site visit.",
       "Attend Fox Pizza Hendersonville walk-through at 9:00 AM and capture next steps.",
-      "Answer Mathison on whether to send Hamilton Subway renewal offer or wait."
+      "Answer Mathison on whether to send Hamilton Subway renewal offer or wait.",
+      "Review/send Dixie Village draft reply to Daran Bynum.",
+      "Pull SWIG package, confirm ground rent, and send Anchor's Sevierville site."
     ]
   },
   "pipelineDeals": [
@@ -34992,6 +34994,50 @@
         "suiteCount": 3,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "dixie-village-daran-bynum",
+      "name": "Daran Bynum - Dispensary",
+      "property": "Dixie Village Shopping Center",
+      "status": "LoopNet lead from Daran Bynum for Dixie Village/Gastonia; use listed as dispensary and lead provided phone/email. Gmail draft loaded asking what size space he wants.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob review/send draft reply asking for size requirement.",
+      "priority": "low",
+      "contacts": [
+        "Daran Bynum <daranbynum@gmail.com> | 336-761-4449"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Communication Triage: LoopNet lead caught and Gmail draft loaded for approval.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-06-08"
+    },
+    {
+      "id": "swig-sevierville-outparcel",
+      "name": "Swig",
+      "property": "Sevierville site",
+      "status": "Micah forwarded a SWIG drive-thru package and asked Jacob to determine what Swig pays in ground rent, then send them Anchor's Sevierville site.",
+      "stage": "Contact Made",
+      "nextStep": "Pull the package, figure out Swig's ground rent, and send the Sevierville site.",
+      "priority": "medium",
+      "contacts": [
+        "Micah Lacher"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Micah asked Jacob to use the SWIG package to price ground rent and send Anchor's Sevierville site.",
+          "type": "email"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-06-08"
     }
   ],
   "droppedBalls": [
