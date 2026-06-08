@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T14:30:14.893002",
+  "lastUpdated": "2026-06-08T15:02:48.874840",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-05",
@@ -35854,10 +35854,10 @@
       "id": "russellville-franklin-center-building-16-jesse-warhurst",
       "name": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
-      "status": "Jesse supplied his phone number overnight after Jacob asked for the best number to discuss Franklin Center / Russellville availability.",
+      "status": "Jesse supplied his website (Shop Jesse K / shopjessek.com) and logo after prior Building 16 Russellville follow-up.",
       "stage": "Contact Made",
-      "nextStep": "Jacob to call Jesse at 256-436-5984 about building 16 availability.",
-      "priority": "high",
+      "nextStep": "Jacob to review the Shop Jesse K concept and call Jesse at 256-436-5984 about Building 16 availability.",
+      "priority": "medium",
       "contacts": [
         "Jesse Warhurst <jessewarhurst@yahoo.com>"
       ],
@@ -35890,6 +35890,11 @@
         {
           "date": "2026-06-08",
           "event": "Email from Crexi: Eli A. clicked phone number on Town and Country Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email: Jesse Warhurst sent Shop Jesse K website/logo for Russellville Building 16 inquiry.",
           "type": "email"
         },
         {
