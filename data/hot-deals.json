@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T12:30:12.615335",
+  "lastUpdated": "2026-06-08T13:03:22.718704",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-05",
@@ -70,7 +70,10 @@
       "Answer Mathison on whether to send Hamilton Subway renewal offer or wait.",
       "Review/send Dixie Village draft reply to Daran Bynum.",
       "Pull SWIG package, confirm ground rent, and send Anchor's Sevierville site.",
-      "Answer Clay Richardson on timing for McMinnville trip to meet the Aldi contact."
+      "Answer Clay Richardson on timing for McMinnville trip to meet the Aldi contact.",
+      "Pell City / David Cooke - answer whether there is still a deal to be made for 807 Martin St S.",
+      "Maple Row / Great Greek - answer Joey on locked exterior double door and permitted grease-trap location.",
+      "McMinnville Plaza / James Rainer - respond on behavioral-health RFP status for Suites 105/106."
     ]
   },
   "pipelineDeals": [
@@ -17691,9 +17694,9 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Crexi lead Susan Swindal replied with contact info for Mama Suz Fried Pies, phone 205-567-9667, email Mamasuzfriedpies@gmail.com, and current 2,500-2,700 SF footprint after Jacob asked for contact info/business/SF.",
+      "status": "David Cooke followed up again on 2026-06-08 asking if there is still a deal to be made for the 807 Martin St S revived Home Health project.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Await Susan Swindal's reply on whether 2,500 SF works and what kitchen infrastructure Mama Suz Fried Pies needs.",
+      "nextStep": "Jacob needs to respond/call David on whether Anchor still wants to pursue the deal and what terms/path are viable.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
@@ -17708,7 +17711,8 @@
         "Tom Fidler (MacKenzie Retail / Drayer PT)",
         "Susan S. (Crexi lead)",
         "Susan Swindal / Mama Suz Fried Pies - Mamasuzfriedpies@gmail.com - 205-567-9667",
-        "Susan Swindal / Mama Suz Fried Pies (Mamasuzfriedpies@gmail.com, 205-567-9667)"
+        "Susan Swindal / Mama Suz Fried Pies (Mamasuzfriedpies@gmail.com, 205-567-9667)",
+        "David Cooke (Cooke Commercial)"
       ],
       "timeline": [
         {
@@ -17769,6 +17773,11 @@
         {
           "date": "2026-06-08",
           "event": "Email from Crexi: Eli A. clicked phone number on Town and Country Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "David Cooke followed up: 'Following up to see if there still a deal to be made here.'",
           "type": "email"
         },
         {
@@ -20137,9 +20146,9 @@
       "id": "mcminnville-plaza",
       "name": "",
       "property": "McMinnville Plaza",
-      "status": "Valor Healthcare/VA clinic lead is looking for about 700 SF for a behavioral health office; they already operate the VA clinic at Three Star Mall and do not expect expansion needs.",
+      "status": "James Rainer followed up on the national outpatient substance-abuse treatment client/RFP for Suites 105/106 after providing use details for landlord review.",
       "stage": "LOI",
-      "nextStep": "Review options and follow up with Rawn Turner / Valor Healthcare if a suitable 700 SF behavioral health office fit exists; Rawn says he does not expect to need additional expansion space.",
+      "nextStep": "Jacob needs to present the behavioral-health use/RFP to ownership or reply with status/questions.",
       "priority": "medium",
       "contacts": [
         "Joe Wesley (wesleyjoe829@gmail.com, 213-872-0190)",
@@ -20153,7 +20162,8 @@
         "Thomas Cashion (Davis Moore Healthcare / Carolina Kidz Therapy)",
         "Rawn Turner (LoopNet lead)",
         "Rawn Turner (Valor Healthcare Real Estate & Facilities Program Director) - rawn.turner@valorhealthcare.com - 972.435.4808",
-        "Rawn Turner / Valor Healthcare"
+        "Rawn Turner / Valor Healthcare",
+        "James Rainer (Newmark)"
       ],
       "timeline": [
         {
@@ -20204,6 +20214,11 @@
         {
           "date": "2026-06-08",
           "event": "Email from Crexi: Eli A. clicked phone number on Town and Country Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "James Rainer followed up on McMinnville Plaza medical/substance-abuse treatment client RFP: 'Following up on this...'",
           "type": "email"
         },
         {
@@ -21866,9 +21881,9 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row / Hendersonville Fox's",
-      "status": "Calendar shows Fox Pizza Hendersonville walk-through at 9:00 AM today.",
-      "nextStep": "Attend walk-through and capture any lease/work-letter issues from the site visit.",
-      "priority": "medium",
+      "status": "Signed Final LOI is in hand; Joey Valenti asked about the locked exterior double door on the south side/back right corner and where an in-ground grease trap may be installed.",
+      "nextStep": "Jacob needs owner/Clay input on the locked rear/south-side double-door space and acceptable grease-trap location while lease drafting proceeds.",
+      "priority": "high",
       "timeline": [
         {
           "date": "2026-06-08",
@@ -21923,6 +21938,11 @@
         {
           "date": "2026-06-08",
           "event": "Email from Jennifer Stewart: Maple Row Shopping Center -Hendersonville",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Joey Valenti asked two follow-up questions while waiting on lease: locked exterior double door purpose and permitted grease-trap location.",
           "type": "email"
         },
         {
