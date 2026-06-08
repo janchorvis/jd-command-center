@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T13:30:13.760866",
+  "lastUpdated": "2026-06-08T14:04:10.550288",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-05",
@@ -17885,9 +17885,9 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "David Cooke followed up again on 2026-06-08 asking if there is still a deal to be made for the 807 Martin St S revived Home Health project.",
+      "status": "David Cooke followed up again asking if there is still a deal to be made for 807 Martin St S / EH Health Home Health of Birmingham.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob needs to respond/call David on whether Anchor still wants to pursue the deal and what terms/path are viable.",
+      "nextStep": "Jacob needs to confirm whether the Pell City deal is still alive and respond to David Cooke.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
@@ -20367,9 +20367,9 @@
       "id": "mcminnville-plaza",
       "name": "",
       "property": "McMinnville Plaza",
-      "status": "James Rainer followed up on the national outpatient substance-abuse treatment client/RFP for Suites 105/106 after providing use details for landlord review.",
+      "status": "Clay said Melissa may be good to join Jacob's Friday June 19 meeting with the Aldi contact so she can see it in person.",
       "stage": "LOI",
-      "nextStep": "Jacob needs to present the behavioral-health use/RFP to ownership or reply with status/questions.",
+      "nextStep": "Jacob should decide whether to include Melissa on the June 19 McMinnville/Aldi visit.",
       "priority": "medium",
       "contacts": [
         "Joe Wesley (wesleyjoe829@gmail.com, 213-872-0190)",
@@ -20384,7 +20384,8 @@
         "Rawn Turner (LoopNet lead)",
         "Rawn Turner (Valor Healthcare Real Estate & Facilities Program Director) - rawn.turner@valorhealthcare.com - 972.435.4808",
         "Rawn Turner / Valor Healthcare",
-        "James Rainer (Newmark)"
+        "James Rainer (Newmark)",
+        "Clay Richardson"
       ],
       "timeline": [
         {
@@ -20456,6 +20457,11 @@
           "date": "2026-06-08",
           "event": "James Rainer followed up on McMinnville Plaza medical/substance-abuse treatment client RFP: 'Following up on this...'",
           "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Clay suggested Melissa join Jacob's June 19 McMinnville/Aldi visit.",
+          "type": "slack"
         },
         {
           "date": "2026-06-07",
@@ -22117,8 +22123,8 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row / Hendersonville Fox's",
-      "status": "Signed Final LOI is in hand; Joey Valenti asked about the locked exterior double door on the south side/back right corner and where an in-ground grease trap may be installed.",
-      "nextStep": "Jacob needs owner/Clay input on the locked rear/south-side double-door space and acceptable grease-trap location while lease drafting proceeds.",
+      "status": "Joey Valenti asked two lease-waiting questions: what the locked exterior double door on the south side/back right corner is for, and where a ground grease trap may be installed.",
+      "nextStep": "Jacob needs owner/property guidance on locked exterior double door and grease trap location, then reply to Joey.",
       "priority": "high",
       "timeline": [
         {
@@ -22189,6 +22195,11 @@
         {
           "date": "2026-06-08",
           "event": "Joey Valenti asked two follow-up questions while waiting on lease: locked exterior double door purpose and permitted grease-trap location.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Joey Valenti asked about locked exterior double door and acceptable ground grease-trap location while waiting on lease.",
           "type": "email"
         },
         {
@@ -36779,6 +36790,35 @@
           "date": "2026-06-07",
           "event": "Email from Crexi: Joe P. clicked phone number on Maple Row Shopping Center",
           "type": "email"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-06-08"
+    },
+    {
+      "id": "312-wilson-pike-broker-inquiry",
+      "name": "312 Wilson Pike Broker Inquiry",
+      "property": "312 Wilson Pike Cir",
+      "status": "Ryder Ballard noticed the lease listing and asked Micah for the asking rent because he has potential tenants to share it with. Micah copied Jacob and Adam to provide the information.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob has a draft reply asking Ryder what tenant types he has in mind while pricing is confirmed with Micah.",
+      "priority": "medium",
+      "contacts": [
+        "Ryder Ballard (Charles Hawkins Co.)",
+        "Micah Lacher",
+        "Adam Heston"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Ryder Ballard asked for asking rent for 312 Wilson Pike Cir and said he has potential tenants to share the listing with.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Gmail draft loaded for Jacob to reply to Ryder.",
+          "type": "draft"
         }
       ],
       "actions": [],
