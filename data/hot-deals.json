@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T16:30:46.411835",
+  "lastUpdated": "2026-06-08T17:04:41.863715",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-05",
@@ -87,7 +87,8 @@
       "Tell Gallatin/Trader Joe's parking concept does not work and Anchor is pulling for them but cannot give up key hotel parking/frontage.",
       "Follow MacBid/Yinz box renewal risk and plan replacement listings about 18 months before expirations.",
       "Reset Micah Fostr/AssetEdge password and schedule a short team rollout.",
-      "Set recurring Adam/Jacob and Adam/Micah check-ins that require Adam to bring researched recommendations, not raw questions."
+      "Set recurring Adam/Jacob and Adam/Micah check-ins that require Adam to bring researched recommendations, not raw questions.",
+      "Review Jesse Warhurst / Shop Jesse K Russellville lease application and supporting uploads."
     ]
   },
   "pipelineDeals": [
@@ -36069,9 +36070,9 @@
       "id": "russellville-franklin-center-building-16-jesse-warhurst",
       "name": "Jesse Warhurst - Building 16 inquiry",
       "property": "Franklin Center / Russellville, AL",
-      "status": "Jesse supplied his website (Shop Jesse K / shopjessek.com) and logo after prior Building 16 Russellville follow-up.",
-      "stage": "Contact Made",
-      "nextStep": "Jacob to review the Shop Jesse K concept and call Jesse at 256-436-5984 about Building 16 availability.",
+      "status": "Jesse completed the Shop Jesse K lease application for Russellville: boutique storefront use, sole proprietorship, requested 1-2 year term, projected July 1 opening, phone 256-436-5984.",
+      "stage": "Obtain Financials",
+      "nextStep": "Jacob to review the lease application/supporting financial uploads and decide whether to move Shop Jesse K forward for Building 16.",
       "priority": "medium",
       "contacts": [
         "Jesse Warhurst <jessewarhurst@yahoo.com>"
@@ -36116,6 +36117,11 @@
           "date": "2026-06-08",
           "event": "Email: Jesse Warhurst sent Shop Jesse K website/logo for Russellville Building 16 inquiry.",
           "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Communication Triage: Jesse Warhurst completed the Shop Jesse K lease application for Russellville Building 16; approval-only draft loaded.",
+          "type": "lead"
         },
         {
           "date": "2026-06-07",
@@ -36289,7 +36295,8 @@
         "avgSqFt": 5908,
         "suiteCount": 18,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Obtain Financials"
     },
     {
       "id": "dixie-village-marlon-rodriguez",
