@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T13:03:50.416388",
+  "lastUpdated": "2026-06-08T13:30:13.760866",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-05",
@@ -100,6 +100,36 @@
       "nextStep": "Jacob/Clay/Claire keep pushing drawings and hard costs before lease signature.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from LoopNet: Jacob, close your listings faster.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon Jun 8, 2026 2pm - 3pm (",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
+          "type": "email"
+        },
         {
           "date": "2026-06-08",
           "event": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL - 2 MINs**",
@@ -2554,6 +2584,11 @@
       "timeline": [
         {
           "date": "2026-06-08",
+          "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
           "event": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
           "type": "email"
         },
@@ -3832,6 +3867,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+          "type": "email"
+        },
         {
           "date": "2026-06-08",
           "event": "Email from ICSC Commerce + Communities Today: Reinventions Are for More Than Just Enclosed Malls",
@@ -5586,6 +5626,11 @@
       "timeline": [
         {
           "date": "2026-06-08",
+          "event": "Email from David Cooke: 807 Martin St S, Pell City, AL",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
           "event": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
           "type": "email"
         },
@@ -6532,6 +6577,11 @@
       "nextStep": "Monitor ABC timing and coordinate any move-in pressure with Clay/contractor.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
+          "type": "email"
+        },
         {
           "date": "2026-06-08",
           "event": "Email from Joey Valenti: FW: Final LOI",
@@ -9559,6 +9609,71 @@
       "timeline": [
         {
           "date": "2026-06-08",
+          "event": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Angela Robertson: Jacob, Please Review Your Listings",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Jacob Delk: Wi-Fi Outage 2926B Foster Creighton Dr.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from LoopNet: Jacob, close your listings faster.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Five below",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Fwd: SWIG Drive-Thru | Abs NNN GL | Affluent Tampa | Lowe's Outparcel",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL - 2 MINs**",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Carole Ward: Accepted: Department Overview: Accounting x Adam @ Tue Jun 9, 2026 3pm - 4pm (CD",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from David Cooke: 807 Martin St S, Pell City, AL",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon Jun 8, 2026 2pm - 3pm (",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outparcel to Kroger Anchored Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
           "event": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
           "type": "email"
         },
@@ -11984,6 +12099,21 @@
       "timeline": [
         {
           "date": "2026-06-08",
+          "event": "Email from Richard Jones: Broker's luncheon Friday June 19th, 2026 at Colliers office",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from ten31: The Promote: Helmsley Shopped & A Brokerage Stalwart Folds",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
           "event": "Meeting: Wingstop still in motion; tenant side owes lease draft.",
           "type": "meeting"
         },
@@ -12718,6 +12848,11 @@
       "nextStep": "Send comments to Ashby, get on the phone Wed/Thu/Fri, turn one more draft, and pressure the tenant to sign.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+          "type": "email"
+        },
         {
           "date": "2026-06-08",
           "event": "Email from Palomar and Baker Storey McDonald Properties: Event Reminder – Nashville Happy Hour - Freedom Tour On the Road Again is tomorr",
@@ -14187,6 +14322,16 @@
       "nextStep": "Monitor fee/payment and GC pickup/start timing.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
+          "type": "email"
+        },
         {
           "date": "2026-06-08",
           "event": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
@@ -16015,6 +16160,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-06-08",
+          "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+          "type": "email"
+        },
+        {
           "date": "2026-06-05",
           "event": "Email from Jon Petty: FW: The UPS Store McMinnville, TN - Site Approval received",
           "type": "email"
@@ -16962,6 +17112,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-06-08",
+          "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+          "type": "email"
+        },
+        {
           "date": "2026-06-05",
           "event": "Email from Jon Petty: FW: The UPS Store McMinnville, TN - Site Approval received",
           "type": "email"
@@ -17751,6 +17906,21 @@
         "David Cooke (Cooke Commercial)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from David Cooke: 807 Martin St S, Pell City, AL",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outparcel to Kroger Anchored Center",
+          "type": "email"
+        },
         {
           "date": "2026-06-08",
           "event": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
@@ -19200,6 +19370,21 @@
       "timeline": [
         {
           "date": "2026-06-08",
+          "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon Jun 8, 2026 2pm - 3pm (",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
           "event": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL - 2 MINs**",
           "type": "email"
         },
@@ -20202,6 +20387,21 @@
         "James Rainer (Newmark)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from David Cooke: 807 Martin St S, Pell City, AL",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outparcel to Kroger Anchored Center",
+          "type": "email"
+        },
         {
           "date": "2026-06-08",
           "event": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
@@ -21921,6 +22121,16 @@
       "nextStep": "Jacob needs owner/Clay input on the locked rear/south-side double-door space and acceptable grease-trap location while lease drafting proceeds.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon Jun 8, 2026 2pm - 3pm (",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
+          "type": "email"
+        },
         {
           "date": "2026-06-08",
           "event": "Email from Joey Valenti: FW: Final LOI",
@@ -23675,6 +23885,56 @@
       "timeline": [
         {
           "date": "2026-06-08",
+          "event": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Jacob Delk: Wi-Fi Outage 2926B Foster Creighton Dr.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from LoopNet: Jacob, close your listings faster.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Five below",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Fwd: SWIG Drive-Thru | Abs NNN GL | Affluent Tampa | Lowe's Outparcel",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL - 2 MINs**",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Carole Ward: Accepted: Department Overview: Accounting x Adam @ Tue Jun 9, 2026 3pm - 4pm (CD",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon Jun 8, 2026 2pm - 3pm (",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
           "event": "Email from Angela Robertson: Jacob, Please Review Your Listings",
           "type": "email"
         },
@@ -23888,6 +24148,11 @@
       "nextStep": "Keep pressure on all active prospects and let speed determine space control.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Email from David Cooke: 807 Martin St S, Pell City, AL",
+          "type": "email"
+        },
         {
           "date": "2026-06-04",
           "event": "Email from David Cooke: 807 Martin St S, Pell City, AL",
@@ -24187,6 +24452,76 @@
       "nextStep": "Wait for official Sally Beauty response and keep pressure toward final LOI/lease.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Angela Robertson: Jacob, Please Review Your Listings",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Jacob Delk: Wi-Fi Outage 2926B Foster Creighton Dr.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from LoopNet: Jacob, close your listings faster.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Five below",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Richard Jones: Broker's luncheon Friday June 19th, 2026 at Colliers office",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Fwd: SWIG Drive-Thru | Abs NNN GL | Affluent Tampa | Lowe's Outparcel",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL - 2 MINs**",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Carole Ward: Accepted: Department Overview: Accounting x Adam @ Tue Jun 9, 2026 3pm - 4pm (CD",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from ten31: The Promote: Helmsley Shopped & A Brokerage Stalwart Folds",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon Jun 8, 2026 2pm - 3pm (",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
+          "type": "email"
+        },
         {
           "date": "2026-06-08",
           "event": "Meeting: Sally Beauty counter posture confirmed and pushed toward close.",
@@ -24752,6 +25087,11 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-06-08",
+          "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+          "type": "email"
+        },
+        {
           "date": "2026-06-05",
           "event": "Email from Jon Petty: FW: The UPS Store McMinnville, TN - Site Approval received",
           "type": "email"
@@ -25305,6 +25645,11 @@
       "nextStep": "Monitor. Positive response but demographics/density concern remains.",
       "priority": "low",
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+          "type": "email"
+        },
         {
           "date": "2026-06-05",
           "event": "Email from Jon Petty: FW: The UPS Store McMinnville, TN - Site Approval received",
@@ -26940,6 +27285,61 @@
       "timeline": [
         {
           "date": "2026-06-08",
+          "event": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Angela Robertson: Jacob, Please Review Your Listings",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Jacob Delk: Wi-Fi Outage 2926B Foster Creighton Dr.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from LoopNet: Jacob, close your listings faster.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed Regional Medical Center | Near C",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL - 2 MINs**",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Carole Ward: Accepted: Department Overview: Accounting x Adam @ Tue Jun 9, 2026 3pm - 4pm (CD",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon Jun 8, 2026 2pm - 3pm (",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outparcel to Kroger Anchored Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
           "event": "Email from Flavors of India: Interested in Hendersonville Nutrition",
           "type": "email"
         },
@@ -27705,6 +28105,61 @@
       "timeline": [
         {
           "date": "2026-06-08",
+          "event": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Angela Robertson: Jacob, Please Review Your Listings",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Jacob Delk: Wi-Fi Outage 2926B Foster Creighton Dr.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from LoopNet: Jacob, close your listings faster.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Five below",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Fwd: SWIG Drive-Thru | Abs NNN GL | Affluent Tampa | Lowe's Outparcel",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL - 2 MINs**",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Carole Ward: Accepted: Department Overview: Accounting x Adam @ Tue Jun 9, 2026 3pm - 4pm (CD",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon Jun 8, 2026 2pm - 3pm (",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
           "event": "Email from Flavors of India: Interested in Hendersonville Nutrition",
           "type": "email"
         },
@@ -27822,6 +28277,66 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Angela Robertson: Jacob, Please Review Your Listings",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Jacob Delk: Wi-Fi Outage 2926B Foster Creighton Dr.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from LoopNet: Jacob, close your listings faster.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Five below",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Fwd: SWIG Drive-Thru | Abs NNN GL | Affluent Tampa | Lowe's Outparcel",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL - 2 MINs**",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Carole Ward: Accepted: Department Overview: Accounting x Adam @ Tue Jun 9, 2026 3pm - 4pm (CD",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon Jun 8, 2026 2pm - 3pm (",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
+          "type": "email"
+        },
         {
           "date": "2026-06-08",
           "event": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass personalized pricing bill; Walmart",
@@ -28874,6 +29389,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
+          "type": "email"
+        },
         {
           "date": "2026-06-08",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Fynn Sternagel",
@@ -30471,6 +30991,16 @@
       "priority": "high",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outparcel to Kroger Anchored Center",
+          "type": "email"
+        },
         {
           "date": "2026-06-08",
           "event": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed Regional Medical Center | Near C",
@@ -32238,6 +32768,11 @@
       "timeline": [
         {
           "date": "2026-06-08",
+          "event": "Email from Amazon.com: Delivered: \"Apple 70W USB-C Power Adapter\" and ⁦1⁩ more item",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
           "event": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass personalized pricing bill; Walmart",
           "type": "email"
         },
@@ -33046,6 +33581,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-06-08",
+          "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+          "type": "email"
+        },
+        {
           "date": "2026-06-05",
           "event": "Email from Melissa Eddy: Accepted: Department Overview: Melissa x Adam (Tentative) @ Mon Jul 13, 2026 2pm",
           "type": "email"
@@ -33477,6 +34017,21 @@
         "Ryan Romes"
       ],
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon Jun 8, 2026 2pm - 3pm (",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
+          "type": "email"
+        },
         {
           "date": "2026-06-08",
           "event": "Email from Micah Lacher: Five below",
@@ -34423,6 +34978,11 @@
       "timeline": [
         {
           "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
           "event": "Email from Palomar and Baker Storey McDonald Properties: Event Reminder – Nashville Happy Hour - Freedom Tour On the Road Again is tomorr",
           "type": "email"
         },
@@ -34881,6 +35441,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-06-08",
+          "event": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outparcel to Kroger Anchored Center",
+          "type": "email"
+        },
+        {
           "date": "2026-06-03",
           "event": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This November",
           "type": "email"
@@ -35116,6 +35681,11 @@
       "timeline": [
         {
           "date": "2026-06-08",
+          "event": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outparcel to Kroger Anchored Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
           "event": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed Regional Medical Center | Near C",
           "type": "email"
         },
@@ -35246,6 +35816,11 @@
         "Jesse Warhurst <jessewarhurst@yahoo.com>"
       ],
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outparcel to Kroger Anchored Center",
+          "type": "email"
+        },
         {
           "date": "2026-06-08",
           "event": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed Regional Medical Center | Near C",
@@ -35455,6 +36030,11 @@
       "timeline": [
         {
           "date": "2026-06-08",
+          "event": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outparcel to Kroger Anchored Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
           "event": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed Regional Medical Center | Near C",
           "type": "email"
         },
@@ -35563,6 +36143,11 @@
         "Omar Hidais (tobacco/vape operator, ohidais23@gmail.com)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outparcel to Kroger Anchored Center",
+          "type": "email"
+        },
         {
           "date": "2026-06-08",
           "event": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed Regional Medical Center | Near C",
@@ -35747,6 +36332,11 @@
       "timeline": [
         {
           "date": "2026-06-08",
+          "event": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon Jun 8, 2026 2pm - 3pm (",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
           "event": "Email from Robert Henson: Big Lots Evansville",
           "type": "email"
         },
@@ -35816,6 +36406,61 @@
         "Jacob Delk (Anchor)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Angela Robertson: Jacob, Please Review Your Listings",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Jacob Delk: Wi-Fi Outage 2926B Foster Creighton Dr.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from LoopNet: Jacob, close your listings faster.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Five below",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Fwd: SWIG Drive-Thru | Abs NNN GL | Affluent Tampa | Lowe's Outparcel",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL - 2 MINs**",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Carole Ward: Accepted: Department Overview: Accounting x Adam @ Tue Jun 9, 2026 3pm - 4pm (CD",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon Jun 8, 2026 2pm - 3pm (",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
+          "type": "email"
+        },
         {
           "date": "2026-06-08",
           "event": "Meeting: Hamilton box focus elevated; seek 10K-15K SF users and avoid proactive expensive splits.",
@@ -35941,6 +36586,11 @@
       "timeline": [
         {
           "date": "2026-06-08",
+          "event": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outparcel to Kroger Anchored Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
           "event": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed Regional Medical Center | Near C",
           "type": "email"
         },
@@ -36010,6 +36660,51 @@
       "timeline": [
         {
           "date": "2026-06-08",
+          "event": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Angela Robertson: Jacob, Please Review Your Listings",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Jacob Delk: Wi-Fi Outage 2926B Foster Creighton Dr.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from LoopNet: Jacob, close your listings faster.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL - 2 MINs**",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Carole Ward: Accepted: Department Overview: Accounting x Adam @ Tue Jun 9, 2026 3pm - 4pm (CD",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon Jun 8, 2026 2pm - 3pm (",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-08",
           "event": "Email from Micah Lacher: Five below",
           "type": "email"
         },
@@ -36045,6 +36740,11 @@
         "Jennifer Stewart (Gill Properties)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outparcel to Kroger Anchored Center",
+          "type": "email"
+        },
         {
           "date": "2026-06-08",
           "event": "Email from Daran Bynum: LoopNet Lead for Dixie Village Shopping Center",
@@ -36496,20 +37196,6 @@
       "urgency": "medium"
     },
     {
-      "name": "Kevin Moss",
-      "deal": "Royal Bazaar Indian — Parma Heights",
-      "daysSinceContact": 5,
-      "lastAction": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This",
-      "urgency": "low"
-    },
-    {
-      "name": "Royal Bazaar Indian",
-      "deal": "Royal Bazaar Indian — Parma Heights",
-      "daysSinceContact": 5,
-      "lastAction": "Email from Retail Live!: Retail Live! FOCUS Midwest Returns to Indianapolis This",
-      "urgency": "low"
-    },
-    {
       "name": "Jordyn Stallings",
       "deal": "Jordyn Stallings - Daycare Inquiry — 2512 Gallatin Avenue",
       "daysSinceContact": 4,
@@ -36524,62 +37210,6 @@
       "urgency": "low"
     },
     {
-      "name": "Kevin True",
-      "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Jon Petty: FW: The UPS Store McMinnville, TN - Site Approval received",
-      "urgency": "low"
-    },
-    {
-      "name": "Bell",
-      "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Jon Petty: FW: The UPS Store McMinnville, TN - Site Approval received",
-      "urgency": "low"
-    },
-    {
-      "name": "Spencer",
-      "deal": "Royal Furniture — McMinnville Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Jon Petty: FW: The UPS Store McMinnville, TN - Site Approval received",
-      "urgency": "low"
-    },
-    {
-      "name": "Sheldon",
-      "deal": "Royal Furniture — McMinnville Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Jon Petty: FW: The UPS Store McMinnville, TN - Site Approval received",
-      "urgency": "low"
-    },
-    {
-      "name": "Peter Adams",
-      "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Jon Petty: FW: The UPS Store McMinnville, TN - Site Approval received",
-      "urgency": "low"
-    },
-    {
-      "name": "Keystone Fireworks",
-      "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Melissa Eddy: Accepted: Department Overview: Melissa x Adam (Tentativ",
-      "urgency": "low"
-    },
-    {
-      "name": "Jeb Thompson",
-      "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Melissa Eddy: Accepted: Department Overview: Melissa x Adam (Tentativ",
-      "urgency": "low"
-    },
-    {
-      "name": "Jeb Thompson",
-      "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
-      "daysSinceContact": 3,
-      "lastAction": "Email from Melissa Eddy: Accepted: Department Overview: Melissa x Adam (Tentativ",
-      "urgency": "low"
-    },
-    {
       "name": "Pesach Gewirtz",
       "deal": "Infinite Equity Capital - 730 — 730",
       "daysSinceContact": 3,
@@ -36591,34 +37221,6 @@
       "deal": "Factory Connection — Russellville",
       "daysSinceContact": 3,
       "lastAction": "Email from Justin Sturdivant: RE: ICSC // East Nashville WAG - Parking",
-      "urgency": "low"
-    },
-    {
-      "name": "Tina Charnitsky",
-      "deal": "Spirit Halloween — Hamilton, OH",
-      "daysSinceContact": 3,
-      "lastAction": "Gmail: Jacob sent lockbox location/code at 8:57 PM on 6/4; Steve acknowledged at",
-      "urgency": "low"
-    },
-    {
-      "name": "Steve Stapleton",
-      "deal": "Spirit Halloween — Hamilton, OH",
-      "daysSinceContact": 3,
-      "lastAction": "Gmail: Jacob sent lockbox location/code at 8:57 PM on 6/4; Steve acknowledged at",
-      "urgency": "low"
-    },
-    {
-      "name": "Steve Stapleton",
-      "deal": "Spirit Halloween — Hamilton, OH",
-      "daysSinceContact": 3,
-      "lastAction": "Gmail: Jacob sent lockbox location/code at 8:57 PM on 6/4; Steve acknowledged at",
-      "urgency": "low"
-    },
-    {
-      "name": "Tina Charnitsky",
-      "deal": "Spirit Halloween — Hamilton, OH",
-      "daysSinceContact": 3,
-      "lastAction": "Gmail: Jacob sent lockbox location/code at 8:57 PM on 6/4; Steve acknowledged at",
       "urgency": "low"
     },
     {
@@ -36639,308 +37241,329 @@
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Dawn Baker",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Justin Jeror <justin.jeror@gmail.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher <mlacher@anchorinv.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Bill Castagna",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Julia Gibson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Claire/Clare",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Jacob Delk",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Tony Grillo",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: Reinventions Are for More Than Jus",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from David Cooke: 807 Martin St S, Pell City, AL",
       "urgency": "low"
     },
     {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from David Cooke: 807 Martin St S, Pell City, AL",
       "urgency": "low"
     },
     {
       "name": "Belky Rodriguez — 704-605-9280 — mibella1988@gmail.com",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from David Cooke: 807 Martin St S, Pell City, AL",
       "urgency": "low"
     },
     {
       "name": "Elie Najar",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from David Cooke: 807 Martin St S, Pell City, AL",
       "urgency": "low"
     },
     {
       "name": "David W.",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from David Cooke: 807 Martin St S, Pell City, AL",
       "urgency": "low"
     },
     {
       "name": "David W. - Crexi inquiry",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from David Cooke: 807 Martin St S, Pell City, AL",
       "urgency": "low"
     },
     {
       "name": "Juany Almanza",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from David Cooke: 807 Martin St S, Pell City, AL",
       "urgency": "low"
     },
     {
       "name": "Juany Almanza",
       "deal": "Chad Vang - Laundromat — Dixie Village",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from David Cooke: 807 Martin St S, Pell City, AL",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Carole",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Kurt Wilson",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Kyle Lindsey",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Kurt Wilson",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Kyle Lindsey",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
@@ -36989,630 +37612,742 @@
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Jon Petty - jpetty@southeastventure.com",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Amy Taylor",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Amy Taylor",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Shady Azez <shadyazezz@gmail.com>",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Jon Petty <jpetty@southeastventure.com>",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Jacob Delk",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Kevin True",
+      "deal": "Wingstop — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Richard Jones: Broker's luncheon Friday June 19th, 2026 at Colliers o",
+      "urgency": "low"
+    },
+    {
+      "name": "Bell",
+      "deal": "Wingstop — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Richard Jones: Broker's luncheon Friday June 19th, 2026 at Colliers o",
+      "urgency": "low"
+    },
+    {
+      "name": "Wingstop franchisee/broker",
+      "deal": "Wingstop — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Richard Jones: Broker's luncheon Friday June 19th, 2026 at Colliers o",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Palomar and Baker Storey McDonald Properties: Event Reminder – Nashvi",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson <Robert_Richardson@tjx.com>",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano <andriano@c2-designgroup.com>",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Laurie Schindler",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "urgency": "low"
+    },
+    {
+      "name": "Spencer",
+      "deal": "Royal Furniture — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "urgency": "low"
+    },
+    {
+      "name": "Sheldon",
+      "deal": "Royal Furniture — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "urgency": "low"
+    },
+    {
+      "name": "Peter Adams",
+      "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Lauri Fowler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "David Cooke",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Abbey Gill",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Scott Myers <smyerscre2@outlook.com>",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Laurie",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Mitch",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Susan S.",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Susan Swindal / Mama Suz Fried Pies - Mamasuzfriedpies@gmail.com - 205-567-9667",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Susan Swindal / Mama Suz Fried Pies",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "urgency": "low"
+    },
+    {
+      "name": "David Cooke",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Carmen Drake",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "James Stocker",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Carmine DiLucente",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Stan Bobowski",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Paul Takacs",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Andrew Goodman",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Karen D'Antonio",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Karen D'Antonio",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: New Cybersecurity Action Item **ACTION REQUIRED FOR ALL -",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Joe Wesley",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Shady Azez",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Richard Jones",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Thomas Cashion",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Thomas Cashion",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Rawn Turner",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Rawn Turner - rawn.turner@valorhealthcare.com - 972.435.4808",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Rawn Turner / Valor Healthcare",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Slack: Miles Davis. Now Playing in Slack. 🎺",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "urgency": "low"
+    },
+    {
+      "name": "James Rainer",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon ",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon ",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon ",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon ",
       "urgency": "low"
     },
     {
       "name": "ala h.",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon ",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon ",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon ",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon ",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti <jvalenti@centenretail.com>",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon ",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon ",
       "urgency": "low"
     },
     {
       "name": "EJ",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon ",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon ",
       "urgency": "low"
     },
     {
       "name": "Tim Mehta",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon ",
       "urgency": "low"
     },
     {
       "name": "Tim Mehta",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon ",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon ",
       "urgency": "low"
     },
     {
       "name": "Punit Patel / Great Greek corporate",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon ",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon ",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Joey Valenti: FW: Final LOI",
+      "lastAction": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon ",
       "urgency": "low"
     },
     {
       "name": "Laurie",
       "deal": " — Evansville Big Lots",
       "daysSinceContact": 0,
-      "lastAction": "Email from Angela Robertson: Jacob, Please Review Your Listings",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Rob Henson - Easterseals - 812-202-9384",
       "deal": " — Evansville Big Lots",
       "daysSinceContact": 0,
-      "lastAction": "Email from Angela Robertson: Jacob, Please Review Your Listings",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Laurie Seals - Easterseals",
       "deal": " — Evansville Big Lots",
       "daysSinceContact": 0,
-      "lastAction": "Email from Angela Robertson: Jacob, Please Review Your Listings",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Robert Henson",
       "deal": " — Evansville Big Lots",
       "daysSinceContact": 0,
-      "lastAction": "Email from Angela Robertson: Jacob, Please Review Your Listings",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": " — Evansville Big Lots",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Jacob Delk",
+      "deal": " — Evansville Big Lots",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Sally Beauty / Cosmo broker",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Jacob Delk",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
@@ -37626,392 +38361,490 @@
       "name": "Ashby",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Flavors of India: Interested in Hendersonville Nutrition",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Flavors of India: Interested in Hendersonville Nutrition",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Flavors of India: Interested in Hendersonville Nutrition",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Flavors of India: Interested in Hendersonville Nutrition",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Flavors of India: Interested in Hendersonville Nutrition",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Flavors of India: Interested in Hendersonville Nutrition",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Lisa Sweeney",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Flavors of India: Interested in Hendersonville Nutrition",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Wm. Coey Vierling <oinkysurveying@gmail.com>",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Flavors of India: Interested in Hendersonville Nutrition",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff <BMcAuliff@taftlaw.com>",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Flavors of India: Interested in Hendersonville Nutrition",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott <ascott@evanspetree.com>",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Flavors of India: Interested in Hendersonville Nutrition",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Stan Bobowski",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Flavors of India: Interested in Hendersonville Nutrition",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Flavors of India: Interested in Hendersonville Nutrition",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Stan Bobowski",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Flavors of India: Interested in Hendersonville Nutrition",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Karen D'Antonio",
       "deal": "Hamilton Title Objection — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Flavors of India: Interested in Hendersonville Nutrition",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Dutch Bros counsel",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Karen D'Antonio",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Jacob Delk",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Amin Lakhani - smartledtn@gmail.com - 901-907-2646",
       "deal": "Smart LED TN LLC — Highland - 2151 N Highland Ave, Jackson TN",
       "daysSinceContact": 0,
-      "lastAction": "Email from Flavors of India: Interested in Hendersonville Nutrition",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Amin Lakhani",
+      "deal": "Smart LED TN LLC — Highland - 2151 N Highland Ave, Jackson TN",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Carson Knight",
+      "deal": "Smart LED TN LLC — Highland - 2151 N Highland Ave, Jackson TN",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Smart LED TN LLC — Highland - 2151 N Highland Ave, Jackson TN",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Jacob Delk",
+      "deal": "Smart LED TN LLC — Highland - 2151 N Highland Ave, Jackson TN",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass person",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass person",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass person",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Dr. Phillip Kemp",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass person",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Dr. Kemp",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass person",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Amy",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass person",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Matty",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass person",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Ashley Marshall",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass person",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Bill Adair",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass person",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Amy",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass person",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Phillip Kemp",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass person",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Ross Smith",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass person",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Devin McClendon",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass person",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Ben Claybaker",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass person",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Brandon Hoop",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass person",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Mary Winston Cramer",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass person",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Maddison Sickels",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass person",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Charlie Gibson",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass person",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Todd Petrowski",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass person",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Kemp",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Brandon Hoop",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Jacob Delk",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Fynn Sternagel",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Fynn Sternagel",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Phoenix Club of Nashville: New PCON Prospect - Fynn Sternagel",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed R",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Brether group",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed R",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed R",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed R",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Jordyn Stallings",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed R",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Rebecca Miller",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed R",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed R",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed R",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Lexy Burke",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed R",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Dylan Bennett",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed R",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Lexy Burke",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed R",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Stephen Prather",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed R",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Dylan Bennett",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed R",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed R",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass person",
+      "lastAction": "Email from Amazon.com: Delivered: \"Apple 70W USB-C Power Adapter\" and ⁦1⁩ more i",
+      "urgency": "low"
+    },
+    {
+      "name": "Keystone Fireworks",
+      "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "urgency": "low"
+    },
+    {
+      "name": "Jeb Thompson",
+      "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
+      "urgency": "low"
+    },
+    {
+      "name": "Jeb Thompson",
+      "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Juliana Fernandez",
       "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Five below",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Carson Knight",
       "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Five below",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Five below",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Five below",
+      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "low"
     },
     {
@@ -38053,56 +38886,70 @@
       "name": "Tom Gaghan",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Palomar and Baker Storey McDonald Properties: Event Reminder – Nashvi",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Tom Gaghan - 440-263-9792 - tom@clevelandfurniturebank.org",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Palomar and Baker Storey McDonald Properties: Event Reminder – Nashvi",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Tom Gaghan",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Palomar and Baker Storey McDonald Properties: Event Reminder – Nashvi",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Mathison Ingham",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Palomar and Baker Storey McDonald Properties: Event Reminder – Nashvi",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Palomar and Baker Storey McDonald Properties: Event Reminder – Nashvi",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Tom Gaghan",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Palomar and Baker Storey McDonald Properties: Event Reminder – Nashvi",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Palomar and Baker Storey McDonald Properties: Event Reminder – Nashvi",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
       "urgency": "low"
     },
     {
       "name": "Clay",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
       "daysSinceContact": 0,
-      "lastAction": "Email from Palomar and Baker Storey McDonald Properties: Event Reminder – Nashvi",
+      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
+      "urgency": "low"
+    },
+    {
+      "name": "Kevin Moss",
+      "deal": "Royal Bazaar Indian — Parma Heights",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outp",
+      "urgency": "low"
+    },
+    {
+      "name": "Royal Bazaar Indian",
+      "deal": "Royal Bazaar Indian — Parma Heights",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outp",
       "urgency": "low"
     },
     {
@@ -38123,63 +38970,119 @@
       "name": "Juany Almanza",
       "deal": "Juany Almanza — Dixie Village Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed R",
+      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outp",
       "urgency": "low"
     },
     {
       "name": "Jesse Warhurst <jessewarhurst@yahoo.com>",
       "deal": "Jesse Warhurst - Building 16 inquiry — Franklin Center / Russellville, AL",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed R",
+      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outp",
       "urgency": "low"
     },
     {
       "name": "Marlon Rodriguez",
       "deal": "Marlon Rodriguez — Dixie Village Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed R",
+      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outp",
       "urgency": "low"
     },
     {
       "name": "Omar Hidais",
       "deal": "Omar Hidais — Pea Ridge Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed R",
+      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outp",
       "urgency": "low"
     },
     {
       "name": "Omar Hidais",
       "deal": "Omar Hidais — Pea Ridge Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed R",
+      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outp",
       "urgency": "low"
     },
     {
       "name": "Ryan Jordan",
       "deal": "Ryan Jordan / Former Big Lots — Shelbyville former Big Lots",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Henson: Big Lots Evansville",
+      "lastAction": "Email from Ryan Romes: Accepted: Department Overview: Acquisitions x Adam @ Mon ",
+      "urgency": "low"
+    },
+    {
+      "name": "Tina Charnitsky",
+      "deal": "Spirit Halloween — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Steve Stapleton",
+      "deal": "Spirit Halloween — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Steve Stapleton",
+      "deal": "Spirit Halloween — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Tina Charnitsky",
+      "deal": "Spirit Halloween — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Spirit Halloween — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Jacob Delk",
+      "deal": "Spirit Halloween — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Daran Bynum <daranbynum@gmail.com> | 336-761-4449",
       "deal": "Daran Bynum - Dispensary — Dixie Village Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros Adjacent to 423 Bed R",
+      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outp",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Swig — Sevierville site",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Five below",
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Swig — Sevierville site",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
+      "urgency": "low"
+    },
+    {
+      "name": "Jacob Delk",
+      "deal": "Swig — Sevierville site",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Google Alerts: Google Alert - \"Jacob Delk\"",
       "urgency": "low"
     },
     {
       "name": "Jennifer Stewart",
       "deal": "Sparkle Dog Grooming / Pigtails & Crewcuts — Maple Row Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Daran Bynum: LoopNet Lead for Dixie Village Shopping Center",
+      "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outp",
       "urgency": "low"
     }
   ],
