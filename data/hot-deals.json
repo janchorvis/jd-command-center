@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T13:03:22.718704",
+  "lastUpdated": "2026-06-08T13:03:50.416388",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-05",
@@ -73,7 +73,21 @@
       "Answer Clay Richardson on timing for McMinnville trip to meet the Aldi contact.",
       "Pell City / David Cooke - answer whether there is still a deal to be made for 807 Martin St S.",
       "Maple Row / Great Greek - answer Joey on locked exterior double door and permitted grease-trap location.",
-      "McMinnville Plaza / James Rainer - respond on behavioral-health RFP status for Suites 105/106."
+      "McMinnville Plaza / James Rainer - respond on behavioral-health RFP status for Suites 105/106.",
+      "Draft UPS Store lease using Maple Row form/redline and schedule Aldi site visit for 2026-06-19.",
+      "Build Evansville Rehab as-is/TI scenario spreadsheet; push 10-year term and ROFR instead of fixed purchase option.",
+      "If Dutch/Hamilton asks for more time, handle only short end-of-week extension and separately tell buyer/Dutch to resolve this week.",
+      "Run Swig/Sevierville against coffee/drink exclusive language before outreach.",
+      "Attend Richard Burt broker lunch/email-list opportunity and use it for Madison/broker relationship reps.",
+      "Push Clay/Claire for Five Below hard costs before lease signature.",
+      "Push Smart LED lease/application review to close.",
+      "Keep Sally Beauty pressure after countered LOI terms.",
+      "Hustle Hamilton box outreach, including laundromat and 10K-15K SF users.",
+      "Keep pressing HopeSmiles/144 Wilson Pike and set Dr. Kemp/owner conversation if needed.",
+      "Tell Gallatin/Trader Joe's parking concept does not work and Anchor is pulling for them but cannot give up key hotel parking/frontage.",
+      "Follow MacBid/Yinz box renewal risk and plan replacement listings about 18 months before expirations.",
+      "Reset Micah Fostr/AssetEdge password and schedule a short team rollout.",
+      "Set recurring Adam/Jacob and Adam/Micah check-ins that require Adam to bring researched recommendations, not raw questions."
     ]
   },
   "pipelineDeals": [
@@ -81,9 +95,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Jacob told Five Below/Julia Gibson that Anchor is 95% done with redlines and expects to send everything by end of week; Bill Castagna acknowledged.",
+      "status": "Five Below lease should not be signed until hard costs are known for facade, buildout, TI, and related landlord work; architects on both sides are still working through drawings/costs.",
       "stage": "Lease Signed",
-      "nextStep": "Finish attorney answers and send redlines by end of week.",
+      "nextStep": "Jacob/Clay/Claire keep pushing drawings and hard costs before lease signature.",
       "priority": "high",
       "timeline": [
         {
@@ -145,6 +159,11 @@
           "date": "2026-06-08",
           "event": "Email from Sam High: PLEASE READ: Portal & App Transitioning",
           "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Meeting: Micah stressed no Five Below signature until hard costs are known.",
+          "type": "meeting"
         },
         {
           "date": "2026-06-07",
@@ -2496,7 +2515,10 @@
         "Robert Richardson (TJX)",
         "Ashby Scott (Evans Petree)",
         "Bill Castagna (Five Below)",
-        "Julia Gibson (Maynard Nexsen)"
+        "Julia Gibson (Maynard Nexsen)",
+        "Claire/Clare (Anchor)",
+        "Micah Lacher (Anchor)",
+        "Jacob Delk (Anchor)"
       ],
       "actions": [
         {
@@ -9530,9 +9552,9 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "UPS has full site approval for the McMinnville Plaza UPS Store deal; Jon Petty asked whether Anchor can get a lease draft out soon.",
+      "status": "UPS has full site approval and financials are in hand; Micah/Jacob agreed to move straight to lease draft using the Maple Row form/redline rather than renegotiating the lease form. Aldi site visit remains scheduled for 2026-06-19.",
       "stage": "Lease Signed",
-      "nextStep": "Prepare/send UPS lease draft or tell Jon timing for draft delivery.",
+      "nextStep": "Draft UPS lease from Maple Row form/redline and put the 6/19 Aldi visit on Micah/Jacob calendars.",
       "priority": "high",
       "timeline": [
         {
@@ -9594,6 +9616,11 @@
           "date": "2026-06-08",
           "event": "Email from Crexi: Eli A. clicked phone number on Town and Country Center",
           "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Meeting: UPS approved; use Maple Row lease form/redline and proceed to draft.",
+          "type": "meeting"
         },
         {
           "date": "2026-06-07",
@@ -11922,7 +11949,10 @@
         "Amy Taylor",
         "Shady Azez <shadyazezz@gmail.com>",
         "Jon Petty <jpetty@southeastventure.com>",
-        "David S. (Crexi lead; prior Benny's/Cumberland Square tenant)"
+        "David S. (Crexi lead; prior Benny's/Cumberland Square tenant)",
+        "Jon Petty (UPS broker/contact)",
+        "Micah Lacher (Anchor)",
+        "Jacob Delk (Anchor)"
       ],
       "actions": [
         {
@@ -11947,11 +11977,16 @@
       "id": "mcminnville-wingstop",
       "name": "Wingstop",
       "property": "McMinnville Plaza",
-      "status": "Broker confirmed suite 107. Deal terms stay the same.",
+      "status": "Wingstop remains in motion with same agreed terms; tenant side owes Anchor a lease draft.",
       "stage": "LOI",
-      "nextStep": "Finalize suite shift to 107. Follow up if broker goes quiet.",
+      "nextStep": "Follow up for Wingstop lease draft if it does not arrive.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Meeting: Wingstop still in motion; tenant side owes lease draft.",
+          "type": "meeting"
+        },
         {
           "date": "2026-06-05",
           "event": "Email from Jon Petty: FW: The UPS Store McMinnville, TN - Site Approval received",
@@ -12655,7 +12690,8 @@
       ],
       "contacts": [
         "Kevin True (Broker)",
-        "Bell (Wingstop)"
+        "Bell (Wingstop)",
+        "Wingstop franchisee/broker"
       ],
       "actions": [
         {
@@ -23633,9 +23669,9 @@
       "id": "evansville-easterseals",
       "tenant": "Easterseals Rehabilitation",
       "property": "Evansville Big Lots",
-      "status": "Robert Henson sent details on Evansville Rehab's planned $25M facility, capital campaign, and potential Big Lots use for Adult Day Services / supportive programming.",
-      "nextStep": "Jacob to review internally and circle back; Gmail draft loaded.",
-      "priority": "medium",
+      "status": "Evansville Rehab / Adult Day Services remains possible but should be structured like Valley Health: show as-is and TI-funded rent scenarios, push toward 10-year term, cap landlord-funded TI, and offer ROFR instead of a fixed purchase option. Where Ya Bin is paused for at least the next few months.",
+      "nextStep": "Build the lease/TI scenario spreadsheet and educate Robert Henson on as-is vs landlord-funded TI economics; use ROFR if purchase right is needed.",
+      "priority": "high",
       "timeline": [
         {
           "date": "2026-06-08",
@@ -23646,6 +23682,11 @@
           "date": "2026-06-08",
           "event": "Email from Robert Henson: Big Lots Evansville",
           "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Meeting: Micah approved Valley Health-style structure with TI amortized into rent and ROFR instead of fixed purchase option.",
+          "type": "meeting"
         },
         {
           "date": "2026-06-05",
@@ -23765,7 +23806,9 @@
         "Laurie (Easterseals)",
         "Rob Henson - Easterseals - 812-202-9384",
         "Laurie Seals - Easterseals",
-        "Robert Henson (Evansville Rehab)"
+        "Robert Henson (Evansville Rehab)",
+        "Micah Lacher (Anchor)",
+        "Jacob Delk (Anchor)"
       ]
     },
     {
@@ -24140,10 +24183,15 @@
       "id": "mcminnville-sally-beauty",
       "tenant": "Sally Beauty",
       "property": "McMinnville Plaza",
-      "status": "Prospect - potential candidate for old haunted house space (1015/1016). Currently in indoor mall down the road.",
-      "nextStep": "Jacob exploring fit.",
-      "priority": "medium",
+      "status": "Sally Beauty LOI was turned back with negotiated changes: kickout moved to year 7 and one-time only, CAM caps removed, and free rent limited to base rent with NNN still payable. Micah wants this deal closed.",
+      "nextStep": "Wait for official Sally Beauty response and keep pressure toward final LOI/lease.",
+      "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Meeting: Sally Beauty counter posture confirmed and pushed toward close.",
+          "type": "meeting"
+        },
         {
           "date": "2026-06-05",
           "event": "Email from Jon Petty: FW: The UPS Store McMinnville, TN - Site Approval received",
@@ -24688,7 +24736,12 @@
         "avgSqFt": 3255,
         "suiteCount": 45,
         "vacantCount": 0
-      }
+      },
+      "contacts": [
+        "Sally Beauty / Cosmo broker",
+        "Micah Lacher (Anchor)",
+        "Jacob Delk (Anchor)"
+      ]
     },
     {
       "id": "mcminnville-7brew",
@@ -26861,9 +26914,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton, OH",
-      "status": "Ashby sent revised Seller Estoppel drafts for AutoZone/Subway and an owner's affidavit form after the Dutch Bros title/inspection-period call; seller posture remains existing docs/title affidavit path instead of tenant-signed agreements.",
+      "status": "Dutch Bros/Hamilton inspection period expires 2026-06-09; buyer may ask for another short extension while waiting on Dutch counsel. Micah is willing to extend to end of week if needed, but wants a separate message that this must be resolved this week and extensions cannot keep rolling.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Micah review Ashby's revised estoppel/affidavit package and give thoughts; inspection period currently extended to 2026-06-09.",
+      "nextStep": "If extension request comes in, coordinate short extension and separately press buyer/Dutch counsel for final answer this week.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -26879,7 +26932,10 @@
         "Stan Bobowski (GMX Real Estate Group)",
         "Micah Lacher (Anchor)",
         "Stan Bobowski (GMX)",
-        "Karen D'Antonio (Taft)"
+        "Karen D'Antonio (Taft)",
+        "Dutch Bros counsel",
+        "Karen D'Antonio (buyer counsel)",
+        "Jacob Delk (Anchor)"
       ],
       "timeline": [
         {
@@ -26901,6 +26957,11 @@
           "date": "2026-06-08",
           "event": "Email from Sam High: PLEASE READ: Portal & App Transitioning",
           "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Meeting: Dutch/Hamilton extension posture set - possible end-of-week extension, but no open-ended rolling extensions.",
+          "type": "meeting"
         },
         {
           "date": "2026-06-07",
@@ -27630,12 +27691,16 @@
       "id": "smart-led-highland",
       "name": "Smart LED TN LLC",
       "property": "Highland - 2151 N Highland Ave, Jackson TN",
-      "status": "Amin Lakhani submitted a Highland Ave Jackson TN lease application for Smart LED TN LLC; proposed use is business expansion, requested 5-year term, and supporting financial PDFs were listed in the Jotform submission.",
+      "status": "Smart LED looks promising as a second-location LED/electronics tenant; deal is recent, likely needs education on triple-net economics, and rent should stay in monthly/net framing rather than confusing PSF language.",
       "stage": "Obtain Financials",
-      "nextStep": "Jacob/Adam should review application package and uploaded financials.",
+      "nextStep": "Review Carson changes and push to get the lease/application path done.",
       "priority": "high",
       "contacts": [
-        "Amin Lakhani (Smart LED TN LLC) - smartledtn@gmail.com - 901-907-2646"
+        "Amin Lakhani (Smart LED TN LLC) - smartledtn@gmail.com - 901-907-2646",
+        "Amin Lakhani (Smart LED TN LLC)",
+        "Carson Knight (Anchor)",
+        "Micah Lacher (Anchor)",
+        "Jacob Delk (Anchor)"
       ],
       "timeline": [
         {
@@ -27647,6 +27712,11 @@
           "date": "2026-06-08",
           "event": "Email from Sam High: PLEASE READ: Portal & App Transitioning",
           "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Meeting: Smart LED reviewed positively; Micah said to get the deal done.",
+          "type": "meeting"
         },
         {
           "date": "2026-06-07",
@@ -27722,8 +27792,8 @@
       "name": "HopeSmiles",
       "property": "144 Wilson Pike",
       "type": "Tenant Rep",
-      "status": "Brandon Hoop said C4 zoning initially appears workable for Dr. Kemp but recommended confirming with Brentwood planning before finalizing.",
-      "nextStep": "Jacob to get city confirmation and respond; Gmail draft loaded saying he will work on it and circle back.",
+      "status": "HopeSmiles / 144 Wilson Pike remains active. Landlord concern is security and dental-office reusability; Jacob should keep pressing Dr. Kemp and, if needed, get Dr. Kemp in front of the owner to explain the mission/buildout quality. 3040 Sidco was toured again but still appears too expensive / not a fit.",
+      "nextStep": "Continue 144 Wilson Pike zoning/guarantee/security-deposit path and prepare Dr. Kemp/owner meeting if landlord resistance continues.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -27743,7 +27813,11 @@
         "Mary Winston Cramer (JLL)",
         "Maddison Sickels (Stream Realty)",
         "Charlie Gibson (Stream Realty)",
-        "Todd Petrowski (City of Brentwood Planning)"
+        "Todd Petrowski (City of Brentwood Planning)",
+        "Dr. Kemp (HopeSmiles)",
+        "Brandon Hoop (broker/contact)",
+        "Micah Lacher (Anchor)",
+        "Jacob Delk (Anchor)"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-11",
@@ -27752,6 +27826,11 @@
           "date": "2026-06-08",
           "event": "Email from Chain Store Age: DayBreaker: C-suite update; NY lawmakers pass personalized pricing bill; Walmart",
           "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Meeting: HopeSmiles remains focused on 144 Wilson Pike; 3040 Sidco not compelling.",
+          "type": "meeting"
         },
         {
           "date": "2026-06-07",
@@ -35724,17 +35803,24 @@
       "id": "spirit-halloween-hamilton",
       "name": "Spirit Halloween",
       "property": "Hamilton, OH",
-      "status": "Jacob sent Hamilton lockbox location/code to Steve Stapleton, and Steve acknowledged he will stop by Friday afternoon for about 30 minutes.",
+      "status": "Spirit Halloween is a backup/temporary use signal, not a preferred long-term solution. Hamilton box needs more action; laundromat interest exists but at lower economics, and team should identify 10K-15K SF users while being careful about expensive box splits.",
       "stage": "Touring",
-      "nextStep": "Wait for Steve Stapleton's site-visit feedback; no further access action unless he has trouble.",
+      "nextStep": "Hustle Hamilton box outreach, including prior laundromat contact and 10K-15K SF prospects; underwrite any split assuming the rear may have little/no rent value.",
       "priority": "high",
       "contacts": [
         "Tina Charnitsky (Spirit Halloween Real Estate)",
         "Steve Stapleton (Spirit Halloween / Spirit Christmas Zone Manager Ohio/KY)",
         "Steve Stapleton (Spirit Halloween)",
-        "Tina Charnitsky (Spirit Halloween)"
+        "Tina Charnitsky (Spirit Halloween)",
+        "Micah Lacher (Anchor)",
+        "Jacob Delk (Anchor)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Meeting: Hamilton box focus elevated; seek 10K-15K SF users and avoid proactive expensive splits.",
+          "type": "meeting"
+        },
         {
           "date": "2026-06-05",
           "event": "Briefing: Spirit Halloween Hamilton visit is today after noon; lockbox/access remains the urgent next step.",
@@ -35912,12 +35998,14 @@
       "id": "swig-sevierville-outparcel",
       "name": "Swig",
       "property": "Sevierville site",
-      "status": "Micah forwarded a SWIG drive-thru package and asked Jacob to determine what Swig pays in ground rent, then send them Anchor's Sevierville site.",
+      "status": "Micah/Jacob flagged Swig as interesting for Sevierville but likely constrained by existing coffee/drink exclusive language.",
       "stage": "Contact Made",
-      "nextStep": "Pull the package, figure out Swig's ground rent, and send the Sevierville site.",
+      "nextStep": "Run Sevierville lease/exclusive language through Claude/Jarvis and determine whether Swig is blocked by coffee/drink restrictions before outreach.",
       "priority": "medium",
       "contacts": [
-        "Micah Lacher"
+        "Micah Lacher",
+        "Micah Lacher (Anchor)",
+        "Jacob Delk (Anchor)"
       ],
       "timeline": [
         {
@@ -35934,6 +36022,11 @@
           "date": "2026-06-08",
           "event": "Micah asked Jacob to use the SWIG package to price ground rent and send Anchor's Sevierville site.",
           "type": "email"
+        },
+        {
+          "date": "2026-06-08",
+          "event": "Meeting: Swig/Sevierville interest flagged; exclusive needs AI/legal review before pursuing.",
+          "type": "meeting"
         }
       ],
       "actions": [],
