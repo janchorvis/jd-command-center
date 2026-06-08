@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T10:30:11.063379",
+  "lastUpdated": "2026-06-08T11:02:51.919443",
   "sourceDoc": "2026-06-01 - Leasing Meeting Prep - Week of 6/1/26",
   "today": {
     "date": "2026-06-05",
@@ -69,7 +69,8 @@
       "Attend Fox Pizza Hendersonville walk-through at 9:00 AM and capture next steps.",
       "Answer Mathison on whether to send Hamilton Subway renewal offer or wait.",
       "Review/send Dixie Village draft reply to Daran Bynum.",
-      "Pull SWIG package, confirm ground rent, and send Anchor's Sevierville site."
+      "Pull SWIG package, confirm ground rent, and send Anchor's Sevierville site.",
+      "Answer Clay Richardson on timing for McMinnville trip to meet the Aldi contact."
     ]
   },
   "pipelineDeals": [
@@ -35728,6 +35729,28 @@
           "date": "2026-06-08",
           "event": "Micah asked Jacob to use the SWIG package to price ground rent and send Anchor's Sevierville site.",
           "type": "email"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-06-08"
+    },
+    {
+      "id": "maple-row-sparkle-dog-pigtails-crewcuts",
+      "name": "Sparkle Dog Grooming / Pigtails & Crewcuts",
+      "property": "Maple Row Shopping Center",
+      "status": "Jennifer Stewart at Gill Properties asked about available suites, rental rates, NNN expenses, co-tenancy, site plans, and leasing materials for two expanding concepts: Sparkle Dog Grooming and Pigtails & Crewcuts.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob to review current Maple Row availability, rent, and opex before replying.",
+      "priority": "medium",
+      "contacts": [
+        "Jennifer Stewart (Gill Properties)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-08",
+          "event": "Gill Properties inquiry for Sparkle Dog Grooming and Pigtails & Crewcuts at Maple Row",
+          "type": "lead"
         }
       ],
       "actions": [],
