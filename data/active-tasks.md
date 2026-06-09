@@ -2,11 +2,13 @@
 
 Last updated: 2026-06-08 6:00 PM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T220 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T221 -->
 
 ## ACTIVE — Jacob needs to do these
 
 ### This Week (week of 5/11)
+
+- T220: Girish Kumar / Nothing But Noodles Maple Row Art Studio inquiry — Girish followed up on Hendersonville Nutrition/Maple Row and said he has a Nothing But Noodles franchise concept for the Art Studio suite; he also asked what business is going into Fox's Pizza. Gmail draft reply loaded for Jacob approval saying Nothing But Noodles could be interesting for the Art Studio suite, Fox's is not fully wrapped up enough to share details, and asking timing for Nothing But Noodles. Marked unread/actioned for visibility. Do not send unless Jacob approves. [gmail thread: 19ea80f122018cf3] [draft: r5389502834003992212] [source: Communication Triage 2026-06-09 9 AM] [deal: Maple Row / Art Studio]
 
 - T199: Marlon Rodriguez / Dixie Village LoopNet lead — prospect asked about Dixie Village and indicated 0-4,000 SF range; Gmail draft reply loaded for Jacob approval asking for business type. Do not send unless Jacob approves. [gmail thread: 19e8a1b499308a81] [draft: r266459856571672694] [source: Communication Triage 2026-06-02 4 PM] [deal: Dixie Village Shopping Center]
 
