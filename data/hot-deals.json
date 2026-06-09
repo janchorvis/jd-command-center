@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T15:30:21.238649",
+  "lastUpdated": "2026-06-09T16:03:41.632239",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-09",
@@ -28143,9 +28143,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton, OH",
-      "status": "Stan Bobowski says Dutch will send comments today and will not accept the documents as-is; inspection period expires today and another extension is needed to allow review/response.",
+      "status": "Dutch confirmed comments are coming today but will not accept the seller documents as-is; Stan Bobowski followed up on the main thread after Jacob indicated Micah would likely approve extending the inspection period through Friday.",
       "stage": "Lease Signed",
-      "nextStep": "Coordinate any short extension today, then press buyer/Dutch counsel for final answer this week rather than another rolling extension.",
+      "nextStep": "Micah/Jacob approve the short inspection-period extension through Friday if Stan formally requests it, then press Dutch for final comments/resolution this week.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -28164,7 +28164,8 @@
         "Karen D'Antonio (Taft)",
         "Dutch Bros counsel",
         "Karen D'Antonio (buyer counsel)",
-        "Jacob Delk (Anchor)"
+        "Jacob Delk (Anchor)",
+        "Dutch Bros"
       ],
       "timeline": [
         {
@@ -28211,6 +28212,11 @@
           "date": "2026-06-09",
           "event": "Stan flagged Dutch comments coming today, documents not accepted as-is, and IP extension needed before today expiration.",
           "type": "email"
+        },
+        {
+          "date": "2026-06-09",
+          "event": "Inbox: Dutch will not accept title/estoppel documents as-is, comments expected today, and Stan moved the Friday inspection-period extension request onto the main thread.",
+          "type": "deadline"
         },
         {
           "date": "2026-06-08",
@@ -38548,13 +38554,14 @@
       "id": "danielle-mcgrath-remote-atm-dixie-village",
       "name": "Danielle McGrath - Remote ATM",
       "property": "Dixie Village Shopping Center",
-      "status": "Danielle McGrath at JLL said a major bank needs a remote walk-up or drive-thru ATM in the Dixie Village area ASAP.",
+      "status": "Danielle McGrath at JLL said her major-bank remote ATM client usually pays roughly $1,200-$2,000/month for an ATM lease, varying by market/site, after Jacob asked about rent.",
       "stage": "Contact Made",
-      "nextStep": "Jacob review/send draft reply asking what size space they need.",
+      "nextStep": "Jacob decide whether ATM rent in the $1,200-$2,000/month range is worth pursuing at Dixie Village and respond to Danielle.",
       "priority": "medium",
       "pipelineType": "side",
       "contacts": [
-        "Danielle McGrath (JLL) <danielle.mcgrath@jll.com> | 980-819-3857 / 631-466-6510"
+        "Danielle McGrath (JLL) <danielle.mcgrath@jll.com> | 980-819-3857 / 631-466-6510",
+        "Danielle McGrath (JLL)"
       ],
       "timeline": [
         {
@@ -38595,6 +38602,11 @@
         {
           "date": "2026-06-09",
           "event": "Communication triage: Danielle McGrath/JLL asked about a remote ATM opportunity for Dixie Village; Gmail draft r8199193505741702932 loaded on thread 19eaa4ffa77571c5 for Jacob approval.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-06-09",
+          "event": "Inbox: Danielle McGrath said the major-bank remote ATM client usually pays about $1,200-$2,000/month for an ATM lease.",
           "type": "lead"
         },
         {
