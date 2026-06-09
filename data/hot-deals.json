@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T11:30:16.675482",
+  "lastUpdated": "2026-06-09T12:03:03.969477",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-09",
@@ -38212,14 +38212,16 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike Cir",
-      "status": "Ryder Ballard noticed the lease listing and asked Micah for the asking rent because he has potential tenants to share it with. Micah copied Jacob and Adam to provide the information.",
-      "stage": "Contact Made",
-      "nextStep": "Jacob has a draft reply asking Ryder what tenant types he has in mind while pricing is confirmed with Micah.",
+      "status": "Brandon Hoop says the prospect is Redline Fitness, not CrossFit: small-group sports training and personal training for corporate groups/adults. They have interest in 312 Wilson Pike, are sending a packet by end of day, and are working on a tour time.",
+      "stage": "Touring",
+      "nextStep": "Wait for Redline Fitness packet and tour timing from Brandon Hoop; Jacob has draft reply loaded asking him to send the packet and keep Jacob posted.",
       "priority": "medium",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
         "Micah Lacher",
-        "Adam Heston"
+        "Adam Heston",
+        "Brandon Hoop (NAI Nashville)",
+        "Redline Fitness"
       ],
       "timeline": [
         {
@@ -38231,6 +38233,11 @@
           "date": "2026-06-09",
           "event": "Email from Jacob Delk: 144 Wilson Pike Circle",
           "type": "email"
+        },
+        {
+          "date": "2026-06-09",
+          "event": "Inbox: Brandon Hoop identified the user as Redline Fitness, a small-group sports/personal-training concept, with packet and tour timing expected.",
+          "type": "lead"
         },
         {
           "date": "2026-06-08",
@@ -38309,7 +38316,8 @@
         "avgSqFt": 3123,
         "suiteCount": 4,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Touring"
     },
     {
       "id": "danielle-mcgrath-remote-atm-dixie-village",
