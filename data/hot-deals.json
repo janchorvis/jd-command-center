@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T09:30:15.133141",
+  "lastUpdated": "2026-06-09T10:02:41.930398",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-09",
@@ -18187,9 +18187,9 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "David Cooke followed up again asking if there is still a deal to be made for 807 Martin St S / EH Health Home Health of Birmingham.",
+      "status": "Tom Fidler asked Jacob/Adam for an update on the Drayer PT HVAC/lease path after Jacob said Anchor would inspect the 2004 York 5-ton split unit and replace it if needed.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob needs to confirm whether the Pell City deal is still alive and respond to David Cooke.",
+      "nextStep": "Jacob/Adam need to confirm HVAC inspection status and respond to Tom Fidler.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
@@ -38216,6 +38216,28 @@
       ],
       "actions": [],
       "type": "Tenant Rep",
+      "lastUpdate": "2026-06-09"
+    },
+    {
+      "id": "heather-paul-dixie-village-loopnet",
+      "name": "Heather Paul - LoopNet Lead",
+      "property": "Dixie Village Shopping Center",
+      "status": "LoopNet lead from Heather Paul for Dixie Village / 2500 W Franklin Blvd, Gastonia. Space required: less than 2,000 SF. Contact: support@thcshop.co, 864-777-0420. Gmail draft r-8178565403873061401 loaded asking for business type.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob review/send draft asking what the business is.",
+      "priority": "medium",
+      "contacts": [
+        "Heather Paul (support@thcshop.co, 864-777-0420)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-09",
+          "event": "LoopNet lead from Heather Paul for Dixie Village; draft r-8178565403873061401 loaded on thread 19eacd96b01f349d asking business type.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Lead",
       "lastUpdate": "2026-06-09"
     }
   ],
