@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T11:04:42.836822",
+  "lastUpdated": "2026-06-09T11:30:16.675482",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-09",
@@ -36041,6 +36041,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-06-09",
+          "event": "Email from NAIOP: Development Magazine Summer 2026: The New Investor Road Map",
+          "type": "email"
+        },
+        {
           "date": "2026-06-08",
           "event": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
           "type": "email"
@@ -39138,62 +39143,6 @@
       "urgency": "low"
     },
     {
-      "name": "Tom Gaghan",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Gaghan - 440-263-9792 - tom@clevelandfurniturebank.org",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Gaghan",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
-      "urgency": "low"
-    },
-    {
-      "name": "Mathison Ingham",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Gaghan",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Micah Lacher: Re: 312 Wilson Pike Cir",
-      "urgency": "low"
-    },
-    {
       "name": "Kevin Moss",
       "deal": "Royal Bazaar Indian — Parma Heights",
       "daysSinceContact": 1,
@@ -40710,6 +40659,62 @@
       "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
       "daysSinceContact": 0,
       "lastAction": "Email from Daniel Herrold via monday.com: [Team mention] \"Tenant Expansion Repor",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Gaghan",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP: Development Magazine Summer 2026: The New Investor Road Map",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Gaghan - 440-263-9792 - tom@clevelandfurniturebank.org",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP: Development Magazine Summer 2026: The New Investor Road Map",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Gaghan",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP: Development Magazine Summer 2026: The New Investor Road Map",
+      "urgency": "low"
+    },
+    {
+      "name": "Mathison Ingham",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP: Development Magazine Summer 2026: The New Investor Road Map",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP: Development Magazine Summer 2026: The New Investor Road Map",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Gaghan",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP: Development Magazine Summer 2026: The New Investor Road Map",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP: Development Magazine Summer 2026: The New Investor Road Map",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NAIOP: Development Magazine Summer 2026: The New Investor Road Map",
       "urgency": "low"
     },
     {
