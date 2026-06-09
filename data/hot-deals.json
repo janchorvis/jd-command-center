@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T08:02:49.981872",
+  "lastUpdated": "2026-06-09T08:04:25.786108",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-09",
@@ -36264,9 +36264,9 @@
       "id": "dixie-village-juany-almanza",
       "name": "Juany Almanza",
       "property": "Dixie Village Shopping Center",
-      "status": "New inbound leasing inquiry from Danielle McGrath at JLL for a major bank seeking a remote walk-up or drive-thru ATM ASAP.",
+      "status": "Juany Almanza resent the business plan PDF link for the Dixie Village Mexican bakery concept after Jacob asked for it; draft acknowledgment is loaded but needs approval.",
       "stage": "Contact Made",
-      "nextStep": "Jacob review/send drafted qualifying reply asking what size space/area they need.",
+      "nextStep": "Jacob should review the business plan and decide whether to discuss with ownership given existing Mexican bakery at Dixie Village.",
       "priority": "medium",
       "contacts": [
         "Juany Almanza (jalmanza@alanync.com, 704-701-5518)"
@@ -36281,11 +36281,6 @@
           "date": "2026-06-09",
           "event": "Email from Chain Store Age: Connected Retail: Amazon, Target hosting June blockbusters; Walmart+ heads north",
           "type": "email"
-        },
-        {
-          "date": "2026-06-09",
-          "event": "Communication triage: Danielle McGrath/JLL asked about a remote ATM opportunity for Dixie Village; Gmail draft loaded for Jacob approval.",
-          "type": "lead"
         },
         {
           "date": "2026-06-08",
@@ -37669,6 +37664,26 @@
         "suiteCount": 4,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "danielle-mcgrath-remote-atm-dixie-village",
+      "name": "Danielle McGrath - Remote ATM",
+      "property": "Dixie Village Shopping Center",
+      "status": "Danielle McGrath at JLL said a major bank needs a remote walk-up or drive-thru ATM in the Dixie Village area ASAP.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob review/send draft reply asking what size space they need.",
+      "priority": "medium",
+      "pipelineType": "side",
+      "contacts": [
+        "Danielle McGrath (JLL) <danielle.mcgrath@jll.com> | 980-819-3857 / 631-466-6510"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-09",
+          "event": "Communication triage: Danielle McGrath/JLL asked about a remote ATM opportunity for Dixie Village; Gmail draft r8199193505741702932 loaded on thread 19eaa4ffa77571c5 for Jacob approval.",
+          "type": "lead"
+        }
+      ]
     }
   ],
   "droppedBalls": [
