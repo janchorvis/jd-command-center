@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T14:30:23.042289",
+  "lastUpdated": "2026-06-09T15:03:04.761489",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-09",
@@ -38387,9 +38387,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike Cir",
-      "status": "Brandon Hoop is working with Redline Fitness for the former Accent Flowers/312 Wilson space and asked to tour Thursday at 11:15; draft reply loaded confirming Thursday 11:15 and asking for the packet.",
+      "status": "Brandon Hoop confirmed the 312 Wilson tour group ideally needs about 4,000 SF but wants to see the full building in case they can go larger; Thursday 11:15 tour remains in motion.",
       "stage": "Touring",
-      "nextStep": "Jacob review/send Brandon draft if Thursday 11:15 works; wait for Redline Fitness packet.",
+      "nextStep": "Coordinate access for the vacant flower shop and any occupied areas needed for Thursday 11:15 tour; confirm with Brandon if anything changes.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -38422,6 +38422,11 @@
         {
           "date": "2026-06-09",
           "event": "Brandon Hoop requested 312 Wilson tour Thursday 11:15 for Redline Fitness; draft reply loaded.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-09",
+          "event": "Brandon Hoop said the 312 Wilson prospect ideally needs 4,000 SF but wants to see the full building in case they can go larger.",
           "type": "email"
         },
         {
