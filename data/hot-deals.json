@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T10:30:16.363035",
+  "lastUpdated": "2026-06-09T11:04:42.836822",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-09",
@@ -18257,9 +18257,9 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Tom Fidler asked Jacob/Adam for an update on the Drayer PT HVAC/lease path after Jacob said Anchor would inspect the 2004 York 5-ton split unit and replace it if needed.",
+      "status": "Drayer PT is moving to lease draft after Jacob confirmed Anchor will likely replace the HVAC unit if needed. Compassus/803 Martin needs to evaluate TI economics both as rent amortization and upfront contribution; Lauri agrees to a construction-manager call once bids are back.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob/Adam need to confirm HVAC inspection status and respond to Tom Fidler.",
+      "nextStep": "Wait for Drayer PT lease draft; for Compassus, get bids back and schedule a construction-manager call to compare rent-amortized vs upfront-contribution options.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
@@ -18362,6 +18362,16 @@
         {
           "date": "2026-06-09",
           "event": "Inbox: Lauri Fowler said Compassus needs to evaluate the 803 Martin St. S. proposal both ways and agrees a call with their construction manager makes sense once bids are back.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-09",
+          "event": "Drayer PT: Tom Fidler said proceed ASAP and will send lease draft after Jacob confirmed HVAC replacement support.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-09",
+          "event": "Compassus/803 Martin: Lauri Fowler said they need to evaluate both TI-cost options and agreed to a construction-manager call once bids are back.",
           "type": "email"
         },
         {
