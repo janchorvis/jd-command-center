@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T08:04:25.786108",
+  "lastUpdated": "2026-06-09T09:03:52.313244",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-09",
@@ -18105,7 +18105,8 @@
         "Susan S. (Crexi lead)",
         "Susan Swindal / Mama Suz Fried Pies - Mamasuzfriedpies@gmail.com - 205-567-9667",
         "Susan Swindal / Mama Suz Fried Pies (Mamasuzfriedpies@gmail.com, 205-567-9667)",
-        "David Cooke (Cooke Commercial)"
+        "David Cooke (Cooke Commercial)",
+        "Lauri Fowler (ProStar / Compassus)"
       ],
       "timeline": [
         {
@@ -18131,6 +18132,16 @@
         {
           "date": "2026-06-09",
           "event": "Email from Kelsey Cornillie, Publisher: Browsing HCA's India job postings",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-09",
+          "event": "Inbox: Tom Fidler asked Jacob/Adam for an update on Drayer PT after Jacob said Anchor would inspect the 2004 York 5-ton split unit and replace it if needed.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-09",
+          "event": "Inbox: Lauri Fowler said Compassus needs to evaluate the 803 Martin St. S. proposal both ways and agrees a call with their construction manager makes sense once bids are back.",
           "type": "email"
         },
         {
@@ -37684,6 +37695,28 @@
           "type": "lead"
         }
       ]
+    },
+    {
+      "id": "maple-row-nothing-but-noodles",
+      "name": "Nothing But Noodles",
+      "property": "Maple Row / Art Studio suite",
+      "status": "Girish Kumar / Flavors of India said he has a Nothing But Noodles franchise concept for the Art Studio suite and asked what business is taking Fox Pizza.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob to review Gmail draft and decide how much to disclose about Fox Pizza and whether to pursue Nothing But Noodles for Art Studio.",
+      "priority": "medium",
+      "contacts": [
+        "Girish Kumar / Flavors of India <flavorsofindiatn@gmail.com>"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-09",
+          "event": "Lead: Girish Kumar followed up on Hendersonville Nutrition / Maple Row and said he has a Nothing But Noodles franchise concept for the Art Studio suite; Gmail draft loaded for Jacob approval.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-06-09"
     }
   ],
   "droppedBalls": [
