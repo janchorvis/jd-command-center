@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T16:30:18.365547",
+  "lastUpdated": "2026-06-09T17:03:34.682692",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-09",
@@ -28173,9 +28173,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton, OH",
-      "status": "Dutch confirmed comments are coming today but will not accept the seller documents as-is; Stan Bobowski followed up on the main thread after Jacob indicated Micah would likely approve extending the inspection period through Friday.",
+      "status": "Inspection Period extension to Friday 6/12/26 was confirmed after Dutch indicated comments would come back today and would not be an as-is approval. Next real action is reviewing Dutch's comments when received.",
       "stage": "Lease Signed",
-      "nextStep": "Micah/Jacob approve the short inspection-period extension through Friday if Stan formally requests it, then press Dutch for final comments/resolution this week.",
+      "nextStep": "Wait for Dutch comments from Stan/Karen, then review and respond before Friday 6/12/26.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -28252,6 +28252,11 @@
           "date": "2026-06-09",
           "event": "Inbox: Dutch will not accept title/estoppel documents as-is, comments expected today, and Stan moved the Friday inspection-period extension request onto the main thread.",
           "type": "deadline"
+        },
+        {
+          "date": "2026-06-09",
+          "event": "Inbox: Jacob confirmed Hamilton IP extension through Friday 6/12/26; Stan will send Dutch comments when received.",
+          "type": "email"
         },
         {
           "date": "2026-06-08",
@@ -29322,8 +29327,8 @@
       "name": "HopeSmiles",
       "property": "144 Wilson Pike",
       "type": "Tenant Rep",
-      "status": "HopeSmiles / 144 Wilson Pike remains active. Landlord concern is security and dental-office reusability; Jacob should keep pressing Dr. Kemp and, if needed, get Dr. Kemp in front of the owner to explain the mission/buildout quality. 3040 Sidco was toured again but still appears too expensive / not a fit.",
-      "nextStep": "Continue 144 Wilson Pike zoning/guarantee/security-deposit path and prepare Dr. Kemp/owner meeting if landlord resistance continues.",
+      "status": "Devin McClendon shared informal Wilson Bank feedback on LOC structure for HopeSmiles: a bank would likely require pledged assets or real estate collateral, charge roughly a 2% origination fee and likely a 1% annual fee, and may not treat a deposit as equivalent security. Jacob needs to decide how to respond on lease security.",
+      "nextStep": "Respond to Devin/Brandon after aligning with HopeSmiles on LOC vs alternate security.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -29395,6 +29400,11 @@
         {
           "date": "2026-06-09",
           "event": "Email from Jacob Delk: 144 Wilson Pike Circle",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-09",
+          "event": "Inbox: Devin shared Wilson Bank LOC feedback for HopeSmiles security structure.",
           "type": "email"
         },
         {
@@ -38599,9 +38609,9 @@
       "id": "danielle-mcgrath-remote-atm-dixie-village",
       "name": "Danielle McGrath - Remote ATM",
       "property": "Dixie Village Shopping Center",
-      "status": "Danielle McGrath at JLL said her major-bank remote ATM client usually pays roughly $1,200-$2,000/month for an ATM lease, varying by market/site, after Jacob asked about rent.",
+      "status": "Danielle McGrath/JLL said remote ATM leases in her experience pay about $1,200-$2,000 per month, varying by market/site. Jacob needs to decide whether to continue with the bank ATM inquiry at Dixie Village.",
       "stage": "Contact Made",
-      "nextStep": "Jacob decide whether ATM rent in the $1,200-$2,000/month range is worth pursuing at Dixie Village and respond to Danielle.",
+      "nextStep": "Reply to Danielle with interest and ask for preferred ATM location/site requirements.",
       "priority": "medium",
       "pipelineType": "side",
       "contacts": [
@@ -38653,6 +38663,11 @@
           "date": "2026-06-09",
           "event": "Inbox: Danielle McGrath said the major-bank remote ATM client usually pays about $1,200-$2,000/month for an ATM lease.",
           "type": "lead"
+        },
+        {
+          "date": "2026-06-09",
+          "event": "Inbox: Danielle McGrath provided remote ATM rent guidance of $1,200-$2,000/month.",
+          "type": "email"
         },
         {
           "date": "2026-06-08",
@@ -38823,6 +38838,28 @@
       ],
       "actions": [],
       "type": "Lead",
+      "lastUpdate": "2026-06-09"
+    },
+    {
+      "id": "mcminnville-shana-moore-loopnet",
+      "name": "Shana Moore - LoopNet Lead",
+      "property": "McMinnville Plaza",
+      "status": "LoopNet lead for 1030 Smithville Hwy asking what spaces are available and pricing; requirement is less than 2,000 SF.",
+      "stage": "Contact Made",
+      "nextStep": "Reply asking what business she has; she already provided size range.",
+      "priority": "medium",
+      "contacts": [
+        "Shana Moore (unbreakable_firelight@outlook.com, 931-928-2076)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-09",
+          "event": "LoopNet: Shana Moore asked about McMinnville Plaza availability/pricing for less than 2,000 SF.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
       "lastUpdate": "2026-06-09"
     }
   ],
