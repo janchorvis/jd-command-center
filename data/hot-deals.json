@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T07:32:05.654777",
+  "lastUpdated": "2026-06-09T08:02:49.981872",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-09",
@@ -68,7 +68,8 @@
       "Hamilton Community Partners inspection period expires today; if buyer asks for more time, press for resolution this week and avoid rolling extensions.",
       "Review Smart LED Highland application/financials and Carson lease edits using monthly/net framing.",
       "Run Swig/Sevierville against exclusive language before any outreach.",
-      "Monitor Trace Morris leak/plumber follow-up from overnight Slack DM."
+      "Monitor Trace Morris leak/plumber follow-up from overnight Slack DM.",
+      "Review/send Danielle McGrath JLL remote ATM reply for Dixie Village."
     ]
   },
   "pipelineDeals": [
@@ -36263,9 +36264,9 @@
       "id": "dixie-village-juany-almanza",
       "name": "Juany Almanza",
       "property": "Dixie Village Shopping Center",
-      "status": "Juany Almanza resent the business plan PDF link for the Dixie Village Mexican bakery concept after Jacob asked for it; draft acknowledgment is loaded but needs approval.",
+      "status": "New inbound leasing inquiry from Danielle McGrath at JLL for a major bank seeking a remote walk-up or drive-thru ATM ASAP.",
       "stage": "Contact Made",
-      "nextStep": "Jacob should review the business plan and decide whether to discuss with ownership given existing Mexican bakery at Dixie Village.",
+      "nextStep": "Jacob review/send drafted qualifying reply asking what size space/area they need.",
       "priority": "medium",
       "contacts": [
         "Juany Almanza (jalmanza@alanync.com, 704-701-5518)"
@@ -36280,6 +36281,11 @@
           "date": "2026-06-09",
           "event": "Email from Chain Store Age: Connected Retail: Amazon, Target hosting June blockbusters; Walmart+ heads north",
           "type": "email"
+        },
+        {
+          "date": "2026-06-09",
+          "event": "Communication triage: Danielle McGrath/JLL asked about a remote ATM opportunity for Dixie Village; Gmail draft loaded for Jacob approval.",
+          "type": "lead"
         },
         {
           "date": "2026-06-08",
