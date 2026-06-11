@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T11:42:15.722681",
+  "lastUpdated": "2026-06-11T12:02:32.226973",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-09",
@@ -25586,15 +25586,20 @@
     {
       "id": "shelbyville-cosmoprof",
       "tenant": "Cosmoprof",
-      "property": "Shelbyville",
-      "status": "Followed up. Pushing firm terms to close or kill quickly.",
-      "nextStep": "Jacob: propose high teens + 4-5 mo free OR low twenties + 7 mo free. No $100K TI.",
-      "priority": "medium",
+      "property": "River Parkway Plaza - Sevierville",
+      "status": "CosmoProf site survey is scheduled: Insight Surveys' technician Matthew Hansen will be onsite Thursday 6/18/26 at 10 AM, treating it as an insurance survey and going directly to the Mattress store.",
+      "nextStep": "No Jacob action unless access fails; Mathison confirmed any open day from 11-5 works and Jacob spoke with James Kovanis.",
+      "priority": "high",
       "timeline": [
         {
           "date": "2026-06-11",
           "event": "Email from Jacob Delk: Shelbyville, IN",
           "type": "email"
+        },
+        {
+          "date": "2026-06-11",
+          "event": "Insight Surveys confirmed CosmoProf survey for 6/18/26 at 10 AM; tech Matthew Hansen will go directly to Mattress store.",
+          "type": "triage"
         },
         {
           "date": "2026-06-08",
@@ -25660,7 +25665,11 @@
         "avgSqFt": null,
         "suiteCount": 3,
         "vacantCount": 0
-      }
+      },
+      "contacts": [
+        "James Kovanis (Insight Surveys)",
+        "Matthew Hansen (Insight Surveys technician)"
+      ]
     },
     {
       "id": "pell-city-jeffersons",
