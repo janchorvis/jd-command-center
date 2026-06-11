@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T11:30:08.773746",
+  "lastUpdated": "2026-06-11T11:42:15.722681",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-09",
@@ -69,7 +69,10 @@
       "Review Smart LED Highland application/financials and Carson lease edits using monthly/net framing.",
       "Run Swig/Sevierville against exclusive language before any outreach.",
       "Monitor Trace Morris leak/plumber follow-up from overnight Slack DM.",
-      "Review/send Danielle McGrath JLL remote ATM reply for Dixie Village."
+      "Review/send Danielle McGrath JLL remote ATM reply for Dixie Village.",
+      "PCON feedback for Shawn Metzger is due today.",
+      "Use today's Wilson Pike tour to advance the Redline Fitness / Dr. Kemp zoning path.",
+      "After Carole MRI Data Export meeting, clarify scope and whether Jarvis should automate reports."
     ]
   },
   "pipelineDeals": [
@@ -39758,9 +39761,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike Cir",
-      "status": "Brandon Hoop confirmed the 312 Wilson tour group ideally needs about 4,000 SF but wants to see the full building in case they can go larger; Thursday 11:15 tour remains in motion.",
+      "status": "Wilson Pike tour is on Jacob's calendar today at 11:00 AM after Brandon Hoop zoning follow-up remained active.",
       "stage": "Touring",
-      "nextStep": "Coordinate access for the vacant flower shop and any occupied areas needed for Thursday 11:15 tour; confirm with Brandon if anything changes.",
+      "nextStep": "Use the tour to clarify Redline Fitness / Dr. Kemp path and confirm city/zoning questions before finalizing terms.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -39779,6 +39782,11 @@
           "date": "2026-06-11",
           "event": "Email from Brandon Hoop: 312 Wilson",
           "type": "email"
+        },
+        {
+          "date": "2026-06-11",
+          "event": "Briefing: calendar shows Tour @ Wilson Pike at 11:00 AM; keep 144 Wilson / zoning follow-up on Jacob's plate.",
+          "type": "task"
         },
         {
           "date": "2026-06-10",
