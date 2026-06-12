@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T12:30:12.264959",
+  "lastUpdated": "2026-06-12T13:02:14.819989",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-12",
@@ -40758,9 +40758,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike Cir",
-      "status": "New Skiptown dog boarding/daycare/grooming inquiry arrived for 312 Wilson Pike Cir: 9,500-15,000 SF need, outdoor space preferred but not mandatory, timing 1-6+ months. They asked for available SF, asking rates/NNNs, use restrictions, floor plans, outdoor-space access, updated flyer, and other fit options.",
-      "stage": "Touring",
-      "nextStep": "Jacob should confirm whether the 13,000 SF listing is still available, whether dog boarding/daycare/grooming is permitted, and send rates/NNNs, floor plan/flyer, and any outdoor-space notes or alternative options.",
+      "status": "Two new 6/12 signals: Skiptown/KWC asked about availability for a 9,500-15,000 SF upscale dog boarding/daycare/grooming concept; Ryder Ballard sent an LOI and said the next step is a contractor walkthrough for repair/improvement pricing.",
+      "stage": "LOI",
+      "nextStep": "Review Ryder Ballard LOI and coordinate contractor walkthrough; separately decide whether to reply to KWC/Skiptown availability inquiry.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -40769,7 +40769,9 @@
         "Brandon Hoop (NAI Nashville)",
         "Redline Fitness",
         "Jerry / KWC Assistant <assistcynthialeekwc@gmail.com>",
-        "Chantel Martinez <chantelmartinez@kw.com>"
+        "Chantel Martinez <chantelmartinez@kw.com>",
+        "KWC Assistant <assistcynthialeekwc@gmail.com>",
+        "Ryder Ballard <rballard@charleshawkinsco.com>"
       ],
       "timeline": [
         {
@@ -40801,6 +40803,16 @@
           "date": "2026-06-12",
           "event": "KWC Assistant/Jerry sent Skiptown dog boarding/daycare/grooming inquiry for 312 Wilson Pike Cir, asking for availability, rates/NNNs, restrictions, floor plans, outdoor space, flyer, and other fit options.",
           "type": "lead"
+        },
+        {
+          "date": "2026-06-12",
+          "event": "KWC/Skiptown asked about availability for 312 Wilson Pike Cir, seeking 9,500-15,000 SF for dog boarding/daycare/grooming.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-06-12",
+          "event": "Ryder Ballard sent LOI for 312 Wilson Pike Cir and proposed contractor walkthrough as next step.",
+          "type": "email"
         },
         {
           "date": "2026-06-11",
@@ -40945,7 +40957,7 @@
         "suiteCount": 4,
         "vacantCount": 0
       },
-      "stageOverride": "Touring"
+      "stageOverride": "LOI"
     },
     {
       "id": "danielle-mcgrath-remote-atm-dixie-village",
