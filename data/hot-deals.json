@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-12T14:30:13.920898",
+  "lastUpdated": "2026-06-12T15:01:14.755173",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-12",
-    "greeting": "Good morning, Jacob. You have 17 overdue items.",
+    "greeting": "Good afternoon, Jacob. You have 17 overdue items.",
     "meetings": [
       {
         "time": "12:00 AM",
@@ -64,10 +64,7 @@
       "Give generosity committee nominations by May 20th (overdue — due 2026-05-20)",
       "PCON feedback: Zack Hubiak (overdue — due 2026-05-15)",
       "PCON feedback: Sean Spafford (overdue — due 2026-05-15)",
-      "PCON feedback: Griffin Hodge (overdue — due 2026-04-02)",
-      "Prepare Pea Ridge / HSBC listing package.",
-      "Prepare Maple Row / Dance Hendersonville listing package.",
-      "Move UPS Store lease and Evansville options prep for the 8 AM calendar block."
+      "PCON feedback: Griffin Hodge (overdue — due 2026-04-02)"
     ]
   },
   "pipelineDeals": [
@@ -64145,7 +64142,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-06-12T07:33:28",
+    "generatedAt": "2026-06-12T15:01:14",
     "source": "morning-briefing",
     "yourPlate": [
       {
@@ -64848,7 +64845,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-06-12T07:33:28",
+    "generatedAt": "2026-06-12T15:01:14",
     "source": "morning-briefing",
     "items": [
       {

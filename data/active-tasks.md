@@ -1,13 +1,15 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-06-11 6:35 PM CDT
+Last updated: 2026-06-12 7:36 AM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T224 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T225 -->
 
 ## ACTIVE — Jacob needs to do these
 
 ### This Week (week of 5/11)
 
+
+- T224: Wingstop / McMinnville lease draft review — Kevin Trujillo / Sarah Langan sent lease draft attachment `Lease-Wingstop McMinnville Plaza.docx`; Jacob needs to review/route for legal review. Command Center moved Wingstop to Lease Draft & Review. [source: Communication Triage 2026-06-12 10 AM] [deal: McMinnville Plaza / Wingstop]
 
 - T222: Put HSBC on the market — Jacob asked in #tasks to put HSBC on the market. Interpreted as Huntington School of Beauty Culture / HSBC at Pea Ridge based on Fostr tenant record: Pea Ridge, suite PEARID-O, 7,104.17 SF, current rent $2,154.17/mo. Prepare/update listing materials and market the space. [asana: 1215644668714849] [source: #tasks 2026-06-11] [deal: Pea Ridge / HSBC]
 
@@ -15,7 +17,6 @@ Last updated: 2026-06-11 6:35 PM CDT
 
 - T220: Girish Kumar / Nothing But Noodles Maple Row Art Studio inquiry — Girish followed up on Hendersonville Nutrition/Maple Row and said he has a Nothing But Noodles franchise concept for the Art Studio suite; he also asked what business is going into Fox's Pizza. Gmail draft reply loaded for Jacob approval saying Nothing But Noodles could be interesting for the Art Studio suite, Fox's is not fully wrapped up enough to share details, and asking timing for Nothing But Noodles. Marked unread/actioned for visibility. Do not send unless Jacob approves. [gmail thread: 19ea80f122018cf3] [draft: r5389502834003992212] [source: Communication Triage 2026-06-09 9 AM] [deal: Maple Row / Art Studio]
 
-- T221: Daily Morning Briefing scheduled-run recovery watch — Thursday 2026-06-11 scheduled run timed out at `turn-accepted` after ~902s, but manual rerun `manual:7cb5add0-c465-44c1-b950-ecb78ddd06f5:1781195916816:1` succeeded and delivered to Discord channel `1482909598489907221`. Verify the next scheduled production run Friday 2026-06-12 7:30 AM CT before closing this monitoring loop; manual success alone does not prove recurring health. [source: Self-Review 2026-06-11 6 PM; SESSION_HANDOFF 2026-06-11 17:01] [job: 7cb5add0-c465-44c1-b950-ecb78ddd06f5]
 
 - T199: Marlon Rodriguez / Dixie Village LoopNet lead — prospect asked about Dixie Village and indicated 0-4,000 SF range; Gmail draft reply loaded for Jacob approval asking for business type. Do not send unless Jacob approves. [gmail thread: 19e8a1b499308a81] [draft: r266459856571672694] [source: Communication Triage 2026-06-02 4 PM] [deal: Dixie Village Shopping Center]
 
@@ -146,6 +147,8 @@ Last updated: 2026-06-11 6:35 PM CDT
 Note: WATCHING items should be removed once real movement comes in. Gastonia laundromat was removed on 4/10 after a fresh DocuSign reminder signaled movement. Pell City was removed earlier on 4/10 after fresh email movement from Factory Connection. McMinnville monument sign was removed on 4/14 after Clay sent fresh Slack PDFs/comments for review. ABC Russellville was removed on 4/27 after Clay asked whether to commission the ABC work; it is now active as T122. Crunch Fitness and McMinnville landscaping were removed from WATCHING on 5/5 and promoted to active follow-up tasks T152/T146. T137 Academy/Shelbyville started 5/4, was flagged stale on 5/12, and was removed/promoted to T208 on 6/4 after fresh Shelbyville former Big Lots email movement from Ryan Jordan.
 
 ## COMPLETED — Recent (auto-cleaned after 7 days)
+
+- T221: Daily Morning Briefing scheduled-run recovery watch — Friday 2026-06-12 scheduled production run succeeded at 7:30 AM CDT and delivered to Discord channel `1482909598489907221` (`runAtMs` 1781267400027, duration 234862ms, session `5ad12517-becf-4bc7-9a55-670386b53fd1`). This closes the 06/11 timeout recovery/watch loop. [source: heartbeat verification 2026-06-12; job: 7cb5add0-c465-44c1-b950-ecb78ddd06f5] [completed: 2026-06-12]
 
 - T197: May 2026 expense report — Jacob confirmed finished on 2026-06-05; Concur report `May 2026 - JD` / `C4BH0J` was created, populated, receipt attachments were cleaned up/replaced where needed, and the loop no longer needs active-task tracking. [source: #receipts/Concur/Gmail 2026-06-01 to 2026-06-05] [completed: 2026-06-05]
 
