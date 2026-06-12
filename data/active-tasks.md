@@ -1,14 +1,21 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-06-09 11:00 AM CDT
+Last updated: 2026-06-11 6:35 PM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T221 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T224 -->
 
 ## ACTIVE — Jacob needs to do these
 
 ### This Week (week of 5/11)
 
+
+- T222: Put HSBC on the market — Jacob asked in #tasks to put HSBC on the market. Interpreted as Huntington School of Beauty Culture / HSBC at Pea Ridge based on Fostr tenant record: Pea Ridge, suite PEARID-O, 7,104.17 SF, current rent $2,154.17/mo. Prepare/update listing materials and market the space. [asana: 1215644668714849] [source: #tasks 2026-06-11] [deal: Pea Ridge / HSBC]
+
+- T223: Put Dance Hendersonville on the market — Jacob asked in #tasks to put Dance Hendersonville on the market. Fostr tenant record: Maple Row suite MAPLER-350, 3,481 SF, current rent $6,085.95/mo. Prepare/update listing materials and market the space. [asana: 1215644825350115] [source: #tasks 2026-06-11] [deal: Maple Row / Dance Hendersonville]
+
 - T220: Girish Kumar / Nothing But Noodles Maple Row Art Studio inquiry — Girish followed up on Hendersonville Nutrition/Maple Row and said he has a Nothing But Noodles franchise concept for the Art Studio suite; he also asked what business is going into Fox's Pizza. Gmail draft reply loaded for Jacob approval saying Nothing But Noodles could be interesting for the Art Studio suite, Fox's is not fully wrapped up enough to share details, and asking timing for Nothing But Noodles. Marked unread/actioned for visibility. Do not send unless Jacob approves. [gmail thread: 19ea80f122018cf3] [draft: r5389502834003992212] [source: Communication Triage 2026-06-09 9 AM] [deal: Maple Row / Art Studio]
+
+- T221: Daily Morning Briefing scheduled-run recovery watch — Thursday 2026-06-11 scheduled run timed out at `turn-accepted` after ~902s, but manual rerun `manual:7cb5add0-c465-44c1-b950-ecb78ddd06f5:1781195916816:1` succeeded and delivered to Discord channel `1482909598489907221`. Verify the next scheduled production run Friday 2026-06-12 7:30 AM CT before closing this monitoring loop; manual success alone does not prove recurring health. [source: Self-Review 2026-06-11 6 PM; SESSION_HANDOFF 2026-06-11 17:01] [job: 7cb5add0-c465-44c1-b950-ecb78ddd06f5]
 
 - T199: Marlon Rodriguez / Dixie Village LoopNet lead — prospect asked about Dixie Village and indicated 0-4,000 SF range; Gmail draft reply loaded for Jacob approval asking for business type. Do not send unless Jacob approves. [gmail thread: 19e8a1b499308a81] [draft: r266459856571672694] [source: Communication Triage 2026-06-02 4 PM] [deal: Dixie Village Shopping Center]
 
