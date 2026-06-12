@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T09:30:09.447618",
+  "lastUpdated": "2026-06-12T10:02:14.536578",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-12",
@@ -12997,14 +12997,19 @@
       "id": "mcminnville-wingstop",
       "name": "Wingstop",
       "property": "McMinnville Plaza",
-      "status": "Wingstop remains in motion with same agreed terms; tenant side owes Anchor a lease draft.",
-      "stage": "LOI",
-      "nextStep": "Follow up for Wingstop lease draft if it does not arrive.",
+      "status": "Wingstop lease draft has arrived from Kevin Trujillo / BSM Properties as `Lease-Wingstop McMinnville Plaza.docx`.",
+      "stage": "Lease Draft & Review",
+      "nextStep": "Review the Wingstop lease draft and route/coordinate legal review as needed.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-06-12",
           "event": "Email from Sarah Langan: McMinnville, TN-Wingstop",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-12",
+          "event": "Kevin Trujillo sent Wingstop McMinnville lease draft attachment.",
           "type": "email"
         },
         {
@@ -13751,7 +13756,9 @@
       "contacts": [
         "Kevin True (Broker)",
         "Bell (Wingstop)",
-        "Wingstop franchisee/broker"
+        "Wingstop franchisee/broker",
+        "Kevin Trujillo (BSM Properties)",
+        "Sarah Langan"
       ],
       "actions": [
         {
@@ -13767,7 +13774,8 @@
         "avgSqFt": 3255,
         "suiteCount": 45,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Lease Draft & Review"
     },
     {
       "id": "mcminnville-prather",
