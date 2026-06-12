@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T07:16:13.273062",
+  "lastUpdated": "2026-06-12T07:32:32.243886",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-12",
@@ -64,7 +64,10 @@
       "Give generosity committee nominations by May 20th (overdue — due 2026-05-20)",
       "PCON feedback: Zack Hubiak (overdue — due 2026-05-15)",
       "PCON feedback: Sean Spafford (overdue — due 2026-05-15)",
-      "PCON feedback: Griffin Hodge (overdue — due 2026-04-02)"
+      "PCON feedback: Griffin Hodge (overdue — due 2026-04-02)",
+      "Prepare Pea Ridge / HSBC listing package.",
+      "Prepare Maple Row / Dance Hendersonville listing package.",
+      "Move UPS Store lease and Evansville options prep for the 8 AM calendar block."
     ]
   },
   "pipelineDeals": [
@@ -39034,10 +39037,10 @@
       "id": "pea-ridge-omar-hidais",
       "name": "Omar Hidais",
       "property": "Pea Ridge Shopping Center",
-      "status": "Omar Hidais, a multi-state tobacco/vape operator and landlord, asked what spaces are available and what the asking rent is after Jacob asked about locations/first store.",
+      "status": "HSBC / Huntington School of Beauty Culture space needs to be put on the market per Jacob's 6/11 evening #tasks request.",
       "stage": "Contact Made",
-      "nextStep": "Jacob to review current Pea Ridge availability and asking rent, then reply to Omar.",
-      "priority": "medium",
+      "nextStep": "Verify current availability/listing materials for PEARID-O / 7,104 SF and prepare marketing package.",
+      "priority": "high",
       "contacts": [
         "Omar Hidais",
         "Omar Hidais (tobacco/vape operator, ohidais23@gmail.com)"
@@ -39047,6 +39050,11 @@
           "date": "2026-06-12",
           "event": "Email from CoStar News: CoStar Today: Amazon’s hometown set to become biggest city to ban data center de",
           "type": "email"
+        },
+        {
+          "date": "2026-06-12",
+          "event": "Briefing: overnight task intake to put HSBC / Pea Ridge space on the market.",
+          "type": "task"
         },
         {
           "date": "2026-06-11",
@@ -40041,10 +40049,10 @@
       "id": "maple-row-sparkle-dog-pigtails-crewcuts",
       "name": "Sparkle Dog Grooming / Pigtails & Crewcuts",
       "property": "Maple Row Shopping Center",
-      "status": "Jennifer Stewart at Gill Properties asked about available suites, rental rates, NNN expenses, co-tenancy, site plans, and leasing materials for two expanding concepts: Sparkle Dog Grooming and Pigtails & Crewcuts.",
+      "status": "Dance Hendersonville suite needs to be put on the market per Jacob's 6/11 evening #tasks request.",
       "stage": "Contact Made",
-      "nextStep": "Jacob to review current Maple Row availability, rent, and opex before replying.",
-      "priority": "medium",
+      "nextStep": "Verify MAPLER-350 / 3,481 SF suite facts and prepare/update listing materials.",
+      "priority": "high",
       "contacts": [
         "Jennifer Stewart (Gill Properties)"
       ],
@@ -40053,6 +40061,11 @@
           "date": "2026-06-12",
           "event": "Email from CoStar News: CoStar Today: Amazon’s hometown set to become biggest city to ban data center de",
           "type": "email"
+        },
+        {
+          "date": "2026-06-12",
+          "event": "Briefing: overnight task intake to put Dance Hendersonville / Maple Row suite 350 on the market.",
+          "type": "task"
         },
         {
           "date": "2026-06-11",
