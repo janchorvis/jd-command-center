@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T13:30:08.732985",
+  "lastUpdated": "2026-06-12T14:02:00.629939",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-12",
@@ -13102,9 +13102,9 @@
       "id": "mcminnville-wingstop",
       "name": "Wingstop",
       "property": "McMinnville Plaza",
-      "status": "Wingstop lease draft has arrived from Kevin Trujillo / BSM Properties as `Lease-Wingstop McMinnville Plaza.docx`.",
+      "status": "Wingstop lease draft is in hand from Sarah Langan/Kevin Trujillo; Jacob acknowledged receipt and said Anchor will review and come back with questions.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Review the Wingstop lease draft and route/coordinate legal review as needed.",
+      "nextStep": "Review Wingstop lease draft and route legal/business comments.",
       "priority": "high",
       "timeline": [
         {
@@ -13120,6 +13120,11 @@
         {
           "date": "2026-06-12",
           "event": "Kevin Trujillo sent Wingstop McMinnville lease draft attachment.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-12",
+          "event": "Kevin Trujillo forwarded Wingstop McMinnville lease draft attachment; Jacob had already acknowledged Sarah Langan's draft and said Anchor will review.",
           "type": "email"
         },
         {
@@ -13868,7 +13873,9 @@
         "Bell (Wingstop)",
         "Wingstop franchisee/broker",
         "Kevin Trujillo (BSM Properties)",
-        "Sarah Langan"
+        "Sarah Langan",
+        "Kevin Trujillo",
+        "James Lanoux"
       ],
       "actions": [
         {
@@ -29643,9 +29650,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton, OH",
-      "status": "Inspection Period extension to Friday 6/12/26 was confirmed after Dutch indicated comments would come back today and would not be an as-is approval. Next real action is reviewing Dutch's comments when received.",
+      "status": "Dutch requested one final change to Exhibit B of the AutoZone estoppel: add 'Except as approved in the Amended Short Form Lease' before 'Throughout the Term...'. Karen D'Antonio said Dutch is signed off if Seller accepts; Micah deferred to Ashby.",
       "stage": "Lease Signed",
-      "nextStep": "Wait for Dutch comments from Stan/Karen, then review and respond before Friday 6/12/26.",
+      "nextStep": "Wait for Ashby to confirm legal acceptance; if approved, accept the Exhibit B language change so Dutch can sign off.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -29696,6 +29703,11 @@
         {
           "date": "2026-06-12",
           "event": "Email from William Brooks: Jacob ICSC",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-12",
+          "event": "Dutch requested final AutoZone estoppel Exhibit B language change; Micah deferred to Ashby and said he is good if Ashby is good.",
           "type": "email"
         },
         {
@@ -40788,9 +40800,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike Cir",
-      "status": "Two new 6/12 signals: Skiptown/KWC asked about availability for a 9,500-15,000 SF upscale dog boarding/daycare/grooming concept; Ryder Ballard sent an LOI and said the next step is a contractor walkthrough for repair/improvement pricing.",
+      "status": "Ryder Ballard sent an LOI for 312 Wilson Pike Cir and expects the next step to be a contractor walkthrough for repair/improvement pricing. Separate KWC/Skiptown inquiry also surfaced for 9,500-15,000 SF dog boarding/daycare/grooming use.",
       "stage": "LOI",
-      "nextStep": "Review Ryder Ballard LOI and coordinate contractor walkthrough; separately decide whether to reply to KWC/Skiptown availability inquiry.",
+      "nextStep": "Review Ryder Ballard LOI; coordinate contractor walkthrough/pricing and decide how to respond to the separate Skiptown inquiry.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -40801,7 +40813,8 @@
         "Jerry / KWC Assistant <assistcynthialeekwc@gmail.com>",
         "Chantel Martinez <chantelmartinez@kw.com>",
         "KWC Assistant <assistcynthialeekwc@gmail.com>",
-        "Ryder Ballard <rballard@charleshawkinsco.com>"
+        "Ryder Ballard <rballard@charleshawkinsco.com>",
+        "KWC Assistant / Skiptown"
       ],
       "timeline": [
         {
@@ -40848,6 +40861,16 @@
           "date": "2026-06-12",
           "event": "Ryder Ballard sent LOI for 312 Wilson Pike Cir and proposed contractor walkthrough as next step.",
           "type": "email"
+        },
+        {
+          "date": "2026-06-12",
+          "event": "Ryder Ballard sent LOI for 312 Wilson Pike Cir; next step proposed is contractor walkthrough for repair/improvement pricing.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-12",
+          "event": "KWC Assistant / Skiptown inquiry received for 312 Wilson Pike Cir, seeking 9,500-15,000 SF for upscale dog boarding/daycare/grooming; outdoor space preferred but not mandatory.",
+          "type": "lead"
         },
         {
           "date": "2026-06-11",
