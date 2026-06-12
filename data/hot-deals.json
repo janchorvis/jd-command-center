@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T10:30:09.249753",
+  "lastUpdated": "2026-06-12T11:03:04.299623",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-12",
@@ -40538,16 +40538,18 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike Cir",
-      "status": "Wilson Pike tour is on Jacob's calendar today at 11:00 AM after Brandon Hoop zoning follow-up remained active.",
+      "status": "New Skiptown dog boarding/daycare/grooming inquiry arrived for 312 Wilson Pike Cir: 9,500-15,000 SF need, outdoor space preferred but not mandatory, timing 1-6+ months. They asked for available SF, asking rates/NNNs, use restrictions, floor plans, outdoor-space access, updated flyer, and other fit options.",
       "stage": "Touring",
-      "nextStep": "Use the tour to clarify Redline Fitness / Dr. Kemp path and confirm city/zoning questions before finalizing terms.",
+      "nextStep": "Jacob should confirm whether the 13,000 SF listing is still available, whether dog boarding/daycare/grooming is permitted, and send rates/NNNs, floor plan/flyer, and any outdoor-space notes or alternative options.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
         "Micah Lacher",
         "Adam Heston",
         "Brandon Hoop (NAI Nashville)",
-        "Redline Fitness"
+        "Redline Fitness",
+        "Jerry / KWC Assistant <assistcynthialeekwc@gmail.com>",
+        "Chantel Martinez <chantelmartinez@kw.com>"
       ],
       "timeline": [
         {
@@ -40564,6 +40566,11 @@
           "date": "2026-06-12",
           "event": "Email from Jacob Delk: 144 Wilson Pike Circle",
           "type": "email"
+        },
+        {
+          "date": "2026-06-12",
+          "event": "KWC Assistant/Jerry sent Skiptown dog boarding/daycare/grooming inquiry for 312 Wilson Pike Cir, asking for availability, rates/NNNs, restrictions, floor plans, outdoor space, flyer, and other fit options.",
+          "type": "lead"
         },
         {
           "date": "2026-06-11",
