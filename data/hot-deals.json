@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T15:30:16.793620",
+  "lastUpdated": "2026-06-12T16:01:42.411629",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-12",
@@ -64,7 +64,9 @@
       "Give generosity committee nominations by May 20th (overdue — due 2026-05-20)",
       "PCON feedback: Zack Hubiak (overdue — due 2026-05-15)",
       "PCON feedback: Sean Spafford (overdue — due 2026-05-15)",
-      "PCON feedback: Griffin Hodge (overdue — due 2026-04-02)"
+      "PCON feedback: Griffin Hodge (overdue — due 2026-04-02)",
+      "Confirm Tuesday 10 AM contractor walkthrough for Ryder Ballard / 312 Wilson Pike Cir if workable.",
+      "Reply to KWC Assistant / Skiptown 312 Wilson Pike inquiry with availability and next-step question."
     ]
   },
   "pipelineDeals": [
@@ -41012,9 +41014,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike Cir",
-      "status": "Ryder Ballard sent an LOI for 312 Wilson Pike Cir and expects the next step to be a contractor walkthrough for repair/improvement pricing. Separate KWC/Skiptown inquiry also surfaced for 9,500-15,000 SF dog boarding/daycare/grooming use.",
+      "status": "Ryder Ballard sent an LOI for 312 Wilson Pike Cir and asked to walk the property with a contractor Tuesday at 10 AM. Separately, KWC Assistant sent a Skiptown dog boarding/daycare/grooming inquiry for the same 13,000 SF listing, seeking 9,500-15,000 SF.",
       "stage": "LOI",
-      "nextStep": "Review Ryder Ballard LOI; coordinate contractor walkthrough/pricing and decide how to respond to the separate Skiptown inquiry.",
+      "nextStep": "Jacob needs to confirm whether Tuesday at 10 AM works for Ryder's contractor walkthrough and decide how to respond to the Skiptown inquiry.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -41026,7 +41028,9 @@
         "Chantel Martinez <chantelmartinez@kw.com>",
         "KWC Assistant <assistcynthialeekwc@gmail.com>",
         "Ryder Ballard <rballard@charleshawkinsco.com>",
-        "KWC Assistant / Skiptown"
+        "KWC Assistant / Skiptown",
+        "KWC Assistant / Cynthia Lee KWC",
+        "Skiptown"
       ],
       "timeline": [
         {
@@ -41087,6 +41091,16 @@
         {
           "date": "2026-06-12",
           "event": "KWC Assistant / Skiptown inquiry received for 312 Wilson Pike Cir, seeking 9,500-15,000 SF for upscale dog boarding/daycare/grooming; outdoor space preferred but not mandatory.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-06-12",
+          "event": "Ryder Ballard sent LOI and requested Tuesday 10 AM contractor walkthrough for 312 Wilson Pike Cir.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-12",
+          "event": "KWC Assistant inquired about 312 Wilson Pike Cir for Skiptown, seeking 9,500-15,000 SF with outdoor space preferred but not mandatory.",
           "type": "lead"
         },
         {
