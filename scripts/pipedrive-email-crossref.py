@@ -72,7 +72,12 @@ def load_json(path: Path) -> dict:
 # ─── Pipedrive API ────────────────────────────────────────────────────────────
 
 def fetch_pipedrive_deals(env: dict, verbose: bool = False) -> list[dict]:
-    """Fetch all open deals from Pipedrive pipeline 4 (Leasing)."""
+    """Fetch open deals and keep only pipeline 4 (Leasing).
+
+    Pipedrive's v1 `/deals` endpoint has returned deals from every pipeline even
+    when `pipeline_id=4` is supplied. Filter client-side so cross-ref volume does
+    not explode if the API ignores the query parameter.
+    """
     token  = env.get("PIPEDRIVE_API_TOKEN", "")
     domain = env.get("PIPEDRIVE_DOMAIN", "")
 
@@ -102,7 +107,7 @@ def fetch_pipedrive_deals(env: dict, verbose: bool = False) -> list[dict]:
         if not data:
             break
 
-        deals.extend(data)
+        deals.extend(d for d in data if d.get("pipeline_id") == 4)
 
         more = body.get("additional_data", {}).get("pagination", {}).get("more_items_in_collection", False)
         if not more:
@@ -150,9 +155,23 @@ def get_pipedrive_last_activity(deal: dict) -> date | None:
 
 # ─── Deal matching ────────────────────────────────────────────────────────────
 
+GENERIC_MATCH_TOKENS = {
+    # These words are useful labels for humans but too broad to identify a deal.
+    # Matching on them caused a cross-ref explosion where generic Pipedrive deals
+    # were all mapped to hot deals like "Hamilton, OH" or "McMinnville Plaza".
+    "building", "center", "centre", "deal", "inquiry", "lease", "leasing",
+    "oh", "ohio", "plaza", "property", "shopping", "space", "suite", "tenant",
+    "tn", "unit", "vacancy",
+}
+
+
 def tokenize(text: str) -> set[str]:
-    """Split text into lowercase tokens of 3+ chars."""
-    return {w.lower() for w in re.split(r'\W+', text) if len(w) >= 3}
+    """Split text into lowercase tokens of 3+ chars, excluding generic deal words."""
+    return {
+        w.lower()
+        for w in re.split(r'\W+', text)
+        if len(w) >= 3 and w.lower() not in GENERIC_MATCH_TOKENS
+    }
 
 
 def token_overlap_score(a: str, b: str) -> float:
@@ -174,31 +193,48 @@ def match_pipedrive_deal_to_hot_deal(pd_deal: dict, hot_deals: list[dict], verbo
       2. Pipedrive title contains hot-deal property (exact substring)
       3. Hot-deal name or property contained in Pipedrive title
       4. Token overlap score >= 0.3 against name+property combined
+
+    Guardrails:
+      - Hot deals with blank/placeholder names are not match candidates.
+      - Property-only matches are ignored for generic property labels.
+      - Token matches require at least one deal-name token, not just a broad property word.
     Returns the best matching hot deal, or None.
     """
     pd_title = pd_deal.get("title", "").lower()
+    pd_tokens = tokenize(pd_title)
 
     best_match = None
     best_score = 0.0
 
     for hot_deal in hot_deals:
-        hd_name = hot_deal.get("name", "").lower()
-        hd_prop = hot_deal.get("property", "").lower()
+        raw_name = hot_deal.get("name", "") or ""
+        raw_prop = hot_deal.get("property", "") or ""
+        hd_name = raw_name.lower()
+        hd_prop = raw_prop.lower()
+        name_tokens = tokenize(raw_name)
+        prop_tokens = tokenize(raw_prop)
         combined = f"{hd_name} {hd_prop}"
+
+        if not name_tokens:
+            continue
 
         # Strategy 1 & 2: substring containment
         if hd_name and hd_name in pd_title:
             score = 0.9
-        elif hd_prop and hd_prop in pd_title:
+        elif hd_prop and prop_tokens and hd_prop in pd_title:
             score = 0.85
         # Strategy 3: reversed containment
         elif hd_name and pd_title in hd_name:
             score = 0.8
-        elif hd_prop and pd_title in hd_prop:
+        elif hd_prop and prop_tokens and pd_title in hd_prop:
             score = 0.75
         else:
-            # Strategy 4: token overlap
-            score = token_overlap_score(pd_title, combined)
+            # Strategy 4: token overlap. Require at least one non-generic name token
+            # so "Hamilton" or "Plaza" alone cannot match hundreds of open deals.
+            if not (pd_tokens & name_tokens):
+                score = 0.0
+            else:
+                score = token_overlap_score(pd_title, combined)
 
         if score > best_score:
             best_score = score
