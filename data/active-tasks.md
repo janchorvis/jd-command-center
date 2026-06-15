@@ -1,13 +1,19 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-06-12 7:36 AM CDT
+Last updated: 2026-06-12 10:35 PM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T225 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T228 -->
 
 ## ACTIVE — Jacob needs to do these
 
 ### This Week (week of 5/11)
 
+
+- T227: Weekly Leasing Meeting Prep Discord delivery verification — 2026-06-12 scheduled 3 PM run and manual recovery for job `4b0e78d9-beee-4576-91fb-fa5209ed53f0` both finished `ok` internally but did not post to Discord `#leasing`; failure note posted to message `1515091485349908631`. Root cause found 2026-06-12 10:01 PM: the cron spawned email-verification subagents and exited via `sessions_yield`, leaving no final response for cron delivery. Job payload patched to forbid subagents/yield and require inline final output. Verify actual Discord delivery on the next Friday run, not just run status. [source: Self-review/heartbeat 2026-06-12; job: 4b0e78d9-beee-4576-91fb-fa5209ed53f0] [system: Weekly Leasing Meeting Prep]
+
+- T226: 312 Wilson Pike / KWC-Skiptown dog boarding inquiry — KWC/Jerry/Cynthia asked about dog boarding/daycare/grooming use for 312 Wilson Pike; Communication Triage posted suggested reply text in Discord asking whether this is for Skiptown directly and target opening timeline. No Gmail draft was created; Jacob needs to approve/manual-send if he wants to pursue. [source: Communication Triage 2026-06-12 11 AM/1 PM] [deal: 312 Wilson Pike]
+
+- T225: 312 Wilson Pike / Ryder Ballard LOI — Ryder sent an LOI and said the next step is a contractor walkthrough to price repairs/improvements; Communication Triage delivered urgent Discord update. Jacob needs to review/respond and coordinate walkthrough posture. [source: Communication Triage 2026-06-12 1 PM] [deal: 312 Wilson Pike]
 
 - T224: Wingstop / McMinnville lease draft review — Kevin Trujillo / Sarah Langan sent lease draft attachment `Lease-Wingstop McMinnville Plaza.docx`; Jacob needs to review/route for legal review. Command Center moved Wingstop to Lease Draft & Review. [source: Communication Triage 2026-06-12 10 AM] [deal: McMinnville Plaza / Wingstop]
 
@@ -112,7 +118,6 @@ Last updated: 2026-06-12 7:36 AM CDT
 - T179: Offsite / Department AI rocks — each department/team member should define one practical AI rock for the quarter; Jacob to prioritize automation work by ROI/time savings rather than novelty as margin opens. [source: 2026-05-06 Q2 offsite] [owner: Jacob/team leads] [project: q2-offsite-2026]
 - T180: Offsite / Cleveland Furniture Bank financial review — Jacob to send Micah/Ryan the tenant financials/sales info and decide whether to structure short-term rent relief with reporting/review period. [source: 2026-05-06 Q2 offsite] [owner: Jacob/Micah/Ryan] [deal: Parma / Cleveland Furniture Bank]
 - T181: Offsite / Russellville-Vance hold-sell analysis — analyze Russellville cash-flow hold vs sale after leasing progress and watch Vance/Uniform Source renewal/value path. [source: 2026-05-06 Q2 offsite] [owner: Micah/Ryan/Jacob] [deal: Russellville / Vance]
-- T182: Draft UPS lease - McMinnville Plaza Suite 108 — Jon Petty says UPS area office is finalizing paperwork and sees no issue with issuing a lease for review; Jacob replied 5/14 "I'll get it rolling on our end." Start the lease draft path for UPS Store at McMinnville Plaza Suite 108. [asana: 1214819500996383] [gmail thread: 19e1d15ee89ab75a] [source: Chrome extension inbox 2026-05-14] [deal: McMinnville Plaza / UPS Store]
 - T183: Send ICSC calendar invite to Kevin Moss - Royal Bazaar meeting — Kevin confirmed Wednesday 8:30 AM at Central Hall CBRE booth for Parma Heights / Royal Bazaar Indian Market and asked Jacob to send an invite; Jacob may need to dip early for 9 AM South Hall meeting. [asana: 1214852315230400] [gmail thread: 19e2c9458f57e142] [source: Communication Triage 2026-05-15 3 PM] [deal: Parma Heights / Royal Bazaar Indian Market]
 - T184: Follow up with Nicole Dautovic / Chase after ICSC — Jacob asked to be reminded to reach out in a few weeks from the ICSC - Anchor / Chase thread; Nicole had offered Tuesday 1 PM-ish or Wednesday after 10:30 as possible ICSC/booth timing. [asana: 1214918703003520] [due: 2026-06-08] [source: Chrome extension inbox 2026-05-18] [deal: Chase / ICSC]
 - T185: Follow up with Sally Beauty after ICSC — Jacob asked for a reminder to follow up with Sally Beauty/Cosmo after the ICSC meeting. 6/8 meeting: counter was turned back with kickout pushed to year 7 and one-time only, CAM caps removed, and free rent limited to base rent while NNN remains payable; keep pressure toward final response/signature. [source: Discord 2026-05-19; 2026-06-08 leasing meeting] [deal: Sally Beauty / Cosmo / ICSC]
@@ -136,6 +141,7 @@ Last updated: 2026-06-12 7:36 AM CDT
 
 ## WAITING — Blocked on someone else
 
+- T182: UPS Store / McMinnville lease comments — Jacob sent the UPS Store lease draft to Jon Petty on 2026-06-12 at 8:01 PM CDT; Jon acknowledged receipt at 8:44 PM and said he does not anticipate many comments and will let Jacob know when they have comments. Await tenant/broker comments. [asana: 1214819500996383] [gmail thread: 19e1d15ee89ab75a] [source: Chrome extension inbox 2026-05-14; Communication Triage after-hours 2026-06-12] [deal: McMinnville Plaza / UPS Store]
 - T208: Ryan Jordan / Shelbyville former Big Lots info request — Jacob replied on 2026-06-05 at 1:57 PM CDT with pricing posture, flyer attached, and asked Ryan for the user/size range. Await Ryan's response. [gmail thread: 19e92d9d707d7424] [source: Communication Triage 2026-06-04 9 AM; Gmail thread 2026-06-05 2 PM] [deal: Shelbyville]
 - T202: Keystone / Sevierville Forks of the River fireworks tent cancellation — Jacob replied to Jeb on 2026-06-04 asking for a formal letter/notice showing the permit denial for Anchor's file. Await Jeb's denial documentation; no further action unless he replies. [gmail thread: 19e8d882b3b7b24e] [source: Communication Triage 2026-06-03 11 AM; Communication Triage 2026-06-04 12 PM] [deal: Sevierville / Keystone fireworks]
 - T209: Spirit Halloween / Hamilton OH site visit access — Jacob sent Steve Stapleton the Hamilton lockbox location/code at 2026-06-04 8:57 PM CDT, and Steve acknowledged at 9:07 PM that he will stop by Friday 2026-06-05 afternoon for about 30 minutes. Await site-visit feedback; no further access action needed unless Steve has trouble. [gmail thread: 19e8533ffae6724f] [source: Communication Triage 2026-06-04 10 AM; Communication Triage after-hours 2026-06-04 7 PM; Gmail thread 2026-06-05 9 AM] [deal: Hamilton / Spirit Halloween]
