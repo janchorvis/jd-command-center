@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T14:30:07.404519",
+  "lastUpdated": "2026-06-15T15:03:17.494539",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-15",
@@ -40822,9 +40822,9 @@
       "id": "spirit-halloween-hamilton",
       "name": "Spirit Halloween",
       "property": "Hamilton, OH",
-      "status": "Spirit Halloween is a backup/temporary use signal, not a preferred long-term solution. Hamilton box needs more action; laundromat interest exists but at lower economics, and team should identify 10K-15K SF users while being careful about expensive box splits.",
+      "status": "Mathison said the locksmith is going out by Thursday for the Variety Surplus/Hamilton access issue, and asked whether there is any update on Subway or if he needs to raise Subway in the renewal negotiation.",
       "stage": "Touring",
-      "nextStep": "Hustle Hamilton box outreach, including prior laundromat contact and 10K-15K SF prospects; underwrite any split assuming the rear may have little/no rent value.",
+      "nextStep": "Jacob to answer Mathison on Subway renewal posture and how much to disclose/use in negotiations.",
       "priority": "high",
       "contacts": [
         "Tina Charnitsky (Spirit Halloween Real Estate)",
@@ -40832,7 +40832,8 @@
         "Steve Stapleton (Spirit Halloween)",
         "Tina Charnitsky (Spirit Halloween)",
         "Micah Lacher (Anchor)",
-        "Jacob Delk (Anchor)"
+        "Jacob Delk (Anchor)",
+        "Mathison Ingham"
       ],
       "timeline": [
         {
@@ -40854,6 +40855,11 @@
           "date": "2026-06-15",
           "event": "Email from Phoenix Club of Nashville: Hey, Jacob! Join Phoenix Club for our prospective coffee this week on June 18th!",
           "type": "email"
+        },
+        {
+          "date": "2026-06-15",
+          "event": "Slack from Mathison: locksmith going out by Thursday, and asked whether Subway/Hamilton update should be raised in renewal negotiation.",
+          "type": "slack"
         },
         {
           "date": "2026-06-12",
@@ -41756,9 +41762,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike Cir",
-      "status": "Fresh broker interest includes Ashley Cusker for a dance studio, Ross Hopkins for an athletic-training business needing 5,000-10,000 SF and a tour this week, and Mission Pet Health / Your Pet Dentist seeking roughly 4,500-5,500 SF for a national-credit veterinary dental specialty relocation by March 2027. Jacob needs to decide response/tour/subdivision posture against Ryder Ballard LOI/walkthrough path.",
+      "status": "312 Wilson Pike interest is stacking up: Redline Fitness/Devin has interest after touring and Brandon Hoop asked whether to send an LOI; Ashley Cusker has a dance-studio prospect; Ross Hopkins has an athletic-training tenant needing 5,000-10,000 SF and a tour; Mission Pet Health / Your Pet Dentist is asking about 4,500-5,500 SF subdivision by March 2027; Ryder Ballard LOI/walkthrough remains in the mix.",
       "stage": "LOI",
-      "nextStep": "Jacob to decide how to handle competing 312 Wilson Pike interest and whether to offer tours/subdivision responses while Ryder Ballard LOI/walkthrough remains active.",
+      "nextStep": "Jacob to decide whether to invite Brandon/Redline to send LOI and how to prioritize that against Ryder plus other 312 Wilson Pike prospects.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -41776,7 +41782,8 @@
         "Ashley Cusker (Katz & Associates) <ashleycusker@katzretail.com>",
         "Ross Hopkins (Southeast Venture) <rhopkins@southeastventure.com>",
         "Neal NeSmith (Mission Pet Health)",
-        "Duane Roggendorff (Ojas Partners)"
+        "Duane Roggendorff (Ojas Partners)",
+        "Devin / Redline Fitness"
       ],
       "timeline": [
         {
@@ -41828,6 +41835,11 @@
           "date": "2026-06-15",
           "event": "Mission Pet Health / Your Pet Dentist inquiry: Neal NeSmith asked whether LL would subdivide for 4,500-5,500 SF; Duane Roggendorff said Mission Pet Health purchased a local vet dentist and needs ~5,000 SF, potentially cardiology/surgery specialists, relocation by March 2027.",
           "type": "lead"
+        },
+        {
+          "date": "2026-06-15",
+          "event": "Brandon Hoop said Devin/Redline has interest after touring 312 Wilson and asked whether it would be easier to send over an LOI.",
+          "type": "email"
         },
         {
           "date": "2026-06-12",
