@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T15:03:17.494539",
+  "lastUpdated": "2026-06-15T15:30:08.534287",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-15",
@@ -51,6 +51,16 @@
       "nextStep": "Jacob/Clay/Claire keep pushing drawings and hard costs before lease signature.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-15",
+          "event": "Email from Paul Gold: Bealls Shelbyville IN",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-15",
+          "event": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
+          "type": "email"
+        },
         {
           "date": "2026-06-15",
           "event": "Email from Jacob Delk: Delk Commissions (April 2026)",
@@ -2808,6 +2818,11 @@
       "nextStep": "Keep Shoe Dept commission on hold unless/until payment timing is intentionally released.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-06-15",
+          "event": "Email from Paul Gold: Bealls Shelbyville IN",
+          "type": "email"
+        },
         {
           "date": "2026-06-15",
           "event": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
@@ -6936,6 +6951,11 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-06-15",
+          "event": "Email from Paul Gold: Bealls Shelbyville IN",
+          "type": "email"
+        },
+        {
           "date": "2026-06-11",
           "event": "Email from Jacob Delk: Shelbyville, IN",
           "type": "email"
@@ -7093,6 +7113,11 @@
       "nextStep": "Monitor ABC timing and coordinate any move-in pressure with Clay/contractor.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-06-15",
+          "event": "Email from Paul Gold: Bealls Shelbyville IN",
+          "type": "email"
+        },
         {
           "date": "2026-06-15",
           "event": "Email from Brandon Hoop: 312 Wilson",
@@ -15695,6 +15720,11 @@
       "timeline": [
         {
           "date": "2026-06-15",
+          "event": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-15",
           "event": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
           "type": "email"
         },
@@ -21287,6 +21317,11 @@
       "timeline": [
         {
           "date": "2026-06-15",
+          "event": "Email from Paul Gold: Bealls Shelbyville IN",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-15",
           "event": "Email from Jacob Delk: Delk Commissions (April 2026)",
           "type": "email"
         },
@@ -24486,6 +24521,11 @@
       "timeline": [
         {
           "date": "2026-06-15",
+          "event": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-15",
           "event": "Email from Jacob Delk: Delk Commissions (April 2026)",
           "type": "email"
         },
@@ -26396,6 +26436,11 @@
       "nextStep": "Build the lease/TI scenario spreadsheet and educate Robert Henson on as-is vs landlord-funded TI economics; use ROFR if purchase right is needed.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-15",
+          "event": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
+          "type": "email"
+        },
         {
           "date": "2026-06-15",
           "event": "Email from Jacob Delk: Delk Commissions (April 2026)",
@@ -31787,6 +31832,11 @@
       "timeline": [
         {
           "date": "2026-06-15",
+          "event": "Email from Paul Gold: Bealls Shelbyville IN",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-15",
           "event": "Email from Jacob Delk: Delk Commissions (April 2026)",
           "type": "email"
         },
@@ -33117,6 +33167,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-06-15",
+          "event": "Email from NAIOP Nashville: NAIOP Legislative Update: Tennessee TIF Gets a Developer-Friendly Upgrade",
+          "type": "email"
+        },
         {
           "date": "2026-06-15",
           "event": "Email from Brandon Hoop: 312 Wilson",
@@ -40041,6 +40096,11 @@
       "timeline": [
         {
           "date": "2026-06-15",
+          "event": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-15",
           "event": "Email from NAIOP: What are cold storage developers building right now?",
           "type": "email"
         },
@@ -40744,6 +40804,11 @@
         "Ryan Jordan (AVID Real Estate Advisors)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-15",
+          "event": "Email from Paul Gold: Bealls Shelbyville IN",
+          "type": "email"
+        },
         {
           "date": "2026-06-15",
           "event": "Email from ICSC Commerce + Communities Today: Former ICSC Chair Jim Taylor Has Passed Away",
@@ -42322,6 +42387,11 @@
       "timeline": [
         {
           "date": "2026-06-15",
+          "event": "Email from Paul Gold: Bealls Shelbyville IN",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-15",
           "event": "Email from ICSC Next Generation 4 Under 40 Awards: Last Call: Nominate the Next 4 Under 40 Leader",
           "type": "email"
         },
@@ -43218,13 +43288,6 @@
       "urgency": "low"
     },
     {
-      "name": "Derek Tucker",
-      "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
-      "daysSinceContact": 4,
-      "lastAction": "Email from Jacob Delk: Shelbyville, IN",
-      "urgency": "low"
-    },
-    {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
       "daysSinceContact": 4,
@@ -43361,224 +43424,224 @@
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Dawn Baker",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Justin Jeror <justin.jeror@gmail.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher <mlacher@anchorinv.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Bill Castagna",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Julia Gibson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Claire/Clare",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Jacob Delk",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Tony Grillo",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
@@ -43645,45 +43708,52 @@
       "urgency": "low"
     },
     {
+      "name": "Derek Tucker",
+      "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
+      "urgency": "low"
+    },
+    {
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brandon Hoop: 312 Wilson",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Carole",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brandon Hoop: 312 Wilson",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Kurt Wilson",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brandon Hoop: 312 Wilson",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Kyle Lindsey",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brandon Hoop: 312 Wilson",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Kurt Wilson",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brandon Hoop: 312 Wilson",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Kyle Lindsey",
       "deal": "ABC Retail — Russellville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brandon Hoop: 312 Wilson",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
@@ -43872,147 +43942,147 @@
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson <Robert_Richardson@tjx.com>",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano <andriano@c2-designgroup.com>",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Laurie Schindler",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Brian L. opened floorplan on Malone Plaza",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
@@ -44145,70 +44215,70 @@
       "name": "Carmen Drake",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "James Stocker",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Carmine DiLucente",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Stan Bobowski",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Paul Takacs",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Andrew Goodman",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Karen D'Antonio",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Karen D'Antonio",
       "deal": " — Hamilton, OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
@@ -44313,168 +44383,168 @@
       "name": "Joey",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "ala h.",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti <jvalenti@centenretail.com>",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "EJ",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Tim Mehta",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Tim Mehta",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Punit Patel / Great Greek corporate",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": " — Maple Row / Hendersonville Fox's",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Laurie",
       "deal": " — Evansville Big Lots",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Rob Henson - Easterseals - 812-202-9384",
       "deal": " — Evansville Big Lots",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Laurie Seals - Easterseals",
       "deal": " — Evansville Big Lots",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Robert Henson",
       "deal": " — Evansville Big Lots",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": " — Evansville Big Lots",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Jacob Delk",
       "deal": " — Evansville Big Lots",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
@@ -44684,182 +44754,182 @@
       "name": "Amy Harper",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Shelby Hall",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Dr. Phillip Kemp",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Dr. Kemp",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Amy",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Matty",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Ashley Marshall",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Bill Adair",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Amy",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Phillip Kemp",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Ross Smith",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Devin McClendon",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Ben Claybaker",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Brandon Hoop",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Mary Winston Cramer",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Maddison Sickels",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Charlie Gibson",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Todd Petrowski",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Dr. Kemp",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Brandon Hoop",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Jacob Delk",
       "deal": "HopeSmiles — 144 Wilson Pike",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brandon Hoop: 312 Wilson",
+      "lastAction": "Email from NAIOP Nashville: NAIOP Legislative Update: Tennessee TIF Gets a Devel",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brandon Hoop: 312 Wilson",
+      "lastAction": "Email from NAIOP Nashville: NAIOP Legislative Update: Tennessee TIF Gets a Devel",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Brandon Hoop: 312 Wilson",
+      "lastAction": "Email from NAIOP Nashville: NAIOP Legislative Update: Tennessee TIF Gets a Devel",
       "urgency": "low"
     },
     {
@@ -45020,14 +45090,14 @@
       "name": "Jesse Warhurst <jessewarhurst@yahoo.com>",
       "deal": "Jesse Warhurst - Building 16 inquiry — Franklin Center / Russellville, AL",
       "daysSinceContact": 0,
-      "lastAction": "Email from NAIOP: What are cold storage developers building right now?",
+      "lastAction": "Email from Robert H. Burns Company, Inc.: RE: Music Row Building to Purchase",
       "urgency": "low"
     },
     {
       "name": "Ryan Jordan",
       "deal": "Ryan Jordan / Former Big Lots — Shelbyville former Big Lots",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Commerce + Communities Today: Former ICSC Chair Jim Taylor Has P",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
@@ -45067,6 +45137,13 @@
     },
     {
       "name": "Jacob Delk",
+      "deal": "Spirit Halloween — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
+      "urgency": "low"
+    },
+    {
+      "name": "Mathison Ingham",
       "deal": "Spirit Halloween — Hamilton, OH",
       "daysSinceContact": 0,
       "lastAction": "Email from Jacob Delk: Delk Commissions (April 2026)",
@@ -45227,6 +45304,13 @@
       "urgency": "low"
     },
     {
+      "name": "Devin / Redline Fitness",
+      "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
+      "urgency": "low"
+    },
+    {
       "name": "Girish Kumar / Flavors of India <flavorsofindiatn@gmail.com>",
       "deal": "Nothing But Noodles — Maple Row / Art Studio suite",
       "daysSinceContact": 0,
@@ -45237,7 +45321,7 @@
       "name": "Heather Paul",
       "deal": "Heather Paul - LoopNet Lead — Dixie Village Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from ICSC Next Generation 4 Under 40 Awards: Last Call: Nominate the Next ",
+      "lastAction": "Email from Paul Gold: Bealls Shelbyville IN",
       "urgency": "low"
     },
     {
