@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T09:30:10.488072",
+  "lastUpdated": "2026-06-15T10:01:52.078415",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-15",
@@ -41261,9 +41261,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike Cir",
-      "status": "LOI received from Ryder Ballard; Ryder asked whether contractor walkthrough can happen Tuesday at 10 AM.",
+      "status": "New broker inquiry from Ashley Cusker (Katz) for a dance studio looking for Brentwood space; she asked Jacob to send details on 312 Wilson Pike.",
       "stage": "LOI",
-      "nextStep": "Jacob to confirm Tuesday 10 AM walkthrough timing or propose alternate time.",
+      "nextStep": "Jacob reply to Ashley with 312 Wilson Pike details and ask the dance studio's target square footage/timing while preserving Ryder Ballard LOI/walkthrough posture.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -41277,7 +41277,8 @@
         "Ryder Ballard <rballard@charleshawkinsco.com>",
         "KWC Assistant / Skiptown",
         "KWC Assistant / Cynthia Lee KWC",
-        "Skiptown"
+        "Skiptown",
+        "Ashley Cusker (Katz & Associates) <ashleycusker@katzretail.com>"
       ],
       "timeline": [
         {
@@ -41289,6 +41290,11 @@
           "date": "2026-06-15",
           "event": "Email from Chris Brophy: Website Donation Update",
           "type": "email"
+        },
+        {
+          "date": "2026-06-15",
+          "event": "Ashley Cusker (Katz) asked for details on 312 Wilson Pike for a dance studio looking for Brentwood space.",
+          "type": "lead"
         },
         {
           "date": "2026-06-12",
