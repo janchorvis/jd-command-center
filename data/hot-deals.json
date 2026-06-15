@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T11:30:08.056588",
+  "lastUpdated": "2026-06-15T12:01:55.822996",
   "sourceDoc": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
   "today": {
     "date": "2026-06-15",
@@ -41516,9 +41516,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike Cir",
-      "status": "New broker inquiry from Ashley Cusker (Katz) for a dance studio looking for Brentwood space; she asked Jacob to send details on 312 Wilson Pike.",
+      "status": "Fresh broker interest from Ashley Cusker for a dance studio and Ross Hopkins for an athletic training business needing 5,000-10,000 SF in Brentwood/Franklin; Ross says tenant is eager to move quickly and requested a tour this week. Ryder Ballard LOI/walkthrough posture remains active.",
       "stage": "LOI",
-      "nextStep": "Jacob reply to Ashley with 312 Wilson Pike details and ask the dance studio's target square footage/timing while preserving Ryder Ballard LOI/walkthrough posture.",
+      "nextStep": "Jacob respond to Ashley with 312 Wilson Pike details and reply to Ross with availability/tour times this week while deciding how to handle competing interest against Ryder Ballard LOI/walkthrough path.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -41533,7 +41533,8 @@
         "KWC Assistant / Skiptown",
         "KWC Assistant / Cynthia Lee KWC",
         "Skiptown",
-        "Ashley Cusker (Katz & Associates) <ashleycusker@katzretail.com>"
+        "Ashley Cusker (Katz & Associates) <ashleycusker@katzretail.com>",
+        "Ross Hopkins (Southeast Venture) <rhopkins@southeastventure.com>"
       ],
       "timeline": [
         {
@@ -41559,6 +41560,11 @@
         {
           "date": "2026-06-15",
           "event": "Ashley Cusker (Katz) asked for details on 312 Wilson Pike for a dance studio looking for Brentwood space.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-06-15",
+          "event": "Ross Hopkins (Southeast Venture) asked for a 312 Wilson Pike tour this week for an athletic training tenant needing 5,000-10,000 SF in Brentwood/Franklin and eager to move quickly.",
           "type": "lead"
         },
         {
