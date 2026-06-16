@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T07:33:50.253411",
+  "lastUpdated": "2026-06-16T08:03:11.676615",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-16",
@@ -41671,9 +41671,9 @@
       "id": "spirit-halloween-hamilton",
       "name": "Spirit Halloween",
       "property": "Hamilton, OH",
-      "status": "Mathison said the locksmith is going out by Thursday for the Variety Surplus/Hamilton access issue, and asked whether there is any update on Subway or if he needs to raise Subway in the renewal negotiation.",
+      "status": "Spirit Halloween access timing is tight: Tina Charnitsky said Steve Stapleton's last availability for the next two weeks is Thursday, June 18, and asked whether Anchor's property manager can meet him onsite to let him into the space; Steve said he can likely go late morning/early afternoon.",
       "stage": "Touring",
-      "nextStep": "Jacob to answer Mathison on Subway renewal posture and how much to disclose/use in negotiations.",
+      "nextStep": "Jacob/Adam to coordinate with the property manager/locksmith for Thursday access, or tell Spirit if Anchor cannot get Steve into the space that day.",
       "priority": "high",
       "contacts": [
         "Tina Charnitsky (Spirit Halloween Real Estate)",
@@ -41703,6 +41703,11 @@
         {
           "date": "2026-06-16",
           "event": "Email from Micah Lacher: Fwd: Error [step 2] - Google Sheets: No matches",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Tina Charnitsky asked whether the property manager can meet Steve Stapleton onsite Thursday because Steve's last availability for the next two weeks is that day; Steve said late morning/early afternoon should work.",
           "type": "email"
         },
         {
