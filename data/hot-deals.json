@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T14:30:08.193593",
+  "lastUpdated": "2026-06-16T15:02:43.330744",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-16",
@@ -19995,9 +19995,9 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Upstream Rehabilitation / Drayer PT path is active: Tom Fidler forwarded Brent Braden's request for measurements and MEP information for the red-outlined area at 927 Martin St S, Pell City.",
+      "status": "Upstream Rehabilitation / Pell City possible location: Brent Braden requested measurements and MEP information for the area outlined in red at 927 Martin St. S; Tom Fidler forwarded to Jacob after voicemail with MEP survey checklist and gym buildout plans attached.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Coordinate measurements/MEP information for Upstream/Drayer's possible Pell City location and respond to Tom/Brent as needed.",
+      "nextStep": "Jacob/Anchor needs to coordinate measurements and MEP info response if not already handled by Davis Coleman / contractor.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
@@ -20015,7 +20015,8 @@
         "Susan Swindal / Mama Suz Fried Pies (Mamasuzfriedpies@gmail.com, 205-567-9667)",
         "David Cooke (Cooke Commercial)",
         "Lauri Fowler (ProStar / Compassus)",
-        "Brent Braden (Upstream Rehabilitation Facilities Manager)"
+        "Brent Braden (Upstream Rehabilitation Facilities Manager)",
+        "Brent Braden (Upstream Rehabilitation)"
       ],
       "timeline": [
         {
@@ -20086,6 +20087,11 @@
         {
           "date": "2026-06-16",
           "event": "Tom Fidler forwarded Upstream Rehab's measurements/MEP request for the red-outlined Pell City space; attachments included MEP survey checklist and gym buildout plans.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Tom Fidler forwarded Upstream Rehab measurement/MEP info request for Pell City after voicemail.",
           "type": "email"
         },
         {
@@ -33062,6 +33068,27 @@
         "suiteCount": 3,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "bealls-shelbyville-former-big-lots",
+      "name": "Bealls",
+      "property": "Shelbyville former Big Lots",
+      "status": "Paul Gold sent an updated Bealls term sheet for a portion of the former Big Lots in Shelbyville, IN; revised to NNN rent instead of last year's gross structure and increased TI from $350K to $400K over VBox delivery.",
+      "stage": "Trading Terms",
+      "nextStep": "Jacob to review the attached term sheet and call Paul Gold if needed.",
+      "priority": "high",
+      "contacts": [
+        "Paul Gold (Echo Retail)",
+        "Jeffrey Lautenbach (Bealls)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-16",
+          "event": "Updated Bealls term sheet received for part of former Big Lots: NNN rent, TI increased to $400K over VBox delivery.",
+          "type": "email"
+        }
+      ],
+      "actions": []
     }
   ],
   "sideDeals": [
