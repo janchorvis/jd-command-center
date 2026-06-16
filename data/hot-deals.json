@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T07:33:17.230891",
+  "lastUpdated": "2026-06-16T07:33:50.253411",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-16",
@@ -30835,9 +30835,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton, OH",
-      "status": "Dutch requested one final change to Exhibit B of the AutoZone estoppel: add 'Except as approved in the Amended Short Form Lease' before 'Throughout the Term...'. Karen D'Antonio said Dutch is signed off if Seller accepts; Micah deferred to Ashby.",
+      "status": "Jacob has a morning calendar block labeled Hamilton email after 6/15 leasing-meeting posture that Anchor should confirm inspection period is over and closing is due July 13.",
       "stage": "Lease Signed",
-      "nextStep": "Wait for Ashby to confirm legal acceptance; if approved, accept the Exhibit B language change so Dutch can sign off.",
+      "nextStep": "Send buyer/GMX/Dutch side the PSA timing email and ask whether they are prepared to close and what remains needed from Anchor.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -30879,6 +30879,11 @@
           "date": "2026-06-16",
           "event": "Email from Micah Lacher: Fwd: Error [step 2] - Google Sheets: No matches",
           "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Briefing: Hamilton email is on today's calendar; no unanswered human Slack DMs overnight.",
+          "type": "task"
         },
         {
           "date": "2026-06-15",
