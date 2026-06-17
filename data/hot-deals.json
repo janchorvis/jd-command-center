@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T13:30:20.075216",
+  "lastUpdated": "2026-06-17T14:02:24.781350",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-17",
@@ -34081,15 +34081,22 @@
       "id": "bealls-shelbyville-former-big-lots",
       "name": "Bealls",
       "property": "Shelbyville former Big Lots",
-      "status": "Paul Gold sent an updated Bealls term sheet for a portion of the former Big Lots in Shelbyville, IN; revised to NNN rent instead of last year's gross structure and increased TI from $350K to $400K over VBox delivery.",
+      "status": "Dutch Bros/Ethan Flynn showed interest in the Shelbyville outparcel concept. Ethan indicated roughly 0.4 acre could work, BTS/someone fee-develops is preferred, GL with high TIA is the alternative/reverse BTS, and rent tolerance is about $150K.",
       "stage": "Trading Terms",
-      "nextStep": "Jacob to review the attached term sheet and call Paul Gold if needed.",
+      "nextStep": "Set up a call with Ethan in the next couple weeks and dig into required TI / reverse BTS economics.",
       "priority": "high",
       "contacts": [
         "Paul Gold (Echo Retail)",
-        "Jeffrey Lautenbach (Bealls)"
+        "Jeffrey Lautenbach (Bealls)",
+        "Ethan Flynn (Dutch Bros)",
+        "Micah Lacher"
       ],
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Dutch Bros interest: 0.4 acre, BTS preferred, GL + high TIA alternative, ~$150K rent tolerance; Micah wants a call and TI details.",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from Jacob Delk: Big Lots Building - 1840 E Michigan Rd.",
