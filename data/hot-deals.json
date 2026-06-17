@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T14:30:09.106137",
+  "lastUpdated": "2026-06-17T15:02:58.859458",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-17",
@@ -54,7 +54,9 @@
       "312 Wilson Pike: handle noon Ross/Adam tour context and decide posture across Ryder/Borders LOI, Brandon/Redline LOI question, Mission Pet subdivision, and other broker interest.",
       "Shelbyville former Big Lots: review Bealls updated term sheet and decide redevelopment/outparcel engineering/city outreach path.",
       "Highland / Smart LED: update lease/DocuSign path while refusing ROFR language.",
-      "Hamilton / GMX: send PSA inspection-period-over / closing-due posture and ask what remains needed."
+      "Hamilton / GMX: send PSA inspection-period-over / closing-due posture and ask what remains needed.",
+      "Advise Melissa on Flavors of India HVAC responsibility/owner contribution posture.",
+      "Await/monitor Spirit Halloween Hamilton site visit after Mathison sent rear lockbox code 1928."
     ]
   },
   "pipelineDeals": [
@@ -44072,10 +44074,10 @@
     {
       "id": "spirit-halloween-hamilton",
       "name": "Spirit Halloween",
-      "property": "Hamilton, OH",
-      "status": "Spirit Halloween access timing is tight: Tina Charnitsky said Steve Stapleton's last availability for the next two weeks is Thursday, June 18, and asked whether Anchor's property manager can meet him onsite to let him into the space; Steve said he can likely go late morning/early afternoon.",
+      "property": "Hamilton OH",
+      "status": "Spirit Halloween access issue moved forward: Mathison installed a rear lockbox and sent Tina/Steve the code 1928 with photo; awaiting Steve site visit outcome.",
       "stage": "Touring",
-      "nextStep": "Jacob/Adam to coordinate with the property manager/locksmith for Thursday access, or tell Spirit if Anchor cannot get Steve into the space that day.",
+      "nextStep": "Await Steve/Spirit's post-visit feedback; Jacob only needs to intervene if access still fails or Spirit requests deal terms.",
       "priority": "high",
       "contacts": [
         "Tina Charnitsky (Spirit Halloween Real Estate)",
@@ -44084,7 +44086,8 @@
         "Tina Charnitsky (Spirit Halloween)",
         "Micah Lacher (Anchor)",
         "Jacob Delk (Anchor)",
-        "Mathison Ingham"
+        "Mathison Ingham",
+        "Mathison Ingham (Anchor Property Manager)"
       ],
       "timeline": [
         {
@@ -44105,6 +44108,11 @@
         {
           "date": "2026-06-17",
           "event": "Email from Micah Lacher: Re: Flavors of India HVAC",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Communication Triage: Mathison sent Spirit rear lockbox photo and code 1928 for Hamilton site access.",
           "type": "email"
         },
         {
