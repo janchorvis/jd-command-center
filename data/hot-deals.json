@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T16:30:08.437748",
+  "lastUpdated": "2026-06-17T17:03:51.183402",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-17",
@@ -64,9 +64,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below lease should not be signed until hard costs are known for facade, buildout, TI, and related landlord work; architects on both sides are still working through drawings/costs.",
+      "status": "Clay asked whether to commission Five Below facade/elevation architectural drawings now or wait until Five Below's plans arrive and StoreCrafters can bid for hard numbers. Clay recommends waiting because the architect proposal is not a small amount to risk before lease feasibility is confirmed.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Clay/Claire keep pushing drawings and hard costs before lease signature.",
+      "nextStep": "Micah/Jacob need to decide whether to sign the facade architect proposal now or wait for Five Below plans and StoreCrafters pricing.",
       "priority": "high",
       "timeline": [
         {
@@ -172,6 +172,11 @@
         {
           "date": "2026-06-17",
           "event": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds new title: apartment de",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Inbox: Clay recommended waiting on Five Below facade architect proposal until Five Below plans arrive and StoreCrafters can price hard costs.",
           "type": "email"
         },
         {
@@ -34095,9 +34100,9 @@
       "id": "smart-led-highland",
       "name": "Smart LED TN LLC",
       "property": "Highland - 2151 N Highland Ave, Jackson TN",
-      "status": "Smart LED looks promising as a second-location LED/electronics tenant; deal is recent, likely needs education on triple-net economics, and rent should stay in monthly/net framing rather than confusing PSF language.",
-      "stage": "Obtain Financials",
-      "nextStep": "Review Carson changes and push to get the lease/application path done.",
+      "status": "Amin Lakhani replied to Jacob's revised Smart LED lease draft with proposed revisions covering expanded permitted use, broad subletting rights without prior consent, one-year personal guaranty burnoff, removal of ongoing financial reporting, flexible signage updates, and 50/50 landlord/tenant sharing of HVAC/plumbing/electrical costs.",
+      "stage": "Lease Draft & Review",
+      "nextStep": "Jacob needs to review/counter Amin's lease revision requests before DocuSign.",
       "priority": "high",
       "contacts": [
         "Amin Lakhani (Smart LED TN LLC) - smartledtn@gmail.com - 901-907-2646",
@@ -34150,6 +34155,11 @@
         {
           "date": "2026-06-17",
           "event": "Email from Micah Lacher: Re: Flavors of India HVAC",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Inbox: Amin Lakhani sent Smart LED lease revision requests on use, subletting, guaranty, financial reporting, signage, and MEP/HVAC cost sharing.",
           "type": "email"
         },
         {
@@ -34612,7 +34622,8 @@
         "avgSqFt": 29754,
         "suiteCount": 3,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Lease Draft & Review"
     },
     {
       "id": "bealls-shelbyville-former-big-lots",
@@ -45961,9 +45972,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike Cir",
-      "status": "312 Wilson Pike interest is stacking up: Redline Fitness/Devin has interest after touring and Brandon Hoop asked whether to send an LOI; Ashley Cusker has a dance-studio prospect; Ross Hopkins has an athletic-training tenant needing 5,000-10,000 SF and a tour; Mission Pet Health / Your Pet Dentist is asking about 4,500-5,500 SF subdivision by March 2027; Ryder Ballard LOI/walkthrough remains in the mix.",
+      "status": "312 Wilson Pike interest continues to stack up: Ross Hopkins / Southeast Venture submitted a signed Futbol Factory LOI for the front portion of the building after touring on 6/17, and Jon Speers / Equitable separately asked whether the listing is available, lease rate, interior photos, clear heights, and other details. Jacob needs to weigh these against Ryder/Borders and other active Wilson interest.",
       "stage": "LOI",
-      "nextStep": "Jacob to decide whether to invite Brandon/Redline to send LOI and how to prioritize that against Ryder plus other 312 Wilson Pike prospects.",
+      "nextStep": "Review Ross/Futbol Factory LOI and decide response/pricing posture; answer Jon Speers with availability/rate/details if Jacob wants to engage.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -45982,7 +45993,9 @@
         "Ross Hopkins (Southeast Venture) <rhopkins@southeastventure.com>",
         "Neal NeSmith (Mission Pet Health)",
         "Duane Roggendorff (Ojas Partners)",
-        "Devin / Redline Fitness"
+        "Devin / Redline Fitness",
+        "Ross Hopkins (Southeast Venture)",
+        "Jon Speers (Equitable Property Company)"
       ],
       "timeline": [
         {
@@ -46019,6 +46032,16 @@
           "date": "2026-06-17",
           "event": "Email from Micah Lacher: Re: Flavors of India HVAC",
           "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Inbox: Ross Hopkins / Southeast Venture submitted signed Futbol Factory LOI for the front portion of 312 Wilson Pike after touring.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Inbox: Jon Speers / Equitable asked whether 312 Wilson Pike is available, lease rate, interior photos, clear heights, and details.",
+          "type": "lead"
         },
         {
           "date": "2026-06-16",
