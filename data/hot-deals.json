@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T07:31:08.470172",
+  "lastUpdated": "2026-06-17T08:02:58.530606",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-17",
@@ -45509,6 +45509,28 @@
         "suiteCount": 45,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "dixie-village-natalie-t-crexi",
+      "name": "Natalie T. - Crexi Lead",
+      "property": "Dixie Village Shopping Center",
+      "status": "Crexi lead requested property/more information for Dixie Village in Gastonia; no business type, square footage, phone, or email provided yet.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob should reply on Crexi asking for phone/email, business type, and square footage needed.",
+      "priority": "medium",
+      "contacts": [
+        "Natalie T. (Crexi prospect)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Crexi inquiry: requested property/more information on Dixie Village in Gastonia.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-06-17"
     }
   ],
   "droppedBalls": [
