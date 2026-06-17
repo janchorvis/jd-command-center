@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T09:30:09.194673",
+  "lastUpdated": "2026-06-17T10:30:13.713733",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-17",
@@ -67,6 +67,16 @@
       "nextStep": "Jacob/Clay/Claire keep pushing drawings and hard costs before lease signature.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
+          "type": "email"
+        },
         {
           "date": "2026-06-17",
           "event": "Email from Micah Lacher: Re: Flavors of India HVAC",
@@ -3010,6 +3020,11 @@
       "priority": "medium",
       "timeline": [
         {
+          "date": "2026-06-17",
+          "event": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
+          "type": "email"
+        },
+        {
           "date": "2026-06-16",
           "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
           "type": "email"
@@ -4374,6 +4389,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
@@ -10786,6 +10806,11 @@
       "timeline": [
         {
           "date": "2026-06-17",
+          "event": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Paperless Post Email",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
           "event": "Email from Micah Lacher: Re: Flavors of India HVAC",
           "type": "email"
         },
@@ -16491,6 +16516,11 @@
       "timeline": [
         {
           "date": "2026-06-17",
+          "event": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
           "event": "Email from Micah Lacher: Re: Flavors of India HVAC",
           "type": "email"
         },
@@ -20393,6 +20423,11 @@
       "timeline": [
         {
           "date": "2026-06-17",
+          "event": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Paperless Post Email",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
           "event": "Email from Robert Cook: Martin's Center | Pell City, AL",
           "type": "email"
         },
@@ -23740,6 +23775,11 @@
         "Clay Richardson"
       ],
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Paperless Post Email",
+          "type": "email"
+        },
         {
           "date": "2026-06-17",
           "event": "Email from Wispr Flow: Update to your upcoming invoice",
@@ -46657,41 +46697,6 @@
       "urgency": "low"
     },
     {
-      "name": "Paul",
-      "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
-      "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
-      "urgency": "low"
-    },
-    {
-      "name": "Tony Grillo",
-      "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
-      "urgency": "low"
-    },
-    {
-      "name": "Shaun Andriano",
-      "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
-      "urgency": "low"
-    },
-    {
-      "name": "Ajay Secore",
-      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
-      "urgency": "low"
-    },
-    {
       "name": "Derek Tucker",
       "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
       "daysSinceContact": 1,
@@ -46905,196 +46910,231 @@
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Dawn Baker",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Justin Jeror <justin.jeror@gmail.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher <mlacher@anchorinv.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Bill Castagna",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Julia Gibson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Claire/Clare",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
       "urgency": "low"
     },
     {
       "name": "Jacob Delk",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from linda.umminger@fivestarroof.com: Free roofing quote",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
+      "urgency": "low"
+    },
+    {
+      "name": "Tony Grillo",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
+      "urgency": "low"
+    },
+    {
+      "name": "Shaun Andriano",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
+      "urgency": "low"
+    },
+    {
+      "name": "Ajay Secore",
+      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
@@ -47227,364 +47267,364 @@
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Jon Petty - jpetty@southeastventure.com",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Amy Taylor",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Amy Taylor",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Shady Azez <shadyazezz@gmail.com>",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Jon Petty <jpetty@southeastventure.com>",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Jacob Delk",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson <Robert_Richardson@tjx.com>",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano <andriano@c2-designgroup.com>",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
       "name": "Laurie Schindler",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN CHANGE OF LOCATION",
       "urgency": "low"
     },
     {
       "name": "Lauri Fowler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "David Cooke",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Abbey Gill",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Scott Myers <smyerscre2@outlook.com>",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Laurie",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Mitch",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Tom Fidler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Susan S.",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Susan Swindal / Mama Suz Fried Pies - Mamasuzfriedpies@gmail.com - 205-567-9667",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Susan Swindal / Mama Suz Fried Pies",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "David Cooke",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Lauri Fowler",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Brent Braden",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Brent Braden",
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
@@ -47661,98 +47701,98 @@
       "name": "Joe Wesley",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Jon Petty",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Shady Azez",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "David S.",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Richard Jones",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Thomas Cashion",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Thomas Cashion",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Rawn Turner",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Rawn Turner - rawn.turner@valorhealthcare.com - 972.435.4808",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Rawn Turner / Valor Healthcare",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "James Rainer",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": " — McMinnville Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "lastAction": "Email from Tim Vickers: Important Security Alert: Please Disregard Suspicious Pa",
       "urgency": "low"
     },
     {
