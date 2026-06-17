@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T07:15:56.094530",
+  "lastUpdated": "2026-06-17T07:16:01.658723",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-17",
@@ -62,6 +62,21 @@
       "nextStep": "Jacob/Clay/Claire keep pushing drawings and hard costs before lease signature.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds new title: apartment de",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: mcminnville leasing pylon panels",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
@@ -2961,6 +2976,11 @@
       "timeline": [
         {
           "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
           "event": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
           "type": "email"
         },
@@ -4314,6 +4334,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (08434)",
@@ -6171,6 +6196,11 @@
       "nextStep": "Jacob review with ownership and decide whether another Mexican bakery use is acceptable at Dixie Village.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in Gastonia",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from Crexi: Isabella G. opened offering memorandum on 2433 Buena Vista Pike in Nashville",
@@ -8875,6 +8905,21 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-06-17",
+          "event": "Email from STR: 50 days until Hotel Conference",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. Skills",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Google Workspace Alerts: Alert: Spike in user-reported spam",
+          "type": "email"
+        },
+        {
           "date": "2026-06-16",
           "event": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
           "type": "email"
@@ -10674,6 +10719,61 @@
       "nextStep": "Draft UPS lease from Maple Row form/redline and put the 6/19 Aldi visit on Micah/Jacob calendars.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Email from Wispr Flow: Update to your upcoming invoice",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Chain Store Age: DayBreaker: Yum! Brands in $2.7B Pizza Hut deals; Nordstrom teams with Vera Brad",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from CRE Daily: The Federal Selloff's $26B Problem",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in Gastonia",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Hank Davis: Clean 15-Yr Absolute NNN – No Landlord Responsibilities | Dutch Bros",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from CoStar Alerts: CoStar Daily Alert for June 17, 2026",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. Skills",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Hank Davis: FOR SALE | Dollar Tree in Ohio County Seat",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Kelsey Cornillie, Publisher: Luxury condo project scrapped in Germantown",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: mcminnville leasing pylon panels",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
@@ -13881,6 +13981,16 @@
       "timeline": [
         {
           "date": "2026-06-16",
+          "event": "Email from Jacob Delk: mcminnville leasing pylon panels",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
           "event": "Email from Crexi: Isabella G. opened offering memorandum on 2433 Buena Vista Pike in Nashville",
           "type": "email"
         },
@@ -14710,6 +14820,16 @@
       "nextStep": "Send comments to Ashby, get on the phone Wed/Thu/Fri, turn one more draft, and pressure the tenant to sign.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: mcminnville leasing pylon panels",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from Ashby Scott: FW: Hamilton, OH | REA Discussion",
@@ -16274,6 +16394,11 @@
       "nextStep": "Monitor fee/payment and GC pickup/start timing.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from Micah Lacher: Re: Flavors of India HVAC",
@@ -18233,6 +18358,16 @@
       "timeline": [
         {
           "date": "2026-06-16",
+          "event": "Email from Jacob Delk: mcminnville leasing pylon panels",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
           "event": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (08434)",
           "type": "email"
         },
@@ -18974,6 +19109,11 @@
       "contacts": [],
       "timeline": [
         {
+          "date": "2026-06-17",
+          "event": "Email from Chain Store Age: DayBreaker: Yum! Brands in $2.7B Pizza Hut deals; Nordstrom teams with Vera Brad",
+          "type": "email"
+        },
+        {
           "date": "2026-06-15",
           "event": "Email from The Tech Buzz: SignalPulse: Your Weekly Signals, Startups & Deals To Watch Alert:",
           "type": "email"
@@ -19243,6 +19383,16 @@
         "Peter Adams (Treverse LLC dba A-Stock)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: mcminnville leasing pylon panels",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (08434)",
@@ -20116,6 +20266,46 @@
         "Brent Braden (Upstream Rehabilitation)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Email from Wispr Flow: Update to your upcoming invoice",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from CRE Daily: The Federal Selloff's $26B Problem",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in Gastonia",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Hank Davis: Clean 15-Yr Absolute NNN – No Landlord Responsibilities | Dutch Bros",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from CoStar Alerts: CoStar Daily Alert for June 17, 2026",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. Skills",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Hank Davis: FOR SALE | Dollar Tree in Ohio County Seat",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Kelsey Cornillie, Publisher: Luxury condo project scrapped in Germantown",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from MyMMI: Inflation and Employment Outlook | Market Update",
@@ -22097,6 +22287,16 @@
       "timeline": [
         {
           "date": "2026-06-16",
+          "event": "Email from Jacob Delk: mcminnville leasing pylon panels",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
           "event": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
           "type": "email"
         },
@@ -23390,6 +23590,56 @@
         "Clay Richardson"
       ],
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Email from Wispr Flow: Update to your upcoming invoice",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from CRE Daily: The Federal Selloff's $26B Problem",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in Gastonia",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Hank Davis: Clean 15-Yr Absolute NNN – No Landlord Responsibilities | Dutch Bros",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from CoStar Alerts: CoStar Daily Alert for June 17, 2026",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. Skills",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Hank Davis: FOR SALE | Dollar Tree in Ohio County Seat",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Kelsey Cornillie, Publisher: Luxury condo project scrapped in Germantown",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: mcminnville leasing pylon panels",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
@@ -25526,6 +25776,16 @@
       "timeline": [
         {
           "date": "2026-06-16",
+          "event": "Email from Jacob Delk: mcminnville leasing pylon panels",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
           "event": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
           "type": "email"
         },
@@ -27537,6 +27797,21 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-06-17",
+          "event": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. Skills",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: mcminnville leasing pylon panels",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
+        {
           "date": "2026-06-16",
           "event": "Email from Micah Lacher: Re: Flavors of India HVAC",
           "type": "email"
@@ -27957,6 +28232,11 @@
       "nextStep": "No Jacob action unless access fails; Mathison confirmed any open day from 11-5 works and Jacob spoke with James Kovanis.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from Chris Caldwell: 3.02 AC FOR SALE OR LEASE | Murfreesboro, TN | Medical Center Parkway",
@@ -28433,6 +28713,16 @@
       "nextStep": "Wait for official Sally Beauty response and keep pressure toward final LOI/lease.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: mcminnville leasing pylon panels",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from Micah Lacher: Re: Flavors of India HVAC",
@@ -29309,6 +29599,16 @@
       "timeline": [
         {
           "date": "2026-06-16",
+          "event": "Email from Jacob Delk: mcminnville leasing pylon panels",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
           "event": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (08434)",
           "type": "email"
         },
@@ -29911,6 +30211,16 @@
       "nextStep": "Monitor. Positive response but demographics/density concern remains.",
       "priority": "low",
       "timeline": [
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: mcminnville leasing pylon panels",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (08434)",
@@ -31691,6 +32001,26 @@
       ],
       "timeline": [
         {
+          "date": "2026-06-17",
+          "event": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds new title: apartment de",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Hank Davis: Clean 15-Yr Absolute NNN – No Landlord Responsibilities | Dutch Bros",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: mcminnville leasing pylon panels",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
+        {
           "date": "2026-06-16",
           "event": "Email from Micah Lacher: Re: Flavors of India HVAC",
           "type": "email"
@@ -32902,6 +33232,16 @@
       "timeline": [
         {
           "date": "2026-06-16",
+          "event": "Email from Jacob Delk: mcminnville leasing pylon panels",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
           "event": "Email from Micah Lacher: Re: Flavors of India HVAC",
           "type": "email"
         },
@@ -33434,6 +33774,26 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds new title: apartment de",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: mcminnville leasing pylon panels",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Google Workspace Alerts: Alert: Spike in user-reported spam",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from Ashley Cusker: 312 Wilson Pike",
@@ -34886,6 +35246,16 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Email from NASHtoday: 🎬 Nashville's Toy Story connection + Burger Up is closing",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Google Workspace Alerts: Alert: Spike in user-reported spam",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from Ashley Cusker: 312 Wilson Pike",
@@ -36683,6 +37053,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. Skills",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
@@ -39499,6 +39874,16 @@
       "timeline": [
         {
           "date": "2026-06-16",
+          "event": "Email from Jacob Delk: mcminnville leasing pylon panels",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
           "event": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (08434)",
           "type": "email"
         },
@@ -39999,6 +40384,21 @@
         "Ryan Romes"
       ],
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in Gastonia",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: mcminnville leasing pylon panels",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from Micah Lacher: Re: Flavors of India HVAC",
@@ -41872,6 +42272,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-06-17",
+          "event": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in Gastonia",
+          "type": "email"
+        },
+        {
           "date": "2026-06-16",
           "event": "Email from Chris Caldwell: 3.02 AC FOR SALE OR LEASE | Murfreesboro, TN | Medical Center Parkway",
           "type": "email"
@@ -42417,6 +42822,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-06-17",
+          "event": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in Gastonia",
+          "type": "email"
+        },
+        {
           "date": "2026-06-16",
           "event": "Email from Chris Caldwell: 3.02 AC FOR SALE OR LEASE | Murfreesboro, TN | Medical Center Parkway",
           "type": "email"
@@ -42818,6 +43228,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-06-17",
+          "event": "Email from NASHtoday: 🎬 Nashville's Toy Story connection + Burger Up is closing",
+          "type": "email"
+        },
+        {
           "date": "2026-06-16",
           "event": "Email from Justin Schad, CCIM: SEEKING SITES IN TENNESSEE | America's Thrift Stores",
           "type": "email"
@@ -42995,6 +43410,16 @@
         "Mathison Ingham"
       ],
       "timeline": [
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: mcminnville leasing pylon panels",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from Micah Lacher: Re: Flavors of India HVAC",
@@ -43459,6 +43884,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-06-17",
+          "event": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in Gastonia",
+          "type": "email"
+        },
+        {
           "date": "2026-06-16",
           "event": "Email from Chris Caldwell: 3.02 AC FOR SALE OR LEASE | Murfreesboro, TN | Medical Center Parkway",
           "type": "email"
@@ -43702,6 +44132,16 @@
         "Jacob Delk (Anchor)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: mcminnville leasing pylon panels",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from Micah Lacher: Re: Flavors of India HVAC",
@@ -44182,6 +44622,11 @@
       "timeline": [
         {
           "date": "2026-06-16",
+          "event": "Email from Google Workspace Alerts: Alert: Spike in user-reported spam",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
           "event": "Email from Ashley Cusker: 312 Wilson Pike",
           "type": "email"
         },
@@ -44540,6 +44985,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-06-17",
+          "event": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in Gastonia",
+          "type": "email"
+        },
+        {
           "date": "2026-06-16",
           "event": "Email from Chris Caldwell: 3.02 AC FOR SALE OR LEASE | Murfreesboro, TN | Medical Center Parkway",
           "type": "email"
@@ -44653,6 +45103,11 @@
         "Girish Kumar / Flavors of India <flavorsofindiatn@gmail.com>"
       ],
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. Skills",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from Micah Lacher: Re: Flavors of India HVAC",
@@ -44810,6 +45265,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-06-17",
+          "event": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in Gastonia",
+          "type": "email"
+        },
+        {
           "date": "2026-06-16",
           "event": "Email from Chris Caldwell: 3.02 AC FOR SALE OR LEASE | Murfreesboro, TN | Medical Center Parkway",
           "type": "email"
@@ -44951,6 +45411,16 @@
         "Shana Moore (unbreakable_firelight@outlook.com, 931-928-2076)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: mcminnville leasing pylon panels",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-16",
+          "event": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
+          "type": "email"
+        },
         {
           "date": "2026-06-16",
           "event": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (08434)",
@@ -45672,2150 +46142,2150 @@
     {
       "name": "Parker Brennan / Scenthound",
       "deal": "Scenthound — Atlanta Hwy",
-      "daysSinceContact": 32,
+      "daysSinceContact": 33,
       "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
       "urgency": "high"
     },
     {
       "name": "Pesach Gewirtz",
       "deal": "Infinite Equity Capital - 730 — 730",
-      "daysSinceContact": 11,
+      "daysSinceContact": 12,
       "lastAction": "Email from Colliers Net Lease Capital Markets: JUST LISTED: Thermo Fisher Scient",
       "urgency": "low"
     },
     {
       "name": "Kevin Moss",
       "deal": "Royal Bazaar Indian — Parma Heights",
-      "daysSinceContact": 5,
+      "daysSinceContact": 6,
       "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outp",
       "urgency": "low"
     },
     {
       "name": "Royal Bazaar Indian",
       "deal": "Royal Bazaar Indian — Parma Heights",
-      "daysSinceContact": 5,
+      "daysSinceContact": 6,
       "lastAction": "Email from Porthaven Partners: Just Listed: New Dutch Bros 5.75% Cap Rate | Outp",
       "urgency": "low"
     },
     {
       "name": "Jordyn Stallings",
       "deal": "Jordyn Stallings - Daycare Inquiry — 2512 Gallatin Avenue",
-      "daysSinceContact": 4,
+      "daysSinceContact": 5,
       "lastAction": "Email from lwagster@stridecre.com: Still available: 211 29th Avenue N + 7050 Cha",
       "urgency": "low"
     },
     {
       "name": "Paul",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Joseph Landry",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Vayda Good",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Desiree Warren",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Brian Connell",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Desiree Warren",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Brian Connell",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Manuel Veliz",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Manuel Veliz",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Tim Carlo",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Frank Soranno",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Ryan Romes",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Desiree Warren",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Dawn Baker",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Justin Jeror <justin.jeror@gmail.com>",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher <mlacher@anchorinv.com>",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Josh Conroy",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Robert Richardson",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Bill Castagna",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Julia Gibson",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Claire/Clare",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Jacob Delk",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
-      "urgency": "low"
-    },
-    {
-      "name": "Paul",
-      "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Tony Grillo",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (084",
-      "urgency": "low"
-    },
-    {
-      "name": "Chad Vang",
-      "deal": "Chad Vang - Laundromat — Dixie Village",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Isabella G. opened offering memorandum on 2433 Buena Vista Pik",
-      "urgency": "low"
-    },
-    {
-      "name": "Chad Vang",
-      "deal": "Chad Vang - Laundromat — Dixie Village",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Isabella G. opened offering memorandum on 2433 Buena Vista Pik",
-      "urgency": "low"
-    },
-    {
-      "name": "Belky Rodriguez — 704-605-9280 — mibella1988@gmail.com",
-      "deal": "Chad Vang - Laundromat — Dixie Village",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Isabella G. opened offering memorandum on 2433 Buena Vista Pik",
-      "urgency": "low"
-    },
-    {
-      "name": "Elie Najar",
-      "deal": "Chad Vang - Laundromat — Dixie Village",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Isabella G. opened offering memorandum on 2433 Buena Vista Pik",
-      "urgency": "low"
-    },
-    {
-      "name": "David W.",
-      "deal": "Chad Vang - Laundromat — Dixie Village",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Isabella G. opened offering memorandum on 2433 Buena Vista Pik",
-      "urgency": "low"
-    },
-    {
-      "name": "David W. - Crexi inquiry",
-      "deal": "Chad Vang - Laundromat — Dixie Village",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Isabella G. opened offering memorandum on 2433 Buena Vista Pik",
-      "urgency": "low"
-    },
-    {
-      "name": "Juany Almanza",
-      "deal": "Chad Vang - Laundromat — Dixie Village",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Isabella G. opened offering memorandum on 2433 Buena Vista Pik",
-      "urgency": "low"
-    },
-    {
-      "name": "Juany Almanza",
-      "deal": "Chad Vang - Laundromat — Dixie Village",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Isabella G. opened offering memorandum on 2433 Buena Vista Pik",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Derek Tucker",
       "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
       "urgency": "low"
     },
     {
       "name": "Carole",
       "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
       "urgency": "low"
     },
     {
       "name": "Kurt Wilson",
       "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
       "urgency": "low"
     },
     {
       "name": "Kyle Lindsey",
       "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
       "urgency": "low"
     },
     {
       "name": "Kurt Wilson",
       "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
       "urgency": "low"
     },
     {
       "name": "Kyle Lindsey",
       "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Lexy & Austin",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
       "urgency": "low"
     },
     {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from AlphaMap Support: Request #763 started via Chat | tenant finder not w",
       "urgency": "low"
     },
     {
       "name": "Dwaine High",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from AlphaMap Support: Request #763 started via Chat | tenant finder not w",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty - jpetty@southeastventure.com",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Taylor",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Taylor",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Shady Azez <shadyazezz@gmail.com>",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty <jpetty@southeastventure.com>",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "David S.",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Jacob Delk",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
       "urgency": "low"
     },
     {
       "name": "Kevin True",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Isabella G. opened offering memorandum on 2433 Buena Vista Pik",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Bell",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Isabella G. opened offering memorandum on 2433 Buena Vista Pik",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Wingstop franchisee/broker",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Isabella G. opened offering memorandum on 2433 Buena Vista Pik",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Kevin Trujillo",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Isabella G. opened offering memorandum on 2433 Buena Vista Pik",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Sarah Langan",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Isabella G. opened offering memorandum on 2433 Buena Vista Pik",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Kevin Trujillo",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Isabella G. opened offering memorandum on 2433 Buena Vista Pik",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "James Lanoux",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Crexi: Isabella G. opened offering memorandum on 2433 Buena Vista Pik",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashby Scott: FW: Hamilton, OH | REA Discussion",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson <Robert_Richardson@tjx.com>",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano <andriano@c2-designgroup.com>",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Laurie Schindler",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Spencer",
       "deal": "Royal Furniture — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (084",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Sheldon",
       "deal": "Royal Furniture — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (084",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Peter Adams",
       "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (084",
-      "urgency": "low"
-    },
-    {
-      "name": "Lauri Fowler",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from MyMMI: Inflation and Employment Outlook | Market Update",
-      "urgency": "low"
-    },
-    {
-      "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from MyMMI: Inflation and Employment Outlook | Market Update",
-      "urgency": "low"
-    },
-    {
-      "name": "David Cooke",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from MyMMI: Inflation and Employment Outlook | Market Update",
-      "urgency": "low"
-    },
-    {
-      "name": "Abbey Gill",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from MyMMI: Inflation and Employment Outlook | Market Update",
-      "urgency": "low"
-    },
-    {
-      "name": "Scott Myers <smyerscre2@outlook.com>",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from MyMMI: Inflation and Employment Outlook | Market Update",
-      "urgency": "low"
-    },
-    {
-      "name": "Laurie",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from MyMMI: Inflation and Employment Outlook | Market Update",
-      "urgency": "low"
-    },
-    {
-      "name": "Mitch",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from MyMMI: Inflation and Employment Outlook | Market Update",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Fidler",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from MyMMI: Inflation and Employment Outlook | Market Update",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Fidler",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from MyMMI: Inflation and Employment Outlook | Market Update",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Fidler",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from MyMMI: Inflation and Employment Outlook | Market Update",
-      "urgency": "low"
-    },
-    {
-      "name": "Susan S.",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from MyMMI: Inflation and Employment Outlook | Market Update",
-      "urgency": "low"
-    },
-    {
-      "name": "Susan Swindal / Mama Suz Fried Pies - Mamasuzfriedpies@gmail.com - 205-567-9667",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from MyMMI: Inflation and Employment Outlook | Market Update",
-      "urgency": "low"
-    },
-    {
-      "name": "Susan Swindal / Mama Suz Fried Pies",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from MyMMI: Inflation and Employment Outlook | Market Update",
-      "urgency": "low"
-    },
-    {
-      "name": "David Cooke",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from MyMMI: Inflation and Employment Outlook | Market Update",
-      "urgency": "low"
-    },
-    {
-      "name": "Lauri Fowler",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from MyMMI: Inflation and Employment Outlook | Market Update",
-      "urgency": "low"
-    },
-    {
-      "name": "Brent Braden",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from MyMMI: Inflation and Employment Outlook | Market Update",
-      "urgency": "low"
-    },
-    {
-      "name": "Brent Braden",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from MyMMI: Inflation and Employment Outlook | Market Update",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Carmen Drake",
       "deal": " — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "James Stocker",
       "deal": " — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Carmine DiLucente",
       "deal": " — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Stan Bobowski",
       "deal": " — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Paul Takacs",
       "deal": " — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Andrew Goodman",
       "deal": " — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Karen D'Antonio",
       "deal": " — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": " — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Karen D'Antonio",
       "deal": " — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Joe Wesley",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Shady Azez",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "David S.",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "David S.",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Richard Jones",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Thomas Cashion",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Thomas Cashion",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Rawn Turner",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Rawn Turner - rawn.turner@valorhealthcare.com - 972.435.4808",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Rawn Turner / Valor Healthcare",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "James Rainer",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "ala h.",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti <jvalenti@centenretail.com>",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "EJ",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Tim Mehta",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Tim Mehta",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Punit Patel / Great Greek corporate",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Laurie",
-      "deal": " — Evansville Big Lots",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Rob Henson - Easterseals - 812-202-9384",
-      "deal": " — Evansville Big Lots",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Laurie Seals - Easterseals",
-      "deal": " — Evansville Big Lots",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Robert Henson",
-      "deal": " — Evansville Big Lots",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": " — Evansville Big Lots",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Jacob Delk",
-      "deal": " — Evansville Big Lots",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "James Kovanis",
       "deal": " — River Parkway Plaza - Sevierville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Chris Caldwell: 3.02 AC FOR SALE OR LEASE | Murfreesboro, TN | Medica",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Matthew Hansen",
       "deal": " — River Parkway Plaza - Sevierville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Chris Caldwell: 3.02 AC FOR SALE OR LEASE | Murfreesboro, TN | Medica",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Sally Beauty / Cosmo broker",
       "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Jacob Delk",
       "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
       "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from KWC Assistant: Confirming Availability - 312 Wilson Pike Cir",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Bob McAuliff",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Bob McAuliff",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Lisa Sweeney",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Wm. Coey Vierling <oinkysurveying@gmail.com>",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Bob McAuliff <BMcAuliff@taftlaw.com>",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott <ascott@evanspetree.com>",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Stan Bobowski",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Stan Bobowski",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Karen D'Antonio",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Dutch Bros counsel",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Karen D'Antonio",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Jacob Delk",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Dutch Bros",
-      "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
       "urgency": "low"
     },
     {
       "name": "Amin Lakhani - smartledtn@gmail.com - 901-907-2646",
       "deal": "Smart LED TN LLC — Highland - 2151 N Highland Ave, Jackson TN",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Amin Lakhani",
       "deal": "Smart LED TN LLC — Highland - 2151 N Highland Ave, Jackson TN",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Carson Knight",
       "deal": "Smart LED TN LLC — Highland - 2151 N Highland Ave, Jackson TN",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Smart LED TN LLC — Highland - 2151 N Highland Ave, Jackson TN",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Jacob Delk",
       "deal": "Smart LED TN LLC — Highland - 2151 N Highland Ave, Jackson TN",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Paul Gold",
       "deal": "Bealls — Shelbyville former Big Lots",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Big Lots Building - 1840 E Michigan Rd.",
       "urgency": "low"
     },
     {
       "name": "Jeffrey Lautenbach",
       "deal": "Bealls — Shelbyville former Big Lots",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: Big Lots Building - 1840 E Michigan Rd.",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Shelby Hall",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Phillip Kemp",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Kemp",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Matty",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashley Marshall",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Bill Adair",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Phillip Kemp",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Ross Smith",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Devin McClendon",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Ben Claybaker",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Brandon Hoop",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Mary Winston Cramer",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Maddison Sickels",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Charlie Gibson",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Todd Petrowski",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Kemp",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Brandon Hoop",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Jacob Delk",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Julie Robbins",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Michael Dunn",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Cole @ DR Horton",
-      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
-      "urgency": "low"
-    },
-    {
-      "name": "Charles Hawkins",
-      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Brether group",
-      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Jordyn Stallings",
-      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Rebecca Miller",
-      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Lexy Burke",
-      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Dylan Bennett",
-      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Lexy Burke",
-      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Dylan Bennett",
-      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
       "urgency": "low"
     },
     {
       "name": "Josh Levy",
       "deal": "Live Nation — Emerson Hall",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Neal NeSmith: 312 Wilson Pike Cir <> National Credit Veterinary Speci",
       "urgency": "low"
     },
     {
       "name": "Keystone Fireworks",
       "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (084",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Jeb Thompson",
       "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (084",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Jeb Thompson",
       "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (084",
-      "urgency": "low"
-    },
-    {
-      "name": "Juliana Fernandez",
-      "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Carson Knight",
-      "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Ryan Romes",
-      "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Madison Idell - madison.idell@avisonyoung.com - 316-650-4193",
       "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from NASHtoday: Fourth of July lineup + Alan Jackson's new venue",
       "urgency": "low"
     },
     {
       "name": "Madison Idell - Hibbett/JD Sports/DTLR broker",
       "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from NASHtoday: Fourth of July lineup + Alan Jackson's new venue",
       "urgency": "low"
     },
     {
       "name": "Madison Idell",
       "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from NASHtoday: Fourth of July lineup + Alan Jackson's new venue",
       "urgency": "low"
     },
     {
       "name": "Brande Benson",
       "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from NASHtoday: Fourth of July lineup + Alan Jackson's new venue",
       "urgency": "low"
     },
     {
       "name": "Patrice M.",
       "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from NASHtoday: Fourth of July lineup + Alan Jackson's new venue",
       "urgency": "low"
     },
     {
       "name": "Tom Gaghan",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
       "urgency": "low"
     },
     {
       "name": "Tom Gaghan - 440-263-9792 - tom@clevelandfurniturebank.org",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
       "urgency": "low"
     },
     {
       "name": "Tom Gaghan",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
       "urgency": "low"
     },
     {
       "name": "Mathison Ingham",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
       "urgency": "low"
     },
     {
       "name": "Tom Gaghan",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
       "urgency": "low"
     },
     {
       "name": "Clay",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
       "urgency": "low"
     },
     {
       "name": "Richard Jones",
       "deal": "Charter School 30K+ SF Requirement — TBD",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Richard Jones: Tiny Town Rd. outparcel in Clarksville for lease by th",
       "urgency": "low"
     },
     {
       "name": "Daynon Kirby",
       "deal": "Charter School 30K+ SF Requirement — TBD",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Richard Jones: Tiny Town Rd. outparcel in Clarksville for lease by th",
-      "urgency": "low"
-    },
-    {
-      "name": "Juany Almanza",
-      "deal": "Juany Almanza — Dixie Village Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Chris Caldwell: 3.02 AC FOR SALE OR LEASE | Murfreesboro, TN | Medica",
       "urgency": "low"
     },
     {
       "name": "Jesse Warhurst <jessewarhurst@yahoo.com>",
       "deal": "Jesse Warhurst - Building 16 inquiry — Franklin Center / Russellville, AL",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Chris Caldwell: 3.02 AC FOR SALE OR LEASE | Murfreesboro, TN | Medica",
-      "urgency": "low"
-    },
-    {
-      "name": "Marlon Rodriguez",
-      "deal": "Marlon Rodriguez — Dixie Village Shopping Center",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Chris Caldwell: 3.02 AC FOR SALE OR LEASE | Murfreesboro, TN | Medica",
       "urgency": "low"
     },
     {
       "name": "Omar Hidais",
       "deal": "Omar Hidais — Pea Ridge Shopping Center",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Chris Caldwell: 3.02 AC FOR SALE OR LEASE | Murfreesboro, TN | Medica",
       "urgency": "low"
     },
     {
       "name": "Omar Hidais",
       "deal": "Omar Hidais — Pea Ridge Shopping Center",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Chris Caldwell: 3.02 AC FOR SALE OR LEASE | Murfreesboro, TN | Medica",
-      "urgency": "low"
-    },
-    {
-      "name": "Justin Rains",
-      "deal": "Factory Connection — Russellville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Justin Schad, CCIM: SEEKING SITES IN TENNESSEE | America's Thrift Sto",
       "urgency": "low"
     },
     {
       "name": "Ryan Jordan",
       "deal": "Ryan Jordan / Former Big Lots — Shelbyville former Big Lots",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Tina Charnitsky",
       "deal": "Spirit Halloween — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Steve Stapleton",
       "deal": "Spirit Halloween — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Steve Stapleton",
       "deal": "Spirit Halloween — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Tina Charnitsky",
       "deal": "Spirit Halloween — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Spirit Halloween — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Jacob Delk",
       "deal": "Spirit Halloween — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Mathison Ingham",
       "deal": "Spirit Halloween — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Carson Knight",
       "deal": "Smart LED TN LLC — Highland Ave Jackson TN",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from NASHtoday: Fourth of July lineup + Alan Jackson's new venue",
       "urgency": "low"
     },
     {
       "name": "Amin Lakhani / Smart LED TN LLC",
       "deal": "Smart LED TN LLC — Highland Ave Jackson TN",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from NASHtoday: Fourth of July lineup + Alan Jackson's new venue",
       "urgency": "low"
     },
     {
-      "name": "Daran Bynum <daranbynum@gmail.com> | 336-761-4449",
-      "deal": "Daran Bynum - Dispensary — Dixie Village Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Chris Caldwell: 3.02 AC FOR SALE OR LEASE | Murfreesboro, TN | Medica",
+      "name": "Micah Lacher",
+      "deal": "Swig — Sevierville site",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Swig — Sevierville site",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Swig — Sevierville site",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Jacob Delk",
       "deal": "Swig — Sevierville site",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
       "urgency": "low"
     },
     {
       "name": "Jennifer Stewart",
       "deal": "Sparkle Dog Grooming / Pigtails & Crewcuts — Maple Row Shopping Center",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Chris Caldwell: 3.02 AC FOR SALE OR LEASE | Murfreesboro, TN | Medica",
       "urgency": "low"
     },
     {
       "name": "Ryder Ballard",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Google Workspace Alerts: Alert: Spike in user-reported spam",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Google Workspace Alerts: Alert: Spike in user-reported spam",
       "urgency": "low"
     },
     {
       "name": "Adam Heston",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Google Workspace Alerts: Alert: Spike in user-reported spam",
       "urgency": "low"
     },
     {
       "name": "Brandon Hoop",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Google Workspace Alerts: Alert: Spike in user-reported spam",
       "urgency": "low"
     },
     {
       "name": "Redline Fitness",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Google Workspace Alerts: Alert: Spike in user-reported spam",
       "urgency": "low"
     },
     {
       "name": "Jerry / KWC Assistant <assistcynthialeekwc@gmail.com>",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Google Workspace Alerts: Alert: Spike in user-reported spam",
       "urgency": "low"
     },
     {
       "name": "Chantel Martinez <chantelmartinez@kw.com>",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Google Workspace Alerts: Alert: Spike in user-reported spam",
       "urgency": "low"
     },
     {
       "name": "KWC Assistant <assistcynthialeekwc@gmail.com>",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Google Workspace Alerts: Alert: Spike in user-reported spam",
       "urgency": "low"
     },
     {
       "name": "Ryder Ballard <rballard@charleshawkinsco.com>",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Google Workspace Alerts: Alert: Spike in user-reported spam",
       "urgency": "low"
     },
     {
       "name": "KWC Assistant / Skiptown",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Google Workspace Alerts: Alert: Spike in user-reported spam",
       "urgency": "low"
     },
     {
       "name": "KWC Assistant / Cynthia Lee KWC",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Google Workspace Alerts: Alert: Spike in user-reported spam",
       "urgency": "low"
     },
     {
       "name": "Skiptown",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Google Workspace Alerts: Alert: Spike in user-reported spam",
       "urgency": "low"
     },
     {
       "name": "Ashley Cusker <ashleycusker@katzretail.com>",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Google Workspace Alerts: Alert: Spike in user-reported spam",
       "urgency": "low"
     },
     {
       "name": "Ross Hopkins <rhopkins@southeastventure.com>",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Google Workspace Alerts: Alert: Spike in user-reported spam",
       "urgency": "low"
     },
     {
       "name": "Neal NeSmith",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Google Workspace Alerts: Alert: Spike in user-reported spam",
       "urgency": "low"
     },
     {
       "name": "Duane Roggendorff",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Google Workspace Alerts: Alert: Spike in user-reported spam",
       "urgency": "low"
     },
     {
       "name": "Devin / Redline Fitness",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Google Workspace Alerts: Alert: Spike in user-reported spam",
+      "urgency": "low"
+    },
+    {
+      "name": "Shana Moore",
+      "deal": "Shana Moore - LoopNet Lead — McMinnville Plaza",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: mcminnville leasing pylon panels",
+      "urgency": "low"
+    },
+    {
+      "name": "Paul",
+      "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Ashley Cusker: 312 Wilson Pike",
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Joseph Landry",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Vayda Good",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Desiree Warren",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Brian Connell",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Desiree Warren",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Brian Connell",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Manuel Veliz",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Manuel Veliz",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Tim Carlo",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Frank Soranno",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Ryan Romes",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Desiree Warren",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Dawn Baker",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Justin Jeror <justin.jeror@gmail.com>",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher <mlacher@anchorinv.com>",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Josh Conroy",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Robert Richardson",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Bill Castagna",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Julia Gibson",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Claire/Clare",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Jacob Delk",
+      "deal": "Five Below — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Chad Vang",
+      "deal": "Chad Vang - Laundromat — Dixie Village",
+      "daysSinceContact": 0,
+      "lastAction": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in ",
+      "urgency": "low"
+    },
+    {
+      "name": "Chad Vang",
+      "deal": "Chad Vang - Laundromat — Dixie Village",
+      "daysSinceContact": 0,
+      "lastAction": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in ",
+      "urgency": "low"
+    },
+    {
+      "name": "Belky Rodriguez — 704-605-9280 — mibella1988@gmail.com",
+      "deal": "Chad Vang - Laundromat — Dixie Village",
+      "daysSinceContact": 0,
+      "lastAction": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in ",
+      "urgency": "low"
+    },
+    {
+      "name": "Elie Najar",
+      "deal": "Chad Vang - Laundromat — Dixie Village",
+      "daysSinceContact": 0,
+      "lastAction": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in ",
+      "urgency": "low"
+    },
+    {
+      "name": "David W.",
+      "deal": "Chad Vang - Laundromat — Dixie Village",
+      "daysSinceContact": 0,
+      "lastAction": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in ",
+      "urgency": "low"
+    },
+    {
+      "name": "David W. - Crexi inquiry",
+      "deal": "Chad Vang - Laundromat — Dixie Village",
+      "daysSinceContact": 0,
+      "lastAction": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in ",
+      "urgency": "low"
+    },
+    {
+      "name": "Juany Almanza",
+      "deal": "Chad Vang - Laundromat — Dixie Village",
+      "daysSinceContact": 0,
+      "lastAction": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in ",
+      "urgency": "low"
+    },
+    {
+      "name": "Juany Almanza",
+      "deal": "Chad Vang - Laundromat — Dixie Village",
+      "daysSinceContact": 0,
+      "lastAction": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in ",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from STR: 50 days until Hotel Conference",
+      "urgency": "low"
+    },
+    {
+      "name": "Lexy & Austin",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from STR: 50 days until Hotel Conference",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from STR: 50 days until Hotel Conference",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from STR: 50 days until Hotel Conference",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty - jpetty@southeastventure.com",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Taylor",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Taylor",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Shady Azez <shadyazezz@gmail.com>",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty <jpetty@southeastventure.com>",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "David S.",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Jacob Delk",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Lauri Fowler",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "David Cooke",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Abbey Gill",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Scott Myers <smyerscre2@outlook.com>",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Laurie",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Mitch",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Fidler",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Fidler",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Fidler",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Susan S.",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Susan Swindal / Mama Suz Fried Pies - Mamasuzfriedpies@gmail.com - 205-567-9667",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Susan Swindal / Mama Suz Fried Pies",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "David Cooke",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Lauri Fowler",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Brent Braden",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Brent Braden",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Joe Wesley",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Shady Azez",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "David S.",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "David S.",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Richard Jones",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Thomas Cashion",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Thomas Cashion",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Rawn Turner",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Rawn Turner - rawn.turner@valorhealthcare.com - 972.435.4808",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Rawn Turner / Valor Healthcare",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "James Rainer",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Wispr Flow: Update to your upcoming invoice",
+      "urgency": "low"
+    },
+    {
+      "name": "Laurie",
+      "deal": " — Evansville Big Lots",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. ",
+      "urgency": "low"
+    },
+    {
+      "name": "Rob Henson - Easterseals - 812-202-9384",
+      "deal": " — Evansville Big Lots",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. ",
+      "urgency": "low"
+    },
+    {
+      "name": "Laurie Seals - Easterseals",
+      "deal": " — Evansville Big Lots",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. ",
+      "urgency": "low"
+    },
+    {
+      "name": "Robert Henson",
+      "deal": " — Evansville Big Lots",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. ",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": " — Evansville Big Lots",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. ",
+      "urgency": "low"
+    },
+    {
+      "name": "Jacob Delk",
+      "deal": " — Evansville Big Lots",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. ",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Bob McAuliff",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Bob McAuliff",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Lisa Sweeney",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Wm. Coey Vierling <oinkysurveying@gmail.com>",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Bob McAuliff <BMcAuliff@taftlaw.com>",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott <ascott@evanspetree.com>",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Stan Bobowski",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Stan Bobowski",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Karen D'Antonio",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Dutch Bros counsel",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Karen D'Antonio",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Jacob Delk",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Dutch Bros",
+      "deal": "Hamilton Title Objection — Hamilton, OH",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Shelby Hall",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Phillip Kemp",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Kemp",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Matty",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashley Marshall",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Bill Adair",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Phillip Kemp",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Ross Smith",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Devin McClendon",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Ben Claybaker",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Brandon Hoop",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Mary Winston Cramer",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Maddison Sickels",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Charlie Gibson",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Todd Petrowski",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Kemp",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Brandon Hoop",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Jacob Delk",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CoStar News: CoStar Today: Billionaire money manager Ken Griffin adds",
+      "urgency": "low"
+    },
+    {
+      "name": "Julie Robbins",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NASHtoday: 🎬 Nashville's Toy Story connection + Burger Up is closing",
+      "urgency": "low"
+    },
+    {
+      "name": "Michael Dunn",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NASHtoday: 🎬 Nashville's Toy Story connection + Burger Up is closing",
+      "urgency": "low"
+    },
+    {
+      "name": "Cole @ DR Horton",
+      "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NASHtoday: 🎬 Nashville's Toy Story connection + Burger Up is closing",
+      "urgency": "low"
+    },
+    {
+      "name": "Charles Hawkins",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. ",
+      "urgency": "low"
+    },
+    {
+      "name": "Brether group",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. ",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. ",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. ",
+      "urgency": "low"
+    },
+    {
+      "name": "Jordyn Stallings",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. ",
+      "urgency": "low"
+    },
+    {
+      "name": "Rebecca Miller",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. ",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. ",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. ",
+      "urgency": "low"
+    },
+    {
+      "name": "Lexy Burke",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. ",
+      "urgency": "low"
+    },
+    {
+      "name": "Dylan Bennett",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. ",
+      "urgency": "low"
+    },
+    {
+      "name": "Lexy Burke",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. ",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. ",
+      "urgency": "low"
+    },
+    {
+      "name": "Dylan Bennett",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. ",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Emerson Hall — 2518 Gallatin Partners / Gallatin",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. ",
+      "urgency": "low"
+    },
+    {
+      "name": "Juliana Fernandez",
+      "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
+      "daysSinceContact": 0,
+      "lastAction": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in ",
+      "urgency": "low"
+    },
+    {
+      "name": "Carson Knight",
+      "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
+      "daysSinceContact": 0,
+      "lastAction": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in ",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
+      "daysSinceContact": 0,
+      "lastAction": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in ",
+      "urgency": "low"
+    },
+    {
+      "name": "Ryan Romes",
+      "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
+      "daysSinceContact": 0,
+      "lastAction": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in ",
+      "urgency": "low"
+    },
+    {
+      "name": "Juany Almanza",
+      "deal": "Juany Almanza — Dixie Village Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in ",
+      "urgency": "low"
+    },
+    {
+      "name": "Marlon Rodriguez",
+      "deal": "Marlon Rodriguez — Dixie Village Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in ",
+      "urgency": "low"
+    },
+    {
+      "name": "Justin Rains",
+      "deal": "Factory Connection — Russellville",
+      "daysSinceContact": 0,
+      "lastAction": "Email from NASHtoday: 🎬 Nashville's Toy Story connection + Burger Up is closing",
+      "urgency": "low"
+    },
+    {
+      "name": "Daran Bynum <daranbynum@gmail.com> | 336-761-4449",
+      "deal": "Daran Bynum - Dispensary — Dixie Village Shopping Center",
+      "daysSinceContact": 0,
+      "lastAction": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in ",
       "urgency": "low"
     },
     {
       "name": "Danielle McGrath <danielle.mcgrath@jll.com> | 980-819-3857 / 631-466-6510",
       "deal": "Danielle McGrath - Remote ATM — Dixie Village Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Caldwell: 3.02 AC FOR SALE OR LEASE | Murfreesboro, TN | Medica",
+      "lastAction": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in ",
       "urgency": "low"
     },
     {
       "name": "Danielle McGrath",
       "deal": "Danielle McGrath - Remote ATM — Dixie Village Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Caldwell: 3.02 AC FOR SALE OR LEASE | Murfreesboro, TN | Medica",
+      "lastAction": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in ",
       "urgency": "low"
     },
     {
       "name": "Girish Kumar / Flavors of India <flavorsofindiatn@gmail.com>",
       "deal": "Nothing But Noodles — Maple Row / Art Studio suite",
       "daysSinceContact": 0,
-      "lastAction": "Email from Micah Lacher: Re: Flavors of India HVAC",
+      "lastAction": "Email from Jonathan Buckelew & Topher Stephenson: AI Basics: Markdown Files vs. ",
       "urgency": "low"
     },
     {
       "name": "Heather Paul",
       "deal": "Heather Paul - LoopNet Lead — Dixie Village Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Caldwell: 3.02 AC FOR SALE OR LEASE | Murfreesboro, TN | Medica",
-      "urgency": "low"
-    },
-    {
-      "name": "Shana Moore",
-      "deal": "Shana Moore - LoopNet Lead — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (084",
+      "lastAction": "Email from natalie T.: natalie T. is requesting Information on Dixie Village in ",
       "urgency": "low"
     }
   ],
