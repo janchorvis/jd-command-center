@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T07:32:18.873188",
+  "lastUpdated": "2026-06-18T08:02:00.527684",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-18",
@@ -7568,12 +7568,17 @@
     {
       "id": "russellville-abc",
       "name": "ABC Retail",
-      "property": "Russellville",
-      "status": "ABC asked to nail down move-in timing because their warehouse completion was pushed back; Clay replied contractor launches May 23, work likely into mid-July, signage 5-7 weeks, and end-of-June completion is unlikely.",
+      "property": "Franklin Shopping Center / Russellville",
+      "status": "Jesse Warhurst toured and says the Russellville space could be perfect but needs flooring, baseboards, paint, lighting, ceiling tile, hole repair, and toilet work; asked for one or two months free so they can fix items.",
       "stage": "Lease Signed",
-      "nextStep": "Monitor ABC timing and coordinate any move-in pressure with Clay/contractor.",
-      "priority": "medium",
+      "nextStep": "Jacob needs to respond on free-rent/repair posture for Jesse Warhurst's Russellville boutique concept.",
+      "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-18",
+          "event": "Jesse Warhurst toured Russellville and asked for 1-2 months free to address repairs/buildout items.",
+          "type": "lead"
+        },
         {
           "date": "2026-06-17",
           "event": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
@@ -9136,7 +9141,8 @@
         "Kurt Wilson (ABC Alabama)",
         "Kyle Lindsey (ABC Alabama)",
         "Kurt Wilson (Alabama ABC)",
-        "Kyle Lindsey (Alabama ABC)"
+        "Kyle Lindsey (Alabama ABC)",
+        "Jesse Warhurst"
       ],
       "actions": [
         {
@@ -20781,11 +20787,11 @@
     {
       "id": "pell-city",
       "name": "",
-      "property": "Pell City Marketplace",
-      "status": "Upstream Rehabilitation / Pell City possible location: Brent Braden requested measurements and MEP information for the area outlined in red at 927 Martin St. S; Tom Fidler forwarded to Jacob after voicemail with MEP survey checklist and gym buildout plans attached.",
+      "property": "Martin's Center / Pell City Marketplace",
+      "status": "Teriyaki Madness broker Robert Cook replied that they may accept a hybrid LL work-letter/TI structure, typically vanilla shell/electrical plus TI, after Jacob sent Pell City availability.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Anchor needs to coordinate measurements and MEP info response if not already handled by Davis Coleman / contractor.",
-      "priority": "high",
+      "nextStep": "Jacob needs to decide whether to keep pursuing Teriyaki Madness for the demised gym space and what LL delivery/TI structure to float.",
+      "priority": "medium",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
         "David Cooke (Cooke Commercial) - david@cookecommercial.com - 214-274-8020",
@@ -20803,7 +20809,8 @@
         "David Cooke (Cooke Commercial)",
         "Lauri Fowler (ProStar / Compassus)",
         "Brent Braden (Upstream Rehabilitation Facilities Manager)",
-        "Brent Braden (Upstream Rehabilitation)"
+        "Brent Braden (Upstream Rehabilitation)",
+        "Robert Cook (Vallas Realty)"
       ],
       "timeline": [
         {
@@ -20820,6 +20827,11 @@
           "date": "2026-06-18",
           "event": "Email from Kelsey Cornillie, Publisher: Boring Co. buys West End tunnel site",
           "type": "email"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "Robert Cook replied with Teriyaki Madness deal-structure guidance: hybrid LL work letter plus TI is common.",
+          "type": "lead"
         },
         {
           "date": "2026-06-17",
@@ -26534,11 +26546,21 @@
     {
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
-      "property": "Maple Row / Hendersonville Fox's",
-      "status": "Joey Valenti asked two lease-waiting questions: what the locked exterior double door on the south side/back right corner is for, and where a ground grease trap may be installed.",
-      "nextStep": "Jacob needs owner/property guidance on locked exterior double door and grease trap location, then reply to Joey.",
+      "property": "Maple Row Shopping Center",
+      "status": "Fresh Hendersonville interest: Tiffanie Fitzpatrick says her client Little Caesars is looking for space and asked whether the Fox's Pizza space is available; Hillary Holmes/Gilded Spine also re-engaged on the former Art Studio/Maple Row space after prior TI concerns.",
+      "nextStep": "Jacob needs to respond to Tiffanie on Fox's Pizza/other Hendersonville options and decide whether to reopen Gilded Spine discussions around availability/TI.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-18",
+          "event": "Tiffanie Fitzpatrick emailed that Little Caesars is looking in Hendersonville and asked if Fox's Pizza space is available.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "Hillary Holmes/Gilded Spine re-engaged on Maple Row availability after prior tour/TI concerns.",
+          "type": "lead"
+        },
         {
           "date": "2026-06-17",
           "event": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
@@ -28646,7 +28668,9 @@
         "Joey Valenti (Centennial Retail)",
         "Punit Patel / Great Greek corporate",
         "Joey Valenti (Centennial)",
-        "Clay Richardson"
+        "Clay Richardson",
+        "Tiffanie Fitzpatrick (Capital Corporation)",
+        "Hillary Holmes (Gilded Spine)"
       ],
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
