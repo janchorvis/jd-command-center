@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T09:30:10.355060",
+  "lastUpdated": "2026-06-18T10:02:13.321486",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-18",
@@ -35481,6 +35481,27 @@
           "date": "2026-06-17",
           "event": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
           "type": "email"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "id": "montgomery-martial-arts-virginia-college",
+      "name": "Montgomery Martial Arts",
+      "property": "Montgomery / Virginia College Plaza",
+      "status": "Watkins Johnston IV / MCRMPM asked whether Anchor has anything at 6132 Atlanta Hwy / Virginia College SC for Montgomery Martial Arts relocation needing roughly 3,000 SF open layout and requested pricing.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob to confirm available Montgomery options and pricing, then reply to Watkins.",
+      "priority": "medium",
+      "contacts": [
+        "Watkins Johnston IV (MCRMPM)",
+        "Montgomery Martial Arts"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-18",
+          "event": "Inbound inquiry from Watkins Johnston IV for Montgomery Martial Arts, roughly 3,000 SF open layout at Virginia College SC / 6132 Atlanta Hwy.",
+          "type": "lead"
         }
       ],
       "actions": []
