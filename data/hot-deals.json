@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T14:02:13.068027",
+  "lastUpdated": "2026-06-18T14:30:09.821885",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-18",
@@ -58,6 +58,11 @@
       "nextStep": "Jacob/Clay need to give Five Below storefront/facade direction or decide whether to start landlord drawings before Five Below CDs are finalized.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-18",
+          "event": "Email from Robert Henson: visit to Big Lots today",
+          "type": "email"
+        },
         {
           "date": "2026-06-18",
           "event": "Email from Chris Brophy: PCON | Grant Announcement Email",
@@ -4590,6 +4595,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-06-18",
+          "event": "Email from Will Toffey: Prime land opportunity: 3.6 & 1.5 acre lots for sale",
+          "type": "email"
+        },
         {
           "date": "2026-06-18",
           "event": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
@@ -17152,6 +17162,11 @@
       "timeline": [
         {
           "date": "2026-06-18",
+          "event": "Email from Robert Henson: visit to Big Lots today",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-18",
           "event": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
           "type": "email"
         },
@@ -29244,6 +29259,16 @@
       "timeline": [
         {
           "date": "2026-06-18",
+          "event": "Email from Will Toffey: Prime land opportunity: 3.6 & 1.5 acre lots for sale",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "Email from Robert Henson: visit to Big Lots today",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-18",
           "event": "Email from Jacob Delk: 502 Thompson Lane",
           "type": "email"
         },
@@ -35715,6 +35740,16 @@
       ],
       "timeline": [
         {
+          "date": "2026-06-18",
+          "event": "Email from Will Toffey: Prime land opportunity: 3.6 & 1.5 acre lots for sale",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "Email from Robert Henson: visit to Big Lots today",
+          "type": "email"
+        },
+        {
           "date": "2026-06-17",
           "event": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
           "type": "email"
@@ -35883,6 +35918,11 @@
         "Robert Cook (Vallas Realty)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-18",
+          "event": "Email from Robert Henson: visit to Big Lots today",
+          "type": "email"
+        },
         {
           "date": "2026-06-18",
           "event": "Email from Tom Fidler: Drayer PT FW: Commercial Lease- Pell City, AL",
@@ -46129,6 +46169,16 @@
       ],
       "timeline": [
         {
+          "date": "2026-06-18",
+          "event": "Email from Will Toffey: Prime land opportunity: 3.6 & 1.5 acre lots for sale",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "Email from Robert Henson: visit to Big Lots today",
+          "type": "email"
+        },
+        {
           "date": "2026-06-17",
           "event": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
           "type": "email"
@@ -49589,34 +49639,6 @@
       "urgency": "low"
     },
     {
-      "name": "Paul Gold",
-      "deal": "Bealls — Shelbyville former Big Lots",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
-      "urgency": "low"
-    },
-    {
-      "name": "Jeffrey Lautenbach",
-      "deal": "Bealls — Shelbyville former Big Lots",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
-      "urgency": "low"
-    },
-    {
-      "name": "Ethan Flynn",
-      "deal": "Bealls — Shelbyville former Big Lots",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Bealls — Shelbyville former Big Lots",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
-      "urgency": "low"
-    },
-    {
       "name": "Richard Jones",
       "deal": "Charter School 30K+ SF Requirement — TBD",
       "daysSinceContact": 1,
@@ -49638,206 +49660,199 @@
       "urgency": "low"
     },
     {
-      "name": "Ryan Jordan",
-      "deal": "Ryan Jordan / Former Big Lots — Shelbyville former Big Lots",
-      "daysSinceContact": 1,
-      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
-      "urgency": "low"
-    },
-    {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Dawn Baker",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Justin Jeror <justin.jeror@gmail.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher <mlacher@anchorinv.com>",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Bill Castagna",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Julia Gibson",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Claire/Clare",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Jacob Delk",
       "deal": "Five Below — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Chris Brophy: PCON | Grant Announcement Email",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
@@ -49872,7 +49887,7 @@
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Will Toffey: Prime land opportunity: 3.6 & 1.5 acre lots for sale",
       "urgency": "low"
     },
     {
@@ -50173,147 +50188,147 @@
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson <Robert_Richardson@tjx.com>",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano <andriano@c2-designgroup.com>",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
       "name": "Laurie Schindler",
       "deal": "Marshalls — Malone Plaza",
       "daysSinceContact": 0,
-      "lastAction": "Email from Malone Chamber of Commerce: SUMMER FEST RAIN LOCATION",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
@@ -50754,42 +50769,42 @@
       "name": "Laurie",
       "deal": " — Evansville Big Lots",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 502 Thompson Lane",
+      "lastAction": "Email from Will Toffey: Prime land opportunity: 3.6 & 1.5 acre lots for sale",
       "urgency": "low"
     },
     {
       "name": "Rob Henson - Easterseals - 812-202-9384",
       "deal": " — Evansville Big Lots",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 502 Thompson Lane",
+      "lastAction": "Email from Will Toffey: Prime land opportunity: 3.6 & 1.5 acre lots for sale",
       "urgency": "low"
     },
     {
       "name": "Laurie Seals - Easterseals",
       "deal": " — Evansville Big Lots",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 502 Thompson Lane",
+      "lastAction": "Email from Will Toffey: Prime land opportunity: 3.6 & 1.5 acre lots for sale",
       "urgency": "low"
     },
     {
       "name": "Robert Henson",
       "deal": " — Evansville Big Lots",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 502 Thompson Lane",
+      "lastAction": "Email from Will Toffey: Prime land opportunity: 3.6 & 1.5 acre lots for sale",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": " — Evansville Big Lots",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 502 Thompson Lane",
+      "lastAction": "Email from Will Toffey: Prime land opportunity: 3.6 & 1.5 acre lots for sale",
       "urgency": "low"
     },
     {
       "name": "Jacob Delk",
       "deal": " — Evansville Big Lots",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 502 Thompson Lane",
+      "lastAction": "Email from Will Toffey: Prime land opportunity: 3.6 & 1.5 acre lots for sale",
       "urgency": "low"
     },
     {
@@ -51003,6 +51018,34 @@
       "urgency": "low"
     },
     {
+      "name": "Paul Gold",
+      "deal": "Bealls — Shelbyville former Big Lots",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Will Toffey: Prime land opportunity: 3.6 & 1.5 acre lots for sale",
+      "urgency": "low"
+    },
+    {
+      "name": "Jeffrey Lautenbach",
+      "deal": "Bealls — Shelbyville former Big Lots",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Will Toffey: Prime land opportunity: 3.6 & 1.5 acre lots for sale",
+      "urgency": "low"
+    },
+    {
+      "name": "Ethan Flynn",
+      "deal": "Bealls — Shelbyville former Big Lots",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Will Toffey: Prime land opportunity: 3.6 & 1.5 acre lots for sale",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Bealls — Shelbyville former Big Lots",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Will Toffey: Prime land opportunity: 3.6 & 1.5 acre lots for sale",
+      "urgency": "low"
+    },
+    {
       "name": "Tiffanie Fitzpatrick",
       "deal": "Little Caesars — Maple Row / Hendersonville",
       "daysSinceContact": 0,
@@ -51020,7 +51063,7 @@
       "name": "Robert Cook",
       "deal": "Teriyaki Madness — Pell City Marketplace / Martin's Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Tom Fidler: Drayer PT FW: Commercial Lease- Pell City, AL",
+      "lastAction": "Email from Robert Henson: visit to Big Lots today",
       "urgency": "low"
     },
     {
@@ -51525,6 +51568,13 @@
       "deal": "Omar Hidais — Pea Ridge Shopping Center",
       "daysSinceContact": 0,
       "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
+      "urgency": "low"
+    },
+    {
+      "name": "Ryan Jordan",
+      "deal": "Ryan Jordan / Former Big Lots — Shelbyville former Big Lots",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Will Toffey: Prime land opportunity: 3.6 & 1.5 acre lots for sale",
       "urgency": "low"
     },
     {
