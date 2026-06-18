@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T13:30:09.995512",
+  "lastUpdated": "2026-06-18T14:02:13.068027",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-18",
@@ -53,9 +53,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Clay asked whether to commission Five Below facade/elevation architectural drawings now or wait until Five Below's plans arrive and StoreCrafters can bid for hard numbers. Clay recommends waiting because the architect proposal is not a small amount to risk before lease feasibility is confirmed.",
+      "status": "Five Below is waiting on Malone storefront/facade design guidance while Anchor decides whether to commission facade/elevation architectural drawings now or wait for Five Below plans and StoreCrafters pricing.",
       "stage": "Lease Signed",
-      "nextStep": "Micah/Jacob need to decide whether to sign the facade architect proposal now or wait for Five Below plans and StoreCrafters pricing.",
+      "nextStep": "Jacob/Clay need to give Five Below storefront/facade direction or decide whether to start landlord drawings before Five Below CDs are finalized.",
       "priority": "high",
       "timeline": [
         {
@@ -136,6 +136,11 @@
         {
           "date": "2026-06-18",
           "event": "Email from Robert H. Burns Company, Inc.: Premier Building",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "Inbox: Desiree Warren followed up asking for storefront/facade design information and any guidance on what Anchor is thinking.",
           "type": "email"
         },
         {
