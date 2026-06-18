@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T11:30:13.716446",
+  "lastUpdated": "2026-06-18T12:02:52.520953",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-18",
@@ -44,7 +44,8 @@
       "Advise Mathison on Zee Nails buyer creditworthiness and lease/assignment posture.",
       "Advise Melissa on Flavors of India HVAC responsibility/contribution posture.",
       "Review/counter Smart LED lease revision requests before DocuSign.",
-      "Review Shelbyville Bealls updated term sheet and decide whether to call Paul Gold."
+      "Review Shelbyville Bealls updated term sheet and decide whether to call Paul Gold.",
+      "Review/route Upstream Rehabilitation / Drayer PT Pell City lease draft from Tom Fidler; DOCX received 2026-06-18."
     ]
   },
   "pipelineDeals": [
@@ -21097,9 +21098,9 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Upstream Rehabilitation / Pell City possible location: Brent Braden requested measurements and MEP information for the area outlined in red at 927 Martin St. S; Tom Fidler forwarded to Jacob after voicemail with MEP survey checklist and gym buildout plans attached.",
+      "status": "Upstream Rehabilitation / Drayer PT lease draft received from Tom Fidler/MacKenzie on 2026-06-18; attachment is a DOCX commercial lease for Pell City Partners / Upstream Growth.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Anchor needs to coordinate measurements and MEP info response if not already handled by Davis Coleman / contractor.",
+      "nextStep": "Jacob needs to review/route the Upstream/Drayer PT lease draft and coordinate any legal/business comments. Do not process the DOCX in the main session.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
@@ -21179,6 +21180,11 @@
         {
           "date": "2026-06-18",
           "event": "Email from Kelsey Cornillie, Publisher: Boring Co. buys West End tunnel site",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "Tom Fidler forwarded Commercial Lease - Pell City Partners / Upstream Growth DOCX for Drayer PT / Upstream Rehabilitation.",
           "type": "email"
         },
         {
