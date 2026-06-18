@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T16:30:08.916355",
+  "lastUpdated": "2026-06-18T17:02:34.819914",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-18",
@@ -53,9 +53,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below is waiting on Malone storefront/facade design guidance while Anchor decides whether to commission facade/elevation architectural drawings now or wait for Five Below plans and StoreCrafters pricing.",
+      "status": "Five Below counsel returned clean and redline lease versions for Malone Plaza on 2026-06-18; lease is back in review/comment posture.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Clay need to give Five Below storefront/facade direction or decide whether to start landlord drawings before Five Below CDs are finalized.",
+      "nextStep": "Jacob to review the redline/clean lease, route legal/business comments, and resolve work letter/final sign/no-build-area exhibits before signature.",
       "priority": "high",
       "timeline": [
         {
@@ -156,6 +156,11 @@
         {
           "date": "2026-06-18",
           "event": "Inbox: Desiree Warren followed up asking for storefront/facade design information and any guidance on what Anchor is thinking.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "Five Below counsel returned clean and redline lease versions for Malone Plaza.",
           "type": "email"
         },
         {
