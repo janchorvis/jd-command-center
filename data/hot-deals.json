@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T07:32:18.873188",
+  "lastUpdated": "2026-06-18T08:02:45.936857",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-18",
@@ -34964,6 +34964,86 @@
         "suiteCount": 3,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "maple-row-little-caesars-tiffanie-fitzpatrick",
+      "name": "Little Caesars",
+      "property": "Maple Row / Hendersonville",
+      "status": "Tiffanie Fitzpatrick says her client Little Caesars is looking for space in Hendersonville and asked whether the Fox's Pizza space is available, plus any other options.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob needs to respond on Fox's Pizza availability and any other Hendersonville options.",
+      "priority": "high",
+      "contacts": [
+        "Tiffanie Fitzpatrick (Capital Corporation)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-18",
+          "event": "Tiffanie Fitzpatrick emailed that Little Caesars is looking in Hendersonville and asked if Fox's Pizza space is available.",
+          "type": "lead"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "id": "maple-row-gilded-spine-hillary-holmes",
+      "name": "Gilded Spine",
+      "property": "Maple Row Shopping Center",
+      "status": "Hillary Holmes re-engaged on Maple Row after prior tour/TI concerns and asked whether the space is already leased; she is open to chatting again.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob needs to confirm availability and decide whether to reopen TI/terms discussion.",
+      "priority": "high",
+      "contacts": [
+        "Hillary Holmes (Gilded Spine)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-18",
+          "event": "Hillary Holmes/Gilded Spine re-engaged on Maple Row availability after prior tour/TI concerns.",
+          "type": "lead"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "id": "pell-city-teriyaki-madness-robert-cook",
+      "name": "Teriyaki Madness",
+      "property": "Pell City Marketplace / Martin's Center",
+      "status": "Robert Cook replied that Teriyaki Madness may work with a hybrid LL work-letter/TI structure, typically vanilla shell/electrical plus TI, after Jacob sent Pell City availability.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob needs to decide whether to keep pursuing Teriyaki Madness for the demised gym space and what LL delivery/TI structure to float.",
+      "priority": "medium",
+      "contacts": [
+        "Robert Cook (Vallas Realty)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-18",
+          "event": "Robert Cook replied with Teriyaki Madness deal-structure guidance: hybrid LL work letter plus TI is common.",
+          "type": "lead"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "id": "russellville-jesse-warhurst-boutique",
+      "name": "Shop Jesse K / Jesse Warhurst",
+      "property": "Franklin Shopping Center / Russellville",
+      "status": "Jesse Warhurst toured and says the Russellville space could be perfect but needs flooring, baseboards, paint, lighting, ceiling tile, hole repair, and toilet work; asked for one or two months free so they can fix items.",
+      "stage": "Trading Terms",
+      "nextStep": "Jacob needs to respond on free-rent/repair posture for Jesse Warhurst's Russellville boutique concept.",
+      "priority": "high",
+      "contacts": [
+        "Jesse Warhurst"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-18",
+          "event": "Jesse Warhurst toured Russellville and asked for 1-2 months free to address repairs/buildout items.",
+          "type": "lead"
+        }
+      ],
+      "actions": []
     }
   ],
   "sideDeals": [
