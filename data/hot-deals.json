@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T07:15:34.824245",
+  "lastUpdated": "2026-06-18T07:15:39.355500",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-18",
@@ -52,6 +52,11 @@
       "nextStep": "Micah/Jacob need to decide whether to sign the facade architect proposal now or wait for Five Below plans and StoreCrafters pricing.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
+          "type": "email"
+        },
         {
           "date": "2026-06-17",
           "event": "Email from Jacob Delk: 2151 N Highland",
@@ -3096,6 +3101,11 @@
       "timeline": [
         {
           "date": "2026-06-17",
+          "event": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
           "event": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
           "type": "email"
         },
@@ -4469,6 +4479,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-06-18",
+          "event": "Email from Àlex Purull Polo: Nester property management software is now in United States",
+          "type": "email"
+        },
         {
           "date": "2026-06-17",
           "event": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
@@ -6353,6 +6368,16 @@
       "timeline": [
         {
           "date": "2026-06-17",
+          "event": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Scribe Team: New brand, new Scribe. Get early access.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
           "event": "Email from Larry Kloess: PCON Prospective Members Outreach",
           "type": "email"
         },
@@ -7358,6 +7383,11 @@
       "timeline": [
         {
           "date": "2026-06-17",
+          "event": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
           "event": "Email from Jacob Delk: Shelbyville, IN",
           "type": "email"
         },
@@ -7539,6 +7569,11 @@
       "nextStep": "Monitor ABC timing and coordinate any move-in pressure with Clay/contractor.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
+          "type": "email"
+        },
         {
           "date": "2026-06-17",
           "event": "Email from Jon Speers: 312 Wilson Pike Circle",
@@ -9124,6 +9159,11 @@
       "nextStep": "Send Emerson pipe to property managers and keep lease-signature pressure moving.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-18",
+          "event": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+          "type": "email"
+        },
         {
           "date": "2026-06-17",
           "event": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
@@ -10959,6 +10999,41 @@
       "nextStep": "Draft UPS lease from Maple Row form/redline and put the 6/19 Aldi visit on Micah/Jacob calendars.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-18",
+          "event": "Email from Chain Store Age: DayBreaker: Bed Bath & Beyond targets homeowners; Bass Pro Shops gets into lodge",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "Email from CoStar Alerts: CoStar Daily Alert for June 18, 2026",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "Email from Kelsey Cornillie, Publisher: Boring Co. buys West End tunnel site",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Scribe Team: New brand, new Scribe. Get early access.",
+          "type": "email"
+        },
         {
           "date": "2026-06-17",
           "event": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues country superstars",
@@ -20727,6 +20802,36 @@
       ],
       "timeline": [
         {
+          "date": "2026-06-18",
+          "event": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "Email from CoStar Alerts: CoStar Daily Alert for June 18, 2026",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "Email from Kelsey Cornillie, Publisher: Boring Co. buys West End tunnel site",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Scribe Team: New brand, new Scribe. Get early access.",
+          "type": "email"
+        },
+        {
           "date": "2026-06-17",
           "event": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues country superstars",
           "type": "email"
@@ -22777,6 +22882,11 @@
       "timeline": [
         {
           "date": "2026-06-17",
+          "event": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
           "event": "Email from Jacob Delk: 2151 N Highland",
           "type": "email"
         },
@@ -24170,6 +24280,36 @@
         "Clay Richardson"
       ],
       "timeline": [
+        {
+          "date": "2026-06-18",
+          "event": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "Email from CoStar Alerts: CoStar Daily Alert for June 18, 2026",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "Email from Kelsey Cornillie, Publisher: Boring Co. buys West End tunnel site",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Scribe Team: New brand, new Scribe. Get early access.",
+          "type": "email"
+        },
         {
           "date": "2026-06-17",
           "event": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues country superstars",
@@ -26394,6 +26534,11 @@
       "nextStep": "Jacob needs owner/property guidance on locked exterior double door and grease trap location, then reply to Joey.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+          "type": "email"
+        },
         {
           "date": "2026-06-17",
           "event": "Email from Jacob Delk: 2151 N Highland",
@@ -31716,6 +31861,11 @@
       "timeline": [
         {
           "date": "2026-06-17",
+          "event": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
           "event": "Email from Larry Kloess: PCON Prospective Members Outreach",
           "type": "email"
         },
@@ -34730,6 +34880,11 @@
       "timeline": [
         {
           "date": "2026-06-17",
+          "event": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
           "event": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Hunter Nichols) @ Thu Jun 25, 2026 11:",
           "type": "email"
         },
@@ -34842,6 +34997,16 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-06-18",
+          "event": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
+          "type": "email"
+        },
         {
           "date": "2026-06-17",
           "event": "Email from Jacob Delk: 2151 N Highland",
@@ -38227,6 +38392,16 @@
       "lastUpdate": "2026-03-09",
       "timeline": [
         {
+          "date": "2026-06-18",
+          "event": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
+          "type": "email"
+        },
+        {
           "date": "2026-06-17",
           "event": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
           "type": "email"
@@ -40166,6 +40341,11 @@
         "Josh Levy (Arbor Realty Capital Advisors, Pasadena CA)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-18",
+          "event": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+          "type": "email"
+        },
         {
           "date": "2026-06-17",
           "event": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
@@ -43601,6 +43781,11 @@
       "timeline": [
         {
           "date": "2026-06-17",
+          "event": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
           "event": "Email from Robert Cook: Martin's Center | Pell City, AL",
           "type": "email"
         },
@@ -43826,6 +44011,11 @@
         "Jesse Warhurst <jessewarhurst@yahoo.com>"
       ],
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+          "type": "email"
+        },
         {
           "date": "2026-06-17",
           "event": "Email from Ayanna Watkins: Updated invitation: Call with Jacob New Memphis Building @ Thu Jun 18, 2026 9:30",
@@ -44171,6 +44361,11 @@
       "timeline": [
         {
           "date": "2026-06-17",
+          "event": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
           "event": "Email from Robert Cook: Martin's Center | Pell City, AL",
           "type": "email"
         },
@@ -44374,6 +44569,11 @@
         "Omar Hidais (tobacco/vape operator, ohidais23@gmail.com)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+          "type": "email"
+        },
         {
           "date": "2026-06-17",
           "event": "Email from Robert Cook: Martin's Center | Pell City, AL",
@@ -44643,6 +44843,11 @@
       "timeline": [
         {
           "date": "2026-06-17",
+          "event": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
           "event": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Hunter Nichols) @ Thu Jun 25, 2026 11:",
           "type": "email"
         },
@@ -44779,6 +44984,11 @@
         "Mathison Ingham (Anchor Property Manager)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-18",
+          "event": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+          "type": "email"
+        },
         {
           "date": "2026-06-17",
           "event": "Email from Jacob Delk: 2151 N Highland",
@@ -45329,6 +45539,11 @@
       "timeline": [
         {
           "date": "2026-06-17",
+          "event": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
           "event": "Email from Larry Kloess: PCON Prospective Members Outreach",
           "type": "email"
         },
@@ -45591,6 +45806,11 @@
         "Jacob Delk (Anchor)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-18",
+          "event": "Email from Kelsey Cornillie, Publisher: Boring Co. buys West End tunnel site",
+          "type": "email"
+        },
         {
           "date": "2026-06-17",
           "event": "Email from Jacob Delk: 2151 N Highland",
@@ -45989,6 +46209,11 @@
       "timeline": [
         {
           "date": "2026-06-17",
+          "event": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
           "event": "Email from Robert Cook: Martin's Center | Pell City, AL",
           "type": "email"
         },
@@ -46136,6 +46361,16 @@
         "Jon Speers (Equitable Property Company)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-18",
+          "event": "Email from CoStar News: CoStar Today: How it all Flows: Tour Adam Neumann’s Miami apartments and condos",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Duane Roggendorff: Your Pet Dentist relocation search",
+          "type": "email"
+        },
         {
           "date": "2026-06-17",
           "event": "Email from Jon Speers: 312 Wilson Pike Circle",
@@ -46557,6 +46792,11 @@
       "timeline": [
         {
           "date": "2026-06-17",
+          "event": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
           "event": "Email from Robert Cook: Martin's Center | Pell City, AL",
           "type": "email"
         },
@@ -46679,6 +46919,11 @@
         "Girish Kumar / Flavors of India <flavorsofindiatn@gmail.com>"
       ],
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+          "type": "email"
+        },
         {
           "date": "2026-06-17",
           "event": "Email from Larry Kloess: PCON Prospective Members Outreach",
@@ -46860,6 +47105,16 @@
         "Heather Paul (support@thcshop.co, 864-777-0420)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+          "type": "email"
+        },
         {
           "date": "2026-06-17",
           "event": "Email from Robert Cook: Martin's Center | Pell City, AL",
@@ -47138,6 +47393,11 @@
         "Natalie T. (Crexi prospect)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-17",
+          "event": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+          "type": "email"
+        },
         {
           "date": "2026-06-17",
           "event": "Email from Travis J. Kelty: 1,362 SF -Berry Hill Office Suite FOR LEASE - NASHVILLE",
@@ -47820,1625 +48080,1877 @@
     {
       "name": "Parker Brennan / Scenthound",
       "deal": "Scenthound — Atlanta Hwy",
-      "daysSinceContact": 33,
+      "daysSinceContact": 34,
       "lastAction": "Email from Parker Forbes: Fwd: [External] Invoice N267995 Enclosed",
       "urgency": "high"
     },
     {
       "name": "Pesach Gewirtz",
       "deal": "Infinite Equity Capital - 730 — 730",
-      "daysSinceContact": 12,
+      "daysSinceContact": 13,
       "lastAction": "Email from Colliers Net Lease Capital Markets: JUST LISTED: Thermo Fisher Scient",
       "urgency": "low"
     },
     {
       "name": "Jordyn Stallings",
       "deal": "Jordyn Stallings - Daycare Inquiry — 2512 Gallatin Avenue",
-      "daysSinceContact": 5,
+      "daysSinceContact": 6,
       "lastAction": "Email from lwagster@stridecre.com: Still available: 211 29th Avenue N + 7050 Cha",
       "urgency": "low"
     },
     {
       "name": "Madison Idell - madison.idell@avisonyoung.com - 316-650-4193",
       "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Email from NASHtoday: Fourth of July lineup + Alan Jackson's new venue",
       "urgency": "low"
     },
     {
       "name": "Madison Idell - Hibbett/JD Sports/DTLR broker",
       "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Email from NASHtoday: Fourth of July lineup + Alan Jackson's new venue",
       "urgency": "low"
     },
     {
       "name": "Madison Idell",
       "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Email from NASHtoday: Fourth of July lineup + Alan Jackson's new venue",
       "urgency": "low"
     },
     {
       "name": "Brande Benson",
       "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Email from NASHtoday: Fourth of July lineup + Alan Jackson's new venue",
       "urgency": "low"
     },
     {
       "name": "Patrice M.",
       "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
-      "daysSinceContact": 1,
+      "daysSinceContact": 2,
       "lastAction": "Email from NASHtoday: Fourth of July lineup + Alan Jackson's new venue",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Vayda Good",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Brian Connell",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Manuel Veliz",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Tim Carlo",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Frank Soranno",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Ryan Romes",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Desiree Warren",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Dawn Baker",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Justin Jeror <justin.jeror@gmail.com>",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher <mlacher@anchorinv.com>",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Bill Castagna",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Julia Gibson",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Claire/Clare",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Jacob Delk",
       "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Tony Grillo",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
-      "urgency": "low"
-    },
-    {
-      "name": "Ajay Secore",
-      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Dixie Village",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Larry Kloess: PCON Prospective Members Outreach",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Dixie Village",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Larry Kloess: PCON Prospective Members Outreach",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Belky Rodriguez — 704-605-9280 — mibella1988@gmail.com",
       "deal": "Chad Vang - Laundromat — Dixie Village",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Larry Kloess: PCON Prospective Members Outreach",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Elie Najar",
       "deal": "Chad Vang - Laundromat — Dixie Village",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Larry Kloess: PCON Prospective Members Outreach",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "David W.",
       "deal": "Chad Vang - Laundromat — Dixie Village",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Larry Kloess: PCON Prospective Members Outreach",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "David W. - Crexi inquiry",
       "deal": "Chad Vang - Laundromat — Dixie Village",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Larry Kloess: PCON Prospective Members Outreach",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Juany Almanza",
       "deal": "Chad Vang - Laundromat — Dixie Village",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Larry Kloess: PCON Prospective Members Outreach",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Juany Almanza",
       "deal": "Chad Vang - Laundromat — Dixie Village",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Larry Kloess: PCON Prospective Members Outreach",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Derek Tucker",
       "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Shelbyville, IN",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Carole",
       "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Kurt Wilson",
       "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Kyle Lindsey",
       "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Kurt Wilson",
       "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Kyle Lindsey",
       "deal": "ABC Retail — Russellville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Lexy & Austin",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashby Scott",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
-      "urgency": "low"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Anchor Leasing: Re: Form Submission - New Form - office space",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Dwaine High",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty - jpetty@southeastventure.com",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Taylor",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Taylor",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Shady Azez <shadyazezz@gmail.com>",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty <jpetty@southeastventure.com>",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "David S.",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Jacob Delk",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
       "urgency": "low"
     },
     {
       "name": "Kevin True",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Bell",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Wingstop franchisee/broker",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Kevin Trujillo",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Sarah Langan",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Kevin Trujillo",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "James Lanoux",
       "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Prather Event Co — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Lisa Schwartz, Esq.",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Joseph Landry",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Melissa Eddy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Josh Conroy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson <Robert_Richardson@tjx.com>",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Shaun Andriano <andriano@c2-designgroup.com>",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Robert Richardson",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Joshua Conroy",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Laurie Schindler",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Spencer",
       "deal": "Royal Furniture — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Sheldon",
       "deal": "Royal Furniture — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
       "urgency": "low"
     },
     {
       "name": "Peter Adams",
       "deal": "A-Stock (Treverse LLC) — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
-      "urgency": "low"
-    },
-    {
-      "name": "Lauri Fowler",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "David Cooke",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Abbey Gill",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Scott Myers <smyerscre2@outlook.com>",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Laurie",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Mitch",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Fidler",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Fidler",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Fidler",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Susan S.",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Susan Swindal / Mama Suz Fried Pies - Mamasuzfriedpies@gmail.com - 205-567-9667",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Susan Swindal / Mama Suz Fried Pies",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "David Cooke",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Lauri Fowler",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Brent Braden",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Brent Braden",
-      "deal": " — Pell City Marketplace",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
       "urgency": "low"
     },
     {
       "name": "Carmen Drake",
       "deal": " — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "James Stocker",
       "deal": " — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Carmine DiLucente",
       "deal": " — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Stan Bobowski",
       "deal": " — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Paul Takacs",
       "deal": " — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Andrew Goodman",
       "deal": " — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Karen D'Antonio",
       "deal": " — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": " — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Karen D'Antonio",
       "deal": " — Hamilton, OH",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Joe Wesley",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Shady Azez",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "David S.",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "David S.",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Richard Jones",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Thomas Cashion",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Thomas Cashion",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Rawn Turner",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Rawn Turner - rawn.turner@valorhealthcare.com - 972.435.4808",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Rawn Turner / Valor Healthcare",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "James Rainer",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Breaking: Development giant sues countr",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Joey/Gregory",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Gregory",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Bookstore prospect",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "ala h.",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish <mdrish@anchorinv.com>",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti <jvalenti@centenretail.com>",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Joey",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "EJ",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Melissa Drish",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Tim Mehta",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Tim Mehta",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Punit Patel / Great Greek corporate",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Joey Valenti",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Clay Richardson",
       "deal": " — Maple Row / Hendersonville Fox's",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Laurie",
       "deal": " — Evansville Big Lots",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Rob Henson - Easterseals - 812-202-9384",
       "deal": " — Evansville Big Lots",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Laurie Seals - Easterseals",
       "deal": " — Evansville Big Lots",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Robert Henson",
       "deal": " — Evansville Big Lots",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": " — Evansville Big Lots",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Jacob Delk",
       "deal": " — Evansville Big Lots",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "James Kovanis",
       "deal": " — River Parkway Plaza - Sevierville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Kyle Matthews: Fed Holds — But the Warsh Era Has Officially Begun",
       "urgency": "low"
     },
     {
       "name": "Matthew Hansen",
       "deal": " — River Parkway Plaza - Sevierville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Kyle Matthews: Fed Holds — But the Warsh Era Has Officially Begun",
       "urgency": "low"
     },
     {
       "name": "Sally Beauty / Cosmo broker",
       "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Jacob Delk",
       "deal": " — McMinnville Plaza",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Hillary Holmes – gildedspinebooks@gmail.com, 607-2197",
       "deal": "Gilded Spine (Storybook Soirees LLC) — 235 E Main St, Hendersonville (Maple Row)",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Larry Kloess: PCON Prospective Members Outreach",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
       "urgency": "low"
     },
     {
       "name": "Ashby",
       "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff",
       "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott",
       "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Lisa Sweeney",
       "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Wm. Coey Vierling <oinkysurveying@gmail.com>",
       "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Bob McAuliff <BMcAuliff@taftlaw.com>",
       "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Ashby Scott <ascott@evanspetree.com>",
       "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Stan Bobowski",
       "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Stan Bobowski",
       "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Karen D'Antonio",
       "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Dutch Bros counsel",
       "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Karen D'Antonio",
       "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Jacob Delk",
       "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Dutch Bros",
       "deal": "Hamilton Title Objection — Hamilton, OH",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Amin Lakhani - smartledtn@gmail.com - 901-907-2646",
       "deal": "Smart LED TN LLC — Highland - 2151 N Highland Ave, Jackson TN",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Amin Lakhani",
       "deal": "Smart LED TN LLC — Highland - 2151 N Highland Ave, Jackson TN",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Carson Knight",
       "deal": "Smart LED TN LLC — Highland - 2151 N Highland Ave, Jackson TN",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Smart LED TN LLC — Highland - 2151 N Highland Ave, Jackson TN",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Jacob Delk",
       "deal": "Smart LED TN LLC — Highland - 2151 N Highland Ave, Jackson TN",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jacob Delk: 2151 N Highland",
       "urgency": "low"
     },
     {
       "name": "Paul Gold",
       "deal": "Bealls — Shelbyville former Big Lots",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Hunter Nichols)",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Jeffrey Lautenbach",
       "deal": "Bealls — Shelbyville former Big Lots",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Hunter Nichols)",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Ethan Flynn",
       "deal": "Bealls — Shelbyville former Big Lots",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Hunter Nichols)",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Bealls — Shelbyville former Big Lots",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Hunter Nichols)",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Shelby Hall",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Phillip Kemp",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Kemp",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Matty",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Ashley Marshall",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Bill Adair",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Amy",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Phillip Kemp",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Ross Smith",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Devin McClendon",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Ben Claybaker",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Brandon Hoop",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Mary Winston Cramer",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Maddison Sickels",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Charlie Gibson",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Todd Petrowski",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Dr. Kemp",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Brandon Hoop",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Jacob Delk",
-      "deal": "HopeSmiles — 144 Wilson Pike",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
       "urgency": "low"
     },
     {
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
-      "daysSinceContact": 0,
+      "daysSinceContact": 1,
       "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "urgency": "low"
+    },
+    {
+      "name": "Keystone Fireworks",
+      "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: 502 Thompson Lane",
+      "urgency": "low"
+    },
+    {
+      "name": "Jeb Thompson",
+      "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: 502 Thompson Lane",
+      "urgency": "low"
+    },
+    {
+      "name": "Jeb Thompson",
+      "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: 502 Thompson Lane",
+      "urgency": "low"
+    },
+    {
+      "name": "Juliana Fernandez",
+      "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
+      "urgency": "low"
+    },
+    {
+      "name": "Carson Knight",
+      "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
+      "urgency": "low"
+    },
+    {
+      "name": "Ryan Romes",
+      "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Gaghan",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Richard Jones: Fwd: Volunteer State bank",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Gaghan - 440-263-9792 - tom@clevelandfurniturebank.org",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Richard Jones: Fwd: Volunteer State bank",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Gaghan",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Richard Jones: Fwd: Volunteer State bank",
+      "urgency": "low"
+    },
+    {
+      "name": "Mathison Ingham",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Richard Jones: Fwd: Volunteer State bank",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Richard Jones: Fwd: Volunteer State bank",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Gaghan",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Richard Jones: Fwd: Volunteer State bank",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Richard Jones: Fwd: Volunteer State bank",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay",
+      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Richard Jones: Fwd: Volunteer State bank",
+      "urgency": "low"
+    },
+    {
+      "name": "Kevin Moss",
+      "deal": "Royal Bazaar Indian — Parma Heights",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
+      "urgency": "low"
+    },
+    {
+      "name": "Royal Bazaar Indian",
+      "deal": "Royal Bazaar Indian — Parma Heights",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
+      "urgency": "low"
+    },
+    {
+      "name": "Richard Jones",
+      "deal": "Charter School 30K+ SF Requirement — TBD",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Richard Jones: Fwd: Volunteer State bank",
+      "urgency": "low"
+    },
+    {
+      "name": "Daynon Kirby",
+      "deal": "Charter School 30K+ SF Requirement — TBD",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Richard Jones: Fwd: Volunteer State bank",
+      "urgency": "low"
+    },
+    {
+      "name": "Juany Almanza",
+      "deal": "Juany Almanza — Dixie Village Shopping Center",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Jesse Warhurst <jessewarhurst@yahoo.com>",
+      "deal": "Jesse Warhurst - Building 16 inquiry — Franklin Center / Russellville, AL",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Marlon Rodriguez",
+      "deal": "Marlon Rodriguez — Dixie Village Shopping Center",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Omar Hidais",
+      "deal": "Omar Hidais — Pea Ridge Shopping Center",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Omar Hidais",
+      "deal": "Omar Hidais — Pea Ridge Shopping Center",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Justin Rains",
+      "deal": "Factory Connection — Russellville",
+      "daysSinceContact": 1,
+      "lastAction": "Email from NASHtoday: 🎬 Nashville's Toy Story connection + Burger Up is closing",
+      "urgency": "low"
+    },
+    {
+      "name": "Ryan Jordan",
+      "deal": "Ryan Jordan / Former Big Lots — Shelbyville former Big Lots",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
+      "urgency": "low"
+    },
+    {
+      "name": "Carson Knight",
+      "deal": "Smart LED TN LLC — Highland Ave Jackson TN",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "urgency": "low"
+    },
+    {
+      "name": "Amin Lakhani / Smart LED TN LLC",
+      "deal": "Smart LED TN LLC — Highland Ave Jackson TN",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "urgency": "low"
+    },
+    {
+      "name": "Daran Bynum <daranbynum@gmail.com> | 336-761-4449",
+      "deal": "Daran Bynum - Dispensary — Dixie Village Shopping Center",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Jennifer Stewart",
+      "deal": "Sparkle Dog Grooming / Pigtails & Crewcuts — Maple Row Shopping Center",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Danielle McGrath <danielle.mcgrath@jll.com> | 980-819-3857 / 631-466-6510",
+      "deal": "Danielle McGrath - Remote ATM — Dixie Village Shopping Center",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Danielle McGrath",
+      "deal": "Danielle McGrath - Remote ATM — Dixie Village Shopping Center",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Girish Kumar / Flavors of India <flavorsofindiatn@gmail.com>",
+      "deal": "Nothing But Noodles — Maple Row / Art Studio suite",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Heather Paul",
+      "deal": "Heather Paul - LoopNet Lead — Dixie Village Shopping Center",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
+      "urgency": "low"
+    },
+    {
+      "name": "Shana Moore",
+      "deal": "Shana Moore - LoopNet Lead — McMinnville Plaza",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
+      "urgency": "low"
+    },
+    {
+      "name": "Natalie T.",
+      "deal": "Natalie T. - Crexi Lead — Dixie Village Shopping Center",
+      "daysSinceContact": 1,
+      "lastAction": "Email from Tiffanie F.: Tiffanie F. opened brochure on Maple Row Shopping Center",
+      "urgency": "low"
+    },
+    {
+      "name": "Ajay Secore",
+      "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Àlex Purull Polo: Nester property management software is now in Unite",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Lexy & Austin",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashby Scott",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Stephen Prather",
+      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Bed Bath & Beyond targets homeowners; Ba",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Bed Bath & Beyond targets homeowners; Ba",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Bed Bath & Beyond targets homeowners; Ba",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Bed Bath & Beyond targets homeowners; Ba",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Bed Bath & Beyond targets homeowners; Ba",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty - jpetty@southeastventure.com",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Bed Bath & Beyond targets homeowners; Ba",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Taylor",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Bed Bath & Beyond targets homeowners; Ba",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Taylor",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Bed Bath & Beyond targets homeowners; Ba",
+      "urgency": "low"
+    },
+    {
+      "name": "Shady Azez <shadyazezz@gmail.com>",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Bed Bath & Beyond targets homeowners; Ba",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty <jpetty@southeastventure.com>",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Bed Bath & Beyond targets homeowners; Ba",
+      "urgency": "low"
+    },
+    {
+      "name": "David S.",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Bed Bath & Beyond targets homeowners; Ba",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Bed Bath & Beyond targets homeowners; Ba",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Bed Bath & Beyond targets homeowners; Ba",
+      "urgency": "low"
+    },
+    {
+      "name": "Jacob Delk",
+      "deal": "UPS Store Franchisee — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Chain Store Age: DayBreaker: Bed Bath & Beyond targets homeowners; Ba",
+      "urgency": "low"
+    },
+    {
+      "name": "Lauri Fowler",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "David Cooke - david@cookecommercial.com - 214-274-8020",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "David Cooke",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Abbey Gill",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Scott Myers <smyerscre2@outlook.com>",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Laurie",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Mitch",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Fidler",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Fidler",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Tom Fidler",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Susan S.",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Susan Swindal / Mama Suz Fried Pies - Mamasuzfriedpies@gmail.com - 205-567-9667",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Susan Swindal / Mama Suz Fried Pies",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "David Cooke",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Lauri Fowler",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Brent Braden",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Brent Braden",
+      "deal": " — Pell City Marketplace",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Joe Wesley",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Jon Petty",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Shady Azez",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "David S.",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "David S.",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Richard Jones",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Thomas Cashion",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Thomas Cashion",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Rawn Turner",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Rawn Turner - rawn.turner@valorhealthcare.com - 972.435.4808",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Rawn Turner / Valor Healthcare",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "James Rainer",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Clay Richardson",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from CRE Daily: Multifamily Starts Plunge 42%",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Shelby Hall",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy Harper",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Phillip Kemp",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Kemp",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Matty",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Ashley Marshall",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Bill Adair",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Amy",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Phillip Kemp",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Ross Smith",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Devin McClendon",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Ben Claybaker",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Brandon Hoop",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Mary Winston Cramer",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Maddison Sickels",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Charlie Gibson",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Todd Petrowski",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Dr. Kemp",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Brandon Hoop",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Micah Lacher",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
+      "urgency": "low"
+    },
+    {
+      "name": "Jacob Delk",
+      "deal": "HopeSmiles — 144 Wilson Pike",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
       "urgency": "low"
     },
     {
@@ -49547,465 +50059,213 @@
       "urgency": "low"
     },
     {
-      "name": "Keystone Fireworks",
-      "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 502 Thompson Lane",
-      "urgency": "low"
-    },
-    {
-      "name": "Jeb Thompson",
-      "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 502 Thompson Lane",
-      "urgency": "low"
-    },
-    {
-      "name": "Jeb Thompson",
-      "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 502 Thompson Lane",
-      "urgency": "low"
-    },
-    {
-      "name": "Juliana Fernandez",
-      "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
-      "urgency": "low"
-    },
-    {
-      "name": "Carson Knight",
-      "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
-      "urgency": "low"
-    },
-    {
-      "name": "Ryan Romes",
-      "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Gaghan",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Richard Jones: Fwd: Volunteer State bank",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Gaghan - 440-263-9792 - tom@clevelandfurniturebank.org",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Richard Jones: Fwd: Volunteer State bank",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Gaghan",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Richard Jones: Fwd: Volunteer State bank",
-      "urgency": "low"
-    },
-    {
-      "name": "Mathison Ingham",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Richard Jones: Fwd: Volunteer State bank",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay Richardson",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Richard Jones: Fwd: Volunteer State bank",
-      "urgency": "low"
-    },
-    {
-      "name": "Tom Gaghan",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Richard Jones: Fwd: Volunteer State bank",
-      "urgency": "low"
-    },
-    {
-      "name": "Micah Lacher",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Richard Jones: Fwd: Volunteer State bank",
-      "urgency": "low"
-    },
-    {
-      "name": "Clay",
-      "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Richard Jones: Fwd: Volunteer State bank",
-      "urgency": "low"
-    },
-    {
-      "name": "Kevin Moss",
-      "deal": "Royal Bazaar Indian — Parma Heights",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
-      "urgency": "low"
-    },
-    {
-      "name": "Royal Bazaar Indian",
-      "deal": "Royal Bazaar Indian — Parma Heights",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
-      "urgency": "low"
-    },
-    {
-      "name": "Richard Jones",
-      "deal": "Charter School 30K+ SF Requirement — TBD",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Richard Jones: Fwd: Volunteer State bank",
-      "urgency": "low"
-    },
-    {
-      "name": "Daynon Kirby",
-      "deal": "Charter School 30K+ SF Requirement — TBD",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Richard Jones: Fwd: Volunteer State bank",
-      "urgency": "low"
-    },
-    {
-      "name": "Juany Almanza",
-      "deal": "Juany Almanza — Dixie Village Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
-      "urgency": "low"
-    },
-    {
-      "name": "Jesse Warhurst <jessewarhurst@yahoo.com>",
-      "deal": "Jesse Warhurst - Building 16 inquiry — Franklin Center / Russellville, AL",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Ayanna Watkins: Updated invitation: Call with Jacob New Memphis Build",
-      "urgency": "low"
-    },
-    {
-      "name": "Marlon Rodriguez",
-      "deal": "Marlon Rodriguez — Dixie Village Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
-      "urgency": "low"
-    },
-    {
-      "name": "Omar Hidais",
-      "deal": "Omar Hidais — Pea Ridge Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
-      "urgency": "low"
-    },
-    {
-      "name": "Omar Hidais",
-      "deal": "Omar Hidais — Pea Ridge Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
-      "urgency": "low"
-    },
-    {
-      "name": "Justin Rains",
-      "deal": "Factory Connection — Russellville",
-      "daysSinceContact": 0,
-      "lastAction": "Email from NASHtoday: 🎬 Nashville's Toy Story connection + Burger Up is closing",
-      "urgency": "low"
-    },
-    {
-      "name": "Ryan Jordan",
-      "deal": "Ryan Jordan / Former Big Lots — Shelbyville former Big Lots",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: Appointment booked: Coffee / Lunch slots (Hunter Nichols)",
-      "urgency": "low"
-    },
-    {
       "name": "Tina Charnitsky",
       "deal": "Spirit Halloween — Hamilton OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
       "urgency": "low"
     },
     {
       "name": "Steve Stapleton",
       "deal": "Spirit Halloween — Hamilton OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
       "urgency": "low"
     },
     {
       "name": "Steve Stapleton",
       "deal": "Spirit Halloween — Hamilton OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
       "urgency": "low"
     },
     {
       "name": "Tina Charnitsky",
       "deal": "Spirit Halloween — Hamilton OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Spirit Halloween — Hamilton OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
       "urgency": "low"
     },
     {
       "name": "Jacob Delk",
       "deal": "Spirit Halloween — Hamilton OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
       "urgency": "low"
     },
     {
       "name": "Mathison Ingham",
       "deal": "Spirit Halloween — Hamilton OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
       "urgency": "low"
     },
     {
       "name": "Mathison Ingham",
       "deal": "Spirit Halloween — Hamilton OH",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Carson Knight",
-      "deal": "Smart LED TN LLC — Highland Ave Jackson TN",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Amin Lakhani / Smart LED TN LLC",
-      "deal": "Smart LED TN LLC — Highland Ave Jackson TN",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Daran Bynum <daranbynum@gmail.com> | 336-761-4449",
-      "deal": "Daran Bynum - Dispensary — Dixie Village Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Larry Kloess: PCON Prospective Members Outreach",
+      "lastAction": "Email from Charnitsky, Tina: Spirit Halloween - West Virginia",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Swig — Sevierville site",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: Boring Co. buys West End tunnel site",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "Swig — Sevierville site",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: Boring Co. buys West End tunnel site",
       "urgency": "low"
     },
     {
       "name": "Jacob Delk",
       "deal": "Swig — Sevierville site",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jacob Delk: 2151 N Highland",
-      "urgency": "low"
-    },
-    {
-      "name": "Jennifer Stewart",
-      "deal": "Sparkle Dog Grooming / Pigtails & Crewcuts — Maple Row Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
+      "lastAction": "Email from Kelsey Cornillie, Publisher: Boring Co. buys West End tunnel site",
       "urgency": "low"
     },
     {
       "name": "Ryder Ballard",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "lastAction": "Email from CoStar News: CoStar Today: How it all Flows: Tour Adam Neumann’s Miam",
       "urgency": "low"
     },
     {
       "name": "Micah Lacher",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "lastAction": "Email from CoStar News: CoStar Today: How it all Flows: Tour Adam Neumann’s Miam",
       "urgency": "low"
     },
     {
       "name": "Adam Heston",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "lastAction": "Email from CoStar News: CoStar Today: How it all Flows: Tour Adam Neumann’s Miam",
       "urgency": "low"
     },
     {
       "name": "Brandon Hoop",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "lastAction": "Email from CoStar News: CoStar Today: How it all Flows: Tour Adam Neumann’s Miam",
       "urgency": "low"
     },
     {
       "name": "Redline Fitness",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "lastAction": "Email from CoStar News: CoStar Today: How it all Flows: Tour Adam Neumann’s Miam",
       "urgency": "low"
     },
     {
       "name": "Jerry / KWC Assistant <assistcynthialeekwc@gmail.com>",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "lastAction": "Email from CoStar News: CoStar Today: How it all Flows: Tour Adam Neumann’s Miam",
       "urgency": "low"
     },
     {
       "name": "Chantel Martinez <chantelmartinez@kw.com>",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "lastAction": "Email from CoStar News: CoStar Today: How it all Flows: Tour Adam Neumann’s Miam",
       "urgency": "low"
     },
     {
       "name": "KWC Assistant <assistcynthialeekwc@gmail.com>",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "lastAction": "Email from CoStar News: CoStar Today: How it all Flows: Tour Adam Neumann’s Miam",
       "urgency": "low"
     },
     {
       "name": "Ryder Ballard <rballard@charleshawkinsco.com>",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "lastAction": "Email from CoStar News: CoStar Today: How it all Flows: Tour Adam Neumann’s Miam",
       "urgency": "low"
     },
     {
       "name": "KWC Assistant / Skiptown",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "lastAction": "Email from CoStar News: CoStar Today: How it all Flows: Tour Adam Neumann’s Miam",
       "urgency": "low"
     },
     {
       "name": "KWC Assistant / Cynthia Lee KWC",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "lastAction": "Email from CoStar News: CoStar Today: How it all Flows: Tour Adam Neumann’s Miam",
       "urgency": "low"
     },
     {
       "name": "Skiptown",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "lastAction": "Email from CoStar News: CoStar Today: How it all Flows: Tour Adam Neumann’s Miam",
       "urgency": "low"
     },
     {
       "name": "Ashley Cusker <ashleycusker@katzretail.com>",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "lastAction": "Email from CoStar News: CoStar Today: How it all Flows: Tour Adam Neumann’s Miam",
       "urgency": "low"
     },
     {
       "name": "Ross Hopkins <rhopkins@southeastventure.com>",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "lastAction": "Email from CoStar News: CoStar Today: How it all Flows: Tour Adam Neumann’s Miam",
       "urgency": "low"
     },
     {
       "name": "Neal NeSmith",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "lastAction": "Email from CoStar News: CoStar Today: How it all Flows: Tour Adam Neumann’s Miam",
       "urgency": "low"
     },
     {
       "name": "Duane Roggendorff",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "lastAction": "Email from CoStar News: CoStar Today: How it all Flows: Tour Adam Neumann’s Miam",
       "urgency": "low"
     },
     {
       "name": "Devin / Redline Fitness",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "lastAction": "Email from CoStar News: CoStar Today: How it all Flows: Tour Adam Neumann’s Miam",
       "urgency": "low"
     },
     {
       "name": "Ross Hopkins",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
+      "lastAction": "Email from CoStar News: CoStar Today: How it all Flows: Tour Adam Neumann’s Miam",
       "urgency": "low"
     },
     {
       "name": "Jon Speers",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Cir",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jon Speers: 312 Wilson Pike Circle",
-      "urgency": "low"
-    },
-    {
-      "name": "Danielle McGrath <danielle.mcgrath@jll.com> | 980-819-3857 / 631-466-6510",
-      "deal": "Danielle McGrath - Remote ATM — Dixie Village Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
-      "urgency": "low"
-    },
-    {
-      "name": "Danielle McGrath",
-      "deal": "Danielle McGrath - Remote ATM — Dixie Village Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
-      "urgency": "low"
-    },
-    {
-      "name": "Girish Kumar / Flavors of India <flavorsofindiatn@gmail.com>",
-      "deal": "Nothing But Noodles — Maple Row / Art Studio suite",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Larry Kloess: PCON Prospective Members Outreach",
-      "urgency": "low"
-    },
-    {
-      "name": "Heather Paul",
-      "deal": "Heather Paul - LoopNet Lead — Dixie Village Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Robert Cook: Martin's Center | Pell City, AL",
-      "urgency": "low"
-    },
-    {
-      "name": "Shana Moore",
-      "deal": "Shana Moore - LoopNet Lead — McMinnville Plaza",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Darlene Ramsey: Re: {External}  McMinnville Plaza - Friday 6/19",
-      "urgency": "low"
-    },
-    {
-      "name": "Natalie T.",
-      "deal": "Natalie T. - Crexi Lead — Dixie Village Shopping Center",
-      "daysSinceContact": 0,
-      "lastAction": "Email from Travis J. Kelty: 1,362 SF -Berry Hill Office Suite FOR LEASE - NASHVI",
+      "lastAction": "Email from CoStar News: CoStar Today: How it all Flows: Tour Adam Neumann’s Miam",
       "urgency": "low"
     }
   ],
