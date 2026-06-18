@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T15:30:10.665646",
+  "lastUpdated": "2026-06-18T16:03:46.096024",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-18",
@@ -29268,8 +29268,8 @@
       "id": "evansville-easterseals",
       "tenant": "Easterseals Rehabilitation",
       "property": "Evansville Big Lots",
-      "status": "Evansville Rehab / Adult Day Services remains possible but should be structured like Valley Health: show as-is and TI-funded rent scenarios, push toward 10-year term, cap landlord-funded TI, and offer ROFR instead of a fixed purchase option. Where Ya Bin is paused for at least the next few months.",
-      "nextStep": "Build the lease/TI scenario spreadsheet and educate Robert Henson on as-is vs landlord-funded TI economics; use ROFR if purchase right is needed.",
+      "status": "Evansville Rehab is actively diligence-testing Jacob's Big Lots proposal: Robert Henson said they were touring at 3 PM with a donor who is also a developer, still had alarm codes if needed, and really like the proposal while seeing what they can make work on their end.",
+      "nextStep": "Jacob should watch for post-tour feedback from Robert Henson/developer donor and be ready to frame structure around as-is vs landlord-funded TI, 10-year term, TI amortization, and ROFR rather than fixed purchase option.",
       "priority": "high",
       "timeline": [
         {
@@ -29326,6 +29326,11 @@
           "date": "2026-06-18",
           "event": "Email from Robert H. Burns Company, Inc.: Premier Building",
           "type": "email"
+        },
+        {
+          "date": "2026-06-18",
+          "event": "Robert Henson said Evansville Rehab was touring Big Lots at 3 PM with a donor/developer, they really like Anchor's proposal, and are testing what they can make work on their end.",
+          "type": "lead"
         },
         {
           "date": "2026-06-17",
@@ -29813,7 +29818,9 @@
         "Robert Henson (Evansville Rehab)",
         "Micah Lacher (Anchor)",
         "Jacob Delk (Anchor)"
-      ]
+      ],
+      "stage": "Trading Terms",
+      "stageOverride": "Trading Terms"
     },
     {
       "id": "shelbyville-cosmoprof",
