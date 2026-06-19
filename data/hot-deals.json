@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T11:30:19.809601",
+  "lastUpdated": "2026-06-19T12:02:01.898268",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-19",
@@ -75,9 +75,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below counsel returned clean and redline lease versions for Malone Plaza on 2026-06-18; lease is back in review/comment posture.",
+      "status": "Five Below CDs are approved to start, but Desiree said they still need clearer facade direction because Five Below drawings will show signage elements/finishes, not how to construct the facade. Ashby said he will jump on the returned lease comments before vacation next week if possible.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob to review the redline/clean lease, route legal/business comments, and resolve work letter/final sign/no-build-area exhibits before signature.",
+      "nextStep": "Jacob/Clay/Ashby need to lock facade direction/markups and keep lease-comment review moving before Ashby's vacation.",
       "priority": "high",
       "timeline": [
         {
@@ -148,6 +148,11 @@
         {
           "date": "2026-06-19",
           "event": "Email from Kelsey Cornillie, Publisher: Five Points buildings fetch $8.5M",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-19",
+          "event": "Five Below approved CDs to start, but still needs facade direction; Ashby said he will try to review lease comments before vacation.",
           "type": "email"
         },
         {
@@ -49596,9 +49601,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "Ryder Ballard followed up on the Borders/Ryder LOI for 312 Wilson Pike and asked whether Jacob/Adam have questions. Jacob needs to decide response/subdivision/LOI posture while weighing competing Wilson interest.",
+      "status": "Your Pet Dentist / Mission Pet Health initial reaction was mixed and they are primarily focused on another opportunity, but Duane/Ojas will keep tabs and circle back if things shift.",
       "stage": "LOI",
-      "nextStep": "Review LOI and respond to Ryder with questions or counter posture.",
+      "nextStep": "Keep Ryder/Borders LOI and other Wilson interest prioritized; no immediate action needed on Your Pet Dentist unless Duane re-engages.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -49670,6 +49675,11 @@
         {
           "date": "2026-06-19",
           "event": "Ryder Ballard followed up on the 312 Wilson Pike LOI asking whether Jacob/Adam have questions.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-19",
+          "event": "Ojas said Your Pet Dentist/Mission Pet Health initial reaction was mixed and they are focused on another opportunity, but will keep tabs.",
           "type": "email"
         },
         {
