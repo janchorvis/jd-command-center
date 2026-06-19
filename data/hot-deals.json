@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T07:33:28.502793",
+  "lastUpdated": "2026-06-19T09:01:54.173523",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-19",
@@ -29880,13 +29880,18 @@
       "id": "evansville-easterseals",
       "tenant": "Easterseals Rehabilitation",
       "property": "Evansville Big Lots",
-      "status": "Evansville Rehab is actively diligence-testing Jacob's Big Lots proposal: Robert Henson said they were touring at 3 PM with a donor who is also a developer, still had alarm codes if needed, and really like the proposal while seeing what they can make work on their end.",
-      "nextStep": "Jacob should watch for post-tour feedback from Robert Henson/developer donor and be ready to frame structure around as-is vs landlord-funded TI, 10-year term, TI amortization, and ROFR rather than fixed purchase option.",
+      "status": "Evansville Rehab toured with a donor/developer and asked what it would cost to purchase the building outright, while still liking Anchor's proposal.",
+      "nextStep": "Decide sale-price posture versus lease/TI structure and respond to Robert Henson.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-06-19",
           "event": "Email from Robert Cook: Martin's Center | Pell City, AL",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-19",
+          "event": "Robert Henson asked for the outright purchase price for the Evansville Big Lots building after touring with a donor/developer.",
           "type": "email"
         },
         {
@@ -49035,10 +49040,10 @@
     {
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
-      "property": "312 Wilson Pike Cir",
-      "status": "312 Wilson Pike interest continues to stack up: Ross Hopkins / Southeast Venture submitted a signed Futbol Factory LOI for the front portion of the building after touring on 6/17, and Jon Speers / Equitable separately asked whether the listing is available, lease rate, interior photos, clear heights, and other details. Jacob needs to weigh these against Ryder/Borders and other active Wilson interest.",
+      "property": "312 Wilson Pike",
+      "status": "Ryder Ballard followed up on the Borders/Ryder LOI for 312 Wilson Pike and asked whether Jacob/Adam have questions. Jacob needs to decide response/subdivision/LOI posture while weighing competing Wilson interest.",
       "stage": "LOI",
-      "nextStep": "Review Ross/Futbol Factory LOI and decide response/pricing posture; answer Jon Speers with availability/rate/details if Jacob wants to engage.",
+      "nextStep": "Review LOI and respond to Ryder with questions or counter posture.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -49062,6 +49067,11 @@
         "Jon Speers (Equitable Property Company)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-19",
+          "event": "Ryder Ballard followed up on the 312 Wilson Pike LOI asking whether Jacob/Adam have questions.",
+          "type": "email"
+        },
         {
           "date": "2026-06-18",
           "event": "Email from Micah Lacher: Fwd: Error [step 2] - Google Sheets: No matches",
