@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T07:16:01.850276",
+  "lastUpdated": "2026-06-19T07:33:28.502793",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-19",
@@ -64,7 +64,10 @@
       "Give generosity committee nominations by May 20th (overdue — due 2026-05-20)",
       "PCON feedback: Zack Hubiak (overdue — due 2026-05-15)",
       "PCON feedback: Sean Spafford (overdue — due 2026-05-15)",
-      "PCON feedback: Griffin Hodge (overdue — due 2026-04-02)"
+      "PCON feedback: Griffin Hodge (overdue — due 2026-04-02)",
+      "Respond to Carole Ward on the Nashville IT issue she clarified overnight.",
+      "Use Trace Morris's repair update before the Emerson/Fat Bottom walkthrough posture hardens.",
+      "McMinnville site visit stack starts at 7:30 AM; keep UPS/Wingstop/facade context handy."
     ]
   },
   "pipelineDeals": [
@@ -9539,11 +9542,16 @@
       "id": "emerson-hawkins",
       "name": "Charles Hawkins Co.",
       "property": "Emerson Hall - Hotel Space",
-      "status": "Today calendar includes a 10:15 AM reminder to send Emerson pipe to PMs.",
+      "status": "Trace Morris replied overnight that broken exit signs and other items have been fixed; roof-hole responsibility is still unresolved and Trace will inspect Monday; Fat Bottom removed door handles when closing the downstairs bar.",
       "stage": "LOI",
-      "nextStep": "Send Emerson pipe to property managers and keep lease-signature pressure moving.",
-      "priority": "high",
+      "nextStep": "Jacob should incorporate Trace's repair update into the Fat Bottom/new-tenant walkthrough posture and decide roof/door-handle responsibility before the next walkthrough conversation.",
+      "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-06-19",
+          "event": "Briefing: overnight Slack update from Trace Morris on Fat Bottom repairs/walkthrough items.",
+          "type": "task"
+        },
         {
           "date": "2026-06-18",
           "event": "Email from Google Workspace Alerts: Alert: User-reported phishing  for  chris@netgeeks.net",
