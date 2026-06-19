@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T15:01:48.747654",
+  "lastUpdated": "2026-06-19T15:30:15.632560",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-19",
@@ -52296,6 +52296,13 @@
     },
     {
       "name": "Shaun Andriano",
+      "deal": "Shoe Dept — Malone Plaza",
+      "daysSinceContact": 0,
+      "lastAction": "Email from Jennifer Arnold: SDE Malone, NY Brand Book Approval Req",
+      "urgency": "low"
+    },
+    {
+      "name": "Jennifer Arnold",
       "deal": "Shoe Dept — Malone Plaza",
       "daysSinceContact": 0,
       "lastAction": "Email from Jennifer Arnold: SDE Malone, NY Brand Book Approval Req",
