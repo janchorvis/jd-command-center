@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T15:01:30.166720",
+  "lastUpdated": "2026-06-19T15:01:48.747654",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-19",
@@ -3359,10 +3359,10 @@
       "id": "malone-shoe-dept",
       "name": "Shoe Dept",
       "property": "Malone Plaza",
-      "status": "Commission treatment discussed: hold Shoe Dept commission for later payment; if a property is selling, consider paying commissions before close to avoid buyer diligence/closing ambiguity.",
+      "status": "Design Team sent the Shoe Dept Encore Malone brand book for approval on 2026-06-19; Jacob needs to review/approve the attached brand book PDF.",
       "stage": "Lease Signed",
-      "nextStep": "Keep Shoe Dept commission on hold unless/until payment timing is intentionally released.",
-      "priority": "medium",
+      "nextStep": "Review and approve or comment on the Shoe Dept Encore Malone brand book.",
+      "priority": "high",
       "timeline": [
         {
           "date": "2026-06-19",
@@ -3382,6 +3382,11 @@
         {
           "date": "2026-06-19",
           "event": "Email from Shana Moore: LoopNet Lead for Mcminnville Plaza",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-19",
+          "event": "Design Team sent Shoe Dept Encore Malone brand book for approval.",
           "type": "email"
         },
         {
@@ -4769,7 +4774,8 @@
         "Paul (Shoe Dept)",
         "Paul (Shoe Dept contact)",
         "Tony Grillo (Shoe Show)",
-        "Shaun Andriano (C2 Design Group)"
+        "Shaun Andriano (C2 Design Group)",
+        "Jennifer Arnold (Design Team Sign Company)"
       ],
       "actions": [
         {
