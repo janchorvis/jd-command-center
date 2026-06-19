@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T15:30:15.632560",
+  "lastUpdated": "2026-06-19T16:30:16.207157",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-19",
@@ -4805,6 +4805,11 @@
       "nextStep": "Follow up on site visit",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-06-19",
+          "event": "Email from Natalie Firkser: From Mexico to Nashville: Life-changing updates (+ Big Golf and NFL Camp News!)",
+          "type": "email"
+        },
         {
           "date": "2026-06-19",
           "event": "Email from Jennifer Arnold: SDE Malone, NY Brand Book Approval Req",
@@ -39283,6 +39288,11 @@
       "timeline": [
         {
           "date": "2026-06-19",
+          "event": "Email from Natalie Firkser: From Mexico to Nashville: Life-changing updates (+ Big Golf and NFL Camp News!)",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-19",
           "event": "Email from Dillon Eakes: Phoenix Club of Nashville Upcoming Programs Events",
           "type": "email"
         },
@@ -51187,6 +51197,11 @@
       "timeline": [
         {
           "date": "2026-06-19",
+          "event": "Email from Natalie Firkser: From Mexico to Nashville: Life-changing updates (+ Big Golf and NFL Camp News!)",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-19",
           "event": "Email from Eric Snyder, Editor in Chief: Counterpoint: CEO, Janet Miller on zoo data center",
           "type": "email"
         },
@@ -52312,7 +52327,7 @@
       "name": "Ajay Secore",
       "deal": "Ajay Secore - Golf Simulator — Malone Plaza (Unit 3)",
       "daysSinceContact": 0,
-      "lastAction": "Email from Jennifer Arnold: SDE Malone, NY Brand Book Approval Req",
+      "lastAction": "Email from Natalie Firkser: From Mexico to Nashville: Life-changing updates (+ B",
       "urgency": "low"
     },
     {
@@ -53670,21 +53685,21 @@
       "name": "Julie Robbins",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Dillon Eakes: Phoenix Club of Nashville Upcoming Programs Events",
+      "lastAction": "Email from Natalie Firkser: From Mexico to Nashville: Life-changing updates (+ B",
       "urgency": "low"
     },
     {
       "name": "Michael Dunn",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Dillon Eakes: Phoenix Club of Nashville Upcoming Programs Events",
+      "lastAction": "Email from Natalie Firkser: From Mexico to Nashville: Life-changing updates (+ B",
       "urgency": "low"
     },
     {
       "name": "Cole @ DR Horton",
       "deal": "Buena Vista — 2433 Buena Vista Pike, Nashville",
       "daysSinceContact": 0,
-      "lastAction": "Email from Dillon Eakes: Phoenix Club of Nashville Upcoming Programs Events",
+      "lastAction": "Email from Natalie Firkser: From Mexico to Nashville: Life-changing updates (+ B",
       "urgency": "low"
     },
     {
@@ -54202,7 +54217,7 @@
       "name": "Natalie T.",
       "deal": "Natalie T. - Crexi Lead — Dixie Village Shopping Center",
       "daysSinceContact": 0,
-      "lastAction": "Email from Eric Snyder, Editor in Chief: Counterpoint: CEO, Janet Miller on zoo ",
+      "lastAction": "Email from Natalie Firkser: From Mexico to Nashville: Life-changing updates (+ B",
       "urgency": "low"
     }
   ],
