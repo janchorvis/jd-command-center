@@ -51825,6 +51825,27 @@
       "property": "Primary target for discussion about Malone location",
       "lastSeen": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
       "note": "Dropped from prep doc. Last status: Left voicemail and sent follow-up email No response yet Bryce Islava (Harbor Freight) Attempting to get answers regarding Indiana and Ohio locations Also inquiring about potential expansion in Harrison or Parma Heights Called but didn't connect Sent follow-up email Planning to follow up next week Newmark Brokers (Harbor Freight Representatives) Discovered Harbor Freight works with Newmark brokers from company website Contacted Gloria at Newmark via email and phone Gloria has not been responsive"
+    },
+    {
+      "id": "sevierville-sally-beauty",
+      "name": "Sevierville Sally Beauty",
+      "property": "Sevierville Sally Beauty",
+      "lastSeen": "Week Of 6/8/26",
+      "note": "Dropped from prep doc. Last status: Turned the LOI back to them last week. I made the changes that we talked about with them at ICSC. The brokers said that at first glance it looked really good, and they think it will all be pretty close. Awaiting an official response"
+    },
+    {
+      "id": "spirit-halloween-hamilton",
+      "name": "Spirit Halloween",
+      "property": "Hamilton",
+      "lastSeen": "Week Of 6/8/26",
+      "note": "Dropped from prep doc. Last status: Spirit is actively looking at the 12,000 SF Hamilton vacancy. Not much update besides that, but we'll keep you posted"
+    },
+    {
+      "id": "gallatin-trader-joes",
+      "name": "Gallatin",
+      "property": "Trader Joes",
+      "lastSeen": "Week Of 6/8/26",
+      "note": "Dropped from prep doc. Last status: Leaving here to talk about if we have time. I think Carson said he sent you the notes of our conversation - just wanted to talk through everything. The brokers have followed up with him, so just wanted to keep it on all of our radar. It seems far-fetched/unlikely in my opinion. MacBid I had an update call with one of the brokers to check in. Sounds like business is going well, and they are primarily looking for the more industrial-style locations for their expansion. I am checking back in with them this week because all of the major contracts were supposed to be awarded last week, and that will dictate what markets they are looking at for expansion. Just wanted to close the loop from previous convos. Fostr Yardi is tied in. Roll out to the team coming soon. I'll show you some examples in our meeting."
     }
   ],
   "staleContacts": [
@@ -54134,7 +54155,7 @@
   "actionItems": [
     {
       "title": "Miscellaneous",
-      "detail": "Anchor commissions from April. Figured we could talk through how we want them to be paid to Anchor. Below is my educated guess Montgomery - QT Nails: Pay first half and hold the second half until they open/commence (June 1)"
+      "detail": "-Shelbyville Civil Engineer -Just closing the loop for you. I figured out what happened for the leasing line and Eric Abrom’s call."
     }
   ],
   "crossRefAlerts": [
@@ -54616,234 +54637,72 @@
     ]
   },
   "prepDocDiff": {
-    "generatedAt": "2026-06-12T15:06:28.281638",
-    "thisWeek": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
-    "lastWeek": "2025-03-07 - Leasing Activity - Weekly Update 3/7/25",
+    "generatedAt": "2026-06-19T15:00:24.424246",
+    "thisWeek": "2026-06-15 - Leasing Meeting",
+    "lastWeek": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
     "new": [
-      {
-        "name": "McMinnville Plaza",
-        "property": "McMinnville Plaza",
-        "status": "UPS store got full approval. Wingstop deal is still in motion. They have just had other things they've been working on - they owe us a lease draft. Aldi site visit scheduled for the 19th",
-        "nextStep": ""
-      },
-      {
-        "name": "Evansville Big Lots",
-        "property": "Evansville Rehab",
-        "status": "(Jarvis summary) Robert Henson from Evansville Rehab says they are building a new $25M therapy facility and are looking at the Big Lots box for Adult Day Services, potentially on a 3-5 year lease with an option to buy. Their contractor's rough estimate was $6M for a full renovation or about half that for half the building, and Robert asked for lease-rate scenarios with them funding the work versus us providing some renovation support.",
-        "nextStep": ""
-      },
-      {
-        "name": "Hamilton",
-        "property": "Dutch Bros Title / Sale Issues",
-        "status": "I think you are in the loop on most up to date information. The ball is in their court with the revised agreements, and they are taking them to Dutch bros",
-        "nextStep": ""
-      },
-      {
-        "name": "Smart LED",
-        "property": "Highland",
-        "status": "We sent a lease out for the Highland Vacancy but all still subject to review/change. It is an LED lighting store. They have a store in Memphis, and this would be their second location. (https://slsmem.com/, https://share.google/8PEr9DXG3wPMIsY7Q)",
-        "nextStep": ""
-      },
-      {
-        "name": "Sevierville Sally Beauty",
-        "property": "Sevierville Sally Beauty",
-        "status": "Turned the LOI back to them last week. I made the changes that we talked about with them at ICSC. The brokers said that at first glance it looked really good, and they think it will all be pretty close. Awaiting an official response",
-        "nextStep": ""
-      },
-      {
-        "name": "Spirit Halloween",
-        "property": "Hamilton",
-        "status": "Spirit is actively looking at the 12,000 SF Hamilton vacancy. Not much update besides that, but we'll keep you posted",
-        "nextStep": ""
-      },
       {
         "name": "HopeSmiles",
         "property": "144 Wilson Pike",
-        "status": "Still in motion. We sent back the LOI and trying to find an alternate guarantee structure. They are also having us get confirmation from Brentwood Zoning that we would be all clear on the use, which we should be from our preliminary research.",
-        "nextStep": ""
-      },
-      {
-        "name": "Gallatin",
-        "property": "Trader Joes",
-        "status": "Leaving here to talk about if we have time. I think Carson said he sent you the notes of our conversation - just wanted to talk through everything. The brokers have followed up with him, so just wanted to keep it on all of our radar. It seems far-fetched/unlikely in my opinion. MacBid I had an update call with one of the brokers to check in. Sounds like business is going well, and they are primarily looking for the more industrial-style locations for their expansion. I am checking back in with them this week because all of the major contracts were supposed to be awarded last week, and that will dictate what markets they are looking at for expansion. Just wanted to close the loop from previous convos. Fostr Yardi is tied in. Roll out to the team coming soon. I'll show you some examples in our meeting.",
+        "status": "I'll give you the update in person, but I talked to Dr. Kemp on the phone last night and we are going to kill 144 Wilson Pike. The brokers have been trying to use this other deal against us and keep moving the goal posts.",
         "nextStep": ""
       }
     ],
     "dropped": [
       {
-        "name": "Leasing Activity",
-        "property": "Weekly Update",
-        "lastStatus": ""
+        "name": "Malone Plaza",
+        "property": "Malone Plaza",
+        "lastStatus": "Ball is still in their court with the Five Below lease."
       },
       {
-        "name": "Shelbyville Property Initiatives:",
-        "property": "Shelbyville Property Initiatives:",
-        "lastStatus": "Local Government Outreach"
+        "name": "Sevierville Sally Beauty",
+        "property": "Sevierville Sally Beauty",
+        "lastStatus": "Turned the LOI back to them last week. I made the changes that we talked about with them at ICSC. The brokers said that at first glance it looked really good, and they think it will all be pretty close. Awaiting an official response"
       },
       {
-        "name": "Shelbyville Development Corporation",
-        "property": "Shelbyville Development Corporation",
-        "lastStatus": "Left voicemail and sent email"
+        "name": "Spirit Halloween",
+        "property": "Hamilton",
+        "lastStatus": "Spirit is actively looking at the 12,000 SF Hamilton vacancy. Not much update besides that, but we'll keep you posted"
       },
       {
-        "name": "Received callback",
-        "property": "they will add our listing to their website",
-        "lastStatus": ""
-      },
-      {
-        "name": "Mayor of Shelbyville",
-        "property": "Mayor of Shelbyville",
-        "lastStatus": "Called, left voicemail, and emailed"
-      },
-      {
-        "name": "Mayor responded",
-        "property": "no specific prospects in mind",
-        "lastStatus": "Offered assistance if needed Potential resource for future credits/incentives if we pursue redevelopment or box splitting"
-      },
-      {
-        "name": "Retailer Outreach for Shelbyville",
-        "property": "Retailer Outreach for Shelbyville",
-        "lastStatus": ""
-      },
-      {
-        "name": "Five Below / Soft Goods Concept",
-        "property": "Five Below / Soft Goods Concept",
-        "lastStatus": "Developing new thesis about splitting the box for a soft goods user with Five Below"
-      },
-      {
-        "name": "TJX",
-        "property": "TJX",
-        "lastStatus": ""
-      },
-      {
-        "name": "Contacted regarding potential Shelbyville location",
-        "property": "Contacted regarding potential Shelbyville location",
-        "lastStatus": ""
-      },
-      {
-        "name": "They responded that they've previously evaluated Shelbyville",
-        "property": "They responded that they've previously evaluated Shelbyville",
-        "lastStatus": "Not interested as it would cannibalize their other nearby stores"
-      },
-      {
-        "name": "Broker Activity for Shelbyville",
-        "property": "Broker Activity for Shelbyville",
-        "lastStatus": ""
-      },
-      {
-        "name": "Paul Gold (Echo Retail)",
-        "property": "Paul Gold (Echo Retail)",
-        "lastStatus": ""
-      },
-      {
-        "name": "Discussed Shelbyville property",
-        "property": "Discussed Shelbyville property",
-        "lastStatus": "Presented my new thesis about splitting the box He requested site plan renderings to present to clients Woodcrest Capital Called listing broker for adjacent property No answer Mid-Atlantic Broker (works with Pat Boyle) Connected regarding development behind our property Received intel that Hobby Lobby is looking at the development Hobby Lobby Called Brooks McMillan who confirmed he wasn't the right contact Brooks is connecting us with the correct contact (Les Mills) Good relationship-building opportunity with Brooks Pat Boyle Playing phone tag Attempting to reconnect"
-      },
-      {
-        "name": "Inbound Leads for Shelbyville",
-        "property": "Inbound Leads for Shelbyville",
-        "lastStatus": "Bomgaars Supply"
-      },
-      {
-        "name": "Farm, ranch, and agricultural supplier interested in Shelbyville location",
-        "property": "Farm, ranch, and agricultural supplier interested in Shelbyville location",
-        "lastStatus": "Planning to follow up with broker next week"
-      },
-      {
-        "name": "Retailer Outreach for Malone",
-        "property": "Retailer Outreach for Malone",
-        "lastStatus": "Jodie Womack (Harbor Freight)"
-      },
-      {
-        "name": "Primary target for Malone location",
-        "property": "Primary target for Malone location",
-        "lastStatus": "Left voicemail and sent follow-up email No response yet Aaron's Called Casey regarding Malone location (noting Rent-A-Center is in Malone, but not Aaron's) No answer - sent follow-up email"
-      },
-      {
-        "name": "Planet Fitness",
-        "property": "Planet Fitness",
-        "lastStatus": ""
-      },
-      {
-        "name": "Followed up with Kent Adams regarding Malone location",
-        "property": "Followed up with Kent Adams regarding Malone location",
-        "lastStatus": "No response to call or email BJ's Wholesale"
-      },
-      {
-        "name": "Called regarding Malone location (noting they have a store in Massena, NY)",
-        "property": "Called regarding Malone location (noting they have a store in Massena, NY)",
-        "lastStatus": ""
-      },
-      {
-        "name": "Received email response indicating no interest in Malone",
-        "property": "Received email response indicating no interest in Malone",
-        "lastStatus": "Michaels Called regarding Malone location (noting they have a store in Massena and we are losing Joann) Spoke with Karen (Director of Real Estate) who connected us with Maureen (New York market)"
-      },
-      {
-        "name": "Reached out to Maureen",
-        "property": "no answer",
-        "lastStatus": "Planning to follow up next week"
-      },
-      {
-        "name": "Broker Activity for Malone",
-        "property": "Broker Activity for Malone",
-        "lastStatus": "Brian Donovan Successfully connected with Brian (previous contact) He indicated he didn't have any prospects for us Referred us to Ken Brownell Ken Brownell"
-      },
-      {
-        "name": "Called but didn't connect",
-        "property": "left message",
-        "lastStatus": "Sent follow-up email Planning to follow up next week Represents major retailers in upstate New York"
-      },
-      {
-        "name": "Is the listing broker for All & Dollar Tree Shopping Center adjacent to MLM",
-        "property": "Is the listing broker for All & Dollar Tree Shopping Center adjacent to MLM",
-        "lastStatus": "Regional/Other Initiatives:"
-      },
-      {
-        "name": "Grocery & General Retail",
-        "property": "Grocery & General Retail",
-        "lastStatus": "Hannaford Grocery"
-      },
-      {
-        "name": "Called Vermont/Plattsburgh representative",
-        "property": "no answer",
-        "lastStatus": "Sent follow-up email Was connected with New York representative Called New York rep multiple times and sent email Planning to follow up next week Dollarama Contacted real estate representative about Canadian store Exchanged text messages They confirmed they are not looking to expand into US at this time Northern Tool"
-      },
-      {
-        "name": "Called real estate representative",
-        "property": "no answer",
-        "lastStatus": "Sent follow-up email Received email response indicating no interest in our sites Aldi Spoke with Clayton (Russ's contact) for approximately 10 minutes Clayton connected us with his broker for follow-up next week Intel: They might consider the new development down the road They are not one of the main players/drivers for that development Dunham's"
-      },
-      {
-        "name": "Called Michael Stozicki",
-        "property": "no answer",
-        "lastStatus": "Sent follow-up email"
-      },
-      {
-        "name": "Received out",
-        "property": "of-office response - will be back next week",
-        "lastStatus": "Evansville Development Outreach Evansville Economic Development Office Left voicemail Emailed the CEO of Development Awaiting response Harbor Freight Initiatives: Bill Gearhart (Harbor Freight) Called and left voicemail regarding locations in his region"
-      },
-      {
-        "name": "Received email response that Gastonia location wouldn't work",
-        "property": "Received email response that Gastonia location wouldn't work",
-        "lastStatus": "This was the only property in his territory Jodie Womack (Harbor Freight)"
-      },
-      {
-        "name": "Primary target for discussion about Malone location",
-        "property": "Primary target for discussion about Malone location",
-        "lastStatus": "Left voicemail and sent follow-up email No response yet Bryce Islava (Harbor Freight) Attempting to get answers regarding Indiana and Ohio locations Also inquiring about potential expansion in Harrison or Parma Heights Called but didn't connect Sent follow-up email Planning to follow up next week Newmark Brokers (Harbor Freight Representatives) Discovered Harbor Freight works with Newmark brokers from company website Contacted Gloria at Newmark via email and phone Gloria has not been responsive"
+        "name": "Gallatin",
+        "property": "Trader Joes",
+        "lastStatus": "Leaving here to talk about if we have time. I think Carson said he sent you the notes of our conversation - just wanted to talk through everything. The brokers have followed up with him, so just wanted to keep it on all of our radar. It seems far-fetched/unlikely in my opinion. MacBid I had an update call with one of the brokers to check in. Sounds like business is going well, and they are primarily looking for the more industrial-style locations for their expansion. I am checking back in with them this week because all of the major contracts were supposed to be awarded last week, and that will dictate what markets they are looking at for expansion. Just wanted to close the loop from previous convos. Fostr Yardi is tied in. Roll out to the team coming soon. I'll show you some examples in our meeting."
       }
     ],
-    "progressed": [],
+    "progressed": [
+      {
+        "name": "McMinnville Plaza",
+        "property": "McMinnville Plaza",
+        "from": "UPS store got full approval. Wingstop deal is still in motion. They have just had other things they've been working on - they owe us a lease draft. Aldi site visit scheduled for the 19th",
+        "to": "Wingstop sent us a lease We sent the UPS store a lease. We have the site visit with Aldi this week. I will prep some packets that have information on the space. Also, I just realized that Royal Furniture doesn't open until 10:00 AM so I'll reach out to them and see if we can get in earlier. If not, I will coordinate with Sheldon so we tell them to meet at 10 instead of 9. Also, I think Melissa D is going to tag along with us since she's never seen the property."
+      },
+      {
+        "name": "Smart LED",
+        "property": "Highland",
+        "from": "We sent a lease out for the Highland Vacancy but all still subject to review/change. It is an LED lighting store. They have a store in Memphis, and this would be their second location. (https://slsmem.com/, https://share.google/8PEr9DXG3wPMIsY7Q)",
+        "to": "In typical fashion, once getting the tenant lease, they have been negotiating more on the rent. I was texting back and forth with him this weekend. As of last night, we had agreed on terms, and I just need to edit the lease and send it back to them. The short version is we changed some of the rent bumps for the initial term but got 2% annual increases for any of the options."
+      }
+    ],
     "stalled": [],
     "updated": [
       {
-        "name": "Malone Plaza",
-        "property": "Malone Plaza",
-        "from": "",
-        "to": "Ball is still in their court with the Five Below lease."
+        "name": "Evansville Big Lots",
+        "property": "Evansville Rehab",
+        "from": "(Jarvis summary) Robert Henson from Evansville Rehab says they are building a new $25M therapy facility and are looking at the Big Lots box for Adult Day Services, potentially on a 3-5 year lease with an option to buy. Their contractor's rough estimate was $6M for a full renovation or about half that for half the building, and Robert asked for lease-rate scenarios with them funding the work versus us providing some renovation support.",
+        "to": "I sent them the options for a 5/10-year option at both $1M and $2M in TI. I'll keep you posted."
+      },
+      {
+        "name": "Hamilton",
+        "property": "Dutch Bros Title / Sale Issues",
+        "from": "I think you are in the loop on most up to date information. The ball is in their court with the revised agreements, and they are taking them to Dutch bros",
+        "to": "Sounds like we are in the clear and dutch accepted our changes. Based on the PSA, closing would be July 13. Would the best plan be for me to just send an email on that thread confirming those details?"
+      },
+      {
+        "name": "Wilson",
+        "property": "Wilson",
+        "from": "Still in motion. We sent back the LOI and trying to find an alternate guarantee structure. They are also having us get confirmation from Brentwood Zoning that we would be all clear on the use, which we should be from our preliminary research.",
+        "to": "We had three tours this week and received an LOI for the whole building."
       }
     ],
     "noChange": []
