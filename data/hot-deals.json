@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T13:30:09.227274",
+  "lastUpdated": "2026-06-22T14:04:37.812554",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-22",
@@ -49494,10 +49494,10 @@
       "id": "spirit-halloween-hamilton",
       "name": "Spirit Halloween",
       "property": "Hamilton OH",
-      "status": "Spirit Halloween access issue moved forward: Mathison installed a rear lockbox and sent Tina/Steve the code 1928 with photo; awaiting Steve site visit outcome.",
+      "status": "Spirit Halloween reviewed the space and said it likely will not work this year because the space will take too long to prepare, the sales floor is smaller than anticipated, and there is water in the back area.",
       "stage": "Touring",
-      "nextStep": "Await Steve/Spirit's post-visit feedback; Jacob only needs to intervene if access still fails or Spirit requests deal terms.",
-      "priority": "high",
+      "nextStep": "Treat Spirit Halloween Hamilton 2026 as unlikely/dead unless Jacob wants to respond or address the water issue for future showings.",
+      "priority": "medium",
       "contacts": [
         "Tina Charnitsky (Spirit Halloween Real Estate)",
         "Steve Stapleton (Spirit Halloween / Spirit Christmas Zone Manager Ohio/KY)",
@@ -49537,6 +49537,11 @@
         {
           "date": "2026-06-22",
           "event": "Email from Nashville Business Journal: Jacob, here are our upcoming events and nominations",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-22",
+          "event": "Tina Charnitsky said Spirit does not see how they can make the Hamilton space work this year after facilities review.",
           "type": "email"
         },
         {
@@ -52962,6 +52967,28 @@
       "actions": [],
       "type": "Tenant Rep",
       "lastUpdate": "2026-06-17"
+    },
+    {
+      "id": "village-at-hardin-valley-knoxville",
+      "name": "The Village at Hardin Valley",
+      "property": "The Village at Hardin Valley, West Knoxville",
+      "status": "Tanner Sanford / Matthews shared an off-market shopping center opportunity. Matthews quoted the owner at $11.1M list price with likely sale price closer to approximately $10.8M; Tanner asked Jacob and Carson if they have interest or questions.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob/Carson decide whether to review the rent roll and pursue an off-market offer.",
+      "priority": "medium",
+      "contacts": [
+        "Tanner Sanford (Matthews)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-22",
+          "event": "Tanner Sanford sent updated 2026 rent roll for off-market Village at Hardin Valley shopping center and asked for thoughts/questions.",
+          "type": "email"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-06-22"
     }
   ],
   "droppedBalls": [
