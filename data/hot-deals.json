@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T16:04:33.118558",
+  "lastUpdated": "2026-06-22T16:09:28.194020",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-22",
@@ -49680,9 +49680,9 @@
       "id": "spirit-halloween-hamilton",
       "name": "Spirit Halloween",
       "property": "Hamilton OH",
-      "status": "Spirit Halloween toured/inspected the Hamilton space and is likely passing because the floor/readiness would take too long, sales floor is smaller than expected, and they noted water in the back part of the space.",
+      "status": "Spirit Halloween toured after lockbox access was fixed, but Tina Charnitsky said the space will take too long to prepare, the sales floor is smaller than expected, and they do not see a way to make it work this year. They also noted water in the back of the space.",
       "stage": "Touring",
-      "nextStep": "Decide whether to respond with any repair/readiness path or mark Spirit unlikely/dead for Hamilton seasonal use.",
+      "nextStep": "Treat Spirit as lost for 2026 unless they reopen; investigate water in the back of the Hamilton space.",
       "priority": "medium",
       "contacts": [
         "Tina Charnitsky (Spirit Halloween Real Estate)",
@@ -49739,6 +49739,11 @@
         {
           "date": "2026-06-22",
           "event": "Spirit reported the Hamilton space likely will not work after operations/facilities review; noted water in back area.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-22",
+          "event": "Spirit passed on Hamilton for this year after site visit; noted water in rear area.",
           "type": "email"
         },
         {
