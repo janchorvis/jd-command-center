@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T17:02:42.304420",
+  "lastUpdated": "2026-06-22T17:03:26.811715",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-22",
@@ -42474,10 +42474,10 @@
     {
       "id": "emerson-hall",
       "name": "Emerson Hall",
-      "property": "2518 Gallatin Partners / Gallatin",
+      "property": "Emerson Hall / Gallatin",
       "type": "For Lease",
-      "status": "Lately Project lease fully executed via DocuSign; Micah sent execution copy to tenant/brokers and asked Jacob to add it to the lease file.",
-      "nextStep": "Add executed lease to property lease file and track tenant signage/construction approvals and contractor COI before work starts.",
+      "status": "Trace reported the downstairs event-space leak is fixed; plumber is coming back tomorrow to turn water back on and double-check. Trace asked Jacob to send any list of walkthrough items the incoming tenant provides.",
+      "nextStep": "If/when tenant sends walkthrough punch list, forward it to Trace and coordinate remaining repair posture.",
       "contacts": [
         "Charles Hawkins (LOI)",
         "Brether group (Event/Entertainment)",
@@ -42492,9 +42492,10 @@
         "Lexy Burke (Lately Project)",
         "Stephen Prather (Charles Hawkins Co.)",
         "Dylan Bennett (Charles Hawkins Co.)",
-        "Micah Lacher (Anchor)"
+        "Micah Lacher (Anchor)",
+        "Trace Morris"
       ],
-      "priority": "high",
+      "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
         {
@@ -42516,6 +42517,11 @@
           "date": "2026-06-22",
           "event": "Email from HOPE International: How a father’s \"yes” to a savings group changed his family",
           "type": "email"
+        },
+        {
+          "date": "2026-06-22",
+          "event": "Trace Slack-DMed that downstairs event-space leak is fixed; plumber returns tomorrow to restore/check water; asks Jacob for tenant walkthrough item list.",
+          "type": "slack"
         },
         {
           "date": "2026-06-19",
