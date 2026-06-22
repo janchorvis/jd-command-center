@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T07:34:02.566553",
+  "lastUpdated": "2026-06-22T09:02:21.084145",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-22",
@@ -37441,10 +37441,10 @@
     {
       "id": "maple-row-little-caesars-tiffanie-fitzpatrick",
       "name": "Little Caesars",
-      "property": "Maple Row / Hendersonville",
-      "status": "Tiffanie Fitzpatrick says her client Little Caesars is looking for space in Hendersonville and asked whether the Fox's Pizza space is available, plus any other options.",
+      "property": "Maple Row Shopping Center",
+      "status": "Little Caesars broker Tiffanie Fitzpatrick followed up with utility/due-diligence questions for the former/adjacent Fox's Pizza opportunity: grease trap, 400A electrical, gas line, water line, and why Fox's is moving out.",
       "stage": "Contact Made",
-      "nextStep": "Jacob needs to respond on Fox's Pizza availability and any other Hendersonville options.",
+      "nextStep": "Jacob should confirm utility details and decide how much to share about Fox's before replying.",
       "priority": "high",
       "contacts": [
         "Tiffanie Fitzpatrick (Capital Corporation)"
@@ -37453,6 +37453,11 @@
         {
           "date": "2026-06-22",
           "event": "Email from Tiffanie Fitzpatrick: Hendersonville",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-22",
+          "event": "Tiffanie Fitzpatrick asked utility and Fox's Pizza move-out questions for Little Caesars / Maple Row.",
           "type": "email"
         },
         {
@@ -39629,14 +39634,17 @@
     {
       "id": "buena-vista",
       "name": "Buena Vista",
-      "property": "2433 Buena Vista Pike, Nashville",
+      "property": "Buena Vista Pike",
       "type": "Land/Development",
-      "status": "Sir Speedy sign install pricing received: $100 each if posts are reset in concrete by someone else; $250 each if Sir Speedy resets posts; $150 extra labor if new posts are needed.",
-      "nextStep": "Decide whether Sir Speedy or another contractor should reset sign posts, then approve install path.",
+      "status": "Micah flagged a nearby Moda Vista/Bordeaux build-to-rent development financing article and told Jacob to call that group about Buena Vista.",
+      "nextStep": "Jacob should call the Moda Vista/Forman Capital/Moda Homes group about Buena Vista interest or applicability.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
-        "Cole @ DR Horton"
+        "Cole @ DR Horton",
+        "Micah Lacher",
+        "Moda Homes / Moda Vista",
+        "Forman Capital"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-11",
@@ -39645,6 +39653,11 @@
           "date": "2026-06-22",
           "event": "Email from NASHtoday BizBrief: Nashville HQ moves + 3686 entrepreneur conference",
           "type": "email"
+        },
+        {
+          "date": "2026-06-22",
+          "event": "Micah Slack: call the Moda Vista group about Buena Vista after $49.43M BTR loan article.",
+          "type": "communication-triage"
         },
         {
           "date": "2026-06-21",
