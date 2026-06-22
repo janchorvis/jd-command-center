@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T15:30:09.461741",
+  "lastUpdated": "2026-06-22T16:04:33.118558",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-22",
@@ -37330,17 +37330,18 @@
     {
       "id": "smart-led-highland",
       "name": "Smart LED TN LLC",
-      "property": "Highland - 2151 N Highland Ave, Jackson TN",
-      "status": "Amin Lakhani replied to Jacob's revised Smart LED lease draft with proposed revisions covering expanded permitted use, broad subletting rights without prior consent, one-year personal guaranty burnoff, removal of ongoing financial reporting, flexible signage updates, and 50/50 landlord/tenant sharing of HVAC/plumbing/electrical costs.",
+      "property": "Highland / 2151 N Highland",
+      "status": "Amin acknowledged Jacob's 6/18 lease revisions, will send Smart LED TN LLC's last two years of balance sheets and income statements to discuss moving the guaranty to corporate after Year 1, and is still reviewing HVAC/cost-sharing structure.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob needs to review/counter Amin's lease revision requests before DocuSign.",
+      "nextStep": "Review Amin's latest lease/HVAC/guaranty comments and financials when sent; decide whether corporate guaranty after Year 1 is acceptable.",
       "priority": "high",
       "contacts": [
         "Amin Lakhani (Smart LED TN LLC) - smartledtn@gmail.com - 901-907-2646",
         "Amin Lakhani (Smart LED TN LLC)",
         "Carson Knight (Anchor)",
         "Micah Lacher (Anchor)",
-        "Jacob Delk (Anchor)"
+        "Jacob Delk (Anchor)",
+        "Amin Lakhani <smartledtn@gmail.com>"
       ],
       "timeline": [
         {
@@ -37401,6 +37402,11 @@
         {
           "date": "2026-06-22",
           "event": "Email from Dillon Eakes: Phoenix Club of Nashville Upcoming Programs Events",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-22",
+          "event": "Amin replied to revised Smart LED lease with guaranty/financials and HVAC comments.",
           "type": "email"
         },
         {
@@ -49674,9 +49680,9 @@
       "id": "spirit-halloween-hamilton",
       "name": "Spirit Halloween",
       "property": "Hamilton OH",
-      "status": "Spirit Halloween reviewed the space and said it likely will not work this year because the space will take too long to prepare, the sales floor is smaller than anticipated, and there is water in the back area.",
+      "status": "Spirit Halloween toured/inspected the Hamilton space and is likely passing because the floor/readiness would take too long, sales floor is smaller than expected, and they noted water in the back part of the space.",
       "stage": "Touring",
-      "nextStep": "Treat Spirit Halloween Hamilton 2026 as unlikely/dead unless Jacob wants to respond or address the water issue for future showings.",
+      "nextStep": "Decide whether to respond with any repair/readiness path or mark Spirit unlikely/dead for Hamilton seasonal use.",
       "priority": "medium",
       "contacts": [
         "Tina Charnitsky (Spirit Halloween Real Estate)",
@@ -49686,7 +49692,8 @@
         "Micah Lacher (Anchor)",
         "Jacob Delk (Anchor)",
         "Mathison Ingham",
-        "Mathison Ingham (Anchor Property Manager)"
+        "Mathison Ingham (Anchor Property Manager)",
+        "Tina Charnitsky <Tina.Charnitsky@spirithalloween.com>"
       ],
       "timeline": [
         {
@@ -49727,6 +49734,11 @@
         {
           "date": "2026-06-22",
           "event": "Tina Charnitsky said Spirit does not see how they can make the Hamilton space work this year after facilities review.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-22",
+          "event": "Spirit reported the Hamilton space likely will not work after operations/facilities review; noted water in back area.",
           "type": "email"
         },
         {
