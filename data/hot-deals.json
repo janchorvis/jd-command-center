@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T16:09:28.194020",
+  "lastUpdated": "2026-06-22T16:10:15.101675",
   "sourceDoc": "2026-06-15 - Leasing Meeting",
   "today": {
     "date": "2026-06-22",
@@ -37330,10 +37330,10 @@
     {
       "id": "smart-led-highland",
       "name": "Smart LED TN LLC",
-      "property": "Highland / 2151 N Highland",
-      "status": "Amin acknowledged Jacob's 6/18 lease revisions, will send Smart LED TN LLC's last two years of balance sheets and income statements to discuss moving the guaranty to corporate after Year 1, and is still reviewing HVAC/cost-sharing structure.",
+      "property": "Hickory Village / 2151 N Highland",
+      "status": "Amin Lakhani accepted several lease clarifications, will send two years of Smart LED TN financials to discuss moving the guaranty to corporate after Year 1, and wants to schedule a plumbing/electrical walk-through with his contractor before lease execution.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Review Amin's latest lease/HVAC/guaranty comments and financials when sent; decide whether corporate guaranty after Year 1 is acceptable.",
+      "nextStep": "Send the revised lease draft reflecting agreed changes and coordinate the contractor walk-through.",
       "priority": "high",
       "contacts": [
         "Amin Lakhani (Smart LED TN LLC) - smartledtn@gmail.com - 901-907-2646",
@@ -37407,6 +37407,11 @@
         {
           "date": "2026-06-22",
           "event": "Amin replied to revised Smart LED lease with guaranty/financials and HVAC comments.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-22",
+          "event": "Amin requested revised draft and contractor walk-through; financials forthcoming for guaranty discussion.",
           "type": "email"
         },
         {
@@ -38823,10 +38828,10 @@
     {
       "id": "hopesmiles",
       "name": "HopeSmiles",
-      "property": "144 Wilson Pike",
+      "property": "502 Thompson Lane",
       "type": "Tenant Rep",
-      "status": "Devin McClendon shared informal Wilson Bank feedback on LOC structure for HopeSmiles: a bank would likely require pledged assets or real estate collateral, charge roughly a 2% origination fee and likely a 1% annual fee, and may not treat a deposit as equivalent security. Jacob needs to decide how to respond on lease security.",
-      "nextStep": "Respond to Devin/Brandon after aligning with HopeSmiles on LOC vs alternate security.",
+      "status": "Nathan Frost confirmed the remaining 24k SF option is quoted at $15/SF + NNN as-is; some TIA could be available but would be amortized into rent. Other tenant is a higher-end haunted house group, seasonal around holidays.",
+      "nextStep": "Decide whether Hope Smiles can work with the as-is/amortized-TI structure and seasonal haunted-house co-tenant context.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -38852,7 +38857,7 @@
         "Micah Lacher (Anchor)",
         "Jacob Delk (Anchor)"
       ],
-      "priority": "high",
+      "priority": "medium",
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
@@ -38898,6 +38903,11 @@
         {
           "date": "2026-06-22",
           "event": "Email from CoStar News: CoStar Today: Tracking the turnaround: Recovery of multifamily market builds une",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-22",
+          "event": "Broker quoted $15/SF + NNN as-is and amortized-TI possibility for 502 Thompson Lane.",
           "type": "email"
         },
         {
