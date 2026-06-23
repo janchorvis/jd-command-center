@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T13:30:12.781050",
+  "lastUpdated": "2026-06-23T14:03:38.510865",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-23",
@@ -49,7 +49,10 @@
       "312 Wilson Pike: choose posture across Ryder/Borders, Futbol Factory, Redline, and KWC/Skiptown interest.",
       "Maple Row: prep Little Caesars due-diligence answers and decide Flavors HVAC posture.",
       "Shelbyville: review Bealls term sheet and keep Dutch Bros/outparcel track moving.",
-      "Malone: review Five Below lease/exhibits and Shoe Dept brand book items."
+      "Malone: review Five Below lease/exhibits and Shoe Dept brand book items.",
+      "Respond to Noble Judy on Wilson Pike sale/pricing guidance and ALTA request.",
+      "Reply to Chea J. Crexi lead with contact-info ask and floorplan offer.",
+      "Coordinate Gilded Spine Maple Row rewalk and zoning/CO diligence."
     ]
   },
   "pipelineDeals": [
@@ -34963,18 +34966,24 @@
     {
       "id": "gilded-spine-maple-row",
       "name": "Gilded Spine (Storybook Soirees LLC)",
-      "property": "235 E Main St, Hendersonville (Maple Row)",
-      "status": "New competing inquiry arrived from Tim Pereira (CARR) for 235 E Main St on behalf of Musicologie franchisee (2000-2500 SF, private music lessons by appointment). Arrives while Gilded Spine deal is uncertain (Hillary may pass). Draft reply pending Jacob's input on availability + use.",
+      "property": "Maple Row Shopping Center",
+      "status": "Hillary Holmes / Gilded Spine followed up on Maple Row next steps after texting Jacob; wants to verify Hendersonville zoning/use, CO approval for retail + limited service restaurant, and rewalk the space with facilities manager for utilities/plumbing/flooring.",
       "stage": "Contact Made",
-      "nextStep": "Jacob to decide: engage Musicologie while holding for Gilded Spine decision, or get clarity from Hillary first. Reply to Tim Pereira pending.",
-      "priority": "high",
+      "nextStep": "Coordinate rewalk and planning/CO diligence for Gilded Spine while preserving Great Greek/Fox's posture.",
+      "priority": "medium",
       "contacts": [
-        "Hillary Holmes – gildedspinebooks@gmail.com, (414) 607-2197"
+        "Hillary Holmes – gildedspinebooks@gmail.com, (414) 607-2197",
+        "Hillary Holmes (Gilded Spine)"
       ],
       "timeline": [
         {
           "date": "2026-06-23",
           "event": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-23",
+          "event": "Gilded Spine asked to rewalk Maple Row with facilities manager and confirm zoning/CO path for bookstore + limited service restaurant use.",
           "type": "email"
         },
         {
@@ -52367,9 +52376,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "Brandon Hoop sent signed and Word LOI versions for the front half of the building from Devin/Redline. This adds another active front-half LOI to the Wilson interest stack alongside Futbol Factory and Ryder/Borders posture.",
+      "status": "Noble Judy / CBRE re-engaged on Wilson Pike asking whether Anchor would sell and for pricing guidance; Adam also reported Noble asked for the ALTA and discussed possible purchase/offers.",
       "stage": "LOI",
-      "nextStep": "Compare Brandon/Redline front-half LOI against Futbol Factory and Ryder/Borders; decide subdivision/LOI response posture.",
+      "nextStep": "Decide sale/pricing posture and whether to send ALTA/title materials to Noble Judy.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -52390,7 +52399,8 @@
         "Duane Roggendorff (Ojas Partners)",
         "Devin / Redline Fitness",
         "Ross Hopkins (Southeast Venture)",
-        "Jon Speers (Equitable Property Company)"
+        "Jon Speers (Equitable Property Company)",
+        "Noble Judy (CBRE)"
       ],
       "timeline": [
         {
@@ -52406,6 +52416,11 @@
         {
           "date": "2026-06-23",
           "event": "Email from CoStar News: CoStar Today: Tracking the turnaround: Recovery of multifamily market builds une",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-23",
+          "event": "Noble Judy / CBRE asked whether Anchor would sell Wilson Pike and requested pricing guidance; Adam separately relayed Noble asking for the ALTA.",
           "type": "email"
         },
         {
@@ -54216,6 +54231,28 @@
       "actions": [],
       "type": "Tenant Rep",
       "lastUpdate": "2026-06-22"
+    },
+    {
+      "id": "chea-j-dixie-village-crexi",
+      "name": "Chea J. Crexi Lead",
+      "property": "Dixie Village",
+      "status": "Crexi prospect requested the floorplan for Suite 2591 at 2549 W Franklin Blvd.",
+      "stage": "Contact Made",
+      "nextStep": "Reply on Crexi asking for best email/phone and offering to send the floorplan.",
+      "priority": "medium",
+      "contacts": [
+        "Chea J."
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-23",
+          "event": "Crexi inquiry requested floorplan for Dixie Village Suite 2591.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-06-23"
     }
   ],
   "droppedBalls": [
