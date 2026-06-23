@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T16:30:12.407513",
+  "lastUpdated": "2026-06-23T17:03:19.558167",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-23",
@@ -52501,9 +52501,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "Noble Judy / CBRE re-engaged on Wilson Pike asking whether Anchor would sell and for pricing guidance; Adam also reported Noble asked for the ALTA and discussed possible purchase/offers.",
+      "status": "Ross Hopkins / Southeast Venture followed up for Futbol Factory with the tenant's profit and loss file and a backup LOI for the rear portion of the building, saying the tenant would take either the front or rear space depending on landlord preference.",
       "stage": "LOI",
-      "nextStep": "Decide sale/pricing posture and whether to send ALTA/title materials to Noble Judy.",
+      "nextStep": "Review Futbol Factory P&L and compare rear-portion backup LOI against the existing front-portion Futbol Factory LOI, Redline front-half LOI, and Ryder/Borders whole-building LOI before deciding preferred subdivision/tenant path.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -52556,6 +52556,11 @@
         {
           "date": "2026-06-23",
           "event": "Noble Judy / CBRE asked whether Anchor would sell Wilson Pike and requested pricing guidance; Adam separately relayed Noble asking for the ALTA.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-23",
+          "event": "Ross Hopkins sent Futbol Factory P&L and backup rear-portion LOI for 312 Wilson Pike; tenant can take front or rear depending on landlord preference.",
           "type": "email"
         },
         {
