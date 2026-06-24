@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T17:03:29.186336",
+  "lastUpdated": "2026-06-24T17:04:17.436157",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-24",
@@ -12265,9 +12265,9 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "UPS has full site approval and financials are in hand; Micah/Jacob agreed to move straight to lease draft using the Maple Row form/redline rather than renegotiating the lease form. Aldi site visit remains scheduled for 2026-06-19.",
+      "status": "UPS Store lease comments/markup received; Jon Petty says comments are light, included missing addendum, and asks for estimated timing for landlord work after lease signing.",
       "stage": "Lease Signed",
-      "nextStep": "Draft UPS lease from Maple Row form/redline and put the 6/19 Aldi visit on Micah/Jacob calendars.",
+      "nextStep": "Review attached lease markup/addendum and answer Jon on landlord-work delivery timing.",
       "priority": "high",
       "timeline": [
         {
@@ -12433,6 +12433,11 @@
         {
           "date": "2026-06-24",
           "event": "Email from Kelsey Cornillie, Publisher: War of words erupts between Cheekwood, neighborhood group",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-24",
+          "event": "Jon Petty sent light UPS Store lease markup, missing addendum, and asked LL work timing after signing.",
           "type": "email"
         },
         {
