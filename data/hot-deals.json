@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T09:30:11.028325",
+  "lastUpdated": "2026-06-24T10:04:24.599757",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-24",
@@ -51350,12 +51350,13 @@
       "id": "shelbyville-ryan-jordan-former-big-lots",
       "name": "Ryan Jordan / Former Big Lots",
       "property": "Shelbyville former Big Lots",
-      "status": "Jacob replied to Ryan Jordan with mid-single-digits net rent posture, flyer attached, and asked for the user/size range.",
+      "status": "City of Shelbyville pre-application meeting booked with Adam Rude and Mike for Friday 2026-06-26 from 8:00-9:00 AM CDT.",
       "stage": "Contact Made",
-      "nextStep": "Await Ryan Jordan response with user and size range.",
-      "priority": "medium",
+      "nextStep": "Use the pre-application meeting to pressure-test the former Big Lots/outparcel redevelopment path and city requirements.",
+      "priority": "high",
       "contacts": [
-        "Ryan Jordan (AVID Real Estate Advisors)"
+        "Ryan Jordan (AVID Real Estate Advisors)",
+        "Adam Rude (City of Shelbyville)"
       ],
       "timeline": [
         {
@@ -51372,6 +51373,11 @@
           "date": "2026-06-24",
           "event": "Email from Jacob Delk: Big Lots Building - 1840 E Michigan Rd.",
           "type": "email"
+        },
+        {
+          "date": "2026-06-24",
+          "event": "Pre-application meeting booked with Adam Rude/Mike for Friday 6/26 at 8 AM CDT.",
+          "type": "meeting"
         },
         {
           "date": "2026-06-23",
@@ -53533,9 +53539,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "Multiple active paths remain in play for the Brentwood flex/office building; Micah told Noble Judy/CBRE on 6/24 that the property is an extremely long-term hold and Anchor is not interested in selling. Clay separately Slack-DMed an updated Hick quote of $13,650 for Accent Flowers HVAC.",
+      "status": "After Micah told Noble/CBRE that Wilson Pike is a long-term hold and Anchor is not interested in selling, Noble replied asking to connect and discuss the use because it might be intriguing.",
       "stage": "LOI",
-      "nextStep": "Jacob/Micah still need to decide leasing/LOI posture across front-half/rear/full-building prospects and factor HVAC quote into Accent Flowers/front-suite scope.",
+      "nextStep": "Micah/Jacob to decide whether to take Noble's call and learn the use while preserving no-sale posture.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -53590,6 +53596,11 @@
           "date": "2026-06-24",
           "event": "Clay Richardson sent updated Hick quote: $13,650 for Accent Flowers HVAC.",
           "type": "slack"
+        },
+        {
+          "date": "2026-06-24",
+          "event": "Noble/CBRE asked to connect and discuss an intriguing use after Micah declined sale interest.",
+          "type": "email"
         },
         {
           "date": "2026-06-23",
