@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T17:09:02.399817",
+  "lastUpdated": "2026-06-24T17:09:42.231360",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-24",
@@ -12266,9 +12266,9 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "UPS Store lease comments/markup received; Jon Petty says comments are light, included missing addendum, and asks for estimated timing for landlord work after lease signing.",
+      "status": "UPS Store / McMinnville: Jon Petty sent a light lease markup and the missing addendum on 2026-06-24, saying the addendum can be filled out and signed as a final step.",
       "stage": "Lease Signed",
-      "nextStep": "Review attached lease markup/addendum and answer Jon on landlord-work delivery timing.",
+      "nextStep": "Jacob needs to review the UPS lease markup/addendum and coordinate response/final addendum completion.",
       "priority": "high",
       "timeline": [
         {
@@ -12439,6 +12439,11 @@
         {
           "date": "2026-06-24",
           "event": "Jon Petty sent light UPS Store lease markup, missing addendum, and asked LL work timing after signing.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-24",
+          "event": "Jon Petty sent light UPS lease markup plus missing addendum; addendum can be filled/signed as final step.",
           "type": "email"
         },
         {
