@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T07:34:40.827467",
+  "lastUpdated": "2026-06-24T09:03:00.087590",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-24",
@@ -53003,9 +53003,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "Fresh competing posture: Futbol Factory backup rear LOI/P&L plus Noble sale-pricing and ALTA/title request.",
+      "status": "Multiple active paths remain in play for the Brentwood flex/office building; Micah told Noble Judy/CBRE on 6/24 that the property is an extremely long-term hold and Anchor is not interested in selling. Clay separately Slack-DMed an updated Hick quote of $13,650 for Accent Flowers HVAC.",
       "stage": "LOI",
-      "nextStep": "Jacob decide lease-vs-sale and front/rear/whole-building posture across Futbol, Redline, Ryder/Borders, and Noble.",
+      "nextStep": "Jacob/Micah still need to decide leasing/LOI posture across front-half/rear/full-building prospects and factor HVAC quote into Accent Flowers/front-suite scope.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -53027,13 +53027,24 @@
         "Devin / Redline Fitness",
         "Ross Hopkins (Southeast Venture)",
         "Jon Speers (Equitable Property Company)",
-        "Noble Judy (CBRE)"
+        "Noble Judy (CBRE)",
+        "Clay Richardson"
       ],
       "timeline": [
         {
           "date": "2026-06-24",
           "event": "Briefing: 312 Wilson Pike needs consolidated posture after 6/23 updates.",
           "type": "task"
+        },
+        {
+          "date": "2026-06-24",
+          "event": "Micah told Noble Judy/CBRE that Wilson Pike is an extremely long-term hold and Anchor is not interested in selling.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-24",
+          "event": "Clay Richardson sent updated Hick quote: $13,650 for Accent Flowers HVAC.",
+          "type": "slack"
         },
         {
           "date": "2026-06-23",
