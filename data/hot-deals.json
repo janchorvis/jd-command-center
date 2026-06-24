@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T07:34:00.750377",
+  "lastUpdated": "2026-06-24T07:34:40.827467",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-24",
@@ -36574,9 +36574,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton, OH",
-      "status": "Jacob has a morning calendar block labeled Hamilton email after 6/15 leasing-meeting posture that Anchor should confirm inspection period is over and closing is due July 13.",
+      "status": "Dutch Bros REA revisions came back; Dutch resisted casualty alignment and amendment/subdivision language.",
       "stage": "Lease Signed",
-      "nextStep": "Send buyer/GMX/Dutch side the PSA timing email and ask whether they are prepared to close and what remains needed from Anchor.",
+      "nextStep": "Jacob/Micah/Ashby decide whether to concede amendment/subdivision point and finalize response.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -36599,6 +36599,11 @@
         "Dutch Bros"
       ],
       "timeline": [
+        {
+          "date": "2026-06-24",
+          "event": "Briefing: overnight Dutch Bros REA revision issue surfaced.",
+          "type": "task"
+        },
         {
           "date": "2026-06-23",
           "event": "Email from Ashby Scott: FW: Hamilton, OH | REA Discussion",
