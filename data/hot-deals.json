@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T10:30:12.150880",
+  "lastUpdated": "2026-06-24T11:02:50.473118",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-24",
@@ -38552,9 +38552,9 @@
       "id": "smart-led-highland",
       "name": "Smart LED TN LLC",
       "property": "Hickory Village / 2151 N Highland",
-      "status": "Amin Lakhani accepted several lease clarifications, will send two years of Smart LED TN financials to discuss moving the guaranty to corporate after Year 1, and wants to schedule a plumbing/electrical walk-through with his contractor before lease execution.",
+      "status": "Amin Lakhani sent Smart LED TN tax returns plus 2024 and 2025 P&L/balance sheet files for review after Jacob requested financials.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Send the revised lease draft reflecting agreed changes and coordinate the contractor walk-through.",
+      "nextStep": "Review Amin's tax returns and P&L/balance sheets, then decide guaranty/credit posture and next lease revision/walk-through step.",
       "priority": "high",
       "contacts": [
         "Amin Lakhani (Smart LED TN LLC) - smartledtn@gmail.com - 901-907-2646",
@@ -38598,6 +38598,11 @@
         {
           "date": "2026-06-24",
           "event": "Email from Jacob Delk: Big Lots Building - 1840 E Michigan Rd.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-24",
+          "event": "Amin Lakhani sent Smart LED TN 2024/2025 tax returns and P&L/balance sheets for review.",
           "type": "email"
         },
         {
