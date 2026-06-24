@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T13:30:11.491780",
+  "lastUpdated": "2026-06-24T14:04:15.236783",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-24",
@@ -42752,15 +42752,16 @@
       "name": "Buena Vista",
       "property": "Buena Vista Pike",
       "type": "Land/Development",
-      "status": "Micah flagged a nearby Moda Vista/Bordeaux build-to-rent development financing article and told Jacob to call that group about Buena Vista.",
-      "nextStep": "Jacob should call the Moda Vista/Forman Capital/Moda Homes group about Buena Vista interest or applicability.",
+      "status": "Heather Devermann / EXIT Real Estate Solutions emailed asking what Anchor has for sale at 2433 Buena Vista, whether it is 15 acres or 5 acres, and the asking price.",
+      "nextStep": "Jacob should respond with the current acreage/asking-price posture or decide whether to route this inquiry to the broader Buena Vista outreach/sale track.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
         "Cole @ DR Horton",
         "Micah Lacher",
         "Moda Homes / Moda Vista",
-        "Forman Capital"
+        "Forman Capital",
+        "Heather Devermann (EXIT Real Estate Solutions, heather@exitrealestatesolutions.com, 630-853-7674)"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-11",
@@ -42779,6 +42780,11 @@
           "date": "2026-06-24",
           "event": "Email from Micah Lacher: Wilson Pike",
           "type": "email"
+        },
+        {
+          "date": "2026-06-24",
+          "event": "Heather Devermann asked for 2433 Buena Vista acreage and asking price.",
+          "type": "lead"
         },
         {
           "date": "2026-06-23",
