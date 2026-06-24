@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T16:30:22.537375",
+  "lastUpdated": "2026-06-24T17:03:29.186336",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-24",
@@ -16250,10 +16250,10 @@
       "id": "mcminnville-wingstop",
       "name": "Wingstop",
       "property": "McMinnville Plaza",
-      "status": "Wingstop lease draft is in hand from Sarah Langan/Kevin Trujillo; Jacob acknowledged receipt and said Anchor will review and come back with questions.",
+      "status": "Jacob sent signed CA; Kevin Trujillo says once Wingstop gets its survey report they should be able to respond and hopefully push forward.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Review Wingstop lease draft and route legal/business comments.",
-      "priority": "high",
+      "nextStep": "Wait for Wingstop survey/report response; keep pressure toward lease review path.",
+      "priority": "medium",
       "timeline": [
         {
           "date": "2026-06-24",
@@ -16283,6 +16283,11 @@
         {
           "date": "2026-06-24",
           "event": "Email from Emma Bray: Tour of the Plaza",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-24",
+          "event": "Signed CA sent; Kevin said survey report should allow Wingstop response/push forward.",
           "type": "email"
         },
         {
