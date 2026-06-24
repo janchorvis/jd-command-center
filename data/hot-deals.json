@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T07:16:24.575536",
+  "lastUpdated": "2026-06-24T07:34:00.750377",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-24",
@@ -54,7 +54,12 @@
       "PCON feedback: Daniel Martinez (overdue — due 2026-05-21)",
       "PCON feedback form - Joe Bulovas (overdue — due 2026-05-19)",
       "Give generosity committee nominations by May 20th (overdue — due 2026-05-20)",
-      "PCON feedback: Zack Hubiak (overdue — due 2026-05-15)"
+      "PCON feedback: Zack Hubiak (overdue — due 2026-05-15)",
+      "Review Five Below lease comments with Micah/Ashby",
+      "Decide 312 Wilson Pike lease-vs-sale posture",
+      "Give Mathison Zee Nails buyer/assignment guidance",
+      "Resolve Hamilton/Dutch REA response posture",
+      "Call Moda about Buena Vista"
     ]
   },
   "pipelineDeals": [
@@ -62,15 +67,20 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below CDs are approved to start, but Desiree said they still need clearer facade direction because Five Below drawings will show signage elements/finishes, not how to construct the facade. Ashby said he will jump on the returned lease comments before vacation next week if possible.",
+      "status": "Ashby returned handwritten lease comments with JD/Micah confirmation items and several pushbacks.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Clay/Ashby need to lock facade direction/markups and keep lease-comment review moving before Ashby's vacation.",
+      "nextStep": "Jacob review work letter/sign/no-build exhibits and coordinate legal/business responses with Micah/Ashby.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-06-24",
           "event": "Email from NASHtoday: Fourth of July events + Franklin sports complex plans",
           "type": "email"
+        },
+        {
+          "date": "2026-06-24",
+          "event": "Briefing: overnight Ashby comments on Five Below lease require JD/Micah review.",
+          "type": "task"
         },
         {
           "date": "2026-06-23",
@@ -39103,10 +39113,10 @@
       "id": "maple-row-gilded-spine-hillary-holmes",
       "name": "Gilded Spine",
       "property": "Maple Row Shopping Center",
-      "status": "Hillary Holmes re-engaged on Maple Row after prior tour/TI concerns and asked whether the space is already leased; she is open to chatting again.",
+      "status": "Hillary asked to confirm zoning/CO feasibility and rewalk with facilities manager.",
       "stage": "Contact Made",
-      "nextStep": "Jacob needs to confirm availability and decide whether to reopen TI/terms discussion.",
-      "priority": "high",
+      "nextStep": "Prep zoning/CO questions and Jacob decide reply/rewalk timing.",
+      "priority": "medium",
       "contacts": [
         "Hillary Holmes (Gilded Spine)"
       ],
@@ -39115,6 +39125,11 @@
           "date": "2026-06-24",
           "event": "Email from CoStar News: CoStar Today: Real estate's new center of gravity: Data centers",
           "type": "email"
+        },
+        {
+          "date": "2026-06-24",
+          "event": "Briefing: Gilded Spine re-engaged on zoning/CO and rewalk.",
+          "type": "task"
         },
         {
           "date": "2026-06-23",
@@ -52983,9 +52998,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "Ross Hopkins / Southeast Venture followed up for Futbol Factory with the tenant's profit and loss file and a backup LOI for the rear portion of the building, saying the tenant would take either the front or rear space depending on landlord preference.",
+      "status": "Fresh competing posture: Futbol Factory backup rear LOI/P&L plus Noble sale-pricing and ALTA/title request.",
       "stage": "LOI",
-      "nextStep": "Review Futbol Factory P&L and compare rear-portion backup LOI against the existing front-portion Futbol Factory LOI, Redline front-half LOI, and Ryder/Borders whole-building LOI before deciding preferred subdivision/tenant path.",
+      "nextStep": "Jacob decide lease-vs-sale and front/rear/whole-building posture across Futbol, Redline, Ryder/Borders, and Noble.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -53010,6 +53025,11 @@
         "Noble Judy (CBRE)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-24",
+          "event": "Briefing: 312 Wilson Pike needs consolidated posture after 6/23 updates.",
+          "type": "task"
+        },
         {
           "date": "2026-06-23",
           "event": "Email from Ross Hopkins: 312 Wilson Pike Cir LOI",
