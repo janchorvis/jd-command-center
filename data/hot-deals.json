@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T14:30:13.226839",
+  "lastUpdated": "2026-06-24T15:04:28.435943",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-24",
@@ -40993,12 +40993,13 @@
       "id": "mcminnville-regional-transit",
       "name": "Regional transit service / Craig Hughes",
       "property": "McMinnville Plaza",
-      "status": "Craig Hughes' regional transit-service client wants to tour Suites 103, 104, and 105 next Thursday around 9:00-9:30 AM; prior discussion centered on office use plus overnight fleet parking needs, originally around 40 vans/spots with possible flexibility.",
+      "status": "Emma Bray / Upper Cumberland Commercial reconfirmed the McMinnville Plaza tour for Thursday 6/25 at 9:30 AM and asked Jacob to send the lockbox code.",
       "stage": "Touring",
-      "nextStep": "Jacob/Adam need to confirm whether next Thursday 9:00-9:30 AM works and decide parking posture before/after the tour.",
-      "priority": "medium",
+      "nextStep": "Send lockbox code before the 9:30 AM tour on Thursday 6/25 and confirm any needed access details.",
+      "priority": "high",
       "contacts": [
-        "Craig Hughes (Upper Cumberland Commercial)"
+        "Craig Hughes (Upper Cumberland Commercial)",
+        "Emma Bray (Upper Cumberland Commercial)"
       ],
       "timeline": [
         {
@@ -41019,6 +41020,11 @@
         {
           "date": "2026-06-24",
           "event": "Email from Emma Bray: Tour of the Plaza",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-24",
+          "event": "Emma Bray reconfirmed Thursday 9:30 AM tour and requested lockbox code.",
           "type": "email"
         },
         {
