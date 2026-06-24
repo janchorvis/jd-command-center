@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T10:04:24.599757",
+  "lastUpdated": "2026-06-24T10:10:03.382175",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-24",
@@ -53539,9 +53539,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "After Micah told Noble/CBRE that Wilson Pike is a long-term hold and Anchor is not interested in selling, Noble replied asking to connect and discuss the use because it might be intriguing.",
+      "status": "Noble Judy/CBRE followed up after Micah said Anchor is not interested in selling, saying the use might be intriguing and asking to connect with Micah to discuss use.",
       "stage": "LOI",
-      "nextStep": "Micah/Jacob to decide whether to take Noble's call and learn the use while preserving no-sale posture.",
+      "nextStep": "Jacob/Micah decide whether to take Noble's call and how to frame Wilson as a lease opportunity rather than a sale.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -53600,6 +53600,11 @@
         {
           "date": "2026-06-24",
           "event": "Noble/CBRE asked to connect and discuss an intriguing use after Micah declined sale interest.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-24",
+          "event": "Noble Judy asked to connect with Micah to discuss an intriguing use after Micah declined sale interest.",
           "type": "email"
         },
         {
