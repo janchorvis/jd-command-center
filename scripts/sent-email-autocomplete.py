@@ -27,6 +27,7 @@ WORKSPACE_ROOT   = Path("/Users/fostercreighton/.openclaw/workspace")
 PROJECT_ROOT     = WORKSPACE_ROOT / "jd-command-center"
 DATA_FILE        = PROJECT_ROOT / "data" / "hot-deals.json"
 ENV_FILE         = WORKSPACE_ROOT / ".env"
+AUTOCOMPLETE_BLOCKLIST_FILE = WORKSPACE_ROOT / "memory" / "system" / "sent-email-autocomplete-blocklist.json"
 GOG_BIN          = "/opt/homebrew/bin/gog"
 GOG_ACCOUNT      = "jdelk@anchorinv.com"
 ASANA_BASE       = "https://app.asana.com/api/1.0"
@@ -51,6 +52,20 @@ def load_env(path: Path) -> None:
                 val = val.strip().strip('"').strip("'")
                 if key not in os.environ:
                     os.environ[key] = val
+
+
+def load_autocomplete_blocklist(path: Path = AUTOCOMPLETE_BLOCKLIST_FILE) -> set[str]:
+    """Load task GIDs that must not be auto-completed by sent-email matching."""
+    if not path.exists():
+        return set()
+    try:
+        data = json.loads(path.read_text())
+    except Exception as e:
+        print(f"[WARN] Could not read autocomplete blocklist {path}: {e}", file=sys.stderr)
+        return set()
+
+    raw_items = data.get("task_gids", []) if isinstance(data, dict) else data
+    return {str(gid).strip() for gid in raw_items if str(gid).strip()}
 
 
 # ─── gog Gmail helpers ────────────────────────────────────────────────────────
@@ -496,6 +511,7 @@ def run_matching(
     asana_token: str,
     dry_run: bool,
     verbose: bool,
+    blocked_task_gids: set[str] | None = None,
 ) -> list[str]:
     """
     Match tasks to emails. Each email can complete at most ONE task (the best match).
@@ -505,6 +521,7 @@ def run_matching(
     total_evaluated = 0
     total_matched = 0
     total_skipped = 0
+    blocked_task_gids = blocked_task_gids or set()
 
     print(f"\n[INFO] Evaluating {len(tasks)} tasks against {len(emails)} sent emails...\n")
 
@@ -514,6 +531,10 @@ def run_matching(
         task_name = task.get("name", "").strip()
         task_gid  = task.get("gid", "")
         if not task_name or not task_gid:
+            continue
+        if task_gid in blocked_task_gids:
+            if verbose:
+                print(f"  ⛔ SKIP blocked task: {task_name} ({task_gid})")
             continue
         total_evaluated += 1
 
@@ -595,6 +616,10 @@ def main():
         sys.exit(1)
 
     # Fetch data
+    blocked_task_gids = load_autocomplete_blocklist()
+    if blocked_task_gids:
+        print(f"[INFO] Loaded {len(blocked_task_gids)} sent-email autocomplete blocklist item(s).")
+
     emails = fetch_sent_emails(args.days)
     if not emails:
         print("[WARN] No sent emails fetched — nothing to match.")
@@ -615,6 +640,7 @@ def main():
         asana_token=asana_token,
         dry_run=args.dry_run,
         verbose=args.verbose,
+        blocked_task_gids=blocked_task_gids,
     )
 
     # Update hot-deals.json
