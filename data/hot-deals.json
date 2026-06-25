@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T07:16:17.134178",
+  "lastUpdated": "2026-06-25T09:03:07.155200",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-25",
@@ -34,7 +34,8 @@
       "PCON feedback: Jeffrey Shoopman (overdue — due 2026-06-19)",
       "PCON feedback: Jeffrey Shoopman (overdue — due 2026-06-19)",
       "PCON feedback: Shawn Metzger (overdue — due 2026-06-11)",
-      "PCON feedback: Daniel Martinez (overdue — due 2026-05-21)"
+      "PCON feedback: Daniel Martinez (overdue — due 2026-05-21)",
+      "Prepare Madison & Wilson leasing comps for Clay's pro forma assumptions within the next week."
     ]
   },
   "pipelineDeals": [
@@ -55381,9 +55382,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "Noble Judy/CBRE followed up after Micah said Anchor is not interested in selling, saying the use might be intriguing and asking to connect with Micah to discuss use.",
+      "status": "Clay Richardson bumped the Madison & Wilson leasing-comps request and asked Jacob/Adam to get him 3 phase-specific leasing comps within the next week for pro forma assumptions.",
       "stage": "LOI",
-      "nextStep": "Jacob/Micah decide whether to take Noble's call and how to frame Wilson as a lease opportunity rather than a sale.",
+      "nextStep": "Jacob/Adam need to prepare leasing comps for 312 Wilson Pike office/warehouse split, plus the other Madison & Wilson phases, within the next week.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -55409,6 +55410,11 @@
         "Clay Richardson"
       ],
       "timeline": [
+        {
+          "date": "2026-06-25",
+          "event": "Clay bumped Madison & Wilson leasing comps request; needs phase-specific comps in the next week.",
+          "type": "email"
+        },
         {
           "date": "2026-06-24",
           "event": "Email from Brandon Hoop: 312 Wilson",
