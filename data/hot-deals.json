@@ -7107,17 +7107,12 @@
     {
       "id": "gastonia-laundromat",
       "name": "Chad Vang - Laundromat",
-      "property": "Dixie Village Shopping Center",
-      "status": "New CoStar inquiry from Ola van Zyl for a Colombian bakery seeking +/-1,500 SF, no hood but likely grease trap, asking whether the use works and whether floor plans are available.",
+      "property": "Dixie Village",
+      "status": "Juany Almanza confirmed she has the $140,000 on hand and wants 1,300-1,600 SF for the Mexican bakery concept at Dixie Village.",
       "stage": "LOI",
-      "nextStep": "Jacob to reply with floorplan/availability posture and ask for direct contact details/fit details as needed.",
+      "nextStep": "Jacob review with ownership and decide whether another Mexican bakery use is acceptable at Dixie Village.",
       "priority": "medium",
       "timeline": [
-        {
-          "date": "2026-06-25",
-          "event": "CoStar lead: Ola van Zyl asked about +/-1,500 SF for Colombian bakery at Dixie Village, grease trap/no hood, and floor plans.",
-          "type": "lead"
-        },
         {
           "date": "2026-06-24",
           "event": "Email from Hello BrightView: Dig Into... How to Make Tree Care a Breeze",
@@ -8281,8 +8276,7 @@
         "David W. (Crexi lead)",
         "David W. - Crexi inquiry",
         "Juany Almanza (prospect)",
-        "Juany Almanza",
-        "Ola van Zyl (Dream Team United) - olavanzyl@kw.com, 843-666-5250"
+        "Juany Almanza"
       ],
       "actions": [
         {
@@ -57568,6 +57562,28 @@
       "actions": [],
       "type": "Tenant Rep",
       "lastUpdate": "2026-06-23"
+    },
+    {
+      "id": "ola-van-zyl-colombian-bakery-dixie-village",
+      "name": "Ola van Zyl - Colombian Bakery",
+      "property": "Dixie Village Shopping Center",
+      "status": "CoStar inquiry from Ola van Zyl for a Colombian bakery seeking +/-1,500 SF at 2549-2573 W Franklin Blvd / Dixie Village. Prospect says no hood is needed but they would need a grease trap and asks whether the use works and whether floor plans are available.",
+      "stage": "Contact Made",
+      "stageOverride": "Contact Made",
+      "nextStep": "Jacob to reply with floorplan/availability posture and confirm direct contact / fit details as needed.",
+      "priority": "medium",
+      "pipelineType": "side",
+      "contacts": [
+        "Ola van Zyl (Dream Team United) - olavanzyl@kw.com, 843-666-5250, 704-802-9998"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-25",
+          "event": "CoStar lead: Ola van Zyl asked about +/-1,500 SF for Colombian bakery at Dixie Village, grease trap/no hood, and floor plans.",
+          "type": "lead"
+        }
+      ],
+      "source": "Communication Triage - 2026-06-25 5 PM"
     }
   ],
   "droppedBalls": [
