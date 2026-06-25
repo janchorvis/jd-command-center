@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T12:02:40.795786",
+  "lastUpdated": "2026-06-25T17:03:15.140315",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-25",
@@ -7107,12 +7107,17 @@
     {
       "id": "gastonia-laundromat",
       "name": "Chad Vang - Laundromat",
-      "property": "Dixie Village",
-      "status": "Juany Almanza confirmed she has the $140,000 on hand and wants 1,300-1,600 SF for the Mexican bakery concept at Dixie Village.",
+      "property": "Dixie Village Shopping Center",
+      "status": "New CoStar inquiry from Ola van Zyl for a Colombian bakery seeking +/-1,500 SF, no hood but likely grease trap, asking whether the use works and whether floor plans are available.",
       "stage": "LOI",
-      "nextStep": "Jacob review with ownership and decide whether another Mexican bakery use is acceptable at Dixie Village.",
+      "nextStep": "Jacob to reply with floorplan/availability posture and ask for direct contact details/fit details as needed.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-06-25",
+          "event": "CoStar lead: Ola van Zyl asked about +/-1,500 SF for Colombian bakery at Dixie Village, grease trap/no hood, and floor plans.",
+          "type": "lead"
+        },
         {
           "date": "2026-06-24",
           "event": "Email from Hello BrightView: Dig Into... How to Make Tree Care a Breeze",
@@ -8276,7 +8281,8 @@
         "David W. (Crexi lead)",
         "David W. - Crexi inquiry",
         "Juany Almanza (prospect)",
-        "Juany Almanza"
+        "Juany Almanza",
+        "Ola van Zyl (Dream Team United) - olavanzyl@kw.com, 843-666-5250"
       ],
       "actions": [
         {
