@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T09:03:07.155200",
+  "lastUpdated": "2026-06-25T12:02:40.795786",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-25",
@@ -55382,9 +55382,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "Clay Richardson bumped the Madison & Wilson leasing-comps request and asked Jacob/Adam to get him 3 phase-specific leasing comps within the next week for pro forma assumptions.",
+      "status": "New CBRE/Noble Judy basketball-training-facility concept is interested in leasing 312 Wilson Pike; clear heights and renovation costs need review. Site meeting is planned for Monday 6/29 at 1 PM with Jacob/Adam, Noble, and FRWD/Russell Martin coverage.",
       "stage": "LOI",
-      "nextStep": "Jacob/Adam need to prepare leasing comps for 312 Wilson Pike office/warehouse split, plus the other Madison & Wilson phases, within the next week.",
+      "nextStep": "Meet onsite Monday 6/29 at 1 PM; evaluate clear heights, subdivision/fit, and renovation costs alongside existing Wilson Pike LOI paths.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -55407,12 +55407,19 @@
         "Ross Hopkins (Southeast Venture)",
         "Jon Speers (Equitable Property Company)",
         "Noble Judy (CBRE)",
-        "Clay Richardson"
+        "Clay Richardson",
+        "Jacob Byron (FRWD Construction)",
+        "Russell Martin (FRWD Construction)"
       ],
       "timeline": [
         {
           "date": "2026-06-25",
           "event": "Clay bumped Madison & Wilson leasing comps request; needs phase-specific comps in the next week.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-25",
+          "event": "Micah introduced Noble Judy/CBRE basketball-training-facility concept for 312 Wilson Pike; Monday 1 PM site meeting coordinated with FRWD coverage.",
           "type": "email"
         },
         {
