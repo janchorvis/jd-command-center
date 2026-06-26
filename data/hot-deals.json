@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T07:16:20.039513",
+  "lastUpdated": "2026-06-26T08:03:15.403592",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-26",
@@ -59,7 +59,9 @@
       "PCON feedback: Jeffrey Shoopman (overdue — due 2026-06-19)",
       "PCON feedback: Jeffrey Shoopman (overdue — due 2026-06-19)",
       "PCON feedback: Shawn Metzger (overdue — due 2026-06-11)",
-      "PCON feedback: Daniel Martinez (overdue — due 2026-05-21)"
+      "PCON feedback: Daniel Martinez (overdue — due 2026-05-21)",
+      "Handle/send Crexi reply to Caroline A. for Hickory Village.",
+      "Handle/send Crexi reply to Caroline A. for 516 Tennessee Street."
     ]
   },
   "pipelineDeals": [
@@ -42758,6 +42760,46 @@
         "suiteCount": 45,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "caroline-a-hickory-village",
+      "name": "Caroline A. / Hickory Village Crexi lead",
+      "property": "Hickory Village, Jackson",
+      "status": "Caroline A. requested availability, pricing, and viewing arrangements for Hickory Village via Crexi.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob needs to handle/send the suggested Crexi reply manually; no Gmail draft was created.",
+      "priority": "medium",
+      "contacts": [
+        "Caroline A. (Crexi prospect)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-26",
+          "event": "Crexi lead: requested info, availability, pricing, and viewing arrangements for Hickory Village.",
+          "type": "lead"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "id": "caroline-a-516-tennessee-street",
+      "name": "Caroline A. / 516 Tennessee Street Crexi lead",
+      "property": "516 Tennessee Street, Memphis",
+      "status": "Caroline A. requested property information for 516 Tennessee Street via Crexi and followed up the morning of 2026-06-26.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob needs to handle/send the suggested Crexi reply manually; no Gmail draft was created.",
+      "priority": "medium",
+      "contacts": [
+        "Caroline A. (Crexi prospect)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-26",
+          "event": "Crexi lead/follow-up: requested the property and more info for 516 Tennessee Street.",
+          "type": "lead"
+        }
+      ],
+      "actions": []
     }
   ],
   "sideDeals": [
