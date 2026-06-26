@@ -60071,6 +60071,20 @@
       "property": "Trader Joes",
       "lastSeen": "Week Of 6/8/26",
       "note": "Dropped from prep doc. Last status: Leaving here to talk about if we have time. I think Carson said he sent you the notes of our conversation - just wanted to talk through everything. The brokers have followed up with him, so just wanted to keep it on all of our radar. It seems far-fetched/unlikely in my opinion. MacBid I had an update call with one of the brokers to check in. Sounds like business is going well, and they are primarily looking for the more industrial-style locations for their expansion. I am checking back in with them this week because all of the major contracts were supposed to be awarded last week, and that will dictate what markets they are looking at for expansion. Just wanted to close the loop from previous convos. Fostr Yardi is tied in. Roll out to the team coming soon. I'll show you some examples in our meeting."
+    },
+    {
+      "id": "wilson",
+      "name": "Wilson",
+      "property": "Wilson",
+      "lastSeen": "2026-06-15 - Leasing Meeting",
+      "note": "Dropped from prep doc. Last status: We had three tours this week and received an LOI for the whole building."
+    },
+    {
+      "id": "hopesmiles-144-wilson-pike",
+      "name": "HopeSmiles",
+      "property": "144 Wilson Pike",
+      "lastSeen": "2026-06-15 - Leasing Meeting",
+      "note": "Dropped from prep doc. Last status: I'll give you the update in person, but I talked to Dr. Kemp on the phone last night and we are going to kill 144 Wilson Pike. The brokers have been trying to use this other deal against us and keep moving the goal posts."
     }
   ],
   "staleContacts": [
@@ -62513,8 +62527,8 @@
   "brainDumps": [],
   "actionItems": [
     {
-      "title": "Miscellaneous",
-      "detail": "-Shelbyville Civil Engineer -Just closing the loop for you. I figured out what happened for the leasing line and Eric Abrom’s call."
+      "title": "Misc",
+      "detail": "-Remind me I need to set up the weekly report automation for Adam and Ellie -Question about Nashville IT health / pricing from your convos with Jeff"
     }
   ],
   "crossRefAlerts": [
@@ -63568,72 +63582,79 @@
     "deferred": []
   },
   "prepDocDiff": {
-    "generatedAt": "2026-06-19T15:00:24.424246",
-    "thisWeek": "2026-06-15 - Leasing Meeting",
-    "lastWeek": "2026-06-08 - Leasing Meeting Prep - Week of 6/8/26",
+    "generatedAt": "2026-06-26T15:00:30.633981",
+    "thisWeek": "2026-06-22 - Leasing Meeting",
+    "lastWeek": "2026-06-15 - Leasing Meeting",
     "new": [
       {
-        "name": "HopeSmiles",
-        "property": "144 Wilson Pike",
-        "status": "I'll give you the update in person, but I talked to Dr. Kemp on the phone last night and we are going to kill 144 Wilson Pike. The brokers have been trying to use this other deal against us and keep moving the goal posts.",
+        "name": "McMinnville Plaza",
+        "property": "McMinnville Plaza",
+        "status": "We owe Spencer the drawings of the space. I shot it with the Matterport, and we have a floor plan from it. I know he had mentioned CAD drawings which we dont currently have, but it would probably be worthwhile to get at some point as we will need them if Royal goes out of business. My thought would be to just send him the floor plan and see if that works, and tell him we can get the CAD version if it would be helpful.",
+        "nextStep": ""
+      },
+      {
+        "name": "Shelbyville",
+        "property": "Former Big Lots",
+        "status": "Bealls sent a term sheet for a portion of the box at $8 NNN rent with some LL work and $400K in TI. The previous deal was at 8 gross, so this is significantly better, but I still don't think the math works because of the high construction costs.",
+        "nextStep": ""
+      },
+      {
+        "name": "Maple Row",
+        "property": "Maple Row",
+        "status": "We sent the lease to the Great Greek, so the ball is in their court on that.",
+        "nextStep": ""
+      },
+      {
+        "name": "Russellville",
+        "property": "Boutique",
+        "status": "We have a small boutique who is interested in leasing the smallest space at Russellville. She does not have much money, so getting more of the story on her financials, but I think it's a deal we'll want to do since that space has sat there for so long. Just keeping you in the loop.",
+        "nextStep": ""
+      },
+      {
+        "name": "New Memphis",
+        "property": "New Memphis",
+        "status": "I gave you this update, but we had a call with MLK 50 about taking 3,000 sq. ft. We are working on getting them in for a tour.",
         "nextStep": ""
       }
     ],
     "dropped": [
       {
-        "name": "Malone Plaza",
-        "property": "Malone Plaza",
-        "lastStatus": "Ball is still in their court with the Five Below lease."
+        "name": "Wilson",
+        "property": "Wilson",
+        "lastStatus": "We had three tours this week and received an LOI for the whole building."
       },
       {
-        "name": "Sevierville Sally Beauty",
-        "property": "Sevierville Sally Beauty",
-        "lastStatus": "Turned the LOI back to them last week. I made the changes that we talked about with them at ICSC. The brokers said that at first glance it looked really good, and they think it will all be pretty close. Awaiting an official response"
-      },
-      {
-        "name": "Spirit Halloween",
-        "property": "Hamilton",
-        "lastStatus": "Spirit is actively looking at the 12,000 SF Hamilton vacancy. Not much update besides that, but we'll keep you posted"
-      },
-      {
-        "name": "Gallatin",
-        "property": "Trader Joes",
-        "lastStatus": "Leaving here to talk about if we have time. I think Carson said he sent you the notes of our conversation - just wanted to talk through everything. The brokers have followed up with him, so just wanted to keep it on all of our radar. It seems far-fetched/unlikely in my opinion. MacBid I had an update call with one of the brokers to check in. Sounds like business is going well, and they are primarily looking for the more industrial-style locations for their expansion. I am checking back in with them this week because all of the major contracts were supposed to be awarded last week, and that will dictate what markets they are looking at for expansion. Just wanted to close the loop from previous convos. Fostr Yardi is tied in. Roll out to the team coming soon. I'll show you some examples in our meeting."
+        "name": "HopeSmiles",
+        "property": "144 Wilson Pike",
+        "lastStatus": "I'll give you the update in person, but I talked to Dr. Kemp on the phone last night and we are going to kill 144 Wilson Pike. The brokers have been trying to use this other deal against us and keep moving the goal posts."
       }
     ],
-    "progressed": [
+    "progressed": [],
+    "stalled": [],
+    "updated": [
       {
-        "name": "McMinnville Plaza",
-        "property": "McMinnville Plaza",
-        "from": "UPS store got full approval. Wingstop deal is still in motion. They have just had other things they've been working on - they owe us a lease draft. Aldi site visit scheduled for the 19th",
-        "to": "Wingstop sent us a lease We sent the UPS store a lease. We have the site visit with Aldi this week. I will prep some packets that have information on the space. Also, I just realized that Royal Furniture doesn't open until 10:00 AM so I'll reach out to them and see if we can get in earlier. If not, I will coordinate with Sheldon so we tell them to meet at 10 instead of 9. Also, I think Melissa D is going to tag along with us since she's never seen the property."
+        "name": "Five Below",
+        "property": "Malone Plaza",
+        "from": "Wingstop sent us a lease We sent the UPS store a lease. We have the site visit with Aldi this week. I will prep some packets that have information on the space. Also, I just realized that Royal Furniture doesn't open until 10:00 AM so I'll reach out to them and see if we can get in earlier. If not, I will coordinate with Sheldon so we tell them to meet at 10 instead of 9. Also, I think Melissa D is going to tag along with us since she's never seen the property.",
+        "to": "They sent the lease back late last week. Ashby said she would review it before she goes out of town on Wednesday of this week. I have not had a chance to review their changes yet. 312 Wilson Pike We've had a lot of interest here. I would say the LOI that I sent to you is the most legitimate option so we should keep that one moving. We can discuss in our meeting. (Link for me: https://mail.google.com/mail/u/0/#search/312++/KtbxLxGLhsWrgnhMVMLMGgbFhftllHMzvq)"
+      },
+      {
+        "name": "Evansville Big Lots",
+        "property": "Evansville Rehab",
+        "from": "I sent them the options for a 5/10-year option at both $1M and $2M in TI. I'll keep you posted.",
+        "to": "He sent me an email last week saying that they liked our proposals at a high level. They also took another contractor in at the end of last week and then sent me an email on Friday asking what the purchase price of the box would be. I gave him our pricing that we had discussed previously. I'll follow up with them this week to get the full scoop, but it feels like there's some real interest Pell City Marketplace Update for the PT deal in the wins section above. Clay and I are still working on these deals for larger sections of the space, but we are trying to figure out the construction costs and how to value engineer it. (one is a home health group, one is a hospice care group)"
       },
       {
         "name": "Smart LED",
         "property": "Highland",
-        "from": "We sent a lease out for the Highland Vacancy but all still subject to review/change. It is an LED lighting store. They have a store in Memphis, and this would be their second location. (https://slsmem.com/, https://share.google/8PEr9DXG3wPMIsY7Q)",
-        "to": "In typical fashion, once getting the tenant lease, they have been negotiating more on the rent. I was texting back and forth with him this weekend. As of last night, we had agreed on terms, and I just need to edit the lease and send it back to them. The short version is we changed some of the rent bumps for the initial term but got 2% annual increases for any of the options."
-      }
-    ],
-    "stalled": [],
-    "updated": [
-      {
-        "name": "Evansville Big Lots",
-        "property": "Evansville Rehab",
-        "from": "(Jarvis summary) Robert Henson from Evansville Rehab says they are building a new $25M therapy facility and are looking at the Big Lots box for Adult Day Services, potentially on a 3-5 year lease with an option to buy. Their contractor's rough estimate was $6M for a full renovation or about half that for half the building, and Robert asked for lease-rate scenarios with them funding the work versus us providing some renovation support.",
-        "to": "I sent them the options for a 5/10-year option at both $1M and $2M in TI. I'll keep you posted."
+        "from": "In typical fashion, once getting the tenant lease, they have been negotiating more on the rent. I was texting back and forth with him this weekend. As of last night, we had agreed on terms, and I just need to edit the lease and send it back to them. The short version is we changed some of the rent bumps for the initial term but got 2% annual increases for any of the options.",
+        "to": "Lease has been sent back to him. We'll follow up with the docu-sign today"
       },
       {
         "name": "Hamilton",
-        "property": "Dutch Bros Title / Sale Issues",
-        "from": "I think you are in the loop on most up to date information. The ball is in their court with the revised agreements, and they are taking them to Dutch bros",
-        "to": "Sounds like we are in the clear and dutch accepted our changes. Based on the PSA, closing would be July 13. Would the best plan be for me to just send an email on that thread confirming those details?"
-      },
-      {
-        "name": "Wilson",
-        "property": "Wilson",
-        "from": "Still in motion. We sent back the LOI and trying to find an alternate guarantee structure. They are also having us get confirmation from Brentwood Zoning that we would be all clear on the use, which we should be from our preliminary research.",
-        "to": "We had three tours this week and received an LOI for the whole building."
+        "property": "Dutch Bros / GMX Sale",
+        "from": "Sounds like we are in the clear and dutch accepted our changes. Based on the PSA, closing would be July 13. Would the best plan be for me to just send an email on that thread confirming those details?",
+        "to": "Let me know if you need any help with this stuff with the bank. Everything I've seen come through looks like you and Ashby have been handling it but holler if I can help."
       }
     ],
     "noChange": []
