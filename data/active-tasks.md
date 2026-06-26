@@ -1,13 +1,21 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-06-25 6:00 PM CDT
+Last updated: 2026-06-26 2:00 PM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T252 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T255 -->
 
 ## ACTIVE — Jacob needs to do these
 
 ### This Week (week of 5/11)
 
+
+
+- T254: Hamilton OH / Fleet Feet CBRE inquiry — Mike Seliga / CBRE asked whether the 1,978 SF Hamilton suite is still available for Fleet Feet and requested asking rent, NNNs, and floor plan. Jacob forwarded to Adam for practice drafting; Adam replied internally with suggested language saying available, $14-$18/SF depending on terms, $2.75/SF NNN, with interior photos/floor plan attached. Jacob needs to review/send the response to Mike and decide whether to copy Adam. Command Center updated. [gmail thread: 19f041859b95a91a] [source: Communication Triage 2026-06-26 2 PM] [deal: Hamilton / Fleet Feet]
+
+
+- T253: Caroline A. / 516 Tennessee Street Crexi lead — Caroline requested property information for 516 Tennessee Street in Memphis via Crexi at 7:24 AM after an earlier inquiry at 7:38 PM on 6/25. Suggested reply posted in Discord; no Gmail draft was created and no external reply was sent. Command Center updated. [gmail thread: 19f015d877dd8917] [source: Communication Triage 2026-06-26 8 AM] [deal: 516 Tennessee Street / Memphis]
+
+- T252: Caroline A. / Hickory Village Crexi lead — Caroline requested availability, pricing, and viewing arrangements for Hickory Village in Jackson via Crexi. Suggested reply posted in Discord; no Gmail draft was created and no external reply was sent. Command Center updated. [gmail thread: 19f03fb23610970f] [source: Communication Triage 2026-06-26 8 AM] [deal: Hickory Village / Jackson]
 
 - T251: Gallatin / Lately Projects commission and post-execution handoff — Lately Projects / `2518 Gallatin Tenant LLC` lease is signed; execution copy located in Drive (`1m3wzG5Kl3H_7xkaHiNLb3tyiuKDceVGE`) and downloaded for Anchor commission process. Extracted key economics: landlord `2518 Gallatin Partners LLC`, tenant `2518 Gallatin Tenant LLC`, 12,782 SF, 8-year term, total minimum rent `$3,071,810.30`. Jacob needs to confirm commission percentage and Anchor payment posture before invoice generation / commission handoff; consider NLC/opening checklist follow-through if not already started. [source: memory/events 2026-06-25; Drive execution copy] [deal: Gallatin / Lately Projects]
 
@@ -53,7 +61,7 @@ Last updated: 2026-06-25 6:00 PM CDT
 
 - T235: Little Caesars / Hendersonville Maple Row inquiry — Tiffanie Fitzpatrick emailed that her client Little Caesars is looking for space in Hendersonville and asked whether the Fox's Pizza space is available, plus any other options. Jacob replied with Maple Row flyer/photos, noted the Fox's Pizza space has a lease pending, offered the adjacent 2,244 SF suite, and quoted mid-to-upper $20s as-is with $4.41 NNN. 6/22 update: Tiffanie asked due-diligence questions for a global pizza chain: grease trap access, whether electrical is at least 400 amps, gas/gas-line size, water-line size, and why Fox's Pizza is moving out. Suggested reply posted in Discord; no Gmail draft was created. Command Center updated. [gmail thread: 19edad16eeab9704] [source: Communication Triage 2026-06-18 8 AM; Communication Triage 2026-06-22 9 AM] [deal: Maple Row / Little Caesars]
 
-- T236: Gilded Spine / Maple Row renewed interest — Hillary Holmes re-engaged after prior tour/TI concerns and asked whether the Maple Row space is already leased; she is open to chatting again. 6/23 update: Hillary followed up after texting Jacob and asked to confirm Hendersonville Planning/zoning and Certificate of Occupancy feasibility for retail + limited-service restaurant use, plus rewalk the space with her facilities manager to review utilities/plumbing/flooring. Suggested reply posted in Discord; no Gmail draft was created. [gmail thread: 19d43fb58a9cd564] [source: Communication Triage 2026-06-18 8 AM; Communication Triage 2026-06-23 2 PM] [deal: Maple Row / Gilded Spine]
+- T236: Gilded Spine / Maple Row renewed interest — Hillary Holmes re-engaged after prior tour/TI concerns and asked whether the Maple Row space is already leased; she is open to chatting again. 6/23 update: Hillary followed up after texting Jacob and asked to confirm Hendersonville Planning/zoning and Certificate of Occupancy feasibility for retail + limited-service restaurant use, plus rewalk the space with her facilities manager to review utilities/plumbing/flooring. 6/26 update: Hillary said Saturday AM is the most likely time she and her facilities manager can revisit; Jacob/Adam need to decide whether to meet onsite and coordinate final timing. Suggested reply posted in Discord; no Gmail draft was created. Command Center updated. [gmail thread: 19d43fb58a9cd564] [source: Communication Triage 2026-06-18 8 AM; Communication Triage 2026-06-23 2 PM; Communication Triage 2026-06-26 2 PM] [deal: Maple Row / Gilded Spine]
 
 - T237: Teriyaki Madness / Pell City inquiry — Robert Cook replied that Teriyaki Madness may work with a hybrid landlord work-letter/TI structure, typically vanilla shell/electrical plus TI, after Jacob sent Pell City availability. Jacob needs to decide whether/how to keep pursuing for the demised gym space. [gmail thread: 19ed5b1612b4918e] [source: Communication Triage 2026-06-18 8 AM] [deal: Pell City / Teriyaki Madness]
 
