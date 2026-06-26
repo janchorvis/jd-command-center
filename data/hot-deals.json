@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T14:03:04.908694",
+  "lastUpdated": "2026-06-26T14:03:37.568884",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-26",
@@ -26446,10 +26446,10 @@
       "id": "evansville",
       "name": "",
       "property": "Hamilton, OH",
-      "status": "Seller-side revised AutoZone/Subway estoppel agreements and owner affidavit have been sent to Dutch counsel; Karen D'Antonio says Dutch outside/inside counsel will review and respond.",
+      "status": "Mike Seliga / CBRE asked whether the 1,978 SF suite is still available for Fleet Feet and requested asking rent, NNNs, and floor plan. Jacob had Adam draft a response; Adam replied internally with availability, $14-$18/SF depending on terms, $2.75/SF NNN, and attached interior photos/floor plan.",
       "stage": "Lease Signed",
-      "nextStep": "Wait for Dutch counsel response; keep inspection-period timing visible.",
-      "priority": "high",
+      "nextStep": "Jacob needs to review/send response to Mike Seliga and decide whether to copy Adam.",
+      "priority": "medium",
       "contacts": [
         "Carmen Drake (Bellacino's Pizza & Grinders / Runnebohm Realty)",
         "Melissa Drish <mdrish@anchorinv.com>",
@@ -26460,9 +26460,16 @@
         "Andrew Goodman (GMX)",
         "Karen D'Antonio (Taft)",
         "Ashby Scott (Evans Petree)",
-        "Karen D'Antonio (Taft/Dutch counsel)"
+        "Karen D'Antonio (Taft/Dutch counsel)",
+        "Mike Seliga (CBRE Cincinnati)",
+        "Adam Heston"
       ],
       "timeline": [
+        {
+          "date": "2026-06-26",
+          "event": "CBRE/Fleet Feet asked about Hamilton 1,978 SF availability, rent, NNNs, and floor plan; Adam drafted internal response.",
+          "type": "email"
+        },
         {
           "date": "2026-06-25",
           "event": "Email from Jacob Delk: Emerson Hall Plans",
