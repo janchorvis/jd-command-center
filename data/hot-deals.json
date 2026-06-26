@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T08:03:15.403592",
+  "lastUpdated": "2026-06-26T14:03:04.908694",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-26",
@@ -37486,10 +37486,10 @@
       "id": "gilded-spine-maple-row",
       "name": "Gilded Spine (Storybook Soirees LLC)",
       "property": "Maple Row Shopping Center",
-      "status": "Hillary Holmes / Gilded Spine followed up on Maple Row next steps after texting Jacob; wants to verify Hendersonville zoning/use, CO approval for retail + limited service restaurant, and rewalk the space with facilities manager for utilities/plumbing/flooring.",
-      "stage": "Contact Made",
-      "nextStep": "Coordinate rewalk and planning/CO diligence for Gilded Spine while preserving Great Greek/Fox's posture.",
-      "priority": "medium",
+      "status": "Hillary Holmes / Gilded Spine said Saturday morning is the most likely time she and her facilities manager can revisit the Maple Row space to check utilities, plumbing, flooring, zoning/CO feasibility for retail + limited-service restaurant use.",
+      "stage": "Touring",
+      "nextStep": "Jacob/Adam should decide whether to meet them onsite Saturday morning and coordinate final time.",
+      "priority": "high",
       "contacts": [
         "Hillary Holmes – gildedspinebooks@gmail.com, (414) 607-2197",
         "Hillary Holmes (Gilded Spine)"
@@ -37498,6 +37498,11 @@
         {
           "date": "2026-06-26",
           "event": "Email from The Tech Buzz: $7.8B in Contracts. No Data Center Yet. That's the Point.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-26",
+          "event": "Gilded Spine indicated Saturday morning is likely for facilities-manager rewalk at Maple Row.",
           "type": "email"
         },
         {
@@ -38775,7 +38780,8 @@
         "avgSqFt": 5206,
         "suiteCount": 11,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Touring"
     },
     {
       "id": "atlanta-hwy-scenthound",
