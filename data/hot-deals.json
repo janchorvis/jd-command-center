@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T15:01:07.896637",
+  "lastUpdated": "2026-06-26T15:01:37.551385",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-26",
@@ -63850,12 +63850,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/25, Pipedrive not updated since 3/19",
+      "message": "Last email 6/26, Pipedrive not updated since 3/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-25",
+        "lastEmailDate": "2026-06-26",
         "lastPipedriveDate": "2025-03-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 464
       }
     },
@@ -63863,12 +63863,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/25, Pipedrive not updated since 1/28",
+      "message": "Last email 6/26, Pipedrive not updated since 1/28",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-25",
+        "lastEmailDate": "2026-06-26",
         "lastPipedriveDate": "2026-01-28",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 149
       }
     },
@@ -63876,12 +63876,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/25, Pipedrive not updated since 2/19",
+      "message": "Last email 6/26, Pipedrive not updated since 2/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-25",
+        "lastEmailDate": "2026-06-26",
         "lastPipedriveDate": "2026-02-19",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 127
       }
     },
@@ -63889,12 +63889,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/25, Pipedrive not updated since 1/28",
+      "message": "Last email 6/26, Pipedrive not updated since 1/28",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-25",
+        "lastEmailDate": "2026-06-26",
         "lastPipedriveDate": "2026-01-28",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 149
       }
     },
@@ -63902,12 +63902,12 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/25, Pipedrive not updated since 2/23",
+      "message": "Last email 6/26, Pipedrive not updated since 2/23",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-25",
+        "lastEmailDate": "2026-06-26",
         "lastPipedriveDate": "2026-02-23",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 123
       }
     },
@@ -64032,12 +64032,12 @@
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/25, Pipedrive not updated since 3/26",
+      "message": "Last email 6/26, Pipedrive not updated since 3/26",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-25",
+        "lastEmailDate": "2026-06-26",
         "lastPipedriveDate": "2025-03-26",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 457
       }
     },
@@ -64045,12 +64045,12 @@
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/25, Pipedrive not updated since 5/4",
+      "message": "Last email 6/26, Pipedrive not updated since 5/4",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-25",
+        "lastEmailDate": "2026-06-26",
         "lastPipedriveDate": "2026-05-04",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 53
       }
     },
@@ -64071,12 +64071,12 @@
       "deal": "Wingstop",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 6/25, Pipedrive not updated since 4/27",
+      "message": "Last email 6/26, Pipedrive not updated since 4/27",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-06-25",
+        "lastEmailDate": "2026-06-26",
         "lastPipedriveDate": "2026-04-27",
-        "emailDaysAgo": 1,
+        "emailDaysAgo": 0,
         "pipedriveDaysAgo": 60
       }
     }
