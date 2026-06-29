@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T15:09:46.668210",
+  "lastUpdated": "2026-06-29T16:04:09.605159",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-26",
@@ -43065,19 +43065,25 @@
     {
       "id": "montgomery-martial-arts-virginia-college",
       "name": "Montgomery Martial Arts",
-      "property": "Virginia College Plaza",
-      "status": "Watkins Johnston reported after the 6/29 tour that the keys were returned, the 5,100 SF former VHD furniture space layout works well for Montgomery Martial Arts, but it is more than the tenant originally wanted to spend.",
+      "property": "Virginia College Plaza / 6132 Atlanta Hwy",
+      "status": "Watkins Johnston confirmed the Montgomery Martial Arts tour happened, keys were returned to the lockbox, and the tenant likes the 5,100 SF layout, but the space is more than they originally wanted to spend.",
       "stage": "Touring",
-      "nextStep": "Wait for Watkins/tenant decision; consider whether there is pricing flexibility if they push back on economics.",
+      "nextStep": "Jacob should decide whether to hold as-is pricing or float a structure that addresses cost concerns while preserving deal economics.",
       "priority": "medium",
       "contacts": [
         "Watkins Johnston IV (MCRMPM)",
-        "Montgomery Martial Arts"
+        "Montgomery Martial Arts",
+        "Watkins Johnston IV (MCRM Property Management)"
       ],
       "timeline": [
         {
           "date": "2026-06-29",
           "event": "Watkins toured with Montgomery Martial Arts; layout works, economics may be high.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-29",
+          "event": "Tour feedback: layout works; concern is total spend. Keys returned to lockbox.",
           "type": "email"
         },
         {
