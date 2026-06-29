@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T16:04:09.605159",
+  "lastUpdated": "2026-06-29T16:04:45.121602",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-26",
@@ -43611,6 +43611,26 @@
         "suiteCount": 29,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "pell-city-803-martin-compassus",
+      "name": "Compassus",
+      "property": "Pell City / 803 Martin St. S.",
+      "status": "Lauri Fowler / ProStar followed up for an update on the Compassus 803 Martin proposal after previously suggesting a call with their construction manager once Anchor has bids back.",
+      "stage": "Trading Terms",
+      "nextStep": "Jacob should send a status update on bids/proposal timing and, if ready, set up the construction-manager call.",
+      "priority": "medium",
+      "contacts": [
+        "Lauri Fowler (ProStar CRE)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-29",
+          "event": "Lauri Fowler asked for an update on the 803 Martin / Compassus proposal.",
+          "type": "email"
+        }
+      ],
+      "actions": []
     }
   ],
   "sideDeals": [
