@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T15:01:37.551385",
+  "lastUpdated": "2026-06-29T15:09:46.668210",
   "sourceDoc": "2026-06-22 - Leasing Meeting",
   "today": {
     "date": "2026-06-26",
@@ -43065,16 +43065,21 @@
     {
       "id": "montgomery-martial-arts-virginia-college",
       "name": "Montgomery Martial Arts",
-      "property": "Montgomery / Virginia College Plaza",
-      "status": "Watkins Johnston IV / MCRMPM asked whether Anchor has anything at 6132 Atlanta Hwy / Virginia College SC for Montgomery Martial Arts relocation needing roughly 3,000 SF open layout and requested pricing.",
-      "stage": "Contact Made",
-      "nextStep": "Jacob to confirm available Montgomery options and pricing, then reply to Watkins.",
+      "property": "Virginia College Plaza",
+      "status": "Watkins Johnston reported after the 6/29 tour that the keys were returned, the 5,100 SF former VHD furniture space layout works well for Montgomery Martial Arts, but it is more than the tenant originally wanted to spend.",
+      "stage": "Touring",
+      "nextStep": "Wait for Watkins/tenant decision; consider whether there is pricing flexibility if they push back on economics.",
       "priority": "medium",
       "contacts": [
         "Watkins Johnston IV (MCRMPM)",
         "Montgomery Martial Arts"
       ],
       "timeline": [
+        {
+          "date": "2026-06-29",
+          "event": "Watkins toured with Montgomery Martial Arts; layout works, economics may be high.",
+          "type": "email"
+        },
         {
           "date": "2026-06-26",
           "event": "Email from CPE Daily Newsletter: Harbor Group signs law firm to Manhattan lease",
@@ -43405,7 +43410,8 @@
         "avgSqFt": 4405,
         "suiteCount": 19,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Touring"
     },
     {
       "id": "mcminnville-regional-transit",
