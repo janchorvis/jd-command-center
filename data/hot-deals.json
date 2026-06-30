@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T07:16:51.360789",
+  "lastUpdated": "2026-06-30T09:04:57.807350",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-06-30",
@@ -24483,9 +24483,9 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Upstream Rehabilitation / Drayer PT lease draft received from Tom Fidler/MacKenzie on 2026-06-18; attachment is a DOCX commercial lease for Pell City Partners / Upstream Growth.",
+      "status": "Upstream/Drayer PT measurement/MEP diligence is moving: Davis Coleman / Corco plans a site visit on 2026-07-01 and will reply when finished so Jacob can pull the lockbox.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob needs to review/route the Upstream/Drayer PT lease draft and coordinate any legal/business comments. Do not process the DOCX in the main session.",
+      "nextStep": "Wait for Davis Coleman to confirm the site visit is complete, then pull/recover the lockbox; Jacob still needs to review/route lease comments separately.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
@@ -24504,7 +24504,9 @@
         "David Cooke (Cooke Commercial)",
         "Lauri Fowler (ProStar / Compassus)",
         "Brent Braden (Upstream Rehabilitation Facilities Manager)",
-        "Brent Braden (Upstream Rehabilitation)"
+        "Brent Braden (Upstream Rehabilitation)",
+        "Davis Coleman (Corco Construction)",
+        "Tom Fidler (MacKenzie Commercial)"
       ],
       "timeline": [
         {
@@ -24545,6 +24547,11 @@
         {
           "date": "2026-06-30",
           "event": "Email from Kelsey Cornillie, Publisher: State taps high-powered names for new airport board",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-30",
+          "event": "Davis Coleman said he plans to make a Pell City site visit on 2026-07-01 for measurements/MEP info and will reply once finished so Jacob can pull the lockbox.",
           "type": "email"
         },
         {
