@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T09:04:57.807350",
+  "lastUpdated": "2026-06-30T12:03:50.063336",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-06-30",
@@ -40204,10 +40204,10 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton, OH",
-      "status": "Dutch Bros REA revisions came back; Dutch resisted casualty alignment and amendment/subdivision language.",
+      "status": "Carole flagged an Evans Petree bill through 6/5 for the Hamilton Dutch Bros sale totaling $5,750 and asked whether it will be paid through closing or separately.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Micah/Ashby decide whether to concede amendment/subdivision point and finalize response.",
-      "priority": "high",
+      "nextStep": "Jacob needs to confirm with closing/legal/accounting whether the $5,750 Evans Petree Hamilton Dutch Bros sale bill is handled at closing or should be paid separately.",
+      "priority": "medium",
       "contacts": [
         "Ashby",
         "Ashby Scott",
@@ -40226,9 +40226,16 @@
         "Dutch Bros counsel",
         "Karen D'Antonio (buyer counsel)",
         "Jacob Delk (Anchor)",
-        "Dutch Bros"
+        "Dutch Bros",
+        "Carole Ward",
+        "Evans Petree"
       ],
       "timeline": [
+        {
+          "date": "2026-06-30",
+          "event": "Carole flagged $5,750 Evans Petree bill for Hamilton Dutch Bros sale and asked payment path.",
+          "type": "slack"
+        },
         {
           "date": "2026-06-29",
           "event": "Email from Jacob Delk: McMinnville Royal Furniture CAD",
@@ -44685,8 +44692,8 @@
       "name": "HopeSmiles",
       "property": "502 Thompson Lane",
       "type": "Tenant Rep",
-      "status": "Nathan Frost confirmed the remaining 24k SF option is quoted at $15/SF + NNN as-is; some TIA could be available but would be amortized into rent. Other tenant is a higher-end haunted house group, seasonal around holidays.",
-      "nextStep": "Decide whether Hope Smiles can work with the as-is/amortized-TI structure and seasonal haunted-house co-tenant context.",
+      "status": "Nathan Frost replied that NNNs are $3.45/SF after Jacob said the prospect may have interest in an as-is deal.",
+      "nextStep": "Jacob needs to decide whether to keep pushing HopeSmiles on 502 Thompson Lane with $15/SF + $3.45/SF NNN and any TI amortized into rent.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -44710,11 +44717,17 @@
         "Dr. Kemp (HopeSmiles)",
         "Brandon Hoop (broker/contact)",
         "Micah Lacher (Anchor)",
-        "Jacob Delk (Anchor)"
+        "Jacob Delk (Anchor)",
+        "Nathan Frost (Ojas Partners)"
       ],
       "priority": "medium",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-06-30",
+          "event": "Nathan Frost confirmed NNNs are $3.45/SF for 502 Thompson Lane.",
+          "type": "email"
+        },
         {
           "date": "2026-06-29",
           "event": "Email from Jacob Delk: McMinnville Royal Furniture CAD",
@@ -56821,15 +56834,22 @@
       "id": "shelbyville-ryan-jordan-former-big-lots",
       "name": "Ryan Jordan / Former Big Lots",
       "property": "Shelbyville former Big Lots",
-      "status": "City of Shelbyville pre-application meeting booked with Adam Rude and Mike for Friday 2026-06-26 from 8:00-9:00 AM CDT.",
+      "status": "Adam reached out to Casey's about the Shelbyville outparcel redevelopment. Dolly Poersch, Casey's real estate manager for the Indianapolis DMA/south, requested additional site details including remaining frontage width and any property drawing.",
       "stage": "Contact Made",
-      "nextStep": "Use the pre-application meeting to pressure-test the former Big Lots/outparcel redevelopment path and city requirements.",
+      "nextStep": "Adam/Jacob should send Casey's the remaining frontage width and any available outparcel/property drawing.",
       "priority": "high",
       "contacts": [
         "Ryan Jordan (AVID Real Estate Advisors)",
-        "Adam Rude (City of Shelbyville)"
+        "Adam Rude (City of Shelbyville)",
+        "Dolly Poersch (Casey's Real Estate Manager)",
+        "Matthew Bisignano (Casey's)"
       ],
       "timeline": [
+        {
+          "date": "2026-06-30",
+          "event": "Casey's asked for additional Shelbyville site details and drawings after Adam's outreach.",
+          "type": "email"
+        },
         {
           "date": "2026-06-29",
           "event": "Email from Jacob Delk: Shelbyville, IN",
