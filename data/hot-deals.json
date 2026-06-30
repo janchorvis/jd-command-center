@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T12:03:50.063336",
+  "lastUpdated": "2026-06-30T13:04:26.778230",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-06-30",
@@ -40204,10 +40204,10 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton, OH",
-      "status": "Carole flagged an Evans Petree bill through 6/5 for the Hamilton Dutch Bros sale totaling $5,750 and asked whether it will be paid through closing or separately.",
+      "status": "Carole Ward flagged an Evans Petree bill through 6/5 for the Hamilton Dutch Bros sale totaling $5,750 and asked whether it will be paid through closing or separately.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob needs to confirm with closing/legal/accounting whether the $5,750 Evans Petree Hamilton Dutch Bros sale bill is handled at closing or should be paid separately.",
-      "priority": "medium",
+      "nextStep": "Tell Carole whether the Evans Petree Hamilton/Dutch Bros bill should be paid through closing or separately.",
+      "priority": "high",
       "contacts": [
         "Ashby",
         "Ashby Scott",
@@ -40234,6 +40234,11 @@
         {
           "date": "2026-06-30",
           "event": "Carole flagged $5,750 Evans Petree bill for Hamilton Dutch Bros sale and asked payment path.",
+          "type": "slack"
+        },
+        {
+          "date": "2026-06-30",
+          "event": "Carole asked whether $5,750 Evans Petree Hamilton Dutch Bros sale bill is paid through closing or separately.",
           "type": "slack"
         },
         {
@@ -44692,8 +44697,8 @@
       "name": "HopeSmiles",
       "property": "502 Thompson Lane",
       "type": "Tenant Rep",
-      "status": "Nathan Frost replied that NNNs are $3.45/SF after Jacob said the prospect may have interest in an as-is deal.",
-      "nextStep": "Jacob needs to decide whether to keep pushing HopeSmiles on 502 Thompson Lane with $15/SF + $3.45/SF NNN and any TI amortized into rent.",
+      "status": "Nathan Frost / Ojas replied that NNNs at 502 Thompson Lane are $3.45/SF after Jacob said Hope Smiles may have interest in an as-is deal. Prior economics: about 24K SF in Retail #3, $15/SF + NNN as-is, possible TIA amortized into rent, seasonal haunted-house co-tenancy.",
+      "nextStep": "Decide whether to pass the 502 Thompson Lane economics to Hope Smiles and pursue next steps.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -44726,6 +44731,11 @@
         {
           "date": "2026-06-30",
           "event": "Nathan Frost confirmed NNNs are $3.45/SF for 502 Thompson Lane.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-30",
+          "event": "502 Thompson Lane NNNs quoted at $3.45/SF for Hope Smiles revisit.",
           "type": "email"
         },
         {
@@ -56834,9 +56844,9 @@
       "id": "shelbyville-ryan-jordan-former-big-lots",
       "name": "Ryan Jordan / Former Big Lots",
       "property": "Shelbyville former Big Lots",
-      "status": "Adam reached out to Casey's about the Shelbyville outparcel redevelopment. Dolly Poersch, Casey's real estate manager for the Indianapolis DMA/south, requested additional site details including remaining frontage width and any property drawing.",
+      "status": "Adam reached out to Casey's about the Shelbyville outparcel redevelopment. Matt Bisignano redirected him to Dolly Poersch for the Indianapolis DMA/south, and Dolly asked for additional site details including remaining frontage width and any drawing of the property.",
       "stage": "Contact Made",
-      "nextStep": "Adam/Jacob should send Casey's the remaining frontage width and any available outparcel/property drawing.",
+      "nextStep": "Send Casey's the remaining frontage width and any available drawing/site plan for the Shelbyville outparcel concept.",
       "priority": "high",
       "contacts": [
         "Ryan Jordan (AVID Real Estate Advisors)",
@@ -56848,6 +56858,11 @@
         {
           "date": "2026-06-30",
           "event": "Casey's asked for additional Shelbyville site details and drawings after Adam's outreach.",
+          "type": "email"
+        },
+        {
+          "date": "2026-06-30",
+          "event": "Casey's/Dolly Poersch asked for frontage width and property drawing for Shelbyville outparcel review.",
           "type": "email"
         },
         {
