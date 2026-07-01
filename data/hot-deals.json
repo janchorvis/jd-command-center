@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T13:03:14.410983",
+  "lastUpdated": "2026-07-01T14:04:05.080598",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-01",
@@ -52,9 +52,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below is still waiting on landlord facade sketches/markups; Desiree Warren followed up again on 7/1 asking when the sketches will be sent.",
+      "status": "Desiree Warren followed up again asking when façade sketches will be sent over; Five Below CDs need façade direction.",
       "stage": "Lease Signed",
-      "nextStep": "Clay/Jacob need to provide facade sketches/markups or timing so Five Below can complete CDs.",
+      "nextStep": "Clay/Jacob need to send façade sketches/markups or a firm ETA to Five Below.",
       "priority": "high",
       "timeline": [
         {
@@ -65,6 +65,11 @@
         {
           "date": "2026-07-01",
           "event": "Desiree Warren followed up again asking for facade sketches and timing.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-01",
+          "event": "Five Below followed up again for Malone façade sketches needed for CD completion.",
           "type": "email"
         },
         {
@@ -20399,15 +20404,20 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "City permit comments satisfied; permit approved pending GC and fee. StoreCrafters is GC and is arranging permit pickup; start targeted Monday 6/8.",
+      "status": "Robert Richardson / TJX emailed from site that the parking lot is in very poor condition, said he almost had a blowout in a pothole, and asked Jacob to call. He also flagged Big Lots signage still everywhere and no Marshalls coming-soon signage.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Monitor fee/payment and GC pickup/start timing.",
+      "nextStep": "Jacob/Clay need to call Robert Richardson and address parking-lot condition plus temporary/permanent Marshalls signage plan.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-07-01",
           "event": "Email from Jack Gilmore: Bristol Plaza Shopping Center- Bristol, VA",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-01",
+          "event": "TJX/Marshalls escalated Malone parking-lot condition and missing coming-soon signage from site visit.",
           "type": "email"
         },
         {
