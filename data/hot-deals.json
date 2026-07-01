@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T10:04:08.076786",
+  "lastUpdated": "2026-07-01T13:03:14.410983",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-01",
@@ -52,14 +52,19 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Ashby returned handwritten lease comments with JD/Micah confirmation items and several pushbacks.",
+      "status": "Five Below is still waiting on landlord facade sketches/markups; Desiree Warren followed up again on 7/1 asking when the sketches will be sent.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob review work letter/sign/no-build exhibits and coordinate legal/business responses with Micah/Ashby.",
+      "nextStep": "Clay/Jacob need to provide facade sketches/markups or timing so Five Below can complete CDs.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-07-01",
           "event": "Email from Jack Gilmore: Bristol Plaza Shopping Center- Bristol, VA",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-01",
+          "event": "Desiree Warren followed up again asking for facade sketches and timing.",
           "type": "email"
         },
         {
@@ -64412,6 +64417,34 @@
         }
       ],
       "source": "Communication Triage - 2026-06-25 5 PM"
+    },
+    {
+      "id": "mcminnville-faith-g-office-shipping",
+      "name": "Faith G - office/shipping space",
+      "property": "McMinnville Plaza",
+      "status": "Faith G asked about small private office/shipping spaces, pricing/lease breakdown, and restroom access. Jacob forwarded to Adam; Adam drafted a reply with lower-level unit options and Matterport tour, but no external reply has been sent yet.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob should send/approve reply to Faith with unit options, pricing, restroom access, and Matterport link.",
+      "priority": "medium",
+      "contacts": [
+        "Faith G <faithandbob90@gmail.com>",
+        "Adam Heston"
+      ],
+      "timeline": [
+        {
+          "date": "2026-06-30",
+          "event": "Faith G inquired about small private office/shipping space at McMinnville Plaza.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-07-01",
+          "event": "Adam Heston drafted reply text internally; no external reply sent yet.",
+          "type": "email"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-07-01"
     }
   ],
   "droppedBalls": [
