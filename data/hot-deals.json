@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T07:16:09.141480",
+  "lastUpdated": "2026-07-01T10:04:08.076786",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-01",
@@ -39668,9 +39668,9 @@
       "id": "gilded-spine-maple-row",
       "name": "Gilded Spine (Storybook Soirees LLC)",
       "property": "Maple Row Shopping Center",
-      "status": "Hillary Holmes / Gilded Spine said Saturday morning is the most likely time she and her facilities manager can revisit the Maple Row space to check utilities, plumbing, flooring, zoning/CO feasibility for retail + limited-service restaurant use.",
-      "stage": "Touring",
-      "nextStep": "Jacob/Adam should decide whether to meet them onsite Saturday morning and coordinate final time.",
+      "status": "Hillary Holmes / Gilded Spine replied with terms: $25/SF NNN, no TI, 3-year term with 5-year renewal option(s), and target soft opening Oct/Nov before TABC approval with books/mocktails/food.",
+      "stage": "Trading Terms",
+      "nextStep": "Jacob needs to confirm acceptance/counter posture and whether to move straight to lease/LOI.",
       "priority": "high",
       "contacts": [
         "Hillary Holmes – gildedspinebooks@gmail.com, (414) 607-2197",
@@ -39690,6 +39690,11 @@
         {
           "date": "2026-07-01",
           "event": "Email from Kelsey Cornillie, Publisher: Data center debate spreads beyond the zoo",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-01",
+          "event": "Gilded Spine proposed $25/SF NNN, no TI, 3-year term plus 5-year renewal option(s); soft opening Oct/Nov pre-TABC.",
           "type": "email"
         },
         {
@@ -41038,7 +41043,7 @@
         "suiteCount": 11,
         "vacantCount": 0
       },
-      "stageOverride": "Touring"
+      "stageOverride": "Trading Terms"
     },
     {
       "id": "atlanta-hwy-scenthound",
@@ -45962,8 +45967,8 @@
       "name": "HopeSmiles",
       "property": "502 Thompson Lane",
       "type": "Tenant Rep",
-      "status": "Nathan Frost / Ojas replied that NNNs at 502 Thompson Lane are $3.45/SF after Jacob said Hope Smiles may have interest in an as-is deal. Prior economics: about 24K SF in Retail #3, $15/SF + NNN as-is, possible TIA amortized into rent, seasonal haunted-house co-tenancy.",
-      "nextStep": "Decide whether to pass the 502 Thompson Lane economics to Hope Smiles and pursue next steps.",
+      "status": "Nathan Frost confirmed the haunted-house lease is fully signed and the tenant is working through permits; he asked how much space Hope Smiles needs.",
+      "nextStep": "Jacob needs to answer with Hope Smiles' target square footage / flexibility.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -45993,6 +45998,11 @@
       "priority": "medium",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-07-01",
+          "event": "Nathan Frost confirmed haunted-house lease is signed and asked how much space Hope Smiles needs.",
+          "type": "email"
+        },
         {
           "date": "2026-06-30",
           "event": "Email from Jacob Delk: 2518 Gallatin Partners information",
