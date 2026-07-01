@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T16:02:58.578595",
+  "lastUpdated": "2026-07-01T17:04:48.067869",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-01",
@@ -48073,10 +48073,10 @@
     {
       "id": "buena-vista",
       "name": "Buena Vista",
-      "property": "Buena Vista Pike",
+      "property": "2433 Buena Vista Pike",
       "type": "Land/Development",
-      "status": "Heather Devermann / EXIT Real Estate Solutions emailed asking what Anchor has for sale at 2433 Buena Vista, whether it is 15 acres or 5 acres, and the asking price.",
-      "nextStep": "Jacob should respond with the current acreage/asking-price posture or decide whether to route this inquiry to the broader Buena Vista outreach/sale track.",
+      "status": "Crexi activity from Sanjay P. on 2433 Buena Vista Pike: clicked phone number; outbound follow-up recommended to capture contact info/use if Jacob wants to pursue.",
+      "nextStep": "Jacob to decide whether to follow up with Sanjay P. via Crexi/contact path; suggested reply posted in Discord.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
@@ -48084,7 +48084,8 @@
         "Micah Lacher",
         "Moda Homes / Moda Vista",
         "Forman Capital",
-        "Heather Devermann (EXIT Real Estate Solutions, heather@exitrealestatesolutions.com, 630-853-7674)"
+        "Heather Devermann (EXIT Real Estate Solutions, heather@exitrealestatesolutions.com, 630-853-7674)",
+        "Sanjay P. (Crexi prospect)"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-11",
@@ -48093,6 +48094,11 @@
           "date": "2026-07-01",
           "event": "Email from NASHtoday: July's top events + Nolensville Pike project",
           "type": "email"
+        },
+        {
+          "date": "2026-07-01",
+          "event": "Communication Triage: Sanjay P. clicked phone number on Crexi listing for 2433 Buena Vista Pike.",
+          "type": "lead"
         },
         {
           "date": "2026-06-30",
