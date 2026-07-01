@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T14:04:05.080598",
+  "lastUpdated": "2026-07-01T16:02:58.578595",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-01",
@@ -61450,9 +61450,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "New CBRE/Noble Judy basketball-training-facility concept is interested in leasing 312 Wilson Pike; clear heights and renovation costs need review. Site meeting is planned for Monday 6/29 at 1 PM with Jacob/Adam, Noble, and FRWD/Russell Martin coverage.",
+      "status": "Ross Hopkins / Southeast Venture checked in asking whether Anchor has moved forward with anything on Futbol Factory after Jacob previously said full-building users were preferred before formally responding on front/rear portion LOIs.",
       "stage": "LOI",
-      "nextStep": "Meet onsite Monday 6/29 at 1 PM; evaluate clear heights, subdivision/fit, and renovation costs alongside existing Wilson Pike LOI paths.",
+      "nextStep": "Jacob needs to decide whether to keep Futbol Factory warm, give a timing update, or formally pass while full-building opportunities play out.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -61483,6 +61483,11 @@
         {
           "date": "2026-07-01",
           "event": "Email from NASHtoday: July's top events + Nolensville Pike project",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-01",
+          "event": "Ross Hopkins checked in on Futbol Factory / 312 Wilson Pike LOI status and asked if Anchor has moved forward with anything.",
           "type": "email"
         },
         {
