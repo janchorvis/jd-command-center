@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T09:02:19.875990",
+  "lastUpdated": "2026-07-02T10:03:52.480057",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-02",
@@ -46960,10 +46960,10 @@
     {
       "id": "hopesmiles",
       "name": "HopeSmiles",
-      "property": "502 Thompson Lane",
+      "property": "502 Thompson Lane / 144 Wilson Pike alternatives",
       "type": "Tenant Rep",
-      "status": "Nathan Frost confirmed the haunted-house lease is fully signed and the tenant is working through permits; he asked how much space Hope Smiles needs.",
-      "nextStep": "Jacob needs to answer with Hope Smiles' target square footage / flexibility.",
+      "status": "Michael Gebhart, Hope Smiles CFO, asked to work directly with Jacob as primary point of contact for clinic/office location decisions and requested an early-next-week call to discuss path forward.",
+      "nextStep": "Jacob should reply with early-next-week call availability and be ready to discuss target SF, timing, and whether 502 Thompson Lane / remaining 24K SF is viable versus going back to the drawing board.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -46988,9 +46988,10 @@
         "Brandon Hoop (broker/contact)",
         "Micah Lacher (Anchor)",
         "Jacob Delk (Anchor)",
-        "Nathan Frost (Ojas Partners)"
+        "Nathan Frost (Ojas Partners)",
+        "Michael Gebhart (Hope Smiles CFO)"
       ],
-      "priority": "medium",
+      "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
@@ -47001,6 +47002,11 @@
         {
           "date": "2026-07-02",
           "event": "Email from Jonathan Buckelew & Topher Stephenson: Voice.md: Make AI Actually Sound Like You",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-02",
+          "event": "Inbox: Michael Gebhart asked to become Jacob's direct Hope Smiles point of contact and schedule an early-next-week path-forward call.",
           "type": "email"
         },
         {
