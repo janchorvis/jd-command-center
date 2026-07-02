@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T07:17:02.123869",
+  "lastUpdated": "2026-07-02T09:02:19.875990",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-02",
@@ -20733,12 +20733,17 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "Robert Richardson / TJX emailed from site that the parking lot is in very poor condition, said he almost had a blowout in a pothole, and asked Jacob to call. He also flagged Big Lots signage still everywhere and no Marshalls coming-soon signage.",
+      "status": "TJX/StoreCrafters escalated parking-lot condition again: potholes, unswept sand obscuring striping, faded lines, and a photo packet link from StoreCrafters.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Jacob/Clay need to call Robert Richardson and address parking-lot condition plus temporary/permanent Marshalls signage plan.",
+      "nextStep": "Jacob/Clay should review photo packet and coordinate Runnings/REA responsibility plus immediate parking-lot/signage response for TJX.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-07-02",
+          "event": "StoreCrafters sent iCloud photo packet documenting Malone parking-lot potholes/sand/faded lines after TJX escalation.",
+          "type": "email"
+        },
         {
           "date": "2026-07-01",
           "event": "Email from Melissa Sutton: Help us personalize your communications. Complete our 2 minute survey.",
@@ -23045,7 +23050,8 @@
         "Shaun Andriano <andriano@c2-designgroup.com>",
         "Robert Richardson (TJX Development Manager)",
         "Joshua Conroy (Camburas Theodore)",
-        "Laurie Schindler (StoreCrafters)"
+        "Laurie Schindler (StoreCrafters)",
+        "Joe Silvaggi (StoreCrafters)"
       ],
       "actions": [
         {
