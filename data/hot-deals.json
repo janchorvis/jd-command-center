@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T07:16:08.821778",
+  "lastUpdated": "2026-07-03T08:03:21.939537",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-03",
@@ -40814,15 +40814,21 @@
       "id": "gilded-spine-maple-row",
       "name": "Gilded Spine (Storybook Soirees LLC)",
       "property": "Maple Row Shopping Center",
-      "status": "Hillary Holmes / Gilded Spine replied with terms: $25/SF NNN, no TI, 3-year term with 5-year renewal option(s), and target soft opening Oct/Nov before TABC approval with books/mocktails/food.",
+      "status": "Hillary/Gilded Spine is interviewing architects on an accelerated timeline and asked whether the landlord has blueprints or drawings to save time on permit-set renderings.",
       "stage": "Trading Terms",
-      "nextStep": "Jacob needs to confirm acceptance/counter posture and whether to move straight to lease/LOI.",
+      "nextStep": "Jacob/LL need to locate/share any courtesy-only existing drawings/blueprints, with field-verification caveat, while reviewing the $25/SF NNN/no-TI deal and kitchen/water/floor-drain feasibility.",
       "priority": "high",
       "contacts": [
         "Hillary Holmes – gildedspinebooks@gmail.com, (414) 607-2197",
-        "Hillary Holmes (Gilded Spine)"
+        "Hillary Holmes (Gilded Spine)",
+        "Hillary Holmes / Gilded Spine"
       ],
       "timeline": [
+        {
+          "date": "2026-07-03",
+          "event": "Communication Triage: Gilded Spine asked for existing blueprints/drawings while interviewing architects on accelerated timeline.",
+          "type": "email"
+        },
         {
           "date": "2026-07-02",
           "event": "Email from Carson West: Checks for the Three Grant Recipients",
