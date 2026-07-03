@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T08:03:21.939537",
+  "lastUpdated": "2026-07-03T11:07:17.866750",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-03",
@@ -66893,6 +66893,29 @@
         "suiteCount": 45,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "dixie-village-appliances-3-kings",
+      "name": "Appliances 3 Kings LLC / Deyvi Escobar",
+      "property": "Dixie Village Shopping Center",
+      "status": "Lease application received for 2579 W Franklin Blvd, Gastonia NC. Proposed use: sale of appliances. Applicant/entity: Appliances 3 Kings LLC; contacts Deyvi Escobar and Erika Peraza; requested 1-year term and opening as soon as possible.",
+      "stage": "Obtain Financials",
+      "nextStep": "Jacob should review the lease application/financial upload and decide whether to pursue appliances use at Dixie Village / Suite 2579.",
+      "priority": "medium",
+      "contacts": [
+        "Deyvi Escobar <erikaperaza328@gmail.com>",
+        "Erika Peraza <erikaperaza328@gmail.com>"
+      ],
+      "timeline": [
+        {
+          "date": "2026-07-03",
+          "event": "Lease application submitted via Jotform for 2579 W Franklin Blvd / Dixie Village; proposed use is sale of appliances.",
+          "type": "application"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-07-03"
     }
   ],
   "droppedBalls": [
