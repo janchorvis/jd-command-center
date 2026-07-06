@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T09:02:18.869210",
+  "lastUpdated": "2026-07-06T10:02:44.937263",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-06",
@@ -41144,16 +41144,23 @@
       "id": "gilded-spine-maple-row",
       "name": "Gilded Spine (Storybook Soirees LLC)",
       "property": "Maple Row Shopping Center",
-      "status": "Hillary/Gilded Spine is interviewing architects on an accelerated timeline and asked whether the landlord has blueprints or drawings to save time on permit-set renderings.",
+      "status": "Clay forwarded Maple Row documentation/drawing packets to Jacob after Hillary asked whether the landlord has blueprints/drawings to save time on permit-set renderings.",
       "stage": "Trading Terms",
-      "nextStep": "Jacob/LL need to locate/share any courtesy-only existing drawings/blueprints, with field-verification caveat, while reviewing the $25/SF NNN/no-TI deal and kitchen/water/floor-drain feasibility.",
+      "nextStep": "Jacob should decide which Maple Row files to send to Hillary as courtesy-only reference docs with field-verification caveat, while continuing review of kitchen/water/floor-drain feasibility and $25/SF NNN/no-TI posture.",
       "priority": "high",
       "contacts": [
         "Hillary Holmes – gildedspinebooks@gmail.com, (414) 607-2197",
         "Hillary Holmes (Gilded Spine)",
-        "Hillary Holmes / Gilded Spine"
+        "Hillary Holmes / Gilded Spine",
+        "Hillary Holmes",
+        "Clay Richardson"
       ],
       "timeline": [
+        {
+          "date": "2026-07-06",
+          "event": "Clay forwarded Maple Row docs/drawing packets to Jacob for Gilded Spine/Hillary follow-up.",
+          "type": "email"
+        },
         {
           "date": "2026-07-05",
           "event": "Email from Jeff Shoopman: PCON Introduction and Connect Request",
