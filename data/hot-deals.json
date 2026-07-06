@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T07:16:21.293184",
+  "lastUpdated": "2026-07-06T09:02:18.869210",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-06",
@@ -21114,15 +21114,20 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "TJX/StoreCrafters escalated parking-lot condition again: potholes, unswept sand obscuring striping, faded lines, and a photo packet link from StoreCrafters.",
+      "status": "Robert Richardson / TJX escalated the parking-lot condition again on 7/6, asking to review and discuss ASAP. He noted TJX made significant financial concessions to get the deal done and wants landlord partnership so Marshalls' first market entry and the center make a strong first impression.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Jacob/Clay should review photo packet and coordinate Runnings/REA responsibility plus immediate parking-lot/signage response for TJX.",
+      "nextStep": "Jacob/Clay should call Robert promptly, review StoreCrafters photo packet, decide parking-lot/sweeping/striping response, and coordinate any Runnings/REA responsibility for the main drive aisle.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-07-06",
           "event": "Email from Robert Richardson: Parking Lot Marshalls Malone NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-06",
+          "event": "TJX escalated Malone parking-lot condition again and requested ASAP review/discussion with landlord partnership.",
           "type": "email"
         },
         {
