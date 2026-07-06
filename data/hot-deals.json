@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T10:02:44.937263",
+  "lastUpdated": "2026-07-06T11:03:34.016111",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-06",
@@ -64196,9 +64196,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "Ross Hopkins / Southeast Venture checked in asking whether Anchor has moved forward with anything on Futbol Factory after Jacob previously said full-building users were preferred before formally responding on front/rear portion LOIs.",
+      "status": "Ross Hopkins / Southeast Venture replied after Jacob said Anchor is still paused on partial users while working full-building deals; Ross noted Futbol Factory has outside investment available to improve creditworthiness if Anchor becomes open to leasing the back half.",
       "stage": "LOI",
-      "nextStep": "Jacob needs to decide whether to keep Futbol Factory warm, give a timing update, or formally pass while full-building opportunities play out.",
+      "nextStep": "Keep Futbol Factory warm while full-building opportunities play out; factor outside-investor credit support into any later back-half/subdivision evaluation.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -64234,6 +64234,11 @@
         {
           "date": "2026-07-06",
           "event": "Email from Robert Richardson: Parking Lot Marshalls Malone NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-06",
+          "event": "Ross Hopkins noted Futbol Factory has outside investment to improve creditworthiness if Anchor revisits the back-half lease path.",
           "type": "email"
         },
         {
