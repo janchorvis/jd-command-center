@@ -11524,20 +11524,15 @@
     {
       "id": "emerson-hawkins",
       "name": "Charles Hawkins Co.",
-      "property": "Emerson Hall / Gallatin",
-      "status": "Micah forwarded Cody Hawkins / Matriarch Theater's water-billing question after Cody learned the venue shares a Metro Water meter with 2510 Gallatin / the hotel; he asked whether water is included in rent or paid directly to Anchor.",
-      "stage": "Lease Signed",
-      "nextStep": "Jacob needs to answer/reroute the water-billing responsibility question for Micah/Mel, likely confirming whether the hotel team controls the shared meter.",
+      "property": "Emerson Hall - Hotel Space",
+      "status": "Trace Morris replied overnight that broken exit signs and other items have been fixed; roof-hole responsibility is still unresolved and Trace will inspect Monday; Fat Bottom removed door handles when closing the downstairs bar.",
+      "stage": "LOI",
+      "nextStep": "Jacob should incorporate Trace's repair update into the Fat Bottom/new-tenant walkthrough posture and decide roof/door-handle responsibility before the next walkthrough conversation.",
       "priority": "medium",
       "timeline": [
         {
           "date": "2026-07-07",
           "event": "Email from Jonathan Buckelew & Topher Stephenson: Turn Claude CoWork Into Your Prospecting Pipeline",
-          "type": "email"
-        },
-        {
-          "date": "2026-07-07",
-          "event": "Cody Hawkins / Matriarch Theater asked whether water is included in rent or paid directly to Anchor because the venue shares a Metro Water meter with 2510 Gallatin / hotel.",
           "type": "email"
         },
         {
@@ -13155,9 +13150,7 @@
         "Stephen Prather (Charles Hawkins Co.)",
         "Lexy & Austin (tenants)",
         "Ashby Scott (Attorney)",
-        "Stephen Prather (Tenant rep)",
-        "Cody Hawkins (Matriarch Theater)",
-        "Micah Lacher"
+        "Stephen Prather (Tenant rep)"
       ],
       "actions": [
         {
@@ -13168,8 +13161,7 @@
           "label": "Review LOI terms",
           "type": "task"
         }
-      ],
-      "stageOverride": "Lease Signed"
+      ]
     },
     {
       "id": "montgomery-qt-nails",
@@ -46851,23 +46843,17 @@
       "id": "bealls-shelbyville-former-big-lots",
       "name": "Bealls",
       "property": "Shelbyville former Big Lots",
-      "status": "Pat Boyle / Midland Atlantic said Chick-Fil-A would be interested in the site but needs about 1.25-1.5 acres and asked whether Anchor would be willing to sell that much land.",
+      "status": "Updated Bealls term sheet received for a portion of the former Big Lots: now NNN rent with TI increased to $400K over VBox delivery. Separately, Dutch Bros/Ethan Flynn showed interest in a Shelbyville outparcel concept; Ethan indicated roughly 0.4 acre could work, BTS/someone fee-develops is preferred, GL with high TIA is the alternative/reverse BTS, and rent tolerance is about $150K.",
       "stage": "Trading Terms",
-      "nextStep": "Decide whether a 1.25-1.5 acre Chick-Fil-A land sale is viable within the Shelbyville outparcel strategy; call Pat Thursday if pursuing.",
+      "nextStep": "Review Bealls updated term sheet and call Paul Gold if needed; separately set up a call with Ethan in the next couple weeks and dig into required TI / reverse BTS economics.",
       "priority": "high",
       "contacts": [
         "Paul Gold (Echo Retail)",
         "Jeffrey Lautenbach (Bealls)",
         "Ethan Flynn (Dutch Bros)",
-        "Micah Lacher",
-        "Pat Boyle (Midland Atlantic Properties)"
+        "Micah Lacher"
       ],
       "timeline": [
-        {
-          "date": "2026-07-07",
-          "event": "Pat Boyle said Chick-Fil-A would be interested but needs 1.25-1.5 acres and asked whether Anchor would sell that much land.",
-          "type": "lead"
-        },
         {
           "date": "2026-07-06",
           "event": "Email from Jacob Delk: Shelbyville, IN Opportunity",
@@ -53685,8 +53671,8 @@
       "name": "Emerson Hall",
       "property": "Emerson Hall / Gallatin",
       "type": "For Lease",
-      "status": "Trace reported the downstairs event-space leak is fixed; plumber is coming back tomorrow to turn water back on and double-check. Trace asked Jacob to send any list of walkthrough items the incoming tenant provides.",
-      "nextStep": "If/when tenant sends walkthrough punch list, forward it to Trace and coordinate remaining repair posture.",
+      "status": "Micah forwarded Cody Hawkins / Matriarch Theater's water-billing question after Cody learned the venue shares a Metro Water meter with 2510 Gallatin / the hotel; he asked whether water is included in rent or paid directly to Anchor. Prior Emerson Hall tenant/walkthrough items remain active.",
+      "nextStep": "Jacob needs to answer/reroute the water-billing responsibility question for Micah/Mel, likely confirming whether the hotel team controls the shared meter.",
       "contacts": [
         "Charles Hawkins (LOI)",
         "Brether group (Event/Entertainment)",
@@ -53702,11 +53688,17 @@
         "Stephen Prather (Charles Hawkins Co.)",
         "Dylan Bennett (Charles Hawkins Co.)",
         "Micah Lacher (Anchor)",
-        "Trace Morris"
+        "Trace Morris",
+        "Cody Hawkins (Matriarch Theater)"
       ],
       "priority": "medium",
       "lastUpdate": "2026-03-09",
       "timeline": [
+        {
+          "date": "2026-07-07",
+          "event": "Cody Hawkins / Matriarch Theater asked whether water is included in rent or paid directly to Anchor because the venue shares a Metro Water meter with 2510 Gallatin / hotel.",
+          "type": "email"
+        },
         {
           "date": "2026-07-07",
           "event": "Email from Jonathan Buckelew & Topher Stephenson: Turn Claude CoWork Into Your Prospecting Pipeline",
@@ -62424,17 +62416,23 @@
       "id": "shelbyville-ryan-jordan-former-big-lots",
       "name": "Ryan Jordan / Former Big Lots",
       "property": "Shelbyville former Big Lots",
-      "status": "Adam reached out to Casey's about the Shelbyville outparcel redevelopment. Matt Bisignano redirected him to Dolly Poersch for the Indianapolis DMA/south, and Dolly asked for additional site details including remaining frontage width and any drawing of the property.",
+      "status": "Pat Boyle / Midland Atlantic said Chick-Fil-A would be interested in the Shelbyville site but needs about 1.25-1.5 acres and asked whether Anchor would be willing to sell that much land. Prior Casey's/Dutch Bros/outparcel outreach remains active.",
       "stage": "Contact Made",
-      "nextStep": "Send Casey's the remaining frontage width and any available drawing/site plan for the Shelbyville outparcel concept.",
+      "nextStep": "Decide whether a 1.25-1.5 acre Chick-Fil-A land sale is viable within the Shelbyville outparcel strategy; call Pat Thursday if pursuing.",
       "priority": "high",
       "contacts": [
         "Ryan Jordan (AVID Real Estate Advisors)",
         "Adam Rude (City of Shelbyville)",
         "Dolly Poersch (Casey's Real Estate Manager)",
-        "Matthew Bisignano (Casey's)"
+        "Matthew Bisignano (Casey's)",
+        "Pat Boyle (Midland Atlantic Properties)"
       ],
       "timeline": [
+        {
+          "date": "2026-07-07",
+          "event": "Pat Boyle said Chick-Fil-A would be interested but needs 1.25-1.5 acres and asked whether Anchor would sell that much land.",
+          "type": "lead"
+        },
         {
           "date": "2026-07-06",
           "event": "Email from Jacob Delk: Shelbyville, IN Opportunity",
