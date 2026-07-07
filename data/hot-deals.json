@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T10:03:09.378574",
+  "lastUpdated": "2026-07-07T11:03:02.797778",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-07",
@@ -39,7 +39,8 @@
       "Follow up with Nicole Dautovic / Chase after ICSC (overdue — due 2026-06-08)",
       "Make flyer for mattresses listing (overdue — due 2026-03-23)",
       "PCON feedback: Jeffrey Shoopman (overdue — due 2026-06-19)",
-      "PCON feedback: Jeffrey Shoopman (overdue — due 2026-06-19)"
+      "PCON feedback: Jeffrey Shoopman (overdue — due 2026-06-19)",
+      "Schedule/call Jordan Hooper with Wash N Roll about Shelbyville outparcel layout and timing."
     ]
   },
   "pipelineDeals": [
@@ -9346,12 +9347,17 @@
     {
       "id": "shelbyville-anytime",
       "name": "Anytime Fitness (Derek Tucker)",
-      "property": "Shelbyville",
-      "status": "Cosmoprof followed up on Shelbyville - trying to buy time for better tenants",
+      "property": "Shelbyville former Big Lots",
+      "status": "Outparcel redevelopment interest expanded: Wash N Roll's Jordan Hooper said Shelbyville has been on his radar, was onsite recently, and wants to connect this week about outparcel layout, timing, and other Indiana projects.",
       "stage": "LOI",
-      "nextStep": "Push Cosmoprof with firm terms (no TI, state what we will/won't do) - take it or leave it approach",
-      "priority": "medium",
+      "nextStep": "Jacob/Adam should schedule a call with Jordan Hooper and be ready to discuss site plan/outparcel timing.",
+      "priority": "high",
       "timeline": [
+        {
+          "date": "2026-07-07",
+          "event": "Wash N Roll/Jordan Hooper reached out on Shelbyville outparcel; wants call this week on layout/timing and other Indiana projects.",
+          "type": "lead"
+        },
         {
           "date": "2026-07-06",
           "event": "Email from Jacob Delk: Shelbyville, IN Opportunity",
@@ -9614,7 +9620,8 @@
         }
       ],
       "contacts": [
-        "Derek Tucker"
+        "Derek Tucker",
+        "Jordan Hooper (SRG Assets / Wash N Roll) - 615-925-0442 - jordan@srgassets.com"
       ],
       "actions": [
         {
