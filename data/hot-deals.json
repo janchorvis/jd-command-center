@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T07:16:04.391251",
+  "lastUpdated": "2026-07-07T10:03:09.378574",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-07",
@@ -11524,15 +11524,20 @@
     {
       "id": "emerson-hawkins",
       "name": "Charles Hawkins Co.",
-      "property": "Emerson Hall - Hotel Space",
-      "status": "Trace Morris replied overnight that broken exit signs and other items have been fixed; roof-hole responsibility is still unresolved and Trace will inspect Monday; Fat Bottom removed door handles when closing the downstairs bar.",
-      "stage": "LOI",
-      "nextStep": "Jacob should incorporate Trace's repair update into the Fat Bottom/new-tenant walkthrough posture and decide roof/door-handle responsibility before the next walkthrough conversation.",
+      "property": "Emerson Hall / Gallatin",
+      "status": "Micah forwarded Cody Hawkins / Matriarch Theater's water-billing question after Cody learned the venue shares a Metro Water meter with 2510 Gallatin / the hotel; he asked whether water is included in rent or paid directly to Anchor.",
+      "stage": "Lease Signed",
+      "nextStep": "Jacob needs to answer/reroute the water-billing responsibility question for Micah/Mel, likely confirming whether the hotel team controls the shared meter.",
       "priority": "medium",
       "timeline": [
         {
           "date": "2026-07-07",
           "event": "Email from Jonathan Buckelew & Topher Stephenson: Turn Claude CoWork Into Your Prospecting Pipeline",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-07",
+          "event": "Cody Hawkins / Matriarch Theater asked whether water is included in rent or paid directly to Anchor because the venue shares a Metro Water meter with 2510 Gallatin / hotel.",
           "type": "email"
         },
         {
@@ -13150,7 +13155,9 @@
         "Stephen Prather (Charles Hawkins Co.)",
         "Lexy & Austin (tenants)",
         "Ashby Scott (Attorney)",
-        "Stephen Prather (Tenant rep)"
+        "Stephen Prather (Tenant rep)",
+        "Cody Hawkins (Matriarch Theater)",
+        "Micah Lacher"
       ],
       "actions": [
         {
@@ -13161,7 +13168,8 @@
           "label": "Review LOI terms",
           "type": "task"
         }
-      ]
+      ],
+      "stageOverride": "Lease Signed"
     },
     {
       "id": "montgomery-qt-nails",
@@ -46843,17 +46851,23 @@
       "id": "bealls-shelbyville-former-big-lots",
       "name": "Bealls",
       "property": "Shelbyville former Big Lots",
-      "status": "Updated Bealls term sheet received for a portion of the former Big Lots: now NNN rent with TI increased to $400K over VBox delivery. Separately, Dutch Bros/Ethan Flynn showed interest in a Shelbyville outparcel concept; Ethan indicated roughly 0.4 acre could work, BTS/someone fee-develops is preferred, GL with high TIA is the alternative/reverse BTS, and rent tolerance is about $150K.",
+      "status": "Pat Boyle / Midland Atlantic said Chick-Fil-A would be interested in the site but needs about 1.25-1.5 acres and asked whether Anchor would be willing to sell that much land.",
       "stage": "Trading Terms",
-      "nextStep": "Review Bealls updated term sheet and call Paul Gold if needed; separately set up a call with Ethan in the next couple weeks and dig into required TI / reverse BTS economics.",
+      "nextStep": "Decide whether a 1.25-1.5 acre Chick-Fil-A land sale is viable within the Shelbyville outparcel strategy; call Pat Thursday if pursuing.",
       "priority": "high",
       "contacts": [
         "Paul Gold (Echo Retail)",
         "Jeffrey Lautenbach (Bealls)",
         "Ethan Flynn (Dutch Bros)",
-        "Micah Lacher"
+        "Micah Lacher",
+        "Pat Boyle (Midland Atlantic Properties)"
       ],
       "timeline": [
+        {
+          "date": "2026-07-07",
+          "event": "Pat Boyle said Chick-Fil-A would be interested but needs 1.25-1.5 acres and asked whether Anchor would sell that much land.",
+          "type": "lead"
+        },
         {
           "date": "2026-07-06",
           "event": "Email from Jacob Delk: Shelbyville, IN Opportunity",
@@ -65811,9 +65825,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "Ross Hopkins / Southeast Venture replied after Jacob said Anchor is still paused on partial users while working full-building deals; Ross noted Futbol Factory has outside investment available to improve creditworthiness if Anchor becomes open to leasing the back half.",
+      "status": "Rusty Whitten / CARR brought a prosthodontics practice looking for 6,000-9,000 SF and wanting to tour today/tomorrow; asked whether prosthodontics is approved, whether an as-is floor plan is available, asking price, and tenant broker commission.",
       "stage": "LOI",
-      "nextStep": "Keep Futbol Factory warm while full-building opportunities play out; factor outside-investor credit support into any later back-half/subdivision evaluation.",
+      "nextStep": "Answer Rusty's tour/pricing/floor-plan/use questions while weighing against the existing whole-building, front-half, and back-half 312 Wilson Pike paths.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -65838,9 +65852,15 @@
         "Noble Judy (CBRE)",
         "Clay Richardson",
         "Jacob Byron (FRWD Construction)",
-        "Russell Martin (FRWD Construction)"
+        "Russell Martin (FRWD Construction)",
+        "Rusty Whitten (CARR)"
       ],
       "timeline": [
+        {
+          "date": "2026-07-07",
+          "event": "Rusty Whitten / CARR inquiry: prosthodontics practice needs 6,000-9,000 SF and wants to tour today/tomorrow; asked use approval, floor plan, pricing, and broker commission.",
+          "type": "lead"
+        },
         {
           "date": "2026-07-06",
           "event": "Email from Jacob Delk: 144 Wilson Pike Circle Updates",
