@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T11:03:02.797778",
+  "lastUpdated": "2026-07-07T15:03:10.507548",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-07",
@@ -40,7 +40,8 @@
       "Make flyer for mattresses listing (overdue — due 2026-03-23)",
       "PCON feedback: Jeffrey Shoopman (overdue — due 2026-06-19)",
       "PCON feedback: Jeffrey Shoopman (overdue — due 2026-06-19)",
-      "Schedule/call Jordan Hooper with Wash N Roll about Shelbyville outparcel layout and timing."
+      "Schedule/call Jordan Hooper with Wash N Roll about Shelbyville outparcel layout and timing.",
+      "Pull Pea Ridge tenant square footages and exclusive-use clauses for revised REA / Valley Health parcel documentation."
     ]
   },
   "pipelineDeals": [
@@ -69628,6 +69629,30 @@
       "actions": [],
       "type": "Tenant Rep",
       "lastUpdate": "2026-07-03"
+    },
+    {
+      "id": "pea-ridge-rea-valley-health-parcels",
+      "name": "Pea Ridge REA / Valley Health parcels",
+      "property": "Pea Ridge Shopping Center",
+      "status": "Ashby sent revised Pea Ridge REA and needs parcel square footages plus shopping-center tenant exclusive-use language to finish reciprocal parcel exclusives before sending to Valley Health.",
+      "stage": "Lease Draft & Review",
+      "nextStep": "Jacob/Mel/Adam to pull Pea Ridge tenant square footages and exclusive-use clauses for the shopping-center leases; avoid relying on the DOCX in main session.",
+      "priority": "medium",
+      "contacts": [
+        "Micah Lacher",
+        "Melissa Eddy",
+        "Ashby Scott"
+      ],
+      "timeline": [
+        {
+          "date": "2026-07-07",
+          "event": "Micah asked Jacob/Mel to help pull Pea Ridge tenant square footages and exclusive-use language for Ashby's revised REA; Ashby wants percentage shares and reciprocal exclusives finished before sending to Valley Health.",
+          "type": "email"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-07-07"
     }
   ],
   "droppedBalls": [
