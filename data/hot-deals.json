@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T15:03:10.507548",
+  "lastUpdated": "2026-07-07T17:03:32.665514",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-07",
@@ -41981,9 +41981,9 @@
       "id": "gilded-spine-maple-row",
       "name": "Gilded Spine (Storybook Soirees LLC)",
       "property": "Maple Row Shopping Center",
-      "status": "Clay forwarded Maple Row documentation/drawing packets to Jacob after Hillary asked whether the landlord has blueprints/drawings to save time on permit-set renderings.",
-      "stage": "Trading Terms",
-      "nextStep": "Jacob should decide which Maple Row files to send to Hillary as courtesy-only reference docs with field-verification caveat, while continuing review of kitchen/water/floor-drain feasibility and $25/SF NNN/no-TI posture.",
+      "status": "Jacob sent Hillary a shorter/cleaner lease package for Gilded Spine; Hillary acknowledged and said she would start review after work.",
+      "stage": "Lease Draft & Review",
+      "nextStep": "Wait for Hillary's lease review/comments while keeping the courtesy-only drawing/file-sharing caveat and utility/zoning feasibility items in view.",
       "priority": "high",
       "contacts": [
         "Hillary Holmes – gildedspinebooks@gmail.com, (414) 607-2197",
@@ -41996,6 +41996,11 @@
         {
           "date": "2026-07-07",
           "event": "Email from NASHtoday: 🌳 Big trees, data center meeting + new Arcade eatery",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-07",
+          "event": "Hillary acknowledged receipt of shorter lease package and will start review.",
           "type": "email"
         },
         {
@@ -43444,7 +43449,7 @@
         "suiteCount": 11,
         "vacantCount": 0
       },
-      "stageOverride": "Trading Terms"
+      "stageOverride": "Lease Draft & Review"
     },
     {
       "id": "atlanta-hwy-scenthound",
@@ -65831,9 +65836,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "Rusty Whitten / CARR brought a prosthodontics practice looking for 6,000-9,000 SF and wanting to tour today/tomorrow; asked whether prosthodontics is approved, whether an as-is floor plan is available, asking price, and tenant broker commission.",
+      "status": "Rusty Whitten / CARR prosthodontics inquiry is active; Jacob forwarded to Adam and Adam sent Jacob draft reply language noting the 12,000 SF older flex building, mid/high-teens rent guidance, zoning uncertainty for prosthodontics, and likely heavy conversion lift.",
       "stage": "LOI",
-      "nextStep": "Answer Rusty's tour/pricing/floor-plan/use questions while weighing against the existing whole-building, front-half, and back-half 312 Wilson Pike paths.",
+      "nextStep": "Jacob should review/send Adam's reply to Rusty quickly if he wants to preserve the today/tomorrow tour window, while weighing this against whole-building and partial-building competing paths.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -65859,13 +65864,19 @@
         "Clay Richardson",
         "Jacob Byron (FRWD Construction)",
         "Russell Martin (FRWD Construction)",
-        "Rusty Whitten (CARR)"
+        "Rusty Whitten (CARR)",
+        "Adam Heston (Anchor)"
       ],
       "timeline": [
         {
           "date": "2026-07-07",
           "event": "Rusty Whitten / CARR inquiry: prosthodontics practice needs 6,000-9,000 SF and wants to tour today/tomorrow; asked use approval, floor plan, pricing, and broker commission.",
           "type": "lead"
+        },
+        {
+          "date": "2026-07-07",
+          "event": "Adam sent internal draft reply for Rusty/CARR prosthodontics inquiry; external reply still appears to need Jacob approval/send.",
+          "type": "email"
         },
         {
           "date": "2026-07-06",
@@ -69647,6 +69658,28 @@
         {
           "date": "2026-07-07",
           "event": "Micah asked Jacob/Mel to help pull Pea Ridge tenant square footages and exclusive-use language for Ashby's revised REA; Ashby wants percentage shares and reciprocal exclusives finished before sending to Valley Health.",
+          "type": "email"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-07-07"
+    },
+    {
+      "id": "hamilton-10560-national-auto-parts",
+      "name": "National Auto Parts User",
+      "property": "10560 Harrison Ave / Hamilton OH",
+      "status": "Lacey Nobbe / CBRE said the 32,000 SF user between Big Lots and Harbor Freight is a national auto parts user. Jacob followed up; Lacey replied on 2026-07-07 that Jacob can call tomorrow.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob should call Lacey tomorrow to learn the exact user, timing, delivery assumptions, and whether the box works as-is or needs demising/TI.",
+      "priority": "medium",
+      "contacts": [
+        "Lacey Nobbe (CBRE)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-07-07",
+          "event": "Lacey Nobbe invited Jacob to call tomorrow about the national auto parts user.",
           "type": "email"
         }
       ],
