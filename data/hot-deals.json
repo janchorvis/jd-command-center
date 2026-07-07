@@ -9347,17 +9347,12 @@
     {
       "id": "shelbyville-anytime",
       "name": "Anytime Fitness (Derek Tucker)",
-      "property": "Shelbyville former Big Lots",
-      "status": "Outparcel redevelopment interest expanded: Wash N Roll's Jordan Hooper said Shelbyville has been on his radar, was onsite recently, and wants to connect this week about outparcel layout, timing, and other Indiana projects.",
+      "property": "Shelbyville",
+      "status": "Cosmoprof followed up on Shelbyville - trying to buy time for better tenants",
       "stage": "LOI",
-      "nextStep": "Jacob/Adam should schedule a call with Jordan Hooper and be ready to discuss site plan/outparcel timing.",
-      "priority": "high",
+      "nextStep": "Push Cosmoprof with firm terms (no TI, state what we will/won't do) - take it or leave it approach",
+      "priority": "medium",
       "timeline": [
-        {
-          "date": "2026-07-07",
-          "event": "Wash N Roll/Jordan Hooper reached out on Shelbyville outparcel; wants call this week on layout/timing and other Indiana projects.",
-          "type": "lead"
-        },
         {
           "date": "2026-07-06",
           "event": "Email from Jacob Delk: Shelbyville, IN Opportunity",
@@ -9620,8 +9615,7 @@
         }
       ],
       "contacts": [
-        "Derek Tucker",
-        "Jordan Hooper (SRG Assets / Wash N Roll) - 615-925-0442 - jordan@srgassets.com"
+        "Derek Tucker"
       ],
       "actions": [
         {
@@ -62423,18 +62417,24 @@
       "id": "shelbyville-ryan-jordan-former-big-lots",
       "name": "Ryan Jordan / Former Big Lots",
       "property": "Shelbyville former Big Lots",
-      "status": "Pat Boyle / Midland Atlantic said Chick-Fil-A would be interested in the Shelbyville site but needs about 1.25-1.5 acres and asked whether Anchor would be willing to sell that much land. Prior Casey's/Dutch Bros/outparcel outreach remains active.",
+      "status": "Pat Boyle / Midland Atlantic said Chick-Fil-A would be interested in the Shelbyville site but needs about 1.25-1.5 acres and asked whether Anchor would be willing to sell that much land. Wash N Roll's Jordan Hooper also reached out via Adam saying Shelbyville has been on his radar, he was onsite recently, and he wants to connect this week about outparcel layout, timing, and other Indiana projects. Prior Casey's/Dutch Bros/outparcel outreach remains active.",
       "stage": "Contact Made",
-      "nextStep": "Decide whether a 1.25-1.5 acre Chick-Fil-A land sale is viable within the Shelbyville outparcel strategy; call Pat Thursday if pursuing.",
+      "nextStep": "Decide Chick-Fil-A sale vs ground-lease posture; separately schedule/call Jordan Hooper with Wash N Roll about outparcel layout and timing.",
       "priority": "high",
       "contacts": [
         "Ryan Jordan (AVID Real Estate Advisors)",
         "Adam Rude (City of Shelbyville)",
         "Dolly Poersch (Casey's Real Estate Manager)",
         "Matthew Bisignano (Casey's)",
-        "Pat Boyle (Midland Atlantic Properties)"
+        "Pat Boyle (Midland Atlantic Properties)",
+        "Jordan Hooper (SRG Assets / Wash N Roll) - 615-925-0442 - jordan@srgassets.com"
       ],
       "timeline": [
+        {
+          "date": "2026-07-07",
+          "event": "Wash N Roll/Jordan Hooper reached out on Shelbyville outparcel; wants call this week on layout/timing and other Indiana projects.",
+          "type": "lead"
+        },
         {
           "date": "2026-07-07",
           "event": "Pat Boyle said Chick-Fil-A would be interested but needs 1.25-1.5 acres and asked whether Anchor would sell that much land.",
