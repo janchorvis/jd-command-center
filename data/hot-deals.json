@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T13:02:10.567510",
+  "lastUpdated": "2026-07-08T14:02:45.631795",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-08",
@@ -50215,15 +50215,21 @@
     {
       "id": "pell-city-803-martin-compassus",
       "name": "Compassus",
-      "property": "Pell City / 803 Martin St. S.",
-      "status": "Lauri Fowler / ProStar followed up for an update on the Compassus 803 Martin proposal after previously suggesting a call with their construction manager once Anchor has bids back.",
+      "property": "Pell City / 807 Martin St S",
+      "status": "David Cooke replied after Jacob shared the ~$100/SF buildout quote and suggested a call with tenant construction team; David left Jacob a message and asked him to call when convenient.",
       "stage": "Trading Terms",
-      "nextStep": "Jacob should send a status update on bids/proposal timing and, if ready, set up the construction-manager call.",
-      "priority": "medium",
+      "nextStep": "Jacob should call David Cooke to discuss Compassus/Pell City buildout economics and construction-team call path.",
+      "priority": "high",
       "contacts": [
-        "Lauri Fowler (ProStar CRE)"
+        "Lauri Fowler (ProStar CRE)",
+        "David Cooke (Cooke Commercial)"
       ],
       "timeline": [
+        {
+          "date": "2026-07-08",
+          "event": "David Cooke asked Jacob to call after ~$100/SF buildout quote discussion for Pell City / Compassus.",
+          "type": "email"
+        },
         {
           "date": "2026-07-06",
           "event": "Email from Lauri Fowler: 803 Martin St. S.",
@@ -63814,9 +63820,9 @@
       "id": "shelbyville-ryan-jordan-former-big-lots",
       "name": "Ryan Jordan / Former Big Lots",
       "property": "Shelbyville former Big Lots",
-      "status": "Pat Boyle / Midland Atlantic said Chick-Fil-A would be interested in the Shelbyville site but needs about 1.25-1.5 acres and asked whether Anchor would be willing to sell that much land. Wash N Roll's Jordan Hooper also reached out via Adam saying Shelbyville has been on his radar, he was onsite recently, and he wants to connect this week about outparcel layout, timing, and other Indiana projects. Prior Casey's/Dutch Bros/outparcel outreach remains active.",
+      "status": "Josh Koone / Kimley-Horn said he plans to send the Shelbyville test-fit proposal today or tomorrow morning and asked what other tenants/types of uses are considering the site.",
       "stage": "Contact Made",
-      "nextStep": "Decide Chick-Fil-A sale vs ground-lease posture; separately schedule/call Jordan Hooper with Wash N Roll about outparcel layout and timing.",
+      "nextStep": "Jacob should decide how much tenant/use detail to share with Josh while waiting for the test-fit proposal.",
       "priority": "high",
       "contacts": [
         "Ryan Jordan (AVID Real Estate Advisors)",
@@ -63824,12 +63830,18 @@
         "Dolly Poersch (Casey's Real Estate Manager)",
         "Matthew Bisignano (Casey's)",
         "Pat Boyle (Midland Atlantic Properties)",
-        "Jordan Hooper (SRG Assets / Wash N Roll) - 615-925-0442 - jordan@srgassets.com"
+        "Jordan Hooper (SRG Assets / Wash N Roll) - 615-925-0442 - jordan@srgassets.com",
+        "Josh Koone (Kimley-Horn)"
       ],
       "timeline": [
         {
           "date": "2026-07-08",
           "event": "Email from Tanner Sanford: Matthews Golf Tournament | Reminder to Register",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-08",
+          "event": "Josh Koone said test-fit proposal is due today/tomorrow and asked about other tenant/use interest.",
           "type": "email"
         },
         {
