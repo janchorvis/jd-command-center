@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T09:01:48.941240",
+  "lastUpdated": "2026-07-08T09:02:20.605800",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-08",
@@ -44292,10 +44292,10 @@
     {
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
-      "property": "Hamilton, OH",
-      "status": "Carole Ward flagged an Evans Petree bill through 6/5 for the Hamilton Dutch Bros sale totaling $5,750 and asked whether it will be paid through closing or separately.",
+      "property": "Hamilton, OH / Dutch Bros outparcel",
+      "status": "Ashby returned comments on the Hamilton closing/open-items chain and asked how Micah will execute closing documents and when he is back in town; buyer counsel is targeting Friday 7/10 and title is being asked for settlement/open-items list.",
       "stage": "Lease Signed",
-      "nextStep": "Tell Carole whether the Evans Petree Hamilton/Dutch Bros bill should be paid through closing or separately.",
+      "nextStep": "Jacob/Melissa/Ashby need to confirm Micah execution logistics and authority/open-item handling before the Friday 7/10 closing target.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -44317,12 +44317,18 @@
         "Jacob Delk (Anchor)",
         "Dutch Bros",
         "Carole Ward",
-        "Evans Petree"
+        "Evans Petree",
+        "Melissa Eddy"
       ],
       "timeline": [
         {
           "date": "2026-07-08",
           "event": "Email from Camille Hamilton: Jacob - podcast invite",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-08",
+          "event": "Ashby asked how Micah will execute closing documents and when he returns; closing target remains Friday 7/10.",
           "type": "email"
         },
         {
