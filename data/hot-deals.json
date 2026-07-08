@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T11:02:40.751819",
+  "lastUpdated": "2026-07-08T13:02:10.567510",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-08",
@@ -37808,13 +37808,18 @@
       "id": "evansville-easterseals",
       "tenant": "Easterseals Rehabilitation",
       "property": "Evansville Big Lots",
-      "status": "Evansville Rehab toured with a donor/developer and asked what it would cost to purchase the building outright, while still liking Anchor's proposal.",
-      "nextStep": "Decide sale-price posture versus lease/TI structure and respond to Robert Henson.",
-      "priority": "high",
+      "status": "Evansville Rehab / Easterseals has passed after internal review; Rob Henson said they cannot make the opportunity fit on the lease or purchase side.",
+      "nextStep": "No immediate Jacob response required unless he wants to send a courtesy closeout; reopen/remarket the Big Lots box to other prospects.",
+      "priority": "low",
       "timeline": [
         {
           "date": "2026-07-08",
           "event": "Email from Camille Hamilton: Jacob - podcast invite",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-08",
+          "event": "Rob Henson said Evansville Rehab needs to let the Big Lots opportunity go; they cannot make it fit on lease or purchase side.",
           "type": "email"
         },
         {
@@ -38867,7 +38872,8 @@
         "Laurie Seals - Easterseals",
         "Robert Henson (Evansville Rehab)",
         "Micah Lacher (Anchor)",
-        "Jacob Delk (Anchor)"
+        "Jacob Delk (Anchor)",
+        "Robert Henson (Evansville Rehab / Easterseals)"
       ],
       "stage": "Trading Terms",
       "stageOverride": "Trading Terms"
@@ -72172,6 +72178,13 @@
       "property": "New Memphis",
       "lastSeen": "2026-06-22 - Leasing Meeting",
       "note": "Dropped from prep doc. Last status: I gave you this update, but we had a call with MLK 50 about taking 3,000 sq. ft. We are working on getting them in for a tour."
+    },
+    {
+      "id": "evansville-easterseals",
+      "name": "evansville-easterseals",
+      "property": "Evansville Big Lots",
+      "lastSeen": "Communication Triage 2026-07-08 1 PM",
+      "note": "Rob Henson passed on 2026-07-08: cannot make Evansville Big Lots fit on lease or purchase side."
     }
   ],
   "staleContacts": [
