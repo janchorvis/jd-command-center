@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T16:03:57.974698",
+  "lastUpdated": "2026-07-08T17:02:21.956028",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-08",
@@ -44309,9 +44309,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton, OH / Dutch Bros outparcel",
-      "status": "Ashby returned comments on the Hamilton closing/open-items chain and asked how Micah will execute closing documents and when he is back in town; buyer counsel is targeting Friday 7/10 and title is being asked for settlement/open-items list.",
+      "status": "Closing comments came in from Taft: purchaser will assign PSA to Hamilton Victory Main, LLC; deed should be revised to general warranty deed; FIRPTA/DTE comments attached. First American expects preliminary settlement statement the morning of 7/9. Closing target remains July 10 with outside date July 13.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Melissa/Ashby need to confirm Micah execution logistics and authority/open-item handling before the Friday 7/10 closing target.",
+      "nextStep": "Ashby/Jacob/Melissa need to turn closing-document comments, coordinate Micah execution authority, and get settlement/payoff items ready for closing.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -44334,7 +44334,8 @@
         "Dutch Bros",
         "Carole Ward",
         "Evans Petree",
-        "Melissa Eddy"
+        "Melissa Eddy",
+        "Michele Johnson (First American)"
       ],
       "timeline": [
         {
@@ -44345,6 +44346,11 @@
         {
           "date": "2026-07-08",
           "event": "Ashby asked how Micah will execute closing documents and when he returns; closing target remains Friday 7/10.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-08",
+          "event": "Taft sent closing-document comments and First American said settlement statement should come morning 7/9.",
           "type": "email"
         },
         {
@@ -49191,14 +49197,15 @@
       "id": "montgomery-martial-arts-virginia-college",
       "name": "Montgomery Martial Arts",
       "property": "Virginia College Plaza / 6132 Atlanta Hwy",
-      "status": "Montgomery Martial Arts offered to take the full 5,100 SF Suite 19 as-is, self-performing improvements, at $6/SF + $2/SF NNN, 3-year term, 3-year option with 2% annual increases, 90 days free rent, July 20 commencement, systems working, and 4% base-term broker commission. Jacob requested tenant business financials and guarantor/PFS; Watkins confirmed he is collecting them.",
+      "status": "Watkins Johnston acknowledged Jacob's latest direction and said he is on it regarding the Montgomery Martial Arts offer/application package.",
       "stage": "Obtain Financials",
-      "nextStep": "Wait for business financials and guarantor/PFS, then decide whether the reduced economics are acceptable or counter toward the prior $8/SF as-is posture.",
+      "nextStep": "Await Watkins' next update or revised offer/application materials.",
       "priority": "medium",
       "contacts": [
         "Watkins Johnston IV (MCRMPM)",
         "Montgomery Martial Arts",
-        "Watkins Johnston IV (MCRM Property Management)"
+        "Watkins Johnston IV (MCRM Property Management)",
+        "Watkins Johnston IV"
       ],
       "timeline": [
         {
@@ -49220,6 +49227,11 @@
           "date": "2026-07-08",
           "event": "Montgomery Martial Arts submitted full-suite offer at $6/SF + $2/SF NNN with 90 days free; Jacob asked for business and guarantor financials.",
           "type": "offer"
+        },
+        {
+          "date": "2026-07-08",
+          "event": "Watkins acknowledged Jacob's direction and said he is on it.",
+          "type": "email"
         },
         {
           "date": "2026-07-07",
@@ -50276,18 +50288,24 @@
       "id": "virginia-college-nicolavia-stewart",
       "name": "Nicolavia Stewart",
       "property": "Virginia College Plaza",
-      "status": "Nicolavia Stewart inquired about the Dollar General space / Parcel #991 at Virginia College in Montgomery, saying her business needs more space and the area would be a great location.",
+      "status": "Nicolavia Stewart replied with phone 334-318-2753 and confirmed the use is a retail furniture store for the Dollar General / Parcel #991 space.",
       "stage": "Contact Made",
-      "nextStep": "Ask Nicolavia what the business is, target square footage, timing, and whether she is asking about the DG box or the parcel/lot.",
+      "nextStep": "Jacob or Adam should call Nicolavia and send appropriate Virginia College space info for a retail furniture use.",
       "priority": "medium",
       "contacts": [
-        "Nicolavia Stewart <gocheckselect@gmail.com>"
+        "Nicolavia Stewart <gocheckselect@gmail.com>",
+        "Nicolavia Stewart (334-318-2753)"
       ],
       "timeline": [
         {
           "date": "2026-07-08",
           "event": "Nicolavia Stewart emailed about Virginia College Parcel #991 / Dollar General space for a business needing more space.",
           "type": "lead"
+        },
+        {
+          "date": "2026-07-08",
+          "event": "Prospect provided phone number and retail furniture store use.",
+          "type": "email"
         }
       ],
       "actions": []
@@ -50317,9 +50335,9 @@
       "id": "mcminnville-behavioral-health-rfp",
       "name": "Behavioral Health RFP",
       "property": "McMinnville Plaza",
-      "status": "James Rainer reported interest remains in the lower-level behavioral-health option and asked Jacob to respond to the previously provided RFP; Regional Director can tour July 21.",
+      "status": "James Rainer said the client wants a proposal on the 4,500 SF lower-level option after prior RFP/use discussion; Regional Director tour timing remains July 21 unless changed.",
       "stage": "Trading Terms",
-      "nextStep": "Respond to the RFP and confirm whether the Regional Director can tour July 21.",
+      "nextStep": "Jacob needs to prepare/respond with proposal terms for the 4,500 SF lower-level option and confirm tour/proposal posture.",
       "priority": "high",
       "contacts": [
         "James Rainer (Newmark)"
@@ -50328,6 +50346,11 @@
         {
           "date": "2026-07-08",
           "event": "James Rainer said behavioral-health client has interest, requested RFP response, and can tour July 21.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-08",
+          "event": "James Rainer requested a proposal on the 4,500 SF lower-level option.",
           "type": "email"
         }
       ],
