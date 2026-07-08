@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T14:02:45.631795",
+  "lastUpdated": "2026-07-08T16:03:57.974698",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-08",
@@ -62,14 +62,19 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Desiree Warren followed up again asking when façade sketches will be sent over; Five Below CDs need façade direction.",
+      "status": "Five Below accepted the general facade intent but asked whether the proposed 22-foot elevation can go higher so Five Below is not dwarfed by other retailers. Shaun/C2 answered that the existing gable point is 23 feet 4 inches and the lower Big Lots parapet is 26 feet 7 inches, warning that increasing the parapet may stop blending aesthetically with the plaza and deferring final direction to Five Below/Clay.",
       "stage": "Lease Signed",
-      "nextStep": "Clay/Jacob need to send façade sketches/markups or a firm ETA to Five Below.",
+      "nextStep": "Clay/Jacob need to choose a facade-height posture for Five Below, either hold 22 feet or explore a higher parapet, and keep cost/constructability aligned with ownership.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-07-08",
           "event": "Email from Camille Hamilton: Jacob - podcast invite",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-08",
+          "event": "Five Below asked if the 22-foot facade can go higher; architect provided 23 feet 4 inches gable and 26 feet 7 inches Big Lots parapet reference heights.",
           "type": "email"
         },
         {
@@ -21854,12 +21859,17 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "Robert Richardson / TJX escalated the parking-lot condition again on 7/6, asking to review and discuss ASAP. He noted TJX made significant financial concessions to get the deal done and wants landlord partnership so Marshalls' first market entry and the center make a strong first impression.",
+      "status": "Clay clarified Marshalls/TJX parking-lot ask with Robert: TJX is not asking for a brand-new lot, but wants potholes filled and spaces in front of Marshalls resealed and striped. Clay told Robert he would relay to ownership, get potholes moving, and work on sealing/striping quotes.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Jacob/Clay should call Robert promptly, review StoreCrafters photo packet, decide parking-lot/sweeping/striping response, and coordinate any Runnings/REA responsibility for the main drive aisle.",
+      "nextStep": "Clay/Jacob/ownership need to confirm scope, Runnings/REA responsibility if applicable, and approve quote path for potholes plus reseal/stripe work in front of Marshalls.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-07-08",
+          "event": "Clay told TJX he would get potholes moving and gather reseal/stripe quotes for spaces in front of Marshalls.",
+          "type": "email"
+        },
         {
           "date": "2026-07-07",
           "event": "Email from Micah Lacher: Fwd: Cody Hawkins",
@@ -49181,9 +49191,9 @@
       "id": "montgomery-martial-arts-virginia-college",
       "name": "Montgomery Martial Arts",
       "property": "Virginia College Plaza / 6132 Atlanta Hwy",
-      "status": "Watkins Johnston confirmed the Montgomery Martial Arts tour happened, keys were returned to the lockbox, and the tenant likes the 5,100 SF layout, but the space is more than they originally wanted to spend.",
-      "stage": "Touring",
-      "nextStep": "Jacob should decide whether to hold as-is pricing or float a structure that addresses cost concerns while preserving deal economics.",
+      "status": "Montgomery Martial Arts offered to take the full 5,100 SF Suite 19 as-is, self-performing improvements, at $6/SF + $2/SF NNN, 3-year term, 3-year option with 2% annual increases, 90 days free rent, July 20 commencement, systems working, and 4% base-term broker commission. Jacob requested tenant business financials and guarantor/PFS; Watkins confirmed he is collecting them.",
+      "stage": "Obtain Financials",
+      "nextStep": "Wait for business financials and guarantor/PFS, then decide whether the reduced economics are acceptable or counter toward the prior $8/SF as-is posture.",
       "priority": "medium",
       "contacts": [
         "Watkins Johnston IV (MCRMPM)",
@@ -49205,6 +49215,11 @@
           "date": "2026-07-08",
           "event": "Email from NASHtoday: 🛍️ Rivergate retail, hospital renovation + 2 closures",
           "type": "email"
+        },
+        {
+          "date": "2026-07-08",
+          "event": "Montgomery Martial Arts submitted full-suite offer at $6/SF + $2/SF NNN with 90 days free; Jacob asked for business and guarantor financials.",
+          "type": "offer"
         },
         {
           "date": "2026-07-07",
@@ -49832,7 +49847,7 @@
         "suiteCount": 19,
         "vacantCount": 0
       },
-      "stageOverride": "Touring"
+      "stageOverride": "Obtain Financials"
     },
     {
       "id": "mcminnville-regional-transit",
@@ -67399,9 +67414,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "Rusty Whitten / CARR prosthodontics inquiry is active; Jacob forwarded to Adam and Adam sent Jacob draft reply language noting the 12,000 SF older flex building, mid/high-teens rent guidance, zoning uncertainty for prosthodontics, and likely heavy conversion lift.",
+      "status": "Adam followed up with a toured full-building automotive/user group, quoting $16/SF NNN as-is for the full 12,000 SF with 2026 NNNs of $4.60/SF, about $20,600/month year-one rent, explaining 60-day current-tenant notice timing and asking for TI budget, term/opening timing, PFS, and business financials.",
       "stage": "LOI",
-      "nextStep": "Jacob should review/send Adam's reply to Rusty quickly if he wants to preserve the today/tomorrow tour window, while weighing this against whole-building and partial-building competing paths.",
+      "nextStep": "Wait for the group's TI/buildout estimate, term/opening posture, PFS, and business financials while Jacob/Adam continue weighing the full-building path against competing 312 Wilson Pike interests.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -67434,6 +67449,11 @@
         {
           "date": "2026-07-08",
           "event": "Email from Camille Hamilton: Jacob - podcast invite",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-08",
+          "event": "Adam sent post-tour terms/financial-info request to full-building automotive/user group at $16/SF NNN as-is for 12,000 SF.",
           "type": "email"
         },
         {
