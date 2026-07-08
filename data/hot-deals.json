@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T11:01:54.104262",
+  "lastUpdated": "2026-07-08T11:02:40.751819",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-08",
@@ -50244,6 +50244,67 @@
         "suiteCount": 13,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "virginia-college-nicolavia-stewart",
+      "name": "Nicolavia Stewart",
+      "property": "Virginia College Plaza",
+      "status": "Nicolavia Stewart inquired about the Dollar General space / Parcel #991 at Virginia College in Montgomery, saying her business needs more space and the area would be a great location.",
+      "stage": "Contact Made",
+      "nextStep": "Ask Nicolavia what the business is, target square footage, timing, and whether she is asking about the DG box or the parcel/lot.",
+      "priority": "medium",
+      "contacts": [
+        "Nicolavia Stewart <gocheckselect@gmail.com>"
+      ],
+      "timeline": [
+        {
+          "date": "2026-07-08",
+          "event": "Nicolavia Stewart emailed about Virginia College Parcel #991 / Dollar General space for a business needing more space.",
+          "type": "lead"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "id": "river-parkway-cosmoprof",
+      "name": "CosmoProf",
+      "property": "River Parkway Plaza",
+      "status": "CosmoProf lease/LOI path moved: Kevin Trujillo sent tenant clean and redline LOI updates dated 7/6/26 after completing the survey, noting only a few minor tweaks.",
+      "stage": "LOI",
+      "nextStep": "Review the updated clean/redline LOI and respond to Kevin/BSM with questions or acceptance posture.",
+      "priority": "high",
+      "contacts": [
+        "Kevin Trujillo (Baker Storey McDonald Properties)",
+        "Brad Altum (Baker Storey McDonald Properties)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-07-08",
+          "event": "Kevin Trujillo sent CosmoProf updated tenant clean/redline LOI documents after completing survey.",
+          "type": "email"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "id": "mcminnville-behavioral-health-rfp",
+      "name": "Behavioral Health RFP",
+      "property": "McMinnville Plaza",
+      "status": "James Rainer reported interest remains in the lower-level behavioral-health option and asked Jacob to respond to the previously provided RFP; Regional Director can tour July 21.",
+      "stage": "Trading Terms",
+      "nextStep": "Respond to the RFP and confirm whether the Regional Director can tour July 21.",
+      "priority": "high",
+      "contacts": [
+        "James Rainer (Newmark)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-07-08",
+          "event": "James Rainer said behavioral-health client has interest, requested RFP response, and can tour July 21.",
+          "type": "email"
+        }
+      ],
+      "actions": []
     }
   ],
   "sideDeals": [
