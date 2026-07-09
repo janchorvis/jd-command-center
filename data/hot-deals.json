@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T13:02:23.840924",
+  "lastUpdated": "2026-07-09T14:02:35.725883",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-09",
@@ -45185,9 +45185,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton, OH / Dutch Bros outparcel",
-      "status": "Hamilton closing docs advanced: Melissa is sending the consent out via DocuSign to investors; Bob/Taft provided pro forma and latest survey; Ashby said the latest materials look good. Closing remains in final document/title/survey execution posture.",
+      "status": "Hamilton GMX/Dutch Bros closing remains live for 7/10 target / 7/13 outside date. Latest 2 PM triage: seller certificate of existence and certificate invoice were sent to title; Ashby asked First American when to expect a settlement statement because Seller needs a draft showing loose net proceeds before lender payoff can be obtained.",
       "stage": "Lease Signed",
-      "nextStep": "Track investor DocuSign completion, final title/pro forma/survey cleanup, and closing execution package.",
+      "nextStep": "Track settlement statement timing, seller payoff, investor/authority documents, final title/pro forma/survey cleanup, and closing execution package.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -45249,6 +45249,11 @@
         {
           "date": "2026-07-09",
           "event": "Communication Triage: Hamilton consent going to investors via DocuSign; pro forma/latest survey provided; Ashby said materials look good.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-09",
+          "event": "Communication Triage 2 PM: seller certificate of existence/invoice sent to title; Ashby asked for settlement statement timing needed to obtain seller payoff before 7/10 target closing.",
           "type": "email"
         },
         {
