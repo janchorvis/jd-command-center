@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T12:02:35.337655",
+  "lastUpdated": "2026-07-09T13:02:23.840924",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-09",
@@ -45185,9 +45185,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton, OH / Dutch Bros outparcel",
-      "status": "Closing/REA/title work active for target 7/10 closing. Buyer counsel sent pro forma and latest survey; title/searches still being checked ahead of closing, with deleted easement exception limited to the easement parcel and not touching the fee parcel per survey.",
+      "status": "Hamilton closing docs advanced: Melissa is sending the consent out via DocuSign to investors; Bob/Taft provided pro forma and latest survey; Ashby said the latest materials look good. Closing remains in final document/title/survey execution posture.",
       "stage": "Lease Signed",
-      "nextStep": "Track Ashby/title response on commitment/pro forma, REA signature pages, settlement/payoff, and authorization to close.",
+      "nextStep": "Track investor DocuSign completion, final title/pro forma/survey cleanup, and closing execution package.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -45244,6 +45244,11 @@
         {
           "date": "2026-07-09",
           "event": "Buyer counsel sent pro forma and latest survey; title/searches still being checked ahead of 7/10 closing.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-09",
+          "event": "Communication Triage: Hamilton consent going to investors via DocuSign; pro forma/latest survey provided; Ashby said materials look good.",
           "type": "email"
         },
         {
@@ -49659,17 +49664,23 @@
       "id": "pell-city-teriyaki-madness-robert-cook",
       "name": "Teriyaki Madness",
       "property": "Pell City Marketplace / Martin's Center",
-      "status": "Robert Cook replied that Teriyaki Madness may work with a hybrid LL work-letter/TI structure, typically vanilla shell/electrical plus TI, after Jacob sent Pell City availability.",
+      "status": "Pell City / Drayer PT lease redline returned by Jacob; Tom Fidler confirmed there were no issues with the GC walkthrough.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob needs to decide whether to keep pursuing Teriyaki Madness for the demised gym space and what LL delivery/TI structure to float.",
-      "priority": "medium",
+      "nextStep": "Wait for tenant review of landlord redline / next lease comments.",
+      "priority": "high",
       "contacts": [
-        "Robert Cook (Vallas Realty)"
+        "Robert Cook (Vallas Realty)",
+        "Tom Fidler (MacKenzie Retail)"
       ],
       "timeline": [
         {
           "date": "2026-07-09",
           "event": "Email from CoStar News: CoStar Today: Where's the US financial center? Three cities stake their claim.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-09",
+          "event": "Communication Triage: Jacob sent landlord redline; Tom confirmed no GC walkthrough issues.",
           "type": "email"
         },
         {
