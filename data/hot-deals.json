@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T14:02:35.725883",
+  "lastUpdated": "2026-07-09T15:01:57.196431",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-09",
@@ -73590,6 +73590,50 @@
           "date": "2026-07-09",
           "event": "Tony Vaughn reported new Starbucks director support for a Madison BTS.",
           "type": "email"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-07-09"
+    },
+    {
+      "id": "forks-of-the-river-qsr-chicken-outparcel-sale",
+      "name": "QSR Chicken Concept",
+      "property": "Forks of the River / Sevierville outparcel",
+      "status": "Caleb Glafenhein / Greenbrier said a group planning a new QSR chicken concept is looking in Sevierville and asked whether Anchor would consider selling 0.50-0.60 acres of the outparcel in front of Gabe's between Long John Silver's and McDonald's at the right price.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob needs to decide whether to entertain a sale versus hold to lease/ground-lease posture, and respond with pricing/use/site-control guidance.",
+      "priority": "medium",
+      "contacts": [
+        "Caleb Glafenhein (Greenbrier Real Estate Advisors)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-07-09",
+          "event": "Inbound QSR chicken concept inquiry asked whether Anchor would sell 0.50-0.60 acres of Forks of the River outparcel.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-07-09"
+    },
+    {
+      "id": "harrison-square-trent-d-crexi",
+      "name": "Trent D. - Crexi Brochure Download",
+      "property": "Harrison Square / Harrison",
+      "status": "Crexi notified that Trent D. downloaded the Harrison Square brochure. No message/body or contact details were included in the email beyond the activity notice.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob needs to decide whether to follow up through Crexi/contact path and capture phone/email/use.",
+      "priority": "low",
+      "contacts": [
+        "Trent D. (Crexi prospect)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-07-09",
+          "event": "Trent D. downloaded/opened the Harrison Square brochure via Crexi.",
+          "type": "lead"
         }
       ],
       "actions": [],
