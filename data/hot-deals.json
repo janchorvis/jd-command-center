@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T07:16:01.492954",
+  "lastUpdated": "2026-07-09T08:03:58.182132",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-09",
@@ -45174,9 +45174,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton, OH / Dutch Bros outparcel",
-      "status": "Closing comments came in from Taft: purchaser will assign PSA to Hamilton Victory Main, LLC; deed should be revised to general warranty deed; FIRPTA/DTE comments attached. First American expects preliminary settlement statement the morning of 7/9. Closing target remains July 10 with outside date July 13.",
+      "status": "Hamilton GMX/Dutch Bros closing remains active for 7/10 target / 7/13 outside date. Buyer/Taft sent completed REA signature block and further revised deed; Ashby accepted changes 7/9 and requested buyer's latest title commitment to confirm deleted exceptions. Dutch Bros estoppel sign-off still being confirmed.",
       "stage": "Lease Signed",
-      "nextStep": "Ashby/Jacob/Melissa need to turn closing-document comments, coordinate Micah execution authority, and get settlement/payoff items ready for closing.",
+      "nextStep": "Track buyer's latest title commitment, Dutch Bros estoppel sign-off, settlement/payoff timing, and execution of closing/REA documents.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -45211,6 +45211,11 @@
         {
           "date": "2026-07-09",
           "event": "Email from Hank Davis: UPDATED PRICING | 15-Yr Absolute NNN | Dutch Bros | Cincinnati, OH",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-09",
+          "event": "Ashby accepted revised Hamilton closing/REA changes and requested buyer's latest title commitment to confirm deleted exceptions.",
           "type": "email"
         },
         {
@@ -73529,6 +73534,28 @@
         "suiteCount": 12,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "madison-starbucks-bts",
+      "name": "Starbucks BTS",
+      "property": "Madison - 1508 Gallatin Pike S, Madison TN",
+      "status": "Tony Vaughn says a new Starbucks director moving to town with the new Starbucks office will support the build-to-suit at Madison, reversing prior concern that Madison was on the rocks due to cemetery proximity and second-row placement.",
+      "stage": "Trading Terms",
+      "nextStep": "Jacob should tell Tony whether Anchor wants to re-engage Starbucks BTS at Madison and confirm the preferred site/deal structure.",
+      "priority": "high",
+      "contacts": [
+        "Tony Vaughn (Colliers / Starbucks)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-07-09",
+          "event": "Tony Vaughn reported new Starbucks director support for a Madison BTS.",
+          "type": "email"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-07-09"
     }
   ],
   "droppedBalls": [
