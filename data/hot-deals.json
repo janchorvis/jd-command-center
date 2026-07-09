@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T15:01:57.196431",
+  "lastUpdated": "2026-07-09T16:01:48.957614",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-09",
@@ -35591,11 +35591,16 @@
     {
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
-      "property": "Maple Row / Hendersonville Fox's",
-      "status": "Joey Valenti asked two lease-waiting questions: what the locked exterior double door on the south side/back right corner is for, and where a ground grease trap may be installed.",
-      "nextStep": "Jacob needs owner/property guidance on locked exterior double door and grease trap location, then reply to Joey.",
+      "property": "Maple Row",
+      "status": "Great Greek returned revised clean/redline lease drafts and PDFs incorporating franchise rider after legal delay; Jacob needs to review/reroute lease comments and coordinate with Clay before Fox’s Pizza notice posture.",
+      "nextStep": "Review revised Great Greek lease package and decide legal/ownership response path.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-07-09",
+          "event": "Joey Valenti sent revised Great Greek clean/redline lease drafts incorporating franchise rider.",
+          "type": "email"
+        },
         {
           "date": "2026-07-08",
           "event": "Email from Jacob Delk: Coffee: Jacob Delk x Jeff Shoopman",
@@ -50330,16 +50335,18 @@
     {
       "id": "montgomery-martial-arts-virginia-college",
       "name": "Montgomery Martial Arts",
-      "property": "Virginia College Plaza / 6132 Atlanta Hwy",
-      "status": "Watkins Johnston acknowledged Jacob's latest direction and said he is on it regarding the Montgomery Martial Arts offer/application package.",
+      "property": "Virginia College Plaza",
+      "status": "Watkins sent Montgomery Martial Arts credit report and said the store did just shy of $200K sales last year; tenant can provide current-landlord/Thomas Crews references and plans only paint/flooring around mats.",
       "stage": "Obtain Financials",
-      "nextStep": "Await Watkins' next update or revised offer/application materials.",
-      "priority": "medium",
+      "nextStep": "Review credit/financial strength and decide whether to request references/additional financials or counter economics.",
+      "priority": "high",
       "contacts": [
         "Watkins Johnston IV (MCRMPM)",
         "Montgomery Martial Arts",
         "Watkins Johnston IV (MCRM Property Management)",
-        "Watkins Johnston IV"
+        "Watkins Johnston IV",
+        "Watkins Johnston IV (McWhirter Realty Partners)",
+        "William Boutwell / Montgomery Martial Arts"
       ],
       "timeline": [
         {
@@ -50355,6 +50362,11 @@
         {
           "date": "2026-07-09",
           "event": "Email from Chain Store Age: DayBreaker: Kohl's reveals back-to-school plans; GameStop investors clear path f",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-09",
+          "event": "Watkins Johnston sent credit report/sales context for Montgomery Martial Arts and offered references.",
           "type": "email"
         },
         {
