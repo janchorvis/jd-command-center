@@ -3,7 +3,7 @@
     {
       "id": "inbox_1783632744774_1c714aaf",
       "receivedAt": "2026-07-09T21:32:24.774Z",
-      "status": "received",
+      "status": "completed",
       "context": {
         "type": "smoke-test",
         "url": null,
@@ -17,7 +17,10 @@
       "comment": "post-deploy smoke test",
       "action": "fyi",
       "priority": "normal",
-      "result": null
+      "result": {
+        "reply": "Smoke test completed"
+      },
+      "processedAt": "2026-07-09T21:32:26.283Z"
     }
   ]
 }
