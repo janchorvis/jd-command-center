@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T10:02:02.819244",
+  "lastUpdated": "2026-07-09T12:02:35.337655",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-09",
@@ -27074,9 +27074,9 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Tom Fidler / MacKenzie followed up sharply on the Drayer PT / Upstream Growth lease comments, asking for status because it has been several weeks since Jacob said comments were expected the week of 6/29.",
+      "status": "Drayer PT / Upstream lease redline was sent back by Jacob on 7/9; Tom Fidler replied that there were no issues from the GC walkthrough.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob needs to get lease comments routed/returned or send a realistic timing update to Tom today.",
+      "nextStep": "Wait for tenant/broker review of the landlord redline; be ready to answer comments or move toward final lease.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
@@ -27124,6 +27124,11 @@
         {
           "date": "2026-07-09",
           "event": "Tom Fidler followed up on Drayer PT / Upstream Growth Pell City lease comments: \"What’s the status here???? It’s been several weeks.\"",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-09",
+          "event": "Tom Fidler confirmed no issues from the GC walkthrough after Jacob sent the landlord redline.",
           "type": "email"
         },
         {
@@ -45180,9 +45185,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton, OH / Dutch Bros outparcel",
-      "status": "Closing-document workflow is still moving: Melissa said the Consent redline looks good, is sending it to investors via DocuSign, and will watch for additional documents for Micah to sign.",
+      "status": "Closing/REA/title work active for target 7/10 closing. Buyer counsel sent pro forma and latest survey; title/searches still being checked ahead of closing, with deleted easement exception limited to the easement parcel and not touching the fee parcel per survey.",
       "stage": "Lease Signed",
-      "nextStep": "Track investor DocuSign completion, additional documents for Micah signature, title commitment/deleted exceptions, settlement/payoff timing, Dutch Bros estoppel sign-off, and authorization to close before the 7/10 target closing.",
+      "nextStep": "Track Ashby/title response on commitment/pro forma, REA signature pages, settlement/payoff, and authorization to close.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -45207,7 +45212,8 @@
         "Evans Petree",
         "Melissa Eddy",
         "Michele Johnson (First American)",
-        "John Kelly (First American)"
+        "John Kelly (First American)",
+        "Melissa Eddy (Anchor)"
       ],
       "timeline": [
         {
@@ -45233,6 +45239,11 @@
         {
           "date": "2026-07-09",
           "event": "Melissa sending Hamilton consent to investors via DocuSign and waiting for additional Micah signature documents.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-09",
+          "event": "Buyer counsel sent pro forma and latest survey; title/searches still being checked ahead of 7/10 closing.",
           "type": "email"
         },
         {
