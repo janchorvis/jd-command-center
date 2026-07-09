@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T08:03:58.182132",
+  "lastUpdated": "2026-07-09T09:04:01.670031",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-09",
@@ -27074,9 +27074,9 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Upstream/Drayer PT measurement/MEP diligence is moving: Davis Coleman / Corco plans a site visit on 2026-07-01 and will reply when finished so Jacob can pull the lockbox.",
+      "status": "Tom Fidler / MacKenzie followed up sharply on the Drayer PT / Upstream Growth lease comments, asking for status because it has been several weeks since Jacob said comments were expected the week of 6/29.",
       "stage": "Lease Signed",
-      "nextStep": "Wait for Davis Coleman to confirm the site visit is complete, then pull/recover the lockbox; Jacob still needs to review/route lease comments separately.",
+      "nextStep": "Jacob needs to get lease comments routed/returned or send a realistic timing update to Tom today.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
@@ -27097,7 +27097,8 @@
         "Brent Braden (Upstream Rehabilitation Facilities Manager)",
         "Brent Braden (Upstream Rehabilitation)",
         "Davis Coleman (Corco Construction)",
-        "Tom Fidler (MacKenzie Commercial)"
+        "Tom Fidler (MacKenzie Commercial)",
+        "Tom Fidler (MacKenzie Commercial / Drayer PT)"
       ],
       "timeline": [
         {
@@ -27118,6 +27119,11 @@
         {
           "date": "2026-07-09",
           "event": "Email from Kelsey Cornillie, Publisher: Family-friendly game venue eyes Cummins Station",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-09",
+          "event": "Tom Fidler followed up on Drayer PT / Upstream Growth Pell City lease comments: \"What’s the status here???? It’s been several weeks.\"",
           "type": "email"
         },
         {
@@ -45174,9 +45180,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton, OH / Dutch Bros outparcel",
-      "status": "Hamilton GMX/Dutch Bros closing remains active for 7/10 target / 7/13 outside date. Buyer/Taft sent completed REA signature block and further revised deed; Ashby accepted changes 7/9 and requested buyer's latest title commitment to confirm deleted exceptions. Dutch Bros estoppel sign-off still being confirmed.",
+      "status": "Hamilton GMX/Dutch Bros closing remains active for 7/10 target / 7/13 outside date. First American issued an updated 7/9 open-items list including buyer good-standing/resolution/PSA assignment, approval of proforma, payoff or release of mortgage/UCC, funds to close, invoices, executed owner affidavit/gap indemnity, lot-split recording/engineer approvals/final survey, executed settlement statement, originals, DTE form, buyer escrow letter, and authorization to close.",
       "stage": "Lease Signed",
-      "nextStep": "Track buyer's latest title commitment, Dutch Bros estoppel sign-off, settlement/payoff timing, and execution of closing/REA documents.",
+      "nextStep": "Track the updated First American open-items list, settlement/payoff timing, title commitment/deleted exceptions, Dutch Bros estoppel sign-off, and execution docs before the 7/10 target closing.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -45200,7 +45206,8 @@
         "Carole Ward",
         "Evans Petree",
         "Melissa Eddy",
-        "Michele Johnson (First American)"
+        "Michele Johnson (First American)",
+        "John Kelly (First American)"
       ],
       "timeline": [
         {
@@ -45216,6 +45223,11 @@
         {
           "date": "2026-07-09",
           "event": "Ashby accepted revised Hamilton closing/REA changes and requested buyer's latest title commitment to confirm deleted exceptions.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-09",
+          "event": "First American sent updated Hamilton closing open-items list for 7/10 target / 7/13 outside-date closing.",
           "type": "email"
         },
         {
