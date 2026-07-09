@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "id": "inbox_1783632744774_1c714aaf",
+      "receivedAt": "2026-07-09T21:32:24.774Z",
+      "status": "received",
+      "context": {
+        "type": "smoke-test",
+        "url": null,
+        "title": "Jarvis inbox deploy smoke test",
+        "sender": null,
+        "selectedText": null,
+        "metadata": {
+          "source": "post-deploy"
+        }
+      },
+      "comment": "post-deploy smoke test",
+      "action": "fyi",
+      "priority": "normal",
+      "result": null
+    }
+  ]
+}
