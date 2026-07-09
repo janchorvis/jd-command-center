@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T09:04:01.670031",
+  "lastUpdated": "2026-07-09T10:02:02.819244",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-09",
@@ -45180,9 +45180,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton, OH / Dutch Bros outparcel",
-      "status": "Hamilton GMX/Dutch Bros closing remains active for 7/10 target / 7/13 outside date. First American issued an updated 7/9 open-items list including buyer good-standing/resolution/PSA assignment, approval of proforma, payoff or release of mortgage/UCC, funds to close, invoices, executed owner affidavit/gap indemnity, lot-split recording/engineer approvals/final survey, executed settlement statement, originals, DTE form, buyer escrow letter, and authorization to close.",
+      "status": "Closing-document workflow is still moving: Melissa said the Consent redline looks good, is sending it to investors via DocuSign, and will watch for additional documents for Micah to sign.",
       "stage": "Lease Signed",
-      "nextStep": "Track the updated First American open-items list, settlement/payoff timing, title commitment/deleted exceptions, Dutch Bros estoppel sign-off, and execution docs before the 7/10 target closing.",
+      "nextStep": "Track investor DocuSign completion, additional documents for Micah signature, title commitment/deleted exceptions, settlement/payoff timing, Dutch Bros estoppel sign-off, and authorization to close before the 7/10 target closing.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -45228,6 +45228,11 @@
         {
           "date": "2026-07-09",
           "event": "First American sent updated Hamilton closing open-items list for 7/10 target / 7/13 outside-date closing.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-09",
+          "event": "Melissa sending Hamilton consent to investors via DocuSign and waiting for additional Micah signature documents.",
           "type": "email"
         },
         {
