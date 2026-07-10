@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T11:03:25.224290",
+  "lastUpdated": "2026-07-10T12:15:15.455092",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-10",
@@ -43995,10 +43995,10 @@
     {
       "id": "gilded-spine-maple-row",
       "name": "Gilded Spine (Storybook Soirees LLC)",
-      "property": "Maple Row Shopping Center",
-      "status": "Hillary Holmes / Gilded Spine returned redlines to the Maple Row lease draft on 2026-07-10 after Jacob sent the draft on 7/7. Prior deal posture: $25/SF NNN ask, no TI, 3-year initial term with 5-year renewal option(s), planned bookstore/wine bar with soft opening pre-TABC approval, and utility/zoning/CO feasibility still in view.",
+      "property": "Maple Row",
+      "status": "Gilded Spine signed DocuSign after Jacob sent lease for signature on 7/10. Track remaining routing/countersignature, then split to NLC/opening checklist and tenant portal setup once fully executed.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob/Anchor legal need to review Hillary's 7/10 lease redlines and decide response path; do not process the attached DOCX in the main session.",
+      "nextStep": "Confirm full DocuSign execution/countersignature, then start post-execution handoff.",
       "priority": "high",
       "contacts": [
         "Hillary Holmes – gildedspinebooks@gmail.com, (414) 607-2197",
@@ -44017,6 +44017,11 @@
         {
           "date": "2026-07-10",
           "event": "Gilded Spine returned redlined Maple Row lease draft for review.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-10",
+          "event": "Gilded Spine replied 'Just signed' after Jacob sent lease through DocuSign.",
           "type": "email"
         },
         {
@@ -45600,10 +45605,10 @@
     {
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
-      "property": "Hamilton, OH / Dutch Bros outparcel",
-      "status": "Hamilton GMX/Dutch Bros closing remains live for the 7/10 target. Morning update: Ashby asked whether Melissa/Jacob had what they needed to obtain payoff and requested lender wiring instructions plus net proceeds to HCP; Melissa replied that she had sent the settlement statement to the lender to get payoff and answered yes on both.",
+      "property": "Hamilton OH",
+      "status": "7/10 closing still moving: Melissa sent lender payoff/wire materials and asked Ashby/title how payoff/proceeds should be handled; Taft asked for Seller building SF to calculate proportionate share against buyer planned building SF of 986.",
       "stage": "Lease Signed",
-      "nextStep": "Track lender payoff, wiring/net proceeds, execution docs/signatures, and final authorization to close today.",
+      "nextStep": "Keep payoff/wire/title routing moving today and provide/confirm Seller building SF for proportionate-share calculation.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -45648,6 +45653,11 @@
           "date": "2026-07-10",
           "event": "Closing morning: Ashby requested payoff/wiring/net proceeds; Melissa confirmed statement sent to lender for payoff and that she had what was needed.",
           "type": "email"
+        },
+        {
+          "date": "2026-07-10",
+          "event": "Payoff/wire materials sent; Taft requested Seller building SF for proportionate-share calculation.",
+          "type": "closing"
         },
         {
           "date": "2026-07-09",
