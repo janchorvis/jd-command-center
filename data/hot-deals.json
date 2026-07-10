@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T08:02:45.704689",
+  "lastUpdated": "2026-07-10T10:02:15.030820",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-10",
@@ -43996,21 +43996,27 @@
       "id": "gilded-spine-maple-row",
       "name": "Gilded Spine (Storybook Soirees LLC)",
       "property": "Maple Row Shopping Center",
-      "status": "Jacob sent Hillary a shorter/cleaner lease package for Gilded Spine; Hillary acknowledged and said she would start review after work.",
+      "status": "Hillary Holmes / Gilded Spine returned redlines to the Maple Row lease draft on 2026-07-10 after Jacob sent the draft on 7/7. Prior deal posture: $25/SF NNN ask, no TI, 3-year initial term with 5-year renewal option(s), planned bookstore/wine bar with soft opening pre-TABC approval, and utility/zoning/CO feasibility still in view.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Wait for Hillary's lease review/comments while keeping the courtesy-only drawing/file-sharing caveat and utility/zoning feasibility items in view.",
+      "nextStep": "Jacob/Anchor legal need to review Hillary's 7/10 lease redlines and decide response path; do not process the attached DOCX in the main session.",
       "priority": "high",
       "contacts": [
         "Hillary Holmes – gildedspinebooks@gmail.com, (414) 607-2197",
         "Hillary Holmes (Gilded Spine)",
         "Hillary Holmes / Gilded Spine",
         "Hillary Holmes",
-        "Clay Richardson"
+        "Clay Richardson",
+        "Hillary Holmes (Gilded Spine / Storybook Soirees LLC)"
       ],
       "timeline": [
         {
           "date": "2026-07-10",
           "event": "Email from CoStar News: CoStar Today: Where's the US financial center? Three cities stake their claim.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-10",
+          "event": "Gilded Spine returned redlined Maple Row lease draft for review.",
           "type": "email"
         },
         {
