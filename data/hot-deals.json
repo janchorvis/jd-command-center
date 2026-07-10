@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T15:03:31.563356",
+  "lastUpdated": "2026-07-10T16:02:22.406009",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-10",
@@ -9902,10 +9902,10 @@
       "id": "shelbyville-anytime",
       "name": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
-      "status": "Cosmoprof followed up on Shelbyville - trying to buy time for better tenants",
+      "status": "Paul Gold followed up asking whether Jacob has made any sense of the Bealls/Five Below demise and requested an update he can share with them. This reopens the Shelbyville former Big Lots Bealls/Five Below economics/posture question after Jacob said he would rerun the pro forma with 2026 NNNs and adjacent tenant economics.",
       "stage": "LOI",
-      "nextStep": "Push Cosmoprof with firm terms (no TI, state what we will/won't do) - take it or leave it approach",
-      "priority": "medium",
+      "nextStep": "Jacob needs to send Paul a status update on whether Bealls/Five Below still makes sense, or give a realistic pro forma/redevelopment timing answer.",
+      "priority": "high",
       "timeline": [
         {
           "date": "2026-07-10",
@@ -9915,6 +9915,11 @@
         {
           "date": "2026-07-10",
           "event": "Email from Adam Heston: Shelbyville, Indiana",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-10",
+          "event": "Paul Gold followed up for an update on the Bealls/Five Below Shelbyville deal posture.",
           "type": "email"
         },
         {
@@ -10199,7 +10204,8 @@
         }
       ],
       "contacts": [
-        "Derek Tucker"
+        "Derek Tucker",
+        "Paul Gold (ECHO Retail)"
       ],
       "actions": [
         {
@@ -36282,8 +36288,8 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row",
-      "status": "Great Greek returned revised clean/redline lease drafts and PDFs incorporating franchise rider after legal delay; Jacob needs to review/reroute lease comments and coordinate with Clay before Fox’s Pizza notice posture.",
-      "nextStep": "Review revised Great Greek lease package and decide legal/ownership response path.",
+      "status": "Gilded Spine returned lease redlines, Jacob sent landlord redline/clean copies and then DocuSign, and Hillary replied that she signed. Track remaining DocuSign routing/countersignature before treating the lease as fully executed.",
+      "nextStep": "Confirm remaining Gilded Spine DocuSign signer/LL countersignature, then start post-execution next steps once fully executed.",
       "priority": "high",
       "timeline": [
         {
@@ -36339,6 +36345,11 @@
         {
           "date": "2026-07-10",
           "event": "Email from Chain Store Age: DayBreaker: Costco digital sales surge; Menswear chain rejects buyout offer; Wea",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-10",
+          "event": "Gilded Spine replied 'Just signed' after Jacob sent the Maple Row lease through DocuSign.",
           "type": "email"
         },
         {
@@ -39288,7 +39299,8 @@
         "Joey Valenti (Centennial Retail)",
         "Punit Patel / Great Greek corporate",
         "Joey Valenti (Centennial)",
-        "Clay Richardson"
+        "Clay Richardson",
+        "Hillary Holmes (Gilded Spine)"
       ],
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
