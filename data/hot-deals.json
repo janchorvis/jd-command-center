@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T15:01:32.896433",
+  "lastUpdated": "2026-07-10T15:02:41.110436",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-10",
@@ -44461,9 +44461,9 @@
       "id": "gilded-spine-maple-row",
       "name": "Gilded Spine (Storybook Soirees LLC)",
       "property": "Maple Row",
-      "status": "Gilded Spine signed DocuSign after Jacob sent lease for signature on 7/10. Track remaining routing/countersignature, then split to NLC/opening checklist and tenant portal setup once fully executed.",
+      "status": "Gilded Spine signed its DocuSign portion for the Maple Row lease after Jacob sent the final lease package.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Confirm full DocuSign execution/countersignature, then start post-execution handoff.",
+      "nextStep": "Track remaining DocuSign routing/countersignature, then move to post-execution NLC/opening checklist/portal setup once fully executed.",
       "priority": "high",
       "contacts": [
         "Hillary Holmes – gildedspinebooks@gmail.com, (414) 607-2197",
@@ -44512,6 +44512,11 @@
         {
           "date": "2026-07-10",
           "event": "Gilded Spine replied 'Just signed' after Jacob sent lease through DocuSign.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-10",
+          "event": "Hillary Holmes replied 'Just signed' after Jacob sent the Gilded Spine lease via DocuSign.",
           "type": "email"
         },
         {
@@ -49886,16 +49891,18 @@
     {
       "id": "bealls-shelbyville-former-big-lots",
       "name": "Bealls",
-      "property": "Shelbyville former Big Lots",
-      "status": "Updated Bealls term sheet received for a portion of the former Big Lots: now NNN rent with TI increased to $400K over VBox delivery. Separately, Dutch Bros/Ethan Flynn showed interest in a Shelbyville outparcel concept; Ethan indicated roughly 0.4 acre could work, BTS/someone fee-develops is preferred, GL with high TIA is the alternative/reverse BTS, and rent tolerance is about $150K.",
+      "property": "Shelbyville",
+      "status": "Kimley-Horn revised the Shelbyville test-fit proposal to Shelbyville Partners, LLC, and Jacob forwarded it to Clay for signature.",
       "stage": "Trading Terms",
-      "nextStep": "Review Bealls updated term sheet and call Paul Gold if needed; separately set up a call with Ethan in the next couple weeks and dig into required TI / reverse BTS economics.",
+      "nextStep": "Wait for Clay signature / approval so Kimley-Horn can begin the test-fit work.",
       "priority": "high",
       "contacts": [
         "Paul Gold (Echo Retail)",
         "Jeffrey Lautenbach (Bealls)",
         "Ethan Flynn (Dutch Bros)",
-        "Micah Lacher"
+        "Micah Lacher",
+        "Josh Koone (Kimley-Horn)",
+        "Clay Richardson (Anchor)"
       ],
       "timeline": [
         {
@@ -49916,6 +49923,11 @@
         {
           "date": "2026-07-10",
           "event": "Email from Adam Heston: Shelbyville, Indiana",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-10",
+          "event": "Josh Koone sent revised Kimley-Horn test-fit proposal; Jacob asked Clay to sign it.",
           "type": "email"
         },
         {
@@ -76130,13 +76142,14 @@
     {
       "id": "forks-of-the-river-qsr-chicken-outparcel-sale",
       "name": "QSR Chicken Concept",
-      "property": "Forks of the River / Sevierville outparcel",
-      "status": "Caleb Glafenhein / Greenbrier followed up after Jacob said Micah strongly prefers a ground lease, asking: \"what is the GL for this outparcel?\" Jacob needs to provide target ground-lease economics or confirm pricing posture before Caleb takes it back to the QSR chicken group.",
+      "property": "Forks of the River",
+      "status": "Jacob told Greenbrier that a ground lease is preferred and estimated roughly $75,000 as the floor Micah would likely consider; Caleb acknowledged and met Adam by email.",
       "stage": "Contact Made",
-      "nextStep": "Reply to Caleb with target GL pricing / economics for the Sevierville outparcel.",
-      "priority": "high",
+      "nextStep": "Wait for Greenbrier/QSR chicken group to decide whether to submit an offer or pursue the ground-lease path.",
+      "priority": "medium",
       "contacts": [
-        "Caleb Glafenhein (Greenbrier Real Estate Advisors)"
+        "Caleb Glafenhein (Greenbrier Real Estate Advisors)",
+        "Adam Heston (Anchor)"
       ],
       "timeline": [
         {
@@ -76147,6 +76160,11 @@
         {
           "date": "2026-07-10",
           "event": "Caleb asked Jacob what the ground lease is for the Sevierville outparcel.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-10",
+          "event": "Jacob gave Caleb Glafenhein a rough $75K ground-lease floor for the Forks of the River outparcel and introduced Adam.",
           "type": "email"
         },
         {
