@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T13:04:22.414345",
+  "lastUpdated": "2026-07-10T14:03:53.761999",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-10",
@@ -10125,11 +10125,16 @@
       "id": "russellville-abc",
       "name": "ABC Retail",
       "property": "Russellville",
-      "status": "ABC asked to nail down move-in timing because their warehouse completion was pushed back; Clay replied contractor launches May 23, work likely into mid-July, signage 5-7 weeks, and end-of-June completion is unlikely.",
+      "status": "Eitan Kohanim / Gorjian Acquisitions asked whether ownership would be open to selling 14001 Highway 43 / Russellville. Jacob needs to decide sale posture before responding.",
       "stage": "Lease Signed",
-      "nextStep": "Monitor ABC timing and coordinate any move-in pressure with Clay/contractor.",
+      "nextStep": "Decide whether ownership is open to selling Russellville / 14001 Highway 43 and respond to Eitan.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-07-10",
+          "event": "Eitan Kohanim asked whether ownership would be open to selling 14001 Highway 43 / Russellville.",
+          "type": "email"
+        },
         {
           "date": "2026-07-09",
           "event": "Email from Ashley Cusker | Katz & Associates: Fat Rosie's Seeking Sites in the Nashville MSA",
@@ -12027,7 +12032,8 @@
         "Kurt Wilson (ABC Alabama)",
         "Kyle Lindsey (ABC Alabama)",
         "Kurt Wilson (Alabama ABC)",
-        "Kyle Lindsey (Alabama ABC)"
+        "Kyle Lindsey (Alabama ABC)",
+        "Eitan Kohanim (Gorjian Acquisitions)"
       ],
       "actions": [
         {
