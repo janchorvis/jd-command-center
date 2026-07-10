@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T12:15:15.455092",
+  "lastUpdated": "2026-07-10T13:03:44.516128",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-10",
@@ -9812,11 +9812,16 @@
       "id": "shelbyville-anytime",
       "name": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
-      "status": "Cosmoprof followed up on Shelbyville - trying to buy time for better tenants",
+      "status": "Clay agreed with Jacob using the Dutch Bros civil engineer/Kimley-Horn path after Jacob noted Micah wanted to use them; Jacob said he would pull the trigger if Clay agreed.",
       "stage": "LOI",
-      "nextStep": "Push Cosmoprof with firm terms (no TI, state what we will/won't do) - take it or leave it approach",
-      "priority": "medium",
+      "nextStep": "Jacob to pull the trigger/authorize the civil engineer for Shelbyville outparcel planning and keep tenant-use details aligned with Micah/Clay.",
+      "priority": "high",
       "timeline": [
+        {
+          "date": "2026-07-10",
+          "event": "Slack DM: Clay agreed Jacob should use the Dutch Bros civil engineer/Kimley-Horn path; Jacob had said he would pull the trigger if Clay agreed.",
+          "type": "slack"
+        },
         {
           "date": "2026-07-09",
           "event": "Email from Adam Heston: Shelbyville, Indiana",
@@ -10099,7 +10104,9 @@
         }
       ],
       "contacts": [
-        "Derek Tucker"
+        "Derek Tucker",
+        "Clay Richardson",
+        "Josh Koone (Kimley-Horn)"
       ],
       "actions": [
         {
