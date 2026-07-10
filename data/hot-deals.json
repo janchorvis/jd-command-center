@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T10:02:15.030820",
+  "lastUpdated": "2026-07-10T11:03:25.224290",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-10",
@@ -47892,9 +47892,9 @@
       "id": "smart-led-highland",
       "name": "Smart LED TN LLC",
       "property": "Hickory Village / 2151 N Highland",
-      "status": "Amin Lakhani sent Smart LED TN tax returns plus 2024 and 2025 P&L/balance sheet files for review after Jacob requested financials.",
-      "stage": "Lease Draft & Review",
-      "nextStep": "Review Amin's tax returns and P&L/balance sheets, then decide guaranty/credit posture and next lease revision/walk-through step.",
+      "status": "Lease execution copy completed via DocuSign on 2026-07-10; post-execution follow-through now needed for NLC/opening checklist, commission/accounting handling, execution-copy proof/storage, and payment/economics setup.",
+      "stage": "Lease Signed",
+      "nextStep": "Handle post-execution NLC/opening checklist, commission/accounting setup if applicable, execution-copy storage, and any payment/economics setup.",
       "priority": "high",
       "contacts": [
         "Amin Lakhani (Smart LED TN LLC) - smartledtn@gmail.com - 901-907-2646",
@@ -47905,6 +47905,11 @@
         "Amin Lakhani <smartledtn@gmail.com>"
       ],
       "timeline": [
+        {
+          "date": "2026-07-10",
+          "event": "Completed DocuSign execution copy forwarded for 2151 Highland Partners, LLC - Smart LED lease.",
+          "type": "execution"
+        },
         {
           "date": "2026-07-09",
           "event": "Email from Jacob Delk: ICSC Vegas - Starbucks",
@@ -49271,7 +49276,7 @@
         "suiteCount": 6,
         "vacantCount": 0
       },
-      "stageOverride": "Lease Draft & Review"
+      "stageOverride": "Lease Signed"
     },
     {
       "id": "bealls-shelbyville-former-big-lots",
