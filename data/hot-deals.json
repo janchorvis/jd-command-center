@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T13:03:44.516128",
+  "lastUpdated": "2026-07-10T13:04:22.414345",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-10",
@@ -9812,16 +9812,11 @@
       "id": "shelbyville-anytime",
       "name": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
-      "status": "Clay agreed with Jacob using the Dutch Bros civil engineer/Kimley-Horn path after Jacob noted Micah wanted to use them; Jacob said he would pull the trigger if Clay agreed.",
+      "status": "Cosmoprof followed up on Shelbyville - trying to buy time for better tenants",
       "stage": "LOI",
-      "nextStep": "Jacob to pull the trigger/authorize the civil engineer for Shelbyville outparcel planning and keep tenant-use details aligned with Micah/Clay.",
-      "priority": "high",
+      "nextStep": "Push Cosmoprof with firm terms (no TI, state what we will/won't do) - take it or leave it approach",
+      "priority": "medium",
       "timeline": [
-        {
-          "date": "2026-07-10",
-          "event": "Slack DM: Clay agreed Jacob should use the Dutch Bros civil engineer/Kimley-Horn path; Jacob had said he would pull the trigger if Clay agreed.",
-          "type": "slack"
-        },
         {
           "date": "2026-07-09",
           "event": "Email from Adam Heston: Shelbyville, Indiana",
@@ -10104,9 +10099,7 @@
         }
       ],
       "contacts": [
-        "Derek Tucker",
-        "Clay Richardson",
-        "Josh Koone (Kimley-Horn)"
+        "Derek Tucker"
       ],
       "actions": [
         {
@@ -66258,9 +66251,9 @@
       "id": "shelbyville-ryan-jordan-former-big-lots",
       "name": "Ryan Jordan / Former Big Lots",
       "property": "Shelbyville former Big Lots",
-      "status": "Josh Koone / Kimley-Horn said he plans to send the Shelbyville test-fit proposal today or tomorrow morning and asked what other tenants/types of uses are considering the site.",
+      "status": "Josh Koone / Kimley-Horn said he plans to send the Shelbyville test-fit proposal today or tomorrow morning and asked what other tenants/types of uses are considering the site. Clay agreed with Jacob using the Dutch Bros civil engineer/Kimley-Horn path after Jacob noted Micah wanted to use them; Jacob said he would pull the trigger if Clay agreed.",
       "stage": "Contact Made",
-      "nextStep": "Jacob should decide how much tenant/use detail to share with Josh while waiting for the test-fit proposal.",
+      "nextStep": "Jacob should pull the trigger/authorize the civil engineer for Shelbyville outparcel planning and decide how much tenant/use detail to share with Josh while keeping Micah/Clay aligned.",
       "priority": "high",
       "contacts": [
         "Ryan Jordan (AVID Real Estate Advisors)",
@@ -66269,7 +66262,8 @@
         "Matthew Bisignano (Casey's)",
         "Pat Boyle (Midland Atlantic Properties)",
         "Jordan Hooper (SRG Assets / Wash N Roll) - 615-925-0442 - jordan@srgassets.com",
-        "Josh Koone (Kimley-Horn)"
+        "Josh Koone (Kimley-Horn)",
+        "Clay Richardson"
       ],
       "timeline": [
         {
@@ -66666,6 +66660,11 @@
           "date": "2026-06-02",
           "event": "Email from TiQuasia Jordan: TiQuasia Jordan favorited 2500 W Franklin Blvd",
           "type": "email"
+        },
+        {
+          "date": "2026-07-10",
+          "event": "Slack DM: Clay agreed Jacob should use the Dutch Bros civil engineer/Kimley-Horn path; Jacob had said he would pull the trigger if Clay agreed.",
+          "type": "slack"
         }
       ],
       "actions": [],
