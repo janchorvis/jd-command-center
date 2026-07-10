@@ -9902,10 +9902,10 @@
       "id": "shelbyville-anytime",
       "name": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
-      "status": "Paul Gold followed up asking whether Jacob has made any sense of the Bealls/Five Below demise and requested an update he can share with them. This reopens the Shelbyville former Big Lots Bealls/Five Below economics/posture question after Jacob said he would rerun the pro forma with 2026 NNNs and adjacent tenant economics.",
+      "status": "Cosmoprof followed up on Shelbyville - trying to buy time for better tenants",
       "stage": "LOI",
-      "nextStep": "Jacob needs to send Paul a status update on whether Bealls/Five Below still makes sense, or give a realistic pro forma/redevelopment timing answer.",
-      "priority": "high",
+      "nextStep": "Push Cosmoprof with firm terms (no TI, state what we will/won't do) - take it or leave it approach",
+      "priority": "medium",
       "timeline": [
         {
           "date": "2026-07-10",
@@ -9915,11 +9915,6 @@
         {
           "date": "2026-07-10",
           "event": "Email from Adam Heston: Shelbyville, Indiana",
-          "type": "email"
-        },
-        {
-          "date": "2026-07-10",
-          "event": "Paul Gold followed up for an update on the Bealls/Five Below Shelbyville deal posture.",
           "type": "email"
         },
         {
@@ -49909,9 +49904,9 @@
       "id": "bealls-shelbyville-former-big-lots",
       "name": "Bealls",
       "property": "Shelbyville former Big Lots",
-      "status": "Updated Bealls term sheet received for a portion of the former Big Lots: now NNN rent with TI increased to $400K over VBox delivery. Separately, Dutch Bros/Ethan Flynn showed interest in a Shelbyville outparcel concept; Ethan indicated roughly 0.4 acre could work, BTS/someone fee-develops is preferred, GL with high TIA is the alternative/reverse BTS, and rent tolerance is about $150K.",
+      "status": "Paul Gold followed up asking whether Jacob has made any sense of the Bealls/Five Below demise and requested an update he can share with them. This reopens the Shelbyville former Big Lots Bealls/Five Below economics/posture question after Jacob said he would rerun the pro forma with 2026 NNNs and adjacent tenant economics.",
       "stage": "Trading Terms",
-      "nextStep": "Review Bealls updated term sheet and call Paul Gold if needed; separately set up a call with Ethan in the next couple weeks and dig into required TI / reverse BTS economics.",
+      "nextStep": "Jacob needs to send Paul a status update on whether Bealls/Five Below still makes sense, or give a realistic pro forma/redevelopment timing answer.",
       "priority": "high",
       "contacts": [
         "Paul Gold (Echo Retail)",
@@ -49919,9 +49914,15 @@
         "Ethan Flynn (Dutch Bros)",
         "Micah Lacher",
         "Josh Koone (Kimley-Horn)",
-        "Clay Richardson (Anchor)"
+        "Clay Richardson (Anchor)",
+        "Paul Gold (ECHO Retail)"
       ],
       "timeline": [
+        {
+          "date": "2026-07-10",
+          "event": "Paul Gold followed up for an update on the Bealls/Five Below Shelbyville deal posture.",
+          "type": "email"
+        },
         {
           "date": "2026-07-10",
           "event": "Email from Jacob Delk: Shelbyville, IN",
