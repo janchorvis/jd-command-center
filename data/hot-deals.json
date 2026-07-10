@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T16:02:22.406009",
+  "lastUpdated": "2026-07-10T17:02:55.774572",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-10",
@@ -49904,9 +49904,9 @@
       "id": "bealls-shelbyville-former-big-lots",
       "name": "Bealls",
       "property": "Shelbyville former Big Lots",
-      "status": "Paul Gold followed up asking whether Jacob has made any sense of the Bealls/Five Below demise and requested an update he can share with them. This reopens the Shelbyville former Big Lots Bealls/Five Below economics/posture question after Jacob said he would rerun the pro forma with 2026 NNNs and adjacent tenant economics.",
+      "status": "Paul Gold followed up asking whether Jacob is making sense of the Bealls/Five Below demise and requested any update he can share with Bealls/Five Below. Prior context: revised Bealls term sheet moved to NNN rent and $400K TI over VBox delivery.",
       "stage": "Trading Terms",
-      "nextStep": "Jacob needs to send Paul a status update on whether Bealls/Five Below still makes sense, or give a realistic pro forma/redevelopment timing answer.",
+      "nextStep": "Jacob needs to update Paul on the Bealls/Five Below demise/pro forma posture or give him a timing note.",
       "priority": "high",
       "contacts": [
         "Paul Gold (Echo Retail)",
@@ -49941,6 +49941,11 @@
         {
           "date": "2026-07-10",
           "event": "Email from Adam Heston: Shelbyville, Indiana",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-10",
+          "event": "Paul Gold followed up for an update on the Bealls/Five Below demise so he can report back.",
           "type": "email"
         },
         {
