@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T07:15:59.436370",
+  "lastUpdated": "2026-07-10T08:02:45.704689",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-10",
@@ -45595,9 +45595,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton, OH / Dutch Bros outparcel",
-      "status": "Hamilton GMX/Dutch Bros closing remains live for 7/10 target / 7/13 outside date. Latest 2 PM triage: seller certificate of existence and certificate invoice were sent to title; Ashby asked First American when to expect a settlement statement because Seller needs a draft showing loose net proceeds before lender payoff can be obtained.",
+      "status": "Hamilton GMX/Dutch Bros closing remains live for the 7/10 target. Morning update: Ashby asked whether Melissa/Jacob had what they needed to obtain payoff and requested lender wiring instructions plus net proceeds to HCP; Melissa replied that she had sent the settlement statement to the lender to get payoff and answered yes on both.",
       "stage": "Lease Signed",
-      "nextStep": "Track settlement statement timing, seller payoff, investor/authority documents, final title/pro forma/survey cleanup, and closing execution package.",
+      "nextStep": "Track lender payoff, wiring/net proceeds, execution docs/signatures, and final authorization to close today.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -45623,7 +45623,9 @@
         "Melissa Eddy",
         "Michele Johnson (First American)",
         "John Kelly (First American)",
-        "Melissa Eddy (Anchor)"
+        "Melissa Eddy (Anchor)",
+        "First American",
+        "Bob McAuliff / Taft"
       ],
       "timeline": [
         {
@@ -45634,6 +45636,11 @@
         {
           "date": "2026-07-10",
           "event": "Email from Ashby Scott: FW: Hamilton, OH | REA Discussion",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-10",
+          "event": "Closing morning: Ashby requested payoff/wiring/net proceeds; Melissa confirmed statement sent to lender for payoff and that she had what was needed.",
           "type": "email"
         },
         {
