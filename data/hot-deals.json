@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T15:02:41.110436",
+  "lastUpdated": "2026-07-10T15:03:31.563356",
   "sourceDoc": "2026-06-29 - Leasing Meeting",
   "today": {
     "date": "2026-07-10",
@@ -46106,9 +46106,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton OH",
-      "status": "7/10 closing still moving: Melissa sent lender payoff/wire materials and asked Ashby/title how payoff/proceeds should be handled; Taft asked for Seller building SF to calculate proportionate share against buyer planned building SF of 986.",
+      "status": "Closing/title chain continued moving: Bob/Taft said buyer planned building SF is 986 for proportionate-share purposes, Ashby was advised Seller building SF is 79,896, and Melissa is still chasing the partial payoff letter for Monday closing.",
       "stage": "Lease Signed",
-      "nextStep": "Keep payoff/wire/title routing moving today and provide/confirm Seller building SF for proportionate-share calculation.",
+      "nextStep": "Keep payoff/closing document routing moving; watch for partial payoff letter and final title/settlement clearance before the July 13 outside closing date.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -48432,6 +48432,11 @@
           "date": "2026-04-29",
           "event": "Ashby sent additional green comments on title objection response and asked for Jacob's thoughts.",
           "type": "email"
+        },
+        {
+          "date": "2026-07-10",
+          "event": "Hamilton closing update: buyer planned building SF 986; Seller building SF 79,896; partial payoff letter may not arrive until Monday.",
+          "type": "email"
         }
       ],
       "actions": [],
@@ -49891,10 +49896,10 @@
     {
       "id": "bealls-shelbyville-former-big-lots",
       "name": "Bealls",
-      "property": "Shelbyville",
-      "status": "Kimley-Horn revised the Shelbyville test-fit proposal to Shelbyville Partners, LLC, and Jacob forwarded it to Clay for signature.",
+      "property": "Shelbyville former Big Lots",
+      "status": "Updated Bealls term sheet received for a portion of the former Big Lots: now NNN rent with TI increased to $400K over VBox delivery. Separately, Dutch Bros/Ethan Flynn showed interest in a Shelbyville outparcel concept; Ethan indicated roughly 0.4 acre could work, BTS/someone fee-develops is preferred, GL with high TIA is the alternative/reverse BTS, and rent tolerance is about $150K.",
       "stage": "Trading Terms",
-      "nextStep": "Wait for Clay signature / approval so Kimley-Horn can begin the test-fit work.",
+      "nextStep": "Review Bealls updated term sheet and call Paul Gold if needed; separately set up a call with Ethan in the next couple weeks and dig into required TI / reverse BTS economics.",
       "priority": "high",
       "contacts": [
         "Paul Gold (Echo Retail)",
@@ -49923,11 +49928,6 @@
         {
           "date": "2026-07-10",
           "event": "Email from Adam Heston: Shelbyville, Indiana",
-          "type": "email"
-        },
-        {
-          "date": "2026-07-10",
-          "event": "Josh Koone sent revised Kimley-Horn test-fit proposal; Jacob asked Clay to sign it.",
           "type": "email"
         },
         {
@@ -67303,9 +67303,9 @@
       "id": "shelbyville-ryan-jordan-former-big-lots",
       "name": "Ryan Jordan / Former Big Lots",
       "property": "Shelbyville former Big Lots",
-      "status": "Josh Koone / Kimley-Horn said he plans to send the Shelbyville test-fit proposal today or tomorrow morning and asked what other tenants/types of uses are considering the site. Clay agreed with Jacob using the Dutch Bros civil engineer/Kimley-Horn path after Jacob noted Micah wanted to use them; Jacob said he would pull the trigger if Clay agreed.",
+      "status": "Kimley-Horn revised the Shelbyville test-fit proposal to Shelbyville Partners, LLC, and Jacob forwarded it to Clay for signature.",
       "stage": "Contact Made",
-      "nextStep": "Jacob should pull the trigger/authorize the civil engineer for Shelbyville outparcel planning and decide how much tenant/use detail to share with Josh while keeping Micah/Clay aligned.",
+      "nextStep": "Wait for Clay signature / approval so Kimley-Horn can begin the test-fit work.",
       "priority": "high",
       "contacts": [
         "Ryan Jordan (AVID Real Estate Advisors)",
@@ -67741,6 +67741,11 @@
         {
           "date": "2026-06-02",
           "event": "Email from TiQuasia Jordan: TiQuasia Jordan favorited 2500 W Franklin Blvd",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-10",
+          "event": "Josh Koone sent revised Kimley-Horn test-fit proposal; Jacob asked Clay to sign it.",
           "type": "email"
         }
       ],
