@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T09:03:05.164028",
+  "lastUpdated": "2026-07-13T10:03:23.860632",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-13",
@@ -46320,9 +46320,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton OH",
-      "status": "Closing/title chain continued moving: Bob/Taft said buyer planned building SF is 986 for proportionate-share purposes, Ashby was advised Seller building SF is 79,896, and Melissa is still chasing the partial payoff letter for Monday closing.",
+      "status": "Hamilton / GMX Dutch Bros closing is moving today: First American has Seller's closing package, Katie Van Zuidam is assisting while Michele is out, and Ashby said closing is on track subject to plat recording. Ashby asked Bob/Taft for an update and tax-proration approval so figures can go onto the settlement statement.",
       "stage": "Lease Signed",
-      "nextStep": "Keep payoff/closing document routing moving; watch for partial payoff letter and final title/settlement clearance before the July 13 outside closing date.",
+      "nextStep": "Track same-day closing clearance: plat recording, Bob/Taft update, tax-proration approval, and final settlement statement/funding.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -46361,6 +46361,11 @@
         {
           "date": "2026-07-13",
           "event": "Email from Micah Lacher: Shelbyville",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Inbox: First American received Seller's closing package; Ashby said closing is on track subject to plat recording and requested Bob/Taft tax-proration approval for the settlement statement.",
           "type": "email"
         },
         {
@@ -71702,9 +71707,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "Adam followed up with a toured full-building automotive/user group, quoting $16/SF NNN as-is for the full 12,000 SF with 2026 NNNs of $4.60/SF, about $20,600/month year-one rent, explaining 60-day current-tenant notice timing and asking for TI budget, term/opening timing, PFS, and business financials.",
+      "status": "Adam relayed that Ross Hopkins, the Futbol Factory contact, texted for an update and said he has a national-credit auto-glass tenant interested in the back portion while the futbol concept could take the front.",
       "stage": "LOI",
-      "nextStep": "Wait for the group's TI/buildout estimate, term/opening posture, PFS, and business financials while Jacob/Adam continue weighing the full-building path against competing 312 Wilson Pike interests.",
+      "nextStep": "Jacob/Adam need to decide how to respond to Ross on a possible front/back split with national-credit auto glass in back and futbol use in front.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -71731,7 +71736,8 @@
         "Jacob Byron (FRWD Construction)",
         "Russell Martin (FRWD Construction)",
         "Rusty Whitten (CARR)",
-        "Adam Heston (Anchor)"
+        "Adam Heston (Anchor)",
+        "Ross Hopkins (Futbol Factory contact)"
       ],
       "timeline": [
         {
@@ -71743,6 +71749,11 @@
           "date": "2026-07-13",
           "event": "Email from Robert Richardson: Gatekeeper - Malone NY / Shirley NY",
           "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Slack: Adam said Ross Hopkins has a national-credit auto-glass tenant interested in the back of 312 Wilson Pike, with the futbol concept potentially taking the front.",
+          "type": "slack"
         },
         {
           "date": "2026-07-12",
