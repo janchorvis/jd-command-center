@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T07:16:20.023034",
+  "lastUpdated": "2026-07-13T08:02:46.482677",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-13",
@@ -42,9 +42,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below accepted the general facade intent but asked whether the proposed 22-foot elevation can go higher so Five Below is not dwarfed by other retailers. Shaun/C2 answered that the existing gable point is 23 feet 4 inches and the lower Big Lots parapet is 26 feet 7 inches, warning that increasing the parapet may stop blending aesthetically with the plaza and deferring final direction to Five Below/Clay.",
+      "status": "Robert Richardson / TJX asked Jacob and Clay to acknowledge/sign either the Malone site plan or PML for a cart containment system to keep carts from being littered throughout the parking lot.",
       "stage": "Lease Signed",
-      "nextStep": "Clay/Jacob need to choose a facade-height posture for Five Below, either hold 22 feet or explore a higher parapet, and keep cost/constructability aligned with ownership.",
+      "nextStep": "Coordinate with Clay and respond/sign the site plan or PML for TJX cart containment.",
       "priority": "high",
       "timeline": [
         {
@@ -60,6 +60,11 @@
         {
           "date": "2026-07-13",
           "event": "Email from Robert Richardson: Gatekeeper - Malone NY / Shirley NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Robert Richardson / TJX requested acknowledgment/signature on Malone site plan or PML for cart containment system.",
           "type": "email"
         },
         {
@@ -9932,14 +9937,19 @@
       "id": "shelbyville-anytime",
       "name": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
-      "status": "Cosmoprof followed up on Shelbyville - trying to buy time for better tenants",
+      "status": "Micah asked for current status on Shelbyville: Kimley-Horn civil/site-plan hire, price estimate, Dutch Bros LOI status, convenience-store outreach, and Indianapolis broker flyer.",
       "stage": "LOI",
-      "nextStep": "Push Cosmoprof with firm terms (no TI, state what we will/won't do) - take it or leave it approach",
-      "priority": "medium",
+      "nextStep": "Send Micah a Shelbyville status update covering engineering, Dutch Bros, C-store outreach, and flyer/broker outreach.",
+      "priority": "high",
       "timeline": [
         {
           "date": "2026-07-13",
           "event": "Email from Micah Lacher: Shelbyville",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Micah requested a Shelbyville status update on civil/site-plan, price estimate, Dutch Bros, C-store outreach, and flyer/broker outreach.",
           "type": "email"
         },
         {
@@ -10235,7 +10245,8 @@
       ],
       "contacts": [
         "Derek Tucker",
-        "Paul Gold (ECHO Retail)"
+        "Paul Gold (ECHO Retail)",
+        "Micah Lacher"
       ],
       "actions": [
         {
@@ -33107,10 +33118,10 @@
       "id": "mcminnville-plaza",
       "name": "",
       "property": "McMinnville Plaza",
-      "status": "Clay said Melissa may be good to join Jacob's Friday June 19 meeting with the Aldi contact so she can see it in person.",
+      "status": "Jen Annello / CBRE asked whether McMinnville Plaza has vacancy and requested rent guidance. Jacob needs to respond with availability/rent posture or route to Adam.",
       "stage": "LOI",
-      "nextStep": "Jacob should decide whether to include Melissa on the June 19 McMinnville/Aldi visit.",
-      "priority": "medium",
+      "nextStep": "Respond to Jen Annello with McMinnville vacancy and rent guidance.",
+      "priority": "high",
       "contacts": [
         "Joe Wesley (wesleyjoe829@gmail.com, 213-872-0190)",
         "Jon Petty (Southeast Venture)",
@@ -33125,7 +33136,8 @@
         "Rawn Turner (Valor Healthcare Real Estate & Facilities Program Director) - rawn.turner@valorhealthcare.com - 972.435.4808",
         "Rawn Turner / Valor Healthcare",
         "James Rainer (Newmark)",
-        "Clay Richardson"
+        "Clay Richardson",
+        "Jen Annello (CBRE)"
       ],
       "timeline": [
         {
@@ -33137,6 +33149,11 @@
           "date": "2026-07-13",
           "event": "Email from Kelsey Cornillie, Publisher: LA group announces Gulch restaurants, bars",
           "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Jen Annello / CBRE asked whether McMinnville Plaza has vacancy and requested rent guidance.",
+          "type": "lead"
         },
         {
           "date": "2026-07-12",
@@ -44633,9 +44650,9 @@
       "id": "gilded-spine-maple-row",
       "name": "Gilded Spine (Storybook Soirees LLC)",
       "property": "Maple Row",
-      "status": "Gilded Spine signed its DocuSign portion for the Maple Row lease after Jacob sent the final lease package.",
+      "status": "Micah asked Jacob for quick Gilded Spine deal highlights, including tenant investment in the suite, guarantee strength, and any folder link with deal information.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Track remaining DocuSign routing/countersignature, then move to post-execution NLC/opening checklist/portal setup once fully executed.",
+      "nextStep": "Send Micah Gilded Spine deal highlights or folder link.",
       "priority": "high",
       "contacts": [
         "Hillary Holmes – gildedspinebooks@gmail.com, (414) 607-2197",
@@ -44643,7 +44660,8 @@
         "Hillary Holmes / Gilded Spine",
         "Hillary Holmes",
         "Clay Richardson",
-        "Hillary Holmes (Gilded Spine / Storybook Soirees LLC)"
+        "Hillary Holmes (Gilded Spine / Storybook Soirees LLC)",
+        "Micah Lacher"
       ],
       "timeline": [
         {
@@ -44654,6 +44672,11 @@
         {
           "date": "2026-07-13",
           "event": "Email from Robert Richardson: Gatekeeper - Malone NY / Shirley NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Micah requested Gilded Spine deal highlights: suite investment, guarantee strength, and/or folder link.",
           "type": "email"
         },
         {
