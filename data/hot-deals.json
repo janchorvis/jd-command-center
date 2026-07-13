@@ -42,9 +42,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Robert Richardson / TJX asked Jacob and Clay to acknowledge/sign either the Malone site plan or PML for a cart containment system to keep carts from being littered throughout the parking lot.",
+      "status": "Five Below accepted the general facade intent but asked whether the proposed 22-foot elevation can go higher so Five Below is not dwarfed by other retailers. Shaun/C2 answered that the existing gable point is 23 feet 4 inches and the lower Big Lots parapet is 26 feet 7 inches, warning that increasing the parapet may stop blending aesthetically with the plaza and deferring final direction to Five Below/Clay.",
       "stage": "Lease Signed",
-      "nextStep": "Coordinate with Clay and respond/sign the site plan or PML for TJX cart containment.",
+      "nextStep": "Clay/Jacob need to choose a facade-height posture for Five Below, either hold 22 feet or explore a higher parapet, and keep cost/constructability aligned with ownership.",
       "priority": "high",
       "timeline": [
         {
@@ -60,11 +60,6 @@
         {
           "date": "2026-07-13",
           "event": "Email from Robert Richardson: Gatekeeper - Malone NY / Shirley NY",
-          "type": "email"
-        },
-        {
-          "date": "2026-07-13",
-          "event": "Robert Richardson / TJX requested acknowledgment/signature on Malone site plan or PML for cart containment system.",
           "type": "email"
         },
         {
@@ -9937,19 +9932,14 @@
       "id": "shelbyville-anytime",
       "name": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
-      "status": "Micah asked for current status on Shelbyville: Kimley-Horn civil/site-plan hire, price estimate, Dutch Bros LOI status, convenience-store outreach, and Indianapolis broker flyer.",
+      "status": "Cosmoprof followed up on Shelbyville - trying to buy time for better tenants",
       "stage": "LOI",
-      "nextStep": "Send Micah a Shelbyville status update covering engineering, Dutch Bros, C-store outreach, and flyer/broker outreach.",
-      "priority": "high",
+      "nextStep": "Push Cosmoprof with firm terms (no TI, state what we will/won't do) - take it or leave it approach",
+      "priority": "medium",
       "timeline": [
         {
           "date": "2026-07-13",
           "event": "Email from Micah Lacher: Shelbyville",
-          "type": "email"
-        },
-        {
-          "date": "2026-07-13",
-          "event": "Micah requested a Shelbyville status update on civil/site-plan, price estimate, Dutch Bros, C-store outreach, and flyer/broker outreach.",
           "type": "email"
         },
         {
@@ -10245,8 +10235,7 @@
       ],
       "contacts": [
         "Derek Tucker",
-        "Paul Gold (ECHO Retail)",
-        "Micah Lacher"
+        "Paul Gold (ECHO Retail)"
       ],
       "actions": [
         {
@@ -22746,12 +22735,17 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "Clay clarified Marshalls/TJX parking-lot ask with Robert: TJX is not asking for a brand-new lot, but wants potholes filled and spaces in front of Marshalls resealed and striped. Clay told Robert he would relay to ownership, get potholes moving, and work on sealing/striping quotes.",
+      "status": "Robert Richardson / TJX asked Jacob and Clay to acknowledge/sign either the Malone site plan or PML for a cart containment system to keep carts from being littered throughout the parking lot, adding to the active Marshalls/TJX parking-lot/site-condition follow-up.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Clay/Jacob/ownership need to confirm scope, Runnings/REA responsibility if applicable, and approve quote path for potholes plus reseal/stripe work in front of Marshalls.",
+      "nextStep": "Coordinate with Clay and respond/sign the site plan or PML for TJX cart containment while keeping the broader parking-lot condition plan moving.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-07-13",
+          "event": "Robert Richardson / TJX requested acknowledgment/signature on Malone site plan or PML for cart containment system.",
+          "type": "email"
+        },
         {
           "date": "2026-07-13",
           "event": "Email from Micah Lacher: Shelbyville",
@@ -67699,9 +67693,9 @@
       "id": "shelbyville-ryan-jordan-former-big-lots",
       "name": "Ryan Jordan / Former Big Lots",
       "property": "Shelbyville former Big Lots",
-      "status": "Kimley-Horn revised the Shelbyville test-fit proposal to Shelbyville Partners, LLC, and Jacob forwarded it to Clay for signature.",
+      "status": "Micah asked for current status on Shelbyville: Kimley-Horn civil/site-plan hire, price estimate, Dutch Bros LOI status, convenience-store outreach, and Indianapolis broker flyer.",
       "stage": "Contact Made",
-      "nextStep": "Wait for Clay signature / approval so Kimley-Horn can begin the test-fit work.",
+      "nextStep": "Send Micah a Shelbyville status update covering engineering, Dutch Bros, C-store outreach, and flyer/broker outreach.",
       "priority": "high",
       "contacts": [
         "Ryan Jordan (AVID Real Estate Advisors)",
@@ -67711,9 +67705,15 @@
         "Pat Boyle (Midland Atlantic Properties)",
         "Jordan Hooper (SRG Assets / Wash N Roll) - 615-925-0442 - jordan@srgassets.com",
         "Josh Koone (Kimley-Horn)",
-        "Clay Richardson"
+        "Clay Richardson",
+        "Micah Lacher"
       ],
       "timeline": [
+        {
+          "date": "2026-07-13",
+          "event": "Micah requested a Shelbyville status update on civil/site-plan, price estimate, Dutch Bros, C-store outreach, and flyer/broker outreach.",
+          "type": "email"
+        },
         {
           "date": "2026-07-13",
           "event": "Email from Micah Lacher: Shelbyville",
