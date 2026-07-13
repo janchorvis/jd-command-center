@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T16:02:46.606187",
+  "lastUpdated": "2026-07-13T17:03:33.177543",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-13",
@@ -35,7 +35,8 @@
       "Make flyer for mattresses listing (overdue — due 2026-03-23)",
       "PCON feedback: Jeffrey Shoopman (overdue — due 2026-06-19)",
       "PCON feedback: Jeffrey Shoopman (overdue — due 2026-06-19)",
-      "Confirm Hamilton GMX tax-proration treatment and keep closing moving today."
+      "Confirm Hamilton GMX tax-proration treatment and keep closing moving today.",
+      "Send Clay Pell City physical therapy HVAC tonnage/details so he can start quotes."
     ]
   },
   "pipelineDeals": [
@@ -53507,6 +53508,26 @@
         "suiteCount": 45,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "wilson-pike-parker-music-studio",
+      "name": "Parker G. / music studio",
+      "property": "312A Wilson Pike Circle",
+      "status": "Crexi inquiry from a music production company seeking 600-900 SF for audio mixing, songwriting, and vocal recording; asked for layout and all-in monthly lease cost.",
+      "stage": "Contact Made",
+      "nextStep": "Reply through Crexi asking for phone/email and offering layout/pricing details.",
+      "priority": "medium",
+      "contacts": [
+        "Parker G."
+      ],
+      "timeline": [
+        {
+          "date": "2026-07-13",
+          "event": "Crexi inquiry received for 312A Wilson Pike Circle.",
+          "type": "lead"
+        }
+      ],
+      "actions": []
     }
   ],
   "sideDeals": [
