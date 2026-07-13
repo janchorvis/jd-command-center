@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T15:06:11.739866",
+  "lastUpdated": "2026-07-13T16:02:46.606187",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-13",
@@ -14472,9 +14472,9 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "Jon Petty followed up on the UPS lease/addendum, saying peak-season holiday timing is critical and they are ready to get the lease signed. He offered to hop on a call if needed and asked whether Jacob wants to mark up the addendum.",
+      "status": "UPS broker Jon Petty said the addendum can be marked up but UPS is ready to get the lease signed; peak-season holiday timing is critical.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob needs to decide/send any final UPS addendum markup or approve moving to signature quickly so the tenant can hit holiday peak season.",
+      "nextStep": "Jacob needs to decide whether to mark up the UPS addendum or accept current path and move to signature quickly.",
       "priority": "high",
       "timeline": [
         {
@@ -14501,6 +14501,11 @@
           "date": "2026-07-13",
           "event": "Jon Petty said UPS is ready to get signed and holiday peak-season timing is critical; he offered a call if Jacob needs to discuss the addendum.",
           "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Email: Jon Petty said UPS is ready to sign and peak-season timing is critical; asked whether Jacob wants to mark up the addendum or discuss by call.",
+          "type": "task"
         },
         {
           "date": "2026-07-12",
@@ -46341,9 +46346,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton OH",
-      "status": "GMX/Hamilton closing remains hot on the July 13 outside date. First American flagged its wire board closing in 3 hours; Ashby said Seller cannot yet pay 2025 taxes because they are not due and offered either a tax-proration agreement or escrow for title to pay when due. Separately, Ashby forwarded the latest Hamilton REA/Dutch revisions and said he is annoyed by them but they seem acceptable in substance.",
+      "status": "Ashby reviewed Dutch's latest Hamilton REA revisions and said he is annoyed by them but they seem okay in essence; Micah replied that if Ashby is okay with them, Anchor is too.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Melissa/Ashby need to finalize tax-proration or escrow treatment, keep wire timing moving before First American's cutoff, and confirm acceptance posture on the latest REA/Dutch revisions.",
+      "nextStep": "Closing/REA path appears ready to proceed on the latest Dutch revisions unless Ashby raises a final issue.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -46404,6 +46409,11 @@
           "date": "2026-07-13",
           "event": "Ashby forwarded latest Hamilton REA/Dutch revisions and said they seemed acceptable in substance despite annoyance.",
           "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Email: Ashby said Dutch's latest Hamilton REA revisions seem okay; Micah told Ashby Anchor is okay if he is.",
+          "type": "update"
         },
         {
           "date": "2026-07-12",
@@ -56024,8 +56034,8 @@
       "name": "Buena Vista",
       "property": "2433 Buena Vista Pike",
       "type": "Land/Development",
-      "status": "Anthony Blout / Avanti Residential reached out about the 2433 Buena Vista Pike flyer after leaving Jacob a voicemail. Avanti is looking for BTR development sites in Nashville with a similar profile: 3-8 acre infill sites in close-in submarkets 15-20 minutes from the downtown job core. Anthony asked whether the flyer is recent / deal still active and wants to connect.",
-      "nextStep": "Jacob should decide whether to engage Anthony / Avanti as a BTR buyer or developer prospect and reply with status plus phone/email coordination.",
+      "status": "Anthony Blout with Avanti Residential reached out after finding the Buena Vista flyer; Avanti is looking for 3-8 acre infill BTR development sites in Nashville submarkets 15-20 minutes from downtown and wants to connect if the deal is still active.",
+      "nextStep": "Jacob needs to decide whether to engage Avanti on Buena Vista BTR interest and share current availability/pricing posture.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
@@ -56037,7 +56047,7 @@
         "Sanjay P. (Crexi prospect)",
         "Anthony Blout (Avanti Residential)"
       ],
-      "priority": "high",
+      "priority": "medium",
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
@@ -56053,6 +56063,11 @@
         {
           "date": "2026-07-13",
           "event": "Anthony Blout / Avanti Residential asked whether 2433 Buena Vista Pike is still active for a 3-8 acre BTR development site profile and said he left Jacob a voicemail.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Email: Anthony Blout / Avanti Residential asked whether Buena Vista is still active for a 3-8 acre infill BTR development site search.",
           "type": "lead"
         },
         {
@@ -58284,7 +58299,9 @@
           "label": "Send Julie Robbins follow-up",
           "type": "email"
         }
-      ]
+      ],
+      "stage": "Contact Made",
+      "stageOverride": "Contact Made"
     },
     {
       "id": "emerson-hall",
@@ -71774,10 +71791,10 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312A Wilson Pike Circle",
-      "status": "Parker G. submitted a Crexi inquiry for 312A Wilson Pike Circle. His company specializes in music production and wants a studio for audio mixing, songwriting, and a professional vocal booth. Ideal size is 600-900 SF; he asked how the space is divided and for all-in monthly lease cost including CAM/additional charges.",
+      "status": "Crexi lead Parker G. asked about 312A Wilson Pike for a music production studio with vocal booth/audio mixing/songwriting use, ideal 600-900 SF, and requested space layout plus all-in monthly cost including CAM/additional charges.",
       "stage": "LOI",
-      "nextStep": "Jacob should reply through Crexi with layout/pricing guidance if available, confirm fit for music-studio use, and capture Parker's phone/email. Suggested reply posted in Discord; no draft created and no message sent.",
-      "priority": "medium",
+      "nextStep": "Jacob needs to follow up through Crexi/contact path with layout/pricing posture and ask for phone/email.",
+      "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
         "Micah Lacher",
@@ -71837,6 +71854,11 @@
         {
           "date": "2026-07-13",
           "event": "Parker G. requested Crexi info on 312A Wilson Pike for a 600-900 SF music production studio and asked for layout plus all-in monthly cost.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Crexi: Parker G. requested 312A Wilson Pike info for music production studio, 600-900 SF, layout, and all-in monthly cost.",
           "type": "lead"
         },
         {
@@ -73794,18 +73816,24 @@
       "id": "maple-row-nothing-but-noodles",
       "name": "Nothing But Noodles",
       "property": "Maple Row / Hendersonville Nutrition",
-      "status": "Girish Kumar / Flavors of India followed up asking whether to start discussions on Hendersonville Nutrition. Prior thread includes his Nothing But Noodles franchise interest and Jacob's question about mirroring the existing lease term.",
-      "stage": "Contact Made",
-      "nextStep": "Jacob should restart expansion discussion with Girish/Nick, confirm whether they want to mirror the existing lease term, and set a call if needed.",
-      "priority": "medium",
+      "status": "Flavors of India / Girish followed up asking to start discussion on Hendersonville Nutrition after Jacob previously suggested discussing an expansion and whether to mirror the existing lease term.",
+      "stage": "Trading Terms",
+      "nextStep": "Jacob needs to start/coordinate expansion discussion for Hendersonville Nutrition / Nothing But Noodles.",
+      "priority": "high",
       "contacts": [
-        "Girish Kumar / Flavors of India <flavorsofindiatn@gmail.com>"
+        "Girish Kumar / Flavors of India <flavorsofindiatn@gmail.com>",
+        "Girish Kumar (Flavors of India / Nothing But Noodles)"
       ],
       "timeline": [
         {
           "date": "2026-07-13",
           "event": "Girish Kumar / Flavors of India asked to start the Hendersonville Nutrition expansion discussion.",
           "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Email: Girish / Flavors of India asked to start the Hendersonville Nutrition expansion discussion.",
+          "type": "lead"
         },
         {
           "date": "2026-07-12",
@@ -74334,7 +74362,8 @@
         "avgSqFt": 5206,
         "suiteCount": 11,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Trading Terms"
     },
     {
       "id": "heather-paul-dixie-village-loopnet",
