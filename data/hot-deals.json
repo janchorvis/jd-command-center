@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T15:04:07.997851",
+  "lastUpdated": "2026-07-13T15:06:11.739866",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-13",
@@ -14472,9 +14472,9 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "UPS Store / McMinnville: Jon Petty sent a light lease markup and the missing addendum on 2026-06-24, saying the addendum can be filled out and signed as a final step.",
+      "status": "Jon Petty followed up on the UPS lease/addendum, saying peak-season holiday timing is critical and they are ready to get the lease signed. He offered to hop on a call if needed and asked whether Jacob wants to mark up the addendum.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob needs to review the UPS lease markup/addendum and coordinate response/final addendum completion.",
+      "nextStep": "Jacob needs to decide/send any final UPS addendum markup or approve moving to signature quickly so the tenant can hit holiday peak season.",
       "priority": "high",
       "timeline": [
         {
@@ -14495,6 +14495,11 @@
         {
           "date": "2026-07-13",
           "event": "Email from Kelsey Cornillie, Publisher: LA group announces Gulch restaurants, bars",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Jon Petty said UPS is ready to get signed and holiday peak-season timing is critical; he offered a call if Jacob needs to discuss the addendum.",
           "type": "email"
         },
         {
@@ -56019,8 +56024,8 @@
       "name": "Buena Vista",
       "property": "2433 Buena Vista Pike",
       "type": "Land/Development",
-      "status": "Crexi activity from Sanjay P. on 2433 Buena Vista Pike: clicked phone number; outbound follow-up recommended to capture contact info/use if Jacob wants to pursue.",
-      "nextStep": "Jacob to decide whether to follow up with Sanjay P. via Crexi/contact path; suggested reply posted in Discord.",
+      "status": "Anthony Blout / Avanti Residential reached out about the 2433 Buena Vista Pike flyer after leaving Jacob a voicemail. Avanti is looking for BTR development sites in Nashville with a similar profile: 3-8 acre infill sites in close-in submarkets 15-20 minutes from the downtown job core. Anthony asked whether the flyer is recent / deal still active and wants to connect.",
+      "nextStep": "Jacob should decide whether to engage Anthony / Avanti as a BTR buyer or developer prospect and reply with status plus phone/email coordination.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
@@ -56029,7 +56034,8 @@
         "Moda Homes / Moda Vista",
         "Forman Capital",
         "Heather Devermann (EXIT Real Estate Solutions, heather@exitrealestatesolutions.com, 630-853-7674)",
-        "Sanjay P. (Crexi prospect)"
+        "Sanjay P. (Crexi prospect)",
+        "Anthony Blout (Avanti Residential)"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-11",
@@ -56043,6 +56049,11 @@
           "date": "2026-07-13",
           "event": "Email from Micah Lacher: Shelbyville",
           "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Anthony Blout / Avanti Residential asked whether 2433 Buena Vista Pike is still active for a 3-8 acre BTR development site profile and said he left Jacob a voicemail.",
+          "type": "lead"
         },
         {
           "date": "2026-07-10",
@@ -71762,11 +71773,11 @@
     {
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
-      "property": "312 Wilson Pike",
-      "status": "Parker Greenwood / Parker G. submitted a Crexi inquiry for 312A Wilson Pike Circle. His company needs a 600-900 SF music production studio for audio mixing, songwriting, and vocal recording; he asked how the space is divided, all-in monthly cost including CAM/fees, whether the use is permitted, and said they would tour if it fits.",
+      "property": "312A Wilson Pike Circle",
+      "status": "Parker G. submitted a Crexi inquiry for 312A Wilson Pike Circle. His company specializes in music production and wants a studio for audio mixing, songwriting, and a professional vocal booth. Ideal size is 600-900 SF; he asked how the space is divided and for all-in monthly lease cost including CAM/additional charges.",
       "stage": "LOI",
-      "nextStep": "Reply in Crexi with division/pricing/use guidance if available and ask for Parkers best phone number and email.",
-      "priority": "high",
+      "nextStep": "Jacob should reply through Crexi with layout/pricing guidance if available, confirm fit for music-studio use, and capture Parker's phone/email. Suggested reply posted in Discord; no draft created and no message sent.",
+      "priority": "medium",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
         "Micah Lacher",
@@ -71821,6 +71832,11 @@
         {
           "date": "2026-07-13",
           "event": "Parker Greenwood / Parker G. submitted Crexi inquiry for 312A Wilson Pike: 600-900 SF music production studio, asked layout, all-in cost, use permission, and tour path.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Parker G. requested Crexi info on 312A Wilson Pike for a 600-900 SF music production studio and asked for layout plus all-in monthly cost.",
           "type": "lead"
         },
         {
@@ -73777,15 +73793,20 @@
     {
       "id": "maple-row-nothing-but-noodles",
       "name": "Nothing But Noodles",
-      "property": "Maple Row / Art Studio suite",
-      "status": "Girish Kumar / Flavors of India said he has a Nothing But Noodles franchise concept for the Art Studio suite and asked what business is taking Fox Pizza.",
+      "property": "Maple Row / Hendersonville Nutrition",
+      "status": "Girish Kumar / Flavors of India followed up asking whether to start discussions on Hendersonville Nutrition. Prior thread includes his Nothing But Noodles franchise interest and Jacob's question about mirroring the existing lease term.",
       "stage": "Contact Made",
-      "nextStep": "Jacob to review Gmail draft and decide how much to disclose about Fox Pizza and whether to pursue Nothing But Noodles for Art Studio.",
+      "nextStep": "Jacob should restart expansion discussion with Girish/Nick, confirm whether they want to mirror the existing lease term, and set a call if needed.",
       "priority": "medium",
       "contacts": [
         "Girish Kumar / Flavors of India <flavorsofindiatn@gmail.com>"
       ],
       "timeline": [
+        {
+          "date": "2026-07-13",
+          "event": "Girish Kumar / Flavors of India asked to start the Hendersonville Nutrition expansion discussion.",
+          "type": "email"
+        },
         {
           "date": "2026-07-12",
           "event": "Email from Nathan Frigge: Dev Committee Meetings",
