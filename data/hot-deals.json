@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T12:03:33.969977",
+  "lastUpdated": "2026-07-13T13:03:12.234512",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-13",
@@ -34,7 +34,8 @@
       "Follow up with Nicole Dautovic / Chase after ICSC (overdue — due 2026-06-08)",
       "Make flyer for mattresses listing (overdue — due 2026-03-23)",
       "PCON feedback: Jeffrey Shoopman (overdue — due 2026-06-19)",
-      "PCON feedback: Jeffrey Shoopman (overdue — due 2026-06-19)"
+      "PCON feedback: Jeffrey Shoopman (overdue — due 2026-06-19)",
+      "Confirm Hamilton GMX tax-proration treatment and keep closing moving today."
     ]
   },
   "pipelineDeals": [
@@ -46335,9 +46336,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton OH",
-      "status": "Hamilton / GMX Dutch Bros closing is moving today: First American has Seller's closing package, Katie Van Zuidam is assisting while Michele is out, and Ashby said closing is on track subject to plat recording. Ashby asked Bob/Taft for an update and tax-proration approval so figures can go onto the settlement statement.",
+      "status": "GMX/Hamilton closing chain remains active on closing deadline day. First American revised the title proforma because the 2nd half 2025 tax payment is not being paid through closing; Bob asked seller team how to handle it, Ashby suggested reverse proration with buyer share credited to seller, and Bob responded that the PSA contemplates accrual proration so the bill to prorate would be the 2026 bills.",
       "stage": "Lease Signed",
-      "nextStep": "Track same-day closing clearance: plat recording, Bob/Taft update, tax-proration approval, and final settlement statement/funding.",
+      "nextStep": "Seller team/Jacob need to confirm tax-proration treatment so the Hamilton outparcel closing can proceed today.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -46381,6 +46382,11 @@
         {
           "date": "2026-07-13",
           "event": "Inbox: First American received Seller's closing package; Ashby said closing is on track subject to plat recording and requested Bob/Taft tax-proration approval for the settlement statement.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Closing-day Hamilton GMX tax-proration issue surfaced: 2H 2025 tax not paid through closing; Ashby suggested reverse proration, Bob pointed to PSA accrual proration/2026 bills.",
           "type": "email"
         },
         {
@@ -71746,9 +71752,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "Parker G. submitted a Crexi inquiry for 312A Wilson Pike Circle: music production company looking for 600-900 SF studio space for audio mixing, songwriting, and vocal recording; asked how the space is divided and for all-in monthly lease cost including CAM/additional charges.",
+      "status": "Parker Greenwood / Parker G. submitted a Crexi inquiry for 312A Wilson Pike Circle. His company needs a 600-900 SF music production studio for audio mixing, songwriting, and vocal recording; he asked how the space is divided, all-in monthly cost including CAM/fees, whether the use is permitted, and said they would tour if it fits.",
       "stage": "LOI",
-      "nextStep": "Jacob should manually respond through Crexi with layout/pricing guidance and ask for phone/email; no Gmail draft or external reply was created.",
+      "nextStep": "Reply in Crexi with division/pricing/use guidance if available and ask for Parkers best phone number and email.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -71777,7 +71783,8 @@
         "Rusty Whitten (CARR)",
         "Adam Heston (Anchor)",
         "Ross Hopkins (Futbol Factory contact)",
-        "Parker G. (Crexi lead)"
+        "Parker G. (Crexi lead)",
+        "Parker Greenwood / Parker G. (Crexi lead; music production studio)"
       ],
       "timeline": [
         {
@@ -71798,6 +71805,11 @@
         {
           "date": "2026-07-13",
           "event": "Crexi lead from Parker G. for music production studio at 312A Wilson Pike Circle; needs layout/pricing reply.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Parker Greenwood / Parker G. submitted Crexi inquiry for 312A Wilson Pike: 600-900 SF music production studio, asked layout, all-in cost, use permission, and tour path.",
           "type": "lead"
         },
         {
