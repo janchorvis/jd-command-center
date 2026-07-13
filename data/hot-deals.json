@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T11:04:09.424129",
+  "lastUpdated": "2026-07-13T12:03:33.969977",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-13",
@@ -22735,10 +22735,10 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "Robert Richardson / TJX asked Clay and Jacob to acknowledge or sign the Malone site plan or PML for a cart containment system to keep carts out of the parking lot.",
+      "status": "TJX/Gatekeeper asked Clay and Jacob to acknowledge/sign either the site plan or PML for a cart-containment system at Marshalls; after Clay asked about location, Gatekeeper clarified the loop will only be at the entrance sidewalk, not in the parking lot.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Clay/Jacob need to review the cart containment site plan/PML and acknowledge or sign if acceptable.",
+      "nextStep": "Jacob/Clay need to decide whether to approve/sign the site plan or PML for the cart-containment loop.",
       "priority": "high",
       "timeline": [
         {
@@ -22764,6 +22764,11 @@
         {
           "date": "2026-07-13",
           "event": "Robert Richardson / TJX requested acknowledgement/signature for Malone cart containment site plan or PML.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "TJX/Gatekeeper clarified Marshalls cart-containment loop is entrance-sidewalk only; approval/signature requested.",
           "type": "email"
         },
         {
@@ -53194,15 +53199,20 @@
       "id": "pell-city-803-martin-compassus",
       "name": "Compassus",
       "property": "Pell City / 807 Martin St S",
-      "status": "David Cooke replied after Jacob shared the ~$100/SF buildout quote and suggested a call with tenant construction team; David left Jacob a message and asked him to call when convenient.",
+      "status": "Jacob told Clay the physical-therapy deal could get executed this week and raised the need to dust off the quote for sealing the left-side space and getting HVAC/utilities ready; Clay replied asking whether the landlord work is just demising wall, utilities, and HVAC.",
       "stage": "Trading Terms",
-      "nextStep": "Jacob should call David Cooke to discuss Compassus/Pell City buildout economics and construction-team call path.",
+      "nextStep": "Jacob needs to answer Clay's scope question so delivery planning can move if the deal executes.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar CRE)",
         "David Cooke (Cooke Commercial)"
       ],
       "timeline": [
+        {
+          "date": "2026-07-13",
+          "event": "Clay asked Jacob to confirm LL work scope for likely Pell City physical-therapy execution: demising wall, utilities, and HVAC.",
+          "type": "slack"
+        },
         {
           "date": "2026-07-10",
           "event": "Email from Jim Rodrigues, SIOR | Lis Norton | David Bailey: FOR SALE | 9918 Sam Donald",
@@ -67713,10 +67723,10 @@
       "id": "shelbyville-ryan-jordan-former-big-lots",
       "name": "Ryan Jordan / Former Big Lots",
       "property": "Shelbyville Big Lots",
-      "status": "Wash N Roll followed up after Jacob's outreach and sent tenant criteria for hard-corner/signalized/outlot sites with 20,000+ VPD. Adam also noted Ross Hopkins has a national credit auto-glass repair tenant interested in the back of the Shelbyville site, with Ross's futbol concept potentially in front.",
+      "status": "Jordan Hooper / Wash N Roll followed up after the initial conversation and sent their tenant criteria: traffic-driven 20,000+ VPD, hard corners/signalized intersections/outlots, car-wash friendly sites, room for stacking/turning movements, good ingress/egress/visibility, strong retail co-tenancy, and sites in growth corridors.",
       "stage": "Contact Made",
-      "nextStep": "Jacob/Adam need to decide whether Shelbyville can fit Wash N Roll, the auto-glass tenant, and/or Ross Hopkins's futbol concept, then respond with site constraints and next-step posture.",
-      "priority": "high",
+      "nextStep": "Jacob should decide whether Shelbyville or another Anchor site fits the Wash N Roll criteria and send a quick acknowledgment/next-step reply.",
+      "priority": "medium",
       "contacts": [
         "Ryan Jordan (AVID Real Estate Advisors)",
         "Adam Rude (City of Shelbyville)",
@@ -67729,7 +67739,8 @@
         "Micah Lacher",
         "Jordan Hooper (Wash N Roll)",
         "Adam Heston",
-        "Ross Hopkins"
+        "Ross Hopkins",
+        "Jordan Hooper (Wash N Roll / SRG Assets)"
       ],
       "timeline": [
         {
@@ -67756,6 +67767,11 @@
           "date": "2026-07-13",
           "event": "Adam flagged Ross Hopkins's national credit auto-glass tenant for the back of Shelbyville, with futbol concept possibly in front.",
           "type": "slack"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Wash N Roll sent site criteria after Shelbyville Big Lots outreach.",
+          "type": "email"
         },
         {
           "date": "2026-07-12",
@@ -71730,9 +71746,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "Adam relayed that Ross Hopkins, the Futbol Factory contact, texted for an update and said he has a national-credit auto-glass tenant interested in the back portion while the futbol concept could take the front.",
+      "status": "Parker G. submitted a Crexi inquiry for 312A Wilson Pike Circle: music production company looking for 600-900 SF studio space for audio mixing, songwriting, and vocal recording; asked how the space is divided and for all-in monthly lease cost including CAM/additional charges.",
       "stage": "LOI",
-      "nextStep": "Jacob/Adam need to decide how to respond to Ross on a possible front/back split with national-credit auto glass in back and futbol use in front.",
+      "nextStep": "Jacob should manually respond through Crexi with layout/pricing guidance and ask for phone/email; no Gmail draft or external reply was created.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -71760,7 +71776,8 @@
         "Russell Martin (FRWD Construction)",
         "Rusty Whitten (CARR)",
         "Adam Heston (Anchor)",
-        "Ross Hopkins (Futbol Factory contact)"
+        "Ross Hopkins (Futbol Factory contact)",
+        "Parker G. (Crexi lead)"
       ],
       "timeline": [
         {
@@ -71777,6 +71794,11 @@
           "date": "2026-07-13",
           "event": "Slack: Adam said Ross Hopkins has a national-credit auto-glass tenant interested in the back of 312 Wilson Pike, with the futbol concept potentially taking the front.",
           "type": "slack"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Crexi lead from Parker G. for music production studio at 312A Wilson Pike Circle; needs layout/pricing reply.",
+          "type": "lead"
         },
         {
           "date": "2026-07-12",
@@ -76380,9 +76402,9 @@
       "id": "pea-ridge-rea-valley-health-parcels",
       "name": "Pea Ridge REA / Valley Health parcels",
       "property": "Pea Ridge",
-      "status": "Ashby reviewed Danny's survey/descriptions for Valley Health and said they look good, but raised confusion around the survey's six or more signs versus the REA common sign and said some signs may need to be addressed in the REA or with the carwash user.",
+      "status": "Ashby reviewed Danny's survey/descriptions and said they look good, but is confused about signage because the survey shows six or more signs; he asked Micah whether Sign 1 is Anchor's sign and whether some signs need to be addressed in the REA or with the carwash party.",
       "stage": "Lease Signed",
-      "nextStep": "Micah/Jacob need to clarify Pea Ridge sign ownership/control and decide what sign language belongs in the Valley Health REA or carwash discussion.",
+      "nextStep": "Micah/Jacob need to resolve Pea Ridge sign ownership/REA treatment if Jacob is looped into Valley Health parcel work.",
       "priority": "medium",
       "contacts": [
         "Micah Lacher",
@@ -76398,6 +76420,11 @@
         {
           "date": "2026-07-13",
           "event": "Ashby raised Pea Ridge Valley Health survey sign issues for REA/carwash handling.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Ashby raised Pea Ridge survey/signage questions for Valley Health REA cleanup.",
           "type": "email"
         },
         {
