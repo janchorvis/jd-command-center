@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T10:03:23.860632",
+  "lastUpdated": "2026-07-13T11:04:09.424129",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-13",
@@ -22735,10 +22735,10 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "Robert Richardson / TJX asked Clay and Jacob to acknowledge/sign either the site plan or PML for a cart containment system at Malone to prevent carts being scattered through the parking lot.",
+      "status": "Robert Richardson / TJX asked Clay and Jacob to acknowledge or sign the Malone site plan or PML for a cart containment system to keep carts out of the parking lot.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Clay/Jacob need to review and sign/acknowledge the site plan or PML for Marshalls cart containment.",
+      "nextStep": "Clay/Jacob need to review the cart containment site plan/PML and acknowledge or sign if acceptable.",
       "priority": "high",
       "timeline": [
         {
@@ -22759,6 +22759,11 @@
         {
           "date": "2026-07-13",
           "event": "Robert Richardson / TJX asked for site plan or PML acknowledgement/signature for a Malone cart containment system.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Robert Richardson / TJX requested acknowledgement/signature for Malone cart containment site plan or PML.",
           "type": "email"
         },
         {
@@ -33117,9 +33122,9 @@
       "id": "mcminnville-plaza",
       "name": "",
       "property": "McMinnville Plaza",
-      "status": "Jen Annello / CBRE asked whether McMinnville Plaza has vacancy and requested rent guidance. Jacob needs to respond with availability/rent posture or route to Adam.",
+      "status": "Jen Annello / CBRE asked whether Anchor has vacancy at 1100 Smithville Hwy in McMinnville and requested rent guidance.",
       "stage": "LOI",
-      "nextStep": "Respond to Jen Annello with McMinnville vacancy and rent guidance.",
+      "nextStep": "Jacob needs to respond with current vacancy and rent guidance for McMinnville.",
       "priority": "high",
       "contacts": [
         "Joe Wesley (wesleyjoe829@gmail.com, 213-872-0190)",
@@ -33152,6 +33157,11 @@
         {
           "date": "2026-07-13",
           "event": "Jen Annello / CBRE asked whether McMinnville Plaza has vacancy and requested rent guidance.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Jen Annello / CBRE asked for McMinnville vacancy and rent guidance.",
           "type": "lead"
         },
         {
@@ -67702,10 +67712,10 @@
     {
       "id": "shelbyville-ryan-jordan-former-big-lots",
       "name": "Ryan Jordan / Former Big Lots",
-      "property": "Shelbyville former Big Lots",
-      "status": "Micah asked for current status on Shelbyville: Kimley-Horn civil/site-plan hire, price estimate, Dutch Bros LOI status, convenience-store outreach, and Indianapolis broker flyer.",
+      "property": "Shelbyville Big Lots",
+      "status": "Wash N Roll followed up after Jacob's outreach and sent tenant criteria for hard-corner/signalized/outlot sites with 20,000+ VPD. Adam also noted Ross Hopkins has a national credit auto-glass repair tenant interested in the back of the Shelbyville site, with Ross's futbol concept potentially in front.",
       "stage": "Contact Made",
-      "nextStep": "Send Micah a Shelbyville status update covering engineering, Dutch Bros, C-store outreach, and flyer/broker outreach.",
+      "nextStep": "Jacob/Adam need to decide whether Shelbyville can fit Wash N Roll, the auto-glass tenant, and/or Ross Hopkins's futbol concept, then respond with site constraints and next-step posture.",
       "priority": "high",
       "contacts": [
         "Ryan Jordan (AVID Real Estate Advisors)",
@@ -67716,7 +67726,10 @@
         "Jordan Hooper (SRG Assets / Wash N Roll) - 615-925-0442 - jordan@srgassets.com",
         "Josh Koone (Kimley-Horn)",
         "Clay Richardson",
-        "Micah Lacher"
+        "Micah Lacher",
+        "Jordan Hooper (Wash N Roll)",
+        "Adam Heston",
+        "Ross Hopkins"
       ],
       "timeline": [
         {
@@ -67733,6 +67746,16 @@
           "date": "2026-07-13",
           "event": "Email from Robert Richardson: Gatekeeper - Malone NY / Shirley NY",
           "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Wash N Roll sent Shelbyville tenant criteria after initial conversation.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Adam flagged Ross Hopkins's national credit auto-glass tenant for the back of Shelbyville, with futbol concept possibly in front.",
+          "type": "slack"
         },
         {
           "date": "2026-07-12",
@@ -76356,10 +76379,10 @@
     {
       "id": "pea-ridge-rea-valley-health-parcels",
       "name": "Pea Ridge REA / Valley Health parcels",
-      "property": "Pea Ridge Shopping Center",
-      "status": "Ashby sent revised Pea Ridge REA and needs parcel square footages plus shopping-center tenant exclusive-use language to finish reciprocal parcel exclusives before sending to Valley Health.",
+      "property": "Pea Ridge",
+      "status": "Ashby reviewed Danny's survey/descriptions for Valley Health and said they look good, but raised confusion around the survey's six or more signs versus the REA common sign and said some signs may need to be addressed in the REA or with the carwash user.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Mel/Adam to pull Pea Ridge tenant square footages and exclusive-use clauses for the shopping-center leases; avoid relying on the DOCX in main session.",
+      "nextStep": "Micah/Jacob need to clarify Pea Ridge sign ownership/control and decide what sign language belongs in the Valley Health REA or carwash discussion.",
       "priority": "medium",
       "contacts": [
         "Micah Lacher",
@@ -76370,6 +76393,11 @@
         {
           "date": "2026-07-13",
           "event": "Email from Micah Lacher: Shelbyville",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Ashby raised Pea Ridge Valley Health survey sign issues for REA/carwash handling.",
           "type": "email"
         },
         {
