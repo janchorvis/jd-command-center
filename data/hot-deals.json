@@ -1,54 +1,29 @@
 {
-  "lastUpdated": "2026-07-10T17:02:55.774572",
-  "sourceDoc": "2026-06-29 - Leasing Meeting",
+  "lastUpdated": "2026-07-13T07:15:38.755843",
+  "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
-    "date": "2026-07-10",
-    "greeting": "Good afternoon, Jacob. You have 19 overdue items.",
+    "date": "2026-07-13",
+    "greeting": "Good morning, Jacob. You have 19 overdue items.",
     "meetings": [
       {
-        "time": "12:00 AM",
-        "title": "Weekly Report Due: See Notes",
+        "time": "6:00 AM",
+        "title": "Bible Study",
         "dealContext": null
       },
       {
-        "time": "12:00 AM",
-        "title": "Hamilton Outparcel Targeted Closing Date (7/13 is final day per PSA)",
-        "dealContext": "Stage: Lease Signed | Mike Seliga / CBRE asked whether the 1,978 SF suite is still available for Fleet… | Next: Jacob needs to review/send response to Mike Seliga and decide whether to copy Adam."
-      },
-      {
-        "time": "12:00 AM",
-        "title": "Weekly Report Due: See Notes",
+        "time": "8:30 AM",
+        "title": "Monday Morning Meeting",
         "dealContext": null
       },
       {
-        "time": "7:15 AM",
-        "title": "Lint roller. Sound machine. Hats. Adam venmo.",
-        "dealContext": null
+        "time": "10:30 AM",
+        "title": "Leasing Meeting",
+        "dealContext": "83 active deals. 3 advanced this week (QT Nails→Lease sent for signature, Coaches Bargainz→Tenant welcome email sent, HopeSmiles). Top deals: Five Below (Lease Signed), Shoe Dept (Lease Signed), UPS Store Franchisee (Lease Signed). 395 contacts tracked."
       },
       {
-        "time": "8:45 AM",
-        "title": "Leasing Morning Standup",
-        "dealContext": null
-      },
-      {
-        "time": "9:00 AM",
-        "title": "Shout - Outs",
-        "dealContext": null
-      },
-      {
-        "time": "9:30 AM",
-        "title": "930 Prayer for Anchor ",
-        "dealContext": null
-      },
-      {
-        "time": "12:00 PM",
-        "title": "Weekly Report - Fill out by 12 on Fridays",
-        "dealContext": null
-      },
-      {
-        "time": "3:45 PM",
-        "title": "Commissions (Anchor + Delk)",
-        "dealContext": null
+        "time": "2:00 PM",
+        "title": "Department Overview: Melissa x Adam (Tentative)",
+        "dealContext": "Stage: Lease Signed | Keystone's Sevierville / Forks of the River permit was denied at the city level,… | Next: Jacob should decide whether to request Keystone's formal permit-denial letter for Sevierville and confirm whether any lease/billing cleanup is needed for the cancelled site."
       }
     ],
     "priorities": [
@@ -80154,7 +80129,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-07-10T15:00:58",
+    "generatedAt": "2026-07-13T07:15:38",
     "source": "active-tasks",
     "yourPlate": [
       {
@@ -81498,7 +81473,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-07-10T15:00:58",
+    "generatedAt": "2026-07-13T07:15:38",
     "source": "active-tasks",
     "items": [
       {

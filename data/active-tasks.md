@@ -1,8 +1,8 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-07-10 11:00 AM CDT
+Last updated: 2026-07-10 6:00 PM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T278 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T279 -->
 
 ## ACTIVE — Jacob needs to do these
 
@@ -359,6 +359,7 @@ Note: WATCHING items should be removed once real movement comes in. Gastonia lau
 - Leasing Associate hire — Adam accepted offer; 5/11 meeting says Adam likely full-time Nashville next week / June 1 formal start still likely. Initial plan: Adam uses old intern room, interns float in conference room; Jacob prepares first-week task list and onboarding cadence; Robbie invoice + Melissa onboarding intro + Gusto setup are historical setup items. [updated 5/11 Plaud]
 
 ## Setup Backlog
+- T278: Command Center Full Sync push rejection reconciliation — 2026-07-10 07:15 full-sync pipeline ran, but push was rejected because remote `main` had newer commits. Local sync commits exist with unrelated uncommitted files noted by the cron. Reconcile safely by inspecting local/remote diffs and preserving user/generated changes; do not overwrite/reset. [source: SESSION_HANDOFF 2026-07-10 17:31; self-review 2026-07-10 18:00] [system: Command Center]
 - T099: Replace Fyxer AI ($30-50/mo) with Gmail push notifications + follow up on Claude — install gcloud CLI, set up Google Pub/Sub topic + push subscription pointing at webhook relay (https://foster-macmini.tail8e2988.ts.net/relay/webhooks/gmail), call gmail.users.watch(). Once live, Communication Triage becomes real-time and Fyxer can be cancelled. Also claim Anthropic credit at claude.ai/settings/usage and resolve Claude follow-up/auth/credit issue needed for Plaud cron + fallback models. [source: Claude Code session 4/8; brain dump 4/23]
 - Google Places API key → add to .env
 - SSH + Tailscale → remote access to Mac Mini
