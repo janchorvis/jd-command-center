@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T10:03:23.860632",
+  "lastUpdated": "2026-07-13T11:03:20.567469",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-13",
@@ -42,9 +42,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below accepted the general facade intent but asked whether the proposed 22-foot elevation can go higher so Five Below is not dwarfed by other retailers. Shaun/C2 answered that the existing gable point is 23 feet 4 inches and the lower Big Lots parapet is 26 feet 7 inches, warning that increasing the parapet may stop blending aesthetically with the plaza and deferring final direction to Five Below/Clay.",
+      "status": "Robert Richardson / TJX asked Clay and Jacob to acknowledge or sign the Malone site plan or PML for a cart containment system to keep carts out of the parking lot.",
       "stage": "Lease Signed",
-      "nextStep": "Clay/Jacob need to choose a facade-height posture for Five Below, either hold 22 feet or explore a higher parapet, and keep cost/constructability aligned with ownership.",
+      "nextStep": "Clay/Jacob need to review the cart containment site plan/PML and acknowledge or sign if acceptable.",
       "priority": "high",
       "timeline": [
         {
@@ -60,6 +60,11 @@
         {
           "date": "2026-07-13",
           "event": "Email from Robert Richardson: Gatekeeper - Malone NY / Shirley NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Robert Richardson / TJX requested acknowledgement/signature for Malone cart containment site plan or PML.",
           "type": "email"
         },
         {
@@ -9931,16 +9936,26 @@
     {
       "id": "shelbyville-anytime",
       "name": "Anytime Fitness (Derek Tucker)",
-      "property": "Shelbyville",
-      "status": "Cosmoprof followed up on Shelbyville - trying to buy time for better tenants",
+      "property": "Shelbyville Big Lots",
+      "status": "Wash N Roll followed up after Jacob's outreach and sent tenant criteria for hard-corner/signalized/outlot sites with 20,000+ VPD. Adam also noted Ross Hopkins has a national credit auto-glass repair tenant interested in the back of the Shelbyville site, with Ross's futbol concept potentially in front.",
       "stage": "LOI",
-      "nextStep": "Push Cosmoprof with firm terms (no TI, state what we will/won't do) - take it or leave it approach",
-      "priority": "medium",
+      "nextStep": "Jacob/Adam need to decide whether Shelbyville can fit Wash N Roll, the auto-glass tenant, and/or Ross Hopkins's futbol concept, then respond with site constraints and next-step posture.",
+      "priority": "high",
       "timeline": [
         {
           "date": "2026-07-13",
           "event": "Email from Micah Lacher: Shelbyville",
           "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Wash N Roll sent Shelbyville tenant criteria after initial conversation.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Adam flagged Ross Hopkins's national credit auto-glass tenant for the back of Shelbyville, with futbol concept possibly in front.",
+          "type": "slack"
         },
         {
           "date": "2026-07-10",
@@ -10235,7 +10250,10 @@
       ],
       "contacts": [
         "Derek Tucker",
-        "Paul Gold (ECHO Retail)"
+        "Paul Gold (ECHO Retail)",
+        "Jordan Hooper (Wash N Roll)",
+        "Adam Heston",
+        "Ross Hopkins"
       ],
       "actions": [
         {
@@ -33117,9 +33135,9 @@
       "id": "mcminnville-plaza",
       "name": "",
       "property": "McMinnville Plaza",
-      "status": "Jen Annello / CBRE asked whether McMinnville Plaza has vacancy and requested rent guidance. Jacob needs to respond with availability/rent posture or route to Adam.",
+      "status": "Jen Annello / CBRE asked whether Anchor has vacancy at 1100 Smithville Hwy in McMinnville and requested rent guidance.",
       "stage": "LOI",
-      "nextStep": "Respond to Jen Annello with McMinnville vacancy and rent guidance.",
+      "nextStep": "Jacob needs to respond with current vacancy and rent guidance for McMinnville.",
       "priority": "high",
       "contacts": [
         "Joe Wesley (wesleyjoe829@gmail.com, 213-872-0190)",
@@ -33152,6 +33170,11 @@
         {
           "date": "2026-07-13",
           "event": "Jen Annello / CBRE asked whether McMinnville Plaza has vacancy and requested rent guidance.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Jen Annello / CBRE asked for McMinnville vacancy and rent guidance.",
           "type": "lead"
         },
         {
@@ -67159,16 +67182,23 @@
     {
       "id": "pea-ridge-omar-hidais",
       "name": "Omar Hidais",
-      "property": "Pea Ridge Shopping Center",
-      "status": "Omar Hidais, a multi-state tobacco/vape operator and landlord, asked what spaces are available and what the asking rent is after Jacob asked about locations/first store.",
-      "stage": "Contact Made",
-      "nextStep": "Jacob to review current Pea Ridge availability and asking rent, then reply to Omar.",
+      "property": "Pea Ridge",
+      "status": "Ashby reviewed Danny's survey/descriptions for Valley Health and said they look good, but raised confusion around the survey's six or more signs versus the REA common sign and said some signs may need to be addressed in the REA or with the carwash user.",
+      "stage": "Lease Draft & Review",
+      "nextStep": "Micah/Jacob need to clarify Pea Ridge sign ownership/control and decide what sign language belongs in the Valley Health REA or carwash discussion.",
       "priority": "medium",
       "contacts": [
         "Omar Hidais",
-        "Omar Hidais (tobacco/vape operator, ohidais23@gmail.com)"
+        "Omar Hidais (tobacco/vape operator, ohidais23@gmail.com)",
+        "Ashby Scott",
+        "Micah Lacher"
       ],
       "timeline": [
+        {
+          "date": "2026-07-13",
+          "event": "Ashby raised Pea Ridge Valley Health survey sign issues for REA/carwash handling.",
+          "type": "email"
+        },
         {
           "date": "2026-07-10",
           "event": "Email from Gilded Spine: Leasing space in Maple Row Shopping Center",
@@ -67616,7 +67646,8 @@
         "avgSqFt": 6117,
         "suiteCount": 14,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Lease Draft & Review"
     },
     {
       "id": "russellville-factory-connection-justin-rains",
