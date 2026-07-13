@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T08:02:46.482677",
+  "lastUpdated": "2026-07-13T09:03:05.164028",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-13",
@@ -22735,10 +22735,10 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "Robert Richardson / TJX asked Jacob and Clay to acknowledge/sign either the Malone site plan or PML for a cart containment system to keep carts from being littered throughout the parking lot, adding to the active Marshalls/TJX parking-lot/site-condition follow-up.",
+      "status": "Robert Richardson / TJX asked Clay and Jacob to acknowledge/sign either the site plan or PML for a cart containment system at Malone to prevent carts being scattered through the parking lot.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Coordinate with Clay and respond/sign the site plan or PML for TJX cart containment while keeping the broader parking-lot condition plan moving.",
+      "nextStep": "Clay/Jacob need to review and sign/acknowledge the site plan or PML for Marshalls cart containment.",
       "priority": "high",
       "timeline": [
         {
@@ -22754,6 +22754,11 @@
         {
           "date": "2026-07-13",
           "event": "Email from Robert Richardson: Gatekeeper - Malone NY / Shirley NY",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Robert Richardson / TJX asked for site plan or PML acknowledgement/signature for a Malone cart containment system.",
           "type": "email"
         },
         {
