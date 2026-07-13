@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T07:15:48.071246",
+  "lastUpdated": "2026-07-13T07:16:20.023034",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-13",
@@ -80372,195 +80372,195 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/10, Pipedrive not updated since 3/19",
+      "message": "Last email 7/13, Pipedrive not updated since 3/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-10",
+        "lastEmailDate": "2026-07-13",
         "lastPipedriveDate": "2025-03-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 478
+        "pipedriveDaysAgo": 481
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/10, Pipedrive not updated since 1/28",
+      "message": "Last email 7/13, Pipedrive not updated since 1/28",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-10",
+        "lastEmailDate": "2026-07-13",
         "lastPipedriveDate": "2026-01-28",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 163
+        "pipedriveDaysAgo": 166
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/10, Pipedrive not updated since 2/19",
+      "message": "Last email 7/13, Pipedrive not updated since 2/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-10",
+        "lastEmailDate": "2026-07-13",
         "lastPipedriveDate": "2026-02-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 141
+        "pipedriveDaysAgo": 144
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/10, Pipedrive not updated since 1/28",
+      "message": "Last email 7/13, Pipedrive not updated since 1/28",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-10",
+        "lastEmailDate": "2026-07-13",
         "lastPipedriveDate": "2026-01-28",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 163
+        "pipedriveDaysAgo": 166
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/10, Pipedrive not updated since 2/23",
+      "message": "Last email 7/13, Pipedrive not updated since 2/23",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-10",
+        "lastEmailDate": "2026-07-13",
         "lastPipedriveDate": "2026-02-23",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 137
+        "pipedriveDaysAgo": 140
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/10, Pipedrive not updated since 3/19",
+      "message": "Last email 7/13, Pipedrive not updated since 3/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-10",
+        "lastEmailDate": "2026-07-13",
         "lastPipedriveDate": "2025-03-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 478
+        "pipedriveDaysAgo": 481
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/10, Pipedrive not updated since 3/24",
+      "message": "Last email 7/13, Pipedrive not updated since 3/24",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-10",
+        "lastEmailDate": "2026-07-13",
         "lastPipedriveDate": "2025-03-24",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 473
+        "pipedriveDaysAgo": 476
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/10, Pipedrive not updated since 8/26",
+      "message": "Last email 7/13, Pipedrive not updated since 8/26",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-10",
+        "lastEmailDate": "2026-07-13",
         "lastPipedriveDate": "2025-08-26",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 318
+        "pipedriveDaysAgo": 321
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/10, Pipedrive not updated since 3/25",
+      "message": "Last email 7/13, Pipedrive not updated since 3/25",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-10",
+        "lastEmailDate": "2026-07-13",
         "lastPipedriveDate": "2025-03-25",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 472
+        "pipedriveDaysAgo": 475
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/10, Pipedrive not updated since 3/26",
+      "message": "Last email 7/13, Pipedrive not updated since 3/26",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-10",
+        "lastEmailDate": "2026-07-13",
         "lastPipedriveDate": "2025-03-26",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 471
+        "pipedriveDaysAgo": 474
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/10, Pipedrive not updated since 8/2",
+      "message": "Last email 7/13, Pipedrive not updated since 8/2",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-10",
+        "lastEmailDate": "2026-07-13",
         "lastPipedriveDate": "2025-08-02",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 342
+        "pipedriveDaysAgo": 345
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/10, Pipedrive not updated since 11/4",
+      "message": "Last email 7/13, Pipedrive not updated since 11/4",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-10",
+        "lastEmailDate": "2026-07-13",
         "lastPipedriveDate": "2025-11-04",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 248
+        "pipedriveDaysAgo": 251
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/10, Pipedrive not updated since 2/19",
+      "message": "Last email 7/13, Pipedrive not updated since 2/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-10",
+        "lastEmailDate": "2026-07-13",
         "lastPipedriveDate": "2026-02-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 141
+        "pipedriveDaysAgo": 144
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/10, Pipedrive not updated since 3/24",
+      "message": "Last email 7/13, Pipedrive not updated since 3/24",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-10",
+        "lastEmailDate": "2026-07-13",
         "lastPipedriveDate": "2026-03-24",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 108
+        "pipedriveDaysAgo": 111
       }
     },
     {
       "deal": "CosmoProf",
       "property": "River Parkway Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/10, Pipedrive not updated since 2/19",
+      "message": "Last email 7/13, Pipedrive not updated since 2/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-10",
+        "lastEmailDate": "2026-07-13",
         "lastPipedriveDate": "2026-02-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 141
+        "pipedriveDaysAgo": 144
       }
     },
     {
@@ -80572,47 +80572,47 @@
       "details": {
         "lastEmailDate": "2026-07-10",
         "lastPipedriveDate": "2026-01-05",
-        "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 186
+        "emailDaysAgo": 3,
+        "pipedriveDaysAgo": 189
       }
     },
     {
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/10, Pipedrive not updated since 3/26",
+      "message": "Last email 7/13, Pipedrive not updated since 3/26",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-10",
+        "lastEmailDate": "2026-07-13",
         "lastPipedriveDate": "2025-03-26",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 471
+        "pipedriveDaysAgo": 474
       }
     },
     {
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/10, Pipedrive not updated since 5/4",
+      "message": "Last email 7/13, Pipedrive not updated since 5/4",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-10",
+        "lastEmailDate": "2026-07-13",
         "lastPipedriveDate": "2026-05-04",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 67
+        "pipedriveDaysAgo": 70
       }
     },
     {
       "deal": "Gilded Spine (Storybook Soirees LLC)",
       "property": "Maple Row",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/10, Pipedrive not updated since 3/30",
+      "message": "Last email 7/13, Pipedrive not updated since 3/30",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-10",
+        "lastEmailDate": "2026-07-13",
         "lastPipedriveDate": "2026-03-30",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 102
+        "pipedriveDaysAgo": 105
       }
     },
     {
@@ -80624,21 +80624,21 @@
       "details": {
         "lastEmailDate": "2026-07-10",
         "lastPipedriveDate": "2024-08-16",
-        "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 693
+        "emailDaysAgo": 3,
+        "pipedriveDaysAgo": 696
       }
     },
     {
       "deal": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/10, Pipedrive not updated since 3/24",
+      "message": "Last email 7/13, Pipedrive not updated since 3/24",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-10",
+        "lastEmailDate": "2026-07-13",
         "lastPipedriveDate": "2026-03-24",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 108
+        "pipedriveDaysAgo": 111
       }
     },
     {
@@ -80650,8 +80650,8 @@
       "details": {
         "lastEmailDate": "2026-07-08",
         "lastPipedriveDate": "2026-04-27",
-        "emailDaysAgo": 2,
-        "pipedriveDaysAgo": 74
+        "emailDaysAgo": 5,
+        "pipedriveDaysAgo": 77
       }
     }
   ],
