@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T10:03:46.068217",
+  "lastUpdated": "2026-07-14T10:04:13.039651",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-14",
@@ -14756,9 +14756,9 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "Jon Petty provided Matt Taylor's email (mattjtaylor81@gmail.com) and asked Jacob to send final copies; Jon noted it may be easier to keep the UPS addendum separate so it can be forwarded to UPS Corporate for signature.",
+      "status": "Jon Petty provided Matt Taylor's email and asked Jacob to send final copies, preferably with the UPS addendum separate so it can be forwarded to UPS Corporate for signature.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob needs to compile/send the UPS execution copy and separate addendum to Amy/Matt/Jon.",
+      "nextStep": "Jacob to compile/circulate execution copies for Amy and Matt, keeping the UPS addendum separate if practical.",
       "priority": "high",
       "timeline": [
         {
@@ -14804,6 +14804,11 @@
         {
           "date": "2026-07-14",
           "event": "Jon Petty sent Matt Taylor's email and requested final UPS Store lease/addendum copies.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "Jon Petty supplied Matt Taylor's email and final-copy instructions for UPS Store McMinnville execution package.",
           "type": "email"
         },
         {
@@ -20123,7 +20128,8 @@
         "Micah Lacher (Anchor)",
         "Jacob Delk (Anchor)",
         "Matt Taylor (UPS franchisee) <mattjtaylor81@gmail.com>",
-        "Matt Taylor (UPS Store prospect)"
+        "Matt Taylor (UPS Store prospect)",
+        "Matt Taylor <mattjtaylor81@gmail.com>"
       ],
       "actions": [
         {
@@ -28157,9 +28163,9 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Tom Fidler forwarded Upstream/Ashley Chester's final lease-position note: Tenant is OK with Landlord's Section 4.A language; on Section 18, Upstream will remain liable for Permitted Transfers, but for non-Permitted Transfers wants liability limited to the then-current term plus notice/right to cure and consent rights for material lease modifications. Tom asked Jacob if this is OK.",
+      "status": "Tom Fidler forwarded Upstream/Ashley Chester's final lease-language response: Section 4.A landlord language is acceptable; for Section 18, Upstream will remain liable for Permitted Transfers, and for non-Permitted Transfers will agree to liability for the then-current term if they receive notice/right to cure and consent rights for material lease modifications.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob needs to approve/counter the Section 18 transfer liability carve-out so the Pell City PT lease can move to execution.",
+      "nextStep": "Jacob needs to approve or revise the final assignment/liability language so Tom/Ashley can wrap the Pell City lease.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
@@ -28208,6 +28214,11 @@
         {
           "date": "2026-07-14",
           "event": "Tom Fidler asked Jacob to approve Upstream's final Section 18 transfer-liability position.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "Tom Fidler asked Jacob to approve Upstream's final Section 18 assignment/liability compromise.",
           "type": "email"
         },
         {
@@ -47278,9 +47289,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton",
-      "status": "Micah asked Bob McAuliff whether the GMX/Hamilton Community Partners closing is tracking to close today after yesterday's contract deadline passed; Bob's prior settlement-statement comments included consolidated invoice lines and GMX fee/reimbursement/equity entries.",
+      "status": "Hamilton/GMX closing did not finish before the July 13 contract deadline. First American's wire board closed July 13; Bob sent remaining settlement-statement comments that night; Micah asked Bob on July 14 whether the parties are tracking to close today.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Micah need to monitor title/settlement response and keep today's closing from slipping after the missed deadline.",
+      "nextStep": "Track today's close push and watch for Bob/First American response confirming closing timing after the missed July 13 deadline.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -47325,6 +47336,11 @@
         {
           "date": "2026-07-14",
           "event": "Micah asked Taft if Hamilton closing is on track for today after the contract deadline passed.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "Micah asked Bob if Hamilton/GMX is tracking to close today after the July 13 contract deadline passed.",
           "type": "email"
         },
         {
