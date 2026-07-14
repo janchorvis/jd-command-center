@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T14:02:31.010634",
+  "lastUpdated": "2026-07-14T16:02:34.741442",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-14",
@@ -14756,9 +14756,9 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "Jon Petty provided Matt Taylor's email and asked Jacob to send final copies, preferably with the UPS addendum separate so it can be forwarded to UPS Corporate for signature.",
+      "status": "Jon Petty provided Matt Taylor's email and asked Jacob to send final lease copies, noting it may be easier to keep the UPS addendum separate so it can be forwarded to UPS Corporate for signature.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob to compile/circulate execution copies for Amy and Matt, keeping the UPS addendum separate if practical.",
+      "nextStep": "Compile/send UPS final lease copies for McMinnville Plaza, with addendum separate if useful for UPS Corporate signature.",
       "priority": "high",
       "timeline": [
         {
@@ -14809,6 +14809,11 @@
         {
           "date": "2026-07-14",
           "event": "Jon Petty supplied Matt Taylor's email and final-copy instructions for UPS Store McMinnville execution package.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "Jon Petty sent Matt Taylor's email and requested final UPS lease copies; suggested separate addendum for UPS Corporate signature.",
           "type": "email"
         },
         {
@@ -20129,7 +20134,8 @@
         "Jacob Delk (Anchor)",
         "Matt Taylor (UPS franchisee) <mattjtaylor81@gmail.com>",
         "Matt Taylor (UPS Store prospect)",
-        "Matt Taylor <mattjtaylor81@gmail.com>"
+        "Matt Taylor <mattjtaylor81@gmail.com>",
+        "Matt Taylor (UPS franchisee)"
       ],
       "actions": [
         {
@@ -41484,14 +41490,19 @@
     {
       "id": "shelbyville-cosmoprof",
       "tenant": "Cosmoprof",
-      "property": "River Parkway Plaza - Sevierville",
-      "status": "CosmoProf site survey is scheduled: Insight Surveys' technician Matthew Hansen will be onsite Thursday 6/18/26 at 10 AM, treating it as an insurance survey and going directly to the Mattress store.",
-      "nextStep": "No Jacob action unless access fails; Mathison confirmed any open day from 11-5 works and Jacob spoke with James Kovanis.",
+      "property": "River Parkway Plaza",
+      "status": "Kevin Trujillo forwarded CosmoProf's final LOI package dated 7/14/26 and asked Jacob for an updated site plan plus an existing aerial if available. Jacob needs to provide the site plan/aerial or confirm BSM should create the aerial for the package.",
+      "nextStep": "Send Kevin the updated site plan and any available aerial for CosmoProf's final LOI package.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-07-14",
           "event": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "Kevin Trujillo sent CosmoProf final LOI and requested updated site plan/aerial for River Parkway Plaza package.",
           "type": "email"
         },
         {
@@ -41836,8 +41847,12 @@
       },
       "contacts": [
         "James Kovanis (Insight Surveys)",
-        "Matthew Hansen (Insight Surveys technician)"
-      ]
+        "Matthew Hansen (Insight Surveys technician)",
+        "Kevin Trujillo (Baker Storey McDonald)",
+        "Braydon Griffith (Sally Beauty/CosmoProf)"
+      ],
+      "stage": "LOI",
+      "stageOverride": "LOI"
     },
     {
       "id": "pell-city-jeffersons",
@@ -53036,10 +53051,10 @@
       "id": "montgomery-martial-arts-virginia-college",
       "name": "Montgomery Martial Arts",
       "property": "Virginia College Plaza",
-      "status": "Adam forwarded a landlord-reference correction for Bill Bowtwell/Montgomery Martial Arts: David said the summary was good with one change, the original lease date was 4/1/14 and the tenancy has run 12 years.",
-      "stage": "Obtain Financials",
-      "nextStep": "Jacob needs to fold the corrected 12-year reference into the Montgomery Martial Arts credit/posture decision.",
-      "priority": "medium",
+      "status": "Watkins Johnston said Montgomery Martial Arts is moving forward on another smaller unit that is about $1,000/month cheaper. Treat this lead as likely lost unless the other unit falls through.",
+      "stage": "Trading Terms",
+      "nextStep": "No response needed unless Watkins reopens; mark Montgomery Martial Arts/Virginia College as likely lost.",
+      "priority": "low",
       "contacts": [
         "Watkins Johnston IV (MCRMPM)",
         "Montgomery Martial Arts",
@@ -53084,6 +53099,11 @@
         {
           "date": "2026-07-14",
           "event": "Adam forwarded corrected Montgomery Martial Arts reference history: original lease 4/1/14, 12 years.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "Watkins Johnston said Montgomery Martial Arts is moving forward on a smaller, cheaper unit elsewhere.",
           "type": "email"
         },
         {
@@ -53967,7 +53987,7 @@
         "suiteCount": 19,
         "vacantCount": 0
       },
-      "stageOverride": "Obtain Financials"
+      "stageOverride": "Trading Terms"
     },
     {
       "id": "mcminnville-regional-transit",
@@ -73590,10 +73610,10 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312A Wilson Pike Circle",
-      "status": "Ben Dotye / Stream Realty asked whether 312 Wilson Pike is still available, whether any buildings are conditioned, and whether there are roll-up doors. He is working with a smart-home tech company looking for 3,500-5,000 SF in the area.",
+      "status": "Parker Greenwood / Parker G. submitted a Crexi inquiry for a music production studio use needing 600-900 SF for audio mixing, songwriting, and vocal recording. He asked how the space is divided, all-in monthly lease cost including CAM/fees, whether the use is permitted, and said he would like a tour if it fits.",
       "stage": "LOI",
-      "nextStep": "Jacob needs to decide how to answer Ben's availability/building-condition questions while preserving the current full-building versus partial-user posture across Wilson Pike prospects.",
-      "priority": "high",
+      "nextStep": "Jacob should decide whether 600-900 SF music studio use fits Wilson Pike and, if so, respond through Crexi with layout/pricing/use guidance and request phone/email.",
+      "priority": "medium",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
         "Micah Lacher",
@@ -73623,7 +73643,8 @@
         "Ross Hopkins (Futbol Factory contact)",
         "Parker G. (Crexi lead)",
         "Parker Greenwood / Parker G. (Crexi lead; music production studio)",
-        "Ben Dotye (Stream Realty)"
+        "Ben Dotye (Stream Realty)",
+        "Parker Greenwood / Parker G."
       ],
       "timeline": [
         {
@@ -73634,6 +73655,11 @@
         {
           "date": "2026-07-14",
           "event": "Ben Dotye / Stream Realty asked about availability, conditioned space, roll-up doors, and 3,500-5,000 SF fit for a smart-home tech company.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "Parker Greenwood submitted Crexi inquiry for 600-900 SF music production studio use at 312A Wilson Pike Circle.",
           "type": "lead"
         },
         {
