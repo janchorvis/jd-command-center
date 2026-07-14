@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T09:04:10.048147",
+  "lastUpdated": "2026-07-14T09:04:44.174653",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-14",
@@ -14756,9 +14756,9 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "Jon Petty provided Matt Taylor email (mattjtaylor81@gmail.com) and asked Jacob to send final copies, noting the UPS addendum may be easier as a separate instrument for UPS Corporate signature.",
+      "status": "Jon Petty provided Matt Taylor's email (mattjtaylor81@gmail.com) and asked Jacob to send final copies; Jon noted it may be easier to keep the UPS addendum separate so it can be forwarded to UPS Corporate for signature.",
       "stage": "Lease Signed",
-      "nextStep": "Compile/circulate final UPS Store execution copies; consider sending the addendum separately for UPS Corporate signature.",
+      "nextStep": "Jacob needs to compile/send the UPS execution copy and separate addendum to Amy/Matt/Jon.",
       "priority": "high",
       "timeline": [
         {
@@ -14799,6 +14799,11 @@
         {
           "date": "2026-07-14",
           "event": "Jon Petty sent Matt Taylor email and requested final lease/addendum copies for UPS execution.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "Jon Petty sent Matt Taylor's email and requested final UPS Store lease/addendum copies.",
           "type": "email"
         },
         {
@@ -20117,7 +20122,8 @@
         "Jon Petty (UPS broker/contact)",
         "Micah Lacher (Anchor)",
         "Jacob Delk (Anchor)",
-        "Matt Taylor (UPS franchisee) <mattjtaylor81@gmail.com>"
+        "Matt Taylor (UPS franchisee) <mattjtaylor81@gmail.com>",
+        "Matt Taylor (UPS Store prospect)"
       ],
       "actions": [
         {
@@ -28151,9 +28157,9 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Drayer PT / Upstream lease redline was sent back by Jacob on 7/9; Tom Fidler replied that there were no issues from the GC walkthrough.",
+      "status": "Tom Fidler forwarded Upstream/Ashley Chester's final lease-position note: Tenant is OK with Landlord's Section 4.A language; on Section 18, Upstream will remain liable for Permitted Transfers, but for non-Permitted Transfers wants liability limited to the then-current term plus notice/right to cure and consent rights for material lease modifications. Tom asked Jacob if this is OK.",
       "stage": "Lease Signed",
-      "nextStep": "Wait for tenant/broker review of the landlord redline; be ready to answer comments or move toward final lease.",
+      "nextStep": "Jacob needs to approve/counter the Section 18 transfer liability carve-out so the Pell City PT lease can move to execution.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
@@ -28175,7 +28181,8 @@
         "Brent Braden (Upstream Rehabilitation)",
         "Davis Coleman (Corco Construction)",
         "Tom Fidler (MacKenzie Commercial)",
-        "Tom Fidler (MacKenzie Commercial / Drayer PT)"
+        "Tom Fidler (MacKenzie Commercial / Drayer PT)",
+        "Ashley Chester (Upstream Rehabilitation)"
       ],
       "timeline": [
         {
@@ -28196,6 +28203,11 @@
         {
           "date": "2026-07-14",
           "event": "Email from Kelsey Cornillie, Publisher: Starbucks gives to Nashville nonprofits",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "Tom Fidler asked Jacob to approve Upstream's final Section 18 transfer-liability position.",
           "type": "email"
         },
         {
@@ -47265,10 +47277,10 @@
     {
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
-      "property": "Hamilton OH",
-      "status": "Ashby reviewed Dutch's latest Hamilton REA revisions and said he is annoyed by them but they seem okay in essence; Micah replied that if Ashby is okay with them, Anchor is too.",
+      "property": "Hamilton",
+      "status": "Micah asked Bob McAuliff whether the GMX/Hamilton Community Partners closing is tracking to close today after yesterday's contract deadline passed; Bob's prior settlement-statement comments included consolidated invoice lines and GMX fee/reimbursement/equity entries.",
       "stage": "Lease Signed",
-      "nextStep": "Closing/REA path appears ready to proceed on the latest Dutch revisions unless Ashby raises a final issue.",
+      "nextStep": "Jacob/Micah need to monitor title/settlement response and keep today's closing from slipping after the missed deadline.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -47308,6 +47320,11 @@
         {
           "date": "2026-07-14",
           "event": "Email from Hank Davis: Absolute NNN | Investment Grade Tenant First Mid Bank | Jackson County Seat | Il",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "Micah asked Taft if Hamilton closing is on track for today after the contract deadline passed.",
           "type": "email"
         },
         {
