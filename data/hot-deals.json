@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T16:02:34.741442",
+  "lastUpdated": "2026-07-14T17:04:11.796166",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-14",
@@ -53051,10 +53051,10 @@
       "id": "montgomery-martial-arts-virginia-college",
       "name": "Montgomery Martial Arts",
       "property": "Virginia College Plaza",
-      "status": "Watkins Johnston said Montgomery Martial Arts is moving forward on another smaller unit that is about $1,000/month cheaper. Treat this lead as likely lost unless the other unit falls through.",
+      "status": "Watkins Johnston said Montgomery Martial Arts is moving forward on a smaller, roughly $1,000/month cheaper unit elsewhere; he will let Jacob know if it falls through.",
       "stage": "Trading Terms",
-      "nextStep": "No response needed unless Watkins reopens; mark Montgomery Martial Arts/Virginia College as likely lost.",
-      "priority": "low",
+      "nextStep": "No immediate Jacob action unless Watkins reopens the prospect.",
+      "priority": "medium",
       "contacts": [
         "Watkins Johnston IV (MCRMPM)",
         "Montgomery Martial Arts",
@@ -53063,7 +53063,8 @@
         "Watkins Johnston IV (McWhirter Realty Partners)",
         "William Boutwell / Montgomery Martial Arts",
         "Adam Heston",
-        "David H. (landlord reference)"
+        "David H. (landlord reference)",
+        "Watkins Johnston IV (MCR)"
       ],
       "timeline": [
         {
@@ -53104,6 +53105,11 @@
         {
           "date": "2026-07-14",
           "event": "Watkins Johnston said Montgomery Martial Arts is moving forward on a smaller, cheaper unit elsewhere.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "Montgomery Martial Arts passed for a smaller cheaper unit elsewhere.",
           "type": "email"
         },
         {
@@ -54757,9 +54763,9 @@
       "id": "river-parkway-cosmoprof",
       "name": "CosmoProf",
       "property": "River Parkway Plaza",
-      "status": "CosmoProf lease/LOI path moved: Kevin Trujillo sent tenant clean and redline LOI updates dated 7/6/26 after completing the survey, noting only a few minor tweaks.",
+      "status": "Kevin Trujillo forwarded CosmoProf updated LOI dated 7/14/26 and asked Jacob for an updated site plan or aerial.",
       "stage": "LOI",
-      "nextStep": "Review the updated clean/redline LOI and respond to Kevin/BSM with questions or acceptance posture.",
+      "nextStep": "Review updated LOI and provide updated site plan/aerial to Kevin/CosmoProf.",
       "priority": "high",
       "contacts": [
         "Kevin Trujillo (Baker Storey McDonald Properties)",
@@ -54769,6 +54775,11 @@
         {
           "date": "2026-07-14",
           "event": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "Kevin Trujillo forwarded CosmoProf updated LOI and requested updated site plan/aerial.",
           "type": "email"
         },
         {
