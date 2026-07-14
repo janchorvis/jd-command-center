@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T13:02:20.677711",
+  "lastUpdated": "2026-07-14T14:02:31.010634",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-14",
@@ -73590,9 +73590,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312A Wilson Pike Circle",
-      "status": "Crexi lead Parker G. asked about 312A Wilson Pike for a music production studio with vocal booth/audio mixing/songwriting use, ideal 600-900 SF, and requested space layout plus all-in monthly cost including CAM/additional charges.",
+      "status": "Ben Dotye / Stream Realty asked whether 312 Wilson Pike is still available, whether any buildings are conditioned, and whether there are roll-up doors. He is working with a smart-home tech company looking for 3,500-5,000 SF in the area.",
       "stage": "LOI",
-      "nextStep": "Jacob needs to follow up through Crexi/contact path with layout/pricing posture and ask for phone/email.",
+      "nextStep": "Jacob needs to decide how to answer Ben's availability/building-condition questions while preserving the current full-building versus partial-user posture across Wilson Pike prospects.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -73622,13 +73622,19 @@
         "Adam Heston (Anchor)",
         "Ross Hopkins (Futbol Factory contact)",
         "Parker G. (Crexi lead)",
-        "Parker Greenwood / Parker G. (Crexi lead; music production studio)"
+        "Parker Greenwood / Parker G. (Crexi lead; music production studio)",
+        "Ben Dotye (Stream Realty)"
       ],
       "timeline": [
         {
           "date": "2026-07-14",
           "event": "Email from Jon Petty: FW: UPS LOI- McMinnville Plaza- Suite 108",
           "type": "email"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "Ben Dotye / Stream Realty asked about availability, conditioned space, roll-up doors, and 3,500-5,000 SF fit for a smart-home tech company.",
+          "type": "lead"
         },
         {
           "date": "2026-07-13",
