@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T07:16:36.061386",
+  "lastUpdated": "2026-07-14T08:02:01.398540",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-14",
@@ -14756,9 +14756,9 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "UPS broker Jon Petty said the addendum can be marked up but UPS is ready to get the lease signed; peak-season holiday timing is critical.",
+      "status": "Jon Petty provided Matt Taylor email (mattjtaylor81@gmail.com) and asked Jacob to send final copies, noting the UPS addendum may be easier as a separate instrument for UPS Corporate signature.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob needs to decide whether to mark up the UPS addendum or accept current path and move to signature quickly.",
+      "nextStep": "Compile/circulate final UPS Store execution copies; consider sending the addendum separately for UPS Corporate signature.",
       "priority": "high",
       "timeline": [
         {
@@ -14794,6 +14794,11 @@
         {
           "date": "2026-07-14",
           "event": "Email from Kelsey Cornillie, Publisher: Starbucks gives to Nashville nonprofits",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "Jon Petty sent Matt Taylor email and requested final lease/addendum copies for UPS execution.",
           "type": "email"
         },
         {
@@ -20111,7 +20116,8 @@
         "David S. (Crexi lead; prior Benny's/Cumberland Square tenant)",
         "Jon Petty (UPS broker/contact)",
         "Micah Lacher (Anchor)",
-        "Jacob Delk (Anchor)"
+        "Jacob Delk (Anchor)",
+        "Matt Taylor (UPS franchisee) <mattjtaylor81@gmail.com>"
       ],
       "actions": [
         {
