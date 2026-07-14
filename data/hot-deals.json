@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T08:02:01.398540",
+  "lastUpdated": "2026-07-14T09:04:10.048147",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-14",
@@ -52998,17 +52998,19 @@
       "id": "montgomery-martial-arts-virginia-college",
       "name": "Montgomery Martial Arts",
       "property": "Virginia College Plaza",
-      "status": "Watkins sent Montgomery Martial Arts credit report and said the store did just shy of $200K sales last year; tenant can provide current-landlord/Thomas Crews references and plans only paint/flooring around mats.",
+      "status": "Adam forwarded a landlord-reference correction for Bill Bowtwell/Montgomery Martial Arts: David said the summary was good with one change, the original lease date was 4/1/14 and the tenancy has run 12 years.",
       "stage": "Obtain Financials",
-      "nextStep": "Review credit/financial strength and decide whether to request references/additional financials or counter economics.",
-      "priority": "high",
+      "nextStep": "Jacob needs to fold the corrected 12-year reference into the Montgomery Martial Arts credit/posture decision.",
+      "priority": "medium",
       "contacts": [
         "Watkins Johnston IV (MCRMPM)",
         "Montgomery Martial Arts",
         "Watkins Johnston IV (MCRM Property Management)",
         "Watkins Johnston IV",
         "Watkins Johnston IV (McWhirter Realty Partners)",
-        "William Boutwell / Montgomery Martial Arts"
+        "William Boutwell / Montgomery Martial Arts",
+        "Adam Heston",
+        "David H. (landlord reference)"
       ],
       "timeline": [
         {
@@ -53039,6 +53041,11 @@
         {
           "date": "2026-07-14",
           "event": "Email from Kelsey Cornillie, Publisher: Starbucks gives to Nashville nonprofits",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "Adam forwarded corrected Montgomery Martial Arts reference history: original lease 4/1/14, 12 years.",
           "type": "email"
         },
         {
