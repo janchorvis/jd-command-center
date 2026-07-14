@@ -1,12 +1,21 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-07-10 6:00 PM CDT
+Last updated: 2026-07-13 6:00 PM CDT
 
 <!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T279 -->
 
 ## ACTIVE — Jacob needs to do these
 
 ### This Week (week of 5/11)
+
+2026-07-13 leasing-meeting follow-through created seven Big Board Asana tasks with Jarvis tag after duplicate checks; keep them mapped to existing T### items rather than creating duplicate task IDs:
+- T238 / Montgomery martial arts references/posture — Asana `1216538448930643`
+- T127 / Pell City PT Wednesday execution revisions — Asana `1216544856187178`
+- T229 / Shelbyville Kimley-Horn layout timing — Asana `1216537980268585`
+- T228 / Wilson Pike basketball structural-interest check — Asana `1216544856044843`
+- T229/T231 / Shelbyville 5B-Bealls broker redevelopment call — Asana `1216544856043559`
+- T141 / MacBids-LED early renewal ask — Asana `1216538449127390`
+- T154 / Great Greek lease comments/execution path — Asana `1216538012785504`
 
 
 - T277: Smart LED / Highland lease execution post-close — Melissa forwarded the completed DocuSign execution copy for `2151 Highland Partners, LLC - Smart LED - Lease Execution Copy` on 2026-07-10. The lease-signature step is complete; Jacob/Anchor now need separate post-execution follow-through for NLC/opening checklist, commission/accounting handling if applicable, execution-copy proof/storage, and any unresolved economics/payment setup. [gmail thread: 19f4ca634b555c00] [source: Communication Triage 2026-07-10 11 AM] [deal: Highland / Smart LED TN LLC]

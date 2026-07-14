@@ -1,42 +1,55 @@
 {
-  "lastUpdated": "2026-07-13T17:03:33.177543",
+  "lastUpdated": "2026-07-14T07:15:38.232075",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
-    "date": "2026-07-13",
-    "greeting": "Good morning, Jacob. You have 19 overdue items.",
+    "date": "2026-07-14",
+    "greeting": "Good morning, Jacob. You have 20 overdue items.",
     "meetings": [
       {
-        "time": "6:00 AM",
-        "title": "Bible Study",
-        "dealContext": null
-      },
-      {
         "time": "8:30 AM",
-        "title": "Monday Morning Meeting",
+        "title": "Rock/Scorecard/Occupancy + New Lease Checklists",
         "dealContext": null
       },
       {
-        "time": "10:30 AM",
-        "title": "Leasing Meeting",
-        "dealContext": "83 active deals. 3 advanced this week (QT Nails→Lease sent for signature, Coaches Bargainz→Tenant welcome email sent, HopeSmiles). Top deals: Five Below (Lease Signed), Shoe Dept (Lease Signed), UPS Store Franchisee (Lease Signed). 395 contacts tracked."
+        "time": "8:45 AM",
+        "title": "Leasing Morning Standup",
+        "dealContext": null
+      },
+      {
+        "time": "9:00 AM",
+        "title": "Commercial L10 Meeting",
+        "dealContext": "Week scorecard: 3 deals advanced. 40 completed. 3 stalled/dropped. 31 high-priority deals active."
+      },
+      {
+        "time": "10:00 AM",
+        "title": "call Noble",
+        "dealContext": null
+      },
+      {
+        "time": "12:00 PM",
+        "title": "Scott porter",
+        "dealContext": null
       },
       {
         "time": "2:00 PM",
-        "title": "Department Overview: Melissa x Adam (Tentative)",
-        "dealContext": "Stage: Lease Signed | Keystone's Sevierville / Forks of the River permit was denied at the city level,… | Next: Jacob should decide whether to request Keystone's formal permit-denial letter for Sevierville and confirm whether any lease/billing cleanup is needed for the cancelled site."
+        "title": "Anchor Investments + Fostr AI | Weekly Check-In",
+        "dealContext": null
+      },
+      {
+        "time": "8:00 PM",
+        "title": "Trash + Recycling Tomorrow",
+        "dealContext": null
       }
     ],
     "priorities": [
+      "Pell City PT: finalize lease revisions for Wednesday execution (overdue — due 2026-07-13)",
       "Parma heights OP (overdue — due 2026-07-07)",
       "Salvage value for Shelbyville if we raze it? (overdue — due 2026-06-26)",
       "Adam business cards (overdue — due 2026-06-24)",
       "Reach out to Tardy about resources for seeking feedback  (overdue — due 2026-06-24)",
       "Follow up with Nicole Dautovic / Chase after ICSC (overdue — due 2026-06-08)",
       "Make flyer for mattresses listing (overdue — due 2026-03-23)",
-      "PCON feedback: Jeffrey Shoopman (overdue — due 2026-06-19)",
-      "PCON feedback: Jeffrey Shoopman (overdue — due 2026-06-19)",
-      "Confirm Hamilton GMX tax-proration treatment and keep closing moving today.",
-      "Send Clay Pell City physical therapy HVAC tonnage/details so he can start quotes."
+      "PCON feedback: Jeffrey Shoopman (overdue — due 2026-06-19)"
     ]
   },
   "pipelineDeals": [
@@ -53527,7 +53540,16 @@
           "type": "lead"
         }
       ],
-      "actions": []
+      "actions": [],
+      "rentComps": {
+        "property": "Wilson",
+        "avgRate": null,
+        "minRate": null,
+        "maxRate": null,
+        "avgSqFt": 3123,
+        "suiteCount": 4,
+        "vacantCount": 0
+      }
     }
   ],
   "sideDeals": [
@@ -80844,7 +80866,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-07-13T07:15:38",
+    "generatedAt": "2026-07-14T07:15:38",
     "source": "active-tasks",
     "yourPlate": [
       {
@@ -82188,7 +82210,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-07-13T07:15:38",
+    "generatedAt": "2026-07-14T07:15:38",
     "source": "active-tasks",
     "items": [
       {
