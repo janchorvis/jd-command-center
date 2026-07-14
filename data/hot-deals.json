@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T12:02:31.328262",
+  "lastUpdated": "2026-07-14T12:02:58.286311",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-14",
@@ -47288,10 +47288,10 @@
     {
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
-      "property": "Hamilton",
-      "status": "Hamilton/GMX closing did not finish before the July 13 contract deadline. First American's wire board closed July 13; Bob sent remaining settlement-statement comments that night; Micah asked Bob on July 14 whether the parties are tracking to close today.",
+      "property": "Hamilton / Dutch Bros GMX sale",
+      "status": "Hamilton/GMX closing is still live after the July 13 contract deadline. Bob said GMX is pushing its tenant to sign off on the REA; First American issued a revised settlement statement and asked for GMX payment invoices and whether the equity contribution is arriving today.",
       "stage": "Lease Signed",
-      "nextStep": "Track today's close push and watch for Bob/First American response confirming closing timing after the missed July 13 deadline.",
+      "nextStep": "Confirm REA signoff, GMX invoices, and equity contribution timing so closing can fund today.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -47341,6 +47341,11 @@
         {
           "date": "2026-07-14",
           "event": "Micah asked Bob if Hamilton/GMX is tracking to close today after the July 13 contract deadline passed.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-14",
+          "event": "First American sent revised settlement statement and asked for GMX invoices/equity contribution; Bob said buyer is pushing tenant REA signoff after missed closing deadline.",
           "type": "email"
         },
         {
