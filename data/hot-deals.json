@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T08:03:20.520095",
+  "lastUpdated": "2026-07-15T09:03:21.205341",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-15",
@@ -47894,9 +47894,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton / Dutch Bros GMX sale",
-      "status": "Hamilton/GMX closing is targeting today. Bob said the buyer expects to be ready to close after GMX tenant REA signoff with one minor comment; wire instructions were sent, Melissa said Anchor looks forward to wrapping up, and Micah asked Tyler whether the minor REA comment is a big deal or should be accepted.",
+      "status": "Hamilton/GMX closing cleanup is down to tax prorations and minor REA cleanup. Jacob reviewed the REA and told Micah the only change looked minor on insurance and Tyler had already approved it; Tyler then sent Micah a revised Tax Proration Agreement and asked for questions/comments.",
       "stage": "Lease Signed",
-      "nextStep": "Track Tyler's read on the minor REA comment, final signature package, settlement/wire confirmation, and closing authorization.",
+      "nextStep": "Micah/Anchor to review Tyler's revised tax proration agreement and proceed once tax prorations are settled.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -47937,6 +47937,11 @@
         {
           "date": "2026-07-15",
           "event": "Triage: buyer expects Hamilton/GMX closing readiness today; wire instructions sent; Micah asked Tyler to assess the minor REA comment.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-15",
+          "event": "Inbox: Tyler sent revised Tax Proration Agreement; Jacob had already told Micah REA change looked minor/approved and closing should be ready once tax prorations are handled.",
           "type": "email"
         },
         {
