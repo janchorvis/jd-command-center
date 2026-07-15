@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T10:02:34.034471",
+  "lastUpdated": "2026-07-15T11:03:00.604281",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-15",
@@ -34227,9 +34227,9 @@
       "id": "mcminnville-plaza",
       "name": "",
       "property": "McMinnville Plaza",
-      "status": "Jen Annello / CBRE asked whether Anchor has vacancy at 1100 Smithville Hwy in McMinnville and requested rent guidance.",
+      "status": "Emma Bray said her client is interested in the Plaza space they toured and requested a proposal, attaching their layout requirements.",
       "stage": "LOI",
-      "nextStep": "Jacob needs to respond with current vacancy and rent guidance for McMinnville.",
+      "nextStep": "Jacob needs to review the layout requirements and decide proposal terms for the Plaza space, likely Suite 129 / approximately 3,500 SF.",
       "priority": "high",
       "contacts": [
         "Joe Wesley (wesleyjoe829@gmail.com, 213-872-0190)",
@@ -34246,7 +34246,8 @@
         "Rawn Turner / Valor Healthcare",
         "James Rainer (Newmark)",
         "Clay Richardson",
-        "Jen Annello (CBRE)"
+        "Jen Annello (CBRE)",
+        "Emma Bray (Upper Cumberland Commercial)"
       ],
       "timeline": [
         {
@@ -34282,6 +34283,11 @@
         {
           "date": "2026-07-15",
           "event": "Email from Kelsey Cornillie, Publisher: Inside HCA’s failed Williamson Health bid",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-15",
+          "event": "Emma Bray requested a proposal after her client toured McMinnville Plaza and sent layout requirements.",
           "type": "email"
         },
         {
@@ -37654,10 +37660,15 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row",
-      "status": "Gilded Spine returned lease redlines, Jacob sent landlord redline/clean copies and then DocuSign, and Hillary replied that she signed. Track remaining DocuSign routing/countersignature before treating the lease as fully executed.",
-      "nextStep": "Confirm remaining Gilded Spine DocuSign signer/LL countersignature, then start post-execution next steps once fully executed.",
+      "status": "Joey Valenti followed up asking whether Jacob received the Great Greek lease he sent last week.",
+      "nextStep": "Jacob needs to confirm receipt/status and route/respond on the Great Greek revised lease package.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-07-15",
+          "event": "Joey Valenti followed up: \"Did you receive the lease from me last week?\"",
+          "type": "email"
+        },
         {
           "date": "2026-07-14",
           "event": "Email from Adam Heston: Fwd: Reference Summary Regarding Bill Bowtwell and Montgomery Martial Arts",
@@ -58461,8 +58472,8 @@
       "name": "Buena Vista",
       "property": "2433 Buena Vista Pike",
       "type": "Land/Development",
-      "status": "Anthony Blout with Avanti Residential reached out after finding the Buena Vista flyer; Avanti is looking for 3-8 acre infill BTR development sites in Nashville submarkets 15-20 minutes from downtown and wants to connect if the deal is still active.",
-      "nextStep": "Jacob needs to decide whether to engage Avanti on Buena Vista BTR interest and share current availability/pricing posture.",
+      "status": "Peter Deprey / Pulte responded with underwriting feedback: Pulte would only build townhomes, asked whether product type is mandatory or if they can use Pulte plans, indicated roughly $25K-$30K per townhome lot, and flagged the nearby Davidson County police gun range as the main surrounding-use concern.",
+      "nextStep": "Jacob needs to decide whether to engage Peter on revised townhome-only/product-plan flexibility and pricing expectations.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
@@ -58472,7 +58483,8 @@
         "Forman Capital",
         "Heather Devermann (EXIT Real Estate Solutions, heather@exitrealestatesolutions.com, 630-853-7674)",
         "Sanjay P. (Crexi prospect)",
-        "Anthony Blout (Avanti Residential)"
+        "Anthony Blout (Avanti Residential)",
+        "Peter Deprey (PulteGroup)"
       ],
       "priority": "medium",
       "lastUpdate": "2026-03-11",
@@ -58480,6 +58492,11 @@
         {
           "date": "2026-07-15",
           "event": "Email from The CRE Rundown by Trepp: CMBS Defeasance Activity Might Rebound in 2026",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-15",
+          "event": "Peter Deprey / Pulte gave Buena Vista underwriting feedback and questions after Jacob's re-engagement email.",
           "type": "email"
         },
         {
