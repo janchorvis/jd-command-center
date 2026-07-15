@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T11:03:00.604281",
+  "lastUpdated": "2026-07-15T12:02:58.681646",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-15",
@@ -34227,9 +34227,9 @@
       "id": "mcminnville-plaza",
       "name": "",
       "property": "McMinnville Plaza",
-      "status": "Emma Bray said her client is interested in the Plaza space they toured and requested a proposal, attaching their layout requirements.",
+      "status": "Emma Bray said her client is interested in the Plaza space they toured and requested a proposal; she attached the client layout/requirements for review.",
       "stage": "LOI",
-      "nextStep": "Jacob needs to review the layout requirements and decide proposal terms for the Plaza space, likely Suite 129 / approximately 3,500 SF.",
+      "nextStep": "Review the attached layout for Suite 129/Warren County office use and send proposal terms or clarifying questions.",
       "priority": "high",
       "contacts": [
         "Joe Wesley (wesleyjoe829@gmail.com, 213-872-0190)",
@@ -34289,6 +34289,11 @@
           "date": "2026-07-15",
           "event": "Emma Bray requested a proposal after her client toured McMinnville Plaza and sent layout requirements.",
           "type": "email"
+        },
+        {
+          "date": "2026-07-15",
+          "event": "Emma Bray requested a proposal for the Plaza space after her client tour and sent layout requirements.",
+          "type": "lead"
         },
         {
           "date": "2026-07-14",
@@ -58472,8 +58477,8 @@
       "name": "Buena Vista",
       "property": "2433 Buena Vista Pike",
       "type": "Land/Development",
-      "status": "Peter Deprey / Pulte responded with underwriting feedback: Pulte would only build townhomes, asked whether product type is mandatory or if they can use Pulte plans, indicated roughly $25K-$30K per townhome lot, and flagged the nearby Davidson County police gun range as the main surrounding-use concern.",
-      "nextStep": "Jacob needs to decide whether to engage Peter on revised townhome-only/product-plan flexibility and pricing expectations.",
+      "status": "Peter Deprey / Pulte replied to the Buena Vista follow-up: Pulte would only pursue the townhomes, asked whether product type is mandatory or if they can use their own plans, and indicated rough land value around $25K-$30K per townhome lot.",
+      "nextStep": "Answer Pulte on entitlement/product-plan flexibility and decide whether the pricing gap is worth pursuing.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
@@ -58486,7 +58491,7 @@
         "Anthony Blout (Avanti Residential)",
         "Peter Deprey (PulteGroup)"
       ],
-      "priority": "medium",
+      "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
@@ -58497,6 +58502,11 @@
         {
           "date": "2026-07-15",
           "event": "Peter Deprey / Pulte gave Buena Vista underwriting feedback and questions after Jacob's re-engagement email.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-15",
+          "event": "Peter Deprey / Pulte replied with Buena Vista underwriting notes and questions on townhome-only/product flexibility.",
           "type": "email"
         },
         {
@@ -60789,8 +60799,8 @@
           "type": "email"
         }
       ],
-      "stage": "Contact Made",
-      "stageOverride": "Contact Made"
+      "stage": "Trading Terms",
+      "stageOverride": "Trading Terms"
     },
     {
       "id": "emerson-hall",
