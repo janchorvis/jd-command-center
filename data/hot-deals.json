@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T09:03:21.205341",
+  "lastUpdated": "2026-07-15T10:02:34.034471",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-15",
@@ -54795,15 +54795,20 @@
       "id": "mcminnville-regional-transit",
       "name": "Regional transit service / Craig Hughes",
       "property": "McMinnville Plaza",
-      "status": "Emma Bray / Upper Cumberland Commercial reconfirmed the McMinnville Plaza tour for Thursday 6/25 at 9:30 AM and asked Jacob to send the lockbox code.",
-      "stage": "Touring",
-      "nextStep": "Send lockbox code before the 9:30 AM tour on Thursday 6/25 and confirm any needed access details.",
+      "status": "Emma Bray / Upper Cumberland Commercial said the client is interested in the McMinnville Plaza space they toured and is requesting a proposal; she attached their layout requirements.",
+      "stage": "Trading Terms",
+      "nextStep": "Review the attached layout requirements and respond with proposal terms or clarifying questions for the McMinnville Plaza space.",
       "priority": "high",
       "contacts": [
         "Craig Hughes (Upper Cumberland Commercial)",
         "Emma Bray (Upper Cumberland Commercial)"
       ],
       "timeline": [
+        {
+          "date": "2026-07-15",
+          "event": "Emma Bray said the toured McMinnville Plaza client is requesting a proposal and attached layout requirements.",
+          "type": "email"
+        },
         {
           "date": "2026-07-14",
           "event": "Email from Kevin Trujillo: FW: River Parkway Plaza - LOI - CosmoProf",
@@ -54989,7 +54994,8 @@
         "avgSqFt": 3255,
         "suiteCount": 45,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Trading Terms"
     },
     {
       "id": "caroline-a-hickory-village",
