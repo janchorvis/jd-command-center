@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T07:16:52.357185",
+  "lastUpdated": "2026-07-15T08:03:20.520095",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-15",
@@ -47894,9 +47894,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton / Dutch Bros GMX sale",
-      "status": "Hamilton/GMX closing is still live after the July 13 contract deadline. Bob said GMX is pushing its tenant to sign off on the REA; First American issued a revised settlement statement and asked for GMX payment invoices and whether the equity contribution is arriving today.",
+      "status": "Hamilton/GMX closing is targeting today. Bob said the buyer expects to be ready to close after GMX tenant REA signoff with one minor comment; wire instructions were sent, Melissa said Anchor looks forward to wrapping up, and Micah asked Tyler whether the minor REA comment is a big deal or should be accepted.",
       "stage": "Lease Signed",
-      "nextStep": "Confirm REA signoff, GMX invoices, and equity contribution timing so closing can fund today.",
+      "nextStep": "Track Tyler's read on the minor REA comment, final signature package, settlement/wire confirmation, and closing authorization.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -47925,12 +47925,18 @@
         "Melissa Eddy (Anchor)",
         "First American",
         "Bob McAuliff / Taft",
-        "Katie Van Zuidam (First American Title)"
+        "Katie Van Zuidam (First American Title)",
+        "Tyler Tollison (Evans Petree)"
       ],
       "timeline": [
         {
           "date": "2026-07-15",
           "event": "Email from NASHtoday: Summer staycations, Pendry dining + award-winning wine",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-15",
+          "event": "Triage: buyer expects Hamilton/GMX closing readiness today; wire instructions sent; Micah asked Tyler to assess the minor REA comment.",
           "type": "email"
         },
         {
