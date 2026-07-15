@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T12:02:58.681646",
+  "lastUpdated": "2026-07-15T12:03:25.118563",
   "sourceDoc": " 2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-15",
@@ -37665,13 +37665,18 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row",
-      "status": "Joey Valenti followed up asking whether Jacob received the Great Greek lease he sent last week.",
-      "nextStep": "Jacob needs to confirm receipt/status and route/respond on the Great Greek revised lease package.",
+      "status": "Joey Valenti followed up asking whether Jacob received the revised Great Greek lease he sent last week; Jacob needs to confirm receipt and keep the lease review/response moving.",
+      "nextStep": "Confirm receipt of Joey Valenti's revised lease package and route/review Great Greek lease comments.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-07-15",
           "event": "Joey Valenti followed up: \"Did you receive the lease from me last week?\"",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-15",
+          "event": "Joey Valenti asked whether Jacob received the revised Great Greek lease sent last week.",
           "type": "email"
         },
         {
@@ -47910,9 +47915,9 @@
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
       "property": "Hamilton / Dutch Bros GMX sale",
-      "status": "Hamilton/GMX closing cleanup is down to tax prorations and minor REA cleanup. Jacob reviewed the REA and told Micah the only change looked minor on insurance and Tyler had already approved it; Tyler then sent Micah a revised Tax Proration Agreement and asked for questions/comments.",
+      "status": "First American sent a revised Hamilton/GMX settlement statement and asked parties to confirm it is final; Bob McAuliff said closing should occur today if seller and buyer align on taxes.",
       "stage": "Lease Signed",
-      "nextStep": "Micah/Anchor to review Tyler's revised tax proration agreement and proceed once tax prorations are settled.",
+      "nextStep": "Confirm final settlement statement/tax proration agreement posture with Micah/Ashby so Hamilton/GMX closing can occur today.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -47959,6 +47964,11 @@
           "date": "2026-07-15",
           "event": "Inbox: Tyler sent revised Tax Proration Agreement; Jacob had already told Micah REA change looked minor/approved and closing should be ready once tax prorations are handled.",
           "type": "email"
+        },
+        {
+          "date": "2026-07-15",
+          "event": "First American sent revised settlement statement and requested final confirmation for Hamilton/GMX closing.",
+          "type": "closing"
         },
         {
           "date": "2026-07-14",
