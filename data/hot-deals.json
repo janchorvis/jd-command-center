@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T12:03:16.811045",
+  "lastUpdated": "2026-07-16T15:02:59.431201",
   "sourceDoc": "Copy of  2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-16",
@@ -71906,11 +71906,11 @@
     {
       "id": "shelbyville-ryan-jordan-former-big-lots",
       "name": "Ryan Jordan / Former Big Lots",
-      "property": "Shelbyville Big Lots",
-      "status": "Jordan Hooper / Wash N Roll followed up after the initial conversation and sent their tenant criteria: traffic-driven 20,000+ VPD, hard corners/signalized intersections/outlots, car-wash friendly sites, room for stacking/turning movements, good ingress/egress/visibility, strong retail co-tenancy, and sites in growth corridors.",
+      "property": "Shelbyville former Big Lots",
+      "status": "Chipotle RE Manager Rachel Rambin replied to Adam's Shelbyville outparcel outreach, copied broker Bryan Chandler, and asked for more details on the opportunity to review.",
       "stage": "Contact Made",
-      "nextStep": "Jacob should decide whether Shelbyville or another Anchor site fits the Wash N Roll criteria and send a quick acknowledgment/next-step reply.",
-      "priority": "medium",
+      "nextStep": "Jacob/Adam should send site details/package to Rachel Rambin and Bryan Chandler.",
+      "priority": "high",
       "contacts": [
         "Ryan Jordan (AVID Real Estate Advisors)",
         "Adam Rude (City of Shelbyville)",
@@ -71924,9 +71924,16 @@
         "Jordan Hooper (Wash N Roll)",
         "Adam Heston",
         "Ross Hopkins",
-        "Jordan Hooper (Wash N Roll / SRG Assets)"
+        "Jordan Hooper (Wash N Roll / SRG Assets)",
+        "Rachel Rambin (Chipotle Real Estate Manager)",
+        "Bryan Chandler (Eclipse RE broker)"
       ],
       "timeline": [
+        {
+          "date": "2026-07-16",
+          "event": "Rachel Rambin / Chipotle requested more details on the Shelbyville outparcel opportunity after Adam's outreach.",
+          "type": "email"
+        },
         {
           "date": "2026-07-15",
           "event": "Email from Micah Lacher: Canceled event with note: Leasing Meeting @ Mon Aug 10, 2026 10:30am - 11:30am (",
@@ -82124,15 +82131,21 @@
       "id": "forks-of-the-river-qsr-chicken-outparcel-sale",
       "name": "QSR Chicken Concept",
       "property": "Forks of the River",
-      "status": "Jacob told Greenbrier that a ground lease is preferred and estimated roughly $75,000 as the floor Micah would likely consider; Caleb acknowledged and met Adam by email.",
+      "status": "Bhavesh C. opened/downloaded the Forks of the River Shopping Center Outparcel brochure via Crexi.",
       "stage": "Contact Made",
-      "nextStep": "Wait for Greenbrier/QSR chicken group to decide whether to submit an offer or pursue the ground-lease path.",
+      "nextStep": "Jacob should decide whether to follow up through Crexi/contact path and capture phone/email/use.",
       "priority": "medium",
       "contacts": [
         "Caleb Glafenhein (Greenbrier Real Estate Advisors)",
-        "Adam Heston (Anchor)"
+        "Adam Heston (Anchor)",
+        "Bhavesh C. (Crexi prospect)"
       ],
       "timeline": [
+        {
+          "date": "2026-07-16",
+          "event": "Bhavesh C. opened/downloaded the Forks of the River outparcel brochure on Crexi.",
+          "type": "lead"
+        },
         {
           "date": "2026-07-15",
           "event": "Email from Richmond Adams: PCON Book Club Q3",
