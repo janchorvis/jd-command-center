@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T10:02:34.721204",
+  "lastUpdated": "2026-07-16T12:03:16.811045",
   "sourceDoc": "Copy of  2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-16",
@@ -56455,19 +56455,27 @@
       "id": "pell-city-803-martin-compassus",
       "name": "Compassus",
       "property": "Pell City / 803 Martin St S",
-      "status": "Compassus/ProStar asked for Jacob's availability tomorrow for a call with their construction manager after Jacob flagged ~$100/SF buildout costs and suggested a construction-team call.",
+      "status": "Lauri Fowler sent a Teams invite for a Compassus construction call tomorrow, July 17, 8:30-9:00 AM CT, with Kevin Santos and Victoria Taylor, after asking about availability to discuss the construction manager's scope/cost path.",
       "stage": "Trading Terms",
-      "nextStep": "Jacob needs to send availability for a call tomorrow with Lauri/Compassus construction manager and align scope/cost path.",
+      "nextStep": "Jacob needs to accept/attend or reschedule the July 17 8:30 AM CT construction call and be ready to discuss buildout cost/rent options.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar CRE)",
         "David Cooke (Cooke Commercial)",
-        "Lauri Fowler (ProStar)"
+        "Lauri Fowler (ProStar)",
+        "Lauri Fowler",
+        "Kevin Santos",
+        "Victoria Taylor"
       ],
       "timeline": [
         {
           "date": "2026-07-16",
           "event": "Lauri Fowler asked for Jacob's availability tomorrow for construction-manager call on 803 Martin St S / Compassus.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-16",
+          "event": "Lauri Fowler sent Teams invite for Pell City - construction call on July 17, 8:30-9:00 AM CT.",
           "type": "email"
         },
         {
@@ -56808,14 +56816,19 @@
       "id": "mcminnville-behavioral-health-rfp",
       "name": "Behavioral Health RFP",
       "property": "McMinnville Plaza",
-      "status": "James Rainer said the client wants a proposal on the 4,500 SF lower-level option after prior RFP/use discussion; Regional Director tour timing remains July 21 unless changed.",
+      "status": "After Jacob told James Rainer the landlord would pass on the behavioral-health use, James pushed back and asked whether the landlord would jump on a call, emphasizing the operator's retail-center track record, 5am-noon hours, and reference letters/retail-center examples.",
       "stage": "Trading Terms",
-      "nextStep": "Jacob needs to prepare/respond with proposal terms for the 4,500 SF lower-level option and confirm tour/proposal posture.",
+      "nextStep": "Jacob needs to decide whether to hold the pass or offer/coordinate a landlord call with James and the operator before the July 21 tour window.",
       "priority": "high",
       "contacts": [
         "James Rainer (Newmark)"
       ],
       "timeline": [
+        {
+          "date": "2026-07-16",
+          "event": "James Rainer asked whether LL would join a call to discuss behavioral-health use after landlord pass; provided retail-center examples and reference attachments.",
+          "type": "email"
+        },
         {
           "date": "2026-07-15",
           "event": "Email from Emma Bray: Tour of the Plaza",
