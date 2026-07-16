@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T15:02:59.431201",
+  "lastUpdated": "2026-07-16T16:03:09.177423",
   "sourceDoc": "Copy of  2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-16",
@@ -71906,10 +71906,10 @@
     {
       "id": "shelbyville-ryan-jordan-former-big-lots",
       "name": "Ryan Jordan / Former Big Lots",
-      "property": "Shelbyville former Big Lots",
-      "status": "Chipotle RE Manager Rachel Rambin replied to Adam's Shelbyville outparcel outreach, copied broker Bryan Chandler, and asked for more details on the opportunity to review.",
+      "property": "Shelbyville former Big Lots / outparcel context",
+      "status": "Adam forwarded a Chipotle Shelbyville inquiry. Bryan Chandler asked Adam to share a site plan and said to let him know if a footprint is needed.",
       "stage": "Contact Made",
-      "nextStep": "Jacob/Adam should send site details/package to Rachel Rambin and Bryan Chandler.",
+      "nextStep": "Adam/Jacob should send the Shelbyville site plan and ask whether Chipotle needs to provide a footprint for review.",
       "priority": "high",
       "contacts": [
         "Ryan Jordan (AVID Real Estate Advisors)",
@@ -71926,13 +71926,21 @@
         "Ross Hopkins",
         "Jordan Hooper (Wash N Roll / SRG Assets)",
         "Rachel Rambin (Chipotle Real Estate Manager)",
-        "Bryan Chandler (Eclipse RE broker)"
+        "Bryan Chandler (Eclipse RE broker)",
+        "Rachel Rambin (Chipotle)",
+        "Bryan Chandler (Eclipse Real Estate)",
+        "Lori Adler (Chipotle)"
       ],
       "timeline": [
         {
           "date": "2026-07-16",
           "event": "Rachel Rambin / Chipotle requested more details on the Shelbyville outparcel opportunity after Adam's outreach.",
           "type": "email"
+        },
+        {
+          "date": "2026-07-16",
+          "event": "Communication Triage: Chipotle broker asked for Shelbyville site plan and offered footprint if needed.",
+          "type": "lead"
         },
         {
           "date": "2026-07-15",
@@ -76326,10 +76334,10 @@
     {
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
-      "property": "312A Wilson Pike Circle",
-      "status": "Parker Greenwood / Parker G. submitted a Crexi inquiry for a music production studio use needing 600-900 SF for audio mixing, songwriting, and vocal recording. He asked how the space is divided, all-in monthly lease cost including CAM/fees, whether the use is permitted, and said he would like a tour if it fits.",
+      "property": "312 Wilson Pike Circle",
+      "status": "Kadie Black / Woodmont called and emailed about an interested tenant. Jacob forwarded to Adam asking him to call back, so Jacob has already handled routing.",
       "stage": "LOI",
-      "nextStep": "Jacob should decide whether 600-900 SF music studio use fits Wilson Pike and, if so, respond through Crexi with layout/pricing/use guidance and request phone/email.",
+      "nextStep": "Adam to call Kadie back; Jacob no longer latest action blocker unless Adam needs backup.",
       "priority": "medium",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -76361,13 +76369,19 @@
         "Parker G. (Crexi lead)",
         "Parker Greenwood / Parker G. (Crexi lead; music production studio)",
         "Ben Dotye (Stream Realty)",
-        "Parker Greenwood / Parker G."
+        "Parker Greenwood / Parker G.",
+        "Kadie Black (Woodmont Realty)"
       ],
       "timeline": [
         {
           "date": "2026-07-16",
           "event": "Email from Jacob Delk: 2433 Buena Vista Pike - another North Nashville BTR/townhome opportunity",
           "type": "email"
+        },
+        {
+          "date": "2026-07-16",
+          "event": "Communication Triage: Kadie Black surfaced interested tenant; Jacob forwarded to Adam to call back.",
+          "type": "lead"
         },
         {
           "date": "2026-07-15",
@@ -82131,19 +82145,25 @@
       "id": "forks-of-the-river-qsr-chicken-outparcel-sale",
       "name": "QSR Chicken Concept",
       "property": "Forks of the River",
-      "status": "Bhavesh C. opened/downloaded the Forks of the River Shopping Center Outparcel brochure via Crexi.",
+      "status": "Bhavesh C. opened/downloaded the Forks of the River Shopping Center Outparcel brochure via Crexi. No direct message/body or contact details were included beyond the dashboard activity notice. Jacob needs to decide whether to follow up through Crexi/contact path and capture phone/email/use.",
       "stage": "Contact Made",
-      "nextStep": "Jacob should decide whether to follow up through Crexi/contact path and capture phone/email/use.",
+      "nextStep": "Follow up through Crexi/contact path to capture phone/email and intended use, or ignore if this is passive brochure activity.",
       "priority": "medium",
       "contacts": [
         "Caleb Glafenhein (Greenbrier Real Estate Advisors)",
         "Adam Heston (Anchor)",
-        "Bhavesh C. (Crexi prospect)"
+        "Bhavesh C. (Crexi prospect)",
+        "Bhavesh C. (Crexi brochure activity)"
       ],
       "timeline": [
         {
           "date": "2026-07-16",
           "event": "Bhavesh C. opened/downloaded the Forks of the River outparcel brochure on Crexi.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-07-16",
+          "event": "Communication Triage: Bhavesh C. opened/downloaded Forks of the River outparcel brochure via Crexi.",
           "type": "lead"
         },
         {
