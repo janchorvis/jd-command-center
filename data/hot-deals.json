@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T07:16:13.487794",
+  "lastUpdated": "2026-07-16T10:02:34.721204",
   "sourceDoc": "Copy of  2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-16",
@@ -56454,16 +56454,22 @@
     {
       "id": "pell-city-803-martin-compassus",
       "name": "Compassus",
-      "property": "Pell City / 807 Martin St S",
-      "status": "Jacob told Clay the physical-therapy deal could get executed this week and raised the need to dust off the quote for sealing the left-side space and getting HVAC/utilities ready; Clay replied asking whether the landlord work is just demising wall, utilities, and HVAC.",
+      "property": "Pell City / 803 Martin St S",
+      "status": "Compassus/ProStar asked for Jacob's availability tomorrow for a call with their construction manager after Jacob flagged ~$100/SF buildout costs and suggested a construction-team call.",
       "stage": "Trading Terms",
-      "nextStep": "Jacob needs to answer Clay's scope question so delivery planning can move if the deal executes.",
+      "nextStep": "Jacob needs to send availability for a call tomorrow with Lauri/Compassus construction manager and align scope/cost path.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar CRE)",
-        "David Cooke (Cooke Commercial)"
+        "David Cooke (Cooke Commercial)",
+        "Lauri Fowler (ProStar)"
       ],
       "timeline": [
+        {
+          "date": "2026-07-16",
+          "event": "Lauri Fowler asked for Jacob's availability tomorrow for construction-manager call on 803 Martin St S / Compassus.",
+          "type": "email"
+        },
         {
           "date": "2026-07-14",
           "event": "Email from David Meltzer: Keeping your promise?",
@@ -59682,8 +59688,8 @@
       "name": "Buena Vista",
       "property": "2433 Buena Vista Pike",
       "type": "Land/Development",
-      "status": "Peter Deprey / Pulte replied to the Buena Vista follow-up: Pulte would only pursue the townhomes, asked whether product type is mandatory or if they can use their own plans, and indicated rough land value around $25K-$30K per townhome lot.",
-      "nextStep": "Answer Pulte on entitlement/product-plan flexibility and decide whether the pricing gap is worth pursuing.",
+      "status": "Mack Furlow / The BTR Group is taking another look after Jacob said owner has flexibility and shared the Drive folder; Mack will review documents and come back with underwritten land basis.",
+      "nextStep": "Wait for Mack's underwritten land-basis range, then decide whether the lower-basis/structure is worth pursuing.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
@@ -59694,7 +59700,8 @@
         "Heather Devermann (EXIT Real Estate Solutions, heather@exitrealestatesolutions.com, 630-853-7674)",
         "Sanjay P. (Crexi prospect)",
         "Anthony Blout (Avanti Residential)",
-        "Peter Deprey (PulteGroup)"
+        "Peter Deprey (PulteGroup)",
+        "Mack Furlow (The BTR Group)"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-11",
@@ -59707,6 +59714,11 @@
         {
           "date": "2026-07-16",
           "event": "Email from The CRE Rundown by Trepp: Latest CMBS Distress Data Provide Mixed Signals",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-16",
+          "event": "Mack Furlow said BTR Group is reviewing Buena Vista documents and will return an underwritten land basis.",
           "type": "email"
         },
         {
