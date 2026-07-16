@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-15T17:02:13.054162",
-  "sourceDoc": " 2026-07-12 - Leasing Meeting",
+  "lastUpdated": "2026-07-16T07:15:40.452836",
+  "sourceDoc": "Copy of  2026-07-12 - Leasing Meeting",
   "today": {
-    "date": "2026-07-15",
-    "greeting": "Good morning, Jacob. You have 22 overdue items.",
+    "date": "2026-07-16",
+    "greeting": "Good morning, Jacob. You have 24 overdue items.",
     "meetings": [
       {
-        "time": "7:30 AM",
-        "title": "JD + JD Phone Call",
-        "dealContext": null
+        "time": "6:00 AM",
+        "title": "West End Men’s Bible Study",
+        "dealContext": "Stage: Contact Made | Tanner Sanford / Matthews shared an off-market shopping center opportunity. Matt… | Next: Jacob/Carson decide whether to review the rent roll and pursue an off-market offer."
       },
       {
-        "time": "7:45 AM",
-        "title": "BV. Hamilton. UPS Store. WingStop",
-        "dealContext": "Stage: Lease Signed | Jon Petty provided Matt Taylor's email and asked Jacob to send final lease copie… | Next: Compile/send UPS final lease copies for McMinnville Plaza, with addendum separate if useful for UPS Corporate signature."
+        "time": "8:00 AM",
+        "title": "Call Noble",
+        "dealContext": null
       },
       {
         "time": "8:45 AM",
@@ -21,35 +21,30 @@
         "dealContext": null
       },
       {
-        "time": "9:00 AM",
-        "title": "Trace computer",
+        "time": "6:00 PM",
+        "title": "PCON Mid-Year All Member Meeting",
         "dealContext": null
       },
       {
-        "time": "11:30 AM",
-        "title": "Nolen Langford lunch",
+        "time": "6:00 PM",
+        "title": "PCON Mid-Year All Member Meeting | July 2026",
         "dealContext": null
       },
       {
-        "time": "1:00 PM",
-        "title": "Recent Acquisitions Review",
-        "dealContext": null
-      },
-      {
-        "time": "5:00 PM",
-        "title": "Anchor Trash Cans",
+        "time": "6:00 PM",
+        "title": "PCON Mid-Year All Member Meeting",
         "dealContext": null
       }
     ],
     "priorities": [
+      "Shelbyville: level with 5B/Bealls broker on redevelopment track (overdue — due 2026-07-15)",
+      "Wilson Pike basketball: confirm interest before structural spend (overdue — due 2026-07-15)",
       "Shelbyville: ask Kimley-Horn timing for outparcel layouts (overdue — due 2026-07-14)",
       "Pell City PT: finalize lease revisions for Wednesday execution (overdue — due 2026-07-13)",
       "Montgomery martial arts: check references and decide lease posture (overdue — due 2026-07-14)",
       "Parma heights OP (overdue — due 2026-07-07)",
       "Salvage value for Shelbyville if we raze it? (overdue — due 2026-06-26)",
-      "Adam business cards (overdue — due 2026-06-24)",
-      "Reach out to Tardy about resources for seeking feedback  (overdue — due 2026-06-24)",
-      "Follow up with Nicole Dautovic / Chase after ICSC (overdue — due 2026-06-08)"
+      "Adam business cards (overdue — due 2026-06-24)"
     ]
   },
   "pipelineDeals": [
@@ -84587,7 +84582,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-07-15T07:15:52",
+    "generatedAt": "2026-07-16T07:15:40",
     "source": "active-tasks",
     "yourPlate": [
       {
@@ -84739,7 +84734,7 @@
       },
       {
         "id": "sweep-plate-22",
-        "text": "Hamilton OH / GMX-Dutch Bros contract-pull follow-up — Discord Task Intake Audit created Asana task `1216128790113172` on 2026-06-29 after Jacob requested the GMX/Dutch Bros Hamilton contract pull in #tasks. Keep paired with the broader GMX/Hamilton Community Partners sale diligence/REA path; pull/prepare the contract materials without modifying external systems unless Jacob explicitly approves. 7/1 after-hours update: Ashby Scott sent revised REA drafts with lease dates and tenant entities, plus draft closing documents for the GMX sale, and asked for revisions if needed; Jacob/Micah need to review/confirm the REA/closing-doc posture. 7/8 5 PM update: Taft sent closing-document comments: purchaser assigning PSA to Hamilton Victory Main, LLC, deed should be general warranty deed, FIRPTA/DTE comments attached; First American said preliminary settlement should be out morning 7/9. Closing target remains 7/10 with outside date 7/13. 7/9 8 AM update: Bob sent completed REA buyer signature block and further revised deed overnight; Ashby accepted the changes and asked for buyer's latest title commitment to confirm deleted exceptions. 7/9 9 AM update: First American sent an updated open-items list including buyer authority/PSA assignment, proforma approval, payoff/release of mortgage/UCC, funds/invoices, executed owner affidavit/gap indemnity, lot-split/engineer/final-survey items, executed settlement statement, originals, DTE form, escrow letter, and authorization to close. Track title commitment, Dutch Bros estoppel sign-off, settlement/payoff timing, and execution docs. 7/9 2 PM update: Seller certificate of existence and certificate invoice were sent to First American; Ashby asked when the settlement statement will be ready because Seller needs a draft showing loose net proceeds before lender payoff can be obtained. 7/9 after-hours update: First American sent the settlement statement for review; Ashby forwarded it to Jacob/Melissa asking for comments/questions and whether to send it to Micah. Ashby also sent final closing docs including general warranty deed, REA, AutoZone/Subway seller estoppels, FIRPTA, owner affidavit, gap indemnity, written consent, seller certificate, settlement statement, and noted a 1099 should be provided for signature. 7/10 noon update: Melissa sent lender payoff/wire materials and asked Ashby/title how proceeds/payoff should be handled and whether anything else is missing; Bob/Taft also asked for Seller building SF so buyer proportionate share can be calculated from buyer planned building SF of 986. 7/14 update: closing is still live after the July 13 contract deadline; Bob said GMX is pushing its tenant to sign off on the REA, and First American sent a revised settlement statement asking for GMX payment invoices and whether the equity contribution is arriving today. Jacob/Micah/Melissa need to keep REA signoff, GMX invoices, equity contribution, settlement statement, and closing authorization moving today. Command Center updated",
+        "text": "Hamilton OH / GMX-Dutch Bros contract-pull follow-up — Discord Task Intake Audit created Asana task `1216128790113172` on 2026-06-29 after Jacob requested the GMX/Dutch Bros Hamilton contract pull in #tasks. Keep paired with the broader GMX/Hamilton Community Partners sale diligence/REA path; pull/prepare the contract materials without modifying external systems unless Jacob explicitly approves. 7/1 after-hours update: Ashby Scott sent revised REA drafts with lease dates and tenant entities, plus draft closing documents for the GMX sale, and asked for revisions if needed; Jacob/Micah need to review/confirm the REA/closing-doc posture. 7/8 5 PM update: Taft sent closing-document comments: purchaser assigning PSA to Hamilton Victory Main, LLC, deed should be general warranty deed, FIRPTA/DTE comments attached; First American said preliminary settlement should be out morning 7/9. Closing target remains 7/10 with outside date 7/13. 7/9 8 AM update: Bob sent completed REA buyer signature block and further revised deed overnight; Ashby accepted the changes and asked for buyer's latest title commitment to confirm deleted exceptions. 7/9 9 AM update: First American sent an updated open-items list including buyer authority/PSA assignment, proforma approval, payoff/release of mortgage/UCC, funds/invoices, executed owner affidavit/gap indemnity, lot-split/engineer/final-survey items, executed settlement statement, originals, DTE form, escrow letter, and authorization to close. Track title commitment, Dutch Bros estoppel sign-off, settlement/payoff timing, and execution docs. 7/9 2 PM update: Seller certificate of existence and certificate invoice were sent to First American; Ashby asked when the settlement statement will be ready because Seller needs a draft showing loose net proceeds before lender payoff can be obtained. 7/9 after-hours update: First American sent the settlement statement for review; Ashby forwarded it to Jacob/Melissa asking for comments/questions and whether to send it to Micah. Ashby also sent final closing docs including general warranty deed, REA, AutoZone/Subway seller estoppels, FIRPTA, owner affidavit, gap indemnity, written consent, seller certificate, settlement statement, and noted a 1099 should be provided for signature. 7/10 noon update: Melissa sent lender payoff/wire materials and asked Ashby/title how proceeds/payoff should be handled and whether anything else is missing; Bob/Taft also asked for Seller building SF so buyer proportionate share can be calculated from buyer planned building SF of 986. 7/14 update: closing is still live after the July 13 contract deadline; Bob said GMX is pushing its tenant to sign off on the REA, and First American sent a revised settlement statement asking for GMX payment invoices and whether the equity contribution is arriving today. 7/15 update: First American confirmed/reviewed the REA, Bob resent the final REA for avoidance of doubt, Micah asked whether all wires made it out, and Michele sent the final settlement statement asking for final authorizations to close and fund. Jacob/Micah/Melissa need to confirm wires and provide/coordinate final closing and funding authorization. Command Center updated",
         "detail": "",
         "completed": false,
         "source": "active-tasks"
@@ -84788,7 +84783,7 @@
       },
       {
         "id": "sweep-plate-29",
-        "text": "UPS Store / McMinnville lease comments — Jon Petty sent a light lease markup and the missing addendum on 2026-06-24, saying the addendum can be filled out and signed as a final step. Jacob needs to review markup/addendum and coordinate response/final addendum completion",
+        "text": "UPS Store / McMinnville lease execution timing — Jacob circulated the lease for execution on 2026-07-15. Jon Petty then said Amy/Matt were waiting on loan/bank approval before signing; Amy confirmed they are in credit with the bank, and Jon later said there is no cause for alarm and the Area is approved to sign, but the bank may delay formal execution another week. Jacob has already asked Jon to keep Anchor posted. Track execution timing; no external reply has been sent by Jarvis",
         "detail": "",
         "completed": false,
         "source": "active-tasks"
@@ -85931,7 +85926,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-07-15T07:15:52",
+    "generatedAt": "2026-07-16T07:15:40",
     "source": "active-tasks",
     "items": [
       {
