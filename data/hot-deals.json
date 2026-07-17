@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T12:01:53.970591",
+  "lastUpdated": "2026-07-17T13:02:38.352449",
   "sourceDoc": "Copy of  2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-17",
@@ -24169,15 +24169,20 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "Micah forwarded bank/draw materials and asked Jacob/Clay/Ryan for a conversation on the Malone architecture/draw/loan posture after talking to Ryan, with Slack voice follow-up promised.",
+      "status": "Micah re-forwarded Malone bank underwriting/construction draw material and architecture-fee context, saying he will voice-Slack Jacob/Clay and wants the group to discuss the email chain with Ryan already looped in.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Jacob/Clay/Ryan need to align with Micah on the Malone draw/architecture-fee posture and any bank response.",
+      "nextStep": "Jacob/Clay should listen for Micah's Slack context and discuss Malone bank/draw/architecture-fee handling with Ryan/Clay/Micah.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-07-17",
           "event": "Micah escalated Malone architecture/draw/bank materials for internal conversation with Jacob, Clay, and Ryan.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-17",
+          "event": "Micah re-forwarded Malone bank/draw and architecture-fee material for Jacob/Clay/Ryan discussion.",
           "type": "email"
         },
         {
@@ -73415,9 +73420,9 @@
       "id": "shelbyville-ryan-jordan-former-big-lots",
       "name": "Ryan Jordan / Former Big Lots",
       "property": "Shelbyville former Big Lots",
-      "status": "Kimley-Horn sent the preliminary test-fit exhibit: Dutch Bros in the northwest corner, car wash on the east, and two multi-tenant/QSR buildings on the south. KH recommends kicking off ALTA survey to identify utilities, grading, title, and other constraints before relying on the layout.",
-      "stage": "Contact Made",
-      "nextStep": "Jacob/Clay should review the exhibit with tenants and decide whether to request KH's ALTA Survey proposal.",
+      "status": "Kimley-Horn delivered the preliminary Shelbyville redevelopment test-fit exhibit showing Dutch Bros in the northwest corner, car wash on the east, and two multi-tenant/QSR buildings on the south. KH recommends kicking off an ALTA survey to identify utilities, grading, title, and other constraints before relying on the layout.",
+      "stage": "Trading Terms",
+      "nextStep": "Jacob/Clay should review the test-fit exhibit, decide whether to request the ALTA survey proposal, and share the layout/posture with Dutch Bros, car wash, QSR, Chick-fil-A, and Bealls conversations as appropriate.",
       "priority": "high",
       "contacts": [
         "Ryan Jordan (AVID Real Estate Advisors)",
@@ -73443,6 +73448,11 @@
         {
           "date": "2026-07-17",
           "event": "Kimley-Horn delivered Shelbyville preliminary test-fit exhibit and recommended ALTA survey before next-step layout reliance.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-17",
+          "event": "Kimley-Horn delivered preliminary Shelbyville outparcel test-fit exhibit and recommended ALTA survey proposal.",
           "type": "email"
         },
         {
@@ -74047,7 +74057,8 @@
         "avgSqFt": null,
         "suiteCount": 3,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Trading Terms"
     },
     {
       "id": "spirit-halloween-hamilton",
