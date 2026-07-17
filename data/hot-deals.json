@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T07:16:08.691844",
+  "lastUpdated": "2026-07-17T08:02:09.757311",
   "sourceDoc": "Copy of  2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-17",
@@ -29299,9 +29299,9 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Tom Fidler forwarded Upstream/Ashley Chester's final lease-language response: Section 4.A landlord language is acceptable; for Section 18, Upstream will remain liable for Permitted Transfers, and for non-Permitted Transfers will agree to liability for the then-current term if they receive notice/right to cure and consent rights for material lease modifications.",
+      "status": "Tom Fidler said the Pell City PT lease is with the COO to be signed early next week, likely mid-next week, because he signs once weekly and was recently on vacation. Tom also asked whether Anchor has ordered the new RTU; tenant plans are underway, state credentialing is complete, and FF&E orders have been made.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob needs to approve or revise the final assignment/liability language so Tom/Ashley can wrap the Pell City lease.",
+      "nextStep": "Jacob needs to confirm RTU ordering/status and keep Clay/LL aligned before execution packet arrives mid-next week.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
@@ -29340,6 +29340,11 @@
         {
           "date": "2026-07-17",
           "event": "Email from Kelsey Cornillie, Publisher: HCA explores TriStar rebrand",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-17",
+          "event": "Tom Fidler: COO signing expected mid-next week; asked whether new RTU has been ordered; plans/credentialing/FF&E are underway.",
           "type": "email"
         },
         {
