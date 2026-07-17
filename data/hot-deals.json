@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-17T13:02:38.352449",
+  "lastUpdated": "2026-07-17T15:01:10.983749",
   "sourceDoc": "Copy of  2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-17",
-    "greeting": "Good morning, Jacob. You have 24 overdue items.",
+    "greeting": "Good afternoon, Jacob. You have 24 overdue items.",
     "meetings": [
       {
         "time": "12:00 AM",
@@ -18,7 +18,7 @@
       {
         "time": "8:30 AM",
         "title": "Pell City - construction",
-        "dealContext": "Stage: Lease Signed | Tom Fidler forwarded Upstream/Ashley Chester's final lease-language response: Se… | Next: Jacob needs to approve or revise the final assignment/liability language so Tom/Ashley can wrap the Pell City lease."
+        "dealContext": "Stage: Lease Signed | Tom Fidler said the Pell City PT lease is with the COO to be signed early next w… | Next: Jacob needs to confirm RTU ordering/status and keep Clay/LL aligned before execution packet arrives mid-next week."
       },
       {
         "time": "8:45 AM",
@@ -88605,12 +88605,12 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-07-17T07:15:39",
+    "generatedAt": "2026-07-17T15:01:10",
     "source": "active-tasks",
     "yourPlate": [
       {
         "id": "sweep-plate-1",
-        "text": "Cul2vate / Generosity Committee tour scheduling — Maggie Johnson replied after Jacob offered to connect with Cul2vate, saying they would love to have the group come to the farm; Joey is available July 21 after 11:00 AM, July 22 anytime, or July 23 anytime. She also asked Jacob to send over the questionnaire and said Briley will help coordinate from here. Jacob needs to pick/send a tour time and send the questionnaire",
+        "text": "Cul2vate / Generosity Committee tour scheduling — Briley confirmed July 23 at 10:00 AM works for a Cul2vate farm tour with Joey after Jacob sent the Generosity Committee questionnaire. Jacob needs to invite/include any committee members who can attend and calendar the tour if not already done",
         "detail": "",
         "completed": false,
         "source": "active-tasks"
@@ -88862,7 +88862,7 @@
       },
       {
         "id": "sweep-plate-37",
-        "text": "Buena Vista / Moda Vista/BTR group call — Micah Slack-DMed a Nashville Business Journal-style note that Moda Homes closed a $49.43M construction loan from Forman Capital for Moda Vista, a 102-unit build-to-rent community at 3320 Curtis St in Bordeaux/NW Nashville, and said Jacob needs to call this group about Buena Vista. 7/16 update: Mack Furlow / The BTR Group is taking another look after Jacob said the owner has flexibility and shared the Drive folder; Mack will review documents and return an underwritten land-basis range. Jacob needs to wait for Mack's basis range, then decide whether the lower-basis/structure is worth pursuing. Command Center updated",
+        "text": "Buena Vista / residential developer follow-up — Micah Slack-DMed a Nashville Business Journal-style note that Moda Homes closed a $49.43M construction loan from Forman Capital for Moda Vista, a 102-unit build-to-rent community at 3320 Curtis St in Bordeaux/NW Nashville, and said Jacob needs to call this group about Buena Vista. 7/16 update: Mack Furlow / The BTR Group is taking another look after Jacob said the owner has flexibility and shared the Drive folder; Mack will review documents and return an underwritten land-basis range. 7/17 update: Drew Taylor / Lennar passed on 2433 Buena Vista because Lennar already has one active community and one upcoming community nearby, but asked whether Jacob has any other opportunities he is representing. Jacob needs to wait for Mack's basis range, decide whether the lower-basis/structure is worth pursuing, and decide whether to send Drew another represented opportunity or keep him warm. Command Center updated",
         "detail": "",
         "completed": false,
         "source": "active-tasks"
@@ -89219,7 +89219,7 @@
       },
       {
         "id": "sweep-plate-88",
-        "text": "Pell City Physical Therapy / Home Health RFP — Challenge/value-engineer RFP pricing; 5/11 meeting added that the original home-health company is back and may slot into the middle space, so keep competitive pressure across the Pell City prospects. Also tell Easterseals/Laurie another interested party is active and ask for CEO feedback within 10-14 days. 6/18 update: Tom Fidler/MacKenzie forwarded a DOCX commercial lease for Pell City Partners / Upstream Growth (Drayer PT / Upstream Rehabilitation); Jacob needs to review/route lease comments and not process the DOCX in the main session. 6/30 update: Davis Coleman plans to make a Pell City site visit on 7/1 for measurements/MEP info and said he will reply once finished so Jacob can pull the lockbox. 7/9 9 AM update: Tom followed up sharply asking for lease-comment status because it has been several weeks; Jacob needs to get comments routed/returned or send a realistic timing update today. 7/16 Slack update: Clay asked Jacob to send the work letter for the physical therapy group and questioned whether duct work and painting the new drywall are included; Jacob needs to send/clarify scope for Clay. Command Center update attempted but no matching deal key was found",
+        "text": "Pell City Physical Therapy / Home Health RFP — Challenge/value-engineer RFP pricing; 5/11 meeting added that the original home-health company is back and may slot into the middle space, so keep competitive pressure across the Pell City prospects. Also tell Easterseals/Laurie another interested party is active and ask for CEO feedback within 10-14 days. 6/18 update: Tom Fidler/MacKenzie forwarded a DOCX commercial lease for Pell City Partners / Upstream Growth (Drayer PT / Upstream Rehabilitation); Jacob needs to review/route lease comments and not process the DOCX in the main session. 6/30 update: Davis Coleman plans to make a Pell City site visit on 7/1 for measurements/MEP info and said he will reply once finished so Jacob can pull the lockbox. 7/9 9 AM update: Tom followed up sharply asking for lease-comment status because it has been several weeks; Jacob needs to get comments routed/returned or send a realistic timing update today. 7/16 Slack update: Clay asked Jacob to send the work letter for the physical therapy group and questioned whether duct work and painting the new drywall are included; Jacob needs to send/clarify scope for Clay. 7/17 8 AM update: Tom said the lease is with the COO to be signed early next week / likely mid-next week, and asked whether Anchor has ordered the new RTU because tenant plans are underway, state credentialing is complete, and FF&E orders have been made. Jacob needs to confirm RTU ordering/status and keep Clay/LL aligned. Command Center updated",
         "detail": "",
         "completed": false,
         "source": "active-tasks"
@@ -89338,7 +89338,7 @@
       },
       {
         "id": "sweep-plate-105",
-        "text": "Great Greek / Maple Row signed LOI — Joey Valenti sent the signed Final LOI with `TGG LOI.pdf` attached and said \"Lets get it rocking\"; move from LOI issue posture into lease draft / ownership handoff path, while preserving HVAC/equipment responsibility review if still open. On 6/8 Joey asked what the locked exterior double door on the south side/back-right corner is for and where an in-ground grease trap may be installed. 6/22 meeting: ping Great Greek/franchisee this week to confirm they are working on the lease, target signing date, and desired construction-start timing; coordinate with Clay before giving Fox’s Pizza formal notice and keep Fox’s generally in the loop only after Great Greek is truly committed. 7/9 4 PM update: Joey sent revised clean/redline DOCX and PDF lease drafts incorporating the franchise rider after legal delay. Jacob needs to review/reroute the revised lease package and decide response path. Do not process attached DOCX files in the main session. Command Center updated",
+        "text": "Great Greek / Maple Row signed LOI — Joey Valenti sent the signed Final LOI with `TGG LOI.pdf` attached and said \"Lets get it rocking\"; move from LOI issue posture into lease draft / ownership handoff path, while preserving HVAC/equipment responsibility review if still open. On 6/8 Joey asked what the locked exterior double door on the south side/back-right corner is for and where an in-ground grease trap may be installed. 6/22 meeting: ping Great Greek/franchisee this week to confirm they are working on the lease, target signing date, and desired construction-start timing; coordinate with Clay before giving Fox’s Pizza formal notice and keep Fox’s generally in the loop only after Great Greek is truly committed. 7/9 4 PM update: Joey sent revised clean/redline DOCX and PDF lease drafts incorporating the franchise rider after legal delay. 7/17 10 AM update: Joey said he is happy to have a \"come to Jesus\" with the tenant and that they have started drawings / are full steam ahead. Jacob needs to decide whether to have Joey push the tenant while Anchor finishes its legal/business redline response. Do not process attached DOCX files in the main session. Command Center updated",
         "detail": "",
         "completed": false,
         "source": "active-tasks"
@@ -89998,14 +89998,14 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-07-17T07:15:39",
+    "generatedAt": "2026-07-17T15:01:10",
     "source": "active-tasks",
     "items": [
       {
         "id": "focus-plate-1",
         "dealName": "Cul2vate / Generosity Committee tour scheduling",
         "property": null,
-        "action": "Maggie Johnson replied after Jacob offered to connect with Cul2vate, saying they would love to have the group come to the farm; Joey is a...",
+        "action": "Briley confirmed July 23 at 10:00 AM works for a Cul2vate farm tour with Joey after Jacob sent the Generosity Committee questionnaire. Ja...",
         "why": "Top of your active task list this week.",
         "urgency": "high",
         "type": "task"
