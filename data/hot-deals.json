@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T10:02:15.812006",
+  "lastUpdated": "2026-07-17T11:02:09.274266",
   "sourceDoc": "Copy of  2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-17",
@@ -60949,10 +60949,10 @@
     {
       "id": "buena-vista",
       "name": "Buena Vista",
-      "property": "2433 Buena Vista Pike",
+      "property": "Buena Vista Pike",
       "type": "Land/Development",
-      "status": "Mack Furlow / The BTR Group is taking another look after Jacob said owner has flexibility and shared the Drive folder; Mack will review documents and come back with underwritten land basis.",
-      "nextStep": "Wait for Mack's underwritten land-basis range, then decide whether the lower-basis/structure is worth pursuing.",
+      "status": "Lennar reviewed the 2433 Buena Vista Pike townhome opportunity and passed because they already have one active community and one upcoming community in the immediate area, but Drew Taylor asked whether Jacob has any other opportunities he is representing.",
+      "nextStep": "Jacob should decide whether to send Drew another represented residential/development opportunity or keep him warm for future non-overlapping sites.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
@@ -60964,14 +60964,20 @@
         "Sanjay P. (Crexi prospect)",
         "Anthony Blout (Avanti Residential)",
         "Peter Deprey (PulteGroup)",
-        "Mack Furlow (The BTR Group)"
+        "Mack Furlow (The BTR Group)",
+        "Drew Taylor (Lennar Land Acquisition Manager)"
       ],
-      "priority": "high",
+      "priority": "medium",
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
           "date": "2026-07-17",
           "event": "Email from The CRE Rundown by Trepp: Rent Concessions in Austin, Texas, Take Toll on Cash Flows",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-17",
+          "event": "Lennar passed on 2433 Buena Vista due to nearby pipeline concentration; Drew Taylor asked whether Jacob has other opportunities.",
           "type": "email"
         },
         {
