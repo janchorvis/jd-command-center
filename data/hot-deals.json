@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T15:01:49.104317",
+  "lastUpdated": "2026-07-17T15:03:38.330383",
   "sourceDoc": "Copy of  2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-17",
@@ -58836,6 +58836,26 @@
         "suiteCount": 4,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "millington-plaza-clay-s-crexi",
+      "name": "Clay S. / Millington Plaza Crexi brochure activity",
+      "property": "Millington Plaza",
+      "status": "Crexi notified that Clay S. downloaded/opened the Millington Plaza brochure. No direct message/body or contact details were included beyond the dashboard activity notice.",
+      "stage": "Contact Made",
+      "nextStep": "Decide whether to follow up through Crexi/contact path and capture Clay S.'s phone/email/use.",
+      "priority": "medium",
+      "contacts": [
+        "Clay S. (Crexi brochure activity)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-07-17",
+          "event": "Crexi brochure activity: Clay S. opened/downloaded Millington Plaza brochure",
+          "type": "lead"
+        }
+      ],
+      "actions": []
     }
   ],
   "sideDeals": [
