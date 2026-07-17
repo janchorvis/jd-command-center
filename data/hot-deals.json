@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T08:02:09.757311",
+  "lastUpdated": "2026-07-17T09:02:46.153864",
   "sourceDoc": "Copy of  2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-17",
@@ -57545,9 +57545,9 @@
       "id": "pell-city-803-martin-compassus",
       "name": "Compassus",
       "property": "Pell City / 803 Martin St S",
-      "status": "Lauri Fowler sent a Teams invite for a Compassus construction call tomorrow, July 17, 8:30-9:00 AM CT, with Kevin Santos and Victoria Taylor, after asking about availability to discuss the construction manager's scope/cost path.",
+      "status": "Construction call summary says buildout costs are over $155/SF for roughly 2,600-2,700 SF; key cost drivers are demising wall, drywall/electrical, ceiling/HVAC, with HVAC allowance at $75K. Current rent proposal of $47/SF is too high for Compassus, so a detailed proposal with reuse of existing bathrooms, ceiling tiles, polished concrete, and possibly existing HVAC is needed.",
       "stage": "Trading Terms",
-      "nextStep": "Jacob needs to accept/attend or reschedule the July 17 8:30 AM CT construction call and be ready to discuss buildout cost/rent options.",
+      "nextStep": "Jacob needs to provide Compassus a detailed proposal, send pictures/floor plans, and provide local contractor recommendations so Lauri/Kevin can decide feasibility.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar CRE)",
@@ -57558,6 +57558,11 @@
         "Victoria Taylor"
       ],
       "timeline": [
+        {
+          "date": "2026-07-17",
+          "event": "TeamsMaestro Pell City construction summary: costs over $155/SF, $75K HVAC allowance, $47/SF rent proposal too high; Jacob owes detailed proposal, pictures/floor plans, and local contractor recommendations.",
+          "type": "email"
+        },
         {
           "date": "2026-07-16",
           "event": "Email from Lauri Fowler: 803 Martin St. S.",
