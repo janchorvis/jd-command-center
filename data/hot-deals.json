@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T11:02:09.274266",
+  "lastUpdated": "2026-07-17T12:01:53.970591",
   "sourceDoc": "Copy of  2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-17",
@@ -24169,12 +24169,17 @@
       "id": "malone-marshalls",
       "name": "Marshalls",
       "property": "Malone Plaza",
-      "status": "TJX/Gatekeeper asked Clay and Jacob to acknowledge/sign either the site plan or PML for a cart-containment system at Marshalls; after Clay asked about location, Gatekeeper clarified the loop will only be at the entrance sidewalk, not in the parking lot.",
+      "status": "Micah forwarded bank/draw materials and asked Jacob/Clay/Ryan for a conversation on the Malone architecture/draw/loan posture after talking to Ryan, with Slack voice follow-up promised.",
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
-      "nextStep": "Jacob/Clay need to decide whether to approve/sign the site plan or PML for the cart-containment loop.",
+      "nextStep": "Jacob/Clay/Ryan need to align with Micah on the Malone draw/architecture-fee posture and any bank response.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-07-17",
+          "event": "Micah escalated Malone architecture/draw/bank materials for internal conversation with Jacob, Clay, and Ryan.",
+          "type": "email"
+        },
         {
           "date": "2026-07-16",
           "event": "Email from Melissa Eddy: Fwd: T20260714.0025 - Remove Google Workplace Member - Anchor Investments",
@@ -26787,7 +26792,8 @@
         "Robert Richardson (TJX Development Manager)",
         "Joshua Conroy (Camburas Theodore)",
         "Laurie Schindler (StoreCrafters)",
-        "Joe Silvaggi (StoreCrafters)"
+        "Joe Silvaggi (StoreCrafters)",
+        "Ryan Romes"
       ],
       "actions": [
         {
@@ -38885,13 +38891,18 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row",
-      "status": "Joey Valenti offered to have a \"come to Jesus\" with the tenant and said Great Greek has started drawings / is full steam ahead while Anchor works through the heavy lease comments.",
+      "status": "Joey Valenti offered to have a 'come to Jesus' conversation with the Great Greek tenant and noted they have started drawings and are full steam ahead despite heavy lease comments.",
       "nextStep": "Jacob decide whether to have Joey push tenant while Anchor finishes legal/business redline response.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-07-17",
           "event": "Joey offered to push tenant; tenant has started drawings and is full steam ahead.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-17",
+          "event": "Joey Valenti offered to push Great Greek tenant; tenant has started drawings and is full steam ahead.",
           "type": "email"
         },
         {
@@ -47789,9 +47800,9 @@
       "id": "gilded-spine-maple-row",
       "name": "Gilded Spine (Storybook Soirees LLC)",
       "property": "Maple Row",
-      "status": "Micah asked Jacob for quick Gilded Spine deal highlights, including tenant investment in the suite, guarantee strength, and any folder link with deal information.",
+      "status": "Clay asked Jacob on Slack to schedule a leasing-to-PM handoff for Gilded Spine with Melissa and Clay.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Send Micah Gilded Spine deal highlights or folder link.",
+      "nextStep": "Jacob schedule the Gilded Spine leasing-to-PM handoff with Melissa and Clay.",
       "priority": "high",
       "contacts": [
         "Hillary Holmes – gildedspinebooks@gmail.com, (414) 607-2197",
@@ -47800,9 +47811,15 @@
         "Hillary Holmes",
         "Clay Richardson",
         "Hillary Holmes (Gilded Spine / Storybook Soirees LLC)",
-        "Micah Lacher"
+        "Micah Lacher",
+        "Melissa Drish"
       ],
       "timeline": [
+        {
+          "date": "2026-07-17",
+          "event": "Clay asked Jacob to schedule a leasing-to-PM handoff for Gilded Spine with Melissa and Clay.",
+          "type": "slack"
+        },
         {
           "date": "2026-07-16",
           "event": "Email from Robert Richardson: Gatekeeper - Malone NY / Shirley NY",
@@ -73397,10 +73414,10 @@
     {
       "id": "shelbyville-ryan-jordan-former-big-lots",
       "name": "Ryan Jordan / Former Big Lots",
-      "property": "Shelbyville former Big Lots / outparcel context",
-      "status": "Adam forwarded a Chipotle Shelbyville inquiry. Bryan Chandler asked Adam to share a site plan and said to let him know if a footprint is needed.",
+      "property": "Shelbyville former Big Lots",
+      "status": "Kimley-Horn sent the preliminary test-fit exhibit: Dutch Bros in the northwest corner, car wash on the east, and two multi-tenant/QSR buildings on the south. KH recommends kicking off ALTA survey to identify utilities, grading, title, and other constraints before relying on the layout.",
       "stage": "Contact Made",
-      "nextStep": "Adam/Jacob should send the Shelbyville site plan and ask whether Chipotle needs to provide a footprint for review.",
+      "nextStep": "Jacob/Clay should review the exhibit with tenants and decide whether to request KH's ALTA Survey proposal.",
       "priority": "high",
       "contacts": [
         "Ryan Jordan (AVID Real Estate Advisors)",
@@ -73423,6 +73440,11 @@
         "Lori Adler (Chipotle)"
       ],
       "timeline": [
+        {
+          "date": "2026-07-17",
+          "event": "Kimley-Horn delivered Shelbyville preliminary test-fit exhibit and recommended ALTA survey before next-step layout reliance.",
+          "type": "email"
+        },
         {
           "date": "2026-07-16",
           "event": "Email from Matthews™: Smarter Leasing Strategies for Retail Real Estate",
