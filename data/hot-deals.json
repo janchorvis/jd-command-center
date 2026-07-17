@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T09:02:46.153864",
+  "lastUpdated": "2026-07-17T10:02:15.812006",
   "sourceDoc": "Copy of  2026-07-12 - Leasing Meeting",
   "today": {
     "date": "2026-07-17",
@@ -38885,10 +38885,15 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row",
-      "status": "Joey Valenti followed up asking whether Jacob received the revised Great Greek lease he sent last week; Jacob needs to confirm receipt and keep the lease review/response moving.",
-      "nextStep": "Confirm receipt of Joey Valenti's revised lease package and route/review Great Greek lease comments.",
+      "status": "Joey Valenti offered to have a \"come to Jesus\" with the tenant and said Great Greek has started drawings / is full steam ahead while Anchor works through the heavy lease comments.",
+      "nextStep": "Jacob decide whether to have Joey push tenant while Anchor finishes legal/business redline response.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-07-17",
+          "event": "Joey offered to push tenant; tenant has started drawings and is full steam ahead.",
+          "type": "email"
+        },
         {
           "date": "2026-07-16",
           "event": "Email from Jacob Delk: McMinnville UPS Store Lease Execution",
