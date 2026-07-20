@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T10:03:16.381377",
+  "lastUpdated": "2026-07-20T11:02:49.912888",
   "sourceDoc": "2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-20",
@@ -58922,13 +58922,15 @@
       "id": "river-parkway-cosmoprof",
       "name": "CosmoProf",
       "property": "River Parkway Plaza",
-      "status": "CosmoProf LOI is approved on Anchor side; Brad Altum confirmed the 7/29 committee date is set.",
+      "status": "BSM/CosmoProf LOI path advanced after Jacob approved the updated LOI and sent site-plan material; Brad Altum says the 7/29 committee date is set.",
       "stage": "LOI",
-      "nextStep": "Track 7/29 committee outcome and next LOI/lease step.",
+      "nextStep": "Wait for / track CosmoProf committee decision on 2026-07-29.",
       "priority": "high",
       "contacts": [
         "Kevin Trujillo (Baker Storey McDonald Properties)",
-        "Brad Altum (Baker Storey McDonald Properties)"
+        "Brad Altum (Baker Storey McDonald Properties)",
+        "Kevin Trujillo (BSM)",
+        "Brad Altum (BSM)"
       ],
       "timeline": [
         {
@@ -58939,6 +58941,11 @@
         {
           "date": "2026-07-20",
           "event": "Brad Altum confirmed 7/29 committee date set for CosmoProf LOI.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-20",
+          "event": "Brad Altum confirmed CosmoProf's 7/29 committee date is set.",
           "type": "email"
         },
         {
