@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T09:53:22.006162",
+  "lastUpdated": "2026-07-20T09:54:33.290970",
   "sourceDoc": "2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-20",
@@ -89907,65 +89907,65 @@
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/17, Pipedrive not updated since 3/19",
+      "message": "Last email 7/20, Pipedrive not updated since 3/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-17",
+        "lastEmailDate": "2026-07-20",
         "lastPipedriveDate": "2025-03-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 485
+        "pipedriveDaysAgo": 488
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/17, Pipedrive not updated since 1/28",
+      "message": "Last email 7/20, Pipedrive not updated since 1/28",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-17",
+        "lastEmailDate": "2026-07-20",
         "lastPipedriveDate": "2026-01-28",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 170
+        "pipedriveDaysAgo": 173
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/17, Pipedrive not updated since 2/19",
+      "message": "Last email 7/20, Pipedrive not updated since 2/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-17",
+        "lastEmailDate": "2026-07-20",
         "lastPipedriveDate": "2026-02-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 148
+        "pipedriveDaysAgo": 151
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/17, Pipedrive not updated since 1/28",
+      "message": "Last email 7/20, Pipedrive not updated since 1/28",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-17",
+        "lastEmailDate": "2026-07-20",
         "lastPipedriveDate": "2026-01-28",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 170
+        "pipedriveDaysAgo": 173
       }
     },
     {
       "deal": "ABC Retail",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/17, Pipedrive not updated since 2/23",
+      "message": "Last email 7/20, Pipedrive not updated since 2/23",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-17",
+        "lastEmailDate": "2026-07-20",
         "lastPipedriveDate": "2026-02-23",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 144
+        "pipedriveDaysAgo": 147
       }
     },
     {
@@ -89977,8 +89977,8 @@
       "details": {
         "lastEmailDate": "2026-07-17",
         "lastPipedriveDate": "2025-03-19",
-        "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 485
+        "emailDaysAgo": 3,
+        "pipedriveDaysAgo": 488
       }
     },
     {
@@ -89990,8 +89990,8 @@
       "details": {
         "lastEmailDate": "2026-07-17",
         "lastPipedriveDate": "2025-03-24",
-        "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 480
+        "emailDaysAgo": 3,
+        "pipedriveDaysAgo": 483
       }
     },
     {
@@ -90003,8 +90003,8 @@
       "details": {
         "lastEmailDate": "2026-07-17",
         "lastPipedriveDate": "2025-08-26",
-        "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 325
+        "emailDaysAgo": 3,
+        "pipedriveDaysAgo": 328
       }
     },
     {
@@ -90016,8 +90016,8 @@
       "details": {
         "lastEmailDate": "2026-07-17",
         "lastPipedriveDate": "2025-03-25",
-        "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 479
+        "emailDaysAgo": 3,
+        "pipedriveDaysAgo": 482
       }
     },
     {
@@ -90029,8 +90029,8 @@
       "details": {
         "lastEmailDate": "2026-07-17",
         "lastPipedriveDate": "2025-03-26",
-        "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 478
+        "emailDaysAgo": 3,
+        "pipedriveDaysAgo": 481
       }
     },
     {
@@ -90042,8 +90042,8 @@
       "details": {
         "lastEmailDate": "2026-07-17",
         "lastPipedriveDate": "2025-08-02",
-        "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 349
+        "emailDaysAgo": 3,
+        "pipedriveDaysAgo": 352
       }
     },
     {
@@ -90055,8 +90055,8 @@
       "details": {
         "lastEmailDate": "2026-07-17",
         "lastPipedriveDate": "2025-11-04",
-        "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 255
+        "emailDaysAgo": 3,
+        "pipedriveDaysAgo": 258
       }
     },
     {
@@ -90068,8 +90068,8 @@
       "details": {
         "lastEmailDate": "2026-07-17",
         "lastPipedriveDate": "2026-02-19",
-        "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 148
+        "emailDaysAgo": 3,
+        "pipedriveDaysAgo": 151
       }
     },
     {
@@ -90081,60 +90081,60 @@
       "details": {
         "lastEmailDate": "2026-07-17",
         "lastPipedriveDate": "2026-03-24",
-        "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 115
+        "emailDaysAgo": 3,
+        "pipedriveDaysAgo": 118
       }
     },
     {
       "deal": "CosmoProf",
       "property": "River Parkway Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/17, Pipedrive not updated since 2/19",
+      "message": "Last email 7/20, Pipedrive not updated since 2/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-17",
+        "lastEmailDate": "2026-07-20",
         "lastPipedriveDate": "2026-02-19",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 148
+        "pipedriveDaysAgo": 151
       }
     },
     {
       "deal": "Factory Connection",
       "property": "Russellville",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/17, Pipedrive not updated since 1/5",
+      "message": "Last email 7/19, Pipedrive not updated since 1/5",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-17",
+        "lastEmailDate": "2026-07-19",
         "lastPipedriveDate": "2026-01-05",
-        "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 193
+        "emailDaysAgo": 1,
+        "pipedriveDaysAgo": 196
       }
     },
     {
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/17, Pipedrive not updated since 3/26",
+      "message": "Last email 7/20, Pipedrive not updated since 3/26",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-17",
+        "lastEmailDate": "2026-07-20",
         "lastPipedriveDate": "2025-03-26",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 478
+        "pipedriveDaysAgo": 481
       }
     },
     {
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/17, Pipedrive not updated since 5/4",
+      "message": "Last email 7/20, Pipedrive not updated since 5/4",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-17",
+        "lastEmailDate": "2026-07-20",
         "lastPipedriveDate": "2026-05-04",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 74
+        "pipedriveDaysAgo": 77
       }
     },
     {
@@ -90146,8 +90146,8 @@
       "details": {
         "lastEmailDate": "2026-07-17",
         "lastPipedriveDate": "2026-03-30",
-        "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 109
+        "emailDaysAgo": 3,
+        "pipedriveDaysAgo": 112
       }
     },
     {
@@ -90159,8 +90159,8 @@
       "details": {
         "lastEmailDate": "2026-07-17",
         "lastPipedriveDate": "2025-03-31",
-        "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 473
+        "emailDaysAgo": 3,
+        "pipedriveDaysAgo": 476
       }
     },
     {
@@ -90172,8 +90172,8 @@
       "details": {
         "lastEmailDate": "2026-07-17",
         "lastPipedriveDate": "2025-08-27",
-        "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 324
+        "emailDaysAgo": 3,
+        "pipedriveDaysAgo": 327
       }
     },
     {
@@ -90185,34 +90185,34 @@
       "details": {
         "lastEmailDate": "2026-07-17",
         "lastPipedriveDate": "2024-08-16",
-        "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 700
+        "emailDaysAgo": 3,
+        "pipedriveDaysAgo": 703
       }
     },
     {
       "deal": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/17, Pipedrive not updated since 3/24",
+      "message": "Last email 7/20, Pipedrive not updated since 3/24",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-17",
+        "lastEmailDate": "2026-07-20",
         "lastPipedriveDate": "2026-03-24",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 115
+        "pipedriveDaysAgo": 118
       }
     },
     {
       "deal": "Wingstop",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/17, Pipedrive not updated since 4/27",
+      "message": "Last email 7/20, Pipedrive not updated since 4/27",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-17",
+        "lastEmailDate": "2026-07-20",
         "lastPipedriveDate": "2026-04-27",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 81
+        "pipedriveDaysAgo": 84
       }
     }
   ],
