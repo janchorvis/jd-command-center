@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T11:02:49.912888",
+  "lastUpdated": "2026-07-20T14:01:54.635049",
   "sourceDoc": "2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-20",
@@ -79345,10 +79345,10 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike Circle",
-      "status": "Kadie Black / Woodmont called and emailed about an interested tenant. Jacob forwarded to Adam asking him to call back, so Jacob has already handled routing.",
+      "status": "Adam forwarded a fresh LOI from Jamie Brandenburg / Championship Holdings for 312 Wilson Pike Circle, with a clean LOI and landlord pitch deck attached. Jamie asked whether they can move forward and said they are excited to get a deal done.",
       "stage": "LOI",
-      "nextStep": "Adam to call Kadie back; Jacob no longer latest action blocker unless Adam needs backup.",
-      "priority": "medium",
+      "nextStep": "Jacob needs to review the attached LOI/pitch deck with Adam and decide response/counter posture against the existing Wilson Pike full-building and partial-use paths.",
+      "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
         "Micah Lacher",
@@ -79380,7 +79380,9 @@
         "Parker Greenwood / Parker G. (Crexi lead; music production studio)",
         "Ben Dotye (Stream Realty)",
         "Parker Greenwood / Parker G.",
-        "Kadie Black (Woodmont Realty)"
+        "Kadie Black (Woodmont Realty)",
+        "Jamie Brandenburg (Championship Holdings)",
+        "Chelsea Williams"
       ],
       "timeline": [
         {
@@ -79391,6 +79393,11 @@
         {
           "date": "2026-07-20",
           "event": "Email from Phoenix Club of Nashville: New PCON Prospect - Jacob Blincoe",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-20",
+          "event": "Adam forwarded Jamie Brandenburg / Championship Holdings LOI and landlord pitch deck for 312 Wilson Pike Circle.",
           "type": "email"
         },
         {
