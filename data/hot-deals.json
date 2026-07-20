@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T09:54:33.290970",
+  "lastUpdated": "2026-07-20T10:03:16.381377",
   "sourceDoc": "2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-20",
@@ -37,9 +37,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below accepted the general facade intent but asked whether the proposed 22-foot elevation can go higher so Five Below is not dwarfed by other retailers. Shaun/C2 answered that the existing gable point is 23 feet 4 inches and the lower Big Lots parapet is 26 feet 7 inches, warning that increasing the parapet may stop blending aesthetically with the plaza and deferring final direction to Five Below/Clay.",
+      "status": "Clay summarized Malone architect/civil fee posture for Shoe Department, Marshalls, and Five Below; Shoe Department first draw check expected this week, Marshalls architecture paid, Five Below proposal still not signed/commissioned.",
       "stage": "Lease Signed",
-      "nextStep": "Clay/Jacob need to choose a facade-height posture for Five Below, either hold 22 feet or explore a higher parapet, and keep cost/constructability aligned with ownership.",
+      "nextStep": "Jacob/Micah/Clay align on draw/architecture fee posture and whether/when to commission Five Below work.",
       "priority": "high",
       "timeline": [
         {
@@ -55,6 +55,11 @@
         {
           "date": "2026-07-20",
           "event": "Email from Kevin Trujillo: FW: River Parkway Plaza - LOI - CosmoProf",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-20",
+          "event": "Clay sent updated Malone architecture/civil fee notes: Shoe Dept fees/draw, Marshalls paid, Five Below proposal not signed.",
           "type": "email"
         },
         {
@@ -58917,9 +58922,9 @@
       "id": "river-parkway-cosmoprof",
       "name": "CosmoProf",
       "property": "River Parkway Plaza",
-      "status": "Kevin Trujillo forwarded CosmoProf updated LOI dated 7/14/26 and asked Jacob for an updated site plan or aerial.",
+      "status": "CosmoProf LOI is approved on Anchor side; Brad Altum confirmed the 7/29 committee date is set.",
       "stage": "LOI",
-      "nextStep": "Review updated LOI and provide updated site plan/aerial to Kevin/CosmoProf.",
+      "nextStep": "Track 7/29 committee outcome and next LOI/lease step.",
       "priority": "high",
       "contacts": [
         "Kevin Trujillo (Baker Storey McDonald Properties)",
@@ -58929,6 +58934,11 @@
         {
           "date": "2026-07-20",
           "event": "Email from Kevin Trujillo: FW: River Parkway Plaza - LOI - CosmoProf",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-20",
+          "event": "Brad Altum confirmed 7/29 committee date set for CosmoProf LOI.",
           "type": "email"
         },
         {
