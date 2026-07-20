@@ -1,8 +1,8 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-07-16 6:31 PM CDT
+Last updated: 2026-07-17 6:00 PM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T286 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T287 -->
 
 ## ACTIVE — Jacob needs to do these
 
@@ -17,6 +17,8 @@ Last updated: 2026-07-16 6:31 PM CDT
 - T229/T231 / Shelbyville 5B-Bealls broker redevelopment call — Asana `1216544856043559`
 - T141 / MacBids-LED early renewal ask — Asana `1216538449127390`
 - T154 / Great Greek lease comments/execution path — Asana `1216538012785504`
+
+- T286: Clay S. / Millington Plaza Crexi brochure activity — Crexi notified that Clay S. downloaded/opened the Millington Plaza brochure. No direct message/body or contact details were included beyond the dashboard activity notice. Jacob needs to decide whether to follow up through Crexi/contact path and capture phone/email/use. Suggested reply posted in Discord; no Gmail draft was created and no external reply was sent. Command Center updated. [gmail thread/message: 19f7199eba763eaa] [source: Communication Triage 2026-07-17 3 PM] [deal: Millington Plaza]
 
 
 - T281: Cul2vate / Generosity Committee tour scheduling — Briley confirmed July 23 at 10:00 AM works for a Cul2vate farm tour with Joey after Jacob sent the Generosity Committee questionnaire. Jacob needs to invite/include any committee members who can attend and calendar the tour if not already done. [gmail thread: 19f6b53665fb0c9b] [source: Communication Triage 2026-07-16 2 PM; Communication Triage 2026-07-17 11 AM] [project: Anchor Generosity Committee / Cul2vate]
