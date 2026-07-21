@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T10:03:03.826414",
+  "lastUpdated": "2026-07-21T11:02:33.075895",
   "sourceDoc": "2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-21",
@@ -57,14 +57,19 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Clay summarized Malone architect/civil fee posture for Shoe Department, Marshalls, and Five Below; Shoe Department first draw check expected this week, Marshalls architecture paid, Five Below proposal still not signed/commissioned.",
+      "status": "Five Below / Bill Castagna replied that they are hoping to send lease comments over this week after Jacob pressed for timing while contractor coordination continues in parallel.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Micah/Clay align on draw/architecture fee posture and whether/when to commission Five Below work.",
+      "nextStep": "Track receipt of Five Below comments this week and coordinate with Ashby/contractor workstreams once received.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-07-21",
           "event": "Email from Jacob Delk: Shirt + Hat Embroidery",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-21",
+          "event": "Bill Castagna said Five Below is hoping to send lease comments over this week.",
           "type": "email"
         },
         {
@@ -63435,8 +63440,8 @@
       "name": "Buena Vista",
       "property": "Buena Vista Pike",
       "type": "Land/Development",
-      "status": "Lennar reviewed the 2433 Buena Vista Pike townhome opportunity and passed because they already have one active community and one upcoming community in the immediate area, but Drew Taylor asked whether Jacob has any other opportunities he is representing.",
-      "nextStep": "Jacob should decide whether to send Drew another represented residential/development opportunity or keep him warm for future non-overlapping sites.",
+      "status": "Pulte / Peter Deprey replied after Jacob invited an offer and said they would be in the ballpark of $1M for 2433 Buena Vista Pike. This is far below prior $10M guidance and likely a data point rather than a real path unless ownership wants a low-basis townhome-only takeout.",
+      "nextStep": "Jacob needs to decide whether to acknowledge/pass, send to ownership as market feedback, or keep Pulte warm only if they can materially improve beyond $1M.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
@@ -63449,14 +63454,20 @@
         "Anthony Blout (Avanti Residential)",
         "Peter Deprey (PulteGroup)",
         "Mack Furlow (The BTR Group)",
-        "Drew Taylor (Lennar Land Acquisition Manager)"
+        "Drew Taylor (Lennar Land Acquisition Manager)",
+        "Peter Deprey (Pulte Land Acquisition Manager)"
       ],
-      "priority": "medium",
+      "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
           "date": "2026-07-21",
           "event": "Email from The CRE Rundown by Trepp: Despite Heady Volume of Closures, Retail Sector Stays Strong",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-21",
+          "event": "Pulte indicated Buena Vista ballpark pricing around $1M after Jacob invited offers.",
           "type": "email"
         },
         {
