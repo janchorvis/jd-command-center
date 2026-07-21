@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T13:02:01.353155",
+  "lastUpdated": "2026-07-21T14:03:06.909106",
   "sourceDoc": "2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-21",
@@ -81012,9 +81012,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike Circle",
-      "status": "New Bounat inquiry from Adriana McAdams for a high-end fitness gym user asking whether space is still available, parking ratio, rent, and co-broker fee. This adds another active fitness/use path to the existing Wilson Pike collision map alongside Real Equity LOI diligence and other full/partial-building prospects.",
+      "status": "New full-building/fitness-medical momentum: Adriana McAdams / Bounat replied that the high-end fitness prospect is Wolf Gyms, interested in the whole building, and provided a brand deck; CoStar/Holiner inquiry from Michele Kornbluth for a PE-backed psych practice expanding from TX seeks about 5,000 SF, ideally first-floor/direct access, and asked for flyer, floor plan, pricing, nets, and signage options. Real Equity LOI diligence remains active, with Jacob asking for guarantor financials.",
       "stage": "LOI",
-      "nextStep": "Jacob/Adam need to decide whether to quote availability/rent/parking/co-broker terms and how to position this gym inquiry against existing 312 Wilson Pike LOI/full-building/partial-space paths.",
+      "nextStep": "Jacob/Adam need to triage Wilson Pike collision map: keep whole-building prospects warm, decide whether psych practice/fitness user get pricing and tour materials, and require guarantor/PFS/backstop for startup LOI path before committing.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -81051,7 +81051,8 @@
         "Jamie Brandenburg (Championship Holdings)",
         "Chelsea Williams",
         "Jamie Brandenburg / The Real Equity Group",
-        "Adriana McAdams (Bounat)"
+        "Adriana McAdams (Bounat)",
+        "Michele Kornbluth (Holiner)"
       ],
       "timeline": [
         {
@@ -81067,6 +81068,16 @@
         {
           "date": "2026-07-21",
           "event": "Adriana McAdams / Bounat asked about 312 Wilson Pike availability, parking ratio, rent, and co-broker fee for a high-end fitness gym user.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-07-21",
+          "event": "Bounat identified Wolf Gyms as a whole-building high-end fitness prospect and sent brand deck.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-21",
+          "event": "CoStar/Holiner inquiry for PE-backed psych practice seeking about 5,000 SF, first-floor/direct-access preference, with flyer/floor-plan/pricing/nets/signage questions.",
           "type": "lead"
         },
         {
