@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T14:03:06.909106",
+  "lastUpdated": "2026-07-21T16:02:12.070715",
   "sourceDoc": "2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-21",
@@ -57,9 +57,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below / Bill Castagna replied that they are hoping to send lease comments over this week after Jacob pressed for timing while contractor coordination continues in parallel.",
+      "status": "Maynard/Julia Gibson sent Five Below's revised lease comments/redline and v5 clean lease on 2026-07-21 after Bill Castagna said comments were expected this week.",
       "stage": "Lease Signed",
-      "nextStep": "Track receipt of Five Below comments this week and coordinate with Ashby/contractor workstreams once received.",
+      "nextStep": "Jacob/Anchor should review the Five Below revised lease comments/redline with Ashby and coordinate the parallel contractor/facade/buildout workstreams so lease finalization does not slip.",
       "priority": "high",
       "timeline": [
         {
@@ -70,6 +70,11 @@
         {
           "date": "2026-07-21",
           "event": "Bill Castagna said Five Below is hoping to send lease comments over this week.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-21",
+          "event": "Julia Gibson sent Five Below revised lease comments/redline and v5 clean lease for Malone Plaza.",
           "type": "email"
         },
         {
