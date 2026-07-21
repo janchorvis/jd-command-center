@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T11:02:33.075895",
+  "lastUpdated": "2026-07-21T13:02:01.353155",
   "sourceDoc": "2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-21",
@@ -55526,9 +55526,9 @@
       "id": "bealls-shelbyville-former-big-lots",
       "name": "Bealls",
       "property": "Shelbyville former Big Lots",
-      "status": "Paul Gold followed up asking whether Jacob is making sense of the Bealls/Five Below demise and requested any update he can share with Bealls/Five Below. Prior context: revised Bealls term sheet moved to NNN rent and $400K TI over VBox delivery.",
+      "status": "Kimley-Horn sent the Dutch Bros-only exhibit on 2026-07-21 and asked Jacob to discuss it on the scheduled call before sharing externally.",
       "stage": "Trading Terms",
-      "nextStep": "Jacob needs to update Paul on the Bealls/Five Below demise/pro forma posture or give him a timing note.",
+      "nextStep": "Review Dutch Bros-only exhibit with Kimley-Horn on today's call before sending externally; then decide what version goes to Dutch Bros and what alternate layouts/economics still need revision.",
       "priority": "high",
       "contacts": [
         "Paul Gold (Echo Retail)",
@@ -55543,6 +55543,11 @@
         {
           "date": "2026-07-21",
           "event": "Email from Mayes, Chad: Accepted: Shelbyville, IN",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-21",
+          "event": "Kimley-Horn sent Dutch Bros-only Shelbyville exhibit and asked to discuss before external sharing.",
           "type": "email"
         },
         {
