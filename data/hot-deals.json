@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T09:03:29.033569",
+  "lastUpdated": "2026-07-21T10:03:03.826414",
   "sourceDoc": "2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-21",
@@ -80996,9 +80996,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike Circle",
-      "status": "Adam forwarded Jamie Brandenburg / Real Equity's update on the 312 Wilson Pike LOI: tenant says this is a startup with no current financials available, but the principal previously ran a profitable St. Louis factory for 5+ years, pivoted to consulting during COVID, has warehouse equipment ready to reopen, and had 15+ years leading sales divisions at Fortune 50/500 companies. Jacob needs to weigh this credit package against other same-asset Wilson paths before advancing the LOI.",
+      "status": "New Bounat inquiry from Adriana McAdams for a high-end fitness gym user asking whether space is still available, parking ratio, rent, and co-broker fee. This adds another active fitness/use path to the existing Wilson Pike collision map alongside Real Equity LOI diligence and other full/partial-building prospects.",
       "stage": "LOI",
-      "nextStep": "Decide whether startup/operator history is enough to continue LOI diligence or require stronger guarantor/PFS/backstop before moving forward.",
+      "nextStep": "Jacob/Adam need to decide whether to quote availability/rent/parking/co-broker terms and how to position this gym inquiry against existing 312 Wilson Pike LOI/full-building/partial-space paths.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -81034,7 +81034,8 @@
         "Kadie Black (Woodmont Realty)",
         "Jamie Brandenburg (Championship Holdings)",
         "Chelsea Williams",
-        "Jamie Brandenburg / The Real Equity Group"
+        "Jamie Brandenburg / The Real Equity Group",
+        "Adriana McAdams (Bounat)"
       ],
       "timeline": [
         {
@@ -81046,6 +81047,11 @@
           "date": "2026-07-21",
           "event": "Adam forwarded Real Equity tenant credit/background response for 312 Wilson Pike LOI; no financials available because startup, but principal cites prior profitable factory and equipment ready to reopen.",
           "type": "email"
+        },
+        {
+          "date": "2026-07-21",
+          "event": "Adriana McAdams / Bounat asked about 312 Wilson Pike availability, parking ratio, rent, and co-broker fee for a high-end fitness gym user.",
+          "type": "lead"
         },
         {
           "date": "2026-07-20",
