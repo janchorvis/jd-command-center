@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T07:16:30.832737",
+  "lastUpdated": "2026-07-21T09:03:29.033569",
   "sourceDoc": "2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-21",
@@ -39986,8 +39986,8 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row",
-      "status": "Joey Valenti offered to have a 'come to Jesus' conversation with the Great Greek tenant and noted they have started drawings and are full steam ahead despite heavy lease comments.",
-      "nextStep": "Jacob decide whether to have Joey push tenant while Anchor finishes legal/business redline response.",
+      "status": "Great Greek lease wrap-up call is moving: after Jacob said he can be the Anchor contact, Joey Valenti asked what times Friday work for Jacob. Tenant's attorney is expected to join and Joey will be on the call to help get it over the finish line.",
+      "nextStep": "Jacob needs to send Friday availability for the Great Greek tenant-attorney lease call.",
       "priority": "high",
       "timeline": [
         {
@@ -39998,6 +39998,11 @@
         {
           "date": "2026-07-21",
           "event": "Email from Jacob Delk: Shirt + Hat Embroidery",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-21",
+          "event": "Joey Valenti asked what Friday times work for a tenant-attorney lease wrap-up call on Great Greek / Maple Row.",
           "type": "email"
         },
         {
@@ -43318,7 +43323,8 @@
         "Punit Patel / Great Greek corporate",
         "Joey Valenti (Centennial)",
         "Clay Richardson",
-        "Hillary Holmes (Gilded Spine)"
+        "Hillary Holmes (Gilded Spine)",
+        "Joey Valenti / Centennial Retail Services"
       ],
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
@@ -80990,9 +80996,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike Circle",
-      "status": "Adam forwarded a fresh LOI from Jamie Brandenburg / Championship Holdings for 312 Wilson Pike Circle, with a clean LOI and landlord pitch deck attached. Jamie asked whether they can move forward and said they are excited to get a deal done.",
+      "status": "Adam forwarded Jamie Brandenburg / Real Equity's update on the 312 Wilson Pike LOI: tenant says this is a startup with no current financials available, but the principal previously ran a profitable St. Louis factory for 5+ years, pivoted to consulting during COVID, has warehouse equipment ready to reopen, and had 15+ years leading sales divisions at Fortune 50/500 companies. Jacob needs to weigh this credit package against other same-asset Wilson paths before advancing the LOI.",
       "stage": "LOI",
-      "nextStep": "Jacob needs to review the attached LOI/pitch deck with Adam and decide response/counter posture against the existing Wilson Pike full-building and partial-use paths.",
+      "nextStep": "Decide whether startup/operator history is enough to continue LOI diligence or require stronger guarantor/PFS/backstop before moving forward.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -81027,12 +81033,18 @@
         "Parker Greenwood / Parker G.",
         "Kadie Black (Woodmont Realty)",
         "Jamie Brandenburg (Championship Holdings)",
-        "Chelsea Williams"
+        "Chelsea Williams",
+        "Jamie Brandenburg / The Real Equity Group"
       ],
       "timeline": [
         {
           "date": "2026-07-21",
           "event": "Email from Jacob Delk: Shirt + Hat Embroidery",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-21",
+          "event": "Adam forwarded Real Equity tenant credit/background response for 312 Wilson Pike LOI; no financials available because startup, but principal cites prior profitable factory and equipment ready to reopen.",
           "type": "email"
         },
         {
