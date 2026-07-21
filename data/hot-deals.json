@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T16:02:12.070715",
+  "lastUpdated": "2026-07-21T17:03:39.924333",
   "sourceDoc": "2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-21",
@@ -55531,9 +55531,9 @@
       "id": "bealls-shelbyville-former-big-lots",
       "name": "Bealls",
       "property": "Shelbyville former Big Lots",
-      "status": "Kimley-Horn sent the Dutch Bros-only exhibit on 2026-07-21 and asked Jacob to discuss it on the scheduled call before sharing externally.",
+      "status": "Jacob and Clay are working on the outparcel layout; Adam pulled 7 Brew real-estate contacts from Tenant Expansion Report for potential Alabama/outparcel outreach.",
       "stage": "Trading Terms",
-      "nextStep": "Review Dutch Bros-only exhibit with Kimley-Horn on today's call before sending externally; then decide what version goes to Dutch Bros and what alternate layouts/economics still need revision.",
+      "nextStep": "Use the 7 Brew contacts in the Shelbyville/outparcel outreach/layout pass as appropriate: Christopher Davis (VP Real Estate, New Orleans) and Wilson Coor (Director of Real Estate).",
       "priority": "high",
       "contacts": [
         "Paul Gold (Echo Retail)",
@@ -55542,7 +55542,9 @@
         "Micah Lacher",
         "Josh Koone (Kimley-Horn)",
         "Clay Richardson (Anchor)",
-        "Paul Gold (ECHO Retail)"
+        "Paul Gold (ECHO Retail)",
+        "Christopher Davis (7 Brew VP Real Estate) <christopher.davis@7brew.com> +1 504 583 0738",
+        "Wilson Coor (7 Brew Director of Real Estate) <wilson.coor@7brew.com> +1 804 240 1446"
       ],
       "timeline": [
         {
@@ -55554,6 +55556,11 @@
           "date": "2026-07-21",
           "event": "Kimley-Horn sent Dutch Bros-only Shelbyville exhibit and asked to discuss before external sharing.",
           "type": "email"
+        },
+        {
+          "date": "2026-07-21",
+          "event": "Adam provided 7 Brew real-estate contacts from Tenant Expansion Report for Shelbyville/outparcel layout work.",
+          "type": "slack"
         },
         {
           "date": "2026-07-20",
