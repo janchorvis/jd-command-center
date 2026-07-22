@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T14:26:17.715053",
+  "lastUpdated": "2026-07-22T17:04:07.996013",
   "sourceDoc": "2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-22",
@@ -51697,10 +51697,10 @@
     {
       "id": "hamilton-title-objection",
       "name": "Hamilton Title Objection",
-      "property": "Hamilton / Dutch Bros GMX sale",
-      "status": "First American sent a revised Hamilton/GMX settlement statement and asked parties to confirm it is final; Bob McAuliff said closing should occur today if seller and buyer align on taxes.",
+      "property": "Hamilton Community Partners / Hamilton OH",
+      "status": "Clay deferred Hamilton leasing assumptions to Jacob for commissions and TI amounts. Asset Management Dashboard currently budgets about $125K TI and $70K commissions for the Variety space; Carole noted Hamilton owes Micah $140K plus $16,785.07 interest as of 7/21/26, remaining draw funds allocated to leasing Variety are $89,237.97, and anticipated cost is higher. Clay said no known major CapEx issues other than possible old HVAC exposure around $25K and possible Goldstar Chili costs that ideally fall on tenant.",
       "stage": "Lease Signed",
-      "nextStep": "Confirm final settlement statement/tax proration agreement posture with Micah/Ashby so Hamilton/GMX closing can occur today.",
+      "nextStep": "Jacob needs to confirm leasing assumptions for Melissa/Clay, especially commissions and TI amounts for the Hamilton/Variety space budget.",
       "priority": "high",
       "contacts": [
         "Ashby",
@@ -51730,7 +51730,10 @@
         "First American",
         "Bob McAuliff / Taft",
         "Katie Van Zuidam (First American Title)",
-        "Tyler Tollison (Evans Petree)"
+        "Tyler Tollison (Evans Petree)",
+        "Clay Richardson (Anchor)",
+        "Carole Ward (Anchor)",
+        "Mathison Ingham (Anchor)"
       ],
       "timeline": [
         {
@@ -51746,6 +51749,11 @@
         {
           "date": "2026-07-22",
           "event": "Email from Clay Richardson: Accepted: Highland LED knowledge transfer @ Wed Jul 22, 2026 9:15am - 9:30am (CD",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-22",
+          "event": "Clay deferred Hamilton leasing assumptions to Jacob; noted dashboard budgets $125K TI/$70K commissions, possible $25K HVAC exposure, and possible Goldstar Chili cost risk.",
           "type": "email"
         },
         {
