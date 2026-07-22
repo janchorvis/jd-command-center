@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T13:04:02.219629",
+  "lastUpdated": "2026-07-22T14:26:17.715053",
   "sourceDoc": "2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-22",
@@ -61020,17 +61020,24 @@
       "id": "river-parkway-cosmoprof",
       "name": "CosmoProf",
       "property": "River Parkway Plaza",
-      "status": "BSM/CosmoProf LOI path advanced after Jacob approved the updated LOI and sent site-plan material; Brad Altum says the 7/29 committee date is set.",
+      "status": "CosmoProf/BSM committee date remains 7/29. Kevin confirmed Anchor's delivery understanding is correct - LL handles demising wall and utilities ready to go, tenant takes it from there - but BSM needs a formal work letter or similar language for the LOI/package.",
       "stage": "LOI",
-      "nextStep": "Wait for / track CosmoProf committee decision on 2026-07-29.",
+      "nextStep": "Jacob/Anchor to provide formal work-letter language documenting LL delivery: demising wall plus utilities ready to go, tenant responsible beyond that; track 7/29 committee decision.",
       "priority": "high",
       "contacts": [
         "Kevin Trujillo (Baker Storey McDonald Properties)",
         "Brad Altum (Baker Storey McDonald Properties)",
         "Kevin Trujillo (BSM)",
-        "Brad Altum (BSM)"
+        "Brad Altum (BSM)",
+        "Kevin Trujillo (BSM Properties)",
+        "Brad Altum (BSM Properties)"
       ],
       "timeline": [
+        {
+          "date": "2026-07-22",
+          "event": "Kevin Trujillo confirmed delivery understanding and requested formal work-letter/similar language for CosmoProf LOI package.",
+          "type": "email"
+        },
         {
           "date": "2026-07-21",
           "event": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (08434)",
