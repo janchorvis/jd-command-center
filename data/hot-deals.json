@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T10:46:02.109328",
+  "lastUpdated": "2026-07-22T10:48:40.790531",
   "sourceDoc": "2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-22",
@@ -89795,6 +89795,29 @@
         "suiteCount": 18,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "maple-row-thrift-store-crexi",
+      "name": "Madison Minicozzi / Morgan Campbell thrift store",
+      "property": "Maple Row Shopping Center",
+      "status": "Two new Crexi leasing inquiries arrived after-hours for Maple Row: Madison Minicozzi and Morgan Campbell are opening a thrift store in Hendersonville and asked for more information; Morgan specifically asked about the 2,244 SF space.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob should reply on Crexi asking for the best phone/email and confirming target size/fit, then send Maple Row availability info.",
+      "priority": "high",
+      "contacts": [
+        "Madison Minicozzi (Crexi lead)",
+        "Morgan Campbell (Crexi lead)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-07-22",
+          "event": "Crexi: Madison Minicozzi and Morgan Campbell asked for Maple Row/Hendersonville info for a thrift-store concept; Morgan asked about the 2,244 SF space.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Crexi lead",
+      "lastUpdate": "2026-07-22"
     }
   ],
   "droppedBalls": [
