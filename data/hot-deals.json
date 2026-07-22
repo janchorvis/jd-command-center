@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T10:46:02.109328",
+  "lastUpdated": "2026-07-22T10:47:28.306927",
   "sourceDoc": "2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-22",
@@ -40490,9 +40490,9 @@
     {
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
-      "property": "Maple Row",
-      "status": "Great Greek lease wrap-up call is moving: after Jacob said he can be the Anchor contact, Joey Valenti asked what times Friday work for Jacob. Tenant's attorney is expected to join and Joey will be on the call to help get it over the finish line.",
-      "nextStep": "Jacob needs to send Friday availability for the Great Greek tenant-attorney lease call.",
+      "property": "Maple Row Shopping Center",
+      "status": "Two new Crexi leasing inquiries arrived after-hours for Maple Row: Madison Minicozzi and Morgan Campbell are opening a thrift store in Hendersonville and asked for more information; Morgan specifically asked about the 2,244 SF space.",
+      "nextStep": "Jacob should reply on Crexi asking for the best phone/email and confirming their target size; send Maple Row availability info once contact details are captured.",
       "priority": "high",
       "timeline": [
         {
@@ -40514,6 +40514,11 @@
           "date": "2026-07-22",
           "event": "Email from CoStar: Webinar: Insights into Corporate Real Estate Portfolio Strategy Technology and D",
           "type": "email"
+        },
+        {
+          "date": "2026-07-22",
+          "event": "Crexi: Madison Minicozzi and Morgan Campbell asked for Maple Row/Hendersonville info for a thrift-store concept; Morgan asked about the 2,244 SF space.",
+          "type": "lead"
         },
         {
           "date": "2026-07-21",
@@ -43879,7 +43884,9 @@
         "Joey Valenti (Centennial)",
         "Clay Richardson",
         "Hillary Holmes (Gilded Spine)",
-        "Joey Valenti / Centennial Retail Services"
+        "Joey Valenti / Centennial Retail Services",
+        "Madison Minicozzi (Crexi lead)",
+        "Morgan Campbell (Crexi lead)"
       ],
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
