@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T15:04:09.917329",
+  "lastUpdated": "2026-07-23T16:05:20.704093",
   "sourceDoc": "2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-23",
@@ -42,14 +42,19 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Maynard/Julia Gibson sent Five Below's revised lease comments/redline and v5 clean lease on 2026-07-21 after Bill Castagna said comments were expected this week.",
+      "status": "Ashby replied on 2026-07-23 that he made marginal comments on Five Below's pushed-back lease comments and attached his markup; Clay also sent the JO-ANN/Five Below area-adjustment PDF after Jacob asked for Shaun's updated square-footage document.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Anchor should review the Five Below revised lease comments/redline with Ashby and coordinate the parallel contractor/facade/buildout workstreams so lease finalization does not slip.",
+      "nextStep": "Jacob/Anchor should review Ashby's markup and use Clay's area-adjustment PDF to keep lease, facade, contractor, and buildout workstreams moving.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-07-23",
           "event": "Email from Jacob Delk: Welcome to Hickory Village - Jackson, TN! (Signed Lease & Next Steps)",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-23",
+          "event": "Ashby returned marginal comments on Five Below's revised lease comments; Clay sent JO-ANN/Five Below area-adjustment PDF.",
           "type": "email"
         },
         {
