@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T13:02:28.167211",
+  "lastUpdated": "2026-07-23T15:04:09.917329",
   "sourceDoc": "2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-23",
@@ -11460,12 +11460,17 @@
     {
       "id": "russellville-abc",
       "name": "ABC Retail",
-      "property": "Russellville",
-      "status": "ABC asked to nail down move-in timing because their warehouse completion was pushed back; Clay replied contractor launches May 23, work likely into mid-July, signage 5-7 weeks, and end-of-June completion is unlikely.",
+      "property": "Franklin Center / Russellville, AL",
+      "status": "Angel C. opened/downloaded the Franklin Center brochure via Crexi on 2026-07-23; no direct message or contact details included beyond Crexi dashboard activity.",
       "stage": "Lease Signed",
-      "nextStep": "Monitor ABC timing and coordinate any move-in pressure with Clay/contractor.",
+      "nextStep": "Jacob/Adam decide whether to follow up through Crexi and capture phone/email/use.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-07-23",
+          "event": "Crexi activity: Angel C. opened/downloaded Franklin Center brochure.",
+          "type": "lead"
+        },
         {
           "date": "2026-07-22",
           "event": "Email from Joey Valenti: Lease",
@@ -13563,7 +13568,8 @@
         "Kurt Wilson (ABC Alabama)",
         "Kyle Lindsey (ABC Alabama)",
         "Kurt Wilson (Alabama ABC)",
-        "Kyle Lindsey (Alabama ABC)"
+        "Kyle Lindsey (Alabama ABC)",
+        "Angel C. (Crexi activity lead)"
       ],
       "actions": [
         {
@@ -83494,10 +83500,10 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike Circle",
-      "status": "Fresh same-asset collision signal: Emily Carden / Mohr Partners asked whether the landlord would take a dog daycare and boarding user in 6,000 SF at 312 Wilson Pike. This adds another pet/daycare/boarding use to the already-crowded Wilson Pike mix alongside whole-building fitness, psych/medical, startup LOI diligence, basketball-training, prosthodontics, Futbol Factory/partial-space, and prior Skiptown/KWC dog-boarding inquiry.",
+      "status": "Emily Carden / Mohr Partners asked whether landlord would take a dog daycare and boarding user in 6,000 SF; Jacob forwarded to Adam to respond on 2026-07-23.",
       "stage": "LOI",
-      "nextStep": "Jacob needs to decide whether dog daycare/boarding is an acceptable use at Wilson Pike and whether to pursue another partial-user path before responding; if yes, ask Emily for operator/concept, outdoor-area needs, odor/noise controls, licensing/zoning assumptions, timing, and financial strength.",
-      "priority": "high",
+      "nextStep": "Adam to respond to Emily; Jacob only needs to step in if Adam needs landlord/use posture.",
+      "priority": "medium",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
         "Micah Lacher",
@@ -83535,7 +83541,8 @@
         "Jamie Brandenburg / The Real Equity Group",
         "Adriana McAdams (Bounat)",
         "Michele Kornbluth (Holiner)",
-        "Emily Carden (Mohr Partners) <emily.carden@mohrpartners.com>"
+        "Emily Carden (Mohr Partners) <emily.carden@mohrpartners.com>",
+        "Emily Carden (Mohr Partners)"
       ],
       "timeline": [
         {
@@ -83546,6 +83553,11 @@
         {
           "date": "2026-07-23",
           "event": "Emily Carden / Mohr Partners asked if landlord would take a dog daycare and boarding user in 6,000 SF at 312 Wilson Pike.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-07-23",
+          "event": "Emily Carden asked about dog daycare/boarding user for 6,000 SF at 312 Wilson Pike; Jacob forwarded to Adam.",
           "type": "lead"
         },
         {
