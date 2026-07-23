@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T16:05:20.704093",
+  "lastUpdated": "2026-07-23T17:03:18.194574",
   "sourceDoc": "2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-23",
@@ -42,9 +42,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Ashby replied on 2026-07-23 that he made marginal comments on Five Below's pushed-back lease comments and attached his markup; Clay also sent the JO-ANN/Five Below area-adjustment PDF after Jacob asked for Shaun's updated square-footage document.",
+      "status": "Five Below lease remains in review. Ashby Scott returned marginal comments on Five Below's revised Malone lease and asked Jacob/Micah for thoughts; Ashby is available by phone while driving 7/24 or next Thu/Fri. Jacob is out Mon-Wed and wants to finalize ASAP.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Anchor should review Ashby's markup and use Clay's area-adjustment PDF to keep lease, facade, contractor, and buildout workstreams moving.",
+      "nextStep": "Jacob/Micah review Ashby's marginal comments and schedule a call with Ashby next Thu/Fri or call him 7/24 while he is driving.",
       "priority": "high",
       "timeline": [
         {
@@ -55,6 +55,11 @@
         {
           "date": "2026-07-23",
           "event": "Ashby returned marginal comments on Five Below's revised lease comments; Clay sent JO-ANN/Five Below area-adjustment PDF.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-23",
+          "event": "Ashby returned marginal comments on revised Five Below Malone lease and asked for Jacob/Micah's thoughts; offered call availability.",
           "type": "email"
         },
         {
