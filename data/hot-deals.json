@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T07:16:20.516518",
+  "lastUpdated": "2026-07-23T09:03:19.292635",
   "sourceDoc": "2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-23",
@@ -55068,10 +55068,10 @@
     {
       "id": "smart-led-highland",
       "name": "Smart LED TN LLC",
-      "property": "Hickory Village / 2151 N Highland",
-      "status": "Lease execution copy completed via DocuSign on 2026-07-10; post-execution follow-through now needed for NLC/opening checklist, commission/accounting handling, execution-copy proof/storage, and payment/economics setup.",
+      "property": "Hickory Village / 2151 Highland",
+      "status": "Amin Lakhani replied after signing Smart LED's lease saying he cannot proceed under the current lease terms because projected utility, lighting/electrical, flooring/paint, plumbing/hot water/toilet, and HVAC costs are far above what he expected; he asked what options are available to resolve it amicably.",
       "stage": "Lease Signed",
-      "nextStep": "Handle post-execution NLC/opening checklist, commission/accounting setup if applicable, execution-copy storage, and any payment/economics setup.",
+      "nextStep": "Jacob/Mathison/Melissa need to decide enforcement vs negotiated cure/exit posture before responding to Amin.",
       "priority": "high",
       "contacts": [
         "Amin Lakhani (Smart LED TN LLC) - smartledtn@gmail.com - 901-907-2646",
@@ -55085,6 +55085,11 @@
         {
           "date": "2026-07-23",
           "event": "Email from Jacob Delk: Welcome to Hickory Village - Jackson, TN! (Signed Lease & Next Steps)",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-23",
+          "event": "Amin said Smart LED cannot proceed under the signed lease terms and requested options after identifying major buildout/repair costs.",
           "type": "email"
         },
         {
