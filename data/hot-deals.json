@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T09:04:22.092297",
+  "lastUpdated": "2026-07-23T13:02:28.167211",
   "sourceDoc": "2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-23",
@@ -83494,9 +83494,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike Circle",
-      "status": "New full-building/fitness-medical momentum: Adriana McAdams / Bounat replied that the high-end fitness prospect is Wolf Gyms, interested in the whole building, and provided a brand deck; CoStar/Holiner inquiry from Michele Kornbluth for a PE-backed psych practice expanding from TX seeks about 5,000 SF, ideally first-floor/direct access, and asked for flyer, floor plan, pricing, nets, and signage options. Real Equity LOI diligence remains active, with Jacob asking for guarantor financials.",
+      "status": "Fresh same-asset collision signal: Emily Carden / Mohr Partners asked whether the landlord would take a dog daycare and boarding user in 6,000 SF at 312 Wilson Pike. This adds another pet/daycare/boarding use to the already-crowded Wilson Pike mix alongside whole-building fitness, psych/medical, startup LOI diligence, basketball-training, prosthodontics, Futbol Factory/partial-space, and prior Skiptown/KWC dog-boarding inquiry.",
       "stage": "LOI",
-      "nextStep": "Jacob/Adam need to triage Wilson Pike collision map: keep whole-building prospects warm, decide whether psych practice/fitness user get pricing and tour materials, and require guarantor/PFS/backstop for startup LOI path before committing.",
+      "nextStep": "Jacob needs to decide whether dog daycare/boarding is an acceptable use at Wilson Pike and whether to pursue another partial-user path before responding; if yes, ask Emily for operator/concept, outdoor-area needs, odor/noise controls, licensing/zoning assumptions, timing, and financial strength.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -83534,13 +83534,19 @@
         "Chelsea Williams",
         "Jamie Brandenburg / The Real Equity Group",
         "Adriana McAdams (Bounat)",
-        "Michele Kornbluth (Holiner)"
+        "Michele Kornbluth (Holiner)",
+        "Emily Carden (Mohr Partners) <emily.carden@mohrpartners.com>"
       ],
       "timeline": [
         {
           "date": "2026-07-23",
           "event": "Email from Jacob Delk: Welcome to Hickory Village - Jackson, TN! (Signed Lease & Next Steps)",
           "type": "email"
+        },
+        {
+          "date": "2026-07-23",
+          "event": "Emily Carden / Mohr Partners asked if landlord would take a dog daycare and boarding user in 6,000 SF at 312 Wilson Pike.",
+          "type": "lead"
         },
         {
           "date": "2026-07-22",
