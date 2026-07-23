@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T09:03:19.292635",
+  "lastUpdated": "2026-07-23T09:04:22.092297",
   "sourceDoc": "2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-23",
@@ -40845,14 +40845,19 @@
     {
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
-      "property": "Maple Row",
-      "status": "Great Greek lease wrap-up call is moving: after Jacob said he can be the Anchor contact, Joey Valenti asked what times Friday work for Jacob. Tenant's attorney is expected to join and Joey will be on the call to help get it over the finish line.",
-      "nextStep": "Jacob needs to send Friday availability for the Great Greek tenant-attorney lease call.",
+      "property": "Maple Row Shopping Center",
+      "status": "Joey Valenti sent the Zoom invite for the Great Greek Hendersonville lease-review call and clarified the corrected invite is for Friday 2026-07-24, not today. Jacob needs to accept/use the corrected invite and attend the lease wrap-up call.",
+      "nextStep": "Accept the corrected Friday Zoom invite and join the Great Greek lease-review call.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-07-23",
           "event": "Email from Jacob Delk: Welcome to Hickory Village - Jackson, TN! (Signed Lease & Next Steps)",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-23",
+          "event": "Joey sent corrected Zoom invite for Friday Great Greek lease-review call.",
           "type": "email"
         },
         {
