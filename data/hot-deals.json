@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T13:02:12.687291",
+  "lastUpdated": "2026-07-24T14:04:05.576519",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-24",
@@ -61496,9 +61496,9 @@
       "id": "mcminnville-regional-transit",
       "name": "Regional transit service / Craig Hughes",
       "property": "McMinnville Plaza",
-      "status": "Emma Bray / Upper Cumberland Commercial said the client is interested in the McMinnville Plaza space they toured and is requesting a proposal; she attached their layout requirements.",
-      "stage": "Trading Terms",
-      "nextStep": "Review the attached layout requirements and respond with proposal terms or clarifying questions for the McMinnville Plaza space.",
+      "status": "Emma Bray / Upper Cumberland Commercial sent an LOI from her Warren County client for 1100 Smithville Hwy / McMinnville Plaza after touring Suite 129 and previously sending layout requirements.",
+      "stage": "LOI",
+      "nextStep": "Jacob needs to review the attached 1100 Smithville Hwy LOI and decide counter/acceptance posture.",
       "priority": "high",
       "contacts": [
         "Craig Hughes (Upper Cumberland Commercial)",
@@ -61508,6 +61508,11 @@
         {
           "date": "2026-07-24",
           "event": "Email from Daniel Creta: Preferred Property Program 200 Hobson St, McMinnville, Tennessee 37110",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "Email from Emma Bray: LOI received for 1100 Smithville Hwy / McMinnville Plaza Suite 129",
           "type": "email"
         },
         {
@@ -61786,7 +61791,7 @@
         "suiteCount": 45,
         "vacantCount": 0
       },
-      "stageOverride": "Trading Terms"
+      "stageOverride": "LOI"
     },
     {
       "id": "caroline-a-hickory-village",
