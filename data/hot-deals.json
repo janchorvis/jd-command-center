@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T17:02:01.269355",
+  "lastUpdated": "2026-07-24T17:07:00.000000",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-24",
@@ -79278,26 +79278,20 @@
     {
       "id": "pea-ridge-omar-hidais",
       "name": "Omar Hidais",
-      "property": "Pea Ridge",
-      "status": "Adam asked Jacob/Jarvis via Slack for Pea Ridge tenant list from Asset Edge plus void analysis for hypothetical 5,000 SF and 11,000 SF vacancies, including nearby business cross-check and missing-fit tenant categories.",
+      "property": "Pea Ridge Shopping Center",
+      "status": "Omar Hidais, a multi-state tobacco/vape operator and landlord, asked what spaces are available and what the asking rent is after Jacob asked about locations/first store.",
       "stage": "Contact Made",
-      "nextStep": "Jacob/Jarvis needs to pull Asset Edge tenant roster and prepare void/use-fit analysis for 5,000 SF and 11,000 SF vacancies.",
+      "nextStep": "Jacob to review current Pea Ridge availability and asking rent, then reply to Omar.",
       "priority": "medium",
       "contacts": [
         "Omar Hidais",
-        "Omar Hidais (tobacco/vape operator, ohidais23@gmail.com)",
-        "Adam Heston"
+        "Omar Hidais (tobacco/vape operator, ohidais23@gmail.com)"
       ],
       "timeline": [
         {
           "date": "2026-07-24",
           "event": "Email from Chain Store Age: DayBreaker: Tractor Supply trims openings; Use of AI shopping agents booms; Albe",
           "type": "email"
-        },
-        {
-          "date": "2026-07-24",
-          "event": "Adam requested Pea Ridge tenant roster and 5,000/11,000 SF void analysis with nearby-business gap check.",
-          "type": "slack"
         },
         {
           "date": "2026-07-23",
@@ -91932,16 +91926,22 @@
       "id": "pea-ridge-rea-valley-health-parcels",
       "name": "Pea Ridge REA / Valley Health parcels",
       "property": "Pea Ridge",
-      "status": "Ashby reviewed Danny's survey/descriptions and said they look good, but is confused about signage because the survey shows six or more signs; he asked Micah whether Sign 1 is Anchor's sign and whether some signs need to be addressed in the REA or with the carwash party.",
+      "status": "Ashby reviewed Danny's survey/descriptions and said they look good, but is confused about signage because the survey shows six or more signs; he asked Micah whether Sign 1 is Anchor's sign and whether some signs need to be addressed in the REA or with the carwash party. Adam also asked Jacob/Jarvis on 2026-07-24 to pull all Pea Ridge tenants from Asset Edge and run void/use-fit analysis for hypothetical 5,000 SF and 11,000 SF vacancies, including nearby-business cross-check and missing-fit categories.",
       "stage": "Lease Signed",
-      "nextStep": "Micah/Jacob need to resolve Pea Ridge sign ownership/REA treatment if Jacob is looped into Valley Health parcel work.",
+      "nextStep": "Pull Asset Edge tenant roster and prepare Pea Ridge 5,000 SF / 11,000 SF vacancy void/use-fit analysis; continue REA parcel/sign/exclusive-use follow-through as needed.",
       "priority": "medium",
       "contacts": [
         "Micah Lacher",
         "Melissa Eddy",
-        "Ashby Scott"
+        "Ashby Scott",
+        "Adam Heston"
       ],
       "timeline": [
+        {
+          "date": "2026-07-24",
+          "event": "Adam requested Pea Ridge tenant roster and 5,000/11,000 SF void analysis with nearby-business gap check.",
+          "type": "slack"
+        },
         {
           "date": "2026-07-22",
           "event": "Email from Jacob Delk: 730am: Same Page: Delk X Clay X Micah",
