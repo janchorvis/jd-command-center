@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T11:02:04.935338",
+  "lastUpdated": "2026-07-24T12:03:05.075660",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-24",
@@ -57741,9 +57741,9 @@
       "id": "bealls-shelbyville-former-big-lots",
       "name": "Bealls",
       "property": "Shelbyville former Big Lots",
-      "status": "Jacob and Clay are working on the outparcel layout; Adam pulled 7 Brew real-estate contacts from Tenant Expansion Report for potential Alabama/outparcel outreach.",
+      "status": "Kimley-Horn sent a revised overall exhibit for the redevelopment, with Dutch Bros + car wash currently shown; other gas station/convenience-store layouts expected next week. Josh Koone said a clean Dutch Bros exhibit can follow if the overall exhibit is acceptable, and the southwest small lot likely needs to be joined to the larger east lot for usable layout/access.",
       "stage": "Trading Terms",
-      "nextStep": "Use the 7 Brew contacts in the Shelbyville/outparcel outreach/layout pass as appropriate: Christopher Davis (VP Real Estate, New Orleans) and Wilson Coor (Director of Real Estate).",
+      "nextStep": "Jacob/Clay review revised overall exhibit, request any revisions/clean Dutch Bros exhibit, and wait for gas station/convenience-store alternates next week.",
       "priority": "high",
       "contacts": [
         "Paul Gold (Echo Retail)",
@@ -57757,6 +57757,11 @@
         "Wilson Coor (7 Brew Director of Real Estate) <wilson.coor@7brew.com> +1 804 240 1446"
       ],
       "timeline": [
+        {
+          "date": "2026-07-24",
+          "event": "Kimley-Horn sent revised overall Shelbyville exhibit; gas/C-store layouts expected next week.",
+          "type": "email"
+        },
         {
           "date": "2026-07-23",
           "event": "Email from Hank Davis: SIGNIFICANT PRICE REDUCTION | Single-Tenant Lease Fee NNN | 10 Years of Term | T",
