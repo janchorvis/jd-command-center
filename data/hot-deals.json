@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T14:04:05.576519",
+  "lastUpdated": "2026-07-24T17:02:01.269355",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-24",
@@ -79278,20 +79278,26 @@
     {
       "id": "pea-ridge-omar-hidais",
       "name": "Omar Hidais",
-      "property": "Pea Ridge Shopping Center",
-      "status": "Omar Hidais, a multi-state tobacco/vape operator and landlord, asked what spaces are available and what the asking rent is after Jacob asked about locations/first store.",
+      "property": "Pea Ridge",
+      "status": "Adam asked Jacob/Jarvis via Slack for Pea Ridge tenant list from Asset Edge plus void analysis for hypothetical 5,000 SF and 11,000 SF vacancies, including nearby business cross-check and missing-fit tenant categories.",
       "stage": "Contact Made",
-      "nextStep": "Jacob to review current Pea Ridge availability and asking rent, then reply to Omar.",
+      "nextStep": "Jacob/Jarvis needs to pull Asset Edge tenant roster and prepare void/use-fit analysis for 5,000 SF and 11,000 SF vacancies.",
       "priority": "medium",
       "contacts": [
         "Omar Hidais",
-        "Omar Hidais (tobacco/vape operator, ohidais23@gmail.com)"
+        "Omar Hidais (tobacco/vape operator, ohidais23@gmail.com)",
+        "Adam Heston"
       ],
       "timeline": [
         {
           "date": "2026-07-24",
           "event": "Email from Chain Store Age: DayBreaker: Tractor Supply trims openings; Use of AI shopping agents booms; Albe",
           "type": "email"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "Adam requested Pea Ridge tenant roster and 5,000/11,000 SF void analysis with nearby-business gap check.",
+          "type": "slack"
         },
         {
           "date": "2026-07-23",
