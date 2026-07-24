@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T07:16:33.718752",
+  "lastUpdated": "2026-07-24T08:03:08.963322",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-24",
@@ -22401,14 +22401,19 @@
       "id": "mcminnville-wingstop",
       "name": "Wingstop",
       "property": "McMinnville Plaza",
-      "status": "Jacob sent signed CA; Kevin Trujillo says once Wingstop gets its survey report they should be able to respond and hopefully push forward.",
+      "status": "Sarah Langan thanked Jacob for the redline and asked for a few dates/times next week to connect and wrap up the Wingstop lease.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Wait for Wingstop survey/report response; keep pressure toward lease review path.",
-      "priority": "medium",
+      "nextStep": "Jacob needs to send Sarah a few available call windows for next week so the lease can be wrapped up.",
+      "priority": "high",
       "timeline": [
         {
           "date": "2026-07-24",
           "event": "Email from Daniel Creta: Preferred Property Program 200 Hobson St, McMinnville, Tennessee 37110",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "Sarah Langan asked Jacob for a few dates/times next week to connect and wrap up the Wingstop lease after receiving Anchor's redline.",
           "type": "email"
         },
         {
@@ -23564,7 +23569,8 @@
         "Kevin Trujillo (BSM Properties)",
         "Sarah Langan",
         "Kevin Trujillo",
-        "James Lanoux"
+        "James Lanoux",
+        "Sarah Langan <sarah@lawbylangan.com>"
       ],
       "actions": [
         {
