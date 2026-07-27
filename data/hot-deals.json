@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T14:02:29.601121",
+  "lastUpdated": "2026-07-27T15:02:24.390513",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-27",
@@ -85161,14 +85161,20 @@
       "id": "maple-row-sparkle-dog-pigtails-crewcuts",
       "name": "Sparkle Dog Grooming / Pigtails & Crewcuts",
       "property": "Maple Row Shopping Center",
-      "status": "Jennifer Stewart at Gill Properties asked about available suites, rental rates, NNN expenses, co-tenancy, site plans, and leasing materials for two expanding concepts: Sparkle Dog Grooming and Pigtails & Crewcuts.",
+      "status": "Brad Altum with BSM asked what space is available at Maple Row because he has a few users looking in the area. This is a fresh broker availability ask and should be answered with current marketable-suite posture around Fox's/Great Greek, Dance Hendersonville, Art Studio/Gilded Spine, and the 2,244 SF suite.",
       "stage": "Contact Made",
-      "nextStep": "Jacob to review current Maple Row availability, rent, and opex before replying.",
+      "nextStep": "Jacob to reply with current Maple Row availability and steer Brad toward the suites Anchor actually wants to market.",
       "priority": "medium",
       "contacts": [
-        "Jennifer Stewart (Gill Properties)"
+        "Jennifer Stewart (Gill Properties)",
+        "Brad Altum (BSM Properties) <baltum@bsmproperties.com>"
       ],
       "timeline": [
+        {
+          "date": "2026-07-27",
+          "event": "Brad Altum / BSM asked what space is available at Maple Row for a few users looking in the area.",
+          "type": "lead"
+        },
         {
           "date": "2026-07-26",
           "event": "Email from Strip Center IQ | Ray Kang CCIM: Split Screen: Your Debt Got More Expensive. Your Rent Roll Got Better.",
