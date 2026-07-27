@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T15:02:24.390513",
+  "lastUpdated": "2026-07-27T17:04:01.149610",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-27",
@@ -85652,10 +85652,10 @@
     {
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
-      "property": "312 Wilson Pike Circle",
-      "status": "Duane Roggendorff / Ojas said Livewell pinged them again asking whether 312 Wilson Pike is still available for the Mission Pet Health / Your Pet Dentist relocation search.",
+      "property": "312 Wilson Pike",
+      "status": "Adam forwarded Sylvester Gober't / V12industry partner financials for the McLean/Sylvester office + automotive back-half concept. Financial review is now the immediate gating item before deciding whether this path is financeable enough for real lease posture, alongside competing Wilson Pike whole-building and partial-space prospects.",
       "stage": "LOI",
-      "nextStep": "Jacob/Adam need to confirm current Wilson Pike availability/posture before replying, given whole-building vs partial-space collision map.",
+      "nextStep": "Review the 20.8 MB financial PDF and decide whether to continue diligence, require stronger guarantor/PFS/backstop, or prioritize another Wilson Pike path.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -85696,7 +85696,8 @@
         "Michele Kornbluth (Holiner)",
         "Emily Carden (Mohr Partners) <emily.carden@mohrpartners.com>",
         "Emily Carden (Mohr Partners)",
-        "Livewell / Mission Pet Health / Your Pet Dentist"
+        "Livewell / Mission Pet Health / Your Pet Dentist",
+        "Sylvester Gober't / V12industry LLC"
       ],
       "timeline": [
         {
@@ -85712,6 +85713,11 @@
         {
           "date": "2026-07-27",
           "event": "Email from Kelsey Cornillie, Publisher: What Williamson Health CEO would earn in hospital sale",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-27",
+          "event": "Adam forwarded Sylvester Gober't / V12industry partner financials for the mechanic-shop concept; financial review now gates real lease posture.",
           "type": "email"
         },
         {
