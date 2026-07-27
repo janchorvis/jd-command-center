@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T08:02:12.317639",
+  "lastUpdated": "2026-07-27T10:02:54.580293",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-27",
@@ -57981,9 +57981,9 @@
       "id": "bealls-shelbyville-former-big-lots",
       "name": "Bealls",
       "property": "Shelbyville former Big Lots / 1202 SR 44",
-      "status": "Dutch Bros re-engaged after Jacob sent the preliminary Kimley-Horn site exhibit; Ethan Flynn said DB will submit for formal review once the clean DB-only exhibit comes in, but requested a crucial drive-thru escape-lane adjustment. Shawn Heffern / Midland Atlantic said he and Alex Wendt will start the LOI draft.",
+      "status": "Dutch Bros Shelbyville moved from preliminary site-plan review into LOI review: Jacob sent the escape-lane revision to Kimley-Horn, and Alex Wendt / Midland Atlantic sent draft BTS LOI `LOI BTS V4 - Shelbyville 7.27.26.docx` for Jacob's review.",
       "stage": "Trading Terms",
-      "nextStep": "Send Ethan's escape-lane markup to Kimley-Horn/Josh, get a clean Dutch Bros-only exhibit, and be ready to review/respond to the incoming LOI draft from Midland Atlantic.",
+      "nextStep": "Jacob/Clay review the draft BTS LOI while Kimley-Horn works the clean Dutch Bros-only / escape-lane site plan.",
       "priority": "high",
       "contacts": [
         "Paul Gold (Echo Retail)",
@@ -58009,6 +58009,11 @@
         {
           "date": "2026-07-27",
           "event": "Dutch Bros/Midland: DB needs drive-thru escape-lane adjustment; Midland starting LOI draft after Jacob sent preliminary site exhibit.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-27",
+          "event": "Inbox: Alex Wendt / Midland Atlantic sent draft BTS LOI for Dutch Bros Shelbyville review after Jacob confirmed the site-plan revision was sent to Kimley-Horn.",
           "type": "email"
         },
         {
