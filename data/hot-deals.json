@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T07:16:22.451382",
+  "lastUpdated": "2026-07-27T08:02:12.317639",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-27",
@@ -57980,10 +57980,10 @@
     {
       "id": "bealls-shelbyville-former-big-lots",
       "name": "Bealls",
-      "property": "Shelbyville former Big Lots",
-      "status": "Kimley-Horn sent a revised overall exhibit for the redevelopment, with Dutch Bros + car wash currently shown; other gas station/convenience-store layouts expected next week. Josh Koone said a clean Dutch Bros exhibit can follow if the overall exhibit is acceptable, and the southwest small lot likely needs to be joined to the larger east lot for usable layout/access.",
+      "property": "Shelbyville former Big Lots / 1202 SR 44",
+      "status": "Dutch Bros re-engaged after Jacob sent the preliminary Kimley-Horn site exhibit; Ethan Flynn said DB will submit for formal review once the clean DB-only exhibit comes in, but requested a crucial drive-thru escape-lane adjustment. Shawn Heffern / Midland Atlantic said he and Alex Wendt will start the LOI draft.",
       "stage": "Trading Terms",
-      "nextStep": "Jacob/Clay review revised overall exhibit, request any revisions/clean Dutch Bros exhibit, and wait for gas station/convenience-store alternates next week.",
+      "nextStep": "Send Ethan's escape-lane markup to Kimley-Horn/Josh, get a clean Dutch Bros-only exhibit, and be ready to review/respond to the incoming LOI draft from Midland Atlantic.",
       "priority": "high",
       "contacts": [
         "Paul Gold (Echo Retail)",
@@ -57994,12 +57994,21 @@
         "Clay Richardson (Anchor)",
         "Paul Gold (ECHO Retail)",
         "Christopher Davis (7 Brew VP Real Estate) <christopher.davis@7brew.com> +1 504 583 0738",
-        "Wilson Coor (7 Brew Director of Real Estate) <wilson.coor@7brew.com> +1 804 240 1446"
+        "Wilson Coor (7 Brew Director of Real Estate) <wilson.coor@7brew.com> +1 804 240 1446",
+        "Ethan Flynn (Dutch Bros Real Estate Manager)",
+        "Shawn Heffern (Midland Atlantic Properties)",
+        "Alex Wendt (Midland Atlantic Properties)",
+        "Jon Barnard (Dutch Bros Real Estate Manager)"
       ],
       "timeline": [
         {
           "date": "2026-07-27",
           "event": "Email from Adam Heston: Fwd: LOI for 312 Wilson Pike Circle",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-27",
+          "event": "Dutch Bros/Midland: DB needs drive-thru escape-lane adjustment; Midland starting LOI draft after Jacob sent preliminary site exhibit.",
           "type": "email"
         },
         {
