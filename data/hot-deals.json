@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T10:02:54.580293",
+  "lastUpdated": "2026-07-27T13:03:18.289182",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-27",
@@ -22456,11 +22456,16 @@
       "id": "mcminnville-wingstop",
       "name": "Wingstop",
       "property": "McMinnville Plaza",
-      "status": "Sarah Langan thanked Jacob for the redline and asked for a few dates/times next week to connect and wrap up the Wingstop lease.",
+      "status": "Sarah Langan accepted Jacob's Thursday 10:00 AM call window for the Wingstop lease wrap-up and said she would send a Teams invite shortly.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob needs to send Sarah a few available call windows for next week so the lease can be wrapped up.",
+      "nextStep": "Confirm Teams invite/calendar hold lands for Thursday 10:00 AM, then use the call to wrap remaining lease comments.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-07-27",
+          "event": "Sarah Langan accepted Thursday 10:00 AM for Wingstop lease wrap-up call and will send Teams invite.",
+          "type": "email"
+        },
         {
           "date": "2026-07-24",
           "event": "Email from Daniel Creta: Preferred Property Program 200 Hobson St, McMinnville, Tennessee 37110",
@@ -23625,7 +23630,8 @@
         "Sarah Langan",
         "Kevin Trujillo",
         "James Lanoux",
-        "Sarah Langan <sarah@lawbylangan.com>"
+        "Sarah Langan <sarah@lawbylangan.com>",
+        "Sarah Langan (Sarah C. Langan PLLC)"
       ],
       "actions": [
         {
