@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T07:16:24.692438",
+  "lastUpdated": "2026-07-28T09:02:58.477923",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-28",
@@ -22741,11 +22741,16 @@
       "id": "mcminnville-wingstop",
       "name": "Wingstop",
       "property": "McMinnville Plaza",
-      "status": "Sarah Langan accepted Jacob's Thursday 10:00 AM call window for the Wingstop lease wrap-up and said she would send a Teams invite shortly.",
+      "status": "Clay sent Jacob CAD drawings for the McMinnville Wingstop/Aldi floor-plan workstream: Royal Furniture floor plan and The Vac Shack floor plan DWG files dated 2026-07-24. Use/share with courtesy-only and field-verify caveat before external forwarding.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Confirm Teams invite/calendar hold lands for Thursday 10:00 AM, then use the call to wrap remaining lease comments.",
+      "nextStep": "Jacob/Adam use the CAD drawings in the Wingstop lease wrap-up and Aldi/Royal Furniture floor-plan discussions as appropriate.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-07-28",
+          "event": "Clay sent CAD drawings for Wingstop and Aldi/Royal Furniture floor-plan workstream.",
+          "type": "slack"
+        },
         {
           "date": "2026-07-27",
           "event": "Email from Jacob Delk: Out of Office RE: McMinnville, TN-Wingstop",
@@ -23921,7 +23926,8 @@
         "Kevin Trujillo",
         "James Lanoux",
         "Sarah Langan <sarah@lawbylangan.com>",
-        "Sarah Langan (Sarah C. Langan PLLC)"
+        "Sarah Langan (Sarah C. Langan PLLC)",
+        "Clay Richardson"
       ],
       "actions": [
         {
@@ -28868,15 +28874,21 @@
       "id": "mcminnville-royal-furniture",
       "name": "Royal Furniture",
       "property": "McMinnville Plaza",
-      "status": "Spencer and Sheldon are still actively evaluating the corrected plan. Loading configuration and truck access remain the key physical issue.",
+      "status": "Clay sent CAD drawing `26125 - Royal Furniture - Floor Plan - 2026.07.24.dwg`, relevant to the Aldi/Royal Furniture floor-plan workstream.",
       "stage": "Contact Made",
-      "nextStep": "Continue answering diligence questions and evaluate a workable truck-height / loading solution if needed.",
+      "nextStep": "Use/share CAD drawing with courtesy-only and field-verify caveat before external forwarding.",
       "priority": "medium",
       "contacts": [
         "Spencer (Aldi)",
-        "Sheldon (Aldi)"
+        "Sheldon (Aldi)",
+        "Clay Richardson"
       ],
       "timeline": [
+        {
+          "date": "2026-07-28",
+          "event": "Clay sent Royal Furniture floor-plan CAD drawing tied to Aldi floor-plan workstream.",
+          "type": "slack"
+        },
         {
           "date": "2026-07-27",
           "event": "Email from Jacob Delk: Out of Office RE: McMinnville, TN-Wingstop",
