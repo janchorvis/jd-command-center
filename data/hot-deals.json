@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T11:03:16.784714",
+  "lastUpdated": "2026-07-28T12:03:36.933700",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-28",
@@ -95019,16 +95019,17 @@
     {
       "id": "forks-of-the-river-qsr-chicken-outparcel-sale",
       "name": "QSR Chicken Concept",
-      "property": "Forks of the River",
-      "status": "Bhavesh C. opened/downloaded the Forks of the River Shopping Center Outparcel brochure via Crexi. No direct message/body or contact details were included beyond the dashboard activity notice. Jacob needs to decide whether to follow up through Crexi/contact path and capture phone/email/use.",
-      "stage": "Contact Made",
-      "nextStep": "Follow up through Crexi/contact path to capture phone/email and intended use, or ignore if this is passive brochure activity.",
-      "priority": "medium",
+      "property": "Sevierville / Forks of the River Shopping Center",
+      "status": "Mahogany Properties, through Caleb Glafenhein / Greenbrier, submitted an LOI to purchase the 0.50-acre Gabe's outparcel. Mahogany is the same group Greenbrier works with on East TN Whataburger territory, but Caleb said this is not Whataburger; it is a confidential new chicken concept.",
+      "stage": "LOI",
+      "nextStep": "Jacob/Micah decide whether to entertain an outparcel sale, counter with a price, or hold to lease/ground-lease posture.",
+      "priority": "high",
       "contacts": [
         "Caleb Glafenhein (Greenbrier Real Estate Advisors)",
         "Adam Heston (Anchor)",
         "Bhavesh C. (Crexi prospect)",
-        "Bhavesh C. (Crexi brochure activity)"
+        "Bhavesh C. (Crexi brochure activity)",
+        "Mahogany Properties"
       ],
       "timeline": [
         {
@@ -95039,6 +95040,11 @@
         {
           "date": "2026-07-28",
           "event": "Email from Jacob Delk: Out of Office Re: DayBreaker: CEO shakeup; Ultra-fast delivery use growing; Davi",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-28",
+          "event": "Mahogany Properties / Greenbrier submitted LOI to purchase 0.50-acre Gabe's outparcel for confidential new chicken concept; Micah asked identity/use and Caleb clarified it is not Whataburger.",
           "type": "email"
         },
         {
@@ -95253,7 +95259,8 @@
         "avgSqFt": 13928,
         "suiteCount": 9,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "LOI"
     },
     {
       "id": "harrison-square-trent-d-crexi",
