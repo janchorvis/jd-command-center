@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T09:02:58.477923",
+  "lastUpdated": "2026-07-28T11:03:16.784714",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-28",
@@ -39,7 +39,8 @@
       "Reach out to Tardy about resources for seeking feedback  (overdue — due 2026-06-24)",
       "Follow up with Nicole Dautovic / Chase after ICSC (overdue — due 2026-06-08)",
       "PCON feedback: Jeffrey Shoopman (overdue — due 2026-06-19)",
-      "PCON feedback: Jeffrey Shoopman (overdue — due 2026-06-19)"
+      "PCON feedback: Jeffrey Shoopman (overdue — due 2026-06-19)",
+      "Malone sale inquiry: decide NDA/data-room posture and provide updated site plan + rent roll to Michael Wachs/Tracy Lauer."
     ]
   },
   "pipelineDeals": [
@@ -95657,6 +95658,29 @@
         "suiteCount": 11,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "malone-sale-wachs",
+      "name": "Michael Wachs sale inquiry",
+      "property": "Malone Plaza",
+      "status": "Michael Wachs reviewed Malone while in the Adirondacks and requested an updated site plan and rent roll so he can work on purchase numbers; Tracy Lauer asked whether Anchor can provide those or wants an NDA first.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob/Ryan/Micah decide NDA/data-room posture, then provide updated site plan and rent roll or route through NDA first.",
+      "priority": "high",
+      "contacts": [
+        "Tracy Lauer (Widewaters)",
+        "Michael Wachs"
+      ],
+      "timeline": [
+        {
+          "date": "2026-07-28",
+          "event": "Tracy Lauer: Michael Wachs reviewed Malone and requested updated site plan + rent roll; asks if NDA required first.",
+          "type": "email"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-07-28"
     }
   ],
   "droppedBalls": [
