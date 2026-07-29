@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T07:17:20.247008",
+  "lastUpdated": "2026-07-29T10:02:47.590289",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-29",
@@ -46154,10 +46154,10 @@
     {
       "id": "evansville-easterseals",
       "tenant": "Easterseals Rehabilitation",
-      "property": "Evansville Big Lots",
-      "status": "Evansville Rehab / Easterseals has passed after internal review; Rob Henson said they cannot make the opportunity fit on the lease or purchase side.",
-      "nextStep": "No immediate Jacob response required unless he wants to send a courtesy closeout; reopen/remarket the Big Lots box to other prospects.",
-      "priority": "low",
+      "property": "730 S Green River Rd, Evansville, IN",
+      "status": "Adam Heston forwarded Susi Racine / Woodward Commercial's 15,000 SF package-delivery requirement for a non-Amazon delivery business. Prospect needs 20-30 car parking, loading dock, restrooms, small office, likely Aug. 15 lease start, possible 3-year term, and may later need more than 15,000 SF. Adam asked Jacob whether landlord would split the former Big Lots suite and confirmed co-broker interest.",
+      "nextStep": "Jacob/Adam need to decide whether Anchor will split the Evansville former Big Lots box for roughly 15,000 SF package-delivery use and what economics/delivery assumptions to quote before Adam responds to Susi.",
+      "priority": "high",
       "timeline": [
         {
           "date": "2026-07-29",
@@ -46178,6 +46178,11 @@
           "date": "2026-07-29",
           "event": "Email from Jacob Delk: Out of Office Re: Chick-fil-A Ground Lease | University Adjacent Location | Cinc",
           "type": "email"
+        },
+        {
+          "date": "2026-07-29",
+          "event": "Susi Racine / Woodward Commercial asked whether Anchor would split Evansville former Big Lots for a 15,000 SF package-delivery tenant needing parking/loading dock/restrooms/office and an Aug. 15 start.",
+          "type": "lead"
         },
         {
           "date": "2026-07-28",
@@ -47695,7 +47700,9 @@
         "Robert Henson (Evansville Rehab)",
         "Micah Lacher (Anchor)",
         "Jacob Delk (Anchor)",
-        "Robert Henson (Evansville Rehab / Easterseals)"
+        "Robert Henson (Evansville Rehab / Easterseals)",
+        "Susi Racine (Woodward Commercial Realty, sracine@woodwardrealty.com, 812-459-1463)",
+        "Adam Heston (Anchor)"
       ],
       "stage": "Trading Terms",
       "stageOverride": "Trading Terms"
