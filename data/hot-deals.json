@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T10:02:47.590289",
+  "lastUpdated": "2026-07-29T14:02:40.463676",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-29",
@@ -22961,11 +22961,16 @@
       "id": "mcminnville-wingstop",
       "name": "Wingstop",
       "property": "McMinnville Plaza",
-      "status": "Clay sent Jacob CAD drawings for the McMinnville Wingstop/Aldi floor-plan workstream: Royal Furniture floor plan and The Vac Shack floor plan DWG files dated 2026-07-24. Use/share with courtesy-only and field-verify caveat before external forwarding.",
+      "status": "Clay Richardson sent updated 2026-07-29 PDF floor plans for Royal Furniture and The Vac Shack/Wingstop after the prior CAD/DWG file handoff.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob/Adam use the CAD drawings in the Wingstop lease wrap-up and Aldi/Royal Furniture floor-plan discussions as appropriate.",
+      "nextStep": "Jacob/Adam should use/share the updated floor-plan PDFs in the McMinnville Wingstop/Aldi floor-plan workstream, with courtesy-only and field-verify language before forwarding externally.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-07-29",
+          "event": "Clay sent updated PDFs: 26125 - Royal Furniture - Floor Plan - 2026.07.29.pdf and 26125 - The Vac Shack - Floor Plan - 2026.07.29.pdf",
+          "type": "task"
+        },
         {
           "date": "2026-07-28",
           "event": "Email from Sarah Langan: McMinnville, TN-Wingstop",
