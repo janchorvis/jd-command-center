@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T17:03:31.863220",
+  "lastUpdated": "2026-07-29T17:03:48.279252",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-29",
@@ -65961,10 +65961,10 @@
     {
       "id": "hopesmiles",
       "name": "HopeSmiles",
-      "property": "502 Thompson Lane / 144 Wilson Pike alternatives",
+      "property": "502 Thompson Lane",
       "type": "Tenant Rep",
-      "status": "Michael Gebhart, Hope Smiles CFO, asked to work directly with Jacob as primary point of contact for clinic/office location decisions and requested an early-next-week call to discuss path forward.",
-      "nextStep": "Jacob should reply with early-next-week call availability and be ready to discuss target SF, timing, and whether 502 Thompson Lane / remaining 24K SF is viable versus going back to the drawing board.",
+      "status": "Hope Smiles wants to take a run at 502 Thompson. Jacob asked Nathan Frost for the DWC contact for ballpark pricing; Nathan introduced Jacob to Rob Perschino from the landlord team to connect the DWC contact.",
+      "nextStep": "Jacob coordinate with Rob/DWC and Hope Smiles' other contractor for ballpark pricing, then decide whether 502 Thompson economics work.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -65990,7 +65990,9 @@
         "Micah Lacher (Anchor)",
         "Jacob Delk (Anchor)",
         "Nathan Frost (Ojas Partners)",
-        "Michael Gebhart (Hope Smiles CFO)"
+        "Michael Gebhart (Hope Smiles CFO)",
+        "Nathan Frost (Ojas)",
+        "Rob Perschino (landlord team)"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-11",
@@ -66013,6 +66015,11 @@
         {
           "date": "2026-07-29",
           "event": "Email from Jacob Delk: Out of Office Re: Chick-fil-A Ground Lease | University Adjacent Location | Cinc",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-29",
+          "event": "Nathan Frost introduced Jacob to Rob Perschino to connect DWC for ballpark pricing after Jacob said Hope Smiles wants to take a run at 502 Thompson.",
           "type": "email"
         },
         {
