@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T14:02:40.463676",
+  "lastUpdated": "2026-07-29T15:02:37.662595",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-29",
@@ -47716,10 +47716,15 @@
       "id": "shelbyville-cosmoprof",
       "tenant": "Cosmoprof",
       "property": "River Parkway Plaza",
-      "status": "Kevin Trujillo forwarded CosmoProf's final LOI package dated 7/14/26 and asked Jacob for an updated site plan plus an existing aerial if available. Jacob needs to provide the site plan/aerial or confirm BSM should create the aerial for the package.",
-      "nextStep": "Send Kevin the updated site plan and any available aerial for CosmoProf's final LOI package.",
+      "status": "CosmoProf approved at REC on 2026-07-29; BSM asked Jacob for construction/legal contacts to share and Brad asked Jacob to review/execute the Sevierville CA.",
+      "nextStep": "Jacob to provide construction/legal contacts and review/execute the CA; formal work-letter language remains needed.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-07-29",
+          "event": "CosmoProf approved at REC; BSM requested construction/legal contacts and Sevierville CA execution.",
+          "type": "email"
+        },
         {
           "date": "2026-07-28",
           "event": "Email from Mark Joines: New Offering: 78K Sam's Club Shadow | National Tenants | Super Regional Retail C",
@@ -48164,7 +48169,9 @@
         "James Kovanis (Insight Surveys)",
         "Matthew Hansen (Insight Surveys technician)",
         "Kevin Trujillo (Baker Storey McDonald)",
-        "Braydon Griffith (Sally Beauty/CosmoProf)"
+        "Braydon Griffith (Sally Beauty/CosmoProf)",
+        "Kevin Trujillo (BSM)",
+        "Brad Altum (BSM)"
       ],
       "stage": "LOI",
       "stageOverride": "LOI"
@@ -59381,9 +59388,9 @@
       "id": "bealls-shelbyville-former-big-lots",
       "name": "Bealls",
       "property": "Shelbyville former Big Lots / 1202 SR 44",
-      "status": "Dutch Bros Shelbyville moved from preliminary site-plan review into LOI review: Jacob sent the escape-lane revision to Kimley-Horn, and Alex Wendt / Midland Atlantic sent draft BTS LOI `LOI BTS V4 - Shelbyville 7.27.26.docx` for Jacob's review.",
+      "status": "Chick-fil-A passed on the site because the larger building/site layout would push them behind Valvoline; Dutch Bros/7 Brew and other outparcel layout paths remain active.",
       "stage": "Trading Terms",
-      "nextStep": "Jacob/Clay review the draft BTS LOI while Kimley-Horn works the clean Dutch Bros-only / escape-lane site plan.",
+      "nextStep": "Continue Dutch Bros/7 Brew and alternate outparcel layouts/economics; account for Chick-fil-A pass in the site-plan strategy.",
       "priority": "high",
       "contacts": [
         "Paul Gold (Echo Retail)",
@@ -59398,12 +59405,18 @@
         "Ethan Flynn (Dutch Bros Real Estate Manager)",
         "Shawn Heffern (Midland Atlantic Properties)",
         "Alex Wendt (Midland Atlantic Properties)",
-        "Jon Barnard (Dutch Bros Real Estate Manager)"
+        "Jon Barnard (Dutch Bros Real Estate Manager)",
+        "Pat Boyle (Midland Atlantic)"
       ],
       "timeline": [
         {
           "date": "2026-07-29",
           "event": "Email from Hank Davis: Chick-fil-A Ground Lease | University Adjacent Location | Cincinnati, OH",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-29",
+          "event": "Pat Boyle reported Chick-fil-A is passing because they do not want to be tucked behind Valvoline.",
           "type": "email"
         },
         {
