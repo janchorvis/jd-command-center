@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T14:02:40.463676",
+  "lastUpdated": "2026-07-29T15:02:04.339882",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-29",
@@ -11416,12 +11416,17 @@
     {
       "id": "shelbyville-anytime",
       "name": "Anytime Fitness (Derek Tucker)",
-      "property": "Shelbyville",
-      "status": "Cosmoprof followed up on Shelbyville - trying to buy time for better tenants",
+      "property": "Shelbyville former Big Lots",
+      "status": "Chick-fil-A passed on the site because the larger building/site layout would push them behind Valvoline; Dutch Bros/7 Brew and other outparcel layout paths remain active.",
       "stage": "LOI",
-      "nextStep": "Push Cosmoprof with firm terms (no TI, state what we will/won't do) - take it or leave it approach",
-      "priority": "medium",
+      "nextStep": "Continue Dutch Bros/7 Brew and alternate outparcel layouts/economics; account for Chick-fil-A pass in the site-plan strategy.",
+      "priority": "high",
       "timeline": [
+        {
+          "date": "2026-07-29",
+          "event": "Pat Boyle reported Chick-fil-A is passing because they do not want to be tucked behind Valvoline.",
+          "type": "email"
+        },
         {
           "date": "2026-07-28",
           "event": "Email from Paul Cohen: E Michigan Rd..",
@@ -11845,7 +11850,8 @@
       ],
       "contacts": [
         "Derek Tucker",
-        "Paul Gold (ECHO Retail)"
+        "Paul Gold (ECHO Retail)",
+        "Pat Boyle (Midland Atlantic)"
       ],
       "actions": [
         {
@@ -47716,10 +47722,15 @@
       "id": "shelbyville-cosmoprof",
       "tenant": "Cosmoprof",
       "property": "River Parkway Plaza",
-      "status": "Kevin Trujillo forwarded CosmoProf's final LOI package dated 7/14/26 and asked Jacob for an updated site plan plus an existing aerial if available. Jacob needs to provide the site plan/aerial or confirm BSM should create the aerial for the package.",
-      "nextStep": "Send Kevin the updated site plan and any available aerial for CosmoProf's final LOI package.",
+      "status": "CosmoProf approved at REC on 2026-07-29; BSM asked Jacob for construction/legal contacts to share and Brad asked Jacob to review/execute the Sevierville CA.",
+      "nextStep": "Jacob to provide construction/legal contacts and review/execute the CA; formal work-letter language remains needed.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-07-29",
+          "event": "CosmoProf approved at REC; BSM requested construction/legal contacts and Sevierville CA execution.",
+          "type": "email"
+        },
         {
           "date": "2026-07-28",
           "event": "Email from Mark Joines: New Offering: 78K Sam's Club Shadow | National Tenants | Super Regional Retail C",
@@ -48164,7 +48175,9 @@
         "James Kovanis (Insight Surveys)",
         "Matthew Hansen (Insight Surveys technician)",
         "Kevin Trujillo (Baker Storey McDonald)",
-        "Braydon Griffith (Sally Beauty/CosmoProf)"
+        "Braydon Griffith (Sally Beauty/CosmoProf)",
+        "Kevin Trujillo (BSM)",
+        "Brad Altum (BSM)"
       ],
       "stage": "LOI",
       "stageOverride": "LOI"
