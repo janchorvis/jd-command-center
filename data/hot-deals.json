@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T08:03:06.393229",
+  "lastUpdated": "2026-07-30T09:03:33.338108",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-30",
@@ -52,14 +52,19 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below lease remains in review. Ashby Scott returned marginal comments on Five Below's revised Malone lease and asked Jacob/Micah for thoughts; Ashby is available by phone while driving 7/24 or next Thu/Fri. Jacob is out Mon-Wed and wants to finalize ASAP.",
+      "status": "Ashby Scott followed up after the 8 AM lease-review thread with a confirmation question: Five Below is going into the old JoAnn's spot.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Micah review Ashby's marginal comments and schedule a call with Ashby next Thu/Fri or call him 7/24 while he is driving.",
+      "nextStep": "Confirm suite/location for Ashby so lease comments can keep moving.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-07-30",
           "event": "Email from Chain Store Age: DayBreaker: Starbucks' comps jump; Five holiday predictions; DoorDash drone prog",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-30",
+          "event": "Ashby asked Jacob to confirm Five Below is going into the old JoAnn's spot.",
           "type": "email"
         },
         {
@@ -5345,7 +5350,8 @@
         "Julia Gibson (Maynard Nexsen)",
         "Claire/Clare (Anchor)",
         "Micah Lacher (Anchor)",
-        "Jacob Delk (Anchor)"
+        "Jacob Delk (Anchor)",
+        "Ashby Scott <ascott@evanspetree.com>"
       ],
       "actions": [
         {
