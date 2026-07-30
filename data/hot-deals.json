@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T10:04:39.530962",
+  "lastUpdated": "2026-07-30T13:03:28.413034",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-30",
@@ -44,7 +44,8 @@
       "Salvage value for Shelbyville if we raze it? (overdue — due 2026-06-26)",
       "Adam business cards (overdue — due 2026-06-24)",
       "Reach out to Tardy about resources for seeking feedback  (overdue — due 2026-06-24)",
-      "Follow up with Nicole Dautovic / Chase after ICSC (overdue — due 2026-06-08)"
+      "Follow up with Nicole Dautovic / Chase after ICSC (overdue — due 2026-06-08)",
+      "Answer Kevin Moss on whether Pearl Road prospect should focus on Vitcom or the 12,000 SF downsize space."
     ]
   },
   "pipelineDeals": [
@@ -79647,9 +79648,9 @@
       "id": "cleveland-furniture-bank-parma-heights",
       "name": "Cleveland Furniture Bank",
       "property": "Pearl Road / Cleveland Furniture Bank",
-      "status": "Micah reviewed CFB financials and said Anchor will proceed with the plan discussed yesterday; Clay to keep team posted on the tenant conversation.",
+      "status": "Kevin Moss replied on the Indian-grocery prospect: he brought the partner to town two weeks ago, cannot get a good read yet, and will stay on them.",
       "stage": "Lease Signed",
-      "nextStep": "Clay to report back after conversation; Jacob/Micah to decide rent relief structure if needed.",
+      "nextStep": "Jacob needs to tell Kevin whether Anchor is thinking Vitcom or the 12,000 SF downsize space.",
       "priority": "medium",
       "contacts": [
         "Tom Gaghan (Executive Director, Cleveland Furniture Bank)",
@@ -79659,9 +79660,15 @@
         "Clay Richardson",
         "Tom Gaghan",
         "Micah Lacher",
-        "Clay"
+        "Clay",
+        "Kevin Moss (CBRE)"
       ],
       "timeline": [
+        {
+          "date": "2026-07-30",
+          "event": "Kevin Moss said he brought the Indian-grocery partner to town two weeks ago, cannot get a good read, will stay on them, and asked whether Anchor is thinking Vitcom or the 12,000 SF downsize.",
+          "type": "email"
+        },
         {
           "date": "2026-07-29",
           "event": "Email from Clayton Davidson: Intro to Broker Tools — live Thursday, July 30",
