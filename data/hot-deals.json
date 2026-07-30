@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T07:16:29.337116",
+  "lastUpdated": "2026-07-30T08:03:06.393229",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-30",
@@ -43061,13 +43061,18 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Joey Valenti sent the Zoom invite for the Great Greek Hendersonville lease-review call and clarified the corrected invite is for Friday 2026-07-24, not today. Jacob needs to accept/use the corrected invite and attend the lease wrap-up call.",
-      "nextStep": "Accept the corrected Friday Zoom invite and join the Great Greek lease-review call.",
+      "status": "Cavan McCann returned revised Great Greek lease docs and says the lease is close to final; open points are HVAC maintenance/vendor/protocol and reimbursement over $3,000, CAM exclusion list vs management/admin fee, property-condition/as-is timing, and tenant remedy for major structural/HVAC failures after removing the market-exit clause.",
+      "nextStep": "Jacob should set a brief call with Cavan/Joey and decide final posture on HVAC reimbursement, CAM exclusions, as-is timing, and landlord-default remedies.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-07-30",
           "event": "Email from CoStar News: CoStar Today: CBRE raises annual profit outlook, buoyed by data center business",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-30",
+          "event": "Cavan McCann sent revised clean/redline lease docs and listed final open issues: HVAC maintenance/reimbursement, CAM exclusions, property condition/as-is timing, and default remedies.",
           "type": "email"
         },
         {
@@ -46744,7 +46749,8 @@
         "Joey Valenti (Centennial)",
         "Clay Richardson",
         "Hillary Holmes (Gilded Spine)",
-        "Joey Valenti / Centennial Retail Services"
+        "Joey Valenti / Centennial Retail Services",
+        "Cavan McCann (tenant counsel)"
       ],
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
