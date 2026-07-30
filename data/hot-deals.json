@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T15:04:06.998171",
+  "lastUpdated": "2026-07-30T16:02:00.215728",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-30",
@@ -53,9 +53,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Ashby Scott followed up after the 8 AM lease-review thread with a confirmation question: Five Below is going into the old JoAnn's spot.",
+      "status": "Ashby sent the latest revised Five Below lease back to Five Below after Jacob approved the revisions; Ashby said the deal is pretty much there but the remaining issue is a square-footage discrepancy for the former JoAnn's premises.",
       "stage": "Lease Signed",
-      "nextStep": "Confirm suite/location for Ashby so lease comments can keep moving.",
+      "nextStep": "Resolve/confirm square-footage calculation discrepancy against Anchor architect measurement so lease finalization can proceed.",
       "priority": "high",
       "timeline": [
         {
@@ -66,6 +66,11 @@
         {
           "date": "2026-07-30",
           "event": "Ashby asked Jacob to confirm Five Below is going into the old JoAnn's spot.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-30",
+          "event": "Ashby sent revised lease to Five Below and asked them to explain their SF calculation versus Anchor's architect measurement; remaining issue is square-footage discrepancy.",
           "type": "email"
         },
         {
@@ -5352,7 +5357,9 @@
         "Claire/Clare (Anchor)",
         "Micah Lacher (Anchor)",
         "Jacob Delk (Anchor)",
-        "Ashby Scott <ascott@evanspetree.com>"
+        "Ashby Scott <ascott@evanspetree.com>",
+        "Ashby Scott",
+        "Bill Castagna"
       ],
       "actions": [
         {
