@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T09:03:33.338108",
+  "lastUpdated": "2026-07-30T10:04:39.530962",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-30",
@@ -43067,8 +43067,8 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Cavan McCann returned revised Great Greek lease docs and says the lease is close to final; open points are HVAC maintenance/vendor/protocol and reimbursement over $3,000, CAM exclusion list vs management/admin fee, property-condition/as-is timing, and tenant remedy for major structural/HVAC failures after removing the market-exit clause.",
-      "nextStep": "Jacob should set a brief call with Cavan/Joey and decide final posture on HVAC reimbursement, CAM exclusions, as-is timing, and landlord-default remedies.",
+      "status": "Cavan McCann returned revised clean/redline lease drafts after the Friday Great Greek call and says the lease is close; remaining issues are HVAC maintenance/vendor/reimbursement over $3K, CAM exclusion list vs management/admin fee, property-condition/as-is timing, and landlord-default remedy for major structural/HVAC failures.",
+      "nextStep": "Jacob needs to schedule a brief call with Cavan and finalize the four remaining lease points.",
       "priority": "high",
       "timeline": [
         {
@@ -43079,6 +43079,11 @@
         {
           "date": "2026-07-30",
           "event": "Cavan McCann sent revised clean/redline lease docs and listed final open issues: HVAC maintenance/reimbursement, CAM exclusions, property condition/as-is timing, and default remedies.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-30",
+          "event": "Cavan McCann sent revised Great Greek lease drafts and requested a brief call to finalize remaining HVAC/CAM/property-condition/default points.",
           "type": "email"
         },
         {
@@ -46756,7 +46761,8 @@
         "Clay Richardson",
         "Hillary Holmes (Gilded Spine)",
         "Joey Valenti / Centennial Retail Services",
-        "Cavan McCann (tenant counsel)"
+        "Cavan McCann (tenant counsel)",
+        "Cavan McCann (B2M Law)"
       ],
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
@@ -64435,9 +64441,9 @@
       "id": "mcminnville-regional-transit",
       "name": "Regional transit service / Craig Hughes",
       "property": "McMinnville Plaza",
-      "status": "Emma Bray / Upper Cumberland Commercial sent an LOI from her Warren County client for 1100 Smithville Hwy / McMinnville Plaza after touring Suite 129 and previously sending layout requirements.",
+      "status": "Emma Bray followed up on the Suite 129 LOI/buildout quote path, asking where Anchor is with getting buildout quotes and whether the prospect needs to provide anything else.",
       "stage": "LOI",
-      "nextStep": "Jacob needs to review the attached 1100 Smithville Hwy LOI and decide counter/acceptance posture.",
+      "nextStep": "Jacob/Adam need to update Emma on buildout quote timing and request any missing information needed to price/respond to the LOI.",
       "priority": "high",
       "contacts": [
         "Craig Hughes (Upper Cumberland Commercial)",
@@ -64447,6 +64453,11 @@
         {
           "date": "2026-07-30",
           "event": "Email from Daniel Creta: Preferred Property Program 200 Hobson St, McMinnville, Tennessee 37110",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-30",
+          "event": "Emma Bray followed up asking for buildout quote status on Suite 129 LOI.",
           "type": "email"
         },
         {
