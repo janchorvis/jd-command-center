@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T13:03:28.413034",
+  "lastUpdated": "2026-07-30T14:03:16.579828",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-30",
@@ -43068,8 +43068,8 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Cavan McCann returned revised clean/redline lease drafts after the Friday Great Greek call and says the lease is close; remaining issues are HVAC maintenance/vendor/reimbursement over $3K, CAM exclusion list vs management/admin fee, property-condition/as-is timing, and landlord-default remedy for major structural/HVAC failures.",
-      "nextStep": "Jacob needs to schedule a brief call with Cavan and finalize the four remaining lease points.",
+      "status": "Cavan sent revised Great Greek lease drafts with remaining issues (HVAC maintenance/vendor/reimbursement over $3K, CAM exclusions/admin fee, as-is/property condition timing, landlord-default remedy); Joey separately sent the Great Greek Hendersonville commission agreement on 7/30 and said hopefully this gets wrapped up soon.",
+      "nextStep": "Jacob should finalize the brief lease call with Cavan and review/route the commission agreement before execution.",
       "priority": "high",
       "timeline": [
         {
@@ -43085,6 +43085,11 @@
         {
           "date": "2026-07-30",
           "event": "Cavan McCann sent revised Great Greek lease drafts and requested a brief call to finalize remaining HVAC/CAM/property-condition/default points.",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-30",
+          "event": "Joey Valenti sent Great Greek Hendersonville commission agreement; lease issues still need final Cavan call.",
           "type": "email"
         },
         {
@@ -46763,7 +46768,8 @@
         "Hillary Holmes (Gilded Spine)",
         "Joey Valenti / Centennial Retail Services",
         "Cavan McCann (tenant counsel)",
-        "Cavan McCann (B2M Law)"
+        "Cavan McCann (B2M Law)",
+        "Cavan McCann"
       ],
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
@@ -98753,6 +98759,28 @@
         "suiteCount": 2,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "spirit-halloween-evansville-water",
+      "name": "Spirit Halloween Evansville water shutoff",
+      "property": "Lawndale SC / Evansville IN",
+      "status": "Spirit Utilities reported water service was shut off due to an unpaid February 2026 sprinkler-related bill; Spirit says services stay in landlord name with tenant deposit and they are planned to open Saturday.",
+      "stage": "Lease Draft & Review",
+      "nextStep": "Jacob/Melissa should urgently confirm the bill/account issue and restore water before Saturday opening.",
+      "priority": "high",
+      "contacts": [
+        "Ethan Roswell (Spirit Halloween Real Estate Administrator)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-07-30",
+          "event": "Spirit Utilities emailed urgent water shutoff/opening issue for Evansville/Lawndale location.",
+          "type": "email"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-07-30"
     }
   ],
   "droppedBalls": [
