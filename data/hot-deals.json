@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T08:05:16.416956",
+  "lastUpdated": "2026-07-31T09:03:11.562589",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-31",
@@ -99904,9 +99904,9 @@
       "id": "forks-of-the-river-qsr-chicken-outparcel-sale",
       "name": "QSR Chicken Concept",
       "property": "Sevierville / Forks of the River Shopping Center",
-      "status": "Mahogany Properties, through Caleb Glafenhein / Greenbrier, submitted an LOI to purchase the 0.50-acre Gabe's outparcel. Mahogany is the same group Greenbrier works with on East TN Whataburger territory, but Caleb said this is not Whataburger; it is a confidential new chicken concept.",
+      "status": "Caleb Glafenhein / Greenbrier followed up on Mahogany Properties confidential chicken-concept LOI to purchase the 0.50-acre Gabe's outparcel and asked whether Anchor has interest and when to expect a response.",
       "stage": "LOI",
-      "nextStep": "Jacob/Micah decide whether to entertain an outparcel sale, counter with a price, or hold to lease/ground-lease posture.",
+      "nextStep": "Jacob/Micah decide sale vs counter-price vs lease/ground-lease posture and give Caleb timing/response.",
       "priority": "high",
       "contacts": [
         "Caleb Glafenhein (Greenbrier Real Estate Advisors)",
@@ -99919,6 +99919,11 @@
         {
           "date": "2026-07-31",
           "event": "Email from CoStar News: CoStar Today: Amazon boosts data center spending in push to become 'trillion-dol",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-31",
+          "event": "Caleb followed up asking if Anchor has interest in the Gabe's outparcel purchase LOI and when to expect a response.",
           "type": "email"
         },
         {
