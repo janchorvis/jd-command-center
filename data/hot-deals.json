@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T10:04:42.690743",
+  "lastUpdated": "2026-07-31T15:03:50.635467",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-07-31",
@@ -68,14 +68,19 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Ashby sent the latest revised Five Below lease back to Five Below after Jacob approved the revisions; Ashby said the deal is pretty much there but the remaining issue is a square-footage discrepancy for the former JoAnn's premises.",
+      "status": "Lease draft is near final, but square-footage discrepancy is still open. 7/31: Five Below said its SF is predicated on the rear room it was building out and asked Jacob/Ashby to share Anchor's CAD so they can overlay and locate the disconnect.",
       "stage": "Lease Signed",
-      "nextStep": "Resolve/confirm square-footage calculation discrepancy against Anchor architect measurement so lease finalization can proceed.",
+      "nextStep": "Jacob/Micah/Clay provide CAD/measurement backup to Five Below/Ashby and resolve the former JoAnn's SF discrepancy.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-07-31",
           "event": "Email from Jacob Delk: 1573 Mallory Ln - Phase I",
+          "type": "email"
+        },
+        {
+          "date": "2026-07-31",
+          "event": "Five Below requested Anchor CAD overlay to reconcile former JoAnn's SF discrepancy.",
           "type": "email"
         },
         {
