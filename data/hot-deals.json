@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T12:04:40.083925",
+  "lastUpdated": "2026-08-03T13:02:52.073910",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-08-03",
@@ -42,14 +42,19 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below lease is nearly complete but the former JoAnn's square-footage discrepancy remains open. Jacob sent a revised PDF floor plan accounting for the sprinkler room on 8/2; Bill Castagna replied 8/3 that Desiree/Warren still requested the CAD file for overlay and asked whether the PDF can work.",
+      "status": "Five Below is reviewing Anchor's revised PDF floor plan for the former JoAnn/Five Below square-footage overlay after Desiree Warren initially requested CAD; Desiree said she will look at the PDF and report back.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Micah/Clay need to provide the actual CAD file if available, or confirm the PDF is all Anchor has and ask Five Below whether Desiree can proceed from it.",
+      "nextStep": "Wait for Desiree/Five Below's overlay response; if the PDF is insufficient, locate/provide CAD if available or confirm PDF is all Anchor has.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-08-03",
           "event": "Bill Castagna said Five Below still wants the CAD file for the JoAnn's premises overlay after Jacob sent only a revised PDF floor plan; asked Desiree/Warren whether PDF can work.",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-03",
+          "event": "Desiree Warren said she will review Anchor's revised PDF floor plan and report back on the square-footage overlay/CAD issue.",
           "type": "email"
         },
         {
