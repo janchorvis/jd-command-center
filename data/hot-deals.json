@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T11:05:36.317596",
+  "lastUpdated": "2026-08-03T12:04:40.083925",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-08-03",
@@ -42,11 +42,16 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Lease draft is near final, but square-footage discrepancy is still open. 7/31: Five Below said its SF is predicated on the rear room it was building out and asked Jacob/Ashby to share Anchor's CAD so they can overlay and locate the disconnect.",
+      "status": "Five Below lease is nearly complete but the former JoAnn's square-footage discrepancy remains open. Jacob sent a revised PDF floor plan accounting for the sprinkler room on 8/2; Bill Castagna replied 8/3 that Desiree/Warren still requested the CAD file for overlay and asked whether the PDF can work.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Micah/Clay provide CAD/measurement backup to Five Below/Ashby and resolve the former JoAnn's SF discrepancy.",
+      "nextStep": "Jacob/Micah/Clay need to provide the actual CAD file if available, or confirm the PDF is all Anchor has and ask Five Below whether Desiree can proceed from it.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-03",
+          "event": "Bill Castagna said Five Below still wants the CAD file for the JoAnn's premises overlay after Jacob sent only a revised PDF floor plan; asked Desiree/Warren whether PDF can work.",
+          "type": "email"
+        },
         {
           "date": "2026-08-02",
           "event": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (08434)",
