@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T07:16:15.752076",
+  "lastUpdated": "2026-08-03T07:16:38.959965",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-08-03",
@@ -105666,8 +105666,8 @@
       "details": {
         "lastEmailDate": "2026-07-30",
         "lastPipedriveDate": "2025-03-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 499
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 502
       }
     },
     {
@@ -105679,8 +105679,8 @@
       "details": {
         "lastEmailDate": "2026-07-30",
         "lastPipedriveDate": "2025-03-24",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 494
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 497
       }
     },
     {
@@ -105692,8 +105692,8 @@
       "details": {
         "lastEmailDate": "2026-07-30",
         "lastPipedriveDate": "2025-08-26",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 339
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 342
       }
     },
     {
@@ -105705,8 +105705,8 @@
       "details": {
         "lastEmailDate": "2026-07-30",
         "lastPipedriveDate": "2025-03-25",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 493
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 496
       }
     },
     {
@@ -105718,8 +105718,8 @@
       "details": {
         "lastEmailDate": "2026-07-30",
         "lastPipedriveDate": "2025-03-26",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 492
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 495
       }
     },
     {
@@ -105731,8 +105731,8 @@
       "details": {
         "lastEmailDate": "2026-07-30",
         "lastPipedriveDate": "2025-08-02",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 363
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 366
       }
     },
     {
@@ -105744,8 +105744,8 @@
       "details": {
         "lastEmailDate": "2026-07-30",
         "lastPipedriveDate": "2025-11-04",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 269
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 272
       }
     },
     {
@@ -105757,8 +105757,8 @@
       "details": {
         "lastEmailDate": "2026-07-30",
         "lastPipedriveDate": "2026-02-19",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 162
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 165
       }
     },
     {
@@ -105770,21 +105770,21 @@
       "details": {
         "lastEmailDate": "2026-07-30",
         "lastPipedriveDate": "2026-03-24",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 129
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 132
       }
     },
     {
       "deal": "CosmoProf",
       "property": "River Parkway Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/30, Pipedrive not updated since 2/19",
+      "message": "Last email 8/2, Pipedrive not updated since 2/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-30",
+        "lastEmailDate": "2026-08-02",
         "lastPipedriveDate": "2026-02-19",
         "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 162
+        "pipedriveDaysAgo": 165
       }
     },
     {
@@ -105796,8 +105796,8 @@
       "details": {
         "lastEmailDate": "2026-07-27",
         "lastPipedriveDate": "2025-03-19",
-        "emailDaysAgo": 4,
-        "pipedriveDaysAgo": 499
+        "emailDaysAgo": 7,
+        "pipedriveDaysAgo": 502
       }
     },
     {
@@ -105809,8 +105809,8 @@
       "details": {
         "lastEmailDate": "2026-07-27",
         "lastPipedriveDate": "2026-01-28",
-        "emailDaysAgo": 4,
-        "pipedriveDaysAgo": 184
+        "emailDaysAgo": 7,
+        "pipedriveDaysAgo": 187
       }
     },
     {
@@ -105822,8 +105822,8 @@
       "details": {
         "lastEmailDate": "2026-07-27",
         "lastPipedriveDate": "2026-02-19",
-        "emailDaysAgo": 4,
-        "pipedriveDaysAgo": 162
+        "emailDaysAgo": 7,
+        "pipedriveDaysAgo": 165
       }
     },
     {
@@ -105835,8 +105835,8 @@
       "details": {
         "lastEmailDate": "2026-07-27",
         "lastPipedriveDate": "2026-01-05",
-        "emailDaysAgo": 4,
-        "pipedriveDaysAgo": 207
+        "emailDaysAgo": 7,
+        "pipedriveDaysAgo": 210
       }
     },
     {
@@ -105848,8 +105848,8 @@
       "details": {
         "lastEmailDate": "2026-07-27",
         "lastPipedriveDate": "2026-01-28",
-        "emailDaysAgo": 4,
-        "pipedriveDaysAgo": 184
+        "emailDaysAgo": 7,
+        "pipedriveDaysAgo": 187
       }
     },
     {
@@ -105861,47 +105861,47 @@
       "details": {
         "lastEmailDate": "2026-07-27",
         "lastPipedriveDate": "2026-02-23",
-        "emailDaysAgo": 4,
-        "pipedriveDaysAgo": 158
+        "emailDaysAgo": 7,
+        "pipedriveDaysAgo": 161
       }
     },
     {
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/31, Pipedrive not updated since 3/26",
+      "message": "Last email 8/2, Pipedrive not updated since 3/26",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-31",
+        "lastEmailDate": "2026-08-02",
         "lastPipedriveDate": "2025-03-26",
-        "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 492
+        "emailDaysAgo": 1,
+        "pipedriveDaysAgo": 495
       }
     },
     {
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/31, Pipedrive not updated since 5/4",
+      "message": "Last email 8/2, Pipedrive not updated since 5/4",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-31",
+        "lastEmailDate": "2026-08-02",
         "lastPipedriveDate": "2026-05-04",
-        "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 88
+        "emailDaysAgo": 1,
+        "pipedriveDaysAgo": 91
       }
     },
     {
       "deal": "Gilded Spine (Storybook Soirees LLC)",
       "property": "Maple Row",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/30, Pipedrive not updated since 3/30",
+      "message": "Last email 8/2, Pipedrive not updated since 3/30",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-30",
+        "lastEmailDate": "2026-08-02",
         "lastPipedriveDate": "2026-03-30",
         "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 123
+        "pipedriveDaysAgo": 126
       }
     },
     {
@@ -105913,8 +105913,8 @@
       "details": {
         "lastEmailDate": "2026-07-30",
         "lastPipedriveDate": "2025-03-31",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 487
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 490
       }
     },
     {
@@ -105926,8 +105926,8 @@
       "details": {
         "lastEmailDate": "2026-07-30",
         "lastPipedriveDate": "2025-08-27",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 338
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 341
       }
     },
     {
@@ -105939,34 +105939,34 @@
       "details": {
         "lastEmailDate": "2026-07-30",
         "lastPipedriveDate": "2024-08-16",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 714
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 717
       }
     },
     {
       "deal": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/31, Pipedrive not updated since 3/24",
+      "message": "Last email 8/3, Pipedrive not updated since 3/24",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-31",
+        "lastEmailDate": "2026-08-03",
         "lastPipedriveDate": "2026-03-24",
         "emailDaysAgo": 0,
-        "pipedriveDaysAgo": 129
+        "pipedriveDaysAgo": 132
       }
     },
     {
       "deal": "Wingstop",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 7/30, Pipedrive not updated since 4/27",
+      "message": "Last email 8/2, Pipedrive not updated since 4/27",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-07-30",
+        "lastEmailDate": "2026-08-02",
         "lastPipedriveDate": "2026-04-27",
         "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 95
+        "pipedriveDaysAgo": 98
       }
     },
     {
@@ -105978,8 +105978,8 @@
       "details": {
         "lastEmailDate": "2026-07-27",
         "lastPipedriveDate": "2026-07-14",
-        "emailDaysAgo": 4,
-        "pipedriveDaysAgo": 17
+        "emailDaysAgo": 7,
+        "pipedriveDaysAgo": 20
       }
     }
   ],
