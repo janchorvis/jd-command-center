@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T13:02:52.073910",
+  "lastUpdated": "2026-08-03T17:04:09.098882",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-08-03",
@@ -43774,8 +43774,8 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Cavan sent revised Great Greek lease drafts with remaining issues (HVAC maintenance/vendor/reimbursement over $3K, CAM exclusions/admin fee, as-is/property condition timing, landlord-default remedy); Joey separately sent the Great Greek Hendersonville commission agreement on 7/30 and said hopefully this gets wrapped up soon.",
-      "nextStep": "Jacob should finalize the brief lease call with Cavan and review/route the commission agreement before execution.",
+      "status": "Jacob forwarded the Great Greek lease package and LOI to Ashby Scott for help working through Cavan McCann's remaining edits after the tenant attorney shredded the first pass.",
+      "nextStep": "Ashby/Jacob to finalize remaining legal/business edits and review/route the commission agreement.",
       "priority": "high",
       "timeline": [
         {
@@ -43786,6 +43786,11 @@
         {
           "date": "2026-08-03",
           "event": "Email from CoStar News: CoStar Today: Amazon boosts data center spending in push to become 'trillion-dol",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-03",
+          "event": "Jacob routed Great Greek lease package/LOI to Ashby for legal cleanup.",
           "type": "email"
         },
         {
@@ -47570,7 +47575,8 @@
         "Joey Valenti / Centennial Retail Services",
         "Cavan McCann (tenant counsel)",
         "Cavan McCann (B2M Law)",
-        "Cavan McCann"
+        "Cavan McCann",
+        "Ashby Scott"
       ],
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
@@ -59374,10 +59380,10 @@
       "id": "smart-led-highland",
       "name": "Smart LED TN LLC",
       "property": "Highland Ave Jackson TN / Hickory Village / 2151 Highland",
-      "status": "Mathison reported in Slack that Brian's LED lighting quote is $4,500 and asked whether he can tell Amin/Smart LED that Anchor will either do the lights itself or reimburse $4,500 after Smart LED completes the lighting the way they want.",
+      "status": "Mathison told Amin/Smart LED to pay the security deposit via accounting instructions and said Anchor can reimburse lighting upgrades after receipts/photos or pay the vendor directly.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob needs to approve Mathison's response posture on the LED-lighting fix/reimbursement before Mathison answers Amin.",
-      "priority": "high",
+      "nextStep": "Track deposit, lighting reimbursement execution, and unresolved address/meter issue.",
+      "priority": "medium",
       "contacts": [
         "Amin Lakhani (Smart LED TN LLC) - smartledtn@gmail.com - 901-907-2646",
         "Amin Lakhani (Smart LED TN LLC)",
@@ -59386,13 +59392,19 @@
         "Jacob Delk (Anchor)",
         "Amin Lakhani <smartledtn@gmail.com>",
         "Mathison Ingham",
-        "Amin Lakhani / Smart LED TN LLC"
+        "Amin Lakhani / Smart LED TN LLC",
+        "Amin Lakhani / Smart LED"
       ],
       "timeline": [
         {
           "date": "2026-08-03",
           "event": "Mathison asked Jacob whether he can tell Smart LED that Anchor will either do the lighting itself or pay $4,500 after Smart LED completes the lights as desired.",
           "type": "slack"
+        },
+        {
+          "date": "2026-08-03",
+          "event": "Mathison sent Smart LED deposit/reimbursement posture to Amin.",
+          "type": "email"
         },
         {
           "date": "2026-07-31",
@@ -65772,15 +65784,21 @@
       "id": "mcminnville-regional-transit",
       "name": "Regional transit service / Craig Hughes",
       "property": "McMinnville Plaza",
-      "status": "Emma Bray followed up on the Suite 129 LOI/buildout quote path, asking where Anchor is with getting buildout quotes and whether the prospect needs to provide anything else.",
+      "status": "Jacob told Emma Bray that Anchor's director of asset management is still working on buildout quotes and that Jacob should be able to respond to the Suite 129 LOI quickly once quotes are in.",
       "stage": "LOI",
-      "nextStep": "Jacob/Adam need to update Emma on buildout quote timing and request any missing information needed to price/respond to the LOI.",
+      "nextStep": "Wait on buildout quotes needed to price/respond to the LOI.",
       "priority": "high",
       "contacts": [
         "Craig Hughes (Upper Cumberland Commercial)",
-        "Emma Bray (Upper Cumberland Commercial)"
+        "Emma Bray (Upper Cumberland Commercial)",
+        "Emma Bray / Upper Cumberland Commercial"
       ],
       "timeline": [
+        {
+          "date": "2026-08-03",
+          "event": "Jacob updated Emma Bray that buildout quotes are still pending before LOI response.",
+          "type": "email"
+        },
         {
           "date": "2026-08-02",
           "event": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (08434)",
