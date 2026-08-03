@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T07:16:38.959965",
+  "lastUpdated": "2026-08-03T11:05:36.317596",
   "sourceDoc": "Copy of 2026-07-20 - Leasing Meeting",
   "today": {
     "date": "2026-08-03",
@@ -59363,10 +59363,10 @@
     {
       "id": "smart-led-highland",
       "name": "Smart LED TN LLC",
-      "property": "Hickory Village / 2151 Highland",
-      "status": "Amin Lakhani replied after signing Smart LED's lease saying he cannot proceed under the current lease terms because projected utility, lighting/electrical, flooring/paint, plumbing/hot water/toilet, and HVAC costs are far above what he expected; he asked what options are available to resolve it amicably.",
+      "property": "Highland Ave Jackson TN / Hickory Village / 2151 Highland",
+      "status": "Mathison reported in Slack that Brian's LED lighting quote is $4,500 and asked whether he can tell Amin/Smart LED that Anchor will either do the lights itself or reimburse $4,500 after Smart LED completes the lighting the way they want.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Mathison/Melissa need to decide enforcement vs negotiated cure/exit posture before responding to Amin.",
+      "nextStep": "Jacob needs to approve Mathison's response posture on the LED-lighting fix/reimbursement before Mathison answers Amin.",
       "priority": "high",
       "contacts": [
         "Amin Lakhani (Smart LED TN LLC) - smartledtn@gmail.com - 901-907-2646",
@@ -59374,9 +59374,16 @@
         "Carson Knight (Anchor)",
         "Micah Lacher (Anchor)",
         "Jacob Delk (Anchor)",
-        "Amin Lakhani <smartledtn@gmail.com>"
+        "Amin Lakhani <smartledtn@gmail.com>",
+        "Mathison Ingham",
+        "Amin Lakhani / Smart LED TN LLC"
       ],
       "timeline": [
+        {
+          "date": "2026-08-03",
+          "event": "Mathison asked Jacob whether he can tell Smart LED that Anchor will either do the lighting itself or pay $4,500 after Smart LED completes the lights as desired.",
+          "type": "slack"
+        },
         {
           "date": "2026-07-31",
           "event": "Email from Jacob Delk: 1573 Mallory Ln - Phase I",
@@ -61314,9 +61321,9 @@
       "id": "bealls-shelbyville-former-big-lots",
       "name": "Bealls",
       "property": "Shelbyville former Big Lots / 1202 SR 44",
-      "status": "Chick-fil-A passed on the site because the larger building/site layout would push them behind Valvoline; Dutch Bros/7 Brew and other outparcel layout paths remain active.",
+      "status": "Jacob asked Alex Wendt for a phone call about the Dutch Bros BTS LOI; Alex is available 1:00-3:00 PM or after 4:00 PM today. Micah commented in the leasing prep doc that Anchor can negotiate the broker fee because Anchor brought the deal to Dutch Bros.",
       "stage": "Trading Terms",
-      "nextStep": "Continue Dutch Bros/7 Brew and alternate outparcel layouts/economics; account for Chick-fil-A pass in the site-plan strategy.",
+      "nextStep": "Jacob needs to pick/call Alex today, use Micah's broker-fee posture in the Dutch Bros BTS LOI discussion, and keep Kimley-Horn escape-lane/site-plan revisions moving.",
       "priority": "high",
       "contacts": [
         "Paul Gold (Echo Retail)",
@@ -61332,9 +61339,15 @@
         "Shawn Heffern (Midland Atlantic Properties)",
         "Alex Wendt (Midland Atlantic Properties)",
         "Jon Barnard (Dutch Bros Real Estate Manager)",
-        "Pat Boyle (Midland Atlantic)"
+        "Pat Boyle (Midland Atlantic)",
+        "Alex Wendt (Midland Atlantic)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-03",
+          "event": "Alex Wendt said she is available 1:00-3:00 PM or after 4:00 PM for Jacob's Dutch Bros BTS LOI call; Micah commented that Anchor can negotiate the broker fee because Anchor brought the deal to Dutch.",
+          "type": "email/comment"
+        },
         {
           "date": "2026-07-30",
           "event": "Email from Phani Medler & Paul Leu: The Tenant Intelligence Brief - July 30, 2026",
