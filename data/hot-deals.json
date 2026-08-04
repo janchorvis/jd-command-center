@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T11:03:50.260684",
+  "lastUpdated": "2026-08-04T12:03:42.808082",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-04",
@@ -48314,10 +48314,15 @@
       "id": "evansville-easterseals",
       "tenant": "Easterseals Rehabilitation",
       "property": "730 S Green River Rd, Evansville, IN",
-      "status": "Adam Heston forwarded Susi Racine / Woodward Commercial's 15,000 SF package-delivery requirement for a non-Amazon delivery business. Prospect needs 20-30 car parking, loading dock, restrooms, small office, likely Aug. 15 lease start, possible 3-year term, and may later need more than 15,000 SF. Adam asked Jacob whether landlord would split the former Big Lots suite and confirmed co-broker interest.",
-      "nextStep": "Jacob/Adam need to decide whether Anchor will split the Evansville former Big Lots box for roughly 15,000 SF package-delivery use and what economics/delivery assumptions to quote before Adam responds to Susi.",
+      "status": "Vendors Village is interested in the Evansville former Big Lots as part of a three-box package with Shelbyville IN and Harrison OH. Matt Jeffery said they are already far along on a space in the center next door and asked whether a package deal or sale of centers could make sense.",
+      "nextStep": "Jacob/Adam decide whether Evansville should stay leasing-only, be packaged, or be discussed as a sale before Adam responds.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-04",
+          "event": "Vendors Village asked about Evansville as part of possible multi-site package / sale discussion.",
+          "type": "email"
+        },
         {
           "date": "2026-08-03",
           "event": "Email from Larry Kloess: Invitation: PCON Non-Profit Partner Panel: Big Brothers Big Sisters, ... @ Tue A",
@@ -49981,7 +49986,8 @@
         "Jacob Delk (Anchor)",
         "Robert Henson (Evansville Rehab / Easterseals)",
         "Susi Racine (Woodward Commercial Realty, sracine@woodwardrealty.com, 812-459-1463)",
-        "Adam Heston (Anchor)"
+        "Adam Heston (Anchor)",
+        "Matt Jeffery (Vendors' Village, 502-819-6164)"
       ],
       "stage": "Trading Terms",
       "stageOverride": "Trading Terms"
@@ -62439,10 +62445,10 @@
     {
       "id": "bealls-shelbyville-former-big-lots",
       "name": "Bealls",
-      "property": "Shelbyville former Big Lots / 1202 SR 44",
-      "status": "Jacob asked Alex Wendt for a phone call about the Dutch Bros BTS LOI; Alex is available 1:00-3:00 PM or after 4:00 PM today. Micah commented in the leasing prep doc that Anchor can negotiate the broker fee because Anchor brought the deal to Dutch Bros.",
+      "property": "Shelbyville former Big Lots",
+      "status": "Vendors Village is interested in all three boxes Adam sent: Shelbyville IN 40,000 SF, Harrison OH 32,959 SF, and Evansville IN 37,320 SF. Matt Jeffery asked whether the owners have any interest in selling the centers and floated a package deal, noting Vendors Village is already far along on space next door to Anchor's Evansville Big Lots. Adam wants to review response/posture with Jacob this afternoon before sending.",
       "stage": "Trading Terms",
-      "nextStep": "Jacob needs to pick/call Alex today, use Micah's broker-fee posture in the Dutch Bros BTS LOI discussion, and keep Kimley-Horn escape-lane/site-plan revisions moving.",
+      "nextStep": "Jacob/Adam decide package-leasing vs sale posture and coach Adam's response to Matt Jeffery.",
       "priority": "high",
       "contacts": [
         "Paul Gold (Echo Retail)",
@@ -62459,12 +62465,19 @@
         "Alex Wendt (Midland Atlantic Properties)",
         "Jon Barnard (Dutch Bros Real Estate Manager)",
         "Pat Boyle (Midland Atlantic)",
-        "Alex Wendt (Midland Atlantic)"
+        "Alex Wendt (Midland Atlantic)",
+        "Matt Jeffery (Vendors' Village, 502-819-6164)",
+        "Adam Heston (Anchor)"
       ],
       "timeline": [
         {
           "date": "2026-08-04",
           "event": "Email from Hank Davis: Absolute NNN | Investment Grade Tenant First Mid Bank | Jackson County Seat | Il",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-04",
+          "event": "Vendors Village expressed interest in Shelbyville/Harrison/Evansville package and asked whether owners would sell centers.",
           "type": "email"
         },
         {
@@ -102114,14 +102127,20 @@
       "id": "hamilton-10560-national-auto-parts",
       "name": "National Auto Parts User",
       "property": "10560 Harrison Ave / Hamilton OH",
-      "status": "Lacey Nobbe / CBRE said the 32,000 SF user between Big Lots and Harbor Freight is a national auto parts user. Jacob followed up; Lacey replied on 2026-07-07 that Jacob can call tomorrow.",
+      "status": "Vendors Village is interested in Harrison OH 32,959 SF as part of a possible three-box package with Shelbyville IN and Evansville IN; Matt Jeffery asked whether owners have interest in selling the centers.",
       "stage": "Contact Made",
-      "nextStep": "Jacob should call Lacey tomorrow to learn the exact user, timing, delivery assumptions, and whether the box works as-is or needs demising/TI.",
-      "priority": "medium",
+      "nextStep": "Jacob/Adam decide Harrison lease/sale/package posture before Adam responds.",
+      "priority": "high",
       "contacts": [
-        "Lacey Nobbe (CBRE)"
+        "Lacey Nobbe (CBRE)",
+        "Matt Jeffery (Vendors' Village, 502-819-6164)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-04",
+          "event": "Vendors Village included Harrison OH in three-box package interest and sale question.",
+          "type": "email"
+        },
         {
           "date": "2026-07-29",
           "event": "Email from Google Cloud: Automate & secure AI from code to cloud",
