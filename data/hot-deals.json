@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T07:16:50.540803",
+  "lastUpdated": "2026-08-04T09:04:16.399085",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-04",
@@ -57,11 +57,16 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below is reviewing Anchor's revised PDF floor plan for the former JoAnn/Five Below square-footage overlay after Desiree Warren initially requested CAD; Desiree said she will look at the PDF and report back.",
+      "status": "Five Below lease/facade path advanced: Desiree Warren says PDF overlay is close enough for the SF issue (Five Below showing 10,243 SF vs Anchor PDF 10,302 SF), likely variance from sprinkler room + angled front wall. Desiree also sent updated preliminary elevation/sign sheet for Anchor/C2 review before Five Below completes final sign package.",
       "stage": "Lease Signed",
-      "nextStep": "Wait for Desiree/Five Below's overlay response; if the PDF is insufficient, locate/provide CAD if available or confirm PDF is all Anchor has.",
+      "nextStep": "Jacob/Clay/Shaun review and approve or comment on updated preliminary elevation/sign sheet; keep lease SF discrepancy moving toward finalization.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-04",
+          "event": "Desiree Warren reported Five Below is at 10,243 SF vs Anchor PDF 10,302 SF and sent updated preliminary elevation sheet for review.",
+          "type": "email"
+        },
         {
           "date": "2026-08-03",
           "event": "Email from Larry Kloess: Invitation: PCON Non-Profit Partner Panel: Big Brothers Big Sisters, ... @ Tue A",
@@ -5538,7 +5543,8 @@
         "Jacob Delk (Anchor)",
         "Ashby Scott <ascott@evanspetree.com>",
         "Ashby Scott",
-        "Bill Castagna"
+        "Bill Castagna",
+        "Shaun Andriano (C2 Design Group)"
       ],
       "actions": [
         {
@@ -44414,13 +44420,18 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Jacob forwarded the Great Greek lease package and LOI to Ashby Scott for help working through Cavan McCann's remaining edits after the tenant attorney shredded the first pass.",
-      "nextStep": "Ashby/Jacob to finalize remaining legal/business edits and review/route the commission agreement.",
+      "status": "Great Greek lease remains in legal/business cleanup. Jacob forwarded the latest redline and LOI to Ashby on 8/3, including Wingstop exclusive-use conflict language. Joey Valenti followed up 8/4 asking how the lease is coming and whether he can help.",
+      "nextStep": "Jacob/Ashby finalize acceptable lease edits and respond to Joey/Cavan with timing or open issues.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-08-04",
           "event": "Email from Chain Store Age: Connected Retail: Martha Stewart offers AI-enabled advice; Academy Sports plays ",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-04",
+          "event": "Joey Valenti followed up asking how Great Greek Hendersonville lease is coming and whether he can help.",
           "type": "email"
         },
         {
@@ -48291,7 +48302,8 @@
         "Cavan McCann (tenant counsel)",
         "Cavan McCann (B2M Law)",
         "Cavan McCann",
-        "Ashby Scott"
+        "Ashby Scott",
+        "Ashby Scott (Evans Petree)"
       ],
       "stage": "Lease Signed",
       "stageOverride": "Lease Signed",
