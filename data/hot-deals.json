@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T12:03:42.808082",
+  "lastUpdated": "2026-08-04T14:03:08.207052",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-04",
@@ -57,14 +57,19 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below lease/facade path advanced: Desiree Warren says PDF overlay is close enough for the SF issue (Five Below showing 10,243 SF vs Anchor PDF 10,302 SF), likely variance from sprinkler room + angled front wall. Desiree also sent updated preliminary elevation/sign sheet for Anchor/C2 review before Five Below completes final sign package.",
+      "status": "Five Below square-footage cleanup remains active. Desiree said the PDF shows only a small discrepancy (10,243 SF vs Anchor PDF 10,302 SF), but Bill/Julia asked again for CAD so Five Below can overlay it and get to their number.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Clay/Shaun review and approve or comment on updated preliminary elevation/sign sheet; keep lease SF discrepancy moving toward finalization.",
+      "nextStep": "Jacob/Clay to decide whether to provide CAD or hold with the revised PDF while also reviewing the preliminary elevation/sign sheet.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-08-04",
           "event": "Desiree Warren reported Five Below is at 10,243 SF vs Anchor PDF 10,302 SF and sent updated preliminary elevation sheet for review.",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-04",
+          "event": "Five Below/Malone: Bill/Julia asked again for CAD overlay after Desiree said the PDF showed only a small discrepancy.",
           "type": "email"
         },
         {
