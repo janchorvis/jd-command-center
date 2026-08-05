@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T14:02:13.029863",
+  "lastUpdated": "2026-08-05T15:03:25.505917",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-05",
@@ -57,14 +57,19 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below square-footage cleanup remains active. Desiree said the PDF shows only a small discrepancy (10,243 SF vs Anchor PDF 10,302 SF), but Bill/Julia asked again for CAD so Five Below can overlay it and get to their number.",
-      "stage": "LOI",
-      "nextStep": "Jacob/Clay to decide whether to provide CAD or hold with the revised PDF while also reviewing the preliminary elevation/sign sheet.",
+      "status": "Five Below overlaid Anchor/C2 CAD and identified remaining 59 SF discrepancy: Anchor 10,302 SF vs Five Below 10,243 SF, driven by sprinkler room wall and angled front wall. Separate preliminary elevation/sign sheet review remains open.",
+      "stage": "Lease Draft & Review",
+      "nextStep": "Jacob/Clay/Shaun approve or comment on Five Below's preliminary elevation sheet and decide whether to accept/resolve the 59 SF lease-area delta.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-08-05",
           "event": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (08434)",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-05",
+          "event": "Five Below sent CAD overlay/lease outline showing 59 SF discrepancy from sprinkler room and angled wall; elevation approval follow-up also received.",
           "type": "email"
         },
         {
@@ -409,7 +414,8 @@
         "avgSqFt": 7342,
         "suiteCount": 2,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Lease Draft & Review"
     },
     {
       "id": "malone-shoe-dept",
@@ -651,12 +657,17 @@
     {
       "id": "shelbyville-anytime",
       "name": "Anytime Fitness (Derek Tucker)",
-      "property": "Shelbyville",
-      "status": "Cosmoprof followed up on Shelbyville - trying to buy time for better tenants",
+      "property": "Shelbyville former Big Lots",
+      "status": "Kimley-Horn sent ALTA Survey contract and asked for comments on last week's exhibits / Dutch Bros feedback. Adam also sent Wash N Roll the Shelbyville site exhibit for review.",
       "stage": "LOI",
-      "nextStep": "Push Cosmoprof with firm terms (no TI, state what we will/won't do) - take it or leave it approach",
-      "priority": "medium",
+      "nextStep": "Review/approve ALTA survey proposal, answer Kimley-Horn on exhibit comments/Dutch Bros feedback, and track Wash N Roll response to the Shelbyville site plan.",
+      "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-05",
+          "event": "Kimley-Horn sent ALTA Survey contract and requested exhibit/Dutch Bros comments; Adam sent Wash N Roll the Shelbyville site exhibit.",
+          "type": "email"
+        },
         {
           "date": "2026-03-30",
           "event": "Meeting: Cosmoprof followed up; push with firm terms to avoid losing interest",
@@ -690,7 +701,9 @@
       ],
       "contacts": [
         "Derek Tucker",
-        "Paul Gold (ECHO Retail)"
+        "Paul Gold (ECHO Retail)",
+        "Josh Koone (Kimley-Horn)",
+        "Jordan Hooper (Wash N Roll)"
       ],
       "actions": [
         {
