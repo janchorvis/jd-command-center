@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T09:20:11.624228",
+  "lastUpdated": "2026-08-05T11:04:11.923588",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-05",
@@ -3882,6 +3882,26 @@
         "suiteCount": 9,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "forks-honeybaked-ham-2400",
+      "name": "HoneyBaked Ham",
+      "property": "Sevierville / Forks of the River Shopping Center",
+      "status": "Jake Brewer / Smart Site Commercial Real Estate asked what spaces are available at 209 Forks of the River Pkwy for +/- 2,400 SF for HoneyBaked Ham.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob/Adam should confirm realistic available/servable space at Forks of the River and reply with availability, likely noting current small-shop spaces are roughly 1,190 SF and 1,200 SF if combinable/available and asking whether 2,400 SF is firm.",
+      "priority": "medium",
+      "contacts": [
+        "Jake Brewer (Smart Site Commercial Real Estate, jake@smartsitecre.com, 865-776-9807)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-08-05",
+          "event": "CoStar/C2C inquiry received for +/- 2,400 SF HoneyBaked Ham requirement at 209 Forks of the River Pkwy.",
+          "type": "lead"
+        }
+      ],
+      "actions": []
     }
   ],
   "sideDeals": [
