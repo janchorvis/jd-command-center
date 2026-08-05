@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T11:04:11.923588",
+  "lastUpdated": "2026-08-05T14:02:13.029863",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-05",
@@ -2431,10 +2431,15 @@
       "id": "evansville-easterseals",
       "tenant": "Easterseals Rehabilitation",
       "property": "730 S Green River Rd, Evansville, IN",
-      "status": "Vendors Village is interested in the Evansville former Big Lots as part of a three-box package with Shelbyville IN and Harrison OH. Matt Jeffery said they are already far along on a space in the center next door and asked whether a package deal or sale of centers could make sense.",
-      "nextStep": "Jacob/Adam decide whether Evansville should stay leasing-only, be packaged, or be discussed as a sale before Adam responds.",
+      "status": "Vendors Village completed the initial call with Adam and remains interested in Evansville as part of a potential three-box package with Shelbyville and Harrison. Adam sent the Evansville floor plan and said Anchor is meeting with the principal early next week to discuss options/best terms.",
+      "nextStep": "Decide whether Evansville stays leasing-only, can be packaged, or is considered for sale before principal meeting / next Matt follow-up.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-05",
+          "event": "Adam sent Vendors Village the Evansville floor plan after call and said Anchor will meet with principal early next week on options/best terms.",
+          "type": "email"
+        },
         {
           "date": "2026-08-04",
           "event": "Vendors Village asked about Evansville as part of possible multi-site package / sale discussion.",
@@ -3240,9 +3245,9 @@
       "id": "bealls-shelbyville-former-big-lots",
       "name": "Bealls",
       "property": "Shelbyville former Big Lots",
-      "status": "Vendors Village is interested in all three boxes Adam sent: Shelbyville IN 40,000 SF, Harrison OH 32,959 SF, and Evansville IN 37,320 SF. Matt Jeffery asked whether the owners have any interest in selling the centers and floated a package deal, noting Vendors Village is already far along on space next door to Anchor's Evansville Big Lots. Adam wants to review response/posture with Jacob this afternoon before sending.",
+      "status": "Vendors Village completed the initial call with Adam and Anchor thinks it can get a deal done. Adam told Matt Jeffery Anchor is meeting with the principal early next week to discuss options/best terms and sent Harrison + Evansville floor plans.",
       "stage": "Trading Terms",
-      "nextStep": "Jacob/Adam decide package-leasing vs sale posture and coach Adam's response to Matt Jeffery.",
+      "nextStep": "Jacob/Adam prep principal-meeting posture for the three-box package: sale vs lease path, minimum economics, floor-plan/site constraints, and whether Shelbyville/Harrison/Evansville can move together.",
       "priority": "high",
       "contacts": [
         "Paul Gold (Echo Retail)",
@@ -3264,6 +3269,11 @@
         "Adam Heston (Anchor)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-05",
+          "event": "Adam followed up after Vendors Village call: Anchor thinks it can get a deal done, principal meeting early next week, Harrison + Evansville floor plans sent.",
+          "type": "email"
+        },
         {
           "date": "2026-08-04",
           "event": "Vendors Village expressed interest in Shelbyville/Harrison/Evansville package and asked whether owners would sell centers.",
