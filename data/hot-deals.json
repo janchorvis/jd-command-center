@@ -657,17 +657,12 @@
     {
       "id": "shelbyville-anytime",
       "name": "Anytime Fitness (Derek Tucker)",
-      "property": "Shelbyville former Big Lots",
-      "status": "Kimley-Horn sent ALTA Survey contract and asked for comments on last week's exhibits / Dutch Bros feedback. Adam also sent Wash N Roll the Shelbyville site exhibit for review.",
+      "property": "Shelbyville",
+      "status": "Cosmoprof followed up on Shelbyville - trying to buy time for better tenants",
       "stage": "LOI",
-      "nextStep": "Review/approve ALTA survey proposal, answer Kimley-Horn on exhibit comments/Dutch Bros feedback, and track Wash N Roll response to the Shelbyville site plan.",
-      "priority": "high",
+      "nextStep": "Push Cosmoprof with firm terms (no TI, state what we will/won't do) - take it or leave it approach",
+      "priority": "medium",
       "timeline": [
-        {
-          "date": "2026-08-05",
-          "event": "Kimley-Horn sent ALTA Survey contract and requested exhibit/Dutch Bros comments; Adam sent Wash N Roll the Shelbyville site exhibit.",
-          "type": "email"
-        },
         {
           "date": "2026-03-30",
           "event": "Meeting: Cosmoprof followed up; push with firm terms to avoid losing interest",
@@ -701,9 +696,7 @@
       ],
       "contacts": [
         "Derek Tucker",
-        "Paul Gold (ECHO Retail)",
-        "Josh Koone (Kimley-Horn)",
-        "Jordan Hooper (Wash N Roll)"
+        "Paul Gold (ECHO Retail)"
       ],
       "actions": [
         {
@@ -3258,9 +3251,9 @@
       "id": "bealls-shelbyville-former-big-lots",
       "name": "Bealls",
       "property": "Shelbyville former Big Lots",
-      "status": "Vendors Village completed the initial call with Adam and Anchor thinks it can get a deal done. Adam told Matt Jeffery Anchor is meeting with the principal early next week to discuss options/best terms and sent Harrison + Evansville floor plans.",
+      "status": "Kimley-Horn sent ALTA Survey contract and asked for comments on last week's exhibits / Dutch Bros feedback. Adam also sent Wash N Roll the Shelbyville site exhibit for review. Vendors Village remains separately active after call and principal-meeting prep.",
       "stage": "Trading Terms",
-      "nextStep": "Jacob/Adam prep principal-meeting posture for the three-box package: sale vs lease path, minimum economics, floor-plan/site constraints, and whether Shelbyville/Harrison/Evansville can move together.",
+      "nextStep": "Review/approve ALTA survey proposal, answer Kimley-Horn on exhibit comments/Dutch Bros feedback, track Wash N Roll response to the Shelbyville site plan, and prep Vendors Village principal-meeting posture.",
       "priority": "high",
       "contacts": [
         "Paul Gold (Echo Retail)",
@@ -3279,9 +3272,15 @@
         "Pat Boyle (Midland Atlantic)",
         "Alex Wendt (Midland Atlantic)",
         "Matt Jeffery (Vendors' Village, 502-819-6164)",
-        "Adam Heston (Anchor)"
+        "Adam Heston (Anchor)",
+        "Jordan Hooper (Wash N Roll)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-05",
+          "event": "Kimley-Horn sent ALTA Survey contract and requested exhibit/Dutch Bros comments; Adam sent Wash N Roll the Shelbyville site exhibit.",
+          "type": "email"
+        },
         {
           "date": "2026-08-05",
           "event": "Adam followed up after Vendors Village call: Anchor thinks it can get a deal done, principal meeting early next week, Harrison + Evansville floor plans sent.",
