@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T15:03:25.505917",
+  "lastUpdated": "2026-08-05T16:03:37.433793",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-05",
@@ -4203,8 +4203,8 @@
       "name": "Buena Vista",
       "property": "Buena Vista Pike",
       "type": "Land/Development",
-      "status": "Pulte / Peter Deprey replied after Jacob invited an offer and said they would be in the ballpark of $1M for 2433 Buena Vista Pike. This is far below prior $10M guidance and likely a data point rather than a real path unless ownership wants a low-basis townhome-only takeout.",
-      "nextStep": "Jacob needs to decide whether to acknowledge/pass, send to ownership as market feedback, or keep Pulte warm only if they can materially improve beyond $1M.",
+      "status": "Andrew Cannon / Holladay Ventures thanked Jacob for the call back on 2433 Buena Vista Pike, is looking forward to reviewing the DD folder, attached Holladay's resume and site criteria, and asked to grab coffee the week of 8/24; he is open every morning.",
+      "nextStep": "Jacob needs to share/confirm DD folder access if not already sent and offer a morning coffee slot the week of 8/24.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
@@ -4218,11 +4218,17 @@
         "Peter Deprey (PulteGroup)",
         "Mack Furlow (The BTR Group)",
         "Drew Taylor (Lennar Land Acquisition Manager)",
-        "Peter Deprey (Pulte Land Acquisition Manager)"
+        "Peter Deprey (Pulte Land Acquisition Manager)",
+        "Andrew Cannon (Holladay Ventures) <drew@holladayventures.com>"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-08-05",
+          "event": "Andrew Cannon / Holladay Ventures asked for DD-folder review and a coffee meeting the week of 8/24 after Jacob's call back on 2433 Buena Vista Pike.",
+          "type": "email"
+        },
         {
           "date": "2026-07-21",
           "event": "Pulte indicated Buena Vista ballpark pricing around $1M after Jacob invited offers.",
