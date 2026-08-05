@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T07:16:24.672374",
+  "lastUpdated": "2026-08-05T08:02:43.085266",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-05",
@@ -95073,9 +95073,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "Adam forwarded Sylvester Gober't / V12industry partner financials for the McLean/Sylvester office + automotive back-half concept. Financial review is now the immediate gating item before deciding whether this path is financeable enough for real lease posture, alongside competing Wilson Pike whole-building and partial-space prospects.",
+      "status": "Mission Pet Health / Your Pet Dentist re-engaged: Neal NeSmith said their doctor wants to tour 312 Wilson Pike on Friday afternoon, adding a live tour request to the Wilson Pike collision map.",
       "stage": "Lease Signed",
-      "nextStep": "Review the 20.8 MB financial PDF and decide whether to continue diligence, require stronger guarantor/PFS/backstop, or prioritize another Wilson Pike path.",
+      "nextStep": "Jacob needs to confirm Friday afternoon tour timing/access with Neal/Clay/Adam while deciding how this veterinary-specialty path ranks against the other whole-building and partial-space Wilson Pike prospects.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -95117,13 +95117,19 @@
         "Emily Carden (Mohr Partners) <emily.carden@mohrpartners.com>",
         "Emily Carden (Mohr Partners)",
         "Livewell / Mission Pet Health / Your Pet Dentist",
-        "Sylvester Gober't / V12industry LLC"
+        "Sylvester Gober't / V12industry LLC",
+        "Neal NeSmith (Mission Pet Health VP Real Estate & Facilities)"
       ],
       "timeline": [
         {
           "date": "2026-08-05",
           "event": "Email from NASHtoday: Marina news, hummingbird events + Gallatin Pike plans",
           "type": "email"
+        },
+        {
+          "date": "2026-08-05",
+          "event": "Neal NeSmith / Mission Pet Health requested a Friday afternoon doctor tour at 312 Wilson Pike.",
+          "type": "lead"
         },
         {
           "date": "2026-08-04",
