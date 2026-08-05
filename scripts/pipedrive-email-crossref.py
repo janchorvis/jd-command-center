@@ -300,17 +300,26 @@ def compute_cross_ref_alerts(
     alerts = []
 
     # Build lookup: hot_deal id → pd_deal (best match only)
-    matched_pairs = []
+    matched_by_hot_id = {}
     unmatched_pd = []
 
     for pd_deal in pd_deals:
         hot_deal = match_pipedrive_deal_to_hot_deal(pd_deal, hot_deals, verbose=verbose)
         if hot_deal:
-            matched_pairs.append((pd_deal, hot_deal))
+            hot_id = hot_deal.get("id") or f"{hot_deal.get('name')}|{hot_deal.get('property')}"
+            existing = matched_by_hot_id.get(hot_id)
+            if existing is None:
+                matched_by_hot_id[hot_id] = (pd_deal, hot_deal)
+            else:
+                existing_date = get_pipedrive_last_activity(existing[0]) or date.min
+                candidate_date = get_pipedrive_last_activity(pd_deal) or date.min
+                if candidate_date > existing_date:
+                    matched_by_hot_id[hot_id] = (pd_deal, hot_deal)
         else:
             unmatched_pd.append(pd_deal)
 
-    print(f"[INFO] Matched {len(matched_pairs)}/{len(pd_deals)} Pipedrive deals to hot-deals.json entries.")
+    matched_pairs = list(matched_by_hot_id.values())
+    print(f"[INFO] Matched {len(matched_pairs)} unique hot deals from {len(pd_deals)} Pipedrive deals.")
     if unmatched_pd and verbose:
         print(f"[INFO] Unmatched Pipedrive deals ({len(unmatched_pd)}):")
         for d in unmatched_pd:

@@ -20,6 +20,7 @@ import subprocess
 import sys
 from datetime import datetime, date, timedelta
 from pathlib import Path
+from typing import Any
 
 # ─── Config ───────────────────────────────────────────────────────────────────
 
@@ -81,6 +82,55 @@ STAGE_ORDER = [
     "Lease Signed",
 ]
 
+INTERNAL_CONTACT_NAMES = {
+    "adam heston",
+    "ashby scott",
+    "carson knight",
+    "clay richardson",
+    "jacob delk",
+    "mathison ingham",
+    "melissa eddy",
+    "micah lacher",
+}
+
+GENERIC_TOKENS = {
+    "anchored",
+    "anchor",
+    "avenue",
+    "building",
+    "center",
+    "centre",
+    "charter",
+    "commercial",
+    "company",
+    "drive",
+    "executed",
+    "former",
+    "group",
+    "government",
+    "highway",
+    "lease",
+    "llc",
+    "market",
+    "marketplace",
+    "partners",
+    "phase",
+    "plaza",
+    "property",
+    "real",
+    "requirement",
+    "retail",
+    "road",
+    "school",
+    "shopping",
+    "signed",
+    "south",
+    "street",
+    "suite",
+    "tenant",
+    "village",
+}
+
 
 def stage_index(stage: str) -> int:
     """Return the position of a stage in the pipeline. Returns -1 if unknown."""
@@ -105,6 +155,54 @@ def detect_stage_signal(email: dict) -> tuple[str, str] | None:
             if phrase.lower() in haystack:
                 return stage, phrase
     return None
+
+
+def normalize_text(text: str) -> str:
+    return re.sub(r'\s+', ' ', re.sub(r'[^a-z0-9]+', ' ', str(text).lower())).strip()
+
+
+def tokenize(text: str) -> list[str]:
+    return [token for token in normalize_text(text).split() if token]
+
+
+def contains_phrase(haystack: str, phrase: str) -> bool:
+    if not haystack or not phrase:
+        return False
+    return f" {phrase} " in f" {haystack} "
+
+
+def clean_contact_name(contact: str) -> str:
+    text = re.sub(r'<[^>]+>', ' ', str(contact))
+    text = re.sub(r'\s*\(.*?\)', ' ', text)
+    text = re.sub(r'\s+-\s+.*$', ' ', text)
+    text = re.sub(r'\s+', ' ', text).strip(' ,;-')
+    return text
+
+
+def is_internal_contact(contact: str) -> bool:
+    normalized = normalize_text(clean_contact_name(contact))
+    raw = str(contact).lower()
+    return bool(normalized) and (normalized in INTERNAL_CONTACT_NAMES or "(anchor" in raw or "@anchorinv.com" in raw)
+
+
+def distinctive_tokens(text: str, min_len: int = 5) -> list[str]:
+    return [
+        token for token in tokenize(text)
+        if len(token) >= min_len and token not in GENERIC_TOKENS
+    ]
+
+
+def phrase_variants(text: str) -> set[str]:
+    tokens = tokenize(text)
+    phrases: set[str] = set()
+    if len(tokens) >= 2:
+        phrases.add(" ".join(tokens))
+
+    significant = [token for token in tokens if token not in GENERIC_TOKENS]
+    for idx in range(len(significant) - 1):
+        phrases.add(f"{significant[idx]} {significant[idx + 1]}")
+
+    return {phrase for phrase in phrases if phrase}
 
 # ─── Helpers ──────────────────────────────────────────────────────────────────
 
@@ -190,38 +288,8 @@ def get_all_deals(data: dict) -> list[dict]:
     return data.get("pipelineDeals", []) + data.get("sideDeals", [])
 
 
-def get_deal_keywords(deal: dict) -> set[str]:
-    """Extract searchable keywords from a deal."""
-    keywords = set()
-
-    def add_words(text: str):
-        if not text:
-            return
-        # Add the full phrase (lowercased)
-        keywords.add(text.lower())
-        # Also add individual significant words (4+ chars)
-        for word in re.split(r'\W+', text.lower()):
-            if len(word) >= 4:
-                keywords.add(word)
-
-    add_words(deal.get("name", ""))
-    add_words(deal.get("property", ""))
-
-    for contact in deal.get("contacts", []):
-        # Extract just the name part (before parenthetical)
-        name = re.sub(r'\s*\(.*?\)', '', contact).strip()
-        add_words(name)
-        # Also add last name alone if it's long enough
-        parts = name.split()
-        if parts:
-            add_words(parts[-1])
-
-    return keywords
-
-
-def email_matches_deal(email: dict, deal_keywords: set[str]) -> bool:
-    """Return True if any deal keyword appears in the email's from/to/subject/snippet."""
-    # Build searchable text blob from email fields
+def build_email_haystack(email: dict) -> str:
+    """Build a normalized searchable text blob from common email fields."""
     fields = [
         email.get("subject", ""),
         email.get("snippet", ""),
@@ -236,12 +304,120 @@ def email_matches_deal(email: dict, deal_keywords: set[str]) -> bool:
         fields.append(frm.get("name", ""))
         fields.append(frm.get("email", ""))
 
-    haystack = " ".join(str(f) for f in fields if f).lower()
+    return normalize_text(" ".join(str(f) for f in fields if f))
 
-    for kw in deal_keywords:
-        if kw in haystack:
-            return True
-    return False
+
+def evaluate_email_match(email: dict, deal: dict) -> dict[str, Any]:
+    """Score how confidently an email matches a deal."""
+    haystack = build_email_haystack(email)
+
+    matched_fields: list[str] = []
+    strong_reasons: list[str] = []
+    weak_reasons: list[str] = []
+
+    deal_name = str(deal.get("name") or "")
+    property_name = str(deal.get("property") or "")
+
+    tenant_tokens = distinctive_tokens(deal_name)
+    for phrase in phrase_variants(deal_name):
+        if contains_phrase(haystack, phrase):
+            strong_reasons.append(f"tenant phrase:{phrase}")
+            matched_fields.append("tenant")
+            break
+    else:
+        if len(tenant_tokens) == 1 and contains_phrase(haystack, tenant_tokens[0]):
+            strong_reasons.append(f"tenant token:{tenant_tokens[0]}")
+            matched_fields.append("tenant")
+        elif len([token for token in tenant_tokens if contains_phrase(haystack, token)]) >= 2:
+            weak_reasons.append("tenant tokens")
+            matched_fields.append("tenant")
+
+    property_matches = [phrase for phrase in phrase_variants(property_name) if contains_phrase(haystack, phrase)]
+    if property_matches:
+        strong_reasons.append(f"property phrase:{property_matches[0]}")
+        matched_fields.append("property")
+
+    for contact in deal.get("contacts", []):
+        if is_internal_contact(contact):
+            continue
+
+        cleaned_contact = clean_contact_name(contact)
+        normalized_contact = normalize_text(cleaned_contact)
+        if not normalized_contact:
+            continue
+
+        contact_tokens = tokenize(cleaned_contact)
+        if len(contact_tokens) >= 2 and contains_phrase(haystack, normalized_contact):
+            strong_reasons.append(f"contact phrase:{normalized_contact}")
+            matched_fields.append("contact")
+            break
+
+        if len(contact_tokens) >= 2 and all(contains_phrase(haystack, token) for token in {contact_tokens[0], contact_tokens[-1]}):
+            weak_reasons.append(f"contact name:{contact_tokens[0]} {contact_tokens[-1]}")
+            matched_fields.append("contact")
+            break
+
+    matched_fields = list(dict.fromkeys(matched_fields))
+    score = len(strong_reasons) * 3 + len(weak_reasons)
+    # Property-only evidence is allowed only for aggregate/property records with
+    # no tenant name. A property can contain many active tenant deals.
+    has_named_deal = bool(normalize_text(deal_name))
+    tenant_grounded = any(reason.startswith("tenant ") for reason in strong_reasons)
+    matched = (
+        tenant_grounded
+        or ("contact" in matched_fields and "property" in matched_fields)
+        or (not has_named_deal and "property" in matched_fields)
+    )
+
+    return {
+        "matched": matched,
+        "score": score,
+        "matchedFields": matched_fields,
+        "strongReasons": strong_reasons,
+        "weakReasons": weak_reasons,
+        # Stage automation needs explicit tenant/deal identity. A shared broker or
+        # property can legitimately span several deals and must not propagate a
+        # DocuSign signal across all of them.
+        "stageSafe": tenant_grounded,
+    }
+
+
+def select_email_match(email: dict, deals: list[dict]) -> tuple[int, dict[str, Any]] | None:
+    """Choose at most one deal for an email; reject ambiguous ties."""
+    candidates: list[tuple[int, dict[str, Any]]] = []
+    for index, deal in enumerate(deals):
+        details = evaluate_email_match(email, deal)
+        if details["matched"]:
+            candidates.append((index, details))
+
+    if not candidates:
+        return None
+
+    best_score = max(details["score"] for _, details in candidates)
+    best = [(index, details) for index, details in candidates if details["score"] == best_score]
+    if len(best) == 1:
+        return best[0]
+
+    # A blank-name aggregate is the only safe property-level fallback. Otherwise
+    # the email is ambiguous and must not be attached automatically.
+    aggregates = [
+        (index, details)
+        for index, details in best
+        if not normalize_text(str(deals[index].get("name") or ""))
+        and "property" in details["matchedFields"]
+    ]
+    return aggregates[0] if len(aggregates) == 1 else None
+
+
+def get_deal_keywords(deal: dict) -> dict[str, Any]:
+    """Backward-compatible wrapper for callers/tests; returns match metadata inputs."""
+    return {"deal": deal}
+
+
+def email_matches_deal(email: dict, deal_keywords: dict[str, Any]) -> bool:
+    """Return True only for sufficiently strong tenant/property/contact evidence."""
+    deal = deal_keywords.get("deal", {}) if isinstance(deal_keywords, dict) else {}
+    return evaluate_email_match(email, deal).get("matched", False)
 
 
 def extract_email_date(email: dict) -> str:
@@ -318,8 +494,8 @@ def timeline_event_exists(timeline: list[dict], event_text: str, event_date: str
 
 def compute_stale_contacts(data: dict) -> list[dict]:
     """
-    For each deal, find the most recent email-type timeline event and
-    flag the deal's contacts as stale if it's been too long.
+    For each deal with reliable email history, create at most one stale-contact
+    alert when the latest email exceeds the deal's threshold.
     """
     today_dt = date.today()
     stale = []
@@ -333,17 +509,7 @@ def compute_stale_contacts(data: dict) -> list[dict]:
         email_events = [e for e in timeline if e.get("type") == "email"]
 
         if not email_events:
-            # No email history at all — flag as stale if deal has contacts
-            for contact_raw in deal.get("contacts", []):
-                contact = re.sub(r'\s*\(.*?\)', '', contact_raw).strip()
-                deal_label = f"{deal.get('name', '')} — {deal.get('property', '')}"
-                stale.append({
-                    "name": contact,
-                    "deal": deal_label,
-                    "daysSinceContact": 999,
-                    "lastAction": "No email history found",
-                    "urgency": "high" if priority == "high" else "medium",
-                })
+            # Absence from this cache is not proof that a contact is stale.
             continue
 
         # Sort by date desc
@@ -359,33 +525,24 @@ def compute_stale_contacts(data: dict) -> list[dict]:
 
         is_stale = days_since > threshold
 
-        if is_stale:
-            urgency = "high" if days_since > threshold * 2 else "medium"
-            if priority == "high" and days_since > threshold:
-                urgency = "high"
+        if not is_stale:
+            continue
 
-            for contact_raw in deal.get("contacts", []):
-                contact = re.sub(r'\s*\(.*?\)', '', contact_raw).strip()
-                deal_label = f"{deal.get('name', '')} — {deal.get('property', '')}"
-                stale.append({
-                    "name": contact,
-                    "deal": deal_label,
-                    "daysSinceContact": days_since,
-                    "lastAction": latest.get("event", "")[:80],
-                    "urgency": urgency,
-                })
-        else:
-            # Not stale — include as low urgency for dashboard awareness
-            for contact_raw in deal.get("contacts", []):
-                contact = re.sub(r'\s*\(.*?\)', '', contact_raw).strip()
-                deal_label = f"{deal.get('name', '')} — {deal.get('property', '')}"
-                stale.append({
-                    "name": contact,
-                    "deal": deal_label,
-                    "daysSinceContact": days_since,
-                    "lastAction": latest.get("event", "")[:80],
-                    "urgency": "low",
-                })
+        urgency = "high" if days_since > threshold * 2 else "medium"
+        if priority == "high":
+            urgency = "high"
+
+        contacts = [c for c in deal.get("contacts", []) if not is_internal_contact(c)]
+        contact_raw = contacts[0] if contacts else (deal.get("contacts", [""]) or [""])[0]
+        contact = clean_contact_name(contact_raw) or deal.get("name") or deal.get("property") or "Unknown"
+        deal_label = f"{deal.get('name', '')} — {deal.get('property', '')}"
+        stale.append({
+            "name": contact,
+            "deal": deal_label,
+            "daysSinceContact": days_since,
+            "lastAction": latest.get("event", "")[:80],
+            "urgency": urgency,
+        })
 
     # Sort: high first, then by days desc
     urgency_order = {"high": 0, "medium": 1, "low": 2}
@@ -407,13 +564,21 @@ def match_and_update(data: dict, emails: list[dict], dry_run: bool = False) -> d
     unread_matches = []
 
     all_deals = updated.get("pipelineDeals", []) + updated.get("sideDeals", [])
+    selected_matches = {
+        (deal_index, email_index): details
+        for email_index, email in enumerate(emails)
+        for selected in [select_email_match(email, all_deals)]
+        if selected is not None
+        for deal_index, details in [selected]
+    }
 
-    for deal in all_deals:
+    for deal_index, deal in enumerate(all_deals):
         keywords = get_deal_keywords(deal)
         timeline = deal.setdefault("timeline", [])
 
-        for email in emails:
-            if not email_matches_deal(email, keywords):
+        for email_index, email in enumerate(emails):
+            match_details = selected_matches.get((deal_index, email_index))
+            if match_details is None:
                 continue
 
             event = build_timeline_event(email)
@@ -445,7 +610,7 @@ def match_and_update(data: dict, emails: list[dict], dry_run: bool = False) -> d
 
             # ── Stage signal detection ──────────────────────────────────────
             signal = detect_stage_signal(email)
-            if signal:
+            if signal and match_details.get("stageSafe"):
                 detected_stage, matched_phrase = signal
                 current_stage = deal.get("stageOverride") or deal.get("stage", "")
                 current_idx   = stage_index(current_stage)
