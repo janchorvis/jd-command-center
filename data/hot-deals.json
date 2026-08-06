@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T09:05:20.945531",
+  "lastUpdated": "2026-08-06T10:06:09.785992",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-06",
@@ -3852,15 +3852,21 @@
     {
       "id": "wilson-pike-parker-music-studio",
       "name": "Parker G. / music studio",
-      "property": "312A Wilson Pike Circle",
-      "status": "Crexi inquiry from a music production company seeking 600-900 SF for audio mixing, songwriting, and vocal recording; asked for layout and all-in monthly lease cost.",
+      "property": "312 Wilson Pike Circle",
+      "status": "Brittany D. downloaded/opened the 312A Wilson Pike Circle brochure in Crexi. No direct message/body or contact details beyond dashboard activity.",
       "stage": "Contact Made",
-      "nextStep": "Reply through Crexi asking for phone/email and offering layout/pricing details.",
+      "nextStep": "Keep within broader Wilson Pike collision map; decide whether to follow up through Crexi/contact path if useful.",
       "priority": "medium",
       "contacts": [
-        "Parker G."
+        "Parker G.",
+        "Brittany D. (Crexi activity)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-06",
+          "event": "Crexi brochure activity: Brittany D. opened/downloaded 312A Wilson Pike Circle brochure.",
+          "type": "lead"
+        },
         {
           "date": "2026-07-13",
           "event": "Crexi inquiry received for 312A Wilson Pike Circle.",
@@ -4217,10 +4223,10 @@
     {
       "id": "buena-vista",
       "name": "Buena Vista",
-      "property": "Buena Vista Pike",
+      "property": "2433 Buena Vista Pike",
       "type": "Land/Development",
-      "status": "Andrew Cannon / Holladay Ventures thanked Jacob for the call back on 2433 Buena Vista Pike, is looking forward to reviewing the DD folder, attached Holladay's resume and site criteria, and asked to grab coffee the week of 8/24; he is open every morning.",
-      "nextStep": "Jacob needs to share/confirm DD folder access if not already sent and offer a morning coffee slot the week of 8/24.",
+      "status": "Mack Furlow / The BTR Group replied with next-week call availability after Jacob's 8/5 follow-up.",
+      "nextStep": "Jacob choose/propose a slot with Mack: Tue 3-6 ET, Wed 10:30-6 ET, or Thu 11-6 ET.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
@@ -4240,6 +4246,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-08-06",
+          "event": "Mack Furlow offered next-week availability to discuss Buena Vista feedback: Tue 3-6 ET, Wed 10:30-6 ET, Thu 11-6 ET.",
+          "type": "email"
+        },
         {
           "date": "2026-08-05",
           "event": "Email from Andrew Cannon: 2433 Buena Vista Pike - Holladay Ventures",
