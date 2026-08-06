@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T10:10:57.098011",
+  "lastUpdated": "2026-08-06T11:10:48.983792",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-06",
@@ -37,9 +37,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below says the lease body is nearly ready after Anchor accepted Five Below's 10,243 SF measurement; remaining near-term item is elevation approval so Five Below can prepare the sign exhibit.",
+      "status": "Five Below lease is down to final legal/business inputs: Julia Gibson sent cleaned-up v7 with one final Section 4.4 change, and remaining inputs are Anticipated Delivery Date and Outside Possession Date in Section 3.2. Elevation approval was also requested so Five Below can prepare the sign exhibit.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Track sign exhibit after elevation approval and lease-body finalization from Five Below/Mike.",
+      "nextStep": "Confirm Anticipated Delivery Date, Outside Possession Date, and Section 4.4 change; keep sign exhibit/full package moving.",
       "priority": "high",
       "timeline": [
         {
@@ -50,6 +50,11 @@
         {
           "date": "2026-08-06",
           "event": "Bill Castagna said lease body is nearly ready and sign exhibit should follow within a week after elevation approval.",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-06",
+          "event": "Five Below counsel sent cleaned-up lease v7; final open inputs are Section 3.2 delivery/outside possession dates and one Section 4.4 change.",
           "type": "email"
         },
         {
