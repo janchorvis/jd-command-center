@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T07:16:17.325631",
+  "lastUpdated": "2026-08-06T08:02:21.613515",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-06",
@@ -2170,10 +2170,15 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Great Greek lease remains in legal/business cleanup. Jacob forwarded the latest redline and LOI to Ashby on 8/3, including Wingstop exclusive-use conflict language. Joey Valenti followed up 8/4 asking how the lease is coming and whether he can help.",
-      "nextStep": "Jacob/Ashby finalize acceptable lease edits and respond to Joey/Cavan with timing or open issues.",
-      "priority": "high",
+      "status": "Brad Altum / BSM replied that the user behind his Maple Row availability ask is Cheba Hut corporate.",
+      "nextStep": "Jacob/Adam need to decide whether Cheba Hut is a fit for Fox's Pizza 2,500 SF or another potentially available Maple Row space, then reply with concept familiarity and next questions.",
+      "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-08-06",
+          "event": "Brad Altum said BSM is working with Cheba Hut corporate for Maple Row availability.",
+          "type": "email"
+        },
         {
           "date": "2026-08-04",
           "event": "Joey Valenti followed up asking how Great Greek Hendersonville lease is coming and whether he can help.",
@@ -2418,7 +2423,9 @@
         "Cavan McCann (B2M Law)",
         "Cavan McCann",
         "Ashby Scott",
-        "Ashby Scott (Evans Petree)"
+        "Ashby Scott (Evans Petree)",
+        "Brad Altum (BSM)",
+        "Cheba Hut corporate"
       ],
       "stage": "LOI",
       "stageOverride": "LOI"
