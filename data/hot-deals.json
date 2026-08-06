@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T15:03:41.882263",
+  "lastUpdated": "2026-08-06T17:03:53.571899",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-06",
@@ -37,9 +37,9 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below lease body is down to date inputs: Ashby approved the final Section 4.4 change, leaving Anticipated Delivery Date and Outside Possession Date in Section 3.2 as the live open item.",
+      "status": "Five Below lease body is nearly final: Ashby approved the section 4.4 change, preliminary elevation was approved, and the only live lease input is Anticipated Delivery Date plus Outside Possession Date in section 3.2.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob to provide Anticipated Delivery Date and Outside Possession Date so lease body can finalize.",
+      "nextStep": "Jacob needs to provide the Anticipated Delivery Date and Outside Possession Date so Five Below can finalize lease execution.",
       "priority": "high",
       "timeline": [
         {
@@ -61,6 +61,11 @@
           "date": "2026-08-06",
           "event": "Ashby approved Five Below Section 4.4 change; only Anticipated Delivery Date and Outside Possession Date remain open.",
           "type": "lease"
+        },
+        {
+          "date": "2026-08-06",
+          "event": "Ashby approved Five Below section 4.4 change; dates in section 3.2 remain open.",
+          "type": "email"
         },
         {
           "date": "2026-08-05",
@@ -5467,9 +5472,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "Mission Pet Health / Your Pet Dentist tour is set for Friday 8/7 at noon, while Ashley Cusker/Katz circled back that her dance-studio prospect would look at the 6,000 SF space; Tanner S. also opened the 312A Wilson Pike Crexi brochure.",
+      "status": "Ashley Cusker / Katz circled back for a dance-studio client asking current availability; the client would look at the 6,000 SF space. This now collides with the existing Mission Pet Health/veterinary path and Crexi brochure activity for 312A Wilson Pike.",
       "stage": "LOI",
-      "nextStep": "Decide Wilson Pike posture across competing 6,000 SF/partial-space paths before replying to Ashley; keep Friday Mission Pet Health tour prioritized unless Jacob wants to hold space for a different use.",
+      "nextStep": "Jacob needs to decide current availability/posture before replying to Ashley, accounting for competing 312 Wilson Pike prospects.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -5517,7 +5522,8 @@
         "Duane Roggendorff (Ojas)",
         "Brittany D. (Crexi activity)",
         "Ashley Cusker (Katz)",
-        "Tanner S. (Crexi activity)"
+        "Tanner S. (Crexi activity)",
+        "Ashley Cusker (Katz & Associates)"
       ],
       "timeline": [
         {
@@ -5539,6 +5545,11 @@
           "date": "2026-08-06",
           "event": "Tanner S. opened the 312A Wilson Pike Circle brochure on Crexi.",
           "type": "lead"
+        },
+        {
+          "date": "2026-08-06",
+          "event": "Ashley Cusker circled back: dance studio wants current availability for the 6,000 SF space at 312 Wilson Pike.",
+          "type": "email"
         },
         {
           "date": "2026-08-05",
