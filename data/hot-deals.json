@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T08:02:21.613515",
+  "lastUpdated": "2026-08-06T09:05:20.945531",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-06",
@@ -37,11 +37,16 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below overlaid Anchor/C2 CAD and identified remaining 59 SF discrepancy: Anchor 10,302 SF vs Five Below 10,243 SF, driven by sprinkler room wall and angled front wall. Separate preliminary elevation/sign sheet review remains open.",
+      "status": "Five Below is nearly ready to finalize the lease body after Jacob accepted Five Below's 10,243 SF number. Bill Castagna said Mike will confirm, but the remaining immediate blocker is Anchor approval/comment on Desiree's preliminary elevation so Five Below can start the sign exhibit.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob/Clay/Shaun approve or comment on Five Below's preliminary elevation sheet and decide whether to accept/resolve the 59 SF lease-area delta.",
+      "nextStep": "Jacob/Clay/Shaun approve or comment on Five Below's preliminary elevation sheet; after approval, Five Below expects the sign exhibit to be ready within about a week and can continue internal lease execution.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-06",
+          "event": "Bill Castagna said Five Below is just about ready to finalize the lease body; Anchor still needs to respond on the preliminary elevation so Five Below can start the sign exhibit.",
+          "type": "email"
+        },
         {
           "date": "2026-08-05",
           "event": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
