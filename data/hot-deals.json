@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T13:04:12.693745",
+  "lastUpdated": "2026-08-06T14:02:56.892179",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-06",
@@ -5462,9 +5462,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike Circle",
-      "status": "Mission Pet Health / Your Pet Dentist Friday tour is now scheduled for 8/7 at 12:00-12:30 PM CT; Duane/Ojas sent the updated calendar invite. Brittany D. also opened/downloaded the 312A Wilson Pike brochure via Crexi with no direct message body.",
+      "status": "Mission Pet Health / Your Pet Dentist Friday tour remains scheduled for 8/7 at 12:00-12:30 PM CT; new Crexi activity: Tanner S. downloaded/opened the 312A Wilson Pike Circle brochure at 1:48 PM, after Brittany D. did the same earlier today.",
       "stage": "LOI",
-      "nextStep": "Jacob/Clay/Adam prepare tour posture and keep the broader Wilson collision map in view before committing space/use path.",
+      "nextStep": "Jacob/Clay/Adam prepare tour posture and decide follow-up path for Crexi brochure viewers while keeping the broader Wilson collision map in view.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -5517,6 +5517,11 @@
           "date": "2026-08-06",
           "event": "Mission Pet Health / Your Pet Dentist tour scheduled for Friday 8/7 at noon; Crexi brochure activity from Brittany D. also appeared.",
           "type": "email"
+        },
+        {
+          "date": "2026-08-06",
+          "event": "Crexi: Tanner S. downloaded/opened the 312A Wilson Pike Circle brochure; no direct message/contact details in the email notification.",
+          "type": "lead"
         },
         {
           "date": "2026-08-05",
