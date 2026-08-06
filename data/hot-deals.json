@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T11:10:48.983792",
+  "lastUpdated": "2026-08-06T13:04:12.693745",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-06",
@@ -5461,10 +5461,10 @@
     {
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
-      "property": "312 Wilson Pike",
-      "status": "Mission Pet Health / Your Pet Dentist re-engaged: Neal NeSmith said their doctor wants to tour 312 Wilson Pike on Friday afternoon, adding a live tour request to the Wilson Pike collision map.",
+      "property": "312 Wilson Pike Circle",
+      "status": "Mission Pet Health / Your Pet Dentist Friday tour is now scheduled for 8/7 at 12:00-12:30 PM CT; Duane/Ojas sent the updated calendar invite. Brittany D. also opened/downloaded the 312A Wilson Pike brochure via Crexi with no direct message body.",
       "stage": "LOI",
-      "nextStep": "Jacob needs to confirm Friday afternoon tour timing/access with Neal/Clay/Adam while deciding how this veterinary-specialty path ranks against the other whole-building and partial-space Wilson Pike prospects.",
+      "nextStep": "Jacob/Clay/Adam prepare tour posture and keep the broader Wilson collision map in view before committing space/use path.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -5507,9 +5507,17 @@
         "Emily Carden (Mohr Partners)",
         "Livewell / Mission Pet Health / Your Pet Dentist",
         "Sylvester Gober't / V12industry LLC",
-        "Neal NeSmith (Mission Pet Health VP Real Estate & Facilities)"
+        "Neal NeSmith (Mission Pet Health VP Real Estate & Facilities)",
+        "Angela Briggs (Your Pet Dentist)",
+        "Duane Roggendorff (Ojas)",
+        "Brittany D. (Crexi activity)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-06",
+          "event": "Mission Pet Health / Your Pet Dentist tour scheduled for Friday 8/7 at noon; Crexi brochure activity from Brittany D. also appeared.",
+          "type": "email"
+        },
         {
           "date": "2026-08-05",
           "event": "Email from Neal NeSmith: 312 Wilson Pike Cir <> National Credit Veterinary Specialty",
