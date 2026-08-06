@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T10:06:09.785992",
+  "lastUpdated": "2026-08-06T10:10:57.098011",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-06",
@@ -37,14 +37,19 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below is nearly ready to finalize the lease body after Jacob accepted Five Below's 10,243 SF number. Bill Castagna said Mike will confirm, but the remaining immediate blocker is Anchor approval/comment on Desiree's preliminary elevation so Five Below can start the sign exhibit.",
+      "status": "Five Below says the lease body is nearly ready after Anchor accepted Five Below's 10,243 SF measurement; remaining near-term item is elevation approval so Five Below can prepare the sign exhibit.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob/Clay/Shaun approve or comment on Five Below's preliminary elevation sheet; after approval, Five Below expects the sign exhibit to be ready within about a week and can continue internal lease execution.",
+      "nextStep": "Track sign exhibit after elevation approval and lease-body finalization from Five Below/Mike.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-08-06",
           "event": "Bill Castagna said Five Below is just about ready to finalize the lease body; Anchor still needs to respond on the preliminary elevation so Five Below can start the sign exhibit.",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-06",
+          "event": "Bill Castagna said lease body is nearly ready and sign exhibit should follow within a week after elevation approval.",
           "type": "email"
         },
         {
@@ -3852,10 +3857,10 @@
     {
       "id": "wilson-pike-parker-music-studio",
       "name": "Parker G. / music studio",
-      "property": "312 Wilson Pike Circle",
-      "status": "Brittany D. downloaded/opened the 312A Wilson Pike Circle brochure in Crexi. No direct message/body or contact details beyond dashboard activity.",
+      "property": "312A Wilson Pike Circle",
+      "status": "Crexi activity: Brittany D. opened/downloaded the brochure for 312A Wilson Pike Circle.",
       "stage": "Contact Made",
-      "nextStep": "Keep within broader Wilson Pike collision map; decide whether to follow up through Crexi/contact path if useful.",
+      "nextStep": "Jacob/Adam should decide whether to follow up through Crexi and capture contact details/use, while keeping the Mission Pet Health tour collision map in mind.",
       "priority": "medium",
       "contacts": [
         "Parker G.",
@@ -3865,6 +3870,11 @@
         {
           "date": "2026-08-06",
           "event": "Crexi brochure activity: Brittany D. opened/downloaded 312A Wilson Pike Circle brochure.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-08-06",
+          "event": "Brittany D. opened the 312A Wilson Pike Circle brochure on Crexi.",
           "type": "lead"
         },
         {
@@ -4225,8 +4235,8 @@
       "name": "Buena Vista",
       "property": "2433 Buena Vista Pike",
       "type": "Land/Development",
-      "status": "Mack Furlow / The BTR Group replied with next-week call availability after Jacob's 8/5 follow-up.",
-      "nextStep": "Jacob choose/propose a slot with Mack: Tue 3-6 ET, Wed 10:30-6 ET, or Thu 11-6 ET.",
+      "status": "Mack Furlow / The BTR Group replied to Jacob's follow-up and wants to schedule a call next week rather than Friday.",
+      "nextStep": "Jacob should pick a slot from Mack's availability: Tuesday 3:00-6:00 ET, Wednesday 10:30-6:00 ET, or Thursday 11:00-6:00 ET.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
@@ -4249,6 +4259,11 @@
         {
           "date": "2026-08-06",
           "event": "Mack Furlow offered next-week availability to discuss Buena Vista feedback: Tue 3-6 ET, Wed 10:30-6 ET, Thu 11-6 ET.",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-06",
+          "event": "Mack Furlow offered next-week call windows for Buena Vista site feedback/underwriting discussion.",
           "type": "email"
         },
         {
