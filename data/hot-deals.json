@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T16:04:16.420939",
+  "lastUpdated": "2026-08-07T17:03:36.262211",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-07",
@@ -2246,10 +2246,15 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Brad Altum / BSM replied that the user behind his Maple Row availability ask is Cheba Hut corporate.",
-      "nextStep": "Jacob/Adam need to decide whether Cheba Hut is a fit for Fox's Pizza 2,500 SF or another potentially available Maple Row space, then reply with concept familiarity and next questions.",
-      "priority": "medium",
+      "status": "Great Greek lease remains with Anchor counsel; Ashby reported Evans Petree technical issues caused delays but they are back up and he expects to return comments early next week.",
+      "nextStep": "Wait for Ashby comments early next week, then finalize Cavan/tenant attorney issues and separately route commission agreement.",
+      "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-07",
+          "event": "Ashby said Evans Petree technical issues delayed review; expects to return Great Greek lease comments early next week.",
+          "type": "email"
+        },
         {
           "date": "2026-08-06",
           "event": "Brad Altum said BSM is working with Cheba Hut corporate for Maple Row availability.",
@@ -2503,8 +2508,8 @@
         "Brad Altum (BSM)",
         "Cheba Hut corporate"
       ],
-      "stage": "LOI",
-      "stageOverride": "LOI"
+      "stage": "Lease Draft & Review",
+      "stageOverride": "Lease Draft & Review"
     },
     {
       "id": "evansville-easterseals",
