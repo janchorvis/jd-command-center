@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T07:16:18.049828",
+  "lastUpdated": "2026-08-07T09:03:49.970966",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-07",
@@ -6317,9 +6317,9 @@
       "id": "forks-of-the-river-qsr-chicken-outparcel-sale",
       "name": "QSR Chicken Concept",
       "property": "Sevierville / Forks of the River Shopping Center",
-      "status": "Caleb Glafenhein / Greenbrier followed up on Mahogany Properties confidential chicken-concept LOI to purchase the 0.50-acre Gabe's outparcel and asked whether Anchor has interest and when to expect a response.",
+      "status": "Mahogany/QSR chicken concept shifted from purchase posture to ground-lease LOI after Micah said Anchor was interested if they would ground lease. Caleb followed up 8/7 asking for further thoughts and saying they would love to work something out.",
       "stage": "LOI",
-      "nextStep": "Jacob/Micah decide sale vs counter-price vs lease/ground-lease posture and give Caleb timing/response.",
+      "nextStep": "Jacob/Micah need to respond to Caleb on the 0.50+ acre Gabe's outparcel ground-lease LOI: accept/counter key economics or give timing/posture.",
       "priority": "high",
       "contacts": [
         "Caleb Glafenhein (Greenbrier Real Estate Advisors)",
@@ -6329,6 +6329,11 @@
         "Mahogany Properties"
       ],
       "timeline": [
+        {
+          "date": "2026-08-07",
+          "event": "Caleb followed up on Mahogany ground-lease LOI for Gabe's outparcel, asking for further thoughts.",
+          "type": "email"
+        },
         {
           "date": "2026-07-31",
           "event": "Caleb followed up asking if Anchor has interest in the Gabe's outparcel purchase LOI and when to expect a response.",
