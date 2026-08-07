@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T14:02:42.061874",
+  "lastUpdated": "2026-08-07T16:04:16.420939",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-07",
@@ -72,11 +72,16 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below lease body is nearly final: Ashby approved the section 4.4 change, preliminary elevation was approved, and the only live lease input is Anticipated Delivery Date plus Outside Possession Date in section 3.2.",
+      "status": "Five Below now has the TI construction-document set out for landlord review, while lease finalization still needs Anticipated Delivery Date and Outside Possession Date.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob needs to provide the Anticipated Delivery Date and Outside Possession Date so Five Below can finalize lease execution.",
+      "nextStep": "Jacob needs to provide the lease delivery/outside possession dates and route/approve the landlord authorization letter allowing Sargenti/Five Below to submit plans for permit review.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-07",
+          "event": "Sargenti sent the Five Below TI construction-document set for landlord review and said the building department requires a landlord authorization letter to submit plans for permit review.",
+          "type": "email"
+        },
         {
           "date": "2026-08-06",
           "event": "Bill Castagna said Five Below is just about ready to finalize the lease body; Anchor still needs to respond on the preliminary elevation so Five Below can start the sign exhibit.",
@@ -1728,9 +1733,9 @@
       "id": "pell-city",
       "name": "",
       "property": "Pell City Marketplace",
-      "status": "Tom Fidler said the Pell City PT lease is with the COO to be signed early next week, likely mid-next week, because he signs once weekly and was recently on vacation. Tom also asked whether Anchor has ordered the new RTU; tenant plans are underway, state credentialing is complete, and FF&E orders have been made.",
-      "stage": "Lease Draft & Review",
-      "nextStep": "Jacob needs to confirm RTU ordering/status and keep Clay/LL aligned before execution packet arrives mid-next week.",
+      "status": "Upstream's project manager is reviewing the fully executed lease and needs PM contact plus clarification on landlord work/HVAC replacement because the lease references LL work but he does not see an exhibit.",
+      "stage": "Lease Signed",
+      "nextStep": "Jacob needs to introduce the property-manager contact and route/answer the HVAC replacement vs existing-units decision before mechanical plans are finalized.",
       "priority": "high",
       "contacts": [
         "Lauri Fowler (ProStar Commercial Real Estate)",
@@ -1753,9 +1758,15 @@
         "Davis Coleman (Corco Construction)",
         "Tom Fidler (MacKenzie Commercial)",
         "Tom Fidler (MacKenzie Commercial / Drayer PT)",
-        "Ashley Chester (Upstream Rehabilitation)"
+        "Ashley Chester (Upstream Rehabilitation)",
+        "Brad Newkirk (Upstream Rehab Project Manager)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-07",
+          "event": "Brad Newkirk / Upstream asked for property-manager contact and clarification on landlord work/HVAC replacement vs keeping existing units.",
+          "type": "email"
+        },
         {
           "date": "2026-07-31",
           "event": "Email from Tom Fidler: FW: Pell City, AL final lease item",
@@ -1980,7 +1991,7 @@
         "suiteCount": 13,
         "vacantCount": 0
       },
-      "stageOverride": "Lease Draft & Review"
+      "stageOverride": "Lease Signed"
     },
     {
       "id": "evansville",
@@ -3226,10 +3237,10 @@
       "id": "smart-led-highland",
       "name": "Smart LED TN LLC",
       "property": "Highland Ave Jackson TN / Hickory Village / 2151 Highland",
-      "status": "Mathison told Amin/Smart LED to pay the security deposit via accounting instructions and said Anchor can reimburse lighting upgrades after receipts/photos or pay the vendor directly.",
-      "stage": "Obtain Financials",
-      "nextStep": "Track deposit, lighting reimbursement execution, and unresolved address/meter issue.",
-      "priority": "medium",
+      "status": "Smart LED post-execution property issue escalated: Hannah says water intrusion next door has caused black mold in the basement/bar area and needs LL-responsibility/routing decision.",
+      "stage": "Lease Signed",
+      "nextStep": "Jacob/Clay/Mathison need to determine landlord responsibility and urgently route remediation/inspection for water intrusion and mold.",
+      "priority": "high",
       "contacts": [
         "Amin Lakhani (Smart LED TN LLC) - smartledtn@gmail.com - 901-907-2646",
         "Amin Lakhani (Smart LED TN LLC)",
@@ -3239,9 +3250,15 @@
         "Amin Lakhani <smartledtn@gmail.com>",
         "Mathison Ingham",
         "Amin Lakhani / Smart LED TN LLC",
-        "Amin Lakhani / Smart LED"
+        "Amin Lakhani / Smart LED",
+        "Hannah Hart"
       ],
       "timeline": [
+        {
+          "date": "2026-08-07",
+          "event": "Hannah Hart said the Smart LED/Highland water-intrusion issue has caused black mold in the basement and asked what to do.",
+          "type": "slack"
+        },
         {
           "date": "2026-08-03",
           "event": "Mathison asked Jacob whether he can tell Smart LED that Anchor will either do the lighting itself or pay $4,500 after Smart LED completes the lights as desired.",
@@ -3307,7 +3324,8 @@
         "avgSqFt": 15505,
         "suiteCount": 6,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Lease Signed"
     },
     {
       "id": "bealls-shelbyville-former-big-lots",
@@ -5527,9 +5545,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "Ashley Cusker / Katz circled back for a dance-studio client asking current availability; the client would look at the 6,000 SF space. This now collides with the existing Mission Pet Health/veterinary path and Crexi brochure activity for 312A Wilson Pike.",
+      "status": "Wilson Pike has fresh competing LOI pressure: Ross Hopkins sent updated Futbol Factory LOIs for the front and back spaces, with Futbol Factory especially interested in the back space, while Mission Pet Health and other users remain live.",
       "stage": "LOI",
-      "nextStep": "Jacob needs to decide current availability/posture before replying to Ashley, accounting for competing 312 Wilson Pike prospects.",
+      "nextStep": "Jacob/Adam need a same-asset collision decision before responding: Mission Pet Health/whole-building path vs Futbol Factory partial-space LOIs vs other live prospects.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -5581,6 +5599,11 @@
         "Ashley Cusker (Katz & Associates)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-07",
+          "event": "Ross Hopkins sent updated Futbol Factory LOIs for both front and back spaces at 312 Wilson Pike and said Futbol Factory remains very interested, especially in the back.",
+          "type": "email"
+        },
         {
           "date": "2026-08-06",
           "event": "Email from Brittany D.: Brittany D. opened brochure on 312A Wilson Pike Circle",
