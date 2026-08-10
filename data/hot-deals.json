@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T10:04:13.977199",
+  "lastUpdated": "2026-08-10T12:04:15.713631",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-10",
@@ -52,11 +52,16 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below now has the TI construction-document set out for landlord review, while lease finalization still needs Anticipated Delivery Date and Outside Possession Date.",
+      "status": "Jacob told Five Below the construction drawings are received and Anchor is working with contractors on schedule dates; Desiree sent the sign package early and asked if Anchor approves it.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob needs to provide the lease delivery/outside possession dates and route/approve the landlord authorization letter allowing Sargenti/Five Below to submit plans for permit review.",
+      "nextStep": "Review/approve Five Below sign package, provide Anticipated Delivery Date and Outside Possession Date after contractor schedule, and route permit authorization/TI set LL review.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-10",
+          "event": "Five Below sent Malone sign package for Anchor final review/approval after Jacob updated lease thread on construction schedule timing.",
+          "type": "email"
+        },
         {
           "date": "2026-08-07",
           "event": "Sargenti sent the Five Below TI construction-document set for landlord review and said the building department requires a landlord authorization letter to submit plans for permit review.",
@@ -4019,6 +4024,26 @@
         "suiteCount": 9,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "harrison-childrens-adventure-entertainment",
+      "name": "Children's Adventure Entertainment Operator",
+      "property": "Harrison Square / 10560 Harrison Ave",
+      "status": "Mason Beecher / R.J. Brunelli represents a national children's adventure entertainment operator with 40+ locations seeking 32,000-60,000 SF and minimum 17-foot clear height; asked about Harrison or other Anchor centers with 100,000+ population within 5 miles.",
+      "stage": "Contact Made",
+      "nextStep": "Confirm Harrison Square/former Big Lots clear height, parking, demographics, and economics before replying.",
+      "priority": "medium",
+      "contacts": [
+        "Mason Beecher (R.J. Brunelli & Co.)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-08-10",
+          "event": "Inbound CoStar email for 32,000-60,000 SF children's adventure entertainment requirement at/around Harrison.",
+          "type": "lead"
+        }
+      ],
+      "actions": []
     }
   ],
   "sideDeals": [
