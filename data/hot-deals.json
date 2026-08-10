@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T14:03:37.576807",
+  "lastUpdated": "2026-08-10T15:02:32.234870",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-10",
@@ -6589,6 +6589,29 @@
         "suiteCount": 7,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "dixie-village-will-b-crexi",
+      "name": "Will B. - Crexi Brochure Activity",
+      "property": "Dixie Village Shopping Center",
+      "status": "Crexi notified that Will B. downloaded/opened the Dixie Village brochure. No direct message/body or contact details were included beyond dashboard activity.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob should decide whether to follow up through Crexi/contact path and capture phone/email/use.",
+      "priority": "medium",
+      "contacts": [
+        "Will B. (Crexi activity)",
+        "Jacob Delk"
+      ],
+      "timeline": [
+        {
+          "date": "2026-08-10",
+          "event": "Will B. downloaded/opened the Dixie Village brochure via Crexi activity notice.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-08-10"
     }
   ],
   "droppedBalls": [
