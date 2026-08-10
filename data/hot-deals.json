@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T07:15:43.457065",
+  "lastUpdated": "2026-08-10T07:16:06.987255",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-10",
@@ -7613,26 +7613,26 @@
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 8/6, Pipedrive not updated since 5/4",
+      "message": "Last email 8/7, Pipedrive not updated since 5/4",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-08-06",
+        "lastEmailDate": "2026-08-07",
         "lastPipedriveDate": "2026-05-04",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 95
+        "emailDaysAgo": 3,
+        "pipedriveDaysAgo": 98
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "pipedrive-active-no-email",
-      "message": "Pipedrive updated 8/6, last email was 3/11 (149d ago)",
+      "message": "Pipedrive updated 8/6, last email was 3/11 (152d ago)",
       "severity": "medium",
       "details": {
         "lastEmailDate": "2026-03-11",
         "lastPipedriveDate": "2026-08-06",
-        "emailDaysAgo": 149,
-        "pipedriveDaysAgo": 1
+        "emailDaysAgo": 152,
+        "pipedriveDaysAgo": 4
       }
     }
   ],
