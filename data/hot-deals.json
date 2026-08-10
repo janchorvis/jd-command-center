@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T15:02:32.234870",
+  "lastUpdated": "2026-08-10T17:03:14.210340",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-10",
@@ -52,14 +52,19 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Jacob told Five Below the construction drawings are received and Anchor is working with contractors on schedule dates; Desiree sent the sign package early and asked if Anchor approves it.",
+      "status": "Five Below sign package approved by Anchor after Clay confirmed elevation height and agreed items looked correct; delivery dates and permit/TI-set authorization remain pending contractor guidance.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Review/approve Five Below sign package, provide Anticipated Delivery Date and Outside Possession Date after contractor schedule, and route permit authorization/TI set LL review.",
+      "nextStep": "Provide Anticipated Delivery Date and Outside Possession Date after contractor input; route permit authorization letter / TI plan review.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-08-10",
           "event": "Five Below sent Malone sign package for Anchor final review/approval after Jacob updated lease thread on construction schedule timing.",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-10",
+          "event": "Jacob approved Five Below sign package after Clay confirmed elevation height and agreed items looked correct.",
           "type": "email"
         },
         {
@@ -2592,10 +2597,15 @@
       "id": "shelbyville-cosmoprof",
       "tenant": "Cosmoprof",
       "property": "River Parkway Plaza",
-      "status": "CosmoProf approved at REC on 2026-07-29; BSM asked Jacob for construction/legal contacts to share and Brad asked Jacob to review/execute the Sevierville CA.",
-      "nextStep": "Jacob to provide construction/legal contacts and review/execute the CA; formal work-letter language remains needed.",
+      "status": "Jacob sent signed Sevierville CA; BSM says David is out today but will get the CA executed and back when he returns. Work-letter language, contacts, bathroom/suite-condition issues remain open.",
+      "nextStep": "Provide construction/legal contacts and formal work-letter language; inspect suite/plumbing/electrical/bathroom condition and settle CosmoProf bathroom economics.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-10",
+          "event": "BSM acknowledged Jacob's signed CA and said they will return executed copy after David is back.",
+          "type": "email"
+        },
         {
           "date": "2026-07-29",
           "event": "CosmoProf approved at REC; BSM requested construction/legal contacts and Sevierville CA execution.",
