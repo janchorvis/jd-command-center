@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T09:03:51.436399",
+  "lastUpdated": "2026-08-10T10:04:13.977199",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-10",
@@ -2751,11 +2751,11 @@
     {
       "id": "gilded-spine-maple-row",
       "name": "Gilded Spine (Storybook Soirees LLC)",
-      "property": "Maple Row",
-      "status": "Clay asked Jacob on Slack to schedule a leasing-to-PM handoff for Gilded Spine with Melissa and Clay.",
+      "property": "Maple Row Shopping Center",
+      "status": "Hillary Holmes / Gilded Spine asked Anchor to review an SBA construction-funding landlord consent and waiver after floorplan approval.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob schedule the Gilded Spine leasing-to-PM handoff with Melissa and Clay.",
-      "priority": "high",
+      "nextStep": "Route the landlord consent and waiver for legal/landlord review before anyone signs or approves it.",
+      "priority": "medium",
       "contacts": [
         "Hillary Holmes – gildedspinebooks@gmail.com, (414) 607-2197",
         "Hillary Holmes (Gilded Spine)",
@@ -2767,6 +2767,11 @@
         "Melissa Drish"
       ],
       "timeline": [
+        {
+          "date": "2026-08-10",
+          "event": "Gilded Spine requested review of SBA landlord consent and waiver for construction funding.",
+          "type": "email"
+        },
         {
           "date": "2026-07-17",
           "event": "Clay asked Jacob to schedule a leasing-to-PM handoff for Gilded Spine with Melissa and Clay.",
@@ -4293,8 +4298,8 @@
       "name": "Buena Vista",
       "property": "2433 Buena Vista Pike",
       "type": "Land/Development",
-      "status": "Mack Furlow / The BTR Group replied to Jacob's follow-up and wants to schedule a call next week rather than Friday.",
-      "nextStep": "Jacob should pick a slot from Mack's availability: Tuesday 3:00-6:00 ET, Wednesday 10:30-6:00 ET, or Thursday 11:00-6:00 ET.",
+      "status": "Brian D. printed the Crexi page for 2433 Buena Vista Pike on 2026-08-10; no direct message or contact details were included beyond dashboard activity. This is a light engagement signal while Holladay DD and Mack Furlow follow-up remain live.",
+      "nextStep": "Decide whether to follow up through Crexi/contact path and capture phone/email/use; continue Holladay DD and Mack Furlow follow-up.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
@@ -4309,11 +4314,17 @@
         "Mack Furlow (The BTR Group)",
         "Drew Taylor (Lennar Land Acquisition Manager)",
         "Peter Deprey (Pulte Land Acquisition Manager)",
-        "Andrew Cannon (Holladay Ventures) <drew@holladayventures.com>"
+        "Andrew Cannon (Holladay Ventures) <drew@holladayventures.com>",
+        "Brian D. (Crexi activity)"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-08-10",
+          "event": "Brian D. printed the Crexi page for 2433 Buena Vista Pike; no direct message/contact details in email notice.",
+          "type": "lead"
+        },
         {
           "date": "2026-08-06",
           "event": "Email from Mack Furlow: 2434 Buena Vista Pike",
