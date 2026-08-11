@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T14:04:09.220293",
+  "lastUpdated": "2026-08-11T15:04:28.909559",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-11",
@@ -2257,8 +2257,8 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Great Greek / Hendersonville lease is being pressed by tenant side. On 8/11 Cavan McCann told Jacob that if he and landlord's attorney can talk for a few minutes he thinks they can quickly wrap this up; tenant principal Punit also asked Joey Valenti for an update the same morning.",
-      "nextStep": "Have Ashby Scott and Cavan McCann connect directly, or send Cavan the attorney-contact path, to close remaining lease comments.",
+      "status": "Great Greek lease remains in final legal wrap-up: Ashby sent Anchor-side revisions 8/10, Jacob said he is compiling the exhibit/revised package, and 8/11 Cavan McCann pressed again saying a quick attorney-to-attorney call with landlord's counsel should wrap it up.",
+      "nextStep": "Jacob to send Ashby's revised lease package/exhibit back to tenant side or connect Cavan with Ashby for a quick attorney call; commission agreement still needs routing.",
       "priority": "high",
       "timeline": [
         {
@@ -2269,6 +2269,11 @@
         {
           "date": "2026-08-11",
           "event": "Cavan McCann asked for a short call with landlord's attorney to quickly wrap up the Great Greek/Hendersonville lease.",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-11",
+          "event": "Cavan McCann pressed for landlord-attorney call to wrap Great Greek lease; Jacob still needs to send revised package/exhibit or connect counsel.",
           "type": "email"
         },
         {
@@ -5274,9 +5279,9 @@
       "id": "shelbyville-ryan-jordan-former-big-lots",
       "name": "Ryan Jordan / Former Big Lots",
       "property": "Shelbyville, IN former Big Lots",
-      "status": "Seth Biggerstaff / Veritas said TJX is touring soon and needs around 20,000-25,000 SF, potentially larger depending on economics; asked for rental quote and NNN thoughts for the full 40,000 SF box versus a demised roughly 25,000 SF scenario. Vendors Village remains live across Shelbyville/Harrison/Evansville and Adam asked Matt for Thursday/Friday call availability while Anchor finishes numbers.",
+      "status": "Fresh TJX sizing/economics signal from Seth Biggerstaff: TJX is touring soon, likely needs around 20,000-25,000 SF but could go larger depending on economics. Jacob replied whole box could be aggressive around a $5 deal; demised 25K scenario could likely land in the $8-12 range depending on TI/LL work; projected NNNs around $3.50.",
       "stage": "Trading Terms",
-      "nextStep": "Prepare Micah-reviewed economics for TJX full-box vs 25K demised pricing, while also finishing Vendors Village comparative cash-flow package before the Thursday/Friday call.",
+      "nextStep": "Keep TJX economics in the redevelopment/package math alongside Dutch Bros, car wash/QSR options, and Vendors Village.",
       "priority": "high",
       "contacts": [
         "Ryan Jordan (AVID Real Estate Advisors)",
@@ -5315,6 +5320,11 @@
         {
           "date": "2026-08-11",
           "event": "Adam followed up with Matt/Vendors Village asking for Thursday or Friday availability while Anchor works through numbers.",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-11",
+          "event": "Jacob quoted preliminary Shelbyville economics to Seth/TJX: whole box around $5; demised 25K roughly $8-12 depending on TI/LL work; NNNs around $3.50.",
           "type": "email"
         },
         {
@@ -6744,6 +6754,51 @@
       "actions": [],
       "type": "Tenant Rep",
       "lastUpdate": "2026-08-10"
+    },
+    {
+      "id": "maple-row-will-w-crexi-phone-click",
+      "name": "Will W. - Crexi phone click",
+      "property": "Maple Row Shopping Center",
+      "status": "Crexi notified that Will W. clicked the phone number for Maple Row Shopping Center in Hendersonville; no direct message/body was included beyond dashboard activity.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob/Adam to follow up through Crexi/contact path and capture phone/email/use/size if worth pursuing.",
+      "priority": "medium",
+      "contacts": [
+        "Will W. (Crexi activity)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-08-11",
+          "event": "Will W. clicked the phone number on Maple Row Shopping Center via Crexi.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-08-11"
+    },
+    {
+      "id": "maple-row-sale-jordan-dilmanian",
+      "name": "Jordan Dilmanian - Maple Row sale inquiry",
+      "property": "Maple Row Shopping Center",
+      "status": "Jon Petty told Jordan Dilmanian Maple Row is owned by Anchor, said he has not seen Anchor sell assets, and copied Jacob so Jordan can ask directly.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob/Micah to decide whether to entertain a Maple Row sale inquiry, require NDA/data-room posture, or politely say not for sale.",
+      "priority": "medium",
+      "contacts": [
+        "Jordan Dilmanian",
+        "Jon Petty (Southeast Venture)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-08-11",
+          "event": "Jon Petty copied Jacob on Jordan Dilmanian's Maple Row ownership/sale inquiry.",
+          "type": "email"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-08-11"
     }
   ],
   "droppedBalls": [
