@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T13:05:36.357247",
+  "lastUpdated": "2026-08-11T13:11:47.040515",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-11",
@@ -3369,10 +3369,10 @@
     {
       "id": "bealls-shelbyville-former-big-lots",
       "name": "Bealls",
-      "property": "Shelbyville former Big Lots",
-      "status": "Kimley-Horn sent ALTA Survey contract and asked for comments on last week's exhibits / Dutch Bros feedback. Adam also sent Wash N Roll the Shelbyville site exhibit for review. Vendors Village remains separately active after call and principal-meeting prep.",
+      "property": "Shelbyville IN former Big Lots",
+      "status": "Seth Biggerstaff / Veritas asked whether the 40,000 SF Shelbyville box is still available because they are touring with TJX soon. Jacob replied that it is still available but Anchor is working on redevelopment options for the building/parcel and asked whether TJX needs 20,000-25,000 SF.",
       "stage": "Trading Terms",
-      "nextStep": "Review/approve ALTA survey proposal, answer Kimley-Horn on exhibit comments/Dutch Bros feedback, track Wash N Roll response to the Shelbyville site plan, and prep Vendors Village principal-meeting posture.",
+      "nextStep": "Watch for Seth/TJX size/use response while continuing Dutch Bros, ALTA, Wash N Roll, and broader redevelopment economics work.",
       "priority": "high",
       "contacts": [
         "Paul Gold (Echo Retail)",
@@ -3392,9 +3392,15 @@
         "Alex Wendt (Midland Atlantic)",
         "Matt Jeffery (Vendors' Village, 502-819-6164)",
         "Adam Heston (Anchor)",
-        "Jordan Hooper (Wash N Roll)"
+        "Jordan Hooper (Wash N Roll)",
+        "Seth Biggerstaff (Veritas Realty)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-11",
+          "event": "Seth Biggerstaff / Veritas asked if Shelbyville former Big Lots is still available for upcoming TJX tour; Jacob replied available but redevelopment options are active and asked if TJX needs 20K-25K SF.",
+          "type": "email"
+        },
         {
           "date": "2026-08-05",
           "event": "Kimley-Horn sent ALTA Survey contract and requested exhibit/Dutch Bros comments; Adam sent Wash N Roll the Shelbyville site exhibit.",
