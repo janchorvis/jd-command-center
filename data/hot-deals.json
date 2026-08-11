@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T13:11:47.040515",
+  "lastUpdated": "2026-08-11T14:04:09.220293",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-11",
@@ -5274,10 +5274,10 @@
       "id": "shelbyville-ryan-jordan-former-big-lots",
       "name": "Ryan Jordan / Former Big Lots",
       "property": "Shelbyville, IN former Big Lots",
-      "status": "Seth Biggerstaff / Veritas asked about the 40,000 SF box at 1840 E Michigan Rd on 8/11 for a prospect needing roughly 20,000-25,000 SF. Jacob replied that the box is still available but Anchor is working through redevelopment options and asked how much space they need.",
+      "status": "Seth Biggerstaff / Veritas said TJX is touring soon and needs around 20,000-25,000 SF, potentially larger depending on economics; asked for rental quote and NNN thoughts for the full 40,000 SF box versus a demised roughly 25,000 SF scenario. Vendors Village remains live across Shelbyville/Harrison/Evansville and Adam asked Matt for Thursday/Friday call availability while Anchor finishes numbers.",
       "stage": "Trading Terms",
-      "nextStep": "Track Seth/Veritas prospect size/use against redevelopment scenarios and avoid committing space before Dutch Bros/Wash N Roll/package economics are settled.",
-      "priority": "medium",
+      "nextStep": "Prepare Micah-reviewed economics for TJX full-box vs 25K demised pricing, while also finishing Vendors Village comparative cash-flow package before the Thursday/Friday call.",
+      "priority": "high",
       "contacts": [
         "Ryan Jordan (AVID Real Estate Advisors)",
         "Adam Rude (City of Shelbyville)",
@@ -5297,13 +5297,25 @@
         "Rachel Rambin (Chipotle)",
         "Bryan Chandler (Eclipse Real Estate)",
         "Lori Adler (Chipotle)",
-        "Seth Biggerstaff (Veritas Realty)"
+        "Seth Biggerstaff (Veritas Realty)",
+        "Seth Biggerstaff (Veritas / TJX)",
+        "Matt Jeffery (Vendors Village)"
       ],
       "timeline": [
         {
           "date": "2026-08-11",
           "event": "Seth Biggerstaff asked about Shelbyville 40,000 SF box for a 20,000-25,000 SF prospect; Jacob replied same day asking for size and noting redevelopment options are being worked.",
           "type": "lead"
+        },
+        {
+          "date": "2026-08-11",
+          "event": "Seth Biggerstaff / Veritas said TJX needs roughly 20,000-25,000 SF, potentially more depending on economics, and asked for rental quote/NNN thoughts for full-box versus demised scenarios.",
+          "type": "lead"
+        },
+        {
+          "date": "2026-08-11",
+          "event": "Adam followed up with Matt/Vendors Village asking for Thursday or Friday availability while Anchor works through numbers.",
+          "type": "email"
         },
         {
           "date": "2026-08-06",
@@ -6401,15 +6413,22 @@
       "id": "hamilton-10560-national-auto-parts",
       "name": "National Auto Parts User",
       "property": "10560 Harrison Ave / Hamilton OH",
-      "status": "Vendors Village is interested in Harrison OH 32,959 SF as part of a possible three-box package with Shelbyville IN and Evansville IN; Matt Jeffery asked whether owners have interest in selling the centers.",
+      "status": "Adam reviewed MacBid exclusive language against possible Maple Merchandise use: MacBid has an exclusive on sellers of returned/overstock items and auction activity. Adam found no obvious AutoZone/REA prohibition and spoke with Mark/Maple Merchandise, who said inventory is roughly 80% tools (Milwaukee/Dewalt), more Home Depot than AutoZone, with very little car inventory and some home goods/fishing gear; he is ready to move quickly if the current deposit path changes.",
       "stage": "Contact Made",
-      "nextStep": "Jacob/Adam decide Harrison lease/sale/package posture before Adam responds.",
-      "priority": "high",
+      "nextStep": "Decide whether Maple Merchandise is safely outside MacBid's exclusive or should remain backup-only if the current deposit path fails.",
+      "priority": "medium",
       "contacts": [
         "Lacey Nobbe (CBRE)",
-        "Matt Jeffery (Vendors' Village, 502-819-6164)"
+        "Matt Jeffery (Vendors' Village, 502-819-6164)",
+        "Adam Heston",
+        "Mark / Maple Merchandise"
       ],
       "timeline": [
+        {
+          "date": "2026-08-11",
+          "event": "Adam reviewed MacBid exclusive / AutoZone-REA risk and spoke with Mark/Maple Merchandise about inventory mix; Mark says mostly tools and ready to move quickly if current deposit path changes.",
+          "type": "slack"
+        },
         {
           "date": "2026-08-04",
           "event": "Vendors Village included Harrison OH in three-box package interest and sale question.",
