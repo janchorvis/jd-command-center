@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T09:03:12.174654",
+  "lastUpdated": "2026-08-11T11:04:08.669660",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-11",
@@ -5628,11 +5628,11 @@
     {
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
-      "property": "312 Wilson Pike",
-      "status": "Wilson Pike has fresh competing LOI pressure: Ross Hopkins sent updated Futbol Factory LOIs for the front and back spaces, with Futbol Factory especially interested in the back space, while Mission Pet Health and other users remain live.",
+      "property": "312 Wilson Pike Circle",
+      "status": "KWC Assistant reconnected for client Skiptown Doggy Daycare about the 12,000 SF 312 Wilson Pike opportunity and asked for current availability, asking rent, and estimated NNNs. This adds another dog-daycare/boarding path to the already crowded Wilson collision map.",
       "stage": "LOI",
-      "nextStep": "Jacob/Adam need a same-asset collision decision before responding: Mission Pet Health/whole-building path vs Futbol Factory partial-space LOIs vs other live prospects.",
-      "priority": "high",
+      "nextStep": "Decide Wilson availability/pricing posture across Mission Pet Health, Skiptown/KWC, Futbol Factory, dance studio, fitness/gym, psych practice, basketball/prosthodontics, and auto/mechanic paths before replying.",
+      "priority": "medium",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
         "Micah Lacher",
@@ -5680,9 +5680,16 @@
         "Brittany D. (Crexi activity)",
         "Ashley Cusker (Katz)",
         "Tanner S. (Crexi activity)",
-        "Ashley Cusker (Katz & Associates)"
+        "Ashley Cusker (Katz & Associates)",
+        "KWC Assistant",
+        "Skiptown Doggy Daycare"
       ],
       "timeline": [
+        {
+          "date": "2026-08-11",
+          "event": "KWC Assistant reconnected for Skiptown Doggy Daycare and requested 312 Wilson Pike availability, rate, and NNNs.",
+          "type": "lead"
+        },
         {
           "date": "2026-08-10",
           "event": "Email from Ashley Cusker: 312 Wilson Pike",
