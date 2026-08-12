@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T07:16:22.728892",
+  "lastUpdated": "2026-08-12T11:03:51.597060",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-12",
@@ -3275,9 +3275,9 @@
       "id": "smart-led-highland",
       "name": "Smart LED TN LLC",
       "property": "Highland Ave Jackson TN / Hickory Village / 2151 Highland",
-      "status": "Smart LED post-execution property issue escalated: Hannah says water intrusion next door has caused black mold in the basement/bar area and needs LL-responsibility/routing decision.",
+      "status": "Mathison replied that he is fine with Amin/Smart LED receiving 30 extra free-rent days and asked whether it changes the expiration date.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/Clay/Mathison need to determine landlord responsibility and urgently route remediation/inspection for water intrusion and mold.",
+      "nextStep": "Jacob/PM need to confirm lease-date mechanics, paperwork for the extra 30 days, tenant portal/setup link to meraguddu1@gmail.com, and deposit/payment status.",
       "priority": "high",
       "contacts": [
         "Amin Lakhani (Smart LED TN LLC) - smartledtn@gmail.com - 901-907-2646",
@@ -3289,9 +3289,15 @@
         "Mathison Ingham",
         "Amin Lakhani / Smart LED TN LLC",
         "Amin Lakhani / Smart LED",
-        "Hannah Hart"
+        "Hannah Hart",
+        "Amin Lakhani"
       ],
       "timeline": [
+        {
+          "date": "2026-08-12",
+          "event": "Mathison okayed Smart LED 30-day free-rent concession in concept and asked if expiration date changes.",
+          "type": "email"
+        },
         {
           "date": "2026-08-07",
           "event": "Hannah Hart said the Smart LED/Highland water-intrusion issue has caused black mold in the basement and asked what to do.",
@@ -4049,14 +4055,20 @@
       "id": "forks-honeybaked-ham-2400",
       "name": "HoneyBaked Ham",
       "property": "Sevierville / Forks of the River Shopping Center",
-      "status": "Jake Brewer / Smart Site Commercial Real Estate asked what spaces are available at 209 Forks of the River Pkwy for +/- 2,400 SF for HoneyBaked Ham.",
+      "status": "Adam reported Jake from HoneyBaked Ham called back asking for a floor plan for the former mattress suite split, target construction start by March, seasonal storage truck in back, and TI question.",
       "stage": "Contact Made",
-      "nextStep": "Jacob/Adam should confirm realistic available/servable space at Forks of the River and reply with availability, likely noting current small-shop spaces are roughly 1,190 SF and 1,200 SF if combinable/available and asking whether 2,400 SF is firm.",
-      "priority": "medium",
+      "nextStep": "Jacob/Adam need updated floor plan or best available plan for the 2,750 SF leftover space, storage-truck posture, TI guidance, and timing response.",
+      "priority": "high",
       "contacts": [
-        "Jake Brewer (Smart Site Commercial Real Estate, jake@smartsitecre.com, 865-776-9807)"
+        "Jake Brewer (Smart Site Commercial Real Estate, jake@smartsitecre.com, 865-776-9807)",
+        "Jake Brewer / HoneyBaked Ham"
       ],
       "timeline": [
+        {
+          "date": "2026-08-12",
+          "event": "Adam Slack update: HoneyBaked Ham requested floor plan, March construction timing, storage truck, and TI guidance.",
+          "type": "lead"
+        },
         {
           "date": "2026-08-11",
           "event": "Email from Jake Brewer: 209 Forks of the River Pky, 1st Floor, Sevierville, TN 37862, United States, PID",
@@ -4396,8 +4408,8 @@
       "name": "Buena Vista",
       "property": "2433 Buena Vista Pike",
       "type": "Land/Development",
-      "status": "Brian D. printed the Crexi page for 2433 Buena Vista Pike on 2026-08-10; no direct message or contact details were included beyond dashboard activity. This is a light engagement signal while Holladay DD and Mack Furlow follow-up remain live.",
-      "nextStep": "Decide whether to follow up through Crexi/contact path and capture phone/email/use; continue Holladay DD and Mack Furlow follow-up.",
+      "status": "Crexi activity continues: Edward H. printed the page on 2433 Buena Vista Pike on 2026-08-12. No direct message/body or contact details were included beyond dashboard activity.",
+      "nextStep": "Jacob/Adam decide whether to follow up through Crexi/contact path and capture phone/email/use.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
@@ -4413,11 +4425,17 @@
         "Drew Taylor (Lennar Land Acquisition Manager)",
         "Peter Deprey (Pulte Land Acquisition Manager)",
         "Andrew Cannon (Holladay Ventures) <drew@holladayventures.com>",
-        "Brian D. (Crexi activity)"
+        "Brian D. (Crexi activity)",
+        "Edward H. (Crexi activity)"
       ],
-      "priority": "high",
+      "priority": "medium",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-08-12",
+          "event": "Crexi: Edward H. printed the 2433 Buena Vista Pike page.",
+          "type": "lead"
+        },
         {
           "date": "2026-08-11",
           "event": "Email from Mack Furlow: 2434 Buena Vista Pike",
