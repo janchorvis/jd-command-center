@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T11:03:51.597060",
+  "lastUpdated": "2026-08-12T16:03:19.988779",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-12",
@@ -3892,9 +3892,9 @@
       "id": "river-parkway-cosmoprof",
       "name": "CosmoProf",
       "property": "River Parkway Plaza",
-      "status": "CosmoProf/BSM committee date remains 7/29. Kevin confirmed Anchor's delivery understanding is correct - LL handles demising wall and utilities ready to go, tenant takes it from there - but BSM needs a formal work letter or similar language for the LOI/package.",
-      "stage": "LOI",
-      "nextStep": "Jacob/Anchor to provide formal work-letter language documenting LL delivery: demising wall plus utilities ready to go, tenant responsible beyond that; track 7/29 committee decision.",
+      "status": "Fully executed CosmoProf CA received from Brad Altum on 2026-08-12; Braydon told BSM the lease should be coming next week.",
+      "stage": "Lease Draft & Review",
+      "nextStep": "Provide/settle construction/legal contacts, formal work-letter language, and bathroom-delivery/economic posture before lease draft lands.",
       "priority": "high",
       "contacts": [
         "Kevin Trujillo (Baker Storey McDonald Properties)",
@@ -3905,6 +3905,11 @@
         "Brad Altum (BSM Properties)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-12",
+          "event": "Brad Altum sent fully executed CosmoProf CA and said lease should come next week.",
+          "type": "email"
+        },
         {
           "date": "2026-08-10",
           "event": "Email from Kevin Trujillo: FW: River Parkway Plaza - LOI - CosmoProf",
@@ -3941,7 +3946,8 @@
           "type": "email"
         }
       ],
-      "actions": []
+      "actions": [],
+      "stageOverride": "Lease Draft & Review"
     },
     {
       "id": "mcminnville-behavioral-health-rfp",
