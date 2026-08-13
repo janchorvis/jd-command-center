@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T13:11:46.595453",
+  "lastUpdated": "2026-08-13T16:05:03.913035",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-13",
@@ -6871,6 +6871,28 @@
         "suiteCount": 11,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "russellville-qsr-outparcel-tyler-riley",
+      "name": "Tyler Riley / QSR outparcel inquiry",
+      "property": "Franklin Center / Russellville, AL",
+      "status": "Tyler Riley / Rubicon CRE asked whether the vacant outparcel at 14001 Highway 43 is still available for a QSR operator needing a drive-thru, ideally double drive-thru, and asked for asking price.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob/Adam confirm availability, drive-thru/site constraints, and pricing before replying.",
+      "priority": "medium",
+      "contacts": [
+        "Tyler Riley (Rubicon CRE) - tyler.riley@rubicon-cre.com - 310.200.4432"
+      ],
+      "timeline": [
+        {
+          "date": "2026-08-13",
+          "event": "QSR outparcel inquiry for Franklin Center / 14001 Highway 43; asked availability and pricing.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-08-13"
     }
   ],
   "droppedBalls": [
