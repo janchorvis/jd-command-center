@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T07:16:14.427239",
+  "lastUpdated": "2026-08-13T13:11:46.595453",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-13",
@@ -451,11 +451,16 @@
       "id": "malone-shoe-dept",
       "name": "Shoe Dept",
       "property": "Malone Plaza",
-      "status": "Design Team sent the Shoe Dept Encore Malone brand book for approval on 2026-06-19; Jacob needs to review/approve the attached brand book PDF.",
+      "status": "Shoe Show lease administration requested rent-vendor setup information for SDE #1977 Malone before opening: W-9, COI information, sales-reporting address/email, formal-notice address update, property-management agreement if available, and ACH/electronic-payment form info if accepted.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Review and approve or comment on the Shoe Dept Encore Malone brand book.",
+      "nextStep": "Jacob/Clay/PM/accounting should route the rent-vendor setup packet to Cherie Wright at Shoe Show.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-13",
+          "event": "Cherie Wright / Shoe Show requested Malone rent-vendor setup packet before opening.",
+          "type": "email"
+        },
         {
           "date": "2026-06-19",
           "event": "Design Team sent Shoe Dept Encore Malone brand book for approval.",
@@ -517,7 +522,8 @@
         "Paul (Shoe Dept contact)",
         "Tony Grillo (Shoe Show)",
         "Shaun Andriano (C2 Design Group)",
-        "Jennifer Arnold (Design Team Sign Company)"
+        "Jennifer Arnold (Design Team Sign Company)",
+        "Cherie Wright (Shoe Show Lease Administration Manager)"
       ],
       "actions": [
         {
