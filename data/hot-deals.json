@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T13:03:30.048542",
+  "lastUpdated": "2026-08-14T14:02:22.703668",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-14",
@@ -3732,16 +3732,23 @@
       "id": "mcminnville-regional-transit",
       "name": "Regional transit service / Craig Hughes",
       "property": "McMinnville Plaza",
-      "status": "Jacob told Emma Bray that Anchor's director of asset management is still working on buildout quotes and that Jacob should be able to respond to the Suite 129 LOI quickly once quotes are in.",
+      "status": "Adam sent Jacob/Clay two proposed tenant-layout PDFs for the Suite 129 / regional-transit LOI and cautioned they are based on old survey, photos, and one prior visit, so square footage/exact locations need verification. Existing bathrooms/plumbing were kept in place. Jacob/Adam/Clay need to review layout, verify assumptions/current conditions, and use it to move buildout pricing/LOI response forward.",
       "stage": "LOI",
-      "nextStep": "Wait on buildout quotes needed to price/respond to the LOI.",
+      "nextStep": "Review Adam's tenant-layout PDFs with Clay, verify square footage/current conditions, then finish buildout pricing and respond to Emma Bray's LOI follow-up.",
       "priority": "high",
       "contacts": [
         "Craig Hughes (Upper Cumberland Commercial)",
         "Emma Bray (Upper Cumberland Commercial)",
-        "Emma Bray / Upper Cumberland Commercial"
+        "Emma Bray / Upper Cumberland Commercial",
+        "Adam Heston",
+        "Clay Richardson"
       ],
       "timeline": [
+        {
+          "date": "2026-08-14",
+          "event": "Adam sent proposed McMinnville tenant-layout PDFs for Suite 129/regional-transit LOI; assumptions need verification before buildout quote/LOI response.",
+          "type": "email"
+        },
         {
           "date": "2026-08-03",
           "event": "Jacob updated Emma Bray that buildout quotes are still pending before LOI response.",
