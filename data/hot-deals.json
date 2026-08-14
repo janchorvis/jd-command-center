@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T14:02:22.703668",
+  "lastUpdated": "2026-08-14T16:05:45.077782",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-14",
@@ -2567,11 +2567,16 @@
     {
       "id": "evansville-easterseals",
       "tenant": "Easterseals Rehabilitation",
-      "property": "730 S Green River Rd, Evansville, IN",
-      "status": "Vendors Village completed the initial call with Adam and remains interested in Evansville as part of a potential three-box package with Shelbyville and Harrison. Adam sent the Evansville floor plan and said Anchor is meeting with the principal early next week to discuss options/best terms.",
-      "nextStep": "Decide whether Evansville stays leasing-only, can be packaged, or is considered for sale before principal meeting / next Matt follow-up.",
+      "property": "Shelbyville / Harrison / Evansville former Big Lots package",
+      "status": "Vendors Village call has moved to Monday 2026-08-17 at 12:00 PM ET; Adam confirmed the time and Matt Jeffery acknowledged. Anchor still needs principal-meeting posture/economics ready before the call.",
+      "nextStep": "Prepare sale-vs-lease economics and call posture before Monday noon ET Vendors Village call.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-14",
+          "event": "Adam confirmed Vendors Village call for Monday 12:00 PM ET; Matt Jeffery acknowledged.",
+          "type": "email"
+        },
         {
           "date": "2026-08-05",
           "event": "Adam sent Vendors Village the Evansville floor plan after call and said Anchor will meet with principal early next week on options/best terms.",
@@ -2651,7 +2656,9 @@
         "Robert Henson (Evansville Rehab / Easterseals)",
         "Susi Racine (Woodward Commercial Realty, sracine@woodwardrealty.com, 812-459-1463)",
         "Adam Heston (Anchor)",
-        "Matt Jeffery (Vendors' Village, 502-819-6164)"
+        "Matt Jeffery (Vendors' Village, 502-819-6164)",
+        "Matthew Jeffery (Vendors' Village)",
+        "Adam Heston"
       ],
       "stage": "Trading Terms",
       "stageOverride": "Trading Terms"
@@ -3732,21 +3739,27 @@
       "id": "mcminnville-regional-transit",
       "name": "Regional transit service / Craig Hughes",
       "property": "McMinnville Plaza",
-      "status": "Adam sent Jacob/Clay two proposed tenant-layout PDFs for the Suite 129 / regional-transit LOI and cautioned they are based on old survey, photos, and one prior visit, so square footage/exact locations need verification. Existing bathrooms/plumbing were kept in place. Jacob/Adam/Clay need to review layout, verify assumptions/current conditions, and use it to move buildout pricing/LOI response forward.",
+      "status": "Clay liked Adam's proposed Suite 129 layout, wants to run it past the tenant, and if they are serious then reach out to contractor for buildout pricing. Layout remains concept-level and needs tenant validation before quote/LOI response.",
       "stage": "LOI",
-      "nextStep": "Review Adam's tenant-layout PDFs with Clay, verify square footage/current conditions, then finish buildout pricing and respond to Emma Bray's LOI follow-up.",
+      "nextStep": "Run Adam's McMinnville Suite 129 layout past tenant, then get contractor pricing if tenant is serious.",
       "priority": "high",
       "contacts": [
         "Craig Hughes (Upper Cumberland Commercial)",
         "Emma Bray (Upper Cumberland Commercial)",
         "Emma Bray / Upper Cumberland Commercial",
         "Adam Heston",
-        "Clay Richardson"
+        "Clay Richardson",
+        "Emma Bray"
       ],
       "timeline": [
         {
           "date": "2026-08-14",
           "event": "Adam sent proposed McMinnville tenant-layout PDFs for Suite 129/regional-transit LOI; assumptions need verification before buildout quote/LOI response.",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-14",
+          "event": "Clay responded that the proposed McMinnville Suite 129 layout should be run past the tenant, then priced by contractor if serious.",
           "type": "email"
         },
         {
@@ -6932,14 +6945,20 @@
       "id": "russellville-qsr-outparcel-tyler-riley",
       "name": "Tyler Riley / QSR outparcel inquiry",
       "property": "Franklin Center / Russellville, AL",
-      "status": "Tyler Riley / Rubicon CRE asked whether the vacant outparcel at 14001 Highway 43 is still available for a QSR operator needing a drive-thru, ideally double drive-thru, and asked for asking price.",
+      "status": "Tyler Riley / Rubicon CRE QSR outparcel inquiry remains open; Jacob asked Jarvis to write a response for review in the leasing meeting.",
       "stage": "Contact Made",
-      "nextStep": "Jacob/Adam confirm availability, drive-thru/site constraints, and pricing before replying.",
-      "priority": "medium",
+      "nextStep": "Draft QSR outparcel response for leasing-meeting review; confirm availability, drive-thru feasibility, and asking-price posture.",
+      "priority": "high",
       "contacts": [
-        "Tyler Riley (Rubicon CRE) - tyler.riley@rubicon-cre.com - 310.200.4432"
+        "Tyler Riley (Rubicon CRE) - tyler.riley@rubicon-cre.com - 310.200.4432",
+        "Tyler Riley (Rubicon CRE)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-14",
+          "event": "Jacob asked for a response draft to Tyler Riley's Russellville outparcel/QSR inquiry for leasing meeting review.",
+          "type": "email"
+        },
         {
           "date": "2026-08-13",
           "event": "Email from Tyler Riley: 14001 Highway 43 - Franklin Center (Russellville, AL)",
