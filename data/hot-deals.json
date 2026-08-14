@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T07:16:25.058165",
+  "lastUpdated": "2026-08-14T13:03:30.048542",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-14",
@@ -481,11 +481,16 @@
       "id": "malone-shoe-dept",
       "name": "Shoe Dept",
       "property": "Malone Plaza",
-      "status": "Shoe Show lease administration requested rent-vendor setup information for SDE #1977 Malone before opening: W-9, COI information, sales-reporting address/email, formal-notice address update, property-management agreement if available, and ACH/electronic-payment form info if accepted.",
-      "stage": "Lease Draft & Review",
-      "nextStep": "Jacob/Clay/PM/accounting should route the rent-vendor setup packet to Cherie Wright at Shoe Show.",
-      "priority": "high",
+      "status": "Shoe Dept new-store rent-vendor setup packet is in progress. Cherie Wright requested W-9, COI requirements, sales-reporting contact, formal notice address, PM agreement if available, and ACH form; Jacob routed internally, Eli supplied W-9/ACH, and Clay supplied insurance/sales-reporting/notice details.",
+      "stage": "Lease Signed",
+      "nextStep": "Jacob/Eli/Clay need to send or confirm the complete vendor setup packet back to Shoe Dept lease administration.",
+      "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-08-14",
+          "event": "Shoe Dept Malone vendor setup packet details gathered internally; outbound packet still needs to be sent/confirmed.",
+          "type": "email"
+        },
         {
           "date": "2026-08-13",
           "event": "Cherie Wright / Shoe Show requested Malone rent-vendor setup packet before opening.",
@@ -553,7 +558,10 @@
         "Tony Grillo (Shoe Show)",
         "Shaun Andriano (C2 Design Group)",
         "Jennifer Arnold (Design Team Sign Company)",
-        "Cherie Wright (Shoe Show Lease Administration Manager)"
+        "Cherie Wright (Shoe Show Lease Administration Manager)",
+        "Cherie Wright (Shoe Show Lease Administration)",
+        "Eli Robertson",
+        "Clay Richardson"
       ],
       "actions": [
         {
@@ -569,7 +577,8 @@
         "avgSqFt": 7342,
         "suiteCount": 2,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Lease Signed"
     },
     {
       "id": "malone-golf-sim",
