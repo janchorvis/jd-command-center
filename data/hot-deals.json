@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T07:16:22.429628",
+  "lastUpdated": "2026-08-18T11:04:55.647529",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-18",
@@ -4155,15 +4155,21 @@
     {
       "id": "harrison-childrens-adventure-entertainment",
       "name": "Children's Adventure Entertainment Operator",
-      "property": "Harrison Square / 10560 Harrison Ave",
-      "status": "Mason Beecher / R.J. Brunelli represents a national children's adventure entertainment operator with 40+ locations seeking 32,000-60,000 SF and minimum 17-foot clear height; asked about Harrison or other Anchor centers with 100,000+ population within 5 miles.",
+      "property": "Harrison Square",
+      "status": "Crexi notified that Christopher D. downloaded/opened the Harrison Square brochure on 2026-08-18 at 10:16 AM CDT. No direct message/body or contact details were included beyond dashboard activity.",
       "stage": "Contact Made",
-      "nextStep": "Confirm Harrison Square/former Big Lots clear height, parking, demographics, and economics before replying.",
+      "nextStep": "Jacob/Adam should decide whether to follow up through Crexi/contact path and capture phone/email/use/size, alongside existing Harrison Big Lots/Ollie's and Wing drone-delivery site evaluation.",
       "priority": "medium",
       "contacts": [
-        "Mason Beecher (R.J. Brunelli & Co.)"
+        "Mason Beecher (R.J. Brunelli & Co.)",
+        "Christopher D. (Crexi activity)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-18",
+          "event": "Christopher D. downloaded/opened the Harrison Square brochure via Crexi.",
+          "type": "lead"
+        },
         {
           "date": "2026-08-10",
           "event": "Email from Mason Beecher: 10560 Harrison Ave, Harrison, OH 45030, United States, PID: 1442329",
