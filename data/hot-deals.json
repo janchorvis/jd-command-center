@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T07:15:54.359840",
+  "lastUpdated": "2026-08-18T07:16:22.429628",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-18",
@@ -8063,21 +8063,8 @@
       "details": {
         "lastEmailDate": "2026-08-12",
         "lastPipedriveDate": "2026-02-19",
-        "emailDaysAgo": 5,
-        "pipedriveDaysAgo": 179
-      }
-    },
-    {
-      "deal": "Five Below",
-      "property": "Malone Plaza",
-      "type": "email-active-pipedrive-stale",
-      "message": "Last email 8/10, Pipedrive not updated since 5/4",
-      "severity": "high",
-      "details": {
-        "lastEmailDate": "2026-08-10",
-        "lastPipedriveDate": "2026-05-04",
-        "emailDaysAgo": 7,
-        "pipedriveDaysAgo": 105
+        "emailDaysAgo": 6,
+        "pipedriveDaysAgo": 180
       }
     },
     {
@@ -8089,8 +8076,8 @@
       "details": {
         "lastEmailDate": "2026-08-11",
         "lastPipedriveDate": "2024-08-16",
-        "emailDaysAgo": 6,
-        "pipedriveDaysAgo": 731
+        "emailDaysAgo": 7,
+        "pipedriveDaysAgo": 732
       }
     },
     {
@@ -8102,21 +8089,21 @@
       "details": {
         "lastEmailDate": "2026-08-11",
         "lastPipedriveDate": "2026-03-24",
-        "emailDaysAgo": 6,
-        "pipedriveDaysAgo": 146
+        "emailDaysAgo": 7,
+        "pipedriveDaysAgo": 147
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "pipedrive-active-no-email",
-      "message": "Pipedrive updated 8/11, last email was 3/11 (159d ago)",
+      "message": "Pipedrive updated 8/17, last email was 3/11 (160d ago)",
       "severity": "medium",
       "details": {
         "lastEmailDate": "2026-03-11",
-        "lastPipedriveDate": "2026-08-11",
-        "emailDaysAgo": 159,
-        "pipedriveDaysAgo": 6
+        "lastPipedriveDate": "2026-08-17",
+        "emailDaysAgo": 160,
+        "pipedriveDaysAgo": 1
       }
     }
   ],
