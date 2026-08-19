@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T08:02:07.049095",
+  "lastUpdated": "2026-08-19T09:03:20.756351",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-19",
@@ -2261,10 +2261,15 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Great Greek lease remains in final legal wrap-up: Ashby sent Anchor-side revisions 8/10, Jacob said he is compiling the exhibit/revised package, and 8/11 Cavan McCann pressed again saying a quick attorney-to-attorney call with landlord's counsel should wrap it up.",
-      "nextStep": "Jacob to send Ashby's revised lease package/exhibit back to tenant side or connect Cavan with Ashby for a quick attorney call; commission agreement still needs routing.",
+      "status": "Cavan sent latest clean/redline lease versions after tenant/franchisor accepted almost all landlord counsel modifications with a few changes. Punit said it looks good to send to landlord. Joey asked Solange whether the rider is okay, and separately asked Jacob about the commission agreement; Jacob told Joey he expects something today or tomorrow. Jacob/Ashby still need to review the latest package and decide whether to accept/send final landlord-side approval after Solange's rider response.",
+      "nextStep": "Review latest Great Greek lease package with Ashby; wait for Solange rider response if needed; finalize landlord approval and commission agreement.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-19",
+          "event": "Tenant/franchisor accepted most landlord revisions; latest Great Greek clean/redline lease package sent back for landlord review. Joey separately chased commission agreement.",
+          "type": "email"
+        },
         {
           "date": "2026-08-11",
           "event": "Punit asked Joey for a lease update; Joey said he would make the call after Ashby returned revised lease language on 8/10.",
