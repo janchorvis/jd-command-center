@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T09:03:20.756351",
+  "lastUpdated": "2026-08-19T10:02:50.510178",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-19",
@@ -1239,11 +1239,16 @@
       "id": "mcminnville-wingstop",
       "name": "Wingstop",
       "property": "McMinnville Plaza",
-      "status": "Clay Richardson sent updated 2026-07-29 PDF floor plans for Royal Furniture and The Vac Shack/Wingstop after the prior CAD/DWG file handoff.",
+      "status": "Jacob sent Sarah Langan the 8/19 LL edits and clean lease, saying Anchor is about there but needs financial information, execution deposit confirmation, and mutual acceptance of final edits before execution; Jacob also forwarded the exchange to Adam for learning purposes.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob/Adam should use/share the updated floor-plan PDFs in the McMinnville Wingstop/Aldi floor-plan workstream, with courtesy-only and field-verify language before forwarding externally.",
+      "nextStep": "Wait for Sarah/Wingstop response on final LL edits, financial info, and deposit/execution path.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-19",
+          "event": "Jacob sent Wingstop final LL edits/clean lease and forwarded to Adam; awaiting Sarah response for execution path.",
+          "type": "email"
+        },
         {
           "date": "2026-07-29",
           "event": "Clay sent updated PDFs: 26125 - Royal Furniture - Floor Plan - 2026.07.29.pdf and 26125 - The Vac Shack - Floor Plan - 2026.07.29.pdf",
@@ -1315,7 +1320,9 @@
         "James Lanoux",
         "Sarah Langan <sarah@lawbylangan.com>",
         "Sarah Langan (Sarah C. Langan PLLC)",
-        "Clay Richardson"
+        "Clay Richardson",
+        "Sarah Langan (Wingstop counsel)",
+        "Adam Heston"
       ],
       "actions": [
         {
@@ -2103,10 +2110,10 @@
       "id": "mcminnville-plaza",
       "name": "",
       "property": "McMinnville Plaza",
-      "status": "Emma Bray said her client is interested in the Plaza space they toured and requested a proposal; she attached the client layout/requirements for review.",
+      "status": "Erik Futral / OninGroup asked to discuss McMinnville Plaza; Jacob forwarded to Adam, Adam prepared a response with flyer/site plan and improvements PDF, and Jacob approved Adam's materials / asked to be looped in if follow-up needs him.",
       "stage": "LOI",
-      "nextStep": "Review the attached layout for Suite 129/Warren County office use and send proposal terms or clarifying questions.",
-      "priority": "high",
+      "nextStep": "Wait for Erik/OninGroup response after Adam's flyer/improvements package; Jacob only jumps in if needed.",
+      "priority": "medium",
       "contacts": [
         "Joe Wesley (wesleyjoe829@gmail.com, 213-872-0190)",
         "Jon Petty (Southeast Venture)",
@@ -2123,9 +2130,16 @@
         "James Rainer (Newmark)",
         "Clay Richardson",
         "Jen Annello (CBRE)",
-        "Emma Bray (Upper Cumberland Commercial)"
+        "Emma Bray (Upper Cumberland Commercial)",
+        "Erik Futral (OninGroup)",
+        "Adam Heston"
       ],
       "timeline": [
+        {
+          "date": "2026-08-19",
+          "event": "Adam sent McMinnville flyer/site plan and improvements PDF to Erik Futral/OninGroup after Jacob forwarded the inquiry.",
+          "type": "email"
+        },
         {
           "date": "2026-08-06",
           "event": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
@@ -2261,13 +2275,18 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Cavan sent latest clean/redline lease versions after tenant/franchisor accepted almost all landlord counsel modifications with a few changes. Punit said it looks good to send to landlord. Joey asked Solange whether the rider is okay, and separately asked Jacob about the commission agreement; Jacob told Joey he expects something today or tomorrow. Jacob/Ashby still need to review the latest package and decide whether to accept/send final landlord-side approval after Solange's rider response.",
-      "nextStep": "Review latest Great Greek lease package with Ashby; wait for Solange rider response if needed; finalize landlord approval and commission agreement.",
+      "status": "Tenant/franchisor accepted most landlord counsel changes; Jacob routed the remaining redline/rider edits to Ashby for quick legal pass and told Joey they are about there. Jacob also sent Joey the commission agreement revisions with Anchor's 3%/3% split posture.",
+      "nextStep": "Wait for Ashby's legal pass on rider edits, then prep lease for execution; watch Joey commission-agreement response.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-08-19",
           "event": "Tenant/franchisor accepted most landlord revisions; latest Great Greek clean/redline lease package sent back for landlord review. Joey separately chased commission agreement.",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-19",
+          "event": "Great Greek tenant redline received; Jacob routed to Ashby and sent Joey commission agreement revisions.",
           "type": "email"
         },
         {
