@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T10:02:50.510178",
+  "lastUpdated": "2026-08-19T12:03:50.303379",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-19",
@@ -7028,6 +7028,28 @@
         "suiteCount": 18,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "bell-road-paul-h-crexi",
+      "name": "Paul H. Crexi brochure activity",
+      "property": "Bell Road Shopping Center",
+      "status": "Crexi notified that Paul H. downloaded/opened the Bell Road Shopping Center brochure on 2026-08-19 at 11:06 AM CDT. No direct message/body or contact details were included beyond dashboard activity.",
+      "stage": "Contact Made",
+      "nextStep": "Jacob/Adam decide whether to follow up through Crexi/contact path and capture phone/email/use/size.",
+      "priority": "medium",
+      "contacts": [
+        "Paul H. (Crexi prospect)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-08-19",
+          "event": "Paul H. downloaded/opened the Bell Road Shopping Center brochure on Crexi.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-08-19"
     }
   ],
   "droppedBalls": [
