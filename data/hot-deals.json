@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T07:15:57.078848",
+  "lastUpdated": "2026-08-19T07:16:28.971627",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-19",
@@ -8104,47 +8104,21 @@
       "details": {
         "lastEmailDate": "2026-08-12",
         "lastPipedriveDate": "2026-02-19",
-        "emailDaysAgo": 6,
-        "pipedriveDaysAgo": 180
-      }
-    },
-    {
-      "deal": "Starbucks BTS",
-      "property": "Madison - 1508 Gallatin Pike S, Madison TN",
-      "type": "email-active-pipedrive-stale",
-      "message": "Last email 8/11, Pipedrive not updated since 8/16",
-      "severity": "high",
-      "details": {
-        "lastEmailDate": "2026-08-11",
-        "lastPipedriveDate": "2024-08-16",
         "emailDaysAgo": 7,
-        "pipedriveDaysAgo": 732
-      }
-    },
-    {
-      "deal": "UPS Store Franchisee",
-      "property": "McMinnville Plaza",
-      "type": "email-active-pipedrive-stale",
-      "message": "Last email 8/11, Pipedrive not updated since 3/24",
-      "severity": "high",
-      "details": {
-        "lastEmailDate": "2026-08-11",
-        "lastPipedriveDate": "2026-03-24",
-        "emailDaysAgo": 7,
-        "pipedriveDaysAgo": 147
+        "pipedriveDaysAgo": 181
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "pipedrive-active-no-email",
-      "message": "Pipedrive updated 8/17, last email was 3/11 (160d ago)",
+      "message": "Pipedrive updated 8/17, last email was 3/11 (161d ago)",
       "severity": "medium",
       "details": {
         "lastEmailDate": "2026-03-11",
         "lastPipedriveDate": "2026-08-17",
-        "emailDaysAgo": 160,
-        "pipedriveDaysAgo": 1
+        "emailDaysAgo": 161,
+        "pipedriveDaysAgo": 2
       }
     }
   ],
