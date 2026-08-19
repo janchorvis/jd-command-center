@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T12:03:50.303379",
+  "lastUpdated": "2026-08-19T15:02:37.368334",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-19",
@@ -4170,15 +4170,21 @@
       "id": "harrison-childrens-adventure-entertainment",
       "name": "Children's Adventure Entertainment Operator",
       "property": "Harrison Square",
-      "status": "Crexi notified that Christopher D. downloaded/opened the Harrison Square brochure on 2026-08-18 at 10:16 AM CDT. No direct message/body or contact details were included beyond dashboard activity.",
+      "status": "Jacob replied to Lacey Nobbe/CBRE that parking is tight but Anchor may have interest in Wing drone delivery space in rear paved areas if CBRE thinks the red-box areas work, subject to truck-circulation review.",
       "stage": "Contact Made",
-      "nextStep": "Jacob/Adam should decide whether to follow up through Crexi/contact path and capture phone/email/use/size, alongside existing Harrison Big Lots/Ollie's and Wing drone-delivery site evaluation.",
+      "nextStep": "Wait for Lacey/CBRE to confirm whether the rear paved areas work for Wing; then verify truck circulation and landlord approval.",
       "priority": "medium",
       "contacts": [
         "Mason Beecher (R.J. Brunelli & Co.)",
-        "Christopher D. (Crexi activity)"
+        "Christopher D. (Crexi activity)",
+        "Lacey Nobbe (CBRE)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-19",
+          "event": "Jacob replied to CBRE/Wing with possible rear paved-area locations at Harrison, subject to truck circulation.",
+          "type": "email"
+        },
         {
           "date": "2026-08-18",
           "event": "Email from Christopher D.: Christopher D. opened brochure on Harrison Square",
@@ -5792,9 +5798,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "KWC Assistant re-engaged for Skiptown Doggy Daycare on 8/11 asking whether the 12,000 SF Brentwood space is still available plus asking rent and estimated NNNs. Ashley Cusker/Katz also followed up 8/6 for a 6,000 SF dance-studio prospect; Jacob replied 8/10 that Anchor is prioritizing full-square-footage deals and would revisit multi-tenant options if needed.",
+      "status": "Aaron Sommer/Newmark asked whether parking can be added for a client needing 120 spaces; Jacob forwarded to Adam to count existing spaces from Google Maps/survey before responding.",
       "stage": "LOI",
-      "nextStep": "Decide current posture for 312 Wilson Pike: prioritize full-building Skiptown-type interest, confirm rate/NNNs, and keep 6,000 SF split inquiry secondary unless full-building path weakens.",
+      "nextStep": "Adam/Jacob to confirm current parking count and whether any additional parking can be added before responding to Aaron.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -5845,9 +5851,15 @@
         "Tanner S. (Crexi activity)",
         "Ashley Cusker (Katz & Associates)",
         "KWC Assistant",
-        "Skiptown Doggy Daycare"
+        "Skiptown Doggy Daycare",
+        "Aaron Sommer (Newmark)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-19",
+          "event": "Aaron Sommer/Newmark asked about adding parking for a client needing 120 spaces; Jacob routed to Adam for parking-count verification.",
+          "type": "email"
+        },
         {
           "date": "2026-08-17",
           "event": "Email from KWC Assistant: Property Availability Reconfirmation – 312 Wilson Pike Cir",
