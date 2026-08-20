@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T16:30:37.505714",
+  "lastUpdated": "2026-08-20T17:30:41.290289",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-20",
@@ -4294,6 +4294,11 @@
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
+          "date": "2026-08-20",
+          "event": "Email from Hope Smiles: One Month! You're Invited To The 2026 Hope Smiles Celebration! 🎉",
+          "type": "email"
+        },
+        {
           "date": "2026-07-29",
           "event": "Nathan Frost introduced Jacob to Rob Perschino to connect DWC for ballpark pricing after Jacob said Hope Smiles wants to take a run at 502 Thompson.",
           "type": "email"
@@ -8073,13 +8078,6 @@
       "deal": "Hamilton Title Objection — Hamilton Community Partners / Hamilton OH",
       "daysSinceContact": 29,
       "lastAction": "Clay deferred Hamilton leasing assumptions to Jacob; noted dashboard budgets $12",
-      "urgency": "high"
-    },
-    {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — 502 Thompson Lane",
-      "daysSinceContact": 22,
-      "lastAction": "Nathan Frost introduced Jacob to Rob Perschino to connect DWC for ballpark prici",
       "urgency": "high"
     },
     {
