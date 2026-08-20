@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T21:09:58.504935",
+  "lastUpdated": "2026-08-19T21:10:29.429000",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-19",
@@ -8158,6 +8158,19 @@
         "lastPipedriveDate": "2026-02-19",
         "emailDaysAgo": 7,
         "pipedriveDaysAgo": 181
+      }
+    },
+    {
+      "deal": "Wingstop",
+      "property": "McMinnville Plaza",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 8/19, Pipedrive not updated since 4/27",
+      "severity": "high",
+      "details": {
+        "lastEmailDate": "2026-08-19",
+        "lastPipedriveDate": "2026-04-27",
+        "emailDaysAgo": 0,
+        "pipedriveDaysAgo": 114
       }
     },
     {
