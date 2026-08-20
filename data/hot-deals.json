@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T16:04:05.096664",
+  "lastUpdated": "2026-08-20T16:30:37.505714",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-20",
@@ -7146,6 +7146,11 @@
         "Christopher Fleeger (Morrow Hill)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-20",
+          "event": "Email from Christopher Fleeger: Town & Country Center",
+          "type": "email"
+        },
         {
           "date": "2026-08-20",
           "event": "Christopher Fleeger submitted Back Nine Golf's 2,000-3,000 SF Hamilton requirement with 10.5-foot clear-height and 22-foot minimum-width criteria.",
