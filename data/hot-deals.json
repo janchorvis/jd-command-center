@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T21:09:47.501580",
+  "lastUpdated": "2026-08-19T21:09:58.504935",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-19",
@@ -1246,6 +1246,11 @@
       "timeline": [
         {
           "date": "2026-08-19",
+          "event": "Email from Sarah Langan: McMinnville, TN-Wingstop",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-19",
           "event": "Jacob sent Wingstop final LL edits/clean lease and forwarded to Adam; awaiting Sarah response for execution path.",
           "type": "email"
         },
@@ -2135,6 +2140,11 @@
         "Adam Heston"
       ],
       "timeline": [
+        {
+          "date": "2026-08-19",
+          "event": "Email from Erik Futral: McMinnville Plaza",
+          "type": "email"
+        },
         {
           "date": "2026-08-19",
           "event": "Adam sent McMinnville flyer/site plan and improvements PDF to Erik Futral/OninGroup after Jacob forwarded the inquiry.",
@@ -5857,6 +5867,11 @@
       "timeline": [
         {
           "date": "2026-08-19",
+          "event": "Email from Sommer, Aaron: 312 Wilson Pike Cir",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-19",
           "event": "Aaron Sommer/Newmark asked about adding parking for a client needing 120 spaces; Jacob routed to Adam for parking-count verification.",
           "type": "email"
         },
@@ -7978,13 +7993,6 @@
       "urgency": "high"
     },
     {
-      "name": "Kevin True",
-      "deal": "Wingstop — McMinnville Plaza",
-      "daysSinceContact": 23,
-      "lastAction": "Sarah Langan accepted Thursday 10:00 AM for Wingstop lease wrap-up call and will",
-      "urgency": "high"
-    },
-    {
       "name": "Amy Harper",
       "deal": "HopeSmiles — 502 Thompson Lane",
       "daysSinceContact": 21,
@@ -7996,13 +8004,6 @@
       "deal": "Spirit Halloween Evansville water shutoff — Lawndale SC / Evansville IN",
       "daysSinceContact": 20,
       "lastAction": "Spirit Utilities emailed urgent water shutoff/opening issue for Evansville/Lawnd",
-      "urgency": "high"
-    },
-    {
-      "name": "Joe Wesley",
-      "deal": " — McMinnville Plaza",
-      "daysSinceContact": 13,
-      "lastAction": "Email from Rainer, James: 1100 Smithville Hwy - McMinnville Plaza",
       "urgency": "high"
     },
     {
@@ -8045,13 +8046,6 @@
       "deal": "UPS Store Franchisee — McMinnville Plaza",
       "daysSinceContact": 8,
       "lastAction": "Email from Jon Petty: Fwd: McMinnville UPS Store Lease Execution",
-      "urgency": "high"
-    },
-    {
-      "name": "Joey",
-      "deal": " — Maple Row Shopping Center",
-      "daysSinceContact": 8,
-      "lastAction": "Punit asked Joey for a lease update; Joey said he would make the call after Ashb",
       "urgency": "high"
     },
     {
