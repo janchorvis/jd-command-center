@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T15:30:37.546587",
+  "lastUpdated": "2026-08-20T16:04:05.096664",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-20",
@@ -7133,6 +7133,28 @@
       "actions": [],
       "type": "Tenant Rep",
       "lastUpdate": "2026-08-19"
+    },
+    {
+      "id": "hamilton-back-nine-golf",
+      "name": "Back Nine Golf",
+      "property": "Town & Country Center / Hamilton, OH",
+      "status": "Christopher Fleeger / Morrow Hill brought a national Back Nine Golf simulator requirement for 2,000-3,000 SF in Hamilton. The concept requires at least 10.5 feet clear height and 22 feet minimum suite width; Christopher attached the brand deck and asked whether Town & Country or another area space can accommodate it.",
+      "stage": "Contact Made",
+      "nextStep": "Confirm whether an available Town & Country suite meets the 10.5-foot clear-height and 22-foot width requirements, then reply to Christopher with fit and availability.",
+      "priority": "medium",
+      "contacts": [
+        "Christopher Fleeger (Morrow Hill)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-08-20",
+          "event": "Christopher Fleeger submitted Back Nine Golf's 2,000-3,000 SF Hamilton requirement with 10.5-foot clear-height and 22-foot minimum-width criteria.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-08-20"
     }
   ],
   "droppedBalls": [
