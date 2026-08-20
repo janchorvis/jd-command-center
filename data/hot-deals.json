@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T10:30:33.599901",
+  "lastUpdated": "2026-08-20T11:05:39.887899",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-20",
@@ -3431,7 +3431,7 @@
       "property": "Shelbyville IN former Big Lots",
       "status": "Seth Biggerstaff / Veritas asked whether the 40,000 SF Shelbyville box is still available because they are touring with TJX soon. Jacob replied that it is still available but Anchor is working on redevelopment options for the building/parcel and asked whether TJX needs 20,000-25,000 SF.",
       "stage": "Trading Terms",
-      "nextStep": "Watch for Seth/TJX size/use response while continuing Dutch Bros, ALTA, Wash N Roll, and broader redevelopment economics work.",
+      "nextStep": "Reply to Josh Koone with Dutch Bros parcel-review status and progress on other users; continue ALTA/topography/private-utility and redevelopment coordination.",
       "priority": "high",
       "contacts": [
         "Paul Gold (Echo Retail)",
@@ -3455,6 +3455,11 @@
         "Seth Biggerstaff (Veritas Realty)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-20",
+          "event": "Josh Koone / Kimley-Horn followed up asking whether Dutch Bros responded on its parcel and whether conversations with other users progressed.",
+          "type": "email"
+        },
         {
           "date": "2026-08-14",
           "event": "Email from Chain Store Age: DayBreaker: Coach parent wraps up big year; Indochino, Bealls detail store expan",
@@ -4069,15 +4074,21 @@
       "id": "wilson-pike-parker-music-studio",
       "name": "Parker G. / music studio",
       "property": "312A Wilson Pike Circle",
-      "status": "Crexi activity: Brittany D. opened/downloaded the brochure for 312A Wilson Pike Circle.",
+      "status": "New Crexi activity: Alex B. downloaded/opened the 312A Wilson Pike Circle brochure on 2026-08-20, joining the existing Wilson Pike prospect collision set.",
       "stage": "Contact Made",
-      "nextStep": "Jacob/Adam should decide whether to follow up through Crexi and capture contact details/use, while keeping the Mission Pet Health tour collision map in mind.",
-      "priority": "medium",
+      "nextStep": "Jacob/Adam should decide whether to follow up with Alex B. through Crexi and capture contact details, use, and square-footage need before promising availability.",
+      "priority": "high",
       "contacts": [
         "Parker G.",
-        "Brittany D. (Crexi activity)"
+        "Brittany D. (Crexi activity)",
+        "Alex B. (Crexi activity)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-20",
+          "event": "Alex B. downloaded/opened the 312A Wilson Pike Circle brochure on Crexi.",
+          "type": "lead"
+        },
         {
           "date": "2026-08-06",
           "event": "Crexi brochure activity: Brittany D. opened/downloaded 312A Wilson Pike Circle brochure.",
