@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T11:30:37.253428",
+  "lastUpdated": "2026-08-20T12:04:06.694500",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-20",
@@ -5827,9 +5827,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike",
-      "status": "Aaron Sommer/Newmark has a client needing 120 parking spaces. Adam estimates about 27 existing spaces with room for roughly 12 more, leaving the site far short of the requirement.",
+      "status": "Aaron Sommer/Newmark confirmed the 120-parking-space prospect's use is warehouse and office. Jacob told Aaron the 120-space requirement may be a stretch but parking from the neighboring building may make the opportunity worth evaluating.",
       "stage": "LOI",
-      "nextStep": "Jacob should respond to Aaron that the site appears to support only about 39 spaces even with the identified expansion area, unless a materially different parking solution exists.",
+      "nextStep": "Evaluate whether the warehouse/office use fits 312 Wilson Pike and whether a credible shared/expanded parking plan can approach the 120-space requirement before advancing the prospect.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -5898,6 +5898,11 @@
         {
           "date": "2026-08-20",
           "event": "Adam estimated about 27 existing parking spaces plus room for roughly 12 more after Jacob asked him to evaluate Aaron Sommer's 120-space requirement.",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-20",
+          "event": "Aaron Sommer confirmed the client needing 120 parking spaces is a warehouse and office user.",
           "type": "email"
         },
         {
