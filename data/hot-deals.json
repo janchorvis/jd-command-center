@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T12:30:33.418564",
+  "lastUpdated": "2026-08-20T13:03:42.569713",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-20",
@@ -2288,10 +2288,15 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Tenant/franchisor accepted most landlord counsel changes; Jacob routed the remaining redline/rider edits to Ashby for quick legal pass and told Joey they are about there. Jacob also sent Joey the commission agreement revisions with Anchor's 3%/3% split posture.",
-      "nextStep": "Wait for Ashby's legal pass on rider edits, then prep lease for execution; watch Joey commission-agreement response.",
+      "status": "Ashby approved the primary-use fix for the exclusive language; Jacob returned the single remaining lease/rider modification to Joey. Joey has now asked directly whether the corporate rider is done.",
+      "nextStep": "Confirm to Joey that the primary-use change was made in both the lease and rider, obtain tenant/franchisor confirmation, then prep execution copies.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-20",
+          "event": "Ashby approved Jacob's primary-use solution; Jacob returned the remaining lease/rider change, and Joey followed up asking whether the corporate rider is complete.",
+          "type": "email"
+        },
         {
           "date": "2026-08-19",
           "event": "Tenant/franchisor accepted most landlord revisions; latest Great Greek clean/redline lease package sent back for landlord review. Joey separately chased commission agreement.",
@@ -2585,10 +2590,15 @@
       "id": "evansville-easterseals",
       "tenant": "Easterseals Rehabilitation",
       "property": "Shelbyville / Harrison / Evansville former Big Lots package",
-      "status": "Vendors Village call has moved to Monday 2026-08-17 at 12:00 PM ET; Adam confirmed the time and Matt Jeffery acknowledged. Anchor still needs principal-meeting posture/economics ready before the call.",
-      "nextStep": "Prepare sale-vs-lease economics and call posture before Monday noon ET Vendors Village call.",
+      "status": "Vendors Village followed up after the 8/17 call asking for purchase prices by property and the lease structures that would accompany each sale.",
+      "nextStep": "Jacob/Adam/Micah need to finalize package-level and property-by-property sale pricing plus lease economics before responding to Matt Jeffery.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-20",
+          "event": "Matt Jeffery followed up asking for purchase prices per property and the leases that would come with each Vendors Village acquisition.",
+          "type": "email"
+        },
         {
           "date": "2026-08-14",
           "event": "Adam confirmed Vendors Village call for Monday 12:00 PM ET; Matt Jeffery acknowledged.",
@@ -2675,7 +2685,8 @@
         "Adam Heston (Anchor)",
         "Matt Jeffery (Vendors' Village, 502-819-6164)",
         "Matthew Jeffery (Vendors' Village)",
-        "Adam Heston"
+        "Adam Heston",
+        "Matt Jeffery (Vendors Village)"
       ],
       "stage": "Trading Terms",
       "stageOverride": "Trading Terms"
