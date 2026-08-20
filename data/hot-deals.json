@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T08:06:18.255710",
+  "lastUpdated": "2026-08-20T09:30:33.354922",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-20",
@@ -5430,6 +5430,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-08-20",
+          "event": "Email from Jordan Hollander: 🏨  67% of Rooms Now Book Inside 30 Days",
+          "type": "email"
+        },
+        {
           "date": "2026-08-17",
           "event": "Email from Jordan Donaldson: Accepted: Jacob + Jordan Lunch: Eastern Peak @ Tue Aug 18, 2026 11am - 12pm (CDT",
           "type": "email"
@@ -5869,6 +5874,11 @@
         "Alex B. (Crexi brochure activity)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-20",
+          "event": "Email from Sommer, Aaron: 312 Wilson Pike Cir",
+          "type": "email"
+        },
         {
           "date": "2026-08-20",
           "event": "Email from Alex B.: Alex B. opened brochure on 312A Wilson Pike Circle",
