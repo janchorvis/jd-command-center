@@ -1,14 +1,19 @@
 {
-  "lastUpdated": "2026-08-19T21:14:30.686144",
+  "lastUpdated": "2026-08-20T07:15:45.086329",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
-    "date": "2026-08-19",
-    "greeting": "Good evening, Jacob. You have 23 overdue items.",
+    "date": "2026-08-20",
+    "greeting": "Good morning, Jacob. You have 23 overdue items.",
     "meetings": [
       {
-        "time": "7:30 AM",
-        "title": "JD + JD Phone Call",
-        "dealContext": "Stage: Contact Made | Crexi dashboard activity only: Will W. clicked the Maple Row phone number on 8/1… | Next: Jacob/Adam decide whether to follow up through Crexi/contact path and capture phone/email/use/size."
+        "time": "12:00 AM",
+        "title": "Lunches with Leaders: Clay Stauffer",
+        "dealContext": "Stage: Contact Made | Caroline A. requested availability, pricing, and viewing arrangements for Hickor… | Next: Jacob needs to handle/send the suggested Crexi reply manually; no Gmail draft was created."
+      },
+      {
+        "time": "6:00 AM",
+        "title": "West End Men’s Bible Study",
+        "dealContext": "Stage: Contact Made | Tanner Sanford / Matthews shared an off-market shopping center opportunity. Matt… | Next: Jacob/Carson decide whether to review the rent roll and pursue an off-market offer."
       },
       {
         "time": "8:45 AM",
@@ -16,19 +21,14 @@
         "dealContext": null
       },
       {
-        "time": "12:15 PM",
-        "title": "Lunch: Jacob Delk x Nolan Ray",
+        "time": "11:30 AM",
+        "title": "Lunch: Jacob Delk x Joe Cavicchi",
         "dealContext": null
       },
       {
-        "time": "5:00 PM",
-        "title": "Anchor Recycling Bins",
-        "dealContext": null
-      },
-      {
-        "time": "5:00 PM",
-        "title": "Anchor Trash Cans",
-        "dealContext": null
+        "time": "4:00 PM",
+        "title": "2026 DL Connect - Kick-Off Event",
+        "dealContext": "Stage: Trading Terms | Lease comments are back. Jacob thinks most are non-substantive and Micah wants o… | Next: Send comments to Ashby, get on the phone Wed/Thu/Fri, turn one more draft, and pressure the tenant to sign."
       }
     ],
     "priorities": [
@@ -8190,7 +8190,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-08-19T21:09:47",
+    "generatedAt": "2026-08-20T07:15:45",
     "source": "active-tasks",
     "yourPlate": [
       {
@@ -10038,7 +10038,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-08-19T21:09:47",
+    "generatedAt": "2026-08-20T07:15:45",
     "source": "active-tasks",
     "items": [
       {
