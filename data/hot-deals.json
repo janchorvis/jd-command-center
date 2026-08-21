@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T15:13:20.421901",
+  "lastUpdated": "2026-08-21T15:13:28.073595",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-21",
@@ -7130,6 +7130,11 @@
         "Tyler Riley (Rubicon CRE)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-15",
+          "event": "Email from Tyler Riley: 14001 Highway 43 - Franklin Center (Russellville, AL)",
+          "type": "email"
+        },
         {
           "date": "2026-08-14",
           "event": "Jacob asked for a response draft to Tyler Riley's Russellville outparcel/QSR inquiry for leasing meeting review.",
