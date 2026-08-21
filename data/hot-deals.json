@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T14:31:02.254206",
+  "lastUpdated": "2026-08-21T15:03:17.228613",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-21",
@@ -3366,9 +3366,9 @@
       "id": "smart-led-highland",
       "name": "Smart LED TN LLC",
       "property": "Highland Ave Jackson TN / Hickory Village / 2151 Highland",
-      "status": "Mathison replied that he is fine with Amin/Smart LED receiving 30 extra free-rent days and asked whether it changes the expiration date.",
+      "status": "Mathison drafted a first amendment for Smart LED rather than redlining the executed lease and asked Jacob whether the amendment works, subject to city approval.",
       "stage": "Lease Signed",
-      "nextStep": "Jacob/PM need to confirm lease-date mechanics, paperwork for the extra 30 days, tenant portal/setup link to meraguddu1@gmail.com, and deposit/payment status.",
+      "nextStep": "Jacob needs to review Mathison's Smart LED first amendment and confirm the proposed amendment approach and city-approval condition before it moves forward.",
       "priority": "high",
       "contacts": [
         "Amin Lakhani (Smart LED TN LLC) - smartledtn@gmail.com - 901-907-2646",
@@ -3384,6 +3384,11 @@
         "Amin Lakhani"
       ],
       "timeline": [
+        {
+          "date": "2026-08-21",
+          "event": "Mathison sent a Smart LED first-amendment PDF and Google Doc, recommending an amendment instead of a lease redline and asking Jacob for approval subject to the city.",
+          "type": "slack"
+        },
         {
           "date": "2026-08-12",
           "event": "Mathison okayed Smart LED 30-day free-rent concession in concept and asked if expiration date changes.",
@@ -3798,9 +3803,9 @@
       "id": "mcminnville-regional-transit",
       "name": "Regional transit service / Craig Hughes",
       "property": "McMinnville Plaza",
-      "status": "Clay liked Adam's proposed Suite 129 layout, wants to run it past the tenant, and if they are serious then reach out to contractor for buildout pricing. Layout remains concept-level and needs tenant validation before quote/LOI response.",
+      "status": "Adam estimated Suites 115-119 at 7,023 SF from the survey measurements and sent Jacob an updated tenant-layout image for the McMinnville office proposal.",
       "stage": "LOI",
-      "nextStep": "Run Adam's McMinnville Suite 129 layout past tenant, then get contractor pricing if tenant is serious.",
+      "nextStep": "Jacob should use 7,023 SF for the proposal only after reconciling it against the current layout/field conditions, then move the tenant response and buildout-pricing path forward.",
       "priority": "high",
       "contacts": [
         "Craig Hughes (Upper Cumberland Commercial)",
@@ -3811,6 +3816,11 @@
         "Emma Bray"
       ],
       "timeline": [
+        {
+          "date": "2026-08-21",
+          "event": "Adam estimated Suites 115-119 at 7,023 SF from survey measurements and sent an updated layout image for Jacob's office proposal.",
+          "type": "slack"
+        },
         {
           "date": "2026-08-14",
           "event": "Adam sent proposed McMinnville tenant-layout PDFs for Suite 129/regional-transit LOI; assumptions need verification before buildout quote/LOI response.",
