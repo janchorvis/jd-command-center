@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T12:30:46.603717",
+  "lastUpdated": "2026-08-21T13:30:57.770002",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-21",
@@ -5482,6 +5482,16 @@
         "Matt Jeffery (Vendors Village)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-21",
+          "event": "Email from John M.: John M. opened brochure on Big Lots - Shelbyville, IN",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-21",
+          "event": "Email from Crexi: Josie L. clicked phone number on Big Lots - Shelbyville, IN",
+          "type": "email"
+        },
         {
           "date": "2026-08-20",
           "event": "Email from Jordan Hollander: 🏨  67% of Rooms Now Book Inside 30 Days",
