@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T07:16:33.617803",
+  "lastUpdated": "2026-08-21T07:17:01.351682",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-21",
@@ -8284,21 +8284,21 @@
       "details": {
         "lastEmailDate": "2026-08-19",
         "lastPipedriveDate": "2026-04-27",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 115
+        "emailDaysAgo": 2,
+        "pipedriveDaysAgo": 116
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "pipedrive-active-no-email",
-      "message": "Pipedrive updated 8/20, last email was 3/11 (162d ago)",
+      "message": "Pipedrive updated 8/20, last email was 3/11 (163d ago)",
       "severity": "medium",
       "details": {
         "lastEmailDate": "2026-03-11",
         "lastPipedriveDate": "2026-08-20",
-        "emailDaysAgo": 162,
-        "pipedriveDaysAgo": 0
+        "emailDaysAgo": 163,
+        "pipedriveDaysAgo": 1
       }
     }
   ],
