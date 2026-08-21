@@ -1,12 +1,50 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-08-20 9:10 PM CDT
+Last updated: 2026-08-21 1:24 PM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T371 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T389 -->
 
 ## ACTIVE — Jacob needs to do these
 
 ### This Week (week of 5/11)
+
+- T388: Reach out to Crunch Fitness and Planet Fitness for Gastonia — Contact Crunch Fitness and Planet Fitness regarding the Gastonia opportunity and determine interest, space requirements, and next steps. Source: Discord #tasks message 1540429512225857546. [asana: 1217731236897502] [source: discord:1540429512225857546]
+
+- T371: Renew Global Entry — Renew Jacob's Global Entry membership. Screenshot shows PASSID 156768973, expiration April 3, 2027, and renewal eligibility beginning April 3, 2026. Source: Discord #tasks message 1540345418460692652. [asana: 1217718560842039] [source: discord:1540345418460692652]
+### Newly canonicalized from Asana reconciliation (2026-08-21)
+
+- T386: Hermes supply-chain security findings / former OpenClaw security-audit task — Current `hermes security audit` on 2026-08-21 found two PyNaCl 1.5.0 / libsodium findings (GHSA-mrfv-m5wm-5w6w moderate; PYSEC-2026-3002 unknown) across 134 scanned components. Do not run a Hermes update or dependency mutation without Jacob's explicit approval; next action is to determine the dependency owner and prepare a reversible remediation plan. [asana: 1216532868829587] [source: Hermes security audit 2026-08-21]
+
+- T387: Identify terminated Google Workspace account before Drive migration/closure — The open Asana item does not identify which account should be migrated to Micah's Drive or the retention scope. Waiting on Jacob to identify the user/account and confirm what must be retained before any Google Admin mutation. [asana: 1210804587468126] [source: Asana Big Board reconciliation 2026-08-21]
+
+- T372: Adam business cards — Distinct procurement/onboarding deliverable; no canonical T### covers the business-card order, but current status should be checked at the Adam 1:1. [asana: 1216021288290399] [source: Asana Big Board reconciliation 2026-08-21]
+
+- T373: add software to software sheet — Clear software-inventory deliverable remains actionable and has no existing canonical T### home. [asana: 1216581531572924] [source: Asana Big Board reconciliation 2026-08-21]
+
+- T374: Add teeth to the default sections for Grease. — Distinct reusable lease/default-language obligation; legal/owner direction is required, but no existing T### is coextensive. [asana: 1211025112856959] [source: Asana Big Board reconciliation 2026-08-21]
+
+- T375: Add this into the onboarding checklist for G Suite: create a ticket to support@nashvilleithealth.com when you want to add/delete/change things in the Google Admin workspace — Clear Google Workspace onboarding-checklist change; no existing canonical T### tracks this deliverable. [asana: 1216023774586715] [source: Asana Big Board reconciliation 2026-08-21]
+
+- T376: Create a "lease checklist" before we sign — Clear reusable pre-sign lease-checklist deliverable; existing deal-specific lease tasks are not coextensive. [asana: 1208938992829936] [source: Asana Big Board reconciliation 2026-08-21]
+
+- T377: For restaurants, we are going to manage the grease and bill it back — Distinct portfolio-wide grease-management/billback policy obligation; no existing T### is coextensive, though owner/legal direction is required. [asana: 1211025112856963] [source: Asana Big Board reconciliation 2026-08-21]
+
+- T378: new vacancy checklist. send to the neighboring suites. Do we have centers nearby that has a tenant that could work? — Clear reusable vacancy/neighbor-notice prospecting workflow with no existing canonical T### home. [asana: 1212911977647697] [source: Asana Big Board reconciliation 2026-08-21]
+
+- T379: Parma heights OP — Current review interprets OP as a Parma Heights outparcel and identifies a concrete context-gathering action; existing Parma T### items cover different obligations. [asana: 1216371249868550] [source: Asana Big Board reconciliation 2026-08-21]
+
+- T380: PCON feedback form - Joe Bulovas — This is the surviving Joe Bulovas feedback obligation; no person-specific canonical T### exists. [asana: 1214757003586691] [source: Asana Big Board reconciliation 2026-08-21]
+
+- T381: PCON feedback: Daniel Martinez — Distinct Daniel Martinez feedback obligation with no person-specific canonical T###. [asana: 1214837591207357] [source: Asana Big Board reconciliation 2026-08-21]
+
+- T382: PCON feedback: Griffin Hodge — Distinct Griffin Hodge feedback obligation with no person-specific canonical T###. [asana: 1213827607899324] [source: Asana Big Board reconciliation 2026-08-21]
+
+- T383: PCON feedback: Zack Hubiak — The May request was separately created from a new feedback email; T112 is an earlier April request with another GID, so recurrence—not identity—is supported. [asana: 1214660591787083] [source: Asana Big Board reconciliation 2026-08-21]
+
+- T384: Roofing contractor language. Add some teeth to the default — Distinct roofing/default-language policy deliverable with no coextensive T###; owner/legal direction is still required. [asana: 1211025112856957] [source: Asana Big Board reconciliation 2026-08-21]
+
+- T385: Send Evansville to Hair Depot — Clear tenant-specific Evansville outreach/package obligation; no existing T### covers Hair Depot. [asana: 1216608490808075] [source: Asana Big Board reconciliation 2026-08-21]
+
 
 - T369: PCON feedback: Joe Cavicchi — PCON VP Membership requested Jacob share feedback after meeting prospective member Joe Cavicchi. Jarvis created and verified a Big Board Asana task, tagged the Gmail thread `7: actioned`, restored it to inbox, and left it unread for visibility. Jacob needs to complete the feedback form. [asana: 1217698579625520] [gmail thread/message: 1a020ce149438d7f] [source: Communication Triage 2026-08-20 4 PM] [project: PCON]
 

@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-21T15:03:17.228613",
+  "lastUpdated": "2026-08-21T15:13:20.421901",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-21",
-    "greeting": "Good morning, Jacob. You have 20 overdue items.",
+    "greeting": "Good afternoon, Jacob. You have 19 overdue items.",
     "meetings": [
       {
         "time": "12:00 AM",
@@ -59,16 +59,12 @@
     "priorities": [
       "Sevierville: inspect former Mattress suite and call tenant on half-suite option (overdue — due 2026-08-10)",
       "PCON feedback: Jack Lloyd (overdue — due 2026-08-13)",
-      "Set up Fantasy Football thread and Sleeper draft prep (overdue — due 2026-07-30)",
       "PCON feedback: Jeffrey Shoopman (overdue — due 2026-07-29)",
       "Wilson Pike basketball: confirm interest before structural spend (overdue — due 2026-07-15)",
       "Parma heights OP (overdue — due 2026-07-07)",
       "Salvage value for Shelbyville if we raze it? (overdue — due 2026-06-26)",
       "Adam business cards (overdue — due 2026-06-24)",
-      "Sevierville: decide former Mattress suite condition/bathroom posture and tenant call path.",
-      "Shelbyville: review Renasant note-mod terms alongside the next layout/economics pass.",
-      "Hamilton: verify whether a suite fits Back Nine Golf's height and width requirements before quoting economics.",
-      "Wilson Pike: confirm basketball-user commitment before structural spend."
+      "Reach out to Tardy about resources for seeking feedback  (overdue — due 2026-06-24)"
     ]
   },
   "pipelineDeals": [
@@ -8339,7 +8335,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-08-21T07:33:51",
+    "generatedAt": "2026-08-21T15:13:20",
     "source": "morning-briefing",
     "yourPlate": [
       {
@@ -8947,7 +8943,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-08-21T07:33:51",
+    "generatedAt": "2026-08-21T15:13:20",
     "source": "morning-briefing",
     "items": [
       {
