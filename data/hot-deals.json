@@ -7934,6 +7934,13 @@
       "property": "Highland",
       "lastSeen": "Copy of 2026-06-29 - Leasing Meeting",
       "note": "Dropped from prep doc. Last status: We went back and forth a few times on lease language this week. The current step is for him to go tour it and walk through it with a contractor. Same as above, we will get a date from them and keep pushing him while there is urgency"
+    },
+    {
+      "id": "russellville",
+      "name": "Russellville",
+      "property": "Russellville",
+      "lastSeen": "Copy of 2026-07-20 - Leasing Meeting",
+      "note": "Dropped from prep doc. Last status: -A local entrepreneur wants to do a barber shop/money transfer  in the 771 sq ft suite. We have received his financials, building out drawing, and just waiting on a few other answers about his biz plan. He would basically take the space as is. (We have to fix a toilet and get HVAC running, but both of these we would have to do for anybody.)  Wants to move in in August, 3 year term —---------------------------------------- Haven’t heard back from him at all i have called and sent a message every day almost ( potentially deported) Guessing i wouldnt include russellville i have no prospects and no update from what i know Pell City -PT deal - The lease is with their COO, who was out of town last week, and the broker said it should get signed early this week. - We had a call with one of the home health groups and their construction team to see how we could value engineer their work clutter to make it work for both sides. Klay is working with a new contractor to get a revised quote.- —------------------------------------------ Not sure if we have heard back or reached out to klay mentioned that he connected with a city planner sent him the work letter but havent heard back yet"
     }
   ],
   "staleContacts": [
@@ -8300,7 +8307,7 @@
   "actionItems": [
     {
       "title": "Misc",
-      "detail": "-Mac Bid COO -Jacob Caddy"
+      "detail": "- Hope Smiles. I am meeting Jacob over at the Thompson lane building this afternoon so he can ballpark some numbers - asset edge"
     }
   ],
   "crossRefAlerts": [
@@ -8575,80 +8582,69 @@
     ]
   },
   "prepDocDiff": {
-    "generatedAt": "2026-07-17T15:00:34.594095",
-    "thisWeek": "Copy of  2026-07-12 - Leasing Meeting",
-    "lastWeek": "Copy of 2026-06-29 - Leasing Meeting",
+    "generatedAt": "2026-08-21T15:12:47.382166",
+    "thisWeek": "2026-08-03 - Leasing Meeting",
+    "lastWeek": "Copy of 2026-07-20 - Leasing Meeting",
     "new": [
-      {
-        "name": "Montgomery",
-        "property": "Montgomery",
-        "status": "-I need your thoughts on a deal in Montgomery and how you'd like to think through it in light of a disposition. There is a martial arts studio who is getting kicked out of their building and needs a place ASAP. Full details below but need your thoughts on doing a ‘cheap’ deal now prior to selling vs. keeping it vacant. I would say market rent for their space is around $8, and they sent us an offer at $6. Is it better to keep it vacant so you don't give false signals on what the leasing market is really like, or is it better to get the added bump in NOI (~$350,000 in value @ 8.5% cap)? Also, I think there is some room in that rent, but also their financials don't give me the utmost confidence that they can support much more. Karate Studio from across the street wants to move in ASAP, taking the 5,100 sq ft space AS-IS ($6/PSF) targeting July 20 commencement Terms: 3-yr lease + 3-yr option, 2% annual increases and will take it as-is. Weak financials, just under $200K in sales last year, and recent credit score wasn't great. Going through divorce. Collecting personal/business statements now, but will take it as-is. They basically would just be repainting and laying down their mats, so not much work needed. - Have a list of contacts that we are about to reach out to about backfilling Dollar General. Same with the out parcel. - Got a new flyer done and have a list of contacts that we are about to send them all to. - Potentially adding this chirs barbershop but I don’t see it coming through asking for 20k",
-        "nextStep": ""
-      },
       {
         "name": "Pell City",
         "property": "Pell City",
-        "status": "-Traded lease comments with the PT deal last week. Right after this meeting, I need to finalize their last revisions, and they said they would circulate for execution on Wednesday. - Talked with them and our quote was super high but it included a bunch of things that we talked over and might be able to just take something as is and lower the cost.",
+        "status": "-PT deal - I followed up with the broker last week, and he said the COO had still been out, but he would get us an update. I told him we need to finalize it soon, as we are trying to coordinate with other deals",
         "nextStep": ""
       },
       {
-        "name": "Sevierville",
-        "property": "Sevierville",
-        "status": "Cosmoprof sent the LOI back late last week after getting their contractor on site for a survey. Looks like minimal comments, and we should be moving to a lease soon. - LOI is in their court",
-        "nextStep": ""
-      },
-      {
-        "name": "Maple Row",
-        "property": "Maple Row",
-        "status": "Joey got me lease comments back last Friday - He said they had to switch lawyers halfway through, which is why it took so long. Hoping we can move that one towards execution later this week or next. Finished going through there red lines and got it back to them. They had quite a few redlines Madison -Tony shot me an email and said that a new director is moving to Nashville as a part of the new office and that they want to take another look at Madison. Tony said he would look at the LOI and let us know.",
+        "name": "New Memphis",
+        "property": "New Memphis",
+        "status": "Reached out to a bunch of brokers and let them know about our open office space and that we're willing to give them some sort of fee if they send us any clients that don't work out for them. (Adam)",
         "nextStep": ""
       }
     ],
     "dropped": [
       {
-        "name": "Shelbyville initial traction",
-        "property": "Shelbyville initial traction",
-        "lastStatus": ""
+        "name": "Russellville",
+        "property": "Russellville",
+        "lastStatus": "-A local entrepreneur wants to do a barber shop/money transfer  in the 771 sq ft suite. We have received his financials, building out drawing, and just waiting on a few other answers about his biz plan. He would basically take the space as is. (We have to fix a toilet and get HVAC running, but both of these we would have to do for anybody.)  Wants to move in in August, 3 year term —---------------------------------------- Haven’t heard back from him at all i have called and sent a message every day almost ( potentially deported) Guessing i wouldnt include russellville i have no prospects and no update from what i know Pell City -PT deal - The lease is with their COO, who was out of town last week, and the broker said it should get signed early this week. - We had a call with one of the home health groups and their construction team to see how we could value engineer their work clutter to make it work for both sides. Klay is working with a new contractor to get a revised quote.- —------------------------------------------ Not sure if we have heard back or reached out to klay mentioned that he connected with a city planner sent him the work letter but havent heard back yet"
+      }
+    ],
+    "progressed": [
+      {
+        "name": "McMinnville Plaza",
+        "property": "McMinnville Plaza",
+        "from": "- You are on this thread but UPS is waiting on the bank and said it typically takes 5-7 business days. They said they want to make sure it's officially approved before signing this last wednesday so we should be receiving it this week. - karate studio  in the basement  looking to get an adjacent suite and do month to month, owner was out of town last week but said he would like to add it asap for kids camp. Just keeping you in the loop. —------------------------------------------- Lease has been sent to wingstop Any update on UPS Karate studio said they are waiting on the school board about transportations but looks like its going to be september first if it gets approved.",
+        "to": "-UPS: I haven't heard any updates from Petty on them signing, so I will reach out to him this week -WingStop: I had a call with Sarah last week, and she is making a few tweaks based on our call and will send it back to me. If I had to estimate, we would probably get this one executed in the next few weeks as well. She told me to tell you hello as well, Micah. - Reached out to local brokers in the area. No real leads (Adam)"
       },
       {
-        "name": "Smart LED",
-        "property": "Highland",
-        "lastStatus": "We went back and forth a few times on lease language this week. The current step is for him to go tour it and walk through it with a contractor. Same as above, we will get a date from them and keep pushing him while there is urgency"
+        "name": "Montgomery",
+        "property": "Montgomery",
+        "from": "- Got a new DG flyer done (Bell Plaza Flyer) and have a list of contacts that we are about to send them all to. We will have Yas tweak it for the OP and also send that one out —---------------------------------------- Did some reach out but nothing really worth mentioning. Dollar tree said they wouldnt be interested. Harrison Received some inbound leads,brooker for Crunch fitness reached out said they are a private equity group.",
+        "to": "I had a barbershop come and view the space. They own two other spaces in Georgia. Waiting on their financials, they have toured the space. They would be looking to move in the end of August. https://exclusiveblendz.com/\t(Adam) Harrison - Reached out to local brokers in the area. Got a few responses but nothing real. Have some calls plan with a few brokers to talk about the current market in the area. (Adam)"
       }
     ],
-    "progressed": [],
-    "stalled": [
-      {
-        "name": "Hamilton",
-        "property": "Dutch Bros / GMX Sale",
-        "status": "Set to close today pending the plat being recorded is my understanding",
-        "weeksUnchanged": 1
-      }
-    ],
+    "stalled": [],
     "updated": [
       {
         "name": "Five Below",
         "property": "Malone Plaza",
-        "from": "Ashby got me her comments for the lease and then went out of town, but I still need to go through them. High priority for this week 312 Wilson Pike -Told you this Friday but the family office deal is dead -We have LOIs for portions of the space, but related to them, we are currently prioritizing deals for the whole building. -The tour with Noble is this afternoon. We will keep you posted.",
-        "to": "Ashby and I sent the lease comments back to them last Monday. Clay has been moving full steam ahead with their construction team. They are working on their plans, and Clay has sent them our adjusted renderings for the facade."
-      },
-      {
-        "name": "Evansville Big Lots",
-        "property": "Evansville Rehab",
-        "from": "I followed up with them last week for an update, but have not heard anything yet. Fingers crossed",
-        "to": "Unfortunate news. Late last week he told me that they needed to pass, as they couldn't make the numbers work. I've tried to get more color from him, but that's all I know right now"
-      },
-      {
-        "name": "McMinnville Plaza",
-        "property": "McMinnville Plaza",
-        "from": "-Clay is helping me coordinate on the CAD drawings. It is looking like we will probably have to send out someone to draw the spaces.",
-        "to": "-Petty just responded yesterday about comments to the addendum. They said he said that they would accept minimal comments, but also that he has really seen any of them ever come into play. I will do one last swoop over it, but we are about there to execute"
+        "from": "-I will reach out to them today and get an update on Lease comments. -We can talk through the numbers for Studio. I think the estimations for the small shops are pretty accurate. The main variation will be what types of deals get done there, aka National versus mom n pop. —----------------------------------------- I am unaware of any updates to this 312 Wilson Pike -I was not able to connect with Noble last week so will this week. We have had some more tours/interest but still working on getting all the information from them: - Supposed to receive a LOI from a clothing manufacturing group for the whole build today - tour planned with Safelite to take the back and brokers other client Futbol would take the front. Wednesday. —-------------------------------------------- -broker informateed us that safelite wouldnt be ablet to make it this week and that they would be in town in two weeks. - received an LOI and financials from a group we talked about before",
+        "to": "-I had a call with Ashby last week, and we sent the lease back to them. There is a small discrepancy on what the premises' square footage should be, so we are working through that right now. It seems like we are not far off from execution"
       },
       {
         "name": "Shelbyville",
         "property": "Former Big Lots",
-        "from": "I think you are pretty much in the loop on all of this. The plan this week is to get things moving with Kimley Horn and to do a bunch of outreach on C-Stores and other users that they told us about. Maple Row I've been in touch with Joey to get a better idea of when they are trying to get the store open. He told me he would have lease comments back early this week, so we will follow up and keep a high sense of urgency.",
-        "to": "-Reached out to a bunch of the C-Stores and car washes. Heard back from Casey's General Stores, Circle K, QuikTrip, Wash N Roll, Chick-fil-A. We can talk through the meeting, but here's a spreadsheet with more details."
+        "from": "Got the initial test fit back on Friday. This has Dutch Bros in the northwest corner, car wash on the east, and 2 multi-tenant/QSR buildings on the south. I have some thoughts that we can discuss.",
+        "to": "Dutch Bros exhibit Dutch Bros plus gas station Dutch Bros plus car wash"
+      },
+      {
+        "name": "Sevierville",
+        "property": "Sevierville",
+        "from": "Comso Prof - This one is heading to real estate committee on 7/29. —------------------------------------- Would we just keep this the same?",
+        "to": "Comso Prof - This was approved at REC and they are working on the lease. I talked with Mathison and then talked with the brokers about cosmo potentially going in the Radio Shack suite, but it would be too small for them."
+      },
+      {
+        "name": "Maple Row",
+        "property": "Maple Row",
+        "from": "They absolutely shredded the lease. I accepted the things that were easy to give and rejected the rest. Joey is going to set up a call so we can get through it with their attorney. My plan is just to take it myself, and then I’ll bring back any points that we need to discuss",
+        "to": "Great Greek - We had a call two weeks ago, and they sent me revised redlines last week. It is fairly nitty-gritty stuff (wording of landlord default sections, etc.), so I think I will just send it to Ashby so we can accept/reject items and be done with it."
       }
     ],
     "noChange": []
