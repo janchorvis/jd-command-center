@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T10:30:30.353101",
+  "lastUpdated": "2026-08-24T11:05:07.768446",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-24",
@@ -47,14 +47,19 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Five Below sign package approved by Anchor after Clay confirmed elevation height and agreed items looked correct; delivery dates and permit/TI-set authorization remain pending contractor guidance.",
+      "status": "Bill Castagna followed up again asking for the Anticipated Delivery Date and Outside Possession Date needed to finalize the Five Below lease body.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Provide Anticipated Delivery Date and Outside Possession Date after contractor input; route permit authorization letter / TI plan review.",
+      "nextStep": "Provide verified Anticipated Delivery Date and Outside Possession Date after contractor/ownership confirmation.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-08-24",
           "event": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (08434)",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-24",
+          "event": "Five Below pressed again for the two remaining delivery/possession dates.",
           "type": "email"
         },
         {
@@ -2290,10 +2295,15 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Ashby approved the primary-use fix for the exclusive language; Jacob returned the single remaining lease/rider modification to Joey. Joey has now asked directly whether the corporate rider is done.",
-      "nextStep": "Confirm to Joey that the primary-use change was made in both the lease and rider, obtain tenant/franchisor confirmation, then prep execution copies.",
+      "status": "Tricia Bernardo has a client seeking to secure the 2,500 SF space quickly and requested pricing and space details. Separately, Chris Crockett confirmed his requirement can flex from 2,500 to 4,000 SF after Jacob said Fox's is in late-stage lease execution and asked his size need.",
+      "nextStep": "Verify which Maple Row suite can actually be offered, then provide Tricia pricing/details and evaluate alternate space for Chris's 2,500-4,000 SF requirement.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-24",
+          "event": "Two live 2,500-4,000 SF requirements surfaced for Maple Row, including one client seeking to secure space quickly.",
+          "type": "email"
+        },
         {
           "date": "2026-08-20",
           "event": "Ashby approved Jacob's primary-use solution; Jacob returned the remaining lease/rider change, and Joey followed up asking whether the corporate rider is complete.",
@@ -2583,7 +2593,9 @@
         "Cheba Hut corporate",
         "Cavan McCann (tenant attorney)",
         "Punit Patel (Great Greek franchisee)",
-        "Punit Patel"
+        "Punit Patel",
+        "Tricia Bernardo (Holrob)",
+        "Chris Crockett"
       ],
       "stage": "Lease Draft & Review",
       "stageOverride": "Lease Draft & Review"
@@ -3446,10 +3458,10 @@
     {
       "id": "bealls-shelbyville-former-big-lots",
       "name": "Bealls",
-      "property": "Shelbyville IN former Big Lots",
-      "status": "Seth Biggerstaff / Veritas asked whether the 40,000 SF Shelbyville box is still available because they are touring with TJX soon. Jacob replied that it is still available but Anchor is working on redevelopment options for the building/parcel and asked whether TJX needs 20,000-25,000 SF.",
+      "property": "Shelbyville former Big Lots",
+      "status": "Paul Gold said Bealls and Five Below remain interested and asked whether Anchor still plans to demolish and pad out the site; he also offered to connect Jacob with his son Grant at Retail Live Nashville this week.",
       "stage": "Trading Terms",
-      "nextStep": "Reply to Josh Koone with Dutch Bros parcel-review status and progress on other users; continue ALTA/topography/private-utility and redevelopment coordination.",
+      "nextStep": "Confirm current redevelopment/demolition posture and respond on Bealls/Five Below; decide whether to meet Grant at Retail Live.",
       "priority": "high",
       "contacts": [
         "Paul Gold (Echo Retail)",
@@ -3470,9 +3482,15 @@
         "Matt Jeffery (Vendors' Village, 502-819-6164)",
         "Adam Heston (Anchor)",
         "Jordan Hooper (Wash N Roll)",
-        "Seth Biggerstaff (Veritas Realty)"
+        "Seth Biggerstaff (Veritas Realty)",
+        "Grant Gold"
       ],
       "timeline": [
+        {
+          "date": "2026-08-24",
+          "event": "Paul Gold reconfirmed Bealls and Five Below interest and asked for the current demolition/pad-out plan.",
+          "type": "email"
+        },
         {
           "date": "2026-08-20",
           "event": "Josh Koone / Kimley-Horn followed up asking whether Dutch Bros responded on its parcel and whether conversations with other users progressed.",
@@ -4547,8 +4565,8 @@
       "name": "Buena Vista",
       "property": "2433 Buena Vista Pike",
       "type": "Land/Development",
-      "status": "Crexi activity continues: Edward H. printed the page on 2433 Buena Vista Pike on 2026-08-12. No direct message/body or contact details were included beyond dashboard activity.",
-      "nextStep": "Jacob/Adam decide whether to follow up through Crexi/contact path and capture phone/email/use.",
+      "status": "Dionte Dukes / Property Wealth is screening the full 15.29-acre assemblage for an active Nashville multifamily buyer and asked for availability, pricing guidance, approved unit count (122 vs. 124), current site/civil/utility package, budget assumptions, and whether the multifamily component can be reworked as garden-style. Buyer targets land basis below roughly $15,000 per developable unit.",
+      "nextStep": "Confirm current availability, pricing, approved unit count and garden-style flexibility; send the current diligence package only after verifying the source documents.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
@@ -4565,11 +4583,17 @@
         "Peter Deprey (Pulte Land Acquisition Manager)",
         "Andrew Cannon (Holladay Ventures) <drew@holladayventures.com>",
         "Brian D. (Crexi activity)",
-        "Edward H. (Crexi activity)"
+        "Edward H. (Crexi activity)",
+        "Dionte Dukes (Property Wealth LLC)"
       ],
-      "priority": "medium",
+      "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-08-24",
+          "event": "Property Wealth surfaced an active multifamily buyer for the 15.29-acre Buena Vista assemblage with a sub-$15K/unit land-basis target.",
+          "type": "email"
+        },
         {
           "date": "2026-08-12",
           "event": "Crexi: Edward H. printed the 2433 Buena Vista Pike page.",
@@ -5864,10 +5888,10 @@
     {
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
-      "property": "312 Wilson Pike",
-      "status": "Aaron Sommer/Newmark confirmed the 120-parking-space prospect's use is warehouse and office. Jacob told Aaron the 120-space requirement may be a stretch but parking from the neighboring building may make the opportunity worth evaluating.",
+      "property": "312 Wilson Pike Circle",
+      "status": "Miller Fitts / JLL brought a veterinary group seeking about 4,000 SF, with flexibility up or down, and requested the flyer, LOD, rent and NNNs.",
       "stage": "LOI",
-      "nextStep": "Evaluate whether the warehouse/office use fits 312 Wilson Pike and whether a credible shared/expanded parking plan can approach the 120-space requirement before advancing the prospect.",
+      "nextStep": "Map the vet requirement against current competing Wilson Pike prospects and confirm available space, use compatibility, rent and NNN guidance before replying.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -5920,12 +5944,18 @@
         "KWC Assistant",
         "Skiptown Doggy Daycare",
         "Aaron Sommer (Newmark)",
-        "Alex B. (Crexi brochure activity)"
+        "Alex B. (Crexi brochure activity)",
+        "Miller Fitts (JLL)"
       ],
       "timeline": [
         {
           "date": "2026-08-24",
           "event": "Email from Fitts, Miller: 312 Wilson Pike Circle",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-24",
+          "event": "JLL surfaced a roughly 4,000 SF veterinary requirement for 312 Wilson Pike.",
           "type": "email"
         },
         {
