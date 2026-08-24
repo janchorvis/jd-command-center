@@ -1,58 +1,33 @@
 {
-  "lastUpdated": "2026-08-21T17:30:32.595193",
+  "lastUpdated": "2026-08-24T07:42:47.375922",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
-    "date": "2026-08-21",
-    "greeting": "Good afternoon, Jacob. You have 19 overdue items.",
+    "date": "2026-08-24",
+    "greeting": "Good morning, Jacob. You have 19 overdue items.",
     "meetings": [
       {
-        "time": "12:00 AM",
-        "title": "Weekly Report Due: See Notes",
+        "time": "6:00 AM",
+        "title": "Bible Study",
         "dealContext": null
       },
       {
-        "time": "12:00 AM",
-        "title": "Weekly Report Due: See Notes",
+        "time": "8:00 AM",
+        "title": "August Celebration",
         "dealContext": null
       },
       {
-        "time": "8:45 AM",
-        "title": "Leasing Morning Standup",
+        "time": "8:30 AM",
+        "title": "Monday Morning Meeting",
         "dealContext": null
       },
       {
-        "time": "9:00 AM",
-        "title": "Shout - Outs",
-        "dealContext": null
+        "time": "10:30 AM",
+        "title": "Leasing Meeting",
+        "dealContext": "96 active deals. 3 advanced this week (QT Nails→Lease sent for signature, Coaches Bargainz→Tenant welcome email sent, HopeSmiles). Top deals: Five Below (Lease Draft & Review), UPS Store Franchisee (LOI), Wingstop (Lease Draft & Review). 41 stale contacts need follow-up."
       },
       {
-        "time": "9:30 AM",
-        "title": "930 Prayer for Anchor ",
-        "dealContext": null
-      },
-      {
-        "time": "10:45 AM",
-        "title": "Jacob Heart Appt- dr. mark robbins",
-        "dealContext": null
-      },
-      {
-        "time": "12:00 PM",
-        "title": "Weekly Report - Fill out by 12 on Fridays",
-        "dealContext": null
-      },
-      {
-        "time": "12:00 PM",
-        "title": "NRM- Women's Life Recovery Graduation",
-        "dealContext": null
-      },
-      {
-        "time": "2:30 PM",
-        "title": "Delk + Adam 1:1",
-        "dealContext": null
-      },
-      {
-        "time": "4:30 PM",
-        "title": "Hideout with Ross",
+        "time": "11:30 AM",
+        "title": "Lunch: Delk X Micah (AI Discussion)",
         "dealContext": null
       }
     ],
@@ -8340,247 +8315,41 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-08-21T15:13:20",
-    "source": "morning-briefing",
+    "generatedAt": "2026-08-24T07:42:47",
+    "source": "active-tasks",
     "yourPlate": [
       {
         "id": "sweep-plate-1",
-        "text": "Sevierville Mattress suite — decide condition/bathroom economics and call tenant.",
+        "text": "Highland / Smart LED first-amendment review — Mathison Ingham asked Jacob to review the Smart LED first amendment on 2026-08-21. Jacob needs to review the amendment against the executed lease/post-execution posture, confirm economics and dates, and return comments or approval. No external reply or document mutation was made by Jarvis",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-2",
-        "text": "Jack Lloyd PCON feedback — overdue personal form.",
+        "text": "McMinnville Plaza Suites 115-119 7,023 SF estimate and layout review — Adam Heston sent a 7,023 SF estimate and layout image for Suites 115-119. Jacob/Adam/Clay need to verify suite configuration, current conditions, and field dimensions before using the estimate for marketing, pricing, or tenant commitments. Command Center was updated in commit `ccdc1df`; no external reply was sent",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-3",
-        "text": "Jeffrey Shoopman PCON feedback — overdue personal form.",
+        "text": "Reach out to Crunch Fitness and Planet Fitness for Gastonia — Contact Crunch Fitness and Planet Fitness regarding the Gastonia opportunity and determine interest, space requirements, and next steps. Source: Discord #tasks message 1540429512225857546",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       },
       {
         "id": "sweep-plate-4",
-        "text": "Favorite Things survey — complete personally.",
+        "text": "Renew Global Entry — Renew Jacob's Global Entry membership. Screenshot shows PASSID 156768973, expiration April 3, 2027, and renewal eligibility beginning April 3, 2026. Source: Discord #tasks message 1540345418460692652",
         "detail": "",
         "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-plate-5",
-        "text": "Russellville barber lease — decide whether to revive the held deal.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-plate-6",
-        "text": "Wilson Pike basketball — confirm commitment before structural spend.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-plate-7",
-        "text": "Adam quarterly conversations — lock dates during today's 1:1.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-plate-8",
-        "text": "Shawn Metzger PCON feedback — complete form or tell Shawn to resubmit.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-plate-9",
-        "text": "OpenAI security alert — confirm the Chicago iOS sign-in/new passkey was yours.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-plate-10",
-        "text": "Google security alerts — decide Carson-login and Micah-spoof containment.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-plate-11",
-        "text": "PCON Golf F+B contract — review/sign or delegate.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-plate-12",
-        "text": "UpRise Nashville — choose a 30-minute slot and response posture.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
+        "source": "active-tasks"
       }
     ],
-    "prepping": [
-      {
-        "id": "sweep-prep-13",
-        "text": "Shelbyville Renasant note — analyze impact on current deal economics.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-14",
-        "text": "Relay shutdown — inventory workflows and build migration plan.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-15",
-        "text": "Shelbyville redevelopment — consolidate layouts, raze math, and options.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-16",
-        "text": "Software spreadsheet — stage known subscriptions and missing fields.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-17",
-        "text": "Parma Heights outparcel — pull context and viable paths.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-18",
-        "text": "Shelbyville salvage value — gather defensible assumptions.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-19",
-        "text": "Vacancy checklist — draft neighbor notice and prospecting workflow.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-20",
-        "text": "Evansville/Hair Depot — prep package and outreach text; no send.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-21",
-        "text": "Hamilton/Back Nine Golf — verify dimensions and prep economics options.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-22",
-        "text": "Malone/Shoe Dept — assemble the complete vendor packet; no send.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-prep-23",
-        "text": "Flavors of India amendment — summarize HVAC, TI, expansion, and date risks.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      }
-    ],
-    "handling": [
-      {
-        "id": "sweep-handle-24",
-        "text": "Lossless/OpenClaw task — verify Hermes superseded it and prep closeout proof.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-handle-25",
-        "text": "Wispr dictionary — safely merge into Codex and verify.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-handle-26",
-        "text": "Leasing auto-researcher — reconcile with the live prep workflow.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-handle-27",
-        "text": "Security-audit task — verify current Hermes state and prep closeout.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-handle-28",
-        "text": "GPT-5.6 task — verify production proof and prep stale-task closeout.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-handle-29",
-        "text": "Google onboarding checklist — add Nashville IT support-ticket instruction.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-handle-30",
-        "text": "Pre-signing lease checklist — reconcile and canonicalize it.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-handle-31",
-        "text": "AI lease quiz — produce it or return a kill recommendation.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      }
-    ],
-    "deferred": [
-      {
-        "id": "sweep-defer-1",
-        "text": "Joe/Gil/Nolan PCON forms are future-dated; the balance is stale, monitoring, blocked, or low-priority backlog awaiting a fresh trigger or DO/DEFER/KILL decision.",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      },
-      {
-        "id": "sweep-defer-2",
-        "text": "🚀 Command Center: https://jd-command-center.vercel.app",
-        "detail": "",
-        "completed": false,
-        "source": "morning-briefing"
-      }
-    ]
+    "prepping": [],
+    "handling": [],
+    "deferred": []
   },
   "prepDocDiff": {
     "generatedAt": "2026-08-21T15:12:47.382166",
@@ -8948,35 +8717,35 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-08-21T15:13:20",
-    "source": "morning-briefing",
+    "generatedAt": "2026-08-24T07:42:47",
+    "source": "active-tasks",
     "items": [
       {
         "id": "focus-plate-1",
-        "dealName": "Sevierville Mattress suite",
+        "dealName": "Highland / Smart LED first-amendment review",
         "property": null,
-        "action": "decide condition/bathroom economics and call tenant.",
-        "why": "#1 on your plate today.",
+        "action": "Mathison Ingham asked Jacob to review the Smart LED first amendment on 2026-08-21. Jacob needs to review the amendment against the execut...",
+        "why": "Top of your active task list this week.",
         "urgency": "high",
-        "type": "briefing"
+        "type": "task"
       },
       {
         "id": "focus-plate-2",
-        "dealName": "Jack Lloyd PCON feedback",
+        "dealName": "McMinnville Plaza Suites 115-119 7,023 SF estimate and layou",
         "property": null,
-        "action": "overdue personal form.",
-        "why": "#2 on your plate today.",
+        "action": "Adam Heston sent a 7,023 SF estimate and layout image for Suites 115-119. Jacob/Adam/Clay need to verify suite configuration, current con...",
+        "why": "Top of your active task list this week.",
         "urgency": "high",
-        "type": "briefing"
+        "type": "task"
       },
       {
         "id": "focus-plate-3",
-        "dealName": "Jeffrey Shoopman PCON feedback",
+        "dealName": "Reach out to Crunch Fitness and Planet Fitness for Gastonia",
         "property": null,
-        "action": "overdue personal form.",
-        "why": "#3 on your plate today.",
+        "action": "Contact Crunch Fitness and Planet Fitness regarding the Gastonia opportunity and determine interest, space requirements, and next steps. ...",
+        "why": "Top of your active task list this week.",
         "urgency": "medium",
-        "type": "briefing"
+        "type": "task"
       }
     ]
   }
