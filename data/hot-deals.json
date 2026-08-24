@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T12:03:44.899456",
+  "lastUpdated": "2026-08-24T12:30:45.729738",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-24",
@@ -7308,6 +7308,11 @@
       "timeline": [
         {
           "date": "2026-08-24",
+          "event": "Email from Tricia Bernardo: Maple Row Available Space",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-24",
           "event": "Tricia Bernardo requested pricing and details for a client seeking to secure 2,500 SF at Maple Row quickly.",
           "type": "lead"
         }
@@ -7330,6 +7335,11 @@
       "timeline": [
         {
           "date": "2026-08-24",
+          "event": "Email from Chris Crockett: 235 E Main St Inquiry",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-24",
           "event": "Chris confirmed a flexible 2,500-4,000 SF requirement for an alternate Anchor property.",
           "type": "lead"
         }
@@ -7350,6 +7360,11 @@
         "Ross Brown (Alpine Ventures)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-24",
+          "event": "Email from Ross Brown: Choo Choo Golf Sim Concept",
+          "type": "email"
+        },
         {
           "date": "2026-08-24",
           "event": "Ross Brown sent a Choo Choo golf-simulator concept package and asked whether Anchor has real interest in pursuing it.",
