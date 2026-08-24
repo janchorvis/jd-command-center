@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T11:30:41.187717",
+  "lastUpdated": "2026-08-24T12:03:44.899456",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-24",
@@ -2295,8 +2295,8 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Tricia Bernardo has a client seeking to secure the 2,500 SF space quickly and requested pricing and space details. Separately, Chris Crockett confirmed his requirement can flex from 2,500 to 4,000 SF after Jacob said Fox's is in late-stage lease execution and asked his size need.",
-      "nextStep": "Verify which Maple Row suite can actually be offered, then provide Tricia pricing/details and evaluate alternate space for Chris's 2,500-4,000 SF requirement.",
+      "status": "Great Greek is down to one open lease point before signature: tenant asked to reduce the exclusive-use threshold from 40% to 25%, saying 25% is common and 40% came out of the blue.",
+      "nextStep": "Jacob/Ashby should decide whether to accept 25%, hold 40%, or counter, then return the final exclusive-use language for execution.",
       "priority": "high",
       "timeline": [
         {
@@ -2308,6 +2308,11 @@
           "date": "2026-08-24",
           "event": "Two live 2,500-4,000 SF requirements surfaced for Maple Row, including one client seeking to secure space quickly.",
           "type": "email"
+        },
+        {
+          "date": "2026-08-24",
+          "event": "Great Greek requested reducing the final exclusive-use threshold from 40% to 25% before signature.",
+          "type": "lease"
         },
         {
           "date": "2026-08-20",
@@ -6801,9 +6806,9 @@
       "id": "forks-of-the-river-qsr-chicken-outparcel-sale",
       "name": "QSR Chicken Concept",
       "property": "Sevierville / Forks of the River Shopping Center",
-      "status": "Mahogany/QSR chicken concept remains active on the 0.50+ acre ground-lease LOI. After Jacob sent the property survey on 8/19 and said Anchor was still pushing internally for a response, Caleb replied 8/20 asking Anchor to keep pushing and emphasizing that the prospect wants to move forward.",
+      "status": "Caleb Glafenhein said it has been 24 days since Mahogany submitted the Sevierville ground-lease LOI and asked Jacob to press for a response.",
       "stage": "LOI",
-      "nextStep": "Jacob/Micah need to finalize and deliver Anchor's response to Caleb on the 0.50+ acre Gabe's outparcel ground-lease LOI: accept/counter key economics or give a firm response date.",
+      "nextStep": "Jacob/Micah need to finalize and deliver Anchor's response now: accept or counter the key economics, or give Caleb a firm response date.",
       "priority": "high",
       "contacts": [
         "Caleb Glafenhein (Greenbrier Real Estate Advisors)",
@@ -6813,6 +6818,11 @@
         "Mahogany Properties"
       ],
       "timeline": [
+        {
+          "date": "2026-08-24",
+          "event": "Caleb said the Sevierville outparcel LOI has been outstanding 24 days and pressed Jacob for a response.",
+          "type": "email"
+        },
         {
           "date": "2026-08-20",
           "event": "Caleb asked Anchor to keep pushing for the ground-lease LOI response and emphasized that Mahogany wants to move the deal forward.",
@@ -7277,6 +7287,72 @@
         {
           "date": "2026-08-24",
           "event": "Email: Chris confirmed a 2,500-4,000 SF requirement for an alternate Nashville-area space search after the Maple Row spaces became unavailable.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-08-24"
+    },
+    {
+      "id": "maple-row-tricia-bernardo-2500",
+      "name": "Tricia Bernardo client - 2,500 SF",
+      "property": "Maple Row Shopping Center",
+      "status": "Tricia Bernardo has a client seeking to secure the 2,500 SF space quickly and requested pricing and space details; the client's business/use was not identified.",
+      "stage": "Contact Made",
+      "nextStep": "Confirm the client's business/use and verify which 2,500 SF Maple Row suite can be offered before sending pricing and details.",
+      "priority": "high",
+      "contacts": [
+        "Tricia Bernardo (Holrob)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-08-24",
+          "event": "Tricia Bernardo requested pricing and details for a client seeking to secure 2,500 SF at Maple Row quickly.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-08-24"
+    },
+    {
+      "id": "chris-crockett-2500-4000",
+      "name": "Chris Crockett - 2,500-4,000 SF",
+      "property": "Nashville / Hendersonville area",
+      "status": "Chris Crockett confirmed he can make 2,500-4,000 SF work after Jacob said Fox's is in late-stage lease execution and asked his size requirement for alternate Anchor properties.",
+      "stage": "Contact Made",
+      "nextStep": "Identify the best currently marketable Anchor suite in the 2,500-4,000 SF range and send Chris the strongest alternative.",
+      "priority": "medium",
+      "contacts": [
+        "Chris Crockett (Hilario & Crockett Investments)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-08-24",
+          "event": "Chris confirmed a flexible 2,500-4,000 SF requirement for an alternate Anchor property.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-08-24"
+    },
+    {
+      "id": "choo-choo-golf-simulator",
+      "name": "Choo Choo Golf Simulator Concept",
+      "property": "Project/property to confirm",
+      "status": "Ross Brown sent the Choo Choo brochure and walkthrough after Friday's meeting and said the group is very interested in integrating a golf-simulator concept, using the existing lockers, showers and mezzanine for workstations, meeting rooms or a lounge.",
+      "stage": "Contact Made",
+      "nextStep": "Confirm which property/project Ross is proposing, then decide whether to advance into space, economics and operational-fit diligence.",
+      "priority": "medium",
+      "contacts": [
+        "Ross Brown (Alpine Ventures)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-08-24",
+          "event": "Ross Brown sent a Choo Choo golf-simulator concept package and asked whether Anchor has real interest in pursuing it.",
           "type": "lead"
         }
       ],
