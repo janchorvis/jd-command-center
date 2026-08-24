@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T11:05:07.768446",
+  "lastUpdated": "2026-08-24T11:30:41.187717",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-24",
@@ -2301,6 +2301,11 @@
       "timeline": [
         {
           "date": "2026-08-24",
+          "event": "Email from Tricia Bernardo: Maple Row Available Space",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-24",
           "event": "Two live 2,500-4,000 SF requirements surfaced for Maple Row, including one client seeking to secure space quickly.",
           "type": "email"
         },
@@ -3488,6 +3493,11 @@
       "timeline": [
         {
           "date": "2026-08-24",
+          "event": "Email from Paul Gold: Bealls Term Sheet Shelbyville IN",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-24",
           "event": "Paul Gold reconfirmed Bealls and Five Below interest and asked for the current demolition/pad-out plan.",
           "type": "email"
         },
@@ -4589,6 +4599,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-08-24",
+          "event": "Email from Property Wealth LLC: Availability + Pricing — 2433 Buena Vista Pike, Nashville",
+          "type": "email"
+        },
         {
           "date": "2026-08-24",
           "event": "Property Wealth surfaced an active multifamily buyer for the 15.29-acre Buena Vista assemblage with a sub-$15K/unit land-basis target.",
