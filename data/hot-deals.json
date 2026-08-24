@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T10:02:32.717648",
+  "lastUpdated": "2026-08-24T10:30:30.353101",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-24",
@@ -52,6 +52,11 @@
       "nextStep": "Provide Anticipated Delivery Date and Outside Possession Date after contractor input; route permit authorization letter / TI plan review.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-24",
+          "event": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (08434)",
+          "type": "email"
+        },
         {
           "date": "2026-08-10",
           "event": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (08434)",
@@ -5919,6 +5924,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-08-24",
+          "event": "Email from Fitts, Miller: 312 Wilson Pike Circle",
+          "type": "email"
+        },
+        {
           "date": "2026-08-20",
           "event": "Email from Sommer, Aaron: 312 Wilson Pike Cir",
           "type": "email"
@@ -7059,6 +7069,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-08-24",
+          "event": "Email from Tricia Bernardo: Maple Row Available Space",
+          "type": "email"
+        },
+        {
           "date": "2026-08-18",
           "event": "Email from Mathison Ingham (Google Docs): Maple Row - Flavo... - we maybe can strike this highlighted ...",
           "type": "email"
@@ -8157,13 +8172,6 @@
       "deal": " — Pell City Marketplace",
       "daysSinceContact": 17,
       "lastAction": "Brad Newkirk / Upstream asked for property-manager contact and clarification on ",
-      "urgency": "high"
-    },
-    {
-      "name": "Paul",
-      "deal": "Five Below — Malone Plaza",
-      "daysSinceContact": 14,
-      "lastAction": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (084",
       "urgency": "high"
     },
     {
