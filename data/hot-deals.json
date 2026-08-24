@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T09:30:18.308982",
+  "lastUpdated": "2026-08-24T10:02:32.717648",
   "sourceDoc": "2026-08-03 - Leasing Meeting",
   "today": {
     "date": "2026-08-24",
@@ -7201,6 +7201,28 @@
         "suiteCount": 12,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "hilario-crockett-nashville-space-search",
+      "name": "Hilario & Crockett Nashville Space Search",
+      "property": "Nashville-area Anchor properties",
+      "status": "Chris Crockett confirmed he can make 2,500-4,000 SF work after Fox's Den and its adjacent suite at 235 E Main became unavailable. Business/use is still unconfirmed.",
+      "stage": "Contact Made",
+      "nextStep": "Ask Chris to confirm the business/use, preferred submarket, timing, and budget, then match available Anchor spaces.",
+      "priority": "medium",
+      "contacts": [
+        "Chris Crockett (Hilario & Crockett Investments)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-08-24",
+          "event": "Email: Chris confirmed a 2,500-4,000 SF requirement for an alternate Nashville-area space search after the Maple Row spaces became unavailable.",
+          "type": "lead"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-08-24"
     }
   ],
   "droppedBalls": [
