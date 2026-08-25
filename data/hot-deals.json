@@ -8533,111 +8533,198 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-08-25T07:17:01",
-    "source": "active-tasks",
+    "generatedAt": "2026-08-25T07:35:41",
+    "source": "morning-briefing",
     "yourPlate": [
       {
         "id": "sweep-plate-1",
-        "text": "Maple Row / Tricia Bernardo + Chris Crockett requirements — Tricia is trying to secure the 2,500 SF space quickly, while Chris separately confirmed a 2,500-4,000 SF requirement. Jacob/Adam need to reconcile current availability and competing Great Greek/Cheba Hut/other use paths before committing a suite, then respond with a clear fit/economics posture",
+        "text": "Micah property-channel process - decide the team posture and reply.",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-2",
-        "text": "Forks of the River / Gabe's outparcel LOI comments — Micah added comments to the Gabe's outparcel LOI. Jacob needs to reconcile them against the post-call ground-lease economics and return a clear accept/counter/timing posture. No external reply or document mutation was made by Jarvis",
+        "text": "T401 Maple Row - reconcile competing 2,500-4,000 SF requirements before committing space.",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-3",
-        "text": "312 Wilson Pike / Miller Fitts veterinary requirement — Miller brought a roughly 4,000 SF veterinary requirement. Jacob/Adam need to place it on the Wilson Pike collision map and verify use, parking, utilities, subdivision, and timing before quoting availability",
+        "text": "T395 Mathison vanity email - choose `MI`, `matt`, or another address.",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-4",
-        "text": "Malone / Five Below delivery-possession dates — Bill Castagna pressed for delivery and possession dates. Jacob/Clay need tenant-plan delivery timing, conservative contractor duration, landlord-work scope, and float before responding with supportable dates",
+        "text": "T392 Mac Mini disk risk - approve or reject measured rollback-backup cleanup.",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-5",
-        "text": "Shelbyville / Paul Gold Bealls-Five Below redevelopment follow-up — Paul reconfirmed interest, asked about demolition/pad-out plans, and wants to connect at Retail Live. Jacob/Micah/Clay need to decide the whole-box versus raze-and-outlot posture and economics before promising a configuration",
+        "text": "T371 Global Entry - complete renewal.",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-6",
-        "text": "Buena Vista / Dionte Dukes-Property Wealth buyer screening — Dionte surfaced an active multifamily-buyer path. Jacob needs to confirm buyer identity, capital/track record, target basis, and diligence expectations before expanding DD access or treating the inquiry as qualified",
+        "text": "T365 PCON golf F+B contract - review/sign or delegate.",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-7",
-        "text": "Mathison Ingham vanity email choice — Mathison is waiting on Jacob to choose a vanity email address and suggested `MI` or `matt`. Jacob needs to choose the address before any Google Workspace/account change is made",
+        "text": "T362 Workspace security alerts - confirm Carson login and Micah spoofing posture.",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-8",
-        "text": "Eitan Kohanim / Huntington purchase inquiry — Eitan followed up on a Huntington purchase path. Jacob needs to identify the exact asset and decide ownership/sale posture before sharing economics, rent roll, title, or diligence material",
+        "text": "T357 OpenAI passkey alert - confirm whether the added passkey was yours.",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-9",
-        "text": "Ross Brown / Choo Choo golf-simulator concept — Ross proposed a golf-simulator use. Jacob/Adam need the exact property, square footage, parking, ceiling/MEP, food-and-beverage, and economics requirements before evaluating fit",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-10",
-        "text": "Restore durable Mac Mini disk headroom after Hermes outage — The APFS Data volume hit 100%, the Hermes watchdog exited, and macOS kernel-panicked on 2026-08-24. Reboot recovery left about 36 GiB free, but roughly 193 GB of retired OpenClaw rollback-backup trees remain the main persistent risk. Jacob needs to approve a measured cleanup posture before any deletion; preserve active Hermes data, canonical OpenClaw history, final cutover evidence, and personal files. Read-only audit: `artifacts/disk-audit-2026-08-24.md`",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-11",
-        "text": "Highland / Smart LED first-amendment review — Mathison Ingham asked Jacob to review the Smart LED first amendment on 2026-08-21. Jacob needs to review the amendment against the executed lease/post-execution posture, confirm economics and dates, and return comments or approval. No external reply or document mutation was made by Jarvis",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-12",
-        "text": "McMinnville Plaza Suites 115-119 7,023 SF estimate and layout review — Adam Heston sent a 7,023 SF estimate and layout image for Suites 115-119. Jacob/Adam/Clay need to verify suite configuration, current conditions, and field dimensions before using the estimate for marketing, pricing, or tenant commitments. Command Center was updated in commit `ccdc1df`; no external reply was sent",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-13",
-        "text": "Reach out to Crunch Fitness and Planet Fitness for Gastonia — Contact Crunch Fitness and Planet Fitness regarding the Gastonia opportunity and determine interest, space requirements, and next steps. Source: Discord #tasks message 1540429512225857546",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-14",
-        "text": "Renew Global Entry — Renew Jacob's Global Entry membership. Screenshot shows PASSID 156768973, expiration April 3, 2027, and renewal eligibility beginning April 3, 2026. Source: Discord #tasks message 1540345418460692652",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       }
     ],
-    "prepping": [],
-    "handling": [],
-    "deferred": []
+    "prepping": [
+      {
+        "id": "sweep-prep-9",
+        "text": "T400 Gabe's outparcel LOI - reconcile Micah's comments and counter posture.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-10",
+        "text": "T399 Wilson Pike vet requirement - add it to the same-asset collision map.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-11",
+        "text": "T398 Five Below - build supportable delivery/possession dates.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-12",
+        "text": "T397 Shelbyville - frame whole-box versus raze/outlot options for Paul Gold.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-13",
+        "text": "T396 Buena Vista - screen Dionte's buyer path and diligence posture.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-14",
+        "text": "T394 Huntington inquiry - identify the asset and prep sale-posture options.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-15",
+        "text": "T393 Choo Choo simulator - assemble fit, parking, MEP, and economics questions.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-16",
+        "text": "T391 Smart LED - review the first amendment against the executed lease.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-17",
+        "text": "T390 McMinnville 115-119 - prep current-condition and field-verification checklist.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-18",
+        "text": "T388 Gastonia gyms - research Crunch/Planet contacts and prep outreach.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-19",
+        "text": "T386 Hermes security - prepare a reversible dependency-remediation plan.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ],
+    "handling": [
+      {
+        "id": "sweep-handle-20",
+        "text": "T290 Relay migration - repair deterministic Manager Directory matching and test it.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-handle-21",
+        "text": "T376 Pre-sign lease checklist - build the reusable internal checklist.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-handle-22",
+        "text": "T373 Software sheet - reconcile Anchor's software inventory.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-handle-23",
+        "text": "T378 Vacancy workflow - build neighboring-suite and nearby-center prospecting steps.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-handle-24",
+        "text": "T230 Leasing phone tree - document the missed-lead callback fix.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ],
+    "deferred": [
+      {
+        "id": "sweep-defer-1",
+        "text": "Waiting/future/blocked/stale backlog, including old leads, monitoring tracks, superseded drafts, and owner-dependent work; every item is classified with a reason in today's dispatch file.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-2",
+        "text": "🚀 Command Center: https://jd-command-center.vercel.app",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ]
   },
   "prepDocDiff": {
     "generatedAt": "2026-08-21T15:12:47.382166",
@@ -9005,35 +9092,35 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-08-25T07:17:01",
-    "source": "active-tasks",
+    "generatedAt": "2026-08-25T07:35:41",
+    "source": "morning-briefing",
     "items": [
       {
         "id": "focus-plate-1",
-        "dealName": "Maple Row / Tricia Bernardo + Chris Crockett requirements",
+        "dealName": "Micah property-channel process - decide the team posture and",
         "property": null,
-        "action": "Tricia is trying to secure the 2,500 SF space quickly, while Chris separately confirmed a 2,500-4,000 SF requirement. Jacob/Adam need to ...",
-        "why": "Top of your active task list this week.",
+        "action": "Micah property-channel process - decide the team posture and reply.",
+        "why": "#1 on your plate today.",
         "urgency": "high",
-        "type": "task"
+        "type": "briefing"
       },
       {
         "id": "focus-plate-2",
-        "dealName": "Forks of the River / Gabe's outparcel LOI comments",
+        "dealName": "T401 Maple Row - reconcile competing 2,500-4,000 SF requirem",
         "property": null,
-        "action": "Micah added comments to the Gabe's outparcel LOI. Jacob needs to reconcile them against the post-call ground-lease economics and return a...",
-        "why": "Top of your active task list this week.",
+        "action": "T401 Maple Row - reconcile competing 2,500-4,000 SF requirements before committing space.",
+        "why": "#2 on your plate today.",
         "urgency": "high",
-        "type": "task"
+        "type": "briefing"
       },
       {
         "id": "focus-plate-3",
-        "dealName": "312 Wilson Pike / Miller Fitts veterinary requirement",
+        "dealName": "T395 Mathison vanity email - choose `MI`, `matt`, or another",
         "property": null,
-        "action": "Miller brought a roughly 4,000 SF veterinary requirement. Jacob/Adam need to place it on the Wilson Pike collision map and verify use, pa...",
-        "why": "Top of your active task list this week.",
+        "action": "T395 Mathison vanity email - choose `MI`, `matt`, or another address.",
+        "why": "#3 on your plate today.",
         "urgency": "medium",
-        "type": "task"
+        "type": "briefing"
       }
     ]
   }
