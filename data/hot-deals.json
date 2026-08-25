@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T10:31:00.959048",
+  "lastUpdated": "2026-08-25T11:03:46.023891",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-25",
@@ -2309,10 +2309,15 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Great Greek is down to one open lease point before signature: tenant asked to reduce the exclusive-use threshold from 40% to 25%, saying 25% is common and 40% came out of the blue.",
-      "nextStep": "Jacob/Ashby should decide whether to accept 25%, hold 40%, or counter, then return the final exclusive-use language for execution.",
+      "status": "Great Greek accepted the 25% exclusive-use threshold and confirmed every other lease point is good to go. Joey Valenti supplied the tenant LLC documents and menus and asked Jacob to create the executable lease.",
+      "nextStep": "Jacob/Ashby should prepare the executable lease using the final agreed 25% language, verify the tenant entity, exhibits, and signature blocks against the supplied documents, then circulate it for signature.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-25",
+          "event": "Great Greek accepted the 25% exclusive-use threshold, confirmed all other lease points are resolved, supplied LLC/menu documents, and requested the executable lease.",
+          "type": "lease"
+        },
         {
           "date": "2026-08-24",
           "event": "Email from Tricia Bernardo: Maple Row Available Space",
