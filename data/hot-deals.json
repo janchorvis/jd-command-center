@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T14:31:13.836672",
+  "lastUpdated": "2026-08-25T15:30:14.343295",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-25",
@@ -1038,10 +1038,15 @@
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
       "status": "Jon Petty provided Matt Taylor's email and asked Jacob to send final lease copies, noting it may be easier to keep the UPS addendum separate so it can be forwarded to UPS Corporate for signature.",
-      "stage": "LOI",
+      "stage": "Lease Signed",
       "nextStep": "Compile/send UPS final lease copies for McMinnville Plaza, with addendum separate if useful for UPS Corporate signature.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-25",
+          "event": "Email from Anchor Leasing: Fwd: Completed: Complete with Docusign: McMinnville Community Partners - UPS Sto",
+          "type": "email"
+        },
         {
           "date": "2026-08-25",
           "event": "Email from Jacob Delk: McMinnville UPS Store Lease Execution",
@@ -1262,7 +1267,10 @@
         "avgSqFt": 3255,
         "suiteCount": 45,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Lease Signed",
+      "stageOverrideDate": "2026-08-25",
+      "stageOverrideSource": "email-signal: complete with docusign"
     },
     {
       "id": "mcminnville-wingstop",
@@ -5541,6 +5549,11 @@
         "Matt Jeffery (Vendors Village)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-25",
+          "event": "Email from Jacob Delk: Gastonia, NC - Big Lots",
+          "type": "email"
+        },
         {
           "date": "2026-08-25",
           "event": "Email from Jordan Hollander: 🤫 The quiet network fueling direct bookings",
