@@ -1,33 +1,33 @@
 {
-  "lastUpdated": "2026-08-24T17:30:20.043417",
-  "sourceDoc": "2026-08-03 - Leasing Meeting",
+  "lastUpdated": "2026-08-25T07:17:01.240313",
+  "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
-    "date": "2026-08-24",
-    "greeting": "Good morning, Jacob. You have 19 overdue items.",
+    "date": "2026-08-25",
+    "greeting": "Good morning, Jacob. You have 18 overdue items.",
     "meetings": [
       {
-        "time": "6:00 AM",
-        "title": "Bible Study",
-        "dealContext": null
-      },
-      {
-        "time": "8:00 AM",
-        "title": "August Celebration",
+        "time": "7:30 AM",
+        "title": "Jacob/Drew Coffee",
         "dealContext": null
       },
       {
         "time": "8:30 AM",
-        "title": "Monday Morning Meeting",
+        "title": "Rock/Scorecard/Occupancy + New Lease Checklists",
         "dealContext": null
       },
       {
-        "time": "10:30 AM",
-        "title": "Leasing Meeting",
-        "dealContext": "96 active deals. 3 advanced this week (QT Nails→Lease sent for signature, Coaches Bargainz→Tenant welcome email sent, HopeSmiles). Top deals: Five Below (Lease Draft & Review), UPS Store Franchisee (LOI), Wingstop (Lease Draft & Review). 41 stale contacts need follow-up."
+        "time": "8:45 AM",
+        "title": "Leasing Morning Standup",
+        "dealContext": null
       },
       {
-        "time": "11:30 AM",
-        "title": "Lunch: Delk X Micah (AI Discussion)",
+        "time": "9:00 AM",
+        "title": "Sevierville LOI",
+        "dealContext": "Stage: Contact Made | Adam reported Jake from HoneyBaked Ham called back asking for a floor plan for t… | Next: Jacob/Adam need updated floor plan or best available plan for the 2,750 SF leftover space, storage-truck posture, TI guidance, and timing response."
+      },
+      {
+        "time": "8:00 PM",
+        "title": "Trash + Recycling Tomorrow",
         "dealContext": null
       }
     ],
@@ -35,11 +35,11 @@
       "Sevierville: inspect former Mattress suite and call tenant on half-suite option (overdue — due 2026-08-10)",
       "PCON feedback: Jack Lloyd (overdue — due 2026-08-13)",
       "PCON feedback: Jeffrey Shoopman (overdue — due 2026-07-29)",
-      "Wilson Pike basketball: confirm interest before structural spend (overdue — due 2026-07-15)",
       "Parma heights OP (overdue — due 2026-07-07)",
       "Salvage value for Shelbyville if we raze it? (overdue — due 2026-06-26)",
       "Adam business cards (overdue — due 2026-06-24)",
-      "Reach out to Tardy about resources for seeking feedback  (overdue — due 2026-06-24)"
+      "Reach out to Tardy about resources for seeking feedback  (overdue — due 2026-06-24)",
+      "Follow up with Nicole Dautovic / Chase after ICSC (overdue — due 2026-06-08)"
     ]
   },
   "pipelineDeals": [
@@ -7324,7 +7324,16 @@
       ],
       "actions": [],
       "type": "Tenant Rep",
-      "lastUpdate": "2026-08-24"
+      "lastUpdate": "2026-08-24",
+      "rentComps": {
+        "property": "Maple Row",
+        "avgRate": null,
+        "minRate": null,
+        "maxRate": null,
+        "avgSqFt": 5206,
+        "suiteCount": 11,
+        "vacantCount": 0
+      }
     },
     {
       "id": "chris-crockett-2500-4000",
@@ -8500,32 +8509,102 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-08-24T07:42:47",
+    "generatedAt": "2026-08-25T07:17:01",
     "source": "active-tasks",
     "yourPlate": [
       {
         "id": "sweep-plate-1",
-        "text": "Highland / Smart LED first-amendment review — Mathison Ingham asked Jacob to review the Smart LED first amendment on 2026-08-21. Jacob needs to review the amendment against the executed lease/post-execution posture, confirm economics and dates, and return comments or approval. No external reply or document mutation was made by Jarvis",
+        "text": "Maple Row / Tricia Bernardo + Chris Crockett requirements — Tricia is trying to secure the 2,500 SF space quickly, while Chris separately confirmed a 2,500-4,000 SF requirement. Jacob/Adam need to reconcile current availability and competing Great Greek/Cheba Hut/other use paths before committing a suite, then respond with a clear fit/economics posture",
         "detail": "",
         "completed": false,
         "source": "active-tasks"
       },
       {
         "id": "sweep-plate-2",
-        "text": "McMinnville Plaza Suites 115-119 7,023 SF estimate and layout review — Adam Heston sent a 7,023 SF estimate and layout image for Suites 115-119. Jacob/Adam/Clay need to verify suite configuration, current conditions, and field dimensions before using the estimate for marketing, pricing, or tenant commitments. Command Center was updated in commit `ccdc1df`; no external reply was sent",
+        "text": "Forks of the River / Gabe's outparcel LOI comments — Micah added comments to the Gabe's outparcel LOI. Jacob needs to reconcile them against the post-call ground-lease economics and return a clear accept/counter/timing posture. No external reply or document mutation was made by Jarvis",
         "detail": "",
         "completed": false,
         "source": "active-tasks"
       },
       {
         "id": "sweep-plate-3",
-        "text": "Reach out to Crunch Fitness and Planet Fitness for Gastonia — Contact Crunch Fitness and Planet Fitness regarding the Gastonia opportunity and determine interest, space requirements, and next steps. Source: Discord #tasks message 1540429512225857546",
+        "text": "312 Wilson Pike / Miller Fitts veterinary requirement — Miller brought a roughly 4,000 SF veterinary requirement. Jacob/Adam need to place it on the Wilson Pike collision map and verify use, parking, utilities, subdivision, and timing before quoting availability",
         "detail": "",
         "completed": false,
         "source": "active-tasks"
       },
       {
         "id": "sweep-plate-4",
+        "text": "Malone / Five Below delivery-possession dates — Bill Castagna pressed for delivery and possession dates. Jacob/Clay need tenant-plan delivery timing, conservative contractor duration, landlord-work scope, and float before responding with supportable dates",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-5",
+        "text": "Shelbyville / Paul Gold Bealls-Five Below redevelopment follow-up — Paul reconfirmed interest, asked about demolition/pad-out plans, and wants to connect at Retail Live. Jacob/Micah/Clay need to decide the whole-box versus raze-and-outlot posture and economics before promising a configuration",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-6",
+        "text": "Buena Vista / Dionte Dukes-Property Wealth buyer screening — Dionte surfaced an active multifamily-buyer path. Jacob needs to confirm buyer identity, capital/track record, target basis, and diligence expectations before expanding DD access or treating the inquiry as qualified",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-7",
+        "text": "Mathison Ingham vanity email choice — Mathison is waiting on Jacob to choose a vanity email address and suggested `MI` or `matt`. Jacob needs to choose the address before any Google Workspace/account change is made",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-8",
+        "text": "Eitan Kohanim / Huntington purchase inquiry — Eitan followed up on a Huntington purchase path. Jacob needs to identify the exact asset and decide ownership/sale posture before sharing economics, rent roll, title, or diligence material",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-9",
+        "text": "Ross Brown / Choo Choo golf-simulator concept — Ross proposed a golf-simulator use. Jacob/Adam need the exact property, square footage, parking, ceiling/MEP, food-and-beverage, and economics requirements before evaluating fit",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-10",
+        "text": "Restore durable Mac Mini disk headroom after Hermes outage — The APFS Data volume hit 100%, the Hermes watchdog exited, and macOS kernel-panicked on 2026-08-24. Reboot recovery left about 36 GiB free, but roughly 193 GB of retired OpenClaw rollback-backup trees remain the main persistent risk. Jacob needs to approve a measured cleanup posture before any deletion; preserve active Hermes data, canonical OpenClaw history, final cutover evidence, and personal files. Read-only audit: `artifacts/disk-audit-2026-08-24.md`",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-11",
+        "text": "Highland / Smart LED first-amendment review — Mathison Ingham asked Jacob to review the Smart LED first amendment on 2026-08-21. Jacob needs to review the amendment against the executed lease/post-execution posture, confirm economics and dates, and return comments or approval. No external reply or document mutation was made by Jarvis",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-12",
+        "text": "McMinnville Plaza Suites 115-119 7,023 SF estimate and layout review — Adam Heston sent a 7,023 SF estimate and layout image for Suites 115-119. Jacob/Adam/Clay need to verify suite configuration, current conditions, and field dimensions before using the estimate for marketing, pricing, or tenant commitments. Command Center was updated in commit `ccdc1df`; no external reply was sent",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-13",
+        "text": "Reach out to Crunch Fitness and Planet Fitness for Gastonia — Contact Crunch Fitness and Planet Fitness regarding the Gastonia opportunity and determine interest, space requirements, and next steps. Source: Discord #tasks message 1540429512225857546",
+        "detail": "",
+        "completed": false,
+        "source": "active-tasks"
+      },
+      {
+        "id": "sweep-plate-14",
         "text": "Renew Global Entry — Renew Jacob's Global Entry membership. Screenshot shows PASSID 156768973, expiration April 3, 2027, and renewal eligibility beginning April 3, 2026. Source: Discord #tasks message 1540345418460692652",
         "detail": "",
         "completed": false,
@@ -8902,32 +8981,32 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-08-24T07:42:47",
+    "generatedAt": "2026-08-25T07:17:01",
     "source": "active-tasks",
     "items": [
       {
         "id": "focus-plate-1",
-        "dealName": "Highland / Smart LED first-amendment review",
+        "dealName": "Maple Row / Tricia Bernardo + Chris Crockett requirements",
         "property": null,
-        "action": "Mathison Ingham asked Jacob to review the Smart LED first amendment on 2026-08-21. Jacob needs to review the amendment against the execut...",
+        "action": "Tricia is trying to secure the 2,500 SF space quickly, while Chris separately confirmed a 2,500-4,000 SF requirement. Jacob/Adam need to ...",
         "why": "Top of your active task list this week.",
         "urgency": "high",
         "type": "task"
       },
       {
         "id": "focus-plate-2",
-        "dealName": "McMinnville Plaza Suites 115-119 7,023 SF estimate and layou",
+        "dealName": "Forks of the River / Gabe's outparcel LOI comments",
         "property": null,
-        "action": "Adam Heston sent a 7,023 SF estimate and layout image for Suites 115-119. Jacob/Adam/Clay need to verify suite configuration, current con...",
+        "action": "Micah added comments to the Gabe's outparcel LOI. Jacob needs to reconcile them against the post-call ground-lease economics and return a...",
         "why": "Top of your active task list this week.",
         "urgency": "high",
         "type": "task"
       },
       {
         "id": "focus-plate-3",
-        "dealName": "Reach out to Crunch Fitness and Planet Fitness for Gastonia",
+        "dealName": "312 Wilson Pike / Miller Fitts veterinary requirement",
         "property": null,
-        "action": "Contact Crunch Fitness and Planet Fitness regarding the Gastonia opportunity and determine interest, space requirements, and next steps. ...",
+        "action": "Miller brought a roughly 4,000 SF veterinary requirement. Jacob/Adam need to place it on the Wilson Pike collision map and verify use, pa...",
         "why": "Top of your active task list this week.",
         "urgency": "medium",
         "type": "task"

@@ -1,12 +1,32 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-08-21 6:00 PM CDT
+Last updated: 2026-08-24 6:00 PM CDT
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T392 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T402 -->
 
 ## ACTIVE — Jacob needs to do these
 
 ### This Week (week of 5/11)
+
+- T401: Maple Row / Tricia Bernardo + Chris Crockett requirements — Tricia is trying to secure the 2,500 SF space quickly, while Chris separately confirmed a 2,500-4,000 SF requirement. Jacob/Adam need to reconcile current availability and competing Great Greek/Cheba Hut/other use paths before committing a suite, then respond with a clear fit/economics posture. [source: Communication Triage 2026-08-24 11 AM] [deal: Maple Row]
+
+- T400: Forks of the River / Gabe's outparcel LOI comments — Micah added comments to the Gabe's outparcel LOI. Jacob needs to reconcile them against the post-call ground-lease economics and return a clear accept/counter/timing posture. No external reply or document mutation was made by Jarvis. [source: Communication Triage 2026-08-24 11 AM] [deal: Forks of the River / Gabe's outparcel]
+
+- T399: 312 Wilson Pike / Miller Fitts veterinary requirement — Miller brought a roughly 4,000 SF veterinary requirement. Jacob/Adam need to place it on the Wilson Pike collision map and verify use, parking, utilities, subdivision, and timing before quoting availability. [source: Communication Triage 2026-08-24 11 AM] [deal: 312 Wilson Pike]
+
+- T398: Malone / Five Below delivery-possession dates — Bill Castagna pressed for delivery and possession dates. Jacob/Clay need tenant-plan delivery timing, conservative contractor duration, landlord-work scope, and float before responding with supportable dates. [source: Communication Triage 2026-08-24 11 AM] [deal: Malone / Five Below]
+
+- T397: Shelbyville / Paul Gold Bealls-Five Below redevelopment follow-up — Paul reconfirmed interest, asked about demolition/pad-out plans, and wants to connect at Retail Live. Jacob/Micah/Clay need to decide the whole-box versus raze-and-outlot posture and economics before promising a configuration. [source: Communication Triage 2026-08-24 11 AM] [deal: Shelbyville former Big Lots]
+
+- T396: Buena Vista / Dionte Dukes-Property Wealth buyer screening — Dionte surfaced an active multifamily-buyer path. Jacob needs to confirm buyer identity, capital/track record, target basis, and diligence expectations before expanding DD access or treating the inquiry as qualified. [source: Communication Triage 2026-08-24 11 AM] [deal: Buena Vista Pike]
+
+- T395: Mathison Ingham vanity email choice — Mathison is waiting on Jacob to choose a vanity email address and suggested `MI` or `matt`. Jacob needs to choose the address before any Google Workspace/account change is made. [source: Communication Triage 2026-08-24 5 PM] [system: Google Workspace / Anchor admin]
+
+- T394: Eitan Kohanim / Huntington purchase inquiry — Eitan followed up on a Huntington purchase path. Jacob needs to identify the exact asset and decide ownership/sale posture before sharing economics, rent roll, title, or diligence material. [source: Communication Triage 2026-08-24 11 AM] [deal: Huntington purchase inquiry]
+
+- T393: Ross Brown / Choo Choo golf-simulator concept — Ross proposed a golf-simulator use. Jacob/Adam need the exact property, square footage, parking, ceiling/MEP, food-and-beverage, and economics requirements before evaluating fit. [source: Communication Triage 2026-08-24 11 AM] [deal: Choo Choo golf-simulator concept]
+
+- T392: Restore durable Mac Mini disk headroom after Hermes outage — The APFS Data volume hit 100%, the Hermes watchdog exited, and macOS kernel-panicked on 2026-08-24. Reboot recovery left about 36 GiB free, but roughly 193 GB of retired OpenClaw rollback-backup trees remain the main persistent risk. Jacob needs to approve a measured cleanup posture before any deletion; preserve active Hermes data, canonical OpenClaw history, final cutover evidence, and personal files. Read-only audit: `artifacts/disk-audit-2026-08-24.md`. [source: Gateway outage investigation 2026-08-24] [system: Mac Mini / Hermes capacity]
 
 - T391: Highland / Smart LED first-amendment review — Mathison Ingham asked Jacob to review the Smart LED first amendment on 2026-08-21. Jacob needs to review the amendment against the executed lease/post-execution posture, confirm economics and dates, and return comments or approval. No external reply or document mutation was made by Jarvis. [source: Communication Triage 2026-08-21 3 PM] [deal: Highland / Smart LED]
 
