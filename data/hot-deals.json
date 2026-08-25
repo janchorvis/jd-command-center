@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T11:03:46.023891",
+  "lastUpdated": "2026-08-25T11:30:51.199911",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-25",
@@ -1042,6 +1042,11 @@
       "nextStep": "Compile/send UPS final lease copies for McMinnville Plaza, with addendum separate if useful for UPS Corporate signature.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-25",
+          "event": "Email from Jacob Delk: McMinnville UPS Store Lease Execution",
+          "type": "email"
+        },
         {
           "date": "2026-08-11",
           "event": "Email from Jon Petty: Fwd: McMinnville UPS Store Lease Execution",
@@ -7273,6 +7278,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-08-25",
+          "event": "Email from Christopher Fleeger: Town & Country Center",
+          "type": "email"
+        },
+        {
           "date": "2026-08-21",
           "event": "Email from Christopher Fleeger: Town & Country Center",
           "type": "email"
@@ -8360,13 +8370,6 @@
       "deal": "Michael Wachs sale inquiry — Malone Plaza",
       "daysSinceContact": 15,
       "lastAction": "Email from Lauer, Tracy: Michael Wachs Massena and Plattsburgh projects",
-      "urgency": "high"
-    },
-    {
-      "name": "Jon Petty",
-      "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 14,
-      "lastAction": "Email from Jon Petty: Fwd: McMinnville UPS Store Lease Execution",
       "urgency": "high"
     },
     {
