@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T16:30:24.415578",
+  "lastUpdated": "2026-08-25T17:02:33.691458",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-25",
@@ -1282,14 +1282,19 @@
       "id": "mcminnville-wingstop",
       "name": "Wingstop",
       "property": "McMinnville Plaza",
-      "status": "Jacob sent Sarah Langan the 8/19 LL edits and clean lease, saying Anchor is about there but needs financial information, execution deposit confirmation, and mutual acceptance of final edits before execution; Jacob also forwarded the exchange to Adam for learning purposes.",
+      "status": "After Jacob followed up on the final lease changes, Sarah Langan said she will call on 8/26 to wrap up the Wingstop lease.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Wait for Sarah/Wingstop response on final LL edits, financial info, and deposit/execution path.",
+      "nextStep": "Take Sarah's 8/26 call and resolve the remaining lease changes for execution.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-08-25",
           "event": "Email from Sarah Langan: McMinnville, TN-Wingstop",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-25",
+          "event": "Sarah Langan said she will call Jacob on 8/26 to wrap up the Wingstop lease.",
           "type": "email"
         },
         {
