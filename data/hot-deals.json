@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T16:03:20.048893",
+  "lastUpdated": "2026-08-25T16:30:24.415578",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-25",
@@ -1287,6 +1287,11 @@
       "nextStep": "Wait for Sarah/Wingstop response on final LL edits, financial info, and deposit/execution path.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-25",
+          "event": "Email from Sarah Langan: McMinnville, TN-Wingstop",
+          "type": "email"
+        },
         {
           "date": "2026-08-19",
           "event": "Email from Sarah Langan: McMinnville, TN-Wingstop",
