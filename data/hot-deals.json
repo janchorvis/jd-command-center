@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T09:30:51.567983",
+  "lastUpdated": "2026-08-25T10:31:00.959048",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-25",
@@ -56,6 +56,16 @@
       "nextStep": "Provide verified Anticipated Delivery Date and Outside Possession Date after contractor/ownership confirmation.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-25",
+          "event": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (08434)",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-25",
+          "event": "Email from Manuel Veliz: Five Below - Malone, NY - TI Set for LL review",
+          "type": "email"
+        },
         {
           "date": "2026-08-24",
           "event": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (08434)",
