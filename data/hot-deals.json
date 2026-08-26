@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T07:34:08.415109",
+  "lastUpdated": "2026-08-26T08:02:34.255307",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-26",
@@ -4638,7 +4638,7 @@
       "property": "2433 Buena Vista Pike",
       "type": "Land/Development",
       "status": "Dionte Dukes / Property Wealth is screening the full 15.29-acre assemblage for an active Nashville multifamily buyer and asked for availability, pricing guidance, approved unit count (122 vs. 124), current site/civil/utility package, budget assumptions, and whether the multifamily component can be reworked as garden-style. Buyer targets land basis below roughly $15,000 per developable unit.",
-      "nextStep": "Confirm current availability, pricing, approved unit count and garden-style flexibility; send the current diligence package only after verifying the source documents.",
+      "nextStep": "Confirm whether the Buena Vista sign is still installed; have Adam inspect the site and arrange weed-eating or cleanup if it is overgrown before active buyer follow-up.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
@@ -4664,6 +4664,11 @@
         {
           "date": "2026-08-26",
           "event": "Email from Micah Lacher: Buena vista",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-26",
+          "event": "Micah asked Jacob to confirm the Buena Vista sign is still up and have Adam inspect the site for overgrowth or cleanup needs.",
           "type": "email"
         },
         {
