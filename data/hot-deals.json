@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T14:30:27.960854",
+  "lastUpdated": "2026-08-26T15:30:49.737365",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-26",
@@ -1292,6 +1292,11 @@
       "nextStep": "Take Sarah's 8/26 call and resolve the remaining lease changes for execution.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-26",
+          "event": "Email from Sarah Langan: McMinnville, TN-Wingstop",
+          "type": "email"
+        },
         {
           "date": "2026-08-25",
           "event": "Email from Sarah Langan: McMinnville, TN-Wingstop",
@@ -7252,6 +7257,11 @@
         "Jon Petty (Southeast Venture)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-26",
+          "event": "Email from Jacob Delk: Maple Row - Great Greek - Lease Execution",
+          "type": "email"
+        },
         {
           "date": "2026-08-24",
           "event": "Email from Tricia Bernardo: Maple Row Available Space",
