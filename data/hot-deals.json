@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T07:16:43.683589",
+  "lastUpdated": "2026-08-26T07:34:08.415109",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-26",
@@ -34,7 +34,10 @@
       "Salvage value for Shelbyville if we raze it? (overdue — due 2026-06-26)",
       "Adam business cards (overdue — due 2026-06-24)",
       "Reach out to Tardy about resources for seeking feedback  (overdue — due 2026-06-24)",
-      "Follow up with Nicole Dautovic / Chase after ICSC (overdue — due 2026-06-08)"
+      "Follow up with Nicole Dautovic / Chase after ICSC (overdue — due 2026-06-08)",
+      "Take Sarah Langan's Wingstop wrap-up call and close final lease items if clean.",
+      "Set supportable Five Below delivery and outside-possession dates using contractor timing and delay allowance.",
+      "Confirm Forks availability and approved pricing posture for Nathan M. before any reply."
     ]
   },
   "pipelineDeals": [
@@ -3856,9 +3859,9 @@
       "id": "mcminnville-regional-transit",
       "name": "Regional transit service / Craig Hughes",
       "property": "McMinnville Plaza",
-      "status": "Adam Heston sent a revised one-page plan for Suites 115-119 after Jacob shared the Matterport link. The plan keeps 7,023 SF gross and now depicts existing plumbing/bathroom and kitchenette conditions that were not shown on the prior version.",
+      "status": "Adam Heston sent a corrected Floorplan McMinnville PDF overnight after Jacob identified the correct suite orientation and requested more legible wording.",
       "stage": "LOI",
-      "nextStep": "Review the revised plan against current field conditions and confirm the bathroom/plumbing layout before using it for proposal, pricing, or tenant commitments.",
+      "nextStep": "Review the corrected plan for configuration and legibility, then field-verify dimensions and conditions before using it for pricing, marketing, or tenant commitments.",
       "priority": "high",
       "contacts": [
         "Craig Hughes (Upper Cumberland Commercial)",
@@ -3869,6 +3872,11 @@
         "Emma Bray"
       ],
       "timeline": [
+        {
+          "date": "2026-08-26",
+          "event": "Briefing: Adam sent the corrected McMinnville floor plan overnight; Jacob has not replied after the file.",
+          "type": "task"
+        },
         {
           "date": "2026-08-25",
           "event": "Adam sent an updated Suites 115-119 floor plan adding existing plumbing/bathroom and kitchenette detail while retaining the 7,023 SF gross estimate.",
