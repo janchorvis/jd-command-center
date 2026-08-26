@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T10:03:05.421115",
+  "lastUpdated": "2026-08-26T10:03:57.124066",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-26",
@@ -7522,6 +7522,29 @@
         "suiteCount": 9,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "forks-mattresses-inc-renewal",
+      "name": "Mattresses Inc. renewal",
+      "property": "Forks of the River Shopping Center",
+      "status": "Damian Winsor sent Clay a major renewal escalation after taking control of the store from Chad. He prefers to retain the full expanded premises; if that is no longer available, he proposes renewing the original premises for five years with a five-year option. He also raised a prior $40,000 HVAC burden, said the store is improving under his control, requested a phone call, and asked not to work with Mathison going forward.",
+      "stage": "Lease Draft & Review",
+      "nextStep": "Jacob/Clay should verify the current lease, renewal/expansion rights, marketed-space commitments, HVAC responsibility, and competing HoneyBaked/CosmoProf suite paths before deciding whether to preserve the full premises or offer a five-year renewal on the original suite; then schedule the requested call with Damian.",
+      "priority": "high",
+      "contacts": [
+        "Damian Winsor (Mattresses Inc.)",
+        "Clay Richardson"
+      ],
+      "timeline": [
+        {
+          "date": "2026-08-26",
+          "event": "Clay forwarded Damian Winsor's renewal escalation: preference to retain the full expanded premises, fallback five-year renewal plus five-year option on the original premises, and request for a phone call.",
+          "type": "lease"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-08-26"
     }
   ],
   "droppedBalls": [
