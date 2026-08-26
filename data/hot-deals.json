@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T13:02:58.247152",
+  "lastUpdated": "2026-08-26T13:30:52.867448",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-26",
@@ -50,6 +50,11 @@
       "nextStep": "Convert the 12-week contractor duration plus a conservative 1-2 week delay allowance into supportable Anticipated Delivery and Outside Possession dates before finalizing the lease.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-26",
+          "event": "Email from Ana Canton: Five Below_Malone, NY - Permit application form -Tenant Signature required",
+          "type": "email"
+        },
         {
           "date": "2026-08-25",
           "event": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (08434)",
