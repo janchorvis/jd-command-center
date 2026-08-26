@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T07:16:15.340213",
+  "lastUpdated": "2026-08-26T07:16:43.683589",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-26",
@@ -8602,39 +8602,52 @@
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 8/24, Pipedrive not updated since 5/4",
+      "message": "Last email 8/25, Pipedrive not updated since 5/4",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-08-24",
+        "lastEmailDate": "2026-08-25",
         "lastPipedriveDate": "2026-05-04",
         "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 113
+        "pipedriveDaysAgo": 114
+      }
+    },
+    {
+      "deal": "UPS Store Franchisee",
+      "property": "McMinnville Plaza",
+      "type": "email-active-pipedrive-stale",
+      "message": "Last email 8/25, Pipedrive not updated since 3/24",
+      "severity": "high",
+      "details": {
+        "lastEmailDate": "2026-08-25",
+        "lastPipedriveDate": "2026-03-24",
+        "emailDaysAgo": 1,
+        "pipedriveDaysAgo": 155
       }
     },
     {
       "deal": "Wingstop",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 8/19, Pipedrive not updated since 4/27",
+      "message": "Last email 8/25, Pipedrive not updated since 4/27",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-08-19",
+        "lastEmailDate": "2026-08-25",
         "lastPipedriveDate": "2026-04-27",
-        "emailDaysAgo": 6,
-        "pipedriveDaysAgo": 120
+        "emailDaysAgo": 1,
+        "pipedriveDaysAgo": 121
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "pipedrive-active-no-email",
-      "message": "Pipedrive updated 8/25, last email was 3/11 (167d ago)",
+      "message": "Pipedrive updated 8/25, last email was 3/11 (168d ago)",
       "severity": "medium",
       "details": {
         "lastEmailDate": "2026-03-11",
         "lastPipedriveDate": "2026-08-25",
-        "emailDaysAgo": 167,
-        "pipedriveDaysAgo": 0
+        "emailDaysAgo": 168,
+        "pipedriveDaysAgo": 1
       }
     }
   ],
