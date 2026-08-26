@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T09:30:43.657115",
+  "lastUpdated": "2026-08-26T10:03:05.421115",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-26",
@@ -2332,10 +2332,15 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Great Greek accepted the 25% exclusive-use threshold and confirmed every other lease point is good to go. Joey Valenti supplied the tenant LLC documents and menus and asked Jacob to create the executable lease.",
-      "nextStep": "Jacob/Ashby should prepare the executable lease using the final agreed 25% language, verify the tenant entity, exhibits, and signature blocks against the supplied documents, then circulate it for signature.",
+      "status": "Great Greek is execution-ready. Joey Valenti confirmed 'Time to Execute' and asked Jacob whether he wants to proceed through DocuSign.",
+      "nextStep": "Prepare and verify the DocuSign envelope as a draft using the final executable, tenant entity, exhibits, and signature blocks; do not circulate it until Jacob explicitly sends it.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-26",
+          "event": "Joey Valenti reconfirmed Great Greek is ready to execute and asked Jacob whether he wants to proceed through DocuSign.",
+          "type": "lease"
+        },
         {
           "date": "2026-08-25",
           "event": "Great Greek accepted the 25% exclusive-use threshold, confirmed all other lease points are resolved, supplied LLC/menu documents, and requested the executable lease.",
@@ -4187,16 +4192,22 @@
       "id": "wilson-pike-parker-music-studio",
       "name": "Parker G. / music studio",
       "property": "312A Wilson Pike Circle",
-      "status": "New Crexi activity: Alex B. downloaded/opened the 312A Wilson Pike Circle brochure on 2026-08-20, joining the existing Wilson Pike prospect collision set.",
+      "status": "Jake Morris / Charles Hawkins Co. sent a direct broker inquiry asking whether 312 Wilson Pike Circle is still available and what Anchor's asking rate is, adding another live path to the Wilson Pike collision set.",
       "stage": "Contact Made",
-      "nextStep": "Jacob/Adam should decide whether to follow up with Alex B. through Crexi and capture contact details, use, and square-footage need before promising availability.",
+      "nextStep": "Before quoting availability or rate, reconcile Jake Morris's inquiry against the active Wilson Pike prospects and confirm his user's use, square-footage requirement, parking/utilities needs, and timing.",
       "priority": "high",
       "contacts": [
         "Parker G.",
         "Brittany D. (Crexi activity)",
-        "Alex B. (Crexi activity)"
+        "Alex B. (Crexi activity)",
+        "Jake Morris (Charles Hawkins Co.)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-26",
+          "event": "Jake Morris asked whether 312 Wilson Pike Circle remains available and requested Anchor's asking rate.",
+          "type": "lead"
+        },
         {
           "date": "2026-08-20",
           "event": "Alex B. downloaded/opened the 312A Wilson Pike Circle brochure on Crexi.",
