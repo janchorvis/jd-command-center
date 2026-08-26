@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T15:30:49.737365",
+  "lastUpdated": "2026-08-26T16:06:44.373247",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-26",
@@ -1287,14 +1287,19 @@
       "id": "mcminnville-wingstop",
       "name": "Wingstop",
       "property": "McMinnville Plaza",
-      "status": "After Jacob followed up on the final lease changes, Sarah Langan said she will call on 8/26 to wrap up the Wingstop lease.",
+      "status": "Sarah Langan accepted Anchor's revised landlord-lien language and moved the sales-reporting/record-retention obligation into Section 14.05 to avoid duplication. She sent a revised lease and said she can prepare the DocuSign execution copy once Jacob confirms the revision is acceptable.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Take Sarah's 8/26 call and resolve the remaining lease changes for execution.",
+      "nextStep": "Review Sarah's revised Section 14.05 language and attached lease; if acceptable, confirm so Sarah can circulate the DocuSign execution copy.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-08-26",
           "event": "Email from Sarah Langan: McMinnville, TN-Wingstop",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-26",
+          "event": "Sarah accepted the lien changes, revised Section 14.05 for sales reporting and record retention, and offered to prepare the DocuSign execution copy after Jacob's approval.",
           "type": "email"
         },
         {
