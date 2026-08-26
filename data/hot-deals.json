@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T13:30:52.867448",
+  "lastUpdated": "2026-08-26T14:02:32.993537",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-26",
@@ -45,14 +45,19 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "StoreCrafters told Clay Richardson it is figuring 12 weeks for the Five Below landlord work. Clay cautioned that StoreCrafters has run 1-2 weeks late on both recent jobs.",
+      "status": "Sargenti asked Jacob to complete the property-owner section on page 2 of Five Below's Malone building/demo permit application and confirm the page 1 owner contact. StoreCrafters's 12-week landlord-work estimate and 1-2 week recent-delay history still need to be converted into supportable lease dates.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Convert the 12-week contractor duration plus a conservative 1-2 week delay allowance into supportable Anticipated Delivery and Outside Possession dates before finalizing the lease.",
+      "nextStep": "Complete/route the permit application's property-owner section, verify the listed owner contact, and set supportable Anticipated Delivery and Outside Possession dates using contractor timing plus delay allowance.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-08-26",
           "event": "Email from Ana Canton: Five Below_Malone, NY - Permit application form -Tenant Signature required",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-26",
+          "event": "Sargenti asked Jacob to provide the property-owner information on page 2 of Five Below's building/demo permit application and confirm the owner contact on page 1.",
           "type": "email"
         },
         {
@@ -463,7 +468,8 @@
         "Ashby Scott",
         "Bill Castagna",
         "Shaun Andriano (C2 Design Group)",
-        "Laurie Schindler (StoreCrafters)"
+        "Laurie Schindler (StoreCrafters)",
+        "Ana Canton (Sargenti)"
       ],
       "actions": [
         {
