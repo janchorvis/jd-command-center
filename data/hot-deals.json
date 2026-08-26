@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T12:30:51.282949",
+  "lastUpdated": "2026-08-26T13:02:58.247152",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-26",
@@ -4323,16 +4323,21 @@
       "id": "harrison-childrens-adventure-entertainment",
       "name": "Children's Adventure Entertainment Operator",
       "property": "Harrison Square",
-      "status": "Jacob replied to Lacey Nobbe/CBRE that parking is tight but Anchor may have interest in Wing drone delivery space in rear paved areas if CBRE thinks the red-box areas work, subject to truck-circulation review.",
+      "status": "Lacey Nobbe/CBRE followed up for a landlord yes/no on placing a Wing drone-delivery nest at Harrison; Wing has another review call on 8/27.",
       "stage": "Contact Made",
-      "nextStep": "Wait for Lacey/CBRE to confirm whether the rear paved areas work for Wing; then verify truck circulation and landlord approval.",
-      "priority": "medium",
+      "nextStep": "Jacob/Adam need to confirm landlord approval and truck-circulation feasibility for the proposed rear paved area before Lacey's 8/27 Wing call.",
+      "priority": "high",
       "contacts": [
         "Mason Beecher (R.J. Brunelli & Co.)",
         "Christopher D. (Crexi activity)",
         "Lacey Nobbe (CBRE)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-26",
+          "event": "Lacey followed up asking whether landlord will allow a Wing nest at Harrison and said Wing has another call on 8/27.",
+          "type": "email"
+        },
         {
           "date": "2026-08-19",
           "event": "Jacob replied to CBRE/Wing with possible rear paved-area locations at Harrison, subject to truck circulation.",
@@ -6002,9 +6007,9 @@
       "id": "312-wilson-pike-broker-inquiry",
       "name": "312 Wilson Pike Broker Inquiry",
       "property": "312 Wilson Pike Circle",
-      "status": "Miller Fitts / JLL brought a veterinary group seeking about 4,000 SF, with flexibility up or down, and requested the flyer, LOD, rent and NNNs.",
+      "status": "Adam scheduled a 8/27 tour at Wilson Pike for an automotive-collision prospect sourced through cold broker outreach; the prospect is interested in all roughly 12,000 SF.",
       "stage": "LOI",
-      "nextStep": "Map the vet requirement against current competing Wilson Pike prospects and confirm available space, use compatibility, rent and NNN guidance before replying.",
+      "nextStep": "Prepare the flyer for the 8/27 tour, identify the broker/prospect, and reconcile the full-building collision use against the other active Wilson Pike paths before quoting or committing space.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -6061,6 +6066,11 @@
         "Miller Fitts (JLL)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-26",
+          "event": "Adam reported an 8/27 Wilson Pike tour for a collision-use prospect interested in all roughly 12,000 SF.",
+          "type": "slack"
+        },
         {
           "date": "2026-08-24",
           "event": "Email from Fitts, Miller: 312 Wilson Pike Circle",
