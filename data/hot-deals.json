@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T12:30:25.593596",
+  "lastUpdated": "2026-08-27T13:03:32.708557",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-27",
@@ -4460,10 +4460,10 @@
     {
       "id": "hopesmiles",
       "name": "HopeSmiles",
-      "property": "502 Thompson Lane",
+      "property": "Multiple Nashville office options / Phase I at 1573 Mallory active",
       "type": "Tenant Rep",
-      "status": "Hope Smiles wants to take a run at 502 Thompson. Jacob asked Nathan Frost for the DWC contact for ballpark pricing; Nathan introduced Jacob to Rob Perschino from the landlord team to connect the DWC contact.",
-      "nextStep": "Jacob coordinate with Rob/DWC and Hope Smiles' other contractor for ballpark pricing, then decide whether 502 Thompson economics work.",
+      "status": "After the Phase I tour and Bo Tyler introduction, Michael Finucane of Southeast Venture asked Jacob to meet at SEV's nearby office early next week to review Hope Smiles' requirements against the full plan set and requested Jacob's contact information.",
+      "nextStep": "Jacob send Michael availability/contact information and meet to confirm requirement fit, timing, term, economics, and plan constraints.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -4491,11 +4491,18 @@
         "Nathan Frost (Ojas Partners)",
         "Michael Gebhart (Hope Smiles CFO)",
         "Nathan Frost (Ojas)",
-        "Rob Perschino (landlord team)"
+        "Rob Perschino (landlord team)",
+        "Michael Finucane (Southeast Venture)",
+        "Bo Tyler (JLL)"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-08-27",
+          "event": "Michael Finucane requested an early-next-week meeting at SEV to review Hope Smiles' requirements against the full 1573 Mallory plan set.",
+          "type": "email"
+        },
         {
           "date": "2026-08-20",
           "event": "Email from Hope Smiles: One Month! You're Invited To The 2026 Hope Smiles Celebration! 🎉",
