@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T08:04:11.148342",
+  "lastUpdated": "2026-08-27T09:03:39.127452",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-27",
@@ -2364,13 +2364,18 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Great Greek lease is in the execution path, but Joey Valenti asked whether it went out and was executed yesterday; Gmail contains no DocuSign completion notice or fully executed-copy proof.",
-      "nextStep": "Confirm the DocuSign envelope recipient/routing status, answer Punit's separate-signature question, update Joey, and keep the deal open until a fully executed copy is verified.",
+      "status": "Great Greek's Maple Row lease is fully executed. DocuSign reported all parties completed the envelope at 8:29 AM CDT, and Micah forwarded the completed execution PDF plus signing summary to Jacob and Leasing.",
+      "nextStep": "Deliver and retain the fully executed copy, kick off the New Lease/opening checklist, process the broker commission agreement/payment posture, and resolve any remaining post-execution economics or landlord obligations as separately tracked workstreams.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-08-27",
           "event": "Joey Valenti asked whether the Great Greek lease went out and was executed yesterday; no DocuSign completion notice or fully executed copy was found in Gmail.",
+          "type": "lease"
+        },
+        {
+          "date": "2026-08-27",
+          "event": "DocuSign confirmed all parties completed the Maple Row / Great Greek lease; Micah forwarded the completed execution PDF and signing summary.",
           "type": "lease"
         },
         {
@@ -2694,7 +2699,8 @@
         "Punit Patel (Great Greek franchisee)",
         "Punit Patel",
         "Tricia Bernardo (Holrob)",
-        "Chris Crockett"
+        "Chris Crockett",
+        "Micah Lacher"
       ],
       "stage": "Lease Draft & Review",
       "stageOverride": "Lease Draft & Review"
