@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T11:31:14.841069",
+  "lastUpdated": "2026-08-27T12:05:06.908545",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-27",
@@ -4738,8 +4738,8 @@
       "name": "Buena Vista",
       "property": "2433 Buena Vista Pike",
       "type": "Land/Development",
-      "status": "Dionte Dukes / Property Wealth is screening the full 15.29-acre assemblage for an active Nashville multifamily buyer and asked for availability, pricing guidance, approved unit count (122 vs. 124), current site/civil/utility package, budget assumptions, and whether the multifamily component can be reworked as garden-style. Buyer targets land basis below roughly $15,000 per developable unit.",
-      "nextStep": "Confirm whether the Buena Vista sign is still installed; have Adam inspect the site and arrange weed-eating or cleanup if it is overgrown before active buyer follow-up.",
+      "status": "Jacob met with a Holladay Ventures acquisitions contact this week and was told Holladay expects to submit an LOI within roughly the next week. The Buena Vista sign is installed, but current site-condition proof is still pending Adam's inspection.",
+      "nextStep": "Have Adam verify the sign and site condition, route cleanup if needed, and follow up with Holladay if the expected LOI does not arrive within the stated window.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
@@ -4757,7 +4757,8 @@
         "Andrew Cannon (Holladay Ventures) <drew@holladayventures.com>",
         "Brian D. (Crexi activity)",
         "Edward H. (Crexi activity)",
-        "Dionte Dukes (Property Wealth LLC)"
+        "Dionte Dukes (Property Wealth LLC)",
+        "Andrew Cannon (Holladay Ventures)"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-11",
@@ -4765,6 +4766,11 @@
         {
           "date": "2026-08-27",
           "event": "Email from Micah Lacher: Buena vista",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-27",
+          "event": "Jacob reported Holladay Ventures expects to submit a Buena Vista LOI within roughly the next week; site-condition inspection remains pending.",
           "type": "email"
         },
         {
@@ -4977,8 +4983,8 @@
           "type": "email"
         }
       ],
-      "stage": "Trading Terms",
-      "stageOverride": "Trading Terms"
+      "stage": "LOI",
+      "stageOverride": "LOI"
     },
     {
       "id": "emerson-hall",
@@ -7693,6 +7699,29 @@
       "actions": [],
       "type": "Tenant Rep",
       "lastUpdate": "2026-08-26"
+    },
+    {
+      "id": "virginia-college-outparcel-subdivision",
+      "name": "Virginia College outparcel subdivision",
+      "property": "Virginia College Plaza",
+      "status": "Clay accepted the civil engineer's proposal for the Montgomery outparcel subdivision/layout work. The engineer has comparable concept site plans and does not expect the work to take long, but has not yet provided a firm delivery or subdivision timeline.",
+      "stage": "Contact Made",
+      "nextStep": "Clay should obtain a firm expected delivery and subdivision timeline from the engineer, then review the layout against the active outparcel and Dollar General-box leasing paths.",
+      "priority": "medium",
+      "contacts": [
+        "Clay Richardson",
+        "Micah Lacher"
+      ],
+      "timeline": [
+        {
+          "date": "2026-08-27",
+          "event": "Clay confirmed he accepted the civil engineer's proposal; layout and subdivision timing remain pending.",
+          "type": "email"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-08-27"
     }
   ],
   "droppedBalls": [
