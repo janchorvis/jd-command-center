@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T09:03:39.127452",
+  "lastUpdated": "2026-08-27T09:31:10.566788",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-27",
@@ -61,6 +61,11 @@
       "nextStep": "Complete/route the permit application's property-owner section, verify the listed owner contact, and set supportable Anticipated Delivery and Outside Possession dates using contractor timing plus delay allowance.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-27",
+          "event": "Email from Ana Canton: Five Below_Malone, NY - Permit application form -Tenant Signature required",
+          "type": "email"
+        },
         {
           "date": "2026-08-26",
           "event": "Email from Ana Canton: Five Below_Malone, NY - Permit application form -Tenant Signature required",
@@ -1304,6 +1309,11 @@
       "priority": "high",
       "timeline": [
         {
+          "date": "2026-08-27",
+          "event": "Email from Sarah Langan: McMinnville, TN-Wingstop",
+          "type": "email"
+        },
+        {
           "date": "2026-08-26",
           "event": "Email from Sarah Langan: McMinnville, TN-Wingstop",
           "type": "email"
@@ -2368,6 +2378,11 @@
       "nextStep": "Deliver and retain the fully executed copy, kick off the New Lease/opening checklist, process the broker commission agreement/payment posture, and resolve any remaining post-execution economics or landlord obligations as separately tracked workstreams.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-27",
+          "event": "Email from Joey Valenti: Automatic reply: Maple Row - Great Greek - Lease Execution",
+          "type": "email"
+        },
         {
           "date": "2026-08-27",
           "event": "Joey Valenti asked whether the Great Greek lease went out and was executed yesterday; no DocuSign completion notice or fully executed copy was found in Gmail.",
@@ -5649,6 +5664,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-08-27",
+          "event": "Email from Jordan Hollander: 🏨 VAI Resort Deploys 12 AI Apps",
+          "type": "email"
+        },
+        {
           "date": "2026-08-25",
           "event": "Email from Jacob Delk: Gastonia, NC - Big Lots",
           "type": "email"
@@ -7286,7 +7306,7 @@
       "name": "Jordan Dilmanian - Maple Row sale inquiry",
       "property": "Maple Row Shopping Center",
       "status": "Jon Petty told Jordan Dilmanian Maple Row is owned by Anchor, said he has not seen Anchor sell assets, and copied Jacob so Jordan can ask directly.",
-      "stage": "Contact Made",
+      "stage": "Lease Signed",
       "nextStep": "Jacob/Micah to decide whether to entertain a Maple Row sale inquiry, require NDA/data-room posture, or politely say not for sale.",
       "priority": "medium",
       "contacts": [
@@ -7294,6 +7314,16 @@
         "Jon Petty (Southeast Venture)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-27",
+          "event": "Email from Jacob Delk: Maple Row - Great Greek - Lease Execution",
+          "type": "email"
+        },
+        {
+          "date": "2026-08-27",
+          "event": "Email from Micah Lacher: Fwd: Completed: Complete with Docusign: Maple Row - Great Greek Lease",
+          "type": "email"
+        },
         {
           "date": "2026-08-26",
           "event": "Email from Jacob Delk: Maple Row - Great Greek - Lease Execution",
@@ -7336,7 +7366,10 @@
         "avgSqFt": 5206,
         "suiteCount": 11,
         "vacantCount": 0
-      }
+      },
+      "stageOverride": "Lease Signed",
+      "stageOverrideDate": "2026-08-27",
+      "stageOverrideSource": "email-signal: complete with docusign"
     },
     {
       "id": "russellville-qsr-outparcel-tyler-riley",
