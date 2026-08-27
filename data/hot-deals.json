@@ -8764,153 +8764,135 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-08-27T07:16:18",
-    "source": "active-tasks",
+    "generatedAt": "2026-08-27T07:34:57",
+    "source": "morning-briefing",
     "yourPlate": [
       {
         "id": "sweep-plate-1",
-        "text": "Forks of the River / Mattresses Inc. renewal escalation — Damian Winsor said he took control of the store from Chad and prefers to retain the full expanded premises; if that is unavailable, he proposed a five-year renewal plus five-year option on the original premises. He also raised a prior $40,000 HVAC burden, requested a phone call, and asked not to work with Mathison going forward. Jacob/Clay need to verify the current lease, renewal/expansion rights, marketed-space commitments, HVAC responsibility, and competing HoneyBaked/CosmoProf suite paths before choosing a renewal posture and scheduling the call. No Gmail draft or external reply was created",
+        "text": "Gabe's outparcel - set accept/counter posture for the 12:30 call. [T400]",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-2",
-        "text": "Sam Barrett / PCON prospective-member introduction — Dane Brunett introduced Sam Barrett to Jacob after meeting with him and said Sam is going through the PCON prospective process. Jacob needs to acknowledge the introduction and arrange a conversation with Sam. No Gmail draft or external reply was created",
+        "text": "Harrison Wing - landlord approval and truck-circulation call before today's review. [T324]",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-3",
-        "text": "Loop Andrew Cannon into email with Sam Oliver and Chris Brophy — Jacob asked to be reminded to loop in the person he met for breakfast on 2026-08-25 with Sam Oliver and Chris Brophy. Calendar and Gmail identify him as Andrew Cannon (Drew), drew@holladayventures.com, Holladay Ventures. No due date specified",
+        "text": "Five Below permit - verify/sign owner section blocking City intake. [T296]",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-4",
-        "text": "Install and verify GBrain brain-first instructions on Jacob's MacBook Pro — `GBrain-Brain-First-Instructions.zip` was delivered to the MacBook Downloads folder after Codex and Claude Code remote GBrain access passed. Jacob needs to run the installer; it preserves existing files, adds managed brain-first blocks to `~/.codex/AGENTS.md` and `~/.claude/CLAUDE.md`, and launches fresh-client verification. Connection alone does not prove either client will consistently retrieve or save memory",
+        "text": "Five Below dates - set defensible delivery/outside-possession dates. [T398]",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-5",
-        "text": "Carole Ward square-footage reconciliation — Carole asked Jacob to share his square-footage spreadsheet because her starting number differs materially from the SOC slides before removing Johnson and Virginia Highlands. Jacob needs to share/route the source spreadsheet and reconcile the starting population before any removals or final totals",
+        "text": "Wingstop - approve/comment on Sarah's final lease revision for DocuSign. [T298]",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-6",
-        "text": "Forks of the River / Nathan M. pricing request — Nathan M. requested pricing for each available lease space via Crexi. Jacob/Adam need to confirm current available suites and approved asking-rent/NNN posture before replying; keep this separate from the Gabe's outparcel LOI and HoneyBaked Ham split-suite paths. Suggested reply was posted; no Gmail draft or external reply was created",
+        "text": "Mattresses Inc. - choose renewal/space posture before calling Damian. [T407]",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-7",
-        "text": "Maple Row / Tricia Bernardo + Chris Crockett requirements — Tricia is trying to secure the 2,500 SF space quickly, while Chris separately confirmed a 2,500-4,000 SF requirement. Jacob/Adam need to reconcile current availability and competing Great Greek/Cheba Hut/other use paths before committing a suite, then respond with a clear fit/economics posture",
+        "text": "SOC square footage - route Carole the source sheet and reconcile the baseline. [T403]",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-8",
-        "text": "Forks of the River / Gabe's outparcel LOI comments — Micah added comments to the Gabe's outparcel LOI. Jacob needs to reconcile them against the post-call ground-lease economics and return a clear accept/counter/timing posture. No external reply or document mutation was made by Jarvis",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-9",
-        "text": "312 Wilson Pike / Miller Fitts veterinary requirement — Miller brought a roughly 4,000 SF veterinary requirement. Jacob/Adam need to place it on the Wilson Pike collision map and verify use, parking, utilities, subdivision, and timing before quoting availability",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-10",
-        "text": "Malone / Five Below delivery-possession dates — Bill Castagna pressed for delivery and possession dates. StoreCrafters estimated 12 weeks for the landlord work on 2026-08-25, and Clay cautioned its two recent jobs finished 1-2 weeks late. Jacob/Clay need to convert that duration plus conservative delay allowance, tenant-plan delivery timing, landlord-work scope, and float into supportable Anticipated Delivery and Outside Possession dates before responding",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-11",
-        "text": "Shelbyville / Paul Gold Bealls-Five Below redevelopment follow-up — Paul reconfirmed interest, asked about demolition/pad-out plans, and wants to connect at Retail Live. Jacob/Micah/Clay need to decide the whole-box versus raze-and-outlot posture and economics before promising a configuration",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-12",
-        "text": "Buena Vista / Dionte Dukes-Property Wealth buyer screening — Dionte surfaced an active multifamily-buyer path. Jacob needs to confirm buyer identity, capital/track record, target basis, and diligence expectations before expanding DD access or treating the inquiry as qualified",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-13",
-        "text": "Mathison Ingham vanity email choice — Mathison is waiting on Jacob to choose a vanity email address and suggested `MI` or `matt`. Jacob needs to choose the address before any Google Workspace/account change is made",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-14",
-        "text": "Eitan Kohanim / Huntington purchase inquiry — Eitan followed up on a Huntington purchase path. Jacob needs to identify the exact asset and decide ownership/sale posture before sharing economics, rent roll, title, or diligence material",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-15",
-        "text": "Ross Brown / Choo Choo golf-simulator concept — Ross proposed a golf-simulator use. Jacob/Adam need the exact property, square footage, parking, ceiling/MEP, food-and-beverage, and economics requirements before evaluating fit",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-16",
-        "text": "Restore durable Mac Mini disk headroom after Hermes outage — The APFS Data volume hit 100%, the Hermes watchdog exited, and macOS kernel-panicked on 2026-08-24. Reboot recovery left about 36 GiB free, but roughly 193 GB of retired OpenClaw rollback-backup trees remain the main persistent risk. Jacob needs to approve a measured cleanup posture before any deletion; preserve active Hermes data, canonical OpenClaw history, final cutover evidence, and personal files. Read-only audit: `artifacts/disk-audit-2026-08-24.md`",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-17",
-        "text": "Highland / Smart LED first-amendment review — Mathison Ingham asked Jacob to review the Smart LED first amendment on 2026-08-21. Jacob needs to review the amendment against the executed lease/post-execution posture, confirm economics and dates, and return comments or approval. No external reply or document mutation was made by Jarvis",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-18",
-        "text": "McMinnville Plaza Suites 115-119 7,023 SF estimate and layout review — Adam Heston sent a 7,023 SF estimate and layout image, then a revised one-page plan on 2026-08-25 adding existing plumbing/bathroom and kitchenette detail while retaining the 7,023 SF gross estimate. Jacob/Adam/Clay need to verify suite configuration, current conditions, plumbing/bathroom locations, and field dimensions before using the plan for marketing, pricing, or tenant commitments. Command Center was updated; no external reply was sent",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-19",
-        "text": "Reach out to Crunch Fitness and Planet Fitness for Gastonia — Contact Crunch Fitness and Planet Fitness regarding the Gastonia opportunity and determine interest, space requirements, and next steps. Source: Discord #tasks message 1540429512225857546",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-20",
-        "text": "Renew Global Entry — Renew Jacob's Global Entry membership. Screenshot shows PASSID 156768973, expiration April 3, 2027, and renewal eligibility beginning April 3, 2026. Source: Discord #tasks message 1540345418460692652",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       }
     ],
-    "prepping": [],
-    "handling": [],
-    "deferred": []
+    "prepping": [
+      {
+        "id": "sweep-prep-8",
+        "text": "Smart LED amendment - lease-versus-amendment decision summary. [T391]",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-9",
+        "text": "Forks pricing - available-suite and rent/NNN matrix for Nathan. [T402]",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-10",
+        "text": "Maple Row - competing-prospect/suite-fit matrix. [T401]",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-11",
+        "text": "Sam Barrett - warm PCON acknowledgment and scheduling draft. [T406]",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-12",
+        "text": "Andrew Cannon - intro email draft with Sam Oliver and Chris Brophy. [T405]",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ],
+    "handling": [
+      {
+        "id": "sweep-handle-13",
+        "text": "Wilson Pike - full same-asset collision map including Miller Fitts. [T399]",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-handle-14",
+        "text": "Hermes security - reversible PyNaCl/libsodium remediation plan. [T386]",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-handle-15",
+        "text": "Parma Heights OP - resolve context and assemble the property packet. [T379]",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ],
+    "deferred": [
+      {
+        "id": "sweep-defer-1",
+        "text": "226 canonical backlog items have no same-day trigger; 15 unmatched open Asana items need status/ownership reconciliation. Nothing was silently closed.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-2",
+        "text": "🚀 Command Center: https://jd-command-center.vercel.app",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ]
   },
   "prepDocDiff": {
     "generatedAt": "2026-08-21T15:12:47.382166",
@@ -9278,35 +9260,35 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-08-27T07:16:18",
-    "source": "active-tasks",
+    "generatedAt": "2026-08-27T07:34:57",
+    "source": "morning-briefing",
     "items": [
       {
         "id": "focus-plate-1",
-        "dealName": "Forks of the River / Mattresses Inc. renewal escalation",
+        "dealName": "Gabe's outparcel - set accept/counter posture for the 12:30 ",
         "property": null,
-        "action": "Damian Winsor said he took control of the store from Chad and prefers to retain the full expanded premises; if that is unavailable, he pr...",
-        "why": "Top of your active task list this week.",
+        "action": "Gabe's outparcel - set accept/counter posture for the 12:30 call. [T400]",
+        "why": "#1 on your plate today.",
         "urgency": "high",
-        "type": "task"
+        "type": "briefing"
       },
       {
         "id": "focus-plate-2",
-        "dealName": "Sam Barrett / PCON prospective-member introduction",
+        "dealName": "Harrison Wing - landlord approval and truck-circulation call",
         "property": null,
-        "action": "Dane Brunett introduced Sam Barrett to Jacob after meeting with him and said Sam is going through the PCON prospective process. Jacob nee...",
-        "why": "Top of your active task list this week.",
+        "action": "Harrison Wing - landlord approval and truck-circulation call before today's review. [T324]",
+        "why": "#2 on your plate today.",
         "urgency": "high",
-        "type": "task"
+        "type": "briefing"
       },
       {
         "id": "focus-plate-3",
-        "dealName": "Loop Andrew Cannon into email with Sam Oliver and Chris Brop",
+        "dealName": "Five Below permit - verify/sign owner section blocking City ",
         "property": null,
-        "action": "Jacob asked to be reminded to loop in the person he met for breakfast on 2026-08-25 with Sam Oliver and Chris Brophy. Calendar and Gmail ...",
-        "why": "Top of your active task list this week.",
+        "action": "Five Below permit - verify/sign owner section blocking City intake. [T296]",
+        "why": "#3 on your plate today.",
         "urgency": "medium",
-        "type": "task"
+        "type": "briefing"
       }
     ]
   }
