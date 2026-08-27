@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T07:17:00.651803",
+  "lastUpdated": "2026-08-27T07:34:34.055137",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-27",
@@ -44,7 +44,11 @@
       "Parma heights OP (overdue — due 2026-07-07)",
       "Salvage value for Shelbyville if we raze it? (overdue — due 2026-06-26)",
       "Adam business cards (overdue — due 2026-06-24)",
-      "Reach out to Tardy about resources for seeking feedback  (overdue — due 2026-06-24)"
+      "Reach out to Tardy about resources for seeking feedback  (overdue — due 2026-06-24)",
+      "Finalize the Gabe's outparcel LOI posture before the 12:30 PM call.",
+      "Resolve Harrison Wing landlord approval before its 8/27 review call.",
+      "Unblock Five Below permit intake and set supportable delivery/possession dates.",
+      "Approve or comment on the final Wingstop lease revision before DocuSign preparation."
     ]
   },
   "pipelineDeals": [
@@ -6957,9 +6961,9 @@
       "id": "forks-of-the-river-qsr-chicken-outparcel-sale",
       "name": "QSR Chicken Concept",
       "property": "Sevierville / Forks of the River Shopping Center",
-      "status": "Caleb Glafenhein said it has been 24 days since Mahogany submitted the Sevierville ground-lease LOI and asked Jacob to press for a response.",
+      "status": "A live Sevierville / Gabe's outparcel LOI discussion is scheduled for 12:30 PM CT today with Caleb and Josiah Glafenhein; Jacob, Adam, and Micah are invited.",
       "stage": "LOI",
-      "nextStep": "Jacob/Micah need to finalize and deliver Anchor's response now: accept or counter the key economics, or give Caleb a firm response date.",
+      "nextStep": "Use Micah's LOI comments and the current ground-lease economics to leave today's call with an accept/counter posture or a firm response deadline.",
       "priority": "high",
       "contacts": [
         "Caleb Glafenhein (Greenbrier Real Estate Advisors)",
@@ -6969,6 +6973,11 @@
         "Mahogany Properties"
       ],
       "timeline": [
+        {
+          "date": "2026-08-27",
+          "event": "Briefing: Sevierville / Gabe's outparcel LOI discussion was added for 12:30 PM CT today.",
+          "type": "task"
+        },
         {
           "date": "2026-08-24",
           "event": "Caleb said the Sevierville outparcel LOI has been outstanding 24 days and pressed Jacob for a response.",
