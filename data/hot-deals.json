@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T13:03:32.708557",
+  "lastUpdated": "2026-08-27T13:30:31.574174",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-27",
@@ -4498,6 +4498,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-08-27",
+          "event": "Email from Michael Finucane: 1573 Mallory",
+          "type": "email"
+        },
         {
           "date": "2026-08-27",
           "event": "Michael Finucane requested an early-next-week meeting at SEV to review Hope Smiles' requirements against the full 1573 Mallory plan set.",
