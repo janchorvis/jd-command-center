@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T07:34:34.055137",
+  "lastUpdated": "2026-08-27T08:04:11.148342",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-27",
@@ -2364,10 +2364,15 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Great Greek is execution-ready. Joey Valenti confirmed 'Time to Execute' and asked Jacob whether he wants to proceed through DocuSign.",
-      "nextStep": "Prepare and verify the DocuSign envelope as a draft using the final executable, tenant entity, exhibits, and signature blocks; do not circulate it until Jacob explicitly sends it.",
+      "status": "Great Greek lease is in the execution path, but Joey Valenti asked whether it went out and was executed yesterday; Gmail contains no DocuSign completion notice or fully executed-copy proof.",
+      "nextStep": "Confirm the DocuSign envelope recipient/routing status, answer Punit's separate-signature question, update Joey, and keep the deal open until a fully executed copy is verified.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-27",
+          "event": "Joey Valenti asked whether the Great Greek lease went out and was executed yesterday; no DocuSign completion notice or fully executed copy was found in Gmail.",
+          "type": "lease"
+        },
         {
           "date": "2026-08-26",
           "event": "Joey Valenti reconfirmed Great Greek is ready to execute and asked Jacob whether he wants to proceed through DocuSign.",
