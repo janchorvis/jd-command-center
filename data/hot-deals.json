@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T12:02:56.416835",
+  "lastUpdated": "2026-08-28T12:30:45.774192",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-28",
@@ -71,6 +71,11 @@
       "nextStep": "Complete/route the permit application's property-owner section, verify the listed owner contact, and set supportable Anticipated Delivery and Outside Possession dates using contractor timing plus delay allowance.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-28",
+          "event": "Email from Julia Gibson: 5B Lease. Malone Plaza Shopping Center. Malone, NY (08434)",
+          "type": "email"
+        },
         {
           "date": "2026-08-27",
           "event": "Email from Ana Canton: Five Below_Malone, NY - Permit application form -Tenant Signature required",
@@ -4807,6 +4812,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-08-28",
+          "event": "Email from Property Wealth LLC: Availability + Pricing — 2433 Buena Vista Pike, Nashville",
+          "type": "email"
+        },
         {
           "date": "2026-08-28",
           "event": "Email from Crexi: ✅ Principal Susan M. opened offering memorandum on 2433 Buena Vista Pike in Nash",
