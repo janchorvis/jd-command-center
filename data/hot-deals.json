@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T11:30:47.791232",
+  "lastUpdated": "2026-08-28T12:02:56.416835",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-28",
@@ -4781,8 +4781,8 @@
       "name": "Buena Vista",
       "property": "2433 Buena Vista Pike",
       "type": "Land/Development",
-      "status": "Jacob met with a Holladay Ventures acquisitions contact this week and was told Holladay expects to submit an LOI within roughly the next week. The Buena Vista sign is installed, but current site-condition proof is still pending Adam's inspection.",
-      "nextStep": "Have Adam verify the sign and site condition, route cleanup if needed, and follow up with Holladay if the expected LOI does not arrive within the stated window.",
+      "status": "Holladay Ventures is expected to submit an LOI within roughly the next week. Separately, Crexi principal Susan M. downloaded the offering memorandum on August 28; no direct question or contact details were included in the notification, so the new buyer path is unqualified. Current site-condition proof is still pending Adam's inspection.",
+      "nextStep": "Follow up with Susan M. through Crexi for phone, email, buyer identity, target basis, timing, and diligence needs; have Adam verify the sign and site condition; follow up with Holladay if its expected LOI does not arrive within the stated window.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
@@ -4801,7 +4801,8 @@
         "Brian D. (Crexi activity)",
         "Edward H. (Crexi activity)",
         "Dionte Dukes (Property Wealth LLC)",
-        "Andrew Cannon (Holladay Ventures)"
+        "Andrew Cannon (Holladay Ventures)",
+        "Susan M. (Crexi principal)"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-11",
@@ -4810,6 +4811,11 @@
           "date": "2026-08-28",
           "event": "Email from Crexi: ✅ Principal Susan M. opened offering memorandum on 2433 Buena Vista Pike in Nash",
           "type": "email"
+        },
+        {
+          "date": "2026-08-28",
+          "event": "Crexi principal Susan M. downloaded the offering memorandum for 2433 Buena Vista Pike; no direct message or contact details were included beyond the dashboard path.",
+          "type": "lead"
         },
         {
           "date": "2026-08-27",
