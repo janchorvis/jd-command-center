@@ -8903,7 +8903,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-08-28T07:35:58",
+    "generatedAt": "2026-08-28T07:36:58",
     "source": "morning-briefing",
     "yourPlate": [
       {
@@ -9033,6 +9033,13 @@
       },
       {
         "id": "sweep-defer-5",
+        "text": "LINKS",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-6",
         "text": "🚀 Command Center: https://jd-command-center.vercel.app",
         "detail": "",
         "completed": false,
@@ -9406,7 +9413,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-08-28T07:35:58",
+    "generatedAt": "2026-08-28T07:36:58",
     "source": "morning-briefing",
     "items": [
       {
