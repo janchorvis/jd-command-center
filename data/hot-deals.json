@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-28T14:30:17.707851",
+  "lastUpdated": "2026-08-28T15:04:28.725678",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-28",
-    "greeting": "Good morning, Jacob. You have 21 overdue items.",
+    "greeting": "Good afternoon, Jacob. You have 21 overdue items.",
     "meetings": [
       {
         "time": "12:00 AM",
@@ -54,11 +54,7 @@
       "PCON feedback: Jack Lloyd (overdue — due 2026-08-13)",
       "PCON feedback: Jeffrey Shoopman (overdue — due 2026-07-29)",
       "Parma heights OP (overdue — due 2026-07-07)",
-      "Salvage value for Shelbyville if we raze it? (overdue — due 2026-06-26)",
-      "Great Greek / Maple Row: deliver and retain the executed lease copy, then launch post-execution checklist and economics review",
-      "Malone / Five Below: resolve permit owner section and supportable delivery-possession dates",
-      "McMinnville / Wingstop: review the revised lease for DocuSign approval",
-      "312 Wilson Pike: reconcile whole-building and partial-suite prospect collisions before quoting availability"
+      "Salvage value for Shelbyville if we raze it? (overdue — due 2026-06-26)"
     ]
   },
   "pipelineDeals": [
@@ -8957,7 +8953,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-08-28T07:37:36",
+    "generatedAt": "2026-08-28T15:04:28",
     "source": "morning-briefing",
     "yourPlate": [
       {
@@ -9451,7 +9447,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-08-28T07:37:36",
+    "generatedAt": "2026-08-28T15:04:28",
     "source": "morning-briefing",
     "items": [
       {
