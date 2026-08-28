@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T10:03:38.587626",
+  "lastUpdated": "2026-08-28T10:30:25.976804",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-28",
@@ -4806,6 +4806,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-08-28",
+          "event": "Email from Crexi: ✅ Principal Susan M. opened offering memorandum on 2433 Buena Vista Pike in Nash",
+          "type": "email"
+        },
         {
           "date": "2026-08-27",
           "event": "Email from Micah Lacher: Buena vista",
