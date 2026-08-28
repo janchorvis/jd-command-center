@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T07:35:25.368686",
+  "lastUpdated": "2026-08-28T08:03:15.185967",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-28",
@@ -2384,10 +2384,15 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Great Greek's Maple Row lease is fully executed. DocuSign reported all parties completed the envelope at 8:29 AM CDT, and Micah forwarded the completed execution PDF plus signing summary to Jacob and Leasing.",
-      "nextStep": "Deliver and retain the fully executed copy, kick off the New Lease/opening checklist, process the broker commission agreement/payment posture, and resolve any remaining post-execution economics or landlord obligations as separately tracked workstreams.",
+      "status": "Great Greek's Maple Row lease is fully executed and tenant onboarding is underway. Nick/Punit asked Anchor to coordinate key pickup after 5 PM next week and provide utility-company contacts plus the required account-transfer timing.",
+      "nextStep": "Property Management/Jacob should confirm the key handoff date/time, send utility-company contacts and transfer dates, then continue the New Lease/opening checklist, executed-copy retention, commission processing, and unresolved landlord-obligation review.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-28",
+          "event": "Nick/Punit requested key-pickup coordination and utility setup instructions for Great Greek's post-execution onboarding.",
+          "type": "email"
+        },
         {
           "date": "2026-08-27",
           "event": "Email from Joey Valenti: Automatic reply: Maple Row - Great Greek - Lease Execution",
@@ -2725,7 +2730,8 @@
         "Punit Patel",
         "Tricia Bernardo (Holrob)",
         "Chris Crockett",
-        "Micah Lacher"
+        "Micah Lacher",
+        "Nick Patel"
       ],
       "stage": "Lease Draft & Review",
       "stageOverride": "Lease Draft & Review"
