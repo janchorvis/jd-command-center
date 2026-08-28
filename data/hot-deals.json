@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T12:30:45.774192",
+  "lastUpdated": "2026-08-28T13:03:55.462797",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-28",
@@ -4786,8 +4786,8 @@
       "name": "Buena Vista",
       "property": "2433 Buena Vista Pike",
       "type": "Land/Development",
-      "status": "Holladay Ventures is expected to submit an LOI within roughly the next week. Separately, Crexi principal Susan M. downloaded the offering memorandum on August 28; no direct question or contact details were included in the notification, so the new buyer path is unqualified. Current site-condition proof is still pending Adam's inspection.",
-      "nextStep": "Follow up with Susan M. through Crexi for phone, email, buyer identity, target basis, timing, and diligence needs; have Adam verify the sign and site condition; follow up with Holladay if its expected LOI does not arrive within the stated window.",
+      "status": "Holladay Ventures is expected to submit an LOI within roughly the next week. Crexi principal Susan M. downloaded the offering memorandum on August 28 but remains unqualified. Property Wealth screened out after Jacob confirmed the 15.29-acre assemblage, 124 total units, and $10 million pricing guidance; Dionte Dukes said the resulting basis is too far outside his buyer's box and will not circulate the site. Current site-condition proof is still pending Adam's inspection.",
+      "nextStep": "Follow up with Susan M. through Crexi for phone, email, buyer identity, target basis, timing, and diligence needs; have Adam verify the sign and site condition; follow up with Holladay if its expected LOI does not arrive within the stated window. Treat Property Wealth as closed unless price, structure, or density materially changes.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
@@ -4826,6 +4826,11 @@
           "date": "2026-08-28",
           "event": "Crexi principal Susan M. downloaded the offering memorandum for 2433 Buena Vista Pike; no direct message or contact details were included beyond the dashboard path.",
           "type": "lead"
+        },
+        {
+          "date": "2026-08-28",
+          "event": "Property Wealth declined to circulate Buena Vista after Jacob confirmed 15.29 acres, 124 total units, and $10 million guidance; Dionte Dukes said the land basis was too far outside his buyer's box.",
+          "type": "email"
         },
         {
           "date": "2026-08-27",
