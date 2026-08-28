@@ -8903,230 +8903,142 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-08-28T07:16:18",
-    "source": "active-tasks",
+    "generatedAt": "2026-08-28T07:35:58",
+    "source": "morning-briefing",
     "yourPlate": [
       {
         "id": "sweep-plate-1",
-        "text": "Great Greek / Maple Row fully executed-copy delivery and retention — DocuSign confirmed all parties completed the lease on 2026-08-27 at 8:29 AM CDT, and Micah forwarded the completed execution PDF plus signing summary to Jacob/Leasing. Jacob needs to send the finalized execution copy to Joey/Punit as promised and retain the exact executed PDF in the deal/property record. No external email was sent by Jarvis",
+        "text": "Great Greek - send/store executed copy; decide owners for unresolved landlord obligations.",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-2",
-        "text": "Great Greek / Maple Row New Lease Checklist kickoff — Lease execution is complete. Start the post-execution NLC and assign the opening, property-management handoff, tenant-contact, insurance, deposit, rent-setup, delivery, plans/permitting, utilities, signage, and landlord-work workstreams from the executed lease",
+        "text": "Five Below - verify Malone permit owner section and lock supportable delivery dates.",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-3",
-        "text": "Great Greek / Maple Row commission agreement and payment processing — Joey previously sent the Great Greek commission agreement. Now that the lease is fully executed, verify the final commission agreement/economics, obtain any required approval, invoice or route payment through the approved commission workflow, and retain proof of payment posture",
+        "text": "Wingstop - approve revised McMinnville lease before DocuSign circulation.",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-4",
-        "text": "Great Greek / Maple Row unresolved post-execution economics and landlord obligations — Review the executed lease and outstanding deal notes for any unresolved HVAC/equipment, grease-trap, access, property-condition, TI/allowance, delivery, construction, or other landlord payment/scope obligations; convert each live obligation into a named owner/date rather than treating signature as economic closeout",
+        "text": "PCON feedback - clear overdue Nolan Ray, Gil Brandon, Joe Cavicchi, and older forms.",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-5",
-        "text": "JR M. / 312A Wilson Pike Circle Crexi brochure activity — Crexi notified that JR M. downloaded/opened the 312A Wilson Pike Circle brochure at 9:32 AM CDT on 2026-08-27. No direct message, business type, square-footage need, or contact details were included beyond the dashboard path. Jacob/Adam need to follow up through Crexi for use, size, timing, and direct contact information before promising availability because Wilson Pike has multiple active and potentially conflicting paths. Suggested reply was posted; no Gmail draft or external reply was created",
+        "text": "Hope Smiles - choose SEV meeting availability and relationship posture.",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-6",
-        "text": "Antone Christianson-Galina / PCON lunch location confirmation — Antone booked Jacob’s Thursday 2026-09-03 11:30 AM lunch slot and asked whether Jacob has a restaurant preference, offering Cilantro as the default. The calendar booking exists; Jacob only needs to confirm Cilantro or choose another location. Suggested reply was posted; no Gmail draft or external reply was created",
+        "text": "Antone lunch - confirm Cilantro or choose another restaurant for 9/3.",
         "detail": "",
         "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-7",
-        "text": "Q3 offsite / portfolio liquidity, refinance, and 2027 disposition plan — Micah to map the roughly eight refinancings through Q1 2027, choose fixed-versus-floating posture by loan, identify core versus likely 2027 sale assets, and advance the J.P. Morgan portfolio-equity credit facility through structure, collateral, cost, approvals, and draw controls. Preserve low-rate assets and avoid selling good properties solely to manufacture liquidity",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-8",
-        "text": "Q3 offsite / Carson automation continuity and underwriting engine — Ryan, with Jacob as needed, to restore or replace Carson's critical underwriting/pro forma and acquisition automations first; decide the durable system of record/runtime, preserve Anchor-owned logic/templates/data, and verify a recovery path before expanding the acquisitions agent stack. This is distinct from T333's stale Claude-usage decision and T290's Relay trigger migration",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-9",
-        "text": "Q3 offsite / Yardi budgeting, CAM controls, and accounting exception review — Carole to complete budgeting/forecast manager setup, revenue/renewal assumptions, management-fee rules, and tenant CAM exclusions/caps; run a first-year parallel CAM test and corporate/high-risk lease spot checks; capture accounting workflows with Wispr/Whisper and Yardi training transcripts; define exception reviews for AR, bill-backs, bank recs, cash-report variance, missing recurring expenses, and financial statements. Keep cash movement, receipt application, final financials, distributions, and investor reports human-controlled",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-10",
-        "text": "Q3 offsite / finish verified lease abstraction into AssetEdge — Jacob to finish the lease-abstraction rock by quarter end, use PM/accounting quality control for corporate, inherited, amended, and non-template leases, and write verified terms into AssetEdge so future answers come from reviewed structured data rather than repeated AI interpretation",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-11",
-        "text": "Q3 offsite / PM meeting-follow-through agent pilot — Jacob and Clay to build the first PM agent around L-10/property-meeting continuity: ingest transcripts, generate owner-based to-dos and priorities, preserve status memory, and prompt vendor/tenant nudges. Select a pilot owner and measurable success criteria before broader PM rollout",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-12",
-        "text": "Forks of the River / Mattresses Inc. renewal escalation — Damian Winsor said he took control of the store from Chad and prefers to retain the full expanded premises; if that is unavailable, he proposed a five-year renewal plus five-year option on the original premises. He also raised a prior $40,000 HVAC burden, requested a phone call, and asked not to work with Mathison going forward. Jacob/Clay need to verify the current lease, renewal/expansion rights, marketed-space commitments, HVAC responsibility, and competing HoneyBaked/CosmoProf suite paths before choosing a renewal posture and scheduling the call. No Gmail draft or external reply was created",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-13",
-        "text": "Sam Barrett / PCON prospective-member introduction — Dane Brunett introduced Sam Barrett to Jacob after meeting with him and said Sam is going through the PCON prospective process. Jacob needs to acknowledge the introduction and arrange a conversation with Sam. No Gmail draft or external reply was created",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-14",
-        "text": "Loop Andrew Cannon into email with Sam Oliver and Chris Brophy — Jacob asked to be reminded to loop in the person he met for breakfast on 2026-08-25 with Sam Oliver and Chris Brophy. Calendar and Gmail identify him as Andrew Cannon (Drew), drew@holladayventures.com, Holladay Ventures. No due date specified",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-15",
-        "text": "Install and verify GBrain brain-first instructions on Jacob's MacBook Pro — `GBrain-Brain-First-Instructions.zip` was delivered to the MacBook Downloads folder after Codex and Claude Code remote GBrain access passed. Jacob needs to run the installer; it preserves existing files, adds managed brain-first blocks to `~/.codex/AGENTS.md` and `~/.claude/CLAUDE.md`, and launches fresh-client verification. Connection alone does not prove either client will consistently retrieve or save memory",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-16",
-        "text": "Carole Ward square-footage reconciliation — Carole asked Jacob to share his square-footage spreadsheet because her starting number differs materially from the SOC slides before removing Johnson and Virginia Highlands. Jacob needs to share/route the source spreadsheet and reconcile the starting population before any removals or final totals",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-17",
-        "text": "Forks of the River / Nathan M. pricing request — Nathan M. requested pricing for each available lease space via Crexi. Jacob/Adam need to confirm current available suites and approved asking-rent/NNN posture before replying; keep this separate from the Gabe's outparcel LOI and HoneyBaked Ham split-suite paths. Suggested reply was posted; no Gmail draft or external reply was created",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-18",
-        "text": "Maple Row / Tricia Bernardo + Chris Crockett requirements — Tricia is trying to secure the 2,500 SF space quickly, while Chris separately confirmed a 2,500-4,000 SF requirement. Jacob/Adam need to reconcile current availability and competing Great Greek/Cheba Hut/other use paths before committing a suite, then respond with a clear fit/economics posture",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-19",
-        "text": "Forks of the River / Gabe's outparcel LOI comments — Micah added comments to the Gabe's outparcel LOI. Jacob needs to reconcile them against the post-call ground-lease economics and return a clear accept/counter/timing posture. No external reply or document mutation was made by Jarvis",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-20",
-        "text": "312 Wilson Pike / Miller Fitts veterinary requirement — Miller brought a roughly 4,000 SF veterinary requirement. Jacob/Adam need to place it on the Wilson Pike collision map and verify use, parking, utilities, subdivision, and timing before quoting availability",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-21",
-        "text": "Malone / Five Below delivery-possession dates — Bill Castagna pressed for delivery and possession dates. StoreCrafters estimated 12 weeks for the landlord work on 2026-08-25, and Clay cautioned its two recent jobs finished 1-2 weeks late. Jacob/Clay need to convert that duration plus conservative delay allowance, tenant-plan delivery timing, landlord-work scope, and float into supportable Anticipated Delivery and Outside Possession dates before responding",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-22",
-        "text": "Shelbyville / Paul Gold Bealls-Five Below redevelopment follow-up — Paul reconfirmed interest, asked about demolition/pad-out plans, and wants to connect at Retail Live. Jacob/Micah/Clay need to decide the whole-box versus raze-and-outlot posture and economics before promising a configuration",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-23",
-        "text": "Buena Vista / Dionte Dukes-Property Wealth buyer screening — Dionte surfaced an active multifamily-buyer path. Jacob needs to confirm buyer identity, capital/track record, target basis, and diligence expectations before expanding DD access or treating the inquiry as qualified",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-24",
-        "text": "Mathison Ingham vanity email choice — Mathison is waiting on Jacob to choose a vanity email address and suggested `MI` or `matt`. Jacob needs to choose the address before any Google Workspace/account change is made",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-25",
-        "text": "Eitan Kohanim / Huntington purchase inquiry — Eitan followed up on a Huntington purchase path. Jacob needs to identify the exact asset and decide ownership/sale posture before sharing economics, rent roll, title, or diligence material",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-26",
-        "text": "Ross Brown / Choo Choo golf-simulator concept — Ross proposed a golf-simulator use. Jacob/Adam need the exact property, square footage, parking, ceiling/MEP, food-and-beverage, and economics requirements before evaluating fit",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-27",
-        "text": "Restore durable Mac Mini disk headroom after Hermes outage — The APFS Data volume hit 100%, the Hermes watchdog exited, and macOS kernel-panicked on 2026-08-24. Reboot recovery left about 36 GiB free, but roughly 193 GB of retired OpenClaw rollback-backup trees remain the main persistent risk. Jacob needs to approve a measured cleanup posture before any deletion; preserve active Hermes data, canonical OpenClaw history, final cutover evidence, and personal files. Read-only audit: `artifacts/disk-audit-2026-08-24.md`",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-28",
-        "text": "Highland / Smart LED first-amendment review — Mathison Ingham asked Jacob to review the Smart LED first amendment on 2026-08-21. Jacob needs to review the amendment against the executed lease/post-execution posture, confirm economics and dates, and return comments or approval. No external reply or document mutation was made by Jarvis",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-29",
-        "text": "McMinnville Plaza Suites 115-119 7,023 SF estimate and layout review — Adam Heston sent a 7,023 SF estimate and layout image, then a revised one-page plan on 2026-08-25 adding existing plumbing/bathroom and kitchenette detail while retaining the 7,023 SF gross estimate. Jacob/Adam/Clay need to verify suite configuration, current conditions, plumbing/bathroom locations, and field dimensions before using the plan for marketing, pricing, or tenant commitments. Command Center was updated; no external reply was sent",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-30",
-        "text": "Reach out to Crunch Fitness and Planet Fitness for Gastonia — Contact Crunch Fitness and Planet Fitness regarding the Gastonia opportunity and determine interest, space requirements, and next steps. Source: Discord #tasks message 1540429512225857546",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
-      },
-      {
-        "id": "sweep-plate-31",
-        "text": "Renew Global Entry — Renew Jacob's Global Entry membership. Screenshot shows PASSID 156768973, expiration April 3, 2027, and renewal eligibility beginning April 3, 2026. Source: Discord #tasks message 1540345418460692652",
-        "detail": "",
-        "completed": false,
-        "source": "active-tasks"
+        "source": "morning-briefing"
       }
     ],
-    "prepping": [],
-    "handling": [],
-    "deferred": []
+    "prepping": [
+      {
+        "id": "sweep-prep-7",
+        "text": "Great Greek - NLC, commission, and unresolved-economics package.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-8",
+        "text": "Five Below - permit-owner facts plus delivery/possession date inputs.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-9",
+        "text": "Wingstop - revised-lease decision summary for execution review.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-10",
+        "text": "Hope Smiles - SEV plan-review meeting brief and requirement checklist.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-11",
+        "text": "Wilson Pike - one-screen collision map before any availability quote.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ],
+    "handling": [
+      {
+        "id": "sweep-handle-12",
+        "text": "Software sheet - update the current software inventory.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-handle-13",
+        "text": "G Suite onboarding - add the Nashville IT support-ticket step.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ],
+    "deferred": [
+      {
+        "id": "sweep-defer-1",
+        "text": "- Buena Vista / Holladay - waiting on LOI expected next week.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-2",
+        "text": "- McMinnville UPS Store - waiting on bank funding.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-3",
+        "text": "- Hamilton recordables - waiting on recorded closing copies.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-4",
+        "text": "- Label Shopper / Malone - monitor 2027 renewal risk; no action today.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-5",
+        "text": "🚀 Command Center: https://jd-command-center.vercel.app",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ]
   },
   "prepDocDiff": {
     "generatedAt": "2026-08-21T15:12:47.382166",
@@ -9494,35 +9406,35 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-08-28T07:16:18",
-    "source": "active-tasks",
+    "generatedAt": "2026-08-28T07:35:58",
+    "source": "morning-briefing",
     "items": [
       {
         "id": "focus-plate-1",
-        "dealName": "Great Greek / Maple Row fully executed-copy delivery and ret",
+        "dealName": "Great Greek - send/store executed copy; decide owners for un",
         "property": null,
-        "action": "DocuSign confirmed all parties completed the lease on 2026-08-27 at 8:29 AM CDT, and Micah forwarded the completed execution PDF plus sig...",
-        "why": "Top of your active task list this week.",
+        "action": "Great Greek - send/store executed copy; decide owners for unresolved landlord obligations.",
+        "why": "#1 on your plate today.",
         "urgency": "high",
-        "type": "task"
+        "type": "briefing"
       },
       {
         "id": "focus-plate-2",
-        "dealName": "Great Greek / Maple Row New Lease Checklist kickoff",
+        "dealName": "Five Below - verify Malone permit owner section and lock sup",
         "property": null,
-        "action": "Lease execution is complete. Start the post-execution NLC and assign the opening, property-management handoff, tenant-contact, insurance,...",
-        "why": "Top of your active task list this week.",
+        "action": "Five Below - verify Malone permit owner section and lock supportable delivery dates.",
+        "why": "#2 on your plate today.",
         "urgency": "high",
-        "type": "task"
+        "type": "briefing"
       },
       {
         "id": "focus-plate-3",
-        "dealName": "Great Greek / Maple Row commission agreement and payment pro",
+        "dealName": "Wingstop - approve revised McMinnville lease before DocuSign",
         "property": null,
-        "action": "Joey previously sent the Great Greek commission agreement. Now that the lease is fully executed, verify the final commission agreement/ec...",
-        "why": "Top of your active task list this week.",
+        "action": "Wingstop - approve revised McMinnville lease before DocuSign circulation.",
+        "why": "#3 on your plate today.",
         "urgency": "medium",
-        "type": "task"
+        "type": "briefing"
       }
     ]
   }
