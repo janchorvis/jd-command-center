@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T15:33:17.916294",
+  "lastUpdated": "2026-08-28T16:30:21.748061",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-28",
@@ -5761,6 +5761,11 @@
         "Matt Jeffery (Vendors Village)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-28",
+          "event": "Email from Jacob Delk: Gastonia, NC - Big Lots",
+          "type": "email"
+        },
         {
           "date": "2026-08-27",
           "event": "Email from Jordan Hollander: 🏨 VAI Resort Deploys 12 AI Apps",
