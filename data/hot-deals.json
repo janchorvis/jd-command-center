@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T16:30:40.729205",
+  "lastUpdated": "2026-08-31T17:07:11.726652",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-31",
@@ -4185,9 +4185,9 @@
       "id": "river-parkway-cosmoprof",
       "name": "CosmoProf",
       "property": "River Parkway Plaza",
-      "status": "Clay asked Jacob for CosmoProf's rent before calling Damian Winsor to determine Mattresses Inc.'s monthly capacity, making the verified CosmoProf economics an immediate input to the competing-suite decision.",
+      "status": "Clay's Damian call produced a likely half-premises Mattresses Inc. path at a quoted $17/SF versus current $13/SF, but no acceptance was reported. CosmoProf's approved economics and bathroom/demising scope remain the competing-suite comparison.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Confirm the exact approved CosmoProf rent and deal economics, give them to Clay before the Damian call, then compare CosmoProf's terms against Damian's monthly capacity and the verified suite-condition/work-letter costs before choosing the suite path.",
+      "nextStep": "Confirm Damian's acceptance and exact half/square footage, verify the approved CosmoProf rent/work-letter economics, then compare the two suite paths with HVAC and verified construction costs before committing either configuration.",
       "priority": "high",
       "contacts": [
         "Kevin Trujillo (Baker Storey McDonald Properties)",
@@ -4204,6 +4204,11 @@
         {
           "date": "2026-08-31",
           "event": "Clay requested CosmoProf's rent as an immediate comparison point before calling Damian about Mattresses Inc.'s monthly rent capacity.",
+          "type": "slack"
+        },
+        {
+          "date": "2026-08-31",
+          "event": "Clay reported Damian likely will take half of the premises and that Clay quoted $17/SF versus the current $13/SF; this remains unaccepted and must be compared with CosmoProf economics.",
           "type": "slack"
         },
         {
@@ -7786,9 +7791,9 @@
       "id": "forks-mattresses-inc-renewal",
       "name": "Mattresses Inc. renewal",
       "property": "Forks of the River Shopping Center",
-      "status": "Clay is preparing to call Damian Winsor to determine what Mattresses Inc. can pay per month and asked Jacob for CosmoProf's rent so he can compare the competing suite economics before the call.",
+      "status": "After speaking with Damian Winsor, Clay said he believes Damian will take half of the premises and quoted $17/SF, up from Mattresses Inc.'s current $13/SF. Damian has not yet been reported as accepting those terms.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob should give Clay the verified CosmoProf rent/economic terms; Clay should capture Damian's maximum monthly rent and preferred premises on the call, then Jacob/Clay should compare the two paths with the lease, HVAC, and marketed-space constraints before committing either suite configuration.",
+      "nextStep": "Confirm Damian's acceptance, the exact half/square footage, term and option structure; then reconcile the $17/SF proposal with HVAC responsibility, suite-condition costs, and the competing CosmoProf/HoneyBaked/RadioShack paths before documenting a renewal.",
       "priority": "high",
       "contacts": [
         "Damian Winsor (Mattresses Inc.)",
@@ -7798,6 +7803,11 @@
         {
           "date": "2026-08-31",
           "event": "Clay said he was about to call Damian for his monthly rent capacity and asked Jacob for CosmoProf's rent to compare the competing suite paths.",
+          "type": "slack"
+        },
+        {
+          "date": "2026-08-31",
+          "event": "Clay reported post-call that Damian likely will take half of the premises and that Clay quoted $17/SF versus the current $13/SF; no tenant acceptance was reported.",
           "type": "slack"
         },
         {
