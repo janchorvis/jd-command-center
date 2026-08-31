@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T14:06:10.554599",
+  "lastUpdated": "2026-08-31T15:03:38.887301",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-31",
@@ -4185,9 +4185,9 @@
       "id": "river-parkway-cosmoprof",
       "name": "CosmoProf",
       "property": "River Parkway Plaza",
-      "status": "Mathison put a ballpark contractor estimate in the CosmoProf folder: $41,000 for two bathrooms, the demising wall, and an $8,000 office component. Removing the office component implies roughly $33,000 for the bathroom/demising scope, subject to a return visit after Anchor resolves the Damian/Mattresses posture.",
+      "status": "Clay asked Jacob for CosmoProf's rent before calling Damian Winsor to determine Mattresses Inc.'s monthly capacity, making the verified CosmoProf economics an immediate input to the competing-suite decision.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Reconcile the roughly $33,000 ballpark bathroom/demising scope against the prior allowance discussion, resolve the Damian/Mattresses suite path, verify conditions on a return visit, and settle the final CosmoProf work-letter/economic posture.",
+      "nextStep": "Confirm the exact approved CosmoProf rent and deal economics, give them to Clay before the Damian call, then compare CosmoProf's terms against Damian's monthly capacity and the verified suite-condition/work-letter costs before choosing the suite path.",
       "priority": "high",
       "contacts": [
         "Kevin Trujillo (Baker Storey McDonald Properties)",
@@ -4197,9 +4197,15 @@
         "Kevin Trujillo (BSM Properties)",
         "Brad Altum (BSM Properties)",
         "Mathison Ingham",
-        "Damian Winsor"
+        "Damian Winsor",
+        "Clay Richardson"
       ],
       "timeline": [
+        {
+          "date": "2026-08-31",
+          "event": "Clay requested CosmoProf's rent as an immediate comparison point before calling Damian about Mattresses Inc.'s monthly rent capacity.",
+          "type": "slack"
+        },
         {
           "date": "2026-08-27",
           "event": "Mathison shared a $41,000 ballpark estimate for two bathrooms, demising wall, and an $8,000 office component; scope needs re-verification after the Damian/Mattresses posture is resolved.",
@@ -7765,15 +7771,20 @@
       "id": "forks-mattresses-inc-renewal",
       "name": "Mattresses Inc. renewal",
       "property": "Forks of the River Shopping Center",
-      "status": "Damian Winsor sent Clay a major renewal escalation after taking control of the store from Chad. He prefers to retain the full expanded premises; if that is no longer available, he proposes renewing the original premises for five years with a five-year option. He also raised a prior $40,000 HVAC burden, said the store is improving under his control, requested a phone call, and asked not to work with Mathison going forward.",
+      "status": "Clay is preparing to call Damian Winsor to determine what Mattresses Inc. can pay per month and asked Jacob for CosmoProf's rent so he can compare the competing suite economics before the call.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Jacob/Clay should verify the current lease, renewal/expansion rights, marketed-space commitments, HVAC responsibility, and competing HoneyBaked/CosmoProf suite paths before deciding whether to preserve the full premises or offer a five-year renewal on the original suite; then schedule the requested call with Damian.",
+      "nextStep": "Jacob should give Clay the verified CosmoProf rent/economic terms; Clay should capture Damian's maximum monthly rent and preferred premises on the call, then Jacob/Clay should compare the two paths with the lease, HVAC, and marketed-space constraints before committing either suite configuration.",
       "priority": "high",
       "contacts": [
         "Damian Winsor (Mattresses Inc.)",
         "Clay Richardson"
       ],
       "timeline": [
+        {
+          "date": "2026-08-31",
+          "event": "Clay said he was about to call Damian for his monthly rent capacity and asked Jacob for CosmoProf's rent to compare the competing suite paths.",
+          "type": "slack"
+        },
         {
           "date": "2026-08-26",
           "event": "Clay forwarded Damian Winsor's renewal escalation: preference to retain the full expanded premises, fallback five-year renewal plus five-year option on the original premises, and request for a phone call.",
