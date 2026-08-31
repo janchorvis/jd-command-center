@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T09:31:04.895651",
+  "lastUpdated": "2026-08-31T10:31:11.083537",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-31",
@@ -56,6 +56,11 @@
       "nextStep": "Complete/route the permit application's property-owner section, verify the listed owner contact, and set supportable Anticipated Delivery and Outside Possession dates using contractor timing plus delay allowance.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-31",
+          "event": "Email from Ana Canton: Five Below_Malone, NY - Permit application form -Tenant Signature required",
+          "type": "email"
+        },
         {
           "date": "2026-08-30",
           "event": "Email from Ana Canton: Five Below_Malone, NY - Permit application form -Tenant Signature required",
