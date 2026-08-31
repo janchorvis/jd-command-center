@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T10:31:11.083537",
+  "lastUpdated": "2026-08-31T14:06:10.554599",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-31",
@@ -2389,10 +2389,15 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row Shopping Center",
-      "status": "Great Greek's Maple Row lease is fully executed and tenant onboarding is underway. Nick/Punit asked Anchor to coordinate key pickup after 5 PM next week and provide utility-company contacts plus the required account-transfer timing.",
-      "nextStep": "Property Management/Jacob should confirm the key handoff date/time, send utility-company contacts and transfer dates, then continue the New Lease/opening checklist, executed-copy retention, commission processing, and unresolved landlord-obligation review.",
+      "status": "Great Greek's Maple Row lease is fully executed and tenant onboarding is underway. Centennial Retail invoice 1835 now requests $11,527.50, half of the $23,055 gross commission at 3% of $768,500 total rents, due on receipt.",
+      "nextStep": "Jacob/Accounting should verify invoice 1835 against the final commission agreement, approve check versus wire, route the $11,527.50 first-half payment through the approved workflow, and retain payment proof while Property Management completes key and utility onboarding.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-08-31",
+          "event": "Joey Valenti sent Centennial Retail invoice 1835 for $11,527.50 due now and asked whether Centennial should pick up a check or receive a wire.",
+          "type": "email"
+        },
         {
           "date": "2026-08-28",
           "event": "Nick/Punit requested key-pickup coordination and utility setup instructions for Great Greek's post-execution onboarding.",
