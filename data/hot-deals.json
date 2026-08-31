@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T15:03:38.887301",
+  "lastUpdated": "2026-08-31T16:30:40.729205",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-08-31",
@@ -4531,6 +4531,11 @@
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
+          "date": "2026-08-31",
+          "event": "Email from Michael Finucane: 1573 Mallory",
+          "type": "email"
+        },
+        {
           "date": "2026-08-28",
           "event": "Email from Michael Finucane: 1573 Mallory",
           "type": "email"
@@ -7300,6 +7305,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-08-31",
+          "event": "Email from Lauer, Tracy: Michael Wachs Massena and Plattsburgh projects",
+          "type": "email"
+        },
+        {
           "date": "2026-08-10",
           "event": "Email from Lauer, Tracy: Michael Wachs Massena and Plattsburgh projects",
           "type": "email"
@@ -7432,6 +7442,11 @@
         "Jon Petty (Southeast Venture)"
       ],
       "timeline": [
+        {
+          "date": "2026-08-31",
+          "event": "Email from Jessy Sicari: TGG Hendersonville, TN- Patel -Maple Row Shopping Center, 235 E. Main Street (Ex",
+          "type": "email"
+        },
         {
           "date": "2026-08-28",
           "event": "Email from Jacob Delk: Welcome to Maple Row!",
@@ -8758,13 +8773,6 @@
       "deal": " — River Parkway Plaza",
       "daysSinceContact": 21,
       "lastAction": "BSM acknowledged Jacob's signed CA and said they will return executed copy after",
-      "urgency": "high"
-    },
-    {
-      "name": "Tracy Lauer",
-      "deal": "Michael Wachs sale inquiry — Malone Plaza",
-      "daysSinceContact": 21,
-      "lastAction": "Email from Lauer, Tracy: Michael Wachs Massena and Plattsburgh projects",
       "urgency": "high"
     },
     {
