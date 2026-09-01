@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T11:30:14.515575",
+  "lastUpdated": "2026-09-01T12:08:29.061201",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-09-01",
@@ -2393,11 +2393,16 @@
     {
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
-      "property": "Maple Row Shopping Center",
-      "status": "Great Greek's Maple Row lease is fully executed and tenant onboarding is underway. Centennial Retail invoice 1835 now requests $11,527.50, half of the $23,055 gross commission at 3% of $768,500 total rents, due on receipt.",
-      "nextStep": "Jacob/Accounting should verify invoice 1835 against the final commission agreement, approve check versus wire, route the $11,527.50 first-half payment through the approved workflow, and retain payment proof while Property Management completes key and utility onboarding.",
+      "property": "Maple Row",
+      "status": "Eli confirmed check is easiest for Centennial Retail invoice 1835 and said Accounting will cut the $11,527.50 check Friday. Payment proof and final commission-agreement verification remain open.",
+      "nextStep": "Verify invoice 1835 against the final commission agreement, confirm the Friday check is issued, update Joey on payment method if needed, and retain proof of payment.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-01",
+          "event": "Eli said check is easiest for the Great Greek commission invoice and that he will cut it Friday.",
+          "type": "email"
+        },
         {
           "date": "2026-08-31",
           "event": "Joey Valenti sent Centennial Retail invoice 1835 for $11,527.50 due now and asked whether Centennial should pick up a check or receive a wire.",
@@ -2746,7 +2751,8 @@
         "Tricia Bernardo (Holrob)",
         "Chris Crockett",
         "Micah Lacher",
-        "Nick Patel"
+        "Nick Patel",
+        "Eli Robertson"
       ],
       "stage": "Lease Draft & Review",
       "stageOverride": "Lease Draft & Review"
@@ -4190,9 +4196,9 @@
       "id": "river-parkway-cosmoprof",
       "name": "CosmoProf",
       "property": "River Parkway Plaza",
-      "status": "Clay's Damian call produced a likely half-premises Mattresses Inc. path at a quoted $17/SF versus current $13/SF, but no acceptance was reported. CosmoProf's approved economics and bathroom/demising scope remain the competing-suite comparison.",
+      "status": "Karen Bailey sent the initial proposed CosmoProf lease draft for Sevierville on September 1 and asked Jacob to approve it or return revisions. The active lease review must reconcile the approved LOI with the formal demising, utilities, bathroom delivery/work-letter terms, and verified current suite condition.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Confirm Damian's acceptance and exact half/square footage, verify the approved CosmoProf rent/work-letter economics, then compare the two suite paths with HVAC and verified construction costs before committing either configuration.",
+      "nextStep": "Compare the initial lease draft against the approved LOI and final business terms, formalize the demising/utilities/bathroom work letter, verify current plumbing/electrical/HVAC condition, and route legal/business revisions before responding.",
       "priority": "high",
       "contacts": [
         "Kevin Trujillo (Baker Storey McDonald Properties)",
@@ -4203,9 +4209,15 @@
         "Brad Altum (BSM Properties)",
         "Mathison Ingham",
         "Damian Winsor",
-        "Clay Richardson"
+        "Clay Richardson",
+        "Karen Bailey (Sally Beauty/CosmoProf)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-01",
+          "event": "Karen Bailey sent CosmoProf's initial proposed lease draft and requested approval or revisions.",
+          "type": "email"
+        },
         {
           "date": "2026-08-31",
           "event": "Clay requested CosmoProf's rent as an immediate comparison point before calling Damian about Mattresses Inc.'s monthly rent capacity.",
