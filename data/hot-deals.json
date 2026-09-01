@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T15:30:40.760141",
+  "lastUpdated": "2026-09-01T16:07:36.887742",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-09-01",
@@ -2771,10 +2771,15 @@
       "id": "evansville-easterseals",
       "tenant": "Easterseals Rehabilitation",
       "property": "Shelbyville / Harrison / Evansville former Big Lots package",
-      "status": "Vendors Village followed up after the 8/17 call asking for purchase prices by property and the lease structures that would accompany each sale.",
-      "nextStep": "Jacob/Adam/Micah need to finalize package-level and property-by-property sale pricing plus lease economics before responding to Matt Jeffery.",
+      "status": "Adam sent Vendors Village the reviewed sale posture: Evansville main strip at $5.4M, Evansville former Big Lots box only at $3.5M, and Shelbyville former Big Lots box only at $2.5M, with Anchor retaining outparcels.",
+      "nextStep": "Wait for Matt and Eli Jeffery to review the pricing, Evansville rent roll, and property flyers; respond only when they counter or ask questions.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-01",
+          "event": "Adam sent Matt and Eli Jeffery the reviewed sale prices, Evansville rent roll, and Shelbyville/Evansville flyers and offered a follow-up call.",
+          "type": "email"
+        },
         {
           "date": "2026-08-20",
           "event": "Matt Jeffery followed up asking for purchase prices per property and the leases that would come with each Vendors Village acquisition.",
@@ -4529,10 +4534,10 @@
     {
       "id": "hopesmiles",
       "name": "HopeSmiles",
-      "property": "Multiple Nashville office options / Phase I at 1573 Mallory active",
+      "property": "1573 Mallory Lane / Multiple Nashville options",
       "type": "Tenant Rep",
-      "status": "Jacob sent availability, and Michael Finucane proposed Monday 2026-08-31 at 1:00 PM at SEV's office for the Hope Smiles / 1573 Mallory plan-review meeting.",
-      "nextStep": "Jacob confirm Monday at 1:00 PM, then meet to verify requirement fit, timing, term, economics, and plan constraints.",
+      "status": "Jacob completed the 8/31 plan-review meeting with Michael Finucane. Michael is scheduled to ask Quorum on 9/2 whether it wants to remain in the right half beyond its current lease term.",
+      "nextStep": "Wait for Michael/Quorum, then settle the shared-training-area allocation and rent structure while keeping 502 Thompson and broader options alive.",
       "contacts": [
         "Amy Harper (Tenant)",
         "Shelby Hall (Landlord Rep @ Foundry Commercial)",
@@ -4567,6 +4572,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-09-01",
+          "event": "Jacob updated Bo Tyler after the 8/31 meeting: Michael will ask Quorum on 9/2 about remaining in the right half, which will guide shared-training-area rent treatment.",
+          "type": "email"
+        },
         {
           "date": "2026-08-31",
           "event": "Email from Michael Finucane: 1573 Mallory",
