@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T12:30:12.000901",
+  "lastUpdated": "2026-09-01T13:05:13.375771",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-09-01",
@@ -2400,13 +2400,18 @@
       "tenant": "Great Greek",
       "property": "Maple Row",
       "status": "Eli confirmed check is easiest for Centennial Retail invoice 1835 and said Accounting will cut the $11,527.50 check Friday. Payment proof and final commission-agreement verification remain open.",
-      "nextStep": "Verify invoice 1835 against the final commission agreement, confirm the Friday check is issued, update Joey on payment method if needed, and retain proof of payment.",
+      "nextStep": "Confirm to Eli that punit0529@gmail.com is Punit Patel's established Great Greek address and should be used for the portal invite; continue key handoff, utility-transfer, commission-check, and post-execution checklist follow-through.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-09-01",
           "event": "Eli said check is easiest for the Great Greek commission invoice and that he will cut it Friday.",
           "type": "email"
+        },
+        {
+          "date": "2026-09-01",
+          "event": "Eli asked whether punit0529@gmail.com should receive the Great Greek portal invite; Gmail history confirms it is Punit Patel's established lease and onboarding address.",
+          "type": "slack"
         },
         {
           "date": "2026-08-31",
