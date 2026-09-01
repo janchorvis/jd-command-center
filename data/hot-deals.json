@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T12:08:29.061201",
+  "lastUpdated": "2026-09-01T12:30:12.000901",
   "sourceDoc": "Leasing Meeting Prep - Week of 8/24/26",
   "today": {
     "date": "2026-09-01",
@@ -1323,6 +1323,11 @@
       "nextStep": "Review Sarah's revised Section 14.05 language and attached lease; if acceptable, confirm so Sarah can circulate the DocuSign execution copy.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-01",
+          "event": "Email from Brad Altum: McMinnville Wingstop",
+          "type": "email"
+        },
         {
           "date": "2026-08-30",
           "event": "Email from Sarah Langan: McMinnville, TN-Wingstop",
@@ -4213,6 +4218,11 @@
         "Karen Bailey (Sally Beauty/CosmoProf)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-01",
+          "event": "Email from Bailey, Karen: CosmoProf#6286 Sevierville, TN (Proposed Lease)",
+          "type": "email"
+        },
         {
           "date": "2026-09-01",
           "event": "Karen Bailey sent CosmoProf's initial proposed lease draft and requested approval or revisions.",
@@ -8819,13 +8829,6 @@
       "deal": "Smart LED TN LLC — Highland Ave Jackson TN / Hickory Village / 2151 Highland",
       "daysSinceContact": 20,
       "lastAction": "Mathison okayed Smart LED 30-day free-rent concession in concept and asked if ex",
-      "urgency": "high"
-    },
-    {
-      "name": "Kevin Trujillo",
-      "deal": "CosmoProf — River Parkway Plaza",
-      "daysSinceContact": 20,
-      "lastAction": "Email from Kevin Trujillo: FW: River Parkway Plaza - LOI - CosmoProf",
       "urgency": "high"
     },
     {
