@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T16:18:00-05:00",
+  "lastUpdated": "2026-09-02T16:30:29.797261",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-02",
@@ -1343,6 +1343,11 @@
       "nextStep": "Wait for Sarah's DocuSign circulation and James/Micah signatures; verify the fully executed copy, then open separate commission, NLC/opening-checklist, execution-copy, and payment/economic follow-up.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-02",
+          "event": "Email from Brad Altum: McMinnville Wingstop",
+          "type": "email"
+        },
         {
           "date": "2026-09-02",
           "event": "Email from Sarah Langan: McMinnville, TN-Wingstop",
@@ -8943,13 +8948,6 @@
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Circle",
       "daysSinceContact": 9,
       "lastAction": "Email from Fitts, Miller: 312 Wilson Pike Circle",
-      "urgency": "high"
-    },
-    {
-      "name": "Caleb Glafenhein",
-      "deal": "QSR Chicken Concept — Sevierville / Forks of the River Shopping Center",
-      "daysSinceContact": 9,
-      "lastAction": "Caleb said the Sevierville outparcel LOI has been outstanding 24 days and presse",
       "urgency": "high"
     },
     {
