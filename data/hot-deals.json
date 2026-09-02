@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T11:30:32.548317",
+  "lastUpdated": "2026-09-02T12:06:22.617431",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-02",
@@ -4375,18 +4375,24 @@
       "id": "wilson-pike-parker-music-studio",
       "name": "Parker G. / music studio",
       "property": "312A Wilson Pike Circle",
-      "status": "312A Wilson Pike Circle has multiple live, potentially conflicting paths: Jake Morris requested availability/rate, an automotive-collision prospect is touring the full roughly 12,000 SF on August 27, and JR M. downloaded/opened the Crexi brochure. JR M.'s notification includes no use, size, direct message, or contact detail beyond the Crexi dashboard path.",
+      "status": "312 Wilson Pike has multiple competing whole- and partial-building paths. New 9/2 inquiry: Lonnie Russell / Cushman & Wakefield needs 3,500-4,000 SF with showroom plus open area and ideally 18-foot clear height. Other live paths include Miller Fitts' roughly 4,000 SF veterinary requirement, an automotive-collision prospect for the full roughly 12,000 SF, Ryder/Borders' whole-building LOI, Skiptown, Jake Morris, and Crexi brochure activity.",
       "stage": "Contact Made",
-      "nextStep": "Follow up through Crexi for JR M.'s business/use, square-footage need, timing, and direct contact information, then reconcile JR M. with the Jake Morris inquiry, full-building automotive-collision tour, and other active Wilson Pike paths before quoting or committing space.",
+      "nextStep": "Ask Lonnie for the business/use, then verify clear height and viable 3,500-4,000 SF configuration before quoting availability or economics. Reconcile this partial-space inquiry against the Wilson Pike collision map first.",
       "priority": "high",
       "contacts": [
         "Parker G.",
         "Brittany D. (Crexi activity)",
         "Alex B. (Crexi activity)",
         "Jake Morris (Charles Hawkins Co.)",
-        "JR M."
+        "JR M.",
+        "Lonnie Russell (Cushman & Wakefield)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-02",
+          "event": "Lonnie Russell / Cushman & Wakefield asked what space and rent are available for a 3,500-4,000 SF showroom/open-area requirement with ideally 18-foot clear height.",
+          "type": "lead"
+        },
         {
           "date": "2026-08-27",
           "event": "JR M. downloaded/opened the 312A Wilson Pike Circle brochure on Crexi.",
