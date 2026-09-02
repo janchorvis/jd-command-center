@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T09:30:28.649580",
+  "lastUpdated": "2026-09-02T10:30:32.018336",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-02",
@@ -7751,6 +7751,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-09-02",
+          "event": "Email from Edward Fernandez: 1,600 to 10,500 SF Available For Lease in Portland, TN",
+          "type": "email"
+        },
+        {
           "date": "2026-08-24",
           "event": "Email from Tricia Bernardo: Maple Row Available Space",
           "type": "email"
@@ -8914,13 +8919,6 @@
       "deal": "QSR Chicken Concept — Sevierville / Forks of the River Shopping Center",
       "daysSinceContact": 9,
       "lastAction": "Caleb said the Sevierville outparcel LOI has been outstanding 24 days and presse",
-      "urgency": "high"
-    },
-    {
-      "name": "Tricia Bernardo",
-      "deal": "Tricia Bernardo client - 2,500 SF — Maple Row Shopping Center",
-      "daysSinceContact": 9,
-      "lastAction": "Email from Tricia Bernardo: Maple Row Available Space",
       "urgency": "high"
     },
     {
