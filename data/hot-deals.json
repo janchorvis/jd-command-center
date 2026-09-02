@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T15:30:22.042186",
+  "lastUpdated": "2026-09-02T16:18:00-05:00",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-02",
@@ -7223,9 +7223,9 @@
       "id": "forks-of-the-river-qsr-chicken-outparcel-sale",
       "name": "QSR Chicken Concept",
       "property": "Sevierville / Forks of the River Shopping Center",
-      "status": "A live Sevierville / Gabe's outparcel LOI discussion is scheduled for 12:30 PM CT today with Caleb and Josiah Glafenhein; Jacob, Adam, and Micah are invited.",
+      "status": "Caleb returned tenant redline and clean LOIs after Anchor's post-call markup. He said the parties are close, clarified assignment/use and permitted-use language, and moved annual ground rent from the tenant's stated $80,000 ceiling to $82,500.",
       "stage": "LOI",
-      "nextStep": "Use Micah's LOI comments and the current ground-lease economics to leave today's call with an accept/counter posture or a firm response deadline.",
+      "nextStep": "Jacob, Adam, and Micah should review the 9/2 tenant redline and clean LOIs and choose accept/counter on the remaining language and $82,500 annual rent before DocuSign circulation.",
       "priority": "high",
       "contacts": [
         "Caleb Glafenhein (Greenbrier Real Estate Advisors)",
@@ -7235,6 +7235,11 @@
         "Mahogany Properties"
       ],
       "timeline": [
+        {
+          "date": "2026-09-02",
+          "event": "Caleb returned tenant redline and clean LOIs, saying the parties are close; the revisions clarify assignment/use and permitted use and set annual ground rent at $82,500 after describing $80,000 as the tenant's prior ceiling.",
+          "type": "email"
+        },
         {
           "date": "2026-08-27",
           "event": "Briefing: Sevierville / Gabe's outparcel LOI discussion was added for 12:30 PM CT today.",
@@ -7293,7 +7298,7 @@
       ],
       "actions": [],
       "type": "Tenant Rep",
-      "lastUpdate": "2026-07-09",
+      "lastUpdate": "2026-09-02",
       "rentComps": {
         "property": "Sevierville",
         "avgRate": null,
