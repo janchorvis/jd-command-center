@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T14:30:12.379173",
+  "lastUpdated": "2026-09-02T15:05:53.508146",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-02",
@@ -3081,10 +3081,10 @@
       "id": "gilded-spine-maple-row",
       "name": "Gilded Spine (Storybook Soirees LLC)",
       "property": "Maple Row Shopping Center",
-      "status": "Hillary Holmes / Gilded Spine asked Anchor to review an SBA construction-funding landlord consent and waiver after floorplan approval.",
+      "status": "Hillary Holmes / Gilded Spine says her SBA lender requires lease term coverage matching a 10-year loan and asked Anchor to amend the signed lease with one additional renewal option. The earlier SBA landlord consent and waiver also remains unresolved.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Route the landlord consent and waiver for legal/landlord review before anyone signs or approves it.",
-      "priority": "medium",
+      "nextStep": "Confirm the lender-required renewal term, then route the renewal-option amendment and outstanding landlord consent/waiver through ownership and legal before promising or signing either document.",
+      "priority": "high",
       "contacts": [
         "Hillary Holmes – gildedspinebooks@gmail.com, (414) 607-2197",
         "Hillary Holmes (Gilded Spine)",
@@ -3096,6 +3096,11 @@
         "Melissa Drish"
       ],
       "timeline": [
+        {
+          "date": "2026-09-02",
+          "event": "Hillary asked whether Anchor can amend the signed lease to add another renewal option because her SBA lender requires lease term coverage matching a 10-year loan.",
+          "type": "email"
+        },
         {
           "date": "2026-08-10",
           "event": "Gilded Spine requested review of SBA landlord consent and waiver for construction funding.",
@@ -3847,14 +3852,19 @@
       "id": "maple-row-gilded-spine-hillary-holmes",
       "name": "Gilded Spine",
       "property": "Maple Row Shopping Center",
-      "status": "Hillary asked to confirm zoning/CO feasibility and rewalk with facilities manager.",
-      "stage": "Contact Made",
-      "nextStep": "Prep zoning/CO questions and Jacob decide reply/rewalk timing.",
-      "priority": "medium",
+      "status": "Hillary says her SBA lender requires lease term coverage matching a 10-year loan and asked Anchor to amend the signed lease with one additional renewal option.",
+      "stage": "Lease Draft & Review",
+      "nextStep": "Confirm the exact lender-required option term and route an amendment through ownership/legal before promising it.",
+      "priority": "high",
       "contacts": [
         "Hillary Holmes (Gilded Spine)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-02",
+          "event": "Hillary requested a lease amendment adding another renewal option to satisfy her SBA lender's 10-year term-coverage requirement.",
+          "type": "email"
+        },
         {
           "date": "2026-06-24",
           "event": "Briefing: Gilded Spine re-engaged on zoning/CO and rewalk.",
@@ -4241,9 +4251,9 @@
       "id": "river-parkway-cosmoprof",
       "name": "CosmoProf",
       "property": "River Parkway Plaza",
-      "status": "Karen Bailey sent the initial proposed CosmoProf lease draft for Sevierville on September 1 and asked Jacob to approve it or return revisions. The active lease review must reconcile the approved LOI with the formal demising, utilities, bathroom delivery/work-letter terms, and verified current suite condition.",
+      "status": "Karen Bailey sent the initial proposed CosmoProf lease draft for Sevierville on September 1. Mathison then shared a revised layout image and said he prefers keeping Mattresses Inc. on the right side for signage visibility. The lease review must reconcile the approved LOI with the final side allocation, demising, utilities, bathroom delivery/work-letter terms, and verified current suite condition.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Compare the initial lease draft against the approved LOI and final business terms, formalize the demising/utilities/bathroom work letter, verify current plumbing/electrical/HVAC condition, and route legal/business revisions before responding.",
+      "nextStep": "Confirm whether Mattresses Inc. stays on the right and CosmoProf takes the other side, then compare the lease draft against the approved LOI, formalize the demising/utilities/bathroom work letter, verify current plumbing/electrical/HVAC condition, and route revisions.",
       "priority": "high",
       "contacts": [
         "Kevin Trujillo (Baker Storey McDonald Properties)",
@@ -4258,6 +4268,11 @@
         "Karen Bailey (Sally Beauty/CosmoProf)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-02",
+          "event": "Mathison shared a revised layout image and recommended keeping Mattresses Inc. on the right side for signage visibility.",
+          "type": "slack"
+        },
         {
           "date": "2026-09-01",
           "event": "Email from Bailey, Karen: CosmoProf#6286 Sevierville, TN (Proposed Lease)",
