@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T13:30:06.539386",
+  "lastUpdated": "2026-09-03T14:30:07.517796",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-03",
@@ -52,6 +52,11 @@
       "nextStep": "Complete/route the permit application's property-owner section, verify the listed owner contact, and set supportable Anticipated Delivery and Outside Possession dates using contractor timing plus delay allowance.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-03",
+          "event": "Email from Ana Canton: Five Below_Malone, NY - Permit application form -Tenant Signature required",
+          "type": "email"
+        },
         {
           "date": "2026-09-03",
           "event": "Email from Chain Store Age: DayBreaker: Target revives iconic brand; Five Below sizzles; Sephora to make Tik",
