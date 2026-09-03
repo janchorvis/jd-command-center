@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T07:15:56.419696",
+  "lastUpdated": "2026-09-03T09:30:44.831003",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-03",
@@ -52,6 +52,11 @@
       "nextStep": "Complete/route the permit application's property-owner section, verify the listed owner contact, and set supportable Anticipated Delivery and Outside Possession dates using contractor timing plus delay allowance.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-03",
+          "event": "Email from Chain Store Age: DayBreaker: Target revives iconic brand; Five Below sizzles; Sephora to make Tik",
+          "type": "email"
+        },
         {
           "date": "2026-09-01",
           "event": "Email from Lauer, Tracy: Malone Plaza - Five Below proposal JoAnn space",
@@ -1319,6 +1324,11 @@
       "nextStep": "Wait for Sarah's DocuSign circulation and James/Micah signatures; verify the fully executed copy, then open separate commission, NLC/opening-checklist, execution-copy, and payment/economic follow-up.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-03",
+          "event": "Email from Brad Altum: McMinnville Wingstop",
+          "type": "email"
+        },
         {
           "date": "2026-09-02",
           "event": "Email from Brad Altum: McMinnville Wingstop",
@@ -5861,6 +5871,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-09-03",
+          "event": "Email from Jordan Hollander: 🏨 Airbnb Smashes the OTA Duopoly",
+          "type": "email"
+        },
+        {
           "date": "2026-08-28",
           "event": "Email from Jacob Delk: Gastonia, NC - Big Lots",
           "type": "email"
@@ -8670,288 +8685,302 @@
     {
       "name": "Derek Tucker",
       "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
-      "daysSinceContact": 175,
+      "daysSinceContact": 176,
       "lastAction": "Derek Tucker - Big Lots / Shelbyville CoStar listing [11-msg thread]",
       "urgency": "high"
     },
     {
       "name": "Stephen Prather",
       "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 174,
+      "daysSinceContact": 175,
       "lastAction": "Stephen Prather - 'Lexy and Austin' update [12-msg thread]",
       "urgency": "high"
     },
     {
       "name": "Nhung Pham",
       "deal": "QT Nails — Montgomery (1642 Atlanta HWY)",
-      "daysSinceContact": 174,
+      "daysSinceContact": 175,
       "lastAction": "Micah Lacher - Fwd: Completed: Complete with Docusign: Montgomery Community Part",
       "urgency": "high"
     },
     {
       "name": "Chad Vang",
       "deal": "Chad Vang - Laundromat — Dixie Village",
-      "daysSinceContact": 149,
+      "daysSinceContact": 150,
       "lastAction": "LoopNet lead: Kip Brooks inquired about drive-in door for Dixie Village (2500 W ",
       "urgency": "high"
     },
     {
       "name": "Pesach Gewirtz",
       "deal": "Infinite Equity Capital - 730 — 730",
-      "daysSinceContact": 125,
+      "daysSinceContact": 126,
       "lastAction": "Pesach Gewirtz emailed after call: wants numbers on 730 to see if a deal can hap",
       "urgency": "high"
     },
     {
       "name": "Carole",
       "deal": "ABC Retail — Franklin Center / Russellville, AL",
-      "daysSinceContact": 111,
+      "daysSinceContact": 112,
       "lastAction": "Inbox: Kurt Wilson (ABC Alabama) asked for Russellville construction/move-in tim",
       "urgency": "high"
     },
     {
       "name": "Madison Idell",
       "deal": "Hibbett / JD Sports / DTLR — The Columns - Jackson, TN",
-      "daysSinceContact": 107,
+      "daysSinceContact": 108,
       "lastAction": "Madison Idell confirmed Hibbett plans to open 30-40 locations this year.",
       "urgency": "high"
     },
     {
       "name": "Kevin Moss",
       "deal": "Royal Bazaar Indian — Parma Heights",
-      "daysSinceContact": 93,
+      "daysSinceContact": 94,
       "lastAction": "Kevin Moss requested Parma Heights marketing package for Royal Bazaar.",
       "urgency": "high"
     },
     {
       "name": "Keystone Fireworks",
       "deal": "Fireworks Stands — McMinnville Plaza / fireworks tent sites",
-      "daysSinceContact": 91,
+      "daysSinceContact": 92,
       "lastAction": "Communication triage: Jeb Thompson said Keystone's Sevierville / Forks of the Ri",
       "urgency": "high"
     },
     {
       "name": "Justin Rains",
       "deal": "Factory Connection — Russellville",
-      "daysSinceContact": 91,
+      "daysSinceContact": 92,
       "lastAction": "Justin Rains / Factory Connection asked for current Russellville openings for Oc",
       "urgency": "high"
     },
     {
       "name": "Jesse Warhurst",
       "deal": "Jesse Warhurst - Building 16 inquiry — Franklin Center / Russellville, AL",
-      "daysSinceContact": 86,
+      "daysSinceContact": 87,
       "lastAction": "Email: Jesse Warhurst sent Shop Jesse K website/logo for Russellville Building 1",
       "urgency": "high"
     },
     {
       "name": "Micah Lacher",
       "deal": "Swig — Sevierville site",
-      "daysSinceContact": 86,
+      "daysSinceContact": 87,
       "lastAction": "Micah asked Jacob to use the SWIG package to price ground rent and send Anchor's",
       "urgency": "high"
     },
     {
       "name": "Danielle McGrath | 980-819-3857 / 631-466-6510",
       "deal": "Danielle McGrath - Remote ATM — Dixie Village Shopping Center",
-      "daysSinceContact": 85,
+      "daysSinceContact": 86,
       "lastAction": "Inbox: Danielle McGrath provided remote ATM rent guidance of $1,200-$2,000/month",
       "urgency": "high"
     },
     {
       "name": "Tiffanie Fitzpatrick",
       "deal": "Little Caesars — Maple Row Shopping Center",
-      "daysSinceContact": 72,
+      "daysSinceContact": 73,
       "lastAction": "Tiffanie Fitzpatrick asked utility and Fox's Pizza move-out questions for Little",
       "urgency": "high"
     },
     {
       "name": "Tina Charnitsky",
       "deal": "Spirit Halloween — Hamilton OH",
-      "daysSinceContact": 72,
+      "daysSinceContact": 73,
       "lastAction": "Tina Charnitsky said Spirit does not see how they can make the Hamilton space wo",
       "urgency": "high"
     },
     {
       "name": "Tanner Sanford",
       "deal": "The Village at Hardin Valley — The Village at Hardin Valley, West Knoxville",
-      "daysSinceContact": 72,
+      "daysSinceContact": 73,
       "lastAction": "Tanner Sanford sent updated 2026 rent roll for off-market Village at Hardin Vall",
       "urgency": "high"
     },
     {
       "name": "Carmen Drake",
       "deal": " — Hamilton, OH",
-      "daysSinceContact": 68,
+      "daysSinceContact": 69,
       "lastAction": "CBRE/Fleet Feet asked about Hamilton 1,978 SF availability, rent, NNNs, and floo",
       "urgency": "high"
     },
     {
       "name": "Faith G",
       "deal": "Faith G - office/shipping space — McMinnville Plaza",
-      "daysSinceContact": 63,
+      "daysSinceContact": 64,
       "lastAction": "Adam Heston drafted reply text internally; no external reply sent yet.",
       "urgency": "high"
     },
     {
       "name": "Charles Hawkins",
       "deal": "Emerson Hall — Emerson Hall / Gallatin",
-      "daysSinceContact": 57,
+      "daysSinceContact": 58,
       "lastAction": "Cody Hawkins / Matriarch Theater asked whether water is included in rent or paid",
       "urgency": "high"
     },
     {
       "name": "Nicolavia Stewart",
       "deal": "Nicolavia Stewart — Virginia College Plaza",
-      "daysSinceContact": 56,
+      "daysSinceContact": 57,
       "lastAction": "Prospect provided phone number and retail furniture store use.",
       "urgency": "high"
     },
     {
       "name": "Eitan Kohanim",
       "deal": "14001 Highway 43 Sale Inquiry — Russellville / 14001 Highway 43",
-      "daysSinceContact": 54,
+      "daysSinceContact": 55,
       "lastAction": "Eitan Kohanim asked whether ownership would be open to selling 14001 Highway 43 ",
       "urgency": "high"
     },
     {
       "name": "Girish Kumar / Flavors of India",
       "deal": "Nothing But Noodles — Maple Row / Hendersonville Nutrition",
-      "daysSinceContact": 51,
+      "daysSinceContact": 52,
       "lastAction": "Girish Kumar / Flavors of India asked to start the Hendersonville Nutrition expa",
       "urgency": "high"
     },
     {
       "name": "Micah Lacher",
       "deal": "Pea Ridge REA / Valley Health parcels — Pea Ridge",
-      "daysSinceContact": 51,
+      "daysSinceContact": 52,
       "lastAction": "Ashby raised Pea Ridge Valley Health survey sign issues for REA/carwash handling",
       "urgency": "high"
     },
     {
       "name": "Watkins Johnston IV",
       "deal": "Montgomery Martial Arts — Virginia College Plaza",
-      "daysSinceContact": 50,
+      "daysSinceContact": 51,
       "lastAction": "Adam forwarded corrected Montgomery Martial Arts reference history: original lea",
       "urgency": "high"
     },
     {
       "name": "James Rainer",
       "deal": "Behavioral Health RFP — McMinnville Plaza",
-      "daysSinceContact": 48,
+      "daysSinceContact": 49,
       "lastAction": "James Rainer asked whether LL would join a call to discuss behavioral-health use",
       "urgency": "high"
     },
     {
       "name": "Melissa",
       "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 47,
+      "daysSinceContact": 48,
       "lastAction": "Micah escalated Malone architecture/draw/bank materials for internal conversatio",
       "urgency": "high"
     },
     {
       "name": "Lauri Fowler",
       "deal": "Compassus — Pell City / 803 Martin St S",
-      "daysSinceContact": 47,
+      "daysSinceContact": 48,
       "lastAction": "TeamsMaestro Pell City construction summary: costs over $155/SF, $75K HVAC allow",
       "urgency": "high"
     },
     {
       "name": "Ashby",
       "deal": "Hamilton Title Objection — Hamilton Community Partners / Hamilton OH",
-      "daysSinceContact": 42,
+      "daysSinceContact": 43,
       "lastAction": "Clay deferred Hamilton leasing assumptions to Jacob; noted dashboard budgets $12",
       "urgency": "high"
     },
     {
       "name": "Ethan Roswell",
       "deal": "Spirit Halloween Evansville water shutoff — Lawndale SC / Evansville IN",
-      "daysSinceContact": 34,
+      "daysSinceContact": 35,
       "lastAction": "Spirit Utilities emailed urgent water shutoff/opening issue for Evansville/Lawnd",
       "urgency": "high"
     },
     {
       "name": "Lacey Nobbe",
       "deal": "National Auto Parts User — 10560 Harrison Ave / Hamilton OH",
-      "daysSinceContact": 29,
+      "daysSinceContact": 30,
       "lastAction": "Vendors Village included Harrison OH in three-box package interest and sale ques",
+      "urgency": "high"
+    },
+    {
+      "name": "Jennifer Stewart",
+      "deal": "Sparkle Dog Grooming / Pigtails & Crewcuts — Maple Row Shopping Center",
+      "daysSinceContact": 29,
+      "lastAction": "Email from Brad Altum: Maple Row",
       "urgency": "high"
     },
     {
       "name": "Lauri Fowler",
       "deal": " — Pell City Marketplace",
-      "daysSinceContact": 26,
+      "daysSinceContact": 27,
       "lastAction": "Brad Newkirk / Upstream asked for property-manager contact and clarification on ",
       "urgency": "high"
     },
     {
       "name": "James Kovanis",
       "deal": " — River Parkway Plaza",
-      "daysSinceContact": 23,
+      "daysSinceContact": 24,
       "lastAction": "BSM acknowledged Jacob's signed CA and said they will return executed copy after",
       "urgency": "high"
     },
     {
       "name": "Jake Brewer",
       "deal": "HoneyBaked Ham — Sevierville / Forks of the River Shopping Center",
-      "daysSinceContact": 22,
+      "daysSinceContact": 23,
       "lastAction": "Email from Jake Brewer: 209 Forks of the River Pky, 1st Floor, Sevierville, TN 3",
       "urgency": "high"
     },
     {
       "name": "Amin Lakhani",
       "deal": "Smart LED TN LLC — Highland Ave Jackson TN / Hickory Village / 2151 Highland",
-      "daysSinceContact": 21,
+      "daysSinceContact": 22,
       "lastAction": "Mathison okayed Smart LED 30-day free-rent concession in concept and asked if ex",
       "urgency": "high"
     },
     {
       "name": "Craig Hughes",
       "deal": "Regional transit service / Craig Hughes — McMinnville Plaza",
-      "daysSinceContact": 19,
+      "daysSinceContact": 20,
       "lastAction": "Adam sent proposed McMinnville tenant-layout PDFs for Suite 129/regional-transit",
       "urgency": "high"
     },
     {
       "name": "Tyler Riley",
       "deal": "Tyler Riley / QSR outparcel inquiry — Franklin Center / Russellville, AL",
-      "daysSinceContact": 18,
+      "daysSinceContact": 19,
       "lastAction": "Email from Tyler Riley: 14001 Highway 43 - Franklin Center (Russellville, AL)",
       "urgency": "high"
     },
     {
       "name": "Ryder Ballard",
       "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Circle",
-      "daysSinceContact": 9,
+      "daysSinceContact": 10,
       "lastAction": "Email from Fitts, Miller: 312 Wilson Pike Circle",
       "urgency": "high"
     },
     {
       "name": "Jon Petty",
       "deal": "UPS Store Franchisee — McMinnville Plaza",
-      "daysSinceContact": 8,
+      "daysSinceContact": 9,
       "lastAction": "Email from Anchor Leasing: Fwd: Completed: Complete with Docusign: McMinnville C",
       "urgency": "high"
     },
     {
-      "name": "Jennifer Stewart",
-      "deal": "Sparkle Dog Grooming / Pigtails & Crewcuts — Maple Row Shopping Center",
-      "daysSinceContact": 28,
-      "lastAction": "Email from Brad Altum: Maple Row",
-      "urgency": "medium"
+      "name": "Mason Beecher",
+      "deal": "Children's Adventure Entertainment Operator — Harrison Square",
+      "daysSinceContact": 8,
+      "lastAction": "Lacey followed up asking whether landlord will allow a Wing nest at Harrison and",
+      "urgency": "high"
     },
     {
       "name": "Tom Gaghan",
       "deal": "Cleveland Furniture Bank — Pearl Road / Cleveland Furniture Bank",
-      "daysSinceContact": 22,
+      "daysSinceContact": 23,
       "lastAction": "Kevin Moss supplied West Side Contracting / Doug Kabicek as local contractor rec",
       "urgency": "medium"
     },
     {
       "name": "Paul",
       "deal": "Shoe Dept — Malone Plaza",
-      "daysSinceContact": 19,
+      "daysSinceContact": 20,
       "lastAction": "Shoe Dept Malone vendor setup packet details gathered internally; outbound packe",
+      "urgency": "medium"
+    },
+    {
+      "name": "Joe Wesley",
+      "deal": " — McMinnville Plaza",
+      "daysSinceContact": 15,
+      "lastAction": "Email from Erik Futral: McMinnville Plaza",
       "urgency": "medium"
     }
   ],
