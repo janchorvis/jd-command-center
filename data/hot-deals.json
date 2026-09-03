@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T09:30:44.831003",
+  "lastUpdated": "2026-09-03T10:30:03.162854",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-03",
@@ -1539,6 +1539,11 @@
       "nextStep": "Jacob/Clay should listen for Micah's Slack context and discuss Malone bank/draw/architecture-fee handling with Ryan/Clay/Micah.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-03",
+          "event": "Email from Robert Richardson: Parking Lot Marshalls Malone NY",
+          "type": "email"
+        },
         {
           "date": "2026-07-17",
           "event": "Micah escalated Malone architecture/draw/bank materials for internal conversation with Jacob, Clay, and Ryan.",
@@ -4614,6 +4619,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-09-03",
+          "event": "Email from Hope Smiles: This Past Month at Hope Smiles: August 2026",
+          "type": "email"
+        },
         {
           "date": "2026-09-01",
           "event": "Jacob updated Bo Tyler after the 8/31 meeting: Michael will ask Quorum on 9/2 about remaining in the right half, which will guide shared-training-area rent treatment.",
@@ -8855,13 +8865,6 @@
       "deal": "Behavioral Health RFP — McMinnville Plaza",
       "daysSinceContact": 49,
       "lastAction": "James Rainer asked whether LL would join a call to discuss behavioral-health use",
-      "urgency": "high"
-    },
-    {
-      "name": "Melissa",
-      "deal": "Marshalls — Malone Plaza",
-      "daysSinceContact": 48,
-      "lastAction": "Micah escalated Malone architecture/draw/bank materials for internal conversatio",
       "urgency": "high"
     },
     {
