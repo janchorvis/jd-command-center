@@ -1,14 +1,19 @@
 {
-  "lastUpdated": "2026-09-03T17:30:11.842913",
+  "lastUpdated": "2026-09-04T07:15:48.523466",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "greeting": "Good morning, Jacob. You have 21 overdue items.",
     "meetings": [
       {
-        "time": "6:00 AM",
-        "title": "West End Men’s Bible Study",
-        "dealContext": "Stage: Contact Made | Tanner Sanford / Matthews shared an off-market shopping center opportunity. Matt… | Next: Jacob/Carson decide whether to review the rent roll and pursue an off-market offer."
+        "time": "12:00 AM",
+        "title": "Weekly Report Due: See Notes",
+        "dealContext": null
+      },
+      {
+        "time": "12:00 AM",
+        "title": "Weekly Report Due: See Notes",
+        "dealContext": null
       },
       {
         "time": "8:45 AM",
@@ -16,18 +21,33 @@
         "dealContext": "Stage: Contact Made | Nathan M. requested pricing for each currently available lease space. No busines… | Next: Ask Nathan for his business type and square-footage requirement, then provide the matching availability and approved pricing posture."
       },
       {
-        "time": "3:30 PM",
-        "title": "Expense Reports due",
+        "time": "9:00 AM",
+        "title": "Shout - Outs",
         "dealContext": null
       },
       {
-        "time": "4:30 PM",
-        "title": "Cori appt",
+        "time": "9:30 AM",
+        "title": "930 Prayer for Anchor ",
         "dealContext": null
       },
       {
-        "time": "7:00 PM",
-        "title": "Hideout Member Lesson with Scott (Scott)",
+        "time": "12:00 PM",
+        "title": "Weekly Report - Fill out by 12 on Fridays",
+        "dealContext": null
+      },
+      {
+        "time": "2:30 PM",
+        "title": "Delk + Adam 1:1",
+        "dealContext": null
+      },
+      {
+        "time": "3:00 PM",
+        "title": "Angel Heart Farm - Tracy and PCON Meeting",
+        "dealContext": null
+      },
+      {
+        "time": "3:45 PM",
+        "title": "Commissions (Anchor + Delk)",
         "dealContext": null
       }
     ],
@@ -9148,7 +9168,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-09-03T07:15:31",
+    "generatedAt": "2026-09-04T07:15:48",
     "source": "active-tasks",
     "yourPlate": [
       {
@@ -9730,7 +9750,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-09-03T07:15:31",
+    "generatedAt": "2026-09-04T07:15:48",
     "source": "active-tasks",
     "items": [
       {
