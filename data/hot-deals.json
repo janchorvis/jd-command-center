@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T09:30:28.240101",
+  "lastUpdated": "2026-09-04T10:05:56.061451",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-04",
@@ -3062,13 +3062,18 @@
       "id": "mcminnville-7brew",
       "tenant": "7 Brew",
       "property": "McMinnville Plaza",
-      "status": "Eric Rothbart's national drive-thru coffee user with more than 700 locations toured McMinnville Plaza and is highly interested in the Krystal or Subway parcel. Krystal runs through February 2, 2031 and Subway through August 31, 2031, so Adam redirected the prospect to the near-term BBQ building opportunity.",
-      "nextStep": "Wait for Eric Rothbart to confirm whether the coffee user will evaluate the BBQ building; if interested, qualify the brand, site requirements, timing, and economics.",
-      "priority": "medium",
+      "status": "Eric Rothbart identified the drive-thru coffee prospect as 7 Brew and said the owner toured McMinnville Plaza on September 3. 7 Brew wants to pursue the Krystal or Subway parcel and has succeeded with lease buyouts elsewhere; neither current tenant's lease expires before 2031.",
+      "nextStep": "Ownership should decide whether to explore a Krystal or Subway lease buyout for 7 Brew or keep steering the prospect to the BBQ building. Before pursuing a buyout, verify each tenant's lease rights, economics, operating posture, and required approval path.",
+      "priority": "high",
       "timeline": [
         {
           "date": "2026-09-04",
           "event": "Eric Rothbart said a 700-plus-location national drive-thru coffee user toured and strongly prefers the Krystal or Subway parcel; Adam advised both leases run through 2031 and redirected the prospect to the BBQ building.",
+          "type": "email"
+        },
+        {
+          "date": "2026-09-04",
+          "event": "Eric Rothbart identified the prospect as 7 Brew, said its owner toured the site on September 3, and asked whether ownership would consider a lease-buyout path for the Krystal or Subway parcel.",
           "type": "email"
         },
         {
@@ -3089,7 +3094,9 @@
       "stage": "Contact Made",
       "stageOverride": "Contact Made",
       "contacts": [
-        "Eric Rothbart"
+        "Eric Rothbart",
+        "Eric Rothbart (Venture Commercial Real Estate)",
+        "Adam Heston"
       ]
     },
     {
