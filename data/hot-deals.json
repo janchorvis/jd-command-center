@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T08:02:41.028508",
+  "lastUpdated": "2026-09-04T09:03:12.917444",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-04",
@@ -3062,10 +3062,15 @@
       "id": "mcminnville-7brew",
       "tenant": "7 Brew",
       "property": "McMinnville Plaza",
-      "status": "Prospect - Jack Gilmore exploring Krystal/BBQ building location.",
-      "nextStep": "Jacob: discuss economics with Ryan. Tenant has term elsewhere but curious.",
+      "status": "Eric Rothbart's national drive-thru coffee user with more than 700 locations toured McMinnville Plaza and is highly interested in the Krystal or Subway parcel. Krystal runs through February 2, 2031 and Subway through August 31, 2031, so Adam redirected the prospect to the near-term BBQ building opportunity.",
+      "nextStep": "Wait for Eric Rothbart to confirm whether the coffee user will evaluate the BBQ building; if interested, qualify the brand, site requirements, timing, and economics.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-09-04",
+          "event": "Eric Rothbart said a 700-plus-location national drive-thru coffee user toured and strongly prefers the Krystal or Subway parcel; Adam advised both leases run through 2031 and redirected the prospect to the BBQ building.",
+          "type": "email"
+        },
         {
           "date": "2026-03-30",
           "event": "Meeting: Jack Gilmore reached out. Exploring BBQ building as alternative site.",
@@ -3080,7 +3085,12 @@
         "avgSqFt": 3255,
         "suiteCount": 45,
         "vacantCount": 0
-      }
+      },
+      "stage": "Contact Made",
+      "stageOverride": "Contact Made",
+      "contacts": [
+        "Eric Rothbart"
+      ]
     },
     {
       "id": "mcminnville-crunch",
