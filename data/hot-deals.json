@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T07:33:35.554543",
+  "lastUpdated": "2026-09-04T08:02:41.028508",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-04",
@@ -1108,11 +1108,16 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "Jon Petty provided Matt Taylor's email and asked Jacob to send final lease copies, noting it may be easier to keep the UPS addendum separate so it can be forwarded to UPS Corporate for signature.",
+      "status": "The UPS Store lease is signed and the tenant's bank is reviewing closing documents. Amy Taylor sent the requested Landlord Lien Waiver on September 4 for Anchor to route through landlord/legal review before execution.",
       "stage": "Lease Signed",
-      "nextStep": "Compile/send UPS final lease copies for McMinnville Plaza, with addendum separate if useful for UPS Corporate signature.",
+      "nextStep": "Acknowledge Amy, route the attached Landlord Lien Waiver for landlord/legal review and execution authority, then return the approved executed form.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-04",
+          "event": "Amy Taylor sent the bank's Landlord Lien Waiver for closing-document review.",
+          "type": "email"
+        },
         {
           "date": "2026-08-25",
           "event": "Email from Anchor Leasing: Fwd: Completed: Complete with Docusign: McMinnville Community Partners - UPS Sto",
