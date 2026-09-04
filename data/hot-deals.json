@@ -1,53 +1,58 @@
 {
-  "lastUpdated": "2026-09-04T13:30:15.337507",
+  "lastUpdated": "2026-09-04T14:05:21.175268",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-04",
-    "greeting": "Good morning, Jacob. You have 21 overdue items.",
+    "greeting": "Good afternoon, Jacob. Happy Friday.",
     "meetings": [
       {
-        "time": "12:00 AM",
-        "title": "Weekly Report Due: See Notes",
+        "time": "",
+        "title": "ID\tSTART\tEND\tSUMMARY",
         "dealContext": null
       },
       {
-        "time": "12:00 AM",
-        "title": "Weekly Report Due: See Notes",
+        "time": "71hjce1gcpgmabb368qj",
+        "title": "eb9k74o68bb2ckojcbb46lgjed1lcgo30eb2cg_20260904\t2026-09-04\t2026-09-05\tWeekly Report Due: See Notes",
         "dealContext": null
       },
       {
-        "time": "8:45 AM",
-        "title": "Leasing Morning Standup",
-        "dealContext": "Stage: Contact Made | Nathan M. requested pricing for each currently available lease space. No busines… | Next: Ask Nathan for his business type and square-footage requirement, then provide the matching availability and approved pricing posture."
-      },
-      {
-        "time": "9:00 AM",
-        "title": "Shout - Outs",
+        "time": "7g71fji603nuulpddd0i",
+        "title": "frboe3_20260904\t2026-09-04\t2026-09-05\tWeekly Report Due: See Notes",
         "dealContext": null
       },
       {
-        "time": "9:30 AM",
-        "title": "930 Prayer for Anchor ",
+        "time": "08cg3deer5hana3ch63q",
+        "title": "c8b7to_20260904T134500Z\t2026-09-04T08:45:00-05:00\t2026-09-04T09:00:00-05:00\tLeasing Morning Standup",
         "dealContext": null
       },
       {
-        "time": "12:00 PM",
-        "title": "Weekly Report - Fill out by 12 on Fridays",
+        "time": "p0r3f23ieqjknaci627f",
+        "title": "7th4sp_20260904T140000Z\t2026-09-04T09:00:00-05:00\t2026-09-04T09:30:00-05:00\tShout - Outs",
         "dealContext": null
       },
       {
-        "time": "2:30 PM",
-        "title": "Delk + Adam 1:1",
+        "time": "4hl3r5q1k1mkurjsqqdc",
+        "title": "diu5qs_20260904T143000Z\t2026-09-04T09:30:00-05:00\t2026-09-04T10:00:00-05:00\t930 Prayer for Anchor",
         "dealContext": null
       },
       {
-        "time": "3:00 PM",
-        "title": "Angel Heart Farm - Tracy and PCON Meeting",
+        "time": "38t110fnrv533p1g2m1e",
+        "title": "b45hlc_20260904T170000Z\t2026-09-04T12:00:00-05:00\t2026-09-04T12:15:00-05:00\tWeekly Report - Fill out by 12 on Fridays",
         "dealContext": null
       },
       {
-        "time": "3:45 PM",
-        "title": "Commissions (Anchor + Delk)",
+        "time": "1hbfjdvhvang6jjpb8cj",
+        "title": "okfhr4_20260904T193000Z\t2026-09-04T14:30:00-05:00\t2026-09-04T15:30:00-05:00\tDelk + Adam 1:1",
+        "dealContext": null
+      },
+      {
+        "time": "3u5f45ds8nret151gt4i",
+        "title": "59dlag\t2026-09-04T15:00:00-05:00\t2026-09-04T16:00:00-05:00\tAngel Heart Farm - Tracy and PCON Meeting",
+        "dealContext": null
+      },
+      {
+        "time": "9osbnrvcsod8fjd28qk7",
+        "title": "n1938e_20260904T204500Z\t2026-09-04T15:45:00-05:00\t2026-09-04T15:45:00-05:00\tCommissions (Anchor + Delk)",
         "dealContext": null
       }
     ],
@@ -7469,15 +7474,21 @@
       "id": "malone-sale-wachs",
       "name": "Michael Wachs sale inquiry",
       "property": "Malone Plaza",
-      "status": "Michael Wachs reviewed Malone while in the Adirondacks and requested an updated site plan and rent roll so he can work on purchase numbers; Tracy Lauer asked whether Anchor can provide those or wants an NDA first.",
+      "status": "Malone now has two active sale paths: Michael Wachs requested an updated site plan and rent roll to work on purchase numbers, and Valerie Vincent reconfirmed on September 4 that she has a prospective buyer group in mind and wants to connect next week.",
       "stage": "Contact Made",
-      "nextStep": "Jacob/Ryan/Micah decide NDA/data-room posture, then provide updated site plan and rent roll or route through NDA first.",
+      "nextStep": "Jacob, Ryan, and Micah should set one NDA/data-room/economics posture, qualify Valerie's buyer and timing, and decide how both sale paths fit Malone's active Five Below, Marshalls, Shoe Dept., and redevelopment commitments before sharing diligence or making commitments.",
       "priority": "high",
       "contacts": [
         "Tracy Lauer (Widewaters)",
-        "Michael Wachs"
+        "Michael Wachs",
+        "Valerie Vincent (Venture Brokerage Group)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-04",
+          "event": "Valerie Vincent reconfirmed she has a prospective buyer group for Malone Plaza and wants to touch base next week.",
+          "type": "email"
+        },
         {
           "date": "2026-09-03",
           "event": "Email from Lauer, Tracy: FW: MALONE PLAZA",
@@ -9116,14 +9127,13 @@
     ]
   },
   "funnel": {
-    "Contact Made": 2,
-    "Touring": 3,
-    "Obtain Financials": 1,
-    "Trading Terms": 4,
-    "LOI": 3,
-    "Lease Draft & Review": 5,
-    "Stalled": 30,
-    "Lease Signed": 7
+    "Contact Made": 0,
+    "Touring": 0,
+    "Obtain Financials": 0,
+    "Trading Terms": 0,
+    "LOI": 1,
+    "Lease Draft & Review": 2,
+    "Stalled": 12
   },
   "brainDumps": [],
   "actionItems": [
