@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T07:15:48.523466",
+  "lastUpdated": "2026-09-04T07:16:12.637699",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-04",
@@ -9110,21 +9110,21 @@
       "details": {
         "lastEmailDate": "2026-09-01",
         "lastPipedriveDate": "2026-02-19",
-        "emailDaysAgo": 2,
-        "pipedriveDaysAgo": 196
+        "emailDaysAgo": 3,
+        "pipedriveDaysAgo": 197
       }
     },
     {
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 9/1, Pipedrive not updated since 5/4",
+      "message": "Last email 9/3, Pipedrive not updated since 5/4",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-09-01",
+        "lastEmailDate": "2026-09-03",
         "lastPipedriveDate": "2026-05-04",
-        "emailDaysAgo": 2,
-        "pipedriveDaysAgo": 122
+        "emailDaysAgo": 1,
+        "pipedriveDaysAgo": 123
       }
     },
     {
@@ -9136,34 +9136,34 @@
       "details": {
         "lastEmailDate": "2026-09-01",
         "lastPipedriveDate": "2024-08-16",
-        "emailDaysAgo": 2,
-        "pipedriveDaysAgo": 748
+        "emailDaysAgo": 3,
+        "pipedriveDaysAgo": 749
       }
     },
     {
       "deal": "Wingstop",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 9/2, Pipedrive not updated since 4/27",
+      "message": "Last email 9/3, Pipedrive not updated since 4/27",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-09-02",
+        "lastEmailDate": "2026-09-03",
         "lastPipedriveDate": "2026-04-27",
         "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 129
+        "pipedriveDaysAgo": 130
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "pipedrive-active-no-email",
-      "message": "Pipedrive updated 9/1, last email was 3/11 (176d ago)",
+      "message": "Pipedrive updated 9/1, last email was 3/11 (177d ago)",
       "severity": "medium",
       "details": {
         "lastEmailDate": "2026-03-11",
         "lastPipedriveDate": "2026-09-01",
-        "emailDaysAgo": 176,
-        "pipedriveDaysAgo": 2
+        "emailDaysAgo": 177,
+        "pipedriveDaysAgo": 3
       }
     }
   ],
