@@ -9205,32 +9205,39 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-09-07T07:34:10",
+    "generatedAt": "2026-09-07T07:34:51",
     "source": "morning-briefing",
     "yourPlate": [
       {
         "id": "sweep-plate-1",
-        "text": "PCON Golf Outing F+B - review/sign or delegate before Thursday's scramble.",
+        "text": "Google Workspace phishing alert - inspect Alert Center and decide containment today.",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-2",
-        "text": "McMinnville 7 Brew - decide buyout posture versus steering to the BBQ building.",
+        "text": "PCON Golf Outing F+B - review/sign or delegate before Thursday's scramble.",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-3",
-        "text": "Malone - set one buyer NDA/data-room/economics posture with Ryan and Micah.",
+        "text": "McMinnville 7 Brew - decide buyout posture versus steering to the BBQ building.",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
       },
       {
         "id": "sweep-plate-4",
+        "text": "Malone - set one buyer NDA/data-room/economics posture with Ryan and Micah.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-5",
         "text": "PCON 9/15 board prep - finish your row, metrics, Chris's bylaws follow-up, and dinner registration.",
         "detail": "",
         "completed": false,
@@ -9671,32 +9678,32 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-09-07T07:34:10",
+    "generatedAt": "2026-09-07T07:34:51",
     "source": "morning-briefing",
     "items": [
       {
         "id": "focus-plate-1",
-        "dealName": "PCON Golf Outing F+B - review/sign or delegate before Thursd",
+        "dealName": "Google Workspace phishing alert - inspect Alert Center and d",
         "property": null,
-        "action": "PCON Golf Outing F+B - review/sign or delegate before Thursday's scramble.",
+        "action": "Google Workspace phishing alert - inspect Alert Center and decide containment today.",
         "why": "#1 on your plate today.",
         "urgency": "high",
         "type": "briefing"
       },
       {
         "id": "focus-plate-2",
-        "dealName": "McMinnville 7 Brew - decide buyout posture versus steering t",
+        "dealName": "PCON Golf Outing F+B - review/sign or delegate before Thursd",
         "property": null,
-        "action": "McMinnville 7 Brew - decide buyout posture versus steering to the BBQ building.",
+        "action": "PCON Golf Outing F+B - review/sign or delegate before Thursday's scramble.",
         "why": "#2 on your plate today.",
         "urgency": "high",
         "type": "briefing"
       },
       {
         "id": "focus-plate-3",
-        "dealName": "Malone - set one buyer NDA/data-room/economics posture with ",
+        "dealName": "McMinnville 7 Brew - decide buyout posture versus steering t",
         "property": null,
-        "action": "Malone - set one buyer NDA/data-room/economics posture with Ryan and Micah.",
+        "action": "McMinnville 7 Brew - decide buyout posture versus steering to the BBQ building.",
         "why": "#3 on your plate today.",
         "urgency": "medium",
         "type": "briefing"
