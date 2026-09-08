@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T15:30:12.412998",
+  "lastUpdated": "2026-09-08T16:30:07.378107",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-08",
@@ -5958,6 +5958,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-09-08",
+          "event": "Email from David Baker: Sevierville Big Lots",
+          "type": "email"
+        },
+        {
           "date": "2026-09-03",
           "event": "Email from Jordan Hollander: 🏨 Airbnb Smashes the OTA Duopoly",
           "type": "email"
@@ -6439,6 +6444,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-09-08",
+          "event": "Email from Colton Cowart: 312 Wilson Pike Cir, Brentwood, TN 37027 - Kids United (Brentwood/Franklin, TN)",
+          "type": "email"
+        },
+        {
           "date": "2026-08-26",
           "event": "Adam reported an 8/27 Wilson Pike tour for a collision-use prospect interested in all roughly 12,000 SF.",
           "type": "slack"
@@ -6888,15 +6898,20 @@
       "id": "maple-row-nothing-but-noodles",
       "name": "Nothing But Noodles",
       "property": "Maple Row / Hendersonville Nutrition",
-      "status": "Flavors of India / Girish followed up asking to start discussion on Hendersonville Nutrition after Jacob previously suggested discussing an expansion and whether to mirror the existing lease term.",
+      "status": "Flavors of India / Girish asked to start the Hendersonville Nutrition expansion discussion. On 9/8, Micah circulated Fresh Monkee's 900-1,500 SF Hendersonville requirement (end cap with drive-thru preferred) and directed Anchor to use it to accelerate the Indian prospect's expansion decision/signature without losing a viable deal.",
       "stage": "Trading Terms",
-      "nextStep": "Jacob needs to start/coordinate expansion discussion for Hendersonville Nutrition / Nothing But Noodles.",
+      "nextStep": "Clay/Mathison should press the Indian prospect for an expansion decision and signed commitment; evaluate Fresh Monkee as the live competing use path before committing the Hendersonville Nutrition space.",
       "priority": "high",
       "contacts": [
         "Girish Kumar / Flavors of India <flavorsofindiatn@gmail.com>",
         "Girish Kumar (Flavors of India / Nothing But Noodles)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-08",
+          "event": "Micah circulated Fresh Monkee's 900-1,500 SF Hendersonville requirement, with drive-thru end cap preferred, and directed Clay/Mathison to use it to accelerate the Indian prospect's expansion decision/signature.",
+          "type": "email"
+        },
         {
           "date": "2026-07-13",
           "event": "Girish Kumar / Flavors of India asked to start the Hendersonville Nutrition expansion discussion.",
@@ -8938,13 +8953,6 @@
       "urgency": "high"
     },
     {
-      "name": "Girish Kumar / Flavors of India",
-      "deal": "Nothing But Noodles — Maple Row / Hendersonville Nutrition",
-      "daysSinceContact": 57,
-      "lastAction": "Girish Kumar / Flavors of India asked to start the Hendersonville Nutrition expa",
-      "urgency": "high"
-    },
-    {
       "name": "Micah Lacher",
       "deal": "Pea Ridge REA / Valley Health parcels — Pea Ridge",
       "daysSinceContact": 57,
@@ -9040,13 +9048,6 @@
       "deal": "Tyler Riley / QSR outparcel inquiry — Franklin Center / Russellville, AL",
       "daysSinceContact": 24,
       "lastAction": "Email from Tyler Riley: 14001 Highway 43 - Franklin Center (Russellville, AL)",
-      "urgency": "high"
-    },
-    {
-      "name": "Ryder Ballard",
-      "deal": "312 Wilson Pike Broker Inquiry — 312 Wilson Pike Circle",
-      "daysSinceContact": 15,
-      "lastAction": "Email from Fitts, Miller: 312 Wilson Pike Circle",
       "urgency": "high"
     },
     {
