@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T14:30:11.078910",
+  "lastUpdated": "2026-09-08T15:02:08.576951",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-08",
@@ -4506,14 +4506,20 @@
       "id": "millington-plaza-clay-s-crexi",
       "name": "Clay S. / Millington Plaza Crexi brochure activity",
       "property": "Millington Plaza",
-      "status": "Crexi notified that Clay S. downloaded/opened the Millington Plaza brochure. No direct message/body or contact details were included beyond the dashboard activity notice.",
+      "status": "Hurston Reed (TSCG) is seeking approximately 8,000-15,000 SF and requested availability, base rent, NNNs, and updated brochure/floor plans. Their group will be in town Thursday.",
       "stage": "Contact Made",
-      "nextStep": "Decide whether to follow up through Crexi/contact path and capture Clay S.'s phone/email/use.",
-      "priority": "medium",
+      "nextStep": "Confirm available space and economics; provide current brochure/floor plans before Thursday if pursuing.",
+      "priority": "high",
       "contacts": [
-        "Clay S. (Crexi brochure activity)"
+        "Clay S. (Crexi brochure activity)",
+        "Hurston Reed (TSCG)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-08",
+          "event": "Hurston Reed (TSCG) requested availability, base rent, NNNs, brochure and floor plans for an 8K-15K SF group visiting Thursday.",
+          "type": "inquiry"
+        },
         {
           "date": "2026-07-17",
           "event": "Crexi brochure activity: Clay S. opened/downloaded Millington Plaza brochure",
