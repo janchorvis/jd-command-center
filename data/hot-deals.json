@@ -9219,7 +9219,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-09-08T07:33:28",
+    "generatedAt": "2026-09-08T07:33:50",
     "source": "morning-briefing",
     "yourPlate": [
       {
@@ -9335,7 +9335,7 @@
     "deferred": [
       {
         "id": "sweep-defer-1",
-        "text": "Waiting on counterparts, missing context, approval-gated system work, and stale backlog with no overnight trigger.",
+        "text": "48 queued backlog items - waiting on counterparts, missing context, approval-gated work, or no overnight trigger.",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
@@ -9706,7 +9706,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-09-08T07:33:28",
+    "generatedAt": "2026-09-08T07:33:50",
     "source": "morning-briefing",
     "items": [
       {
