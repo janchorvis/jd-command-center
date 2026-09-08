@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T07:33:08.747416",
+  "lastUpdated": "2026-09-08T09:03:16.481702",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-08",
@@ -1098,11 +1098,16 @@
       "id": "mcminnville-ups",
       "name": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
-      "status": "The UPS Store lease is signed and the tenant's bank is reviewing closing documents. Amy Taylor sent the requested Landlord Lien Waiver on September 4 for Anchor to route through landlord/legal review before execution.",
+      "status": "Lease execution complete. Anchor sent Amy and Matt the fully executed lease and addendum; Jon Petty supplied UPS corporate's signed addendum on September 8.",
       "stage": "Lease Signed",
-      "nextStep": "Acknowledge Amy, route the attached Landlord Lien Waiver for landlord/legal review and execution authority, then return the approved executed form.",
+      "nextStep": "Property Management to run new-lease onboarding, retain execution records, and complete post-execution commission and opening follow-through.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-08",
+          "event": "Jon Petty supplied UPS corporate's signed addendum; no response requested.",
+          "type": "execution"
+        },
         {
           "date": "2026-09-04",
           "event": "Amy Taylor sent the bank's Landlord Lien Waiver for closing-document review.",
@@ -1317,7 +1322,8 @@
         "Matt Taylor (UPS franchisee) <mattjtaylor81@gmail.com>",
         "Matt Taylor (UPS Store prospect)",
         "Matt Taylor <mattjtaylor81@gmail.com>",
-        "Matt Taylor (UPS franchisee)"
+        "Matt Taylor (UPS franchisee)",
+        "Amy Taylor (UPS Store)"
       ],
       "actions": [
         {
