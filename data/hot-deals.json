@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T07:15:34.708024",
+  "lastUpdated": "2026-09-08T07:15:58.543776",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-08",
@@ -9145,8 +9145,8 @@
       "details": {
         "lastEmailDate": "2026-09-01",
         "lastPipedriveDate": "2026-02-19",
-        "emailDaysAgo": 6,
-        "pipedriveDaysAgo": 200
+        "emailDaysAgo": 7,
+        "pipedriveDaysAgo": 201
       }
     },
     {
@@ -9158,8 +9158,8 @@
       "details": {
         "lastEmailDate": "2026-09-03",
         "lastPipedriveDate": "2026-05-04",
-        "emailDaysAgo": 4,
-        "pipedriveDaysAgo": 126
+        "emailDaysAgo": 5,
+        "pipedriveDaysAgo": 127
       }
     },
     {
@@ -9171,8 +9171,8 @@
       "details": {
         "lastEmailDate": "2026-09-01",
         "lastPipedriveDate": "2024-08-16",
-        "emailDaysAgo": 6,
-        "pipedriveDaysAgo": 752
+        "emailDaysAgo": 7,
+        "pipedriveDaysAgo": 753
       }
     },
     {
@@ -9184,8 +9184,8 @@
       "details": {
         "lastEmailDate": "2026-09-04",
         "lastPipedriveDate": "2026-03-24",
-        "emailDaysAgo": 3,
-        "pipedriveDaysAgo": 167
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 168
       }
     },
     {
@@ -9197,21 +9197,21 @@
       "details": {
         "lastEmailDate": "2026-09-03",
         "lastPipedriveDate": "2026-04-27",
-        "emailDaysAgo": 4,
-        "pipedriveDaysAgo": 133
+        "emailDaysAgo": 5,
+        "pipedriveDaysAgo": 134
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "pipedrive-active-no-email",
-      "message": "Pipedrive updated 9/1, last email was 3/11 (180d ago)",
+      "message": "Pipedrive updated 9/8, last email was 3/11 (181d ago)",
       "severity": "medium",
       "details": {
         "lastEmailDate": "2026-03-11",
-        "lastPipedriveDate": "2026-09-01",
-        "emailDaysAgo": 180,
-        "pipedriveDaysAgo": 6
+        "lastPipedriveDate": "2026-09-08",
+        "emailDaysAgo": 181,
+        "pipedriveDaysAgo": 0
       }
     }
   ],
