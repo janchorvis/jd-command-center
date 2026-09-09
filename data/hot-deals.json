@@ -9228,9 +9228,45 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-09-09T07:34:43",
+    "generatedAt": "2026-09-09T07:35:16",
     "source": "morning-briefing",
-    "yourPlate": [],
+    "yourPlate": [
+      {
+        "id": "sweep-plate-1",
+        "text": "PCON Golf Outing - sign F+B agreement and arrange $6,992 Towhee check before Thursday.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-2",
+        "text": "7 Brew / McMinnville - choose buyout vs. BBQ-building posture.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-3",
+        "text": "Millington Plaza - confirm availability, rent, NNNs, brochure, and plans for Thursday tour group.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-4",
+        "text": "Sevierville former Big Lots / Bealls - confirm availability, economics, and conflicts before replying.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-5",
+        "text": "Google security - verify the new Linux sign-in immediately; this cron runs on macOS.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ],
     "prepping": [
       {
         "id": "sweep-prep-1",
@@ -9651,8 +9687,36 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-09-09T07:34:43",
+    "generatedAt": "2026-09-09T07:35:16",
     "source": "morning-briefing",
-    "items": []
+    "items": [
+      {
+        "id": "focus-plate-1",
+        "dealName": "PCON Golf Outing - sign F+B agreement and arrange $6,992 Tow",
+        "property": null,
+        "action": "PCON Golf Outing - sign F+B agreement and arrange $6,992 Towhee check before Thursday.",
+        "why": "#1 on your plate today.",
+        "urgency": "high",
+        "type": "briefing"
+      },
+      {
+        "id": "focus-plate-2",
+        "dealName": "7 Brew / McMinnville - choose buyout vs. BBQ-building postur",
+        "property": null,
+        "action": "7 Brew / McMinnville - choose buyout vs. BBQ-building posture.",
+        "why": "#2 on your plate today.",
+        "urgency": "high",
+        "type": "briefing"
+      },
+      {
+        "id": "focus-plate-3",
+        "dealName": "Millington Plaza - confirm availability, rent, NNNs, brochur",
+        "property": null,
+        "action": "Millington Plaza - confirm availability, rent, NNNs, brochure, and plans for Thursday tour group.",
+        "why": "#3 on your plate today.",
+        "urgency": "medium",
+        "type": "briefing"
+      }
+    ]
   }
 }
