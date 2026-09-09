@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T07:16:17.415026",
+  "lastUpdated": "2026-09-09T07:16:43.243460",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-09",
@@ -9172,55 +9172,29 @@
   ],
   "crossRefAlerts": [
     {
-      "deal": "CosmoProf",
-      "property": "River Parkway Plaza",
-      "type": "email-active-pipedrive-stale",
-      "message": "Last email 9/1, Pipedrive not updated since 2/19",
-      "severity": "high",
-      "details": {
-        "lastEmailDate": "2026-09-01",
-        "lastPipedriveDate": "2026-02-19",
-        "emailDaysAgo": 7,
-        "pipedriveDaysAgo": 201
-      }
-    },
-    {
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 9/3, Pipedrive not updated since 5/4",
+      "message": "Last email 9/8, Pipedrive not updated since 5/4",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-09-03",
+        "lastEmailDate": "2026-09-08",
         "lastPipedriveDate": "2026-05-04",
-        "emailDaysAgo": 5,
-        "pipedriveDaysAgo": 127
-      }
-    },
-    {
-      "deal": "Starbucks BTS",
-      "property": "Madison - 1508 Gallatin Pike S, Madison TN",
-      "type": "email-active-pipedrive-stale",
-      "message": "Last email 9/1, Pipedrive not updated since 8/16",
-      "severity": "high",
-      "details": {
-        "lastEmailDate": "2026-09-01",
-        "lastPipedriveDate": "2024-08-16",
-        "emailDaysAgo": 7,
-        "pipedriveDaysAgo": 753
+        "emailDaysAgo": 1,
+        "pipedriveDaysAgo": 128
       }
     },
     {
       "deal": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 9/4, Pipedrive not updated since 3/24",
+      "message": "Last email 9/8, Pipedrive not updated since 3/24",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-09-04",
+        "lastEmailDate": "2026-09-08",
         "lastPipedriveDate": "2026-03-24",
-        "emailDaysAgo": 4,
-        "pipedriveDaysAgo": 168
+        "emailDaysAgo": 1,
+        "pipedriveDaysAgo": 169
       }
     },
     {
@@ -9232,21 +9206,21 @@
       "details": {
         "lastEmailDate": "2026-09-03",
         "lastPipedriveDate": "2026-04-27",
-        "emailDaysAgo": 5,
-        "pipedriveDaysAgo": 134
+        "emailDaysAgo": 6,
+        "pipedriveDaysAgo": 135
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "pipedrive-active-no-email",
-      "message": "Pipedrive updated 9/8, last email was 3/11 (181d ago)",
+      "message": "Pipedrive updated 9/8, last email was 3/11 (182d ago)",
       "severity": "medium",
       "details": {
         "lastEmailDate": "2026-03-11",
         "lastPipedriveDate": "2026-09-08",
-        "emailDaysAgo": 181,
-        "pipedriveDaysAgo": 0
+        "emailDaysAgo": 182,
+        "pipedriveDaysAgo": 1
       }
     }
   ],
