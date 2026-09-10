@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T09:30:25.008093",
+  "lastUpdated": "2026-09-10T10:30:26.387543",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-10",
@@ -1093,6 +1093,11 @@
       "nextStep": "Property Management to run new-lease onboarding, retain execution records, and complete post-execution commission and opening follow-through.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-10",
+          "event": "Email from Jacob Delk: McMinnville UPS Store Lease Execution",
+          "type": "email"
+        },
         {
           "date": "2026-09-10",
           "event": "Email from Grace Geraghty: Accepted: Leasing x PM: Knowledge Transfer - Great Greek, UPS Store @ Thu Sep 10",
