@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T07:16:05.343995",
+  "lastUpdated": "2026-09-10T07:16:44.574563",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-10",
@@ -9217,8 +9217,8 @@
       "details": {
         "lastEmailDate": "2026-09-08",
         "lastPipedriveDate": "2026-05-04",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 128
+        "emailDaysAgo": 2,
+        "pipedriveDaysAgo": 129
       }
     },
     {
@@ -9230,8 +9230,8 @@
       "details": {
         "lastEmailDate": "2026-09-08",
         "lastPipedriveDate": "2026-03-24",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 169
+        "emailDaysAgo": 2,
+        "pipedriveDaysAgo": 170
       }
     },
     {
@@ -9243,21 +9243,21 @@
       "details": {
         "lastEmailDate": "2026-09-03",
         "lastPipedriveDate": "2026-04-27",
-        "emailDaysAgo": 6,
-        "pipedriveDaysAgo": 135
+        "emailDaysAgo": 7,
+        "pipedriveDaysAgo": 136
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "pipedrive-active-no-email",
-      "message": "Pipedrive updated 9/8, last email was 3/11 (182d ago)",
+      "message": "Pipedrive updated 9/8, last email was 3/11 (183d ago)",
       "severity": "medium",
       "details": {
         "lastEmailDate": "2026-03-11",
         "lastPipedriveDate": "2026-09-08",
-        "emailDaysAgo": 182,
-        "pipedriveDaysAgo": 1
+        "emailDaysAgo": 183,
+        "pipedriveDaysAgo": 2
       }
     }
   ],
