@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T07:16:44.574563",
+  "lastUpdated": "2026-09-10T07:32:34.767542",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-10",
@@ -34,7 +34,10 @@
       "PCON feedback: Nolan Ray (overdue — due 2026-08-26)",
       "Sevierville: inspect former Mattress suite and call tenant on half-suite option (overdue — due 2026-08-10)",
       "PCON feedback: Jack Lloyd (overdue — due 2026-08-13)",
-      "PCON feedback: Jeffrey Shoopman (overdue — due 2026-07-29)"
+      "PCON feedback: Jeffrey Shoopman (overdue — due 2026-07-29)",
+      "Review CosmoProf buildout quote scope and selection posture before any approval.",
+      "Lead the 11:00 AM Great Greek / UPS Store knowledge-transfer handoff.",
+      "Set 7 Brew McMinnville buyout versus BBQ-building posture."
     ]
   },
   "pipelineDeals": [
@@ -4285,9 +4288,9 @@
       "id": "river-parkway-cosmoprof",
       "name": "CosmoProf",
       "property": "River Parkway Plaza",
-      "status": "Karen Bailey sent the initial proposed CosmoProf lease draft for Sevierville on September 1. Mathison then shared a revised layout image and said he prefers keeping Mattresses Inc. on the right side for signage visibility. The lease review must reconcile the approved LOI with the final side allocation, demising, utilities, bathroom delivery/work-letter terms, and verified current suite condition.",
+      "status": "Three CosmoProf buildout quotes were reported overnight: $23,000 from a handyman and $41,000 / $43,000 from two general contractors. No selection or approval is established.",
       "stage": "Lease Draft & Review",
-      "nextStep": "Confirm whether Mattresses Inc. stays on the right and CosmoProf takes the other side, then compare the lease draft against the approved LOI, formalize the demising/utilities/bathroom work letter, verify current plumbing/electrical/HVAC condition, and route revisions.",
+      "nextStep": "Reconcile scope with the lease, demising, bathroom, and work-letter posture; select no vendor until owner approval.",
       "priority": "high",
       "contacts": [
         "Kevin Trujillo (Baker Storey McDonald Properties)",
@@ -4302,6 +4305,11 @@
         "Karen Bailey (Sally Beauty/CosmoProf)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-10",
+          "event": "Briefing: three Sevierville CosmoProf buildout quotes reported; no vendor selection or approval.",
+          "type": "task"
+        },
         {
           "date": "2026-09-02",
           "event": "Mathison shared a revised layout image and recommended keeping Mattresses Inc. on the right side for signage visibility.",
