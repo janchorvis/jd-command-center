@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T07:32:34.767542",
+  "lastUpdated": "2026-09-10T09:02:05.111059",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-10",
@@ -4963,8 +4963,8 @@
       "name": "Buena Vista",
       "property": "2433 Buena Vista Pike",
       "type": "Land/Development",
-      "status": "Holladay Ventures is expected to submit an LOI within roughly the next week. Crexi principal Susan M. downloaded the offering memorandum on August 28 but remains unqualified. Property Wealth screened out after Jacob confirmed the 15.29-acre assemblage, 124 total units, and $10 million pricing guidance; Dionte Dukes said the resulting basis is too far outside his buyer's box and will not circulate the site. Current site-condition proof is still pending Adam's inspection.",
-      "nextStep": "Follow up with Susan M. through Crexi for phone, email, buyer identity, target basis, timing, and diligence needs; have Adam verify the sign and site condition; follow up with Holladay if its expected LOI does not arrive within the stated window. Treat Property Wealth as closed unless price, structure, or density materially changes.",
+      "status": "Crexi principals Susan M., Mark A., and Chase M. downloaded/opened the 2433 Buena Vista Pike offering memorandum. No buyer identity, basis, timing, or diligence request has been provided.",
+      "nextStep": "Qualify Chase M. through Crexi for phone/email, buyer identity, basis, timing, and diligence needs before sharing additional materials; preserve Holladay LOI posture.",
       "contacts": [
         "Julie Robbins (TerraVest)",
         "Michael Dunn (CBRE)",
@@ -4984,11 +4984,17 @@
         "Edward H. (Crexi activity)",
         "Dionte Dukes (Property Wealth LLC)",
         "Andrew Cannon (Holladay Ventures)",
-        "Susan M. (Crexi principal)"
+        "Susan M. (Crexi principal)",
+        "Chase M. (Crexi principal)"
       ],
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-09-10",
+          "event": "Chase M. downloaded the 2433 Buena Vista Pike offering memorandum via Crexi; no direct inquiry or buyer details supplied.",
+          "type": "lead"
+        },
         {
           "date": "2026-09-06",
           "event": "Email from Crexi: ✅ Principal Mark A. opened offering memorandum on 2433 Buena Vista Pike in Nashv",
