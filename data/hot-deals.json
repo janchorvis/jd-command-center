@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T11:30:28.122773",
+  "lastUpdated": "2026-09-10T12:30:08.568186",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-10",
@@ -1354,10 +1354,15 @@
       "name": "Wingstop",
       "property": "McMinnville Plaza",
       "status": "Jacob approved the final lease changes on August 27. Sarah Langan said she would circulate the DocuSign to James and Micah on September 2. Wingstop's construction team is coordinating site access through Brad/Kevin; Jacob confirmed the suite is vacant and available by lockbox.",
-      "stage": "Lease Draft & Review",
+      "stage": "Lease Signed",
       "nextStep": "Wait for Sarah's DocuSign circulation and James/Micah signatures; verify the fully executed copy, then open separate commission, NLC/opening-checklist, execution-copy, and payment/economic follow-up.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-10",
+          "event": "Email from Sarah Langan via Docusign: Complete with Docusign: McMinnville, TN Lease- Wingstop - Execution Copy.pdf",
+          "type": "email"
+        },
         {
           "date": "2026-09-03",
           "event": "Email from Brad Altum: McMinnville Wingstop",
@@ -1508,7 +1513,9 @@
         "suiteCount": 45,
         "vacantCount": 0
       },
-      "stageOverride": "Lease Draft & Review"
+      "stageOverride": "Lease Signed",
+      "stageOverrideDate": "2026-09-10",
+      "stageOverrideSource": "email-signal: complete with docusign"
     },
     {
       "id": "mcminnville-prather",
@@ -1573,6 +1580,11 @@
       "nextStep": "Jacob/Clay should listen for Micah's Slack context and discuss Malone bank/draw/architecture-fee handling with Ryan/Clay/Micah.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-10",
+          "event": "Email from Robert Richardson: Parking Lot Marshalls Malone NY",
+          "type": "email"
+        },
         {
           "date": "2026-09-03",
           "event": "Email from Robert Richardson: Parking Lot Marshalls Malone NY",
