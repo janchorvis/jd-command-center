@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T14:30:06.053155",
+  "lastUpdated": "2026-09-11T15:03:58.191391",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-11",
@@ -75,15 +75,20 @@
       "id": "malone-five-below",
       "name": "Five Below",
       "property": "Malone Plaza",
-      "status": "Sargenti asked Jacob to complete the property-owner section on page 2 of Five Below's Malone building/demo permit application and confirm the page 1 owner contact. StoreCrafters's 12-week landlord-work estimate and 1-2 week recent-delay history still need to be converted into supportable lease dates.",
-      "stage": "Lease Draft & Review",
-      "nextStep": "Complete/route the permit application's property-owner section, verify the listed owner contact, and set supportable Anticipated Delivery and Outside Possession dates using contractor timing plus delay allowance.",
+      "status": "Lease fully executed and dated: Five Below supplied its tenant-executed lease, Anchor countersigned, and Five Below confirmed that the completed scan is sufficient for its records. Post-execution opening, permit, delivery, allowance, commission, and landlord-obligation work remains.",
+      "stage": "Lease Signed",
+      "nextStep": "Retain the final execution copy, launch the opening checklist, and verify the permit, delivery, allowance, commission, utilities, signage, and landlord-work obligations.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-09-11",
           "event": "Email from Fisher, Natalie: Five Below - #08434/Malone, NY (Malone Plaza Shopping Center) - Lease attached f",
           "type": "email"
+        },
+        {
+          "date": "2026-09-11",
+          "event": "Five Below confirmed the scanned fully executed and dated Malone lease copy is sufficient after Anchor countersigned.",
+          "type": "lease_execution"
         },
         {
           "date": "2026-09-08",
@@ -544,7 +549,8 @@
         "Bill Castagna",
         "Shaun Andriano (C2 Design Group)",
         "Laurie Schindler (StoreCrafters)",
-        "Ana Canton (Sargenti)"
+        "Ana Canton (Sargenti)",
+        "Natalie Fisher (Five Below Paralegal)"
       ],
       "actions": [
         {
@@ -565,7 +571,7 @@
         "suiteCount": 2,
         "vacantCount": 0
       },
-      "stageOverride": "Lease Draft & Review"
+      "stageOverride": "Lease Signed"
     },
     {
       "id": "malone-shoe-dept",
