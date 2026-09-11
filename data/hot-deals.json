@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T13:30:18.557904",
+  "lastUpdated": "2026-09-11T14:30:06.053155",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-11",
@@ -80,6 +80,11 @@
       "nextStep": "Complete/route the permit application's property-owner section, verify the listed owner contact, and set supportable Anticipated Delivery and Outside Possession dates using contractor timing plus delay allowance.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-11",
+          "event": "Email from Fisher, Natalie: Five Below - #08434/Malone, NY (Malone Plaza Shopping Center) - Lease attached f",
+          "type": "email"
+        },
         {
           "date": "2026-09-08",
           "event": "Email from Ana Canton: Five Below_Malone, NY - Permit application form -Tenant Signature required",
