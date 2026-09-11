@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T07:15:57.341377",
+  "lastUpdated": "2026-09-11T07:32:33.025594",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-11",
@@ -64,7 +64,10 @@
       "PCON feedback: Gil Brandon (overdue — due 2026-08-27)",
       "PCON feedback: Nolan Ray (overdue — due 2026-08-26)",
       "Sevierville: inspect former Mattress suite and call tenant on half-suite option (overdue — due 2026-08-10)",
-      "PCON feedback: Jack Lloyd (overdue — due 2026-08-13)"
+      "PCON feedback: Jack Lloyd (overdue — due 2026-08-13)",
+      "Compare Vendors Village’s Evansville and Shelbyville indications with Anchor’s stated sale posture before any meeting or counter.",
+      "Decide Buena Vista sale/price posture for TWG and consolidate Malone buyer diligence posture.",
+      "Complete today’s PCON survey deadline and Golf Scramble commitments."
     ]
   },
   "pipelineDeals": [
@@ -2865,10 +2868,15 @@
       "id": "evansville-easterseals",
       "tenant": "Easterseals Rehabilitation",
       "property": "Shelbyville / Harrison / Evansville former Big Lots package",
-      "status": "Adam sent Vendors Village the reviewed sale posture for Evansville and Shelbyville. After Matt asked about Harrison, Adam clarified that Anchor could not make Harrison's rent numbers work and would need a significant sale price for Harrison to make sense for Anchor and the center overall, which is why Harrison was excluded from the pricing package.",
-      "nextStep": "Wait for Matt and Eli Jeffery to review the pricing and Harrison clarification; respond only when they counter or ask questions.",
+      "status": "Vendors Village submitted initial as-is purchase indications of $4.1M for the Evansville center and $1.4M for the Shelbyville standalone building, both excluding outparcels. An overnight Adam Heston Slack message indicates Anchor views the numbers as materially off market.",
+      "nextStep": "Prepare Anchor’s valuation and counter posture before accepting the proposed Nashville meeting next week.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-11",
+          "event": "Briefing: overnight internal review indicates Vendors Village’s initial Evansville/Shelbyville indications are materially off Anchor’s expected range.",
+          "type": "task"
+        },
         {
           "date": "2026-09-01",
           "event": "Adam sent Matt and Eli Jeffery the reviewed sale prices, Evansville rent roll, and Shelbyville/Evansville flyers and offered a follow-up call.",
