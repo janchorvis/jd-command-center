@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T10:30:20.541457",
+  "lastUpdated": "2026-09-14T11:03:38.468793",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-14",
@@ -4678,6 +4678,26 @@
         "suiteCount": 2,
         "vacantCount": 0
       }
+    },
+    {
+      "id": "americas-thrift-sevierville",
+      "name": "America's Thrift Stores",
+      "property": "Sevierville / 201 Forks of the River Pkwy former Big Lots",
+      "status": "Justin Schad followed up on the previously submitted LOI and asked whether Anchor has movement or wants to get tighter with ATS at ICSC Las Vegas.",
+      "stage": "LOI",
+      "nextStep": "Review the existing ATS LOI alongside the Bealls inquiry and current Big Lots disposition, then set Anchor's preferred deal posture before responding.",
+      "priority": "high",
+      "contacts": [
+        "Justin Schad (TSCG)"
+      ],
+      "timeline": [
+        {
+          "date": "2026-09-14",
+          "event": "Justin Schad requested an update on the ATS LOI and ICSC Las Vegas discussion.",
+          "type": "follow-up"
+        }
+      ],
+      "actions": []
     }
   ],
   "sideDeals": [
