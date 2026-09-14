@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T11:03:38.468793",
+  "lastUpdated": "2026-09-14T11:03:55.535750",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-14",
@@ -3749,9 +3749,9 @@
       "id": "bealls-shelbyville-former-big-lots",
       "name": "Bealls",
       "property": "Shelbyville former Big Lots",
-      "status": "Shelbyville has multiple live, potentially conflicting paths: Bealls and Five Below remain interested in the redevelopment, while Alex Wendt has now followed up on Dutch Bros' funded ground-lease LOI. Dutch Bros accepted the discussed economics on August 7; Jacob acknowledged receipt on August 10, but no comments or decision have been returned.",
+      "status": "David Baker said Bealls remains interested in the approximately 34,953 SF Sevierville former Big Lots space and requested Anchor's current asking rent and NNN.",
       "stage": "LOI",
-      "nextStep": "Review the funded ground-lease LOI now, reconcile it against the Bealls/Five Below and broader redevelopment paths, then return comments, approval, counter, or a firm response date to Alex Wendt and Shawn Heffern.",
+      "nextStep": "Confirm approved asking rent, NNN, availability/disposition posture, and conflicts before responding to David Baker/Bealls.",
       "priority": "high",
       "contacts": [
         "Paul Gold (Echo Retail)",
@@ -3776,9 +3776,15 @@
         "Grant Gold",
         "Alex Wendt",
         "Shawn Heffern",
-        "Ethan Flynn"
+        "Ethan Flynn",
+        "David Baker (Baker Storey McDonald)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-14",
+          "event": "David Baker requested asking rent and NNN for Bealls at the Sevierville former Big Lots.",
+          "type": "follow-up"
+        },
         {
           "date": "2026-08-27",
           "event": "Alex Wendt followed up for comments on Dutch Bros' funded ground-lease LOI after Jacob's August 10 receipt acknowledgment.",
