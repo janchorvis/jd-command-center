@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T09:30:15.155565",
+  "lastUpdated": "2026-09-14T10:30:20.541457",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-14",
@@ -1362,6 +1362,11 @@
       "nextStep": "Wait for Sarah's DocuSign circulation and James/Micah signatures; verify the fully executed copy, then open separate commission, NLC/opening-checklist, execution-copy, and payment/economic follow-up.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-14",
+          "event": "Email from Sarah Langan via Docusign: Complete with Docusign: McMinnville, TN Lease- Wingstop - Execution Copy.pdf",
+          "type": "email"
+        },
         {
           "date": "2026-09-14",
           "event": "Email from Micah Lacher: Fwd: Reminder: Complete with Docusign: McMinnville, TN Lease- Wingstop - Executi",
@@ -5579,6 +5584,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-09-14",
+          "event": "Email from Justin Schad: Sevierville, TN - 201 Forks of the River Pkwy (Big Lot's) - America's Thrift Sto",
+          "type": "email"
+        },
+        {
           "date": "2026-08-27",
           "event": "Email from Kelsey Cornillie, Publisher: How Nashville landed America's first indoor 18-hole golf course",
           "type": "email"
@@ -6019,6 +6029,11 @@
         "Matt Jeffery (Vendors Village)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-14",
+          "event": "Email from David Baker: Sevierville Big Lots",
+          "type": "email"
+        },
         {
           "date": "2026-09-10",
           "event": "Email from Jordan Hollander: 🏨  First Hospitality's Pre-Arrival Upsell Tactics",
@@ -9173,13 +9188,6 @@
       "deal": "Bealls — Shelbyville former Big Lots",
       "daysSinceContact": 18,
       "lastAction": "Alex Wendt followed up for comments on Dutch Bros' funded ground-lease LOI after",
-      "urgency": "high"
-    },
-    {
-      "name": "Juliana Fernandez",
-      "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
-      "daysSinceContact": 18,
-      "lastAction": "Email from Kelsey Cornillie, Publisher: How Nashville landed America's first ind",
       "urgency": "high"
     },
     {
