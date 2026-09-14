@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T11:03:55.535750",
+  "lastUpdated": "2026-09-14T11:30:21.959665",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-14",
@@ -4699,6 +4699,11 @@
       "timeline": [
         {
           "date": "2026-09-14",
+          "event": "Email from Justin Schad: Sevierville, TN - 201 Forks of the River Pkwy (Big Lot's) - America's Thrift Sto",
+          "type": "email"
+        },
+        {
+          "date": "2026-09-14",
           "event": "Justin Schad requested an update on the ATS LOI and ICSC Las Vegas discussion.",
           "type": "follow-up"
         }
@@ -5067,6 +5072,11 @@
       "priority": "high",
       "lastUpdate": "2026-03-11",
       "timeline": [
+        {
+          "date": "2026-09-14",
+          "event": "Email from Jacob Delk: 2433 Buena Vista Pike",
+          "type": "email"
+        },
         {
           "date": "2026-09-14",
           "event": "Email from Dominic Kej: 2433 Buena Vista Pike - Nashville TN",
