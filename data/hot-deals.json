@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T12:30:07.767295",
+  "lastUpdated": "2026-09-15T13:07:00.479533",
   "sourceDoc": "Meeting Prep - Week of 8/31/26",
   "today": {
     "date": "2026-09-15",
@@ -7730,16 +7730,22 @@
       "id": "malone-sale-wachs",
       "name": "Michael Wachs sale inquiry",
       "property": "Malone Plaza",
-      "status": "Malone now has two active sale paths: Michael Wachs requested an updated site plan and rent roll to work on purchase numbers, and Valerie Vincent reconfirmed on September 4 that she has a prospective buyer group in mind and wants to connect next week.",
+      "status": "Malone Plaza has continuing overlapping sale, redevelopment, and leasing activity. Crexi recorded Grace S. clicking the property phone number on September 15, but supplied no contact details, business, space requirement, or message.",
       "stage": "Contact Made",
-      "nextStep": "Jacob, Ryan, and Micah should set one NDA/data-room/economics posture, qualify Valerie's buyer and timing, and decide how both sale paths fit Malone's active Five Below, Marshalls, Shoe Dept., and redevelopment commitments before sharing diligence or making commitments.",
+      "nextStep": "Keep the Malone collision map current. Qualify Grace through Crexi only after confirming current suite availability, use fit, economics, and the coordinated sale/data-room posture; do not promise availability or terms from this activity notice.",
       "priority": "high",
       "contacts": [
         "Tracy Lauer (Widewaters)",
         "Michael Wachs",
-        "Valerie Vincent (Venture Brokerage Group)"
+        "Valerie Vincent (Venture Brokerage Group)",
+        "Grace S. (Crexi activity only)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-15",
+          "event": "Crexi reported that Grace S. clicked the phone number on Malone Plaza. No contact details, business type, space requirement, or direct message was provided.",
+          "type": "lead_activity"
+        },
         {
           "date": "2026-09-11",
           "event": "Email from Lauer, Tracy: FW: MALONE PLAZA",
