@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T16:30:16.557610",
+  "lastUpdated": "2026-09-16T17:30:26.434283",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/16/26",
   "today": {
     "date": "2026-09-16",
@@ -1414,6 +1414,11 @@
       "nextStep": "Wait for Sarah's DocuSign circulation and James/Micah signatures; verify the fully executed copy, then open separate commission, NLC/opening-checklist, execution-copy, and payment/economic follow-up.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-16",
+          "event": "Email from Sarah Langan via Docusign: Complete with Docusign: McMinnville, TN Lease- Wingstop - Execution Copy.pdf",
+          "type": "email"
+        },
         {
           "date": "2026-09-16",
           "event": "Email from Kevin Trujillo: Cosmo + Wingstop",
