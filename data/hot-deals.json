@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T07:15:57.031992",
+  "lastUpdated": "2026-09-16T07:32:29.469700",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/16/26",
   "today": {
     "date": "2026-09-16",
@@ -64,7 +64,10 @@
       "Sevierville: inspect former Mattress suite and call tenant on half-suite option (overdue — due 2026-08-10)",
       "PCON feedback: Jack Lloyd (overdue — due 2026-08-13)",
       "PCON feedback: Jeffrey Shoopman (overdue — due 2026-07-29)",
-      "Parma heights OP (overdue — due 2026-07-07)"
+      "Parma heights OP (overdue — due 2026-07-07)",
+      "Prepare the 312 Wilson Pike collision-map and tour posture before the 2:30 PM Hideout tour.",
+      "Set Sevierville former Big Lots posture across America’s Thrift Stores and Bealls.",
+      "Confirm Ollie’s Crossville commission payment status before any Moats communication."
     ]
   },
   "pipelineDeals": [
@@ -6047,15 +6050,20 @@
       "id": "pea-ridge-omar-hidais",
       "name": "Omar Hidais",
       "property": "Pea Ridge Shopping Center",
-      "status": "Omar Hidais, a multi-state tobacco/vape operator and landlord, asked what spaces are available and what the asking rent is after Jacob asked about locations/first store.",
+      "status": "Overnight property update: a rotted pipe was removed and a new culvert was being installed; completion, location, cost, and connection to the prior sinkhole repair remain unverified.",
       "stage": "Contact Made",
-      "nextStep": "Jacob to review current Pea Ridge availability and asking rent, then reply to Omar.",
+      "nextStep": "Verify completion, exact location, cost, and whether this closes or expands the prior sinkhole-repair scope before treating the work as complete.",
       "priority": "medium",
       "contacts": [
         "Omar Hidais",
         "Omar Hidais (tobacco/vape operator, ohidais23@gmail.com)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-16",
+          "event": "Briefing: overnight Leasing Operations report says a rotted pipe was removed and a new culvert is being installed; scope and completion remain unverified.",
+          "type": "task"
+        },
         {
           "date": "2026-06-05",
           "event": "Omar Hidais asked for available spaces and asking rent at Pea Ridge.",
