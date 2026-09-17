@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T10:30:18.594621",
+  "lastUpdated": "2026-09-17T10:31:10.369574",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/16/26",
   "today": {
     "date": "2026-09-17",
@@ -1128,13 +1128,18 @@
       "property": "McMinnville Plaza",
       "status": "Lease execution complete. Anchor sent Amy and Matt the fully executed lease and addendum; Jon Petty supplied UPS corporate's signed addendum on September 8.",
       "stage": "Lease Signed",
-      "nextStep": "Property Management to run new-lease onboarding, retain execution records, and complete post-execution commission and opening follow-through.",
+      "nextStep": "September 16 meeting follow-through: OPEN: Coordinate with UPS Store construction team to resolve floor plan/component placement. Jacob inferred; no request sent, mobilization or construction completion established. Lease execution remains completed, with onboarding and separate lender waiver obligations preserved; do not promise facade work. No due date. Prior tracked work retained (reconcile timing/status before acting): Property Management to run new-lease onboarding, retain execution records, and complete post-execution commission and opening follow-through.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-09-16",
           "event": "Email from Jon Petty: FW: The UPS Store McMinnville, TN - Site Packet & Demographic report",
           "type": "email"
+        },
+        {
+          "date": "2026-09-16",
+          "event": "2026-09-16 meeting (reconciled 2026-09-17): T430 OPEN: Coordinate with UPS Store construction team to resolve floor plan/component placement. Jacob inferred; no request sent, mobilization or construction completion established. Lease execution remains completed, with onboarding and separate lender waiver obligations preserved; do not promise facade work. No due date.",
+          "type": "meeting"
         },
         {
           "date": "2026-09-10",
@@ -1398,7 +1403,7 @@
       "property": "McMinnville Plaza",
       "status": "Jacob approved the final lease changes on August 27. Sarah Langan said she would circulate the DocuSign to James and Micah on September 2. Wingstop's construction team is coordinating site access through Brad/Kevin; Jacob confirmed the suite is vacant and available by lockbox.",
       "stage": "Lease Signed",
-      "nextStep": "Wait for Sarah's DocuSign circulation and James/Micah signatures; verify the fully executed copy, then open separate commission, NLC/opening-checklist, execution-copy, and payment/economic follow-up.",
+      "nextStep": "September 16 meeting follow-through: OPEN: Contact Sarah about the reported missing renewal-option notice period in BOTH McMinnville and Maple Row leases. Propose six months, discuss three months if countered, and document agreed language in an amendment or appropriate memo. Neither period is currently agreed/effective. Jacob inferred. This is separate from completed signing and existing post-execution closeout; no email sent and no due date. Prior tracked work retained (reconcile timing/status before acting): Wait for Sarah's DocuSign circulation and James/Micah signatures; verify the fully executed copy, then open separate commission, NLC/opening-checklist, execution-copy, and payment/economic follow-up.",
       "priority": "high",
       "timeline": [
         {
@@ -1415,6 +1420,11 @@
           "date": "2026-09-16",
           "event": "Email from Kevin Trujillo: Cosmo + Wingstop",
           "type": "email"
+        },
+        {
+          "date": "2026-09-16",
+          "event": "2026-09-16 meeting (reconciled 2026-09-17): T465 OPEN: Contact Sarah about the reported missing renewal-option notice period in BOTH McMinnville and Maple Row leases. Propose six months, discuss three months if countered, and document agreed language in an amendment or appropriate memo. Neither period is currently agreed/effective. Jacob inferred. This is separate from completed signing and existing post-execution closeout; no email sent and no due date.",
+          "type": "meeting"
         },
         {
           "date": "2026-09-14",
@@ -2912,9 +2922,14 @@
       "tenant": "Easterseals Rehabilitation",
       "property": "Shelbyville / Harrison / Evansville former Big Lots package",
       "status": "Vendors Village submitted initial as-is purchase indications of $4.1M for the Evansville center and $1.4M for the Shelbyville standalone building, both excluding outparcels. An overnight Adam Heston Slack message indicates Anchor views the numbers as materially off market.",
-      "nextStep": "Prepare Anchor’s valuation and counter posture before accepting the proposed Nashville meeting next week.",
+      "nextStep": "September 16 meeting follow-through: WAITING on Vendors Village's update after the reported request to let Anchor know either way; Anchor's earlier unaccepted purchase indications remain historical context. Separately identify the competing Evansville center and verify ownership on CoStar rather than relying on sale recollections. Lookup owner unconfirmed; no date. Neither path is accepted or dead. Prior tracked work retained (reconcile timing/status before acting): Prepare Anchor’s valuation and counter posture before accepting the proposed Nashville meeting next week.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-16",
+          "event": "2026-09-16 meeting (reconciled 2026-09-17): T320 WAITING on Vendors Village's update after the reported request to let Anchor know either way; Anchor's earlier unaccepted purchase indications remain historical context. Separately identify the competing Evansville center and verify ownership on CoStar rather than relying on sale recollections. Lookup owner unconfirmed; no date. Neither path is accepted or dead.",
+          "type": "meeting"
+        },
         {
           "date": "2026-09-11",
           "event": "Briefing: overnight internal review indicates Vendors Village’s initial Evansville/Shelbyville indications are materially off Anchor’s expected range.",
@@ -3154,9 +3169,14 @@
       "tenant": "7 Brew",
       "property": "McMinnville Plaza",
       "status": "Eric Rothbart identified the drive-thru coffee prospect as 7 Brew and said the owner toured McMinnville Plaza on September 3. 7 Brew wants to pursue the Krystal or Subway parcel and has succeeded with lease buyouts elsewhere; neither current tenant's lease expires before 2031.",
-      "nextStep": "Ownership should decide whether to explore a Krystal or Subway lease buyout for 7 Brew or keep steering the prospect to the BBQ building. Before pursuing a buyout, verify each tenant's lease rights, economics, operating posture, and required approval path.",
+      "nextStep": "September 16 meeting follow-through: OPEN: Identify Subway franchisee and Krystal operator/real-estate decision makers through tenant-expansion report, LinkedIn or Carole's tenant-accounting contacts. Explore both operators' willingness to exit for 7 Brew, which can use either pad, and Subway in-line relocation. Meeting's $100,000 opening discussion is not a verified 7 Brew offer, funding commitment or allocation of relocation costs. Preserve lease rights/economics/approval gates; no contact made by this reconciliation. Jacob inferred; no deadline. Prior tracked work retained (reconcile timing/status before acting): Ownership should decide whether to explore a Krystal or Subway lease buyout for 7 Brew or keep steering the prospect to the BBQ building. Before pursuing a buyout, verify each tenant's lease rights, economics, operating posture, and required approval path.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-16",
+          "event": "2026-09-16 meeting (reconciled 2026-09-17): T427 OPEN: Identify Subway franchisee and Krystal operator/real-estate decision makers through tenant-expansion report, LinkedIn or Carole's tenant-accounting contacts. Explore both operators' willingness to exit for 7 Brew, which can use either pad, and Subway in-line relocation. Meeting's $100,000 opening discussion is not a verified 7 Brew offer, funding commitment or allocation of relocation costs. Preserve lease rights/economics/approval gates; no contact made by this reconciliation. Jacob inferred; no deadline.",
+          "type": "meeting"
+        },
         {
           "date": "2026-09-04",
           "event": "Eric Rothbart said a 700-plus-location national drive-thru coffee user toured and strongly prefers the Krystal or Subway parcel; Adam advised both leases run through 2031 and redirected the prospect to the BBQ building.",
@@ -4173,7 +4193,7 @@
       "property": "McMinnville Plaza",
       "status": "Adam Heston sent a corrected Floorplan McMinnville PDF overnight after Jacob identified the correct suite orientation and requested more legible wording.",
       "stage": "LOI",
-      "nextStep": "Review the corrected plan for configuration and legibility, then field-verify dimensions and conditions before using it for pricing, marketing, or tenant commitments.",
+      "nextStep": "September 16 meeting follow-through: OPEN: Verify outcome of the call planned for September 16 at 2 PM; no completion found in current task/deal/event records. Keep that historical timing without creating a fresh overdue deadline or rescheduling. Clarify actual need versus the prior 5,000-7,000 SF indication, combining three/four annex suites, pricing and buildout scope. Preserve current-condition/utility/dimension verification before commitment. Jacob inferred from deal-updater context; no new due date. Prior tracked work retained (reconcile timing/status before acting): Review the corrected plan for configuration and legibility, then field-verify dimensions and conditions before using it for pricing, marketing, or tenant commitments.",
       "priority": "high",
       "contacts": [
         "Craig Hughes (Upper Cumberland Commercial)",
@@ -4184,6 +4204,11 @@
         "Emma Bray"
       ],
       "timeline": [
+        {
+          "date": "2026-09-16",
+          "event": "2026-09-16 meeting (reconciled 2026-09-17): T300 OPEN: Verify outcome of the call planned for September 16 at 2 PM; no completion found in current task/deal/event records. Keep that historical timing without creating a fresh overdue deadline or rescheduling. Clarify actual need versus the prior 5,000-7,000 SF indication, combining three/four annex suites, pricing and buildout scope. Preserve current-condition/utility/dimension verification before commitment. Jacob inferred from deal-updater context; no new due date.",
+          "type": "meeting"
+        },
         {
           "date": "2026-08-26",
           "event": "Briefing: Adam sent the corrected McMinnville floor plan overnight; Jacob has not replied after the file.",
@@ -4745,12 +4770,17 @@
       "property": "Sevierville / 201 Forks of the River Pkwy former Big Lots",
       "status": "Justin Schad followed up on the previously submitted LOI and asked whether Anchor has movement or wants to get tighter with ATS at ICSC Las Vegas.",
       "stage": "LOI",
-      "nextStep": "Review the existing ATS LOI alongside the Bealls inquiry and current Big Lots disposition, then set Anchor's preferred deal posture before responding.",
+      "nextStep": "September 16 meeting follow-through: OPEN: Review the lease transcribed as 'Gage' and shopping-center definition/exhibit covering two separate parcels before pursuing ATS. Gabe's is a candidate identity, not a verified legal conclusion. Confirm prohibition and any waiver need; lease purchase was only suggested. Preserve Bealls/Burlington and former Big Lots disposition conflicts. Owner unresolved; no due date. Prior tracked work retained (reconcile timing/status before acting): Review the existing ATS LOI alongside the Bealls inquiry and current Big Lots disposition, then set Anchor's preferred deal posture before responding.",
       "priority": "high",
       "contacts": [
         "Justin Schad (TSCG)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-16",
+          "event": "2026-09-16 meeting (reconciled 2026-09-17): T453 OPEN: Review the lease transcribed as 'Gage' and shopping-center definition/exhibit covering two separate parcels before pursuing ATS. Gabe's is a candidate identity, not a verified legal conclusion. Confirm prohibition and any waiver need; lease purchase was only suggested. Preserve Bealls/Burlington and former Big Lots disposition conflicts. Owner unresolved; no due date.",
+          "type": "meeting"
+        },
         {
           "date": "2026-09-14",
           "event": "Email from Justin Schad: Sevierville, TN - 201 Forks of the River Pkwy (Big Lot's) - America's Thrift Sto",
@@ -6612,7 +6642,7 @@
       "property": "312 Wilson Pike Circle",
       "status": "Adam scheduled a 8/27 tour at Wilson Pike for an automotive-collision prospect sourced through cold broker outreach; the prospect is interested in all roughly 12,000 SF.",
       "stage": "LOI",
-      "nextStep": "Prepare the flyer for the 8/27 tour, identify the broker/prospect, and reconcile the full-building collision use against the other active Wilson Pike paths before quoting or committing space.",
+      "nextStep": "September 16 meeting follow-through: OPEN: Tour was planned roughly an hour after the September 16 meeting discussion; prior visit was reported but is not completion of this tour. Current task/deal/event records contain no outcome proof. Verify whether it occurred and obtain reaction; retain existing 312 Wilson Pike collision/use/parking/condition checks. Jacob inferred; do not reschedule or invent a new deadline. Prior tracked work retained (reconcile timing/status before acting): Prepare the flyer for the 8/27 tour, identify the broker/prospect, and reconcile the full-building collision use against the other active Wilson Pike paths before quoting or committing space.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -6673,6 +6703,11 @@
           "date": "2026-09-16",
           "event": "Email from Hannah Helfrich: 312 Wilson Pike Cir",
           "type": "email"
+        },
+        {
+          "date": "2026-09-16",
+          "event": "T457: Hideout September 16 planned tour outcome remains unverified. Preserve existing 312 Wilson Pike competing-use, parking and current-condition checks.",
+          "type": "meeting"
         },
         {
           "date": "2026-09-15",
@@ -7538,12 +7573,17 @@
       "property": "Madison - 1508 Gallatin Pike S, Madison TN",
       "status": "Tony Vaughn says a new Starbucks director moving to town with the new Starbucks office will support the build-to-suit at Madison, reversing prior concern that Madison was on the rocks due to cemetery proximity and second-row placement.",
       "stage": "Trading Terms",
-      "nextStep": "Jacob should tell Tony whether Anchor wants to re-engage Starbucks BTS at Madison and confirm the preferred site/deal structure.",
+      "nextStep": "September 16 meeting follow-through: WAITING on Starbucks representative's email. Then discuss protected-pad parking accommodations with affected outparcel tenants, potential compensation and moving employee parking, not relocating businesses. Confirm rights/parking and actual economics; no amount/allocation agreed. Existing Madison Starbucks record is the contextual match, site to confirm before outreach. Jacob inferred; no due date. Prior tracked work retained (reconcile timing/status before acting): Jacob should tell Tony whether Anchor wants to re-engage Starbucks BTS at Madison and confirm the preferred site/deal structure.",
       "priority": "high",
       "contacts": [
         "Tony Vaughn (Colliers / Starbucks)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-16",
+          "event": "2026-09-16 meeting (reconciled 2026-09-17): T273 WAITING on Starbucks representative's email. Then discuss protected-pad parking accommodations with affected outparcel tenants, potential compensation and moving employee parking, not relocating businesses. Confirm rights/parking and actual economics; no amount/allocation agreed. Existing Madison Starbucks record is the contextual match, site to confirm before outreach. Jacob inferred; no due date.",
+          "type": "meeting"
+        },
         {
           "date": "2026-09-10",
           "event": "Email from Kelsey Cornillie, Publisher: Starbucks pursues BNA base for its corporate jets",
@@ -7774,7 +7814,7 @@
       "property": "Malone Plaza",
       "status": "Malone Plaza has continuing overlapping sale, redevelopment, and leasing activity. Crexi recorded Grace S. clicking the property phone number on September 15, but supplied no contact details, business, space requirement, or message.",
       "stage": "Contact Made",
-      "nextStep": "Keep the Malone collision map current. Qualify Grace through Crexi only after confirming current suite availability, use fit, economics, and the coordinated sale/data-room posture; do not promise availability or terms from this activity notice.",
+      "nextStep": "September 16 meeting follow-through: OPEN: Continue Tracy's buyer discussions and responses with Ryan; meeting direction was to communicate motivation, not accept a sale offer. Jacob inferred from deal-updater context; Ryan explicitly involved. Current canonical Tracy/Wachs identity supports Malone. Preserve the existing Valerie/Wachs and leasing collision, NDA/data-room and economics gates. No message sent; no due date. Prior tracked work retained (reconcile timing/status before acting): Keep the Malone collision map current. Qualify Grace through Crexi only after confirming current suite availability, use fit, economics, and the coordinated sale/data-room posture; do not promise availability or terms from this activity notice.",
       "priority": "high",
       "contacts": [
         "Tracy Lauer (Widewaters)",
@@ -7783,6 +7823,11 @@
         "Grace S. (Crexi activity only)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-16",
+          "event": "2026-09-16 meeting (reconciled 2026-09-17): T428 OPEN: Continue Tracy's buyer discussions and responses with Ryan; meeting direction was to communicate motivation, not accept a sale offer. Jacob inferred from deal-updater context; Ryan explicitly involved. Current canonical Tracy/Wachs identity supports Malone. Preserve the existing Valerie/Wachs and leasing collision, NDA/data-room and economics gates. No message sent; no due date.",
+          "type": "meeting"
+        },
         {
           "date": "2026-09-15",
           "event": "Email from Crexi: Grace S. clicked phone number on Malone Plaza",
@@ -8371,6 +8416,46 @@
       "actions": [],
       "type": "Tenant Rep",
       "lastUpdate": "2026-08-27"
+    },
+    {
+      "id": "shelbyville-dutch-bros",
+      "name": "Dutch Bros",
+      "property": "Shelbyville",
+      "status": "OPEN: Have a civil engineer establish Dutch Bros utility locations ASAP (no calendar deadline). Continue redlines in parallel using the latest returned draft; landlord work was restored for the TI structure and remains unresolved. Jacob inferred to mark up and route to Micah; Micah inferred review/return is WAITING on Jacob's markup, not a sent request. Push drink-sales threshold/carveout using Sevierville language as reference without assuming concession. Spoken 'one fifty'/'eight fifty' are not verified units/economics; preserve wider redevelopment alternatives.",
+      "stage": "Trading Terms",
+      "nextStep": "OPEN: Have a civil engineer establish Dutch Bros utility locations ASAP (no calendar deadline). Continue redlines in parallel using the latest returned draft; landlord work was restored for the TI structure and remains unresolved. Jacob inferred to mark up and route to Micah; Micah inferred review/return is WAITING on Jacob's markup, not a sent request. Push drink-sales threshold/carveout using Sevierville language as reference without assuming concession. Spoken 'one fifty'/'eight fifty' are not verified units/economics; preserve wider redevelopment alternatives.",
+      "priority": "medium",
+      "contacts": [],
+      "timeline": [
+        {
+          "date": "2026-09-16",
+          "event": "T289 calendar-confirmed Leasing meeting: OPEN: Have a civil engineer establish Dutch Bros utility locations ASAP (no calendar deadline). Continue redlines in parallel using the latest returned draft; landlord work was restored for the TI structure and remains unresolved. Jacob inferred to mark up and route to Micah; Micah inferred review/return is WAITING on Jacob's markup, not a sent request. Push drink-sales threshold/carveout using Sevierville language as reference without assuming concession. Spoken 'one fifty'/'eight fifty' are not verified units/economics; preserve wider redevelopment alternatives.",
+          "type": "meeting"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-09-16"
+    },
+    {
+      "id": "harrison-wing-drone-delivery",
+      "name": "Wing drone delivery",
+      "property": "Harrison Square",
+      "status": "OPEN: Obtain actual dimensions, installation/fence layout and parking/truck-circulation fit rather than rough Google overlay; review/advance the received agreement through legal/landlord review. Internal meeting go-ahead and September 15 reported landlord approval do not establish execution or operation. Verify reported five-year term, three-month termination both ways, as-is/no landlord cash and unclear setup/free-rent passage against agreement. Jacob inferred; no due date or new approval by executor.",
+      "stage": "Trading Terms",
+      "nextStep": "OPEN: Obtain actual dimensions, installation/fence layout and parking/truck-circulation fit rather than rough Google overlay; review/advance the received agreement through legal/landlord review. Internal meeting go-ahead and September 15 reported landlord approval do not establish execution or operation. Verify reported five-year term, three-month termination both ways, as-is/no landlord cash and unclear setup/free-rent passage against agreement. Jacob inferred; no due date or new approval by executor.",
+      "priority": "medium",
+      "contacts": [],
+      "timeline": [
+        {
+          "date": "2026-09-16",
+          "event": "T324 calendar-confirmed Leasing meeting: OPEN: Obtain actual dimensions, installation/fence layout and parking/truck-circulation fit rather than rough Google overlay; review/advance the received agreement through legal/landlord review. Internal meeting go-ahead and September 15 reported landlord approval do not establish execution or operation. Verify reported five-year term, three-month termination both ways, as-is/no landlord cash and unclear setup/free-rent passage against agreement. Jacob inferred; no due date or new approval by executor.",
+          "type": "meeting"
+        }
+      ],
+      "actions": [],
+      "type": "Tenant Rep",
+      "lastUpdate": "2026-09-16"
     }
   ],
   "droppedBalls": [
