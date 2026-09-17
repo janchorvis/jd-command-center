@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T11:30:28.138544",
+  "lastUpdated": "2026-09-17T11:44:49.780594",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/16/26",
   "today": {
     "date": "2026-09-17",
@@ -1128,9 +1128,14 @@
       "property": "McMinnville Plaza",
       "status": "Lease execution complete. Anchor sent Amy and Matt the fully executed lease and addendum; Jon Petty supplied UPS corporate's signed addendum on September 8.",
       "stage": "Lease Signed",
-      "nextStep": "September 16 meeting follow-through: OPEN: Coordinate with UPS Store construction team to resolve floor plan/component placement. Jacob inferred; no request sent, mobilization or construction completion established. Lease execution remains completed, with onboarding and separate lender waiver obligations preserved; do not promise facade work. No due date. Prior tracked work retained (reconcile timing/status before acting): Property Management to run new-lease onboarding, retain execution records, and complete post-execution commission and opening follow-through.",
+      "nextStep": "September 17 tracking update: linked UPS survey/floor-plan Asana follow-up is marked completed. The meeting's construction-team survey, Jon connection and Clay coordination are historical context; do not recreate this completed follow-up. Lease execution remains completed, and separate commissioning, opening/checklist, execution-copy and unresolved obligations remain distinct; no physical construction completion is inferred.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-17",
+          "type": "meeting",
+          "event": "September 17 tracking update: linked UPS survey/floor-plan Asana follow-up is marked completed. The meeting's construction-team survey, Jon connection and Clay coordination are historical context; do not recreate this completed follow-up. Lease execution remains completed, and separate commissioning, opening/checklist, execution-copy and unresolved obligations remain distinct; no physical construction completion is inferred."
+        },
         {
           "date": "2026-09-16",
           "event": "Email from Jon Petty: FW: The UPS Store McMinnville, TN - Site Packet & Demographic report",
@@ -1403,13 +1408,18 @@
       "property": "McMinnville Plaza",
       "status": "Jacob approved the final lease changes on August 27. Sarah Langan said she would circulate the DocuSign to James and Micah on September 2. Wingstop's construction team is coordinating site access through Brad/Kevin; Jacob confirmed the suite is vacant and available by lockbox.",
       "stage": "Lease Signed",
-      "nextStep": "September 16 meeting follow-through: OPEN: Contact Sarah about the reported missing renewal-option notice period in BOTH McMinnville and Maple Row leases. Propose six months, discuss three months if countered, and document agreed language in an amendment or appropriate memo. Neither period is currently agreed/effective. Jacob inferred. This is separate from completed signing and existing post-execution closeout; no email sent and no due date. Prior tracked work retained (reconcile timing/status before acting): Wait for Sarah's DocuSign circulation and James/Micah signatures; verify the fully executed copy, then open separate commission, NLC/opening-checklist, execution-copy, and payment/economic follow-up.",
+      "nextStep": "September 17 tracking update: the linked Wingstop renewal-option notice follow-up is marked completed in Asana. Do not recreate/reopen it. The meeting's six-month proposal and possible three-month fallback remain historical; verify actual executed notice language rather than infer an amendment or accepted term from task completion. Keep separate opening/commission obligations distinct.",
       "priority": "high",
       "timeline": [
         {
           "date": "2026-09-17",
           "event": "Email from Sarah Langan via Docusign: Complete with Docusign: McMinnville, TN Lease- Wingstop - Execution Copy.pdf",
           "type": "email"
+        },
+        {
+          "date": "2026-09-17",
+          "type": "meeting",
+          "event": "September 17 tracking update: the linked Wingstop renewal-option notice follow-up is marked completed in Asana. Do not recreate/reopen it. The meeting's six-month proposal and possible three-month fallback remain historical; verify actual executed notice language rather than infer an amendment or accepted term from task completion. Keep separate opening/commission obligations distinct."
         },
         {
           "date": "2026-09-16",
@@ -3052,9 +3062,14 @@
       "tenant": "Cosmoprof",
       "property": "River Parkway Plaza",
       "status": "Jacob sent signed Sevierville CA; BSM says David is out today but will get the CA executed and back when he returns. Work-letter language, contacts, bathroom/suite-condition issues remain open.",
-      "nextStep": "Provide construction/legal contacts and formal work-letter language; inspect suite/plumbing/electrical/bathroom condition and settle CosmoProf bathroom economics.",
+      "nextStep": "September 17 agenda reconciliation: finish and return Sevierville CosmoProf lease-draft edits. Check approved LOI, formal demising/work-letter/bathroom terms, side allocation and current suite conditions. Earlier inspection tasks remain separate; no return, approval or execution established. Leasing Meeting task1218601214377556.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-17",
+          "type": "meeting",
+          "event": "September 17 agenda reconciliation: finish and return Sevierville CosmoProf lease-draft edits. Check approved LOI, formal demising/work-letter/bathroom terms, side allocation and current suite conditions. Earlier inspection tasks remain separate; no return, approval or execution established. Leasing Meeting task1218601214377556."
+        },
         {
           "date": "2026-08-10",
           "event": "BSM acknowledged Jacob's signed CA and said they will return executed copy after David is back.",
@@ -6647,7 +6662,7 @@
       "property": "312 Wilson Pike Circle",
       "status": "Adam scheduled a 8/27 tour at Wilson Pike for an automotive-collision prospect sourced through cold broker outreach; the prospect is interested in all roughly 12,000 SF.",
       "stage": "LOI",
-      "nextStep": "September 16 meeting follow-through: OPEN: Tour was planned roughly an hour after the September 16 meeting discussion; prior visit was reported but is not completion of this tour. Current task/deal/event records contain no outcome proof. Verify whether it occurred and obtain reaction; retain existing 312 Wilson Pike collision/use/parking/condition checks. Jacob inferred; do not reschedule or invent a new deadline. Prior tracked work retained (reconcile timing/status before acting): Prepare the flyer for the 8/27 tour, identify the broker/prospect, and reconcile the full-building collision use against the other active Wilson Pike paths before quoting or committing space.",
+      "nextStep": "September 17 agenda context: Wilson includes Hideout/Jake Morris and Jay Murphy, with Jay's tour planned September22 and full-building interest/no LOI reported. Amazon Direct is tentative, and kick-out language was illustrative. The linked Hideout and Jay Asana follow-ups are now marked completed; preserve those tracking completions without inferring actual tour outcomes, agreed economics or closure of other Wilson paths. Keep collision/use/parking/condition review before any commitment.",
       "priority": "high",
       "contacts": [
         "Ryder Ballard (Charles Hawkins Co.)",
@@ -6704,6 +6719,11 @@
         "Miller Fitts (JLL)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-17",
+          "type": "meeting",
+          "event": "September 17 agenda context: Wilson includes Hideout/Jake Morris and Jay Murphy, with Jay's tour planned September22 and full-building interest/no LOI reported. Amazon Direct is tentative, and kick-out language was illustrative. The linked Hideout and Jay Asana follow-ups are now marked completed; preserve those tracking completions without inferring actual tour outcomes, agreed economics or closure of other Wilson paths. Keep collision/use/parking/condition review before any commitment."
+        },
         {
           "date": "2026-09-16",
           "event": "Email from Hannah Helfrich: 312 Wilson Pike Cir",
@@ -7176,13 +7196,18 @@
       "property": "Maple Row / Hendersonville Nutrition",
       "status": "Flavors of India / Girish asked to start the Hendersonville Nutrition expansion discussion. On 9/8, Micah circulated Fresh Monkee's 900-1,500 SF Hendersonville requirement (end cap with drive-thru preferred) and directed Anchor to use it to accelerate the Indian prospect's expansion decision/signature without losing a viable deal.",
       "stage": "Trading Terms",
-      "nextStep": "Clay/Mathison should press the Indian prospect for an expansion decision and signed commitment; evaluate Fresh Monkee as the live competing use path before committing the Hendersonville Nutrition space.",
+      "nextStep": "September 17 agenda reconciliation: confirm whether Flavors of India's Maple Row expansion information expected September 16 arrived, then identify remaining answers. Clay's existing PM Renewals expansion task1212346485872929 is now also in Leasing Meeting; no contribution approval or automatic reopening of the completed HVAC phase. Preserve the competing-space and signed-commitment checks. Prior competing-space posture: Clay/Mathison should press the Indian prospect for an expansion decision and signed commitment; evaluate Fresh Monkee as the live competing use path before committing the Hendersonville Nutrition space.",
       "priority": "high",
       "contacts": [
         "Girish Kumar / Flavors of India <flavorsofindiatn@gmail.com>",
         "Girish Kumar (Flavors of India / Nothing But Noodles)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-17",
+          "type": "meeting",
+          "event": "September 17 agenda reconciliation: confirm whether Flavors of India's Maple Row expansion information expected September 16 arrived, then identify remaining answers. Clay's existing PM Renewals expansion task1212346485872929 is now also in Leasing Meeting; no contribution approval or automatic reopening of the completed HVAC phase. Preserve the competing-space and signed-commitment checks."
+        },
         {
           "date": "2026-09-08",
           "event": "Micah circulated Fresh Monkee's 900-1,500 SF Hendersonville requirement, with drive-thru end cap preferred, and directed Clay/Mathison to use it to accelerate the Indian prospect's expansion decision/signature.",
@@ -7629,7 +7654,7 @@
       "property": "Sevierville / Forks of the River Shopping Center",
       "status": "Jacob returned Anchor's 9/4 LL redline and clean LOI, accepting all tenant changes except deletion of landlord approval rights over future assignments. Caleb said his group will work on getting comfortable with that final point, and Jacob acknowledged.",
       "stage": "LOI",
-      "nextStep": "Wait for Caleb/Mahogany to approve or counter the remaining assignment-consent language. If approved, Jacob can circulate the LOI through DocuSign.",
+      "nextStep": "September 17 agenda reconciliation supersedes earlier LOI-only WAITING posture: send the chicken-outparcel draft and existing REA to Ashby for human review, then track the response. Agenda reports fully executed LOI; verify current execution record. Guthrie's is the Claude-assisted draft precedent, not the tenant. No lease execution or completed review established. Leasing Meeting task1218601117721979.",
       "priority": "high",
       "contacts": [
         "Caleb Glafenhein (Greenbrier Real Estate Advisors)",
@@ -7639,6 +7664,11 @@
         "Mahogany Properties"
       ],
       "timeline": [
+        {
+          "date": "2026-09-17",
+          "type": "meeting",
+          "event": "September 17 agenda reconciliation supersedes earlier LOI-only WAITING posture: send the chicken-outparcel draft and existing REA to Ashby for human review, then track the response. Agenda reports fully executed LOI; verify current execution record. Guthrie's is the Claude-assisted draft precedent, not the tenant. No lease execution or completed review established. Leasing Meeting task1218601117721979."
+        },
         {
           "date": "2026-09-04",
           "event": "Jacob returned LL redline and clean LOIs accepting all tenant changes except deletion of landlord approval rights over future assignments. Caleb said the tenant group will work on getting comfortable with the final point; Jacob acknowledged.",
@@ -8448,10 +8478,15 @@
       "property": "Harrison Square",
       "status": "OPEN: Obtain actual dimensions, installation/fence layout and parking/truck-circulation fit rather than rough Google overlay; review/advance the received agreement through legal/landlord review. Internal meeting go-ahead and September 15 reported landlord approval do not establish execution or operation. Verify reported five-year term, three-month termination both ways, as-is/no landlord cash and unclear setup/free-rent passage against agreement. Jacob inferred; no due date or new approval by executor.",
       "stage": "Trading Terms",
-      "nextStep": "OPEN: Obtain actual dimensions, installation/fence layout and parking/truck-circulation fit rather than rough Google overlay; review/advance the received agreement through legal/landlord review. Internal meeting go-ahead and September 15 reported landlord approval do not establish execution or operation. Verify reported five-year term, three-month termination both ways, as-is/no landlord cash and unclear setup/free-rent passage against agreement. Jacob inferred; no due date or new approval by executor.",
+      "nextStep": "OPEN: Obtain actual dimensions, installation/fence layout and parking/truck-circulation fit rather than rough Google overlay; review/advance the received agreement through legal/landlord review. Internal meeting go-ahead and September 15 reported landlord approval do not establish execution or operation. Verify reported five-year term, three-month termination both ways, as-is/no landlord cash and unclear setup/free-rent passage against agreement. Jacob inferred; no due date or new approval by executor. September 17 agenda context: Harrison site approval is reported at $42,000/year for 3,500 SF. Confirm dimensions, installation/fence layout, parking/truck circulation, agreement and setup/free-rent terms; reported approval is not execution, permit clearance or operations.",
       "priority": "medium",
       "contacts": [],
       "timeline": [
+        {
+          "date": "2026-09-17",
+          "type": "meeting",
+          "event": "September 17 agenda context: Harrison site approval is reported at $42,000/year for 3,500 SF. Confirm dimensions, installation/fence layout, parking/truck circulation, agreement and setup/free-rent terms; reported approval is not execution, permit clearance or operations."
+        },
         {
           "date": "2026-09-16",
           "event": "T324 calendar-confirmed Leasing meeting: OPEN: Obtain actual dimensions, installation/fence layout and parking/truck-circulation fit rather than rough Google overlay; review/advance the received agreement through legal/landlord review. Internal meeting go-ahead and September 15 reported landlord approval do not establish execution or operation. Verify reported five-year term, three-month termination both ways, as-is/no landlord cash and unclear setup/free-rent passage against agreement. Jacob inferred; no due date or new approval by executor.",
