@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T10:31:10.369574",
+  "lastUpdated": "2026-09-17T10:35:37.128217",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/16/26",
   "today": {
     "date": "2026-09-17",
@@ -2922,9 +2922,14 @@
       "tenant": "Easterseals Rehabilitation",
       "property": "Shelbyville / Harrison / Evansville former Big Lots package",
       "status": "Vendors Village submitted initial as-is purchase indications of $4.1M for the Evansville center and $1.4M for the Shelbyville standalone building, both excluding outparcels. An overnight Adam Heston Slack message indicates Anchor views the numbers as materially off market.",
-      "nextStep": "September 16 meeting follow-through: WAITING on Vendors Village's update after the reported request to let Anchor know either way; Anchor's earlier unaccepted purchase indications remain historical context. Separately identify the competing Evansville center and verify ownership on CoStar rather than relying on sale recollections. Lookup owner unconfirmed; no date. Neither path is accepted or dead. Prior tracked work retained (reconcile timing/status before acting): Prepare Anchor’s valuation and counter posture before accepting the proposed Nashville meeting next week.",
+      "nextStep": "WAITING on Vendors Village's update about its competing Evansville opportunity. Jacob/Anchor still need to evaluate Matt Jeffery's September 10 purchase indications for Anchor's properties and decide whether to meet or counter; the meeting did not close that internal work. Separately identify the competing Evansville center and verify ownership on CoStar rather than relying on sale recollections. Lookup owner unconfirmed; no new due date. No purchase indication was accepted and neither path is established as dead.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-17",
+          "type": "meeting",
+          "event": "Correction to September16 reconciliation: WAITING on Vendors Village's update about its competing Evansville opportunity. Jacob/Anchor still need to evaluate Matt Jeffery's September 10 purchase indications for Anchor's properties and decide whether to meet or counter; the meeting did not close that internal work. Separately identify the competing Evansville center and verify ownership on CoStar rather than relying on sale recollections. Lookup owner unconfirmed; no new due date. No purchase indication was accepted and neither path is established as dead."
+        },
         {
           "date": "2026-09-16",
           "event": "2026-09-16 meeting (reconciled 2026-09-17): T320 WAITING on Vendors Village's update after the reported request to let Anchor know either way; Anchor's earlier unaccepted purchase indications remain historical context. Separately identify the competing Evansville center and verify ownership on CoStar rather than relying on sale recollections. Lookup owner unconfirmed; no date. Neither path is accepted or dead.",
