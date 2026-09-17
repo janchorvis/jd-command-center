@@ -1,10 +1,12 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-09-15
+Last updated: 2026-09-16
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T458 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T459 -->
 
 ## ACTIVE — Jacob needs to do these
+
+- T458: Spirit Halloween / Evansville 2026-27 renewal proposal — Brian Reiss proposed a $30,000 total payment for storage plus the Halloween season, with $7,500 due at execution, $5,000 June 15, $5,000 August 1, $12,500 October 15, a $5,000 utility deposit July 1, and mutual termination before June 15, 2027 on 30 days' notice. Jacob needs to decide whether the landlord will pursue this commercial posture and confirm the accurate future payment dates before any reply or lease drafting. No Gmail draft, email reply, payment, Asana, Drive, or Slack mutation occurred in this unattended run. [gmail thread/latest: 19a2cdcda5049092 / 1a0aa4c768f95547] [source: Communication Triage 2026-09-16 9 AM] [deal: Evansville / Spirit Halloween]
 
 - T457: 312 Wilson Pike / Hideout tour invite — Jake Morris (Charles Hawkins Co.) sent a calendar invitation titled “312 Wilson Pike Cir Tour - Hideout” at 6:37 PM CDT on September 15. The email contains no use, square-footage, attendee, or confirmed availability detail beyond the attached calendar invite. Before accepting, attending, or confirming the tour, place Hideout on the 312 Wilson Pike collision map and verify the prospect’s use, space requirement, parking/utilities/zoning fit, suite condition, and compatibility with the existing whole-building, former Accent Flowers, brewery-taproom, and veterinary paths. No calendar, Gmail, Slack, Asana, Drive, or external-message mutation occurred in this unattended run. [gmail invite: 1a0a76ea111b1dea] [attachment: invite.ics] [source: Communication Triage after-hours 2026-09-15] [deal: 312 Wilson Pike]
 
@@ -820,3 +822,5 @@ Note: WATCHING items should be removed once real movement comes in. Gastonia lau
 - T439: Russellville / Ollie’s grocery-box availability inquiry — Alex Barineau (TSCG) asks how much term remains on the grocery lease and whether the grocer might leave the center; he represents Ollie’s Bargain Outlet. Jacob/Leasing need to verify the grocery lease term, renewal/termination rights, current operating posture, vacant-space alternatives, and any existing commitments before indicating availability or approaching the grocer. No external reply, Gmail draft, label, Asana/Pipedrive, or Command Center mutation occurred in this unattended run. [gmail thread/message: 1a08bfd9529f7884] [source: Communication Triage 2026-09-10 11 AM] [deal: Russellville / Ollie’s]
 
 - T454: SECURITY / suspected document-phishing lures forwarded by Mathison Ingham on September 14 - Two emails impersonating document-sharing/signature workflows point to suspicious S3 links: a supposed DocuSign “Contract Agreement” from a Gmail sender and a “Compass Academy Project Document” from an unrelated Colombian-domain sender. Do not open either link. Jacob/IT should verify whether either request maps to a known vendor or transaction, then quarantine/report the messages and inspect for any user interaction. [gmail: 1a0a181f556e26a5; 1a0a18167b150a6f] [source: Communication Triage 2026-09-14 4 PM] [security]
+
+- T459: PCON feedback: Erik Prochnow — PCON VP Membership requested Jacob complete feedback after meeting prospective member Erik Prochnow (erik.prochnow@yahoo.com). Big Board task created, assigned to Jacob, due 2026-09-23, and tagged Jarvis. Gmail thread was labeled `7: actioned` and left unread in inbox for visibility. Jacob needs to complete the feedback form. [asana: 1218574695384723] [gmail thread/message: 1a0aac0ea597f931] [source: Communication Triage after-hours 2026-09-16] [project: PCON]
