@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T11:46:43.211056",
+  "lastUpdated": "2026-09-17T12:30:39.673192",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/16/26",
   "today": {
     "date": "2026-09-17",
@@ -1411,6 +1411,11 @@
       "nextStep": "September 17 tracking update: the linked Wingstop renewal-option notice follow-up is marked completed in Asana. Do not recreate/reopen it. The meeting's six-month proposal and possible three-month fallback remain historical; verify actual executed notice language rather than infer an amendment or accepted term from task completion. Keep separate opening/commission obligations distinct.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-17",
+          "event": "Email from Kevin Trujillo: Cosmo + Wingstop",
+          "type": "email"
+        },
         {
           "date": "2026-09-17",
           "event": "Email from Sarah Langan via Docusign: Complete with Docusign: McMinnville, TN Lease- Wingstop - Execution Copy.pdf",
@@ -6208,6 +6213,11 @@
         "Matt Jeffery (Vendors Village)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-17",
+          "event": "Email from John Schultz: Planet Fitness @ Big Lots Sevierville | Tenant Redline v3",
+          "type": "email"
+        },
         {
           "date": "2026-09-17",
           "event": "Email from Jordan Hollander: 🏨 Expedia Killed its Chatbot. Booking Built 5.",
