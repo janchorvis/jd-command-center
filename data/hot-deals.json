@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T07:15:33.542337",
+  "lastUpdated": "2026-09-18T07:16:00.394060",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/16/26",
   "today": {
     "date": "2026-09-18",
@@ -9727,21 +9727,8 @@
       "details": {
         "lastEmailDate": "2026-09-14",
         "lastPipedriveDate": "2026-05-04",
-        "emailDaysAgo": 3,
-        "pipedriveDaysAgo": 136
-      }
-    },
-    {
-      "deal": "Starbucks BTS",
-      "property": "Madison - 1508 Gallatin Pike S, Madison TN",
-      "type": "email-active-pipedrive-stale",
-      "message": "Last email 9/10, Pipedrive not updated since 8/16",
-      "severity": "high",
-      "details": {
-        "lastEmailDate": "2026-09-10",
-        "lastPipedriveDate": "2024-08-16",
-        "emailDaysAgo": 7,
-        "pipedriveDaysAgo": 762
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 137
       }
     },
     {
@@ -9753,34 +9740,34 @@
       "details": {
         "lastEmailDate": "2026-09-16",
         "lastPipedriveDate": "2026-03-24",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 177
+        "emailDaysAgo": 2,
+        "pipedriveDaysAgo": 178
       }
     },
     {
       "deal": "Wingstop",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 9/16, Pipedrive not updated since 4/27",
+      "message": "Last email 9/17, Pipedrive not updated since 4/27",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-09-16",
+        "lastEmailDate": "2026-09-17",
         "lastPipedriveDate": "2026-04-27",
         "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 143
+        "pipedriveDaysAgo": 144
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "pipedrive-active-no-email",
-      "message": "Pipedrive updated 9/15, last email was 3/11 (190d ago)",
+      "message": "Pipedrive updated 9/15, last email was 3/11 (191d ago)",
       "severity": "medium",
       "details": {
         "lastEmailDate": "2026-03-11",
         "lastPipedriveDate": "2026-09-15",
-        "emailDaysAgo": 190,
-        "pipedriveDaysAgo": 2
+        "emailDaysAgo": 191,
+        "pipedriveDaysAgo": 3
       }
     }
   ],
