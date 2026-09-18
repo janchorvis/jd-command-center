@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T10:30:46.538319",
+  "lastUpdated": "2026-09-18T11:30:57.198451",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/16/26",
   "today": {
     "date": "2026-09-18",
@@ -6742,6 +6742,11 @@
         "Miller Fitts (JLL)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-18",
+          "event": "Email from JR Murphy: 312 Wilson Pike Cir, Brentwood, TN 37027 - Walkthrough",
+          "type": "email"
+        },
         {
           "date": "2026-09-17",
           "type": "meeting",
