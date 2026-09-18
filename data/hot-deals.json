@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T07:33:23.226123",
+  "lastUpdated": "2026-09-18T07:16:00.394060",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/16/26",
   "today": {
     "date": "2026-09-18",
@@ -54,10 +54,7 @@
       "Sevierville: inspect former Mattress suite and call tenant on half-suite option (overdue — due 2026-08-10)",
       "PCON feedback: Jack Lloyd (overdue — due 2026-08-13)",
       "PCON feedback: Jeffrey Shoopman (overdue — due 2026-07-29)",
-      "Parma heights OP (overdue — due 2026-07-07)",
-      "Set McMinnville 7 Brew buyout posture before any tenant or broker outreach.",
-      "Verify the reported Harrison Ollie's/Big Lots transition before changing leasing posture.",
-      "Resolve the 312 Wilson Pike collision map before quoting or committing availability."
+      "Parma heights OP (overdue — due 2026-07-07)"
     ]
   },
   "pipelineDeals": [
@@ -4740,9 +4737,9 @@
       "id": "harrison-childrens-adventure-entertainment",
       "name": "Children's Adventure Entertainment Operator",
       "property": "Harrison Square",
-      "status": "Overnight Slack reporting says Ollie's may acquire the Big Lots lease, with takeover expected early next year; Big Lots is expected through the holidays. This is not executed-assignment or opening proof.",
+      "status": "Lacey Nobbe/CBRE followed up for a landlord yes/no on placing a Wing drone-delivery nest at Harrison; Wing has another review call on 8/27.",
       "stage": "Contact Made",
-      "nextStep": "Obtain and verify assignment/lease and operating-transition evidence before changing availability or marketing posture.",
+      "nextStep": "Jacob/Adam need to confirm landlord approval and truck-circulation feasibility for the proposed rear paved area before Lacey's 8/27 Wing call.",
       "priority": "high",
       "contacts": [
         "Mason Beecher (R.J. Brunelli & Co.)",
@@ -4750,11 +4747,6 @@
         "Lacey Nobbe (CBRE)"
       ],
       "timeline": [
-        {
-          "date": "2026-09-18",
-          "event": "Briefing: overnight portfolio update reported possible Ollie's acquisition of the Harrison Big Lots lease, pending documentary verification.",
-          "type": "task"
-        },
         {
           "date": "2026-08-26",
           "event": "Lacey followed up asking whether landlord will allow a Wing nest at Harrison and said Wing has another call on 8/27.",
