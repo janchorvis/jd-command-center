@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T09:30:50.162151",
+  "lastUpdated": "2026-09-21T10:31:02.551919",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/16/26",
   "today": {
     "date": "2026-09-21",
@@ -7893,6 +7893,11 @@
         "Grace S. (Crexi activity only)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-21",
+          "event": "Email from Lauer, Tracy: FW: MALONE PLAZA",
+          "type": "email"
+        },
         {
           "date": "2026-09-16",
           "event": "2026-09-16 meeting (reconciled 2026-09-17): T428 OPEN: Continue Tracy's buyer discussions and responses with Ryan; meeting direction was to communicate motivation, not accept a sale offer. Jacob inferred from deal-updater context; Ryan explicitly involved. Current canonical Tracy/Wachs identity supports Malone. Preserve the existing Valerie/Wachs and leasing collision, NDA/data-room and economics gates. No message sent; no due date.",
