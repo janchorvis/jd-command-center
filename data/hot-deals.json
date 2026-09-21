@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T13:30:36.987959",
+  "lastUpdated": "2026-09-21T13:33:39.642628",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/16/26",
   "today": {
     "date": "2026-09-21",
@@ -8506,12 +8506,17 @@
       "id": "shelbyville-dutch-bros",
       "name": "Dutch Bros",
       "property": "Shelbyville",
-      "status": "OPEN: Have a civil engineer establish Dutch Bros utility locations ASAP (no calendar deadline). Continue redlines in parallel using the latest returned draft; landlord work was restored for the TI structure and remains unresolved. Jacob inferred to mark up and route to Micah; Micah inferred review/return is WAITING on Jacob's markup, not a sent request. Push drink-sales threshold/carveout using Sevierville language as reference without assuming concession. Spoken 'one fifty'/'eight fifty' are not verified units/economics; preserve wider redevelopment alternatives.",
+      "status": "September 21: Dutch Bros-only topo/utility diligence is open. Seek a reduced Kimley-Horn scope and competing local proposals using the existing ALTA/CAD. No survey fee, utility-cost allocation or landlord-work scope is approved.",
       "stage": "Trading Terms",
-      "nextStep": "OPEN: Have a civil engineer establish Dutch Bros utility locations ASAP (no calendar deadline). Continue redlines in parallel using the latest returned draft; landlord work was restored for the TI structure and remains unresolved. Jacob inferred to mark up and route to Micah; Micah inferred review/return is WAITING on Jacob's markup, not a sent request. Push drink-sales threshold/carveout using Sevierville language as reference without assuming concession. Spoken 'one fifty'/'eight fifty' are not verified units/economics; preserve wider redevelopment alternatives.",
+      "nextStep": "Adam to obtain proposal and completion timing, locate/provide CAD, ask the local contact which surveyors commonly work there and arrange 811 markings. Proposed release this week and results in a couple of weeks are not firm deadlines. Inspector review is conditional. Continue rent/LOI points in parallel; confirm Jacob versus Adam broker-response responsibility and retain utility/landlord-work caveats.",
       "priority": "medium",
       "contacts": [],
       "timeline": [
+        {
+          "date": "2026-09-21",
+          "type": "meeting",
+          "event": "Dutch Bros-only topo and utility proposals requested using existing ALTA/CAD; $24,000 broader proposal and $5,000-$6,000 informal expectation are not approved fees. Advance negotiations while diligence continues; final utility/landlord-work allocation unresolved."
+        },
         {
           "date": "2026-09-16",
           "event": "T289 calendar-confirmed Leasing meeting: OPEN: Have a civil engineer establish Dutch Bros utility locations ASAP (no calendar deadline). Continue redlines in parallel using the latest returned draft; landlord work was restored for the TI structure and remains unresolved. Jacob inferred to mark up and route to Micah; Micah inferred review/return is WAITING on Jacob's markup, not a sent request. Push drink-sales threshold/carveout using Sevierville language as reference without assuming concession. Spoken 'one fifty'/'eight fifty' are not verified units/economics; preserve wider redevelopment alternatives.",
