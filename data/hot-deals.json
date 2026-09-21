@@ -9786,10 +9786,82 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-09-21T07:38:58",
+    "generatedAt": "2026-09-21T07:39:39",
     "source": "morning-briefing",
-    "yourPlate": [],
-    "prepping": [],
+    "yourPlate": [
+      {
+        "id": "sweep-plate-1",
+        "text": "T362 - verify the two September 17 Google sign-ins.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-2",
+        "text": "T454 - direct approved handling for Mathison's phishing lures.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-3",
+        "text": "T458 - choose Spirit Halloween Evansville renewal posture.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-4",
+        "text": "T453 - set the Sevierville Big Lots posture across ATS, Bealls, and disposition.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-5",
+        "text": "T469 - resolve Michael's Fine Jewelry rent math and pass/offer direction.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-plate-6",
+        "text": "T400 - decide Gabe's LOI/redline signature or counter path.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ],
+    "prepping": [
+      {
+        "id": "sweep-prep-1",
+        "text": "T456 - 312 Wilson brewery-taproom collision/fit brief.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-2",
+        "text": "T452 - Five Below post-execution opening closeout.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-3",
+        "text": "T446 - Wingstop executed-copy and opening-closeout prep.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-prep-4",
+        "text": "T427 - 7 Brew buyout/lease-rights decision brief.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      }
+    ],
     "handling": [
       {
         "id": "sweep-handle-1",
@@ -10187,8 +10259,36 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-09-21T07:38:58",
+    "generatedAt": "2026-09-21T07:39:39",
     "source": "morning-briefing",
-    "items": []
+    "items": [
+      {
+        "id": "focus-plate-1",
+        "dealName": "T362 - verify the two September 17 Google sign-ins.",
+        "property": null,
+        "action": "T362 - verify the two September 17 Google sign-ins.",
+        "why": "#1 on your plate today.",
+        "urgency": "high",
+        "type": "briefing"
+      },
+      {
+        "id": "focus-plate-2",
+        "dealName": "T454 - direct approved handling for Mathison's phishing lure",
+        "property": null,
+        "action": "T454 - direct approved handling for Mathison's phishing lures.",
+        "why": "#2 on your plate today.",
+        "urgency": "high",
+        "type": "briefing"
+      },
+      {
+        "id": "focus-plate-3",
+        "dealName": "T458 - choose Spirit Halloween Evansville renewal posture.",
+        "property": null,
+        "action": "T458 - choose Spirit Halloween Evansville renewal posture.",
+        "why": "#3 on your plate today.",
+        "urgency": "medium",
+        "type": "briefing"
+      }
+    ]
   }
 }
