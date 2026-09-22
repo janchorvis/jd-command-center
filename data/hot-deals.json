@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T14:30:32.454315",
+  "lastUpdated": "2026-09-22T15:03:21.691202",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/21/26",
   "today": {
     "date": "2026-09-22",
@@ -724,11 +724,16 @@
       "id": "gastonia-laundromat",
       "name": "Chad Vang - Laundromat",
       "property": "Dixie Village",
-      "status": "Juany Almanza confirmed she has the $140,000 on hand and wants 1,300-1,600 SF for the Mexican bakery concept at Dixie Village.",
+      "status": "Crexi reported Carly H. downloaded the Dixie Village brochure on September 22. The notification has no direct contact details, business, space requirement, or reply path.",
       "stage": "LOI",
-      "nextStep": "Jacob review with ownership and decide whether another Mexican bakery use is acceptable at Dixie Village.",
+      "nextStep": "Decide whether to follow up through the Crexi dashboard and capture contact, use, and size.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-09-22",
+          "event": "Carly H. downloaded the Dixie Village brochure via Crexi; notification included no direct contact or qualification details.",
+          "type": "lead"
+        },
         {
           "date": "2026-06-03",
           "event": "Inbox: Juany confirmed funds are on hand and target size is 1,300-1,600 SF; Gmail draft loaded for Jacob to review with ownership and circle back.",
@@ -812,7 +817,8 @@
         "David W. (Crexi lead)",
         "David W. - Crexi inquiry",
         "Juany Almanza (prospect)",
-        "Juany Almanza"
+        "Juany Almanza",
+        "Carly H. (Crexi brochure activity)"
       ],
       "actions": [
         {
