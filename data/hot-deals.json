@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T07:15:56.272488",
+  "lastUpdated": "2026-09-22T07:16:19.006037",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/21/26",
   "today": {
     "date": "2026-09-22",
@@ -9791,21 +9791,21 @@
       "details": {
         "lastEmailDate": "2026-09-17",
         "lastPipedriveDate": "2026-05-04",
-        "emailDaysAgo": 4,
-        "pipedriveDaysAgo": 140
+        "emailDaysAgo": 5,
+        "pipedriveDaysAgo": 141
       }
     },
     {
       "deal": "UPS Store Franchisee",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 9/16, Pipedrive not updated since 3/24",
+      "message": "Last email 9/21, Pipedrive not updated since 3/24",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-09-16",
+        "lastEmailDate": "2026-09-21",
         "lastPipedriveDate": "2026-03-24",
-        "emailDaysAgo": 5,
-        "pipedriveDaysAgo": 181
+        "emailDaysAgo": 1,
+        "pipedriveDaysAgo": 182
       }
     },
     {
@@ -9817,21 +9817,21 @@
       "details": {
         "lastEmailDate": "2026-09-17",
         "lastPipedriveDate": "2026-04-27",
-        "emailDaysAgo": 4,
-        "pipedriveDaysAgo": 147
+        "emailDaysAgo": 5,
+        "pipedriveDaysAgo": 148
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "pipedrive-active-no-email",
-      "message": "Pipedrive updated 9/15, last email was 3/11 (194d ago)",
+      "message": "Pipedrive updated 9/22, last email was 3/11 (195d ago)",
       "severity": "medium",
       "details": {
         "lastEmailDate": "2026-03-11",
-        "lastPipedriveDate": "2026-09-15",
-        "emailDaysAgo": 194,
-        "pipedriveDaysAgo": 6
+        "lastPipedriveDate": "2026-09-22",
+        "emailDaysAgo": 195,
+        "pipedriveDaysAgo": 0
       }
     }
   ],
