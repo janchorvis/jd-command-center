@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T14:30:32.454315",
+  "lastUpdated": "2026-09-22T15:30:32.902062",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/21/26",
   "today": {
     "date": "2026-09-22",
@@ -6757,6 +6757,11 @@
         "Miller Fitts (JLL)"
       ],
       "timeline": [
+        {
+          "date": "2026-09-22",
+          "event": "Email from Hendricks, Mitch: 312 Wilson Pike Cir Listing",
+          "type": "email"
+        },
         {
           "date": "2026-09-21",
           "event": "Email from Micah Lacher: 312 Wilson Pike",
