@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T07:16:21.708972",
+  "lastUpdated": "2026-09-23T07:33:31.801383",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/21/26",
   "today": {
     "date": "2026-09-23",
@@ -34,7 +34,9 @@
       "PCON feedback: Nolan Ray (overdue — due 2026-08-26)",
       "Sevierville: inspect former Mattress suite and call tenant on half-suite option (overdue — due 2026-08-10)",
       "PCON feedback: Jack Lloyd (overdue — due 2026-08-13)",
-      "PCON feedback: Jeffrey Shoopman (overdue — due 2026-07-29)"
+      "PCON feedback: Jeffrey Shoopman (overdue — due 2026-07-29)",
+      "Resolve priority leasing legal/economic decisions: CosmoProf edits, 7 Brew buyout posture, and Sevierville Big Lots collision.",
+      "Review overnight Maple Row sports-bar diligence request before commercial engagement."
     ]
   },
   "pipelineDeals": [
@@ -2554,10 +2556,15 @@
       "id": "maple-row-great-greek",
       "tenant": "Great Greek",
       "property": "Maple Row",
-      "status": "Eli confirmed check is easiest for Centennial Retail invoice 1835 and said Accounting will cut the $11,527.50 check Friday. Payment proof and final commission-agreement verification remain open.",
-      "nextStep": "Confirm to Eli that punit0529@gmail.com is Punit Patel's established Great Greek address and should be used for the portal invite; continue key handoff, utility-transfer, commission-check, and post-execution checklist follow-through.",
-      "priority": "high",
+      "status": "Overnight internal diligence was requested on a potential sports-bar deal; no deal approval or economics are established.",
+      "nextStep": "Prepare prospect, market-comparison, and operating/rent-capacity diligence before any commercial decision.",
+      "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-09-23",
+          "event": "Briefing: overnight internal request for sports-bar diligence; no approval.",
+          "type": "task"
+        },
         {
           "date": "2026-09-01",
           "event": "Eli said check is easiest for the Great Greek commission invoice and that he will cut it Friday.",
