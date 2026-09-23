@@ -1,6 +1,6 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-09-21
+Last updated: 2026-09-22
 
 <!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T478 -->
 
@@ -77,7 +77,7 @@ Last updated: 2026-09-21
 
 - T437: CREDA DL Connect September cohort scheduling — Daniel Patton proposed coffee, lunch, or happy hour Friday, September 18 or any time September 21-25; Charlie Chambers is unavailable September 18 but otherwise free, and Jacob has not replied. Jacob needs to choose availability/location and respond to the cohort. No Gmail draft, label, external reply, Asana, or command-center mutation occurred in this unattended run. [gmail thread: 1a01b46a4e1a0402] [source: Communication Triage 2026-09-09 11 AM] [project: CREDA DL Connect]
 
-- T432: PCON feedback - Christopher Feemster — PCON VP Membership requested feedback after Christopher Feemster (chris.feemster@wesbanco.com) logged a meeting with Jacob. Complete the feedback form by September 21. After no duplicate was found, task `1218490699501876` was created in Big Board, assigned to Jacob, due September 21, and tagged Jarvis; the email was labeled `7: actioned`, marked unread, and returned to inbox. No external message or draft was created. [asana: https://app.asana.com/1/1201780703252669/project/1204790859570747/task/1218490699501876] [gmail thread/message: 1a08255bf74ee37e] [source: Communication Triage 2026-09-08; after-hours triage 2026-09-14]
+- T432: STALE / NO COMPLETION PROOF / PCON feedback - Christopher Feemster — PCON VP Membership requested feedback after Christopher Feemster (chris.feemster@wesbanco.com) logged a meeting with Jacob. The September 21 deadline passed without completion proof. After no duplicate was found, task `1218490699501876` was created in Big Board, assigned to Jacob, due September 21, and tagged Jarvis; the email was labeled `7: actioned`, marked unread, and returned to inbox. Jacob should confirm whether he submitted the feedback; otherwise decide whether late feedback remains useful. No external message or draft was created. [asana: https://app.asana.com/1/1201780703252669/project/1204790859570747/task/1218490699501876] [gmail thread/message: 1a08255bf74ee37e] [source: Communication Triage 2026-09-08; after-hours triage 2026-09-14; self-review 2026-09-22]
 
 - T435: Sevierville former Big Lots / Bealls economics request — David Baker (Baker Storey McDonald) said Bealls remains interested in the approximately 34,953 SF former Big Lots space and requested Anchor's current asking rent and NNN. Jacob/Leasing need to verify current availability, disposition, approved economics, and conflicts before responding. Command Center's existing Bealls record was refreshed with this follow-up; no Gmail draft/label, external reply, Asana, payment, Drive, or Slack mutation occurred in this unattended run. [gmail thread/message: 1a082e718f54a6be] [source: Communication Triage 2026-09-08 5 PM; 2026-09-14 11 AM] [deal: Sevierville former Big Lots]
 
@@ -859,3 +859,5 @@ Note: WATCHING items should be removed once real movement comes in. Gastonia lau
 ## 2026-09-17 triage updates
 
 - T343 update: Crexi reported Catherine F. opened the Dixie Village brochure at 10:35 PM CDT on September 16. The notification provides no direct contact address, message, business, space requirement, or reply route, so no review draft or external follow-up was possible. Preserve the existing Dixie Village qualification posture. [gmail thread: 1a0ad6ee57b62828] [source: Communication Triage 2026-09-17 noon]
+
+- T343 update: Crexi reported Carly H. downloaded the Dixie Village brochure on 2026-09-22. The notification included no direct contact details, business, space requirement, or reply path; the existing follow-up-through-Crexi qualification posture remains. [gmail thread: 1a0c964648b06c9a] [source: Communication Triage 2026-09-22 3 PM]
