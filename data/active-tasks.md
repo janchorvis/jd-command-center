@@ -1,10 +1,12 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-09-23
+Last updated: 2026-09-24
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T480 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T481 -->
 
 ## ACTIVE — Jacob needs to do these
+
+- T481: Caswell Merchandising invoice #60 — Caswell emailed invoice #60 for $97.68, due September 24, 2026. Jacob needs to verify the charge and route/approve payment through the normal accounting process. No payment, email reply, or account mutation was made. [gmail thread/message: 1a0d487a8c4191cc] [source: Communication Triage 2026-09-24 2 PM]
 
 - T477: PCON 2027 Board Election Night and leadership planning — Larry Kloess asked confirmed 2027 board members to RSVP for Election Night on Monday, October 12, 6:00-8:00 PM at Operation Stand Down, complete the 2027 Board Leadership Planning Form by Monday, October 5, and prepare a five-minute Election Night presentation covering 2027 vision/goals, priorities, new initiatives, member participation needs, and how members can get involved. Jacob needs to decide attendance, complete the planning form, and prepare his presentation. No RSVP, form submission, calendar change, or external reply was made by Jarvis. [gmail thread/message: 1a0c62f1e644dd40] [source: Communication Triage after-hours 2026-09-21] [project: PCON]
 
@@ -867,3 +869,4 @@ Note: WATCHING items should be removed once real movement comes in. Gastonia lau
 - T343 update: Crexi reported Carly H. downloaded the Dixie Village brochure on 2026-09-22. The notification included no direct contact details, business, space requirement, or reply path; the existing follow-up-through-Crexi qualification posture remains. [gmail thread: 1a0c964648b06c9a] [source: Communication Triage 2026-09-22 3 PM]
 
 - T480: PCON feedback: Nick Copenhaver — PCON VP Membership requested Jacob share feedback after meeting Nick Copenhaver (nick.copenhaver@bernstein.com). Complete the feedback form linked in Gmail thread `1a0cfb0fe26a2398`. Big Board task `1218810533372980` was created, assigned to Jacob, due 2026-09-30, and tagged Jarvis; the email was labeled `7: actioned` and left unread in the inbox for visibility. [asana: https://app.asana.com/1/1201780703252669/project/1204790859570747/task/1218810533372980] [gmail thread/message: 1a0cfb0fe26a2398] [source: Communication Triage after-hours 2026-09-23] [project: PCON]
+- T479 update (2026-09-24): Authenticated Google Workspace alert reports one message from `tyle.armstead@wedriveu.com` was reported as phishing by `jdelk@anchorinv.com` at HIGH severity. This is a separate sender/incident from the prior allie@opentablenashville.org alert. The email does not identify the original message or remediation outcome. Inspect Google Admin Alert Center and quarantine/remediate as appropriate; do not open untrusted links. [gmail thread/message: 1a0d3c83e0f8dbe6] [security]
