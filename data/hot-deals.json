@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T12:30:21.369390",
+  "lastUpdated": "2026-09-28T13:10:13.091612",
   "sourceDoc": "Copy of Leasing Meeting Prep - Week of 9/28/26",
   "today": {
     "date": "2026-09-28",
@@ -4253,9 +4253,9 @@
       "id": "mcminnville-regional-transit",
       "name": "Regional transit service / Craig Hughes",
       "property": "McMinnville Plaza",
-      "status": "Adam Heston sent a corrected Floorplan McMinnville PDF overnight after Jacob identified the correct suite orientation and requested more legible wording.",
+      "status": "Revised test fit reported sent; WAITING on prospect review and supplemental parking response. Forty requested spaces remain unresolved.",
       "stage": "LOI",
-      "nextStep": "September 16 meeting follow-through: OPEN: Verify outcome of the call planned for September 16 at 2 PM; no completion found in current task/deal/event records. Keep that historical timing without creating a fresh overdue deadline or rescheduling. Clarify actual need versus the prior 5,000-7,000 SF indication, combining three/four annex suites, pricing and buildout scope. Preserve current-condition/utility/dimension verification before commitment. Jacob inferred from deal-updater context; no new due date. Prior tracked work retained (reconcile timing/status before acting): Review the corrected plan for configuration and legibility, then field-verify dimensions and conditions before using it for pricing, marketing, or tenant commitments.",
+      "nextStep": "WAITING on the prospect to review the revised test fit reported sent September 28. Requested 40 spaces exceed the comfortable on-site allocation; the prospect is exploring Chicken Chef supplemental parking. No parking agreement, striping commitment or decision deadline. The earlier September 16 call task remains completed; this is the newly reported drawing/parking response stage.",
       "priority": "high",
       "contacts": [
         "Craig Hughes (Upper Cumberland Commercial)",
@@ -4266,6 +4266,11 @@
         "Emma Bray"
       ],
       "timeline": [
+        {
+          "date": "2026-09-28",
+          "type": "meeting",
+          "event": "Revised test fit reported sent; WAITING on prospect review and supplemental parking response. Forty requested spaces remain unresolved."
+        },
         {
           "date": "2026-09-16",
           "event": "2026-09-16 meeting (reconciled 2026-09-17): T300 OPEN: Verify outcome of the call planned for September 16 at 2 PM; no completion found in current task/deal/event records. Keep that historical timing without creating a fresh overdue deadline or rescheduling. Clarify actual need versus the prior 5,000-7,000 SF indication, combining three/four annex suites, pricing and buildout scope. Preserve current-condition/utility/dimension verification before commitment. Jacob inferred from deal-updater context; no new due date.",
@@ -7868,9 +7873,9 @@
       "id": "forks-of-the-river-qsr-chicken-outparcel-sale",
       "name": "QSR Chicken Concept",
       "property": "Sevierville / Forks of the River Shopping Center",
-      "status": "Jacob returned Anchor's 9/4 LL redline and clean LOI, accepting all tenant changes except deletion of landlord approval rights over future assignments. Caleb said his group will work on getting comfortable with that final point, and Jacob acknowledged.",
+      "status": "September 28: Jacob reported emailing Ashby about the Sevierville chicken outparcel draft; WAITING on her response.",
       "stage": "LOI",
-      "nextStep": "September 17 agenda reconciliation supersedes earlier LOI-only WAITING posture: send the chicken-outparcel draft and existing REA to Ashby for human review, then track the response. Agenda reports fully executed LOI; verify current execution record. Guthrie's is the Claude-assisted draft precedent, not the tenant. No lease execution or completed review established. Leasing Meeting task1218601117721979.",
+      "nextStep": "WAITING on Ashby after Jacob reported emailing her that morning at Caleb's request. Preserve the completed historical send-draft task; this follow-up is receipt of the legal-review response, not resending or proof of approved draft/execution. No due date.",
       "priority": "high",
       "contacts": [
         "Caleb Glafenhein (Greenbrier Real Estate Advisors)",
@@ -7880,6 +7885,11 @@
         "Mahogany Properties"
       ],
       "timeline": [
+        {
+          "date": "2026-09-28",
+          "type": "meeting",
+          "event": "September 28: Jacob reported emailing Ashby about the Sevierville chicken outparcel draft; WAITING on her response."
+        },
         {
           "date": "2026-09-17",
           "type": "meeting",
@@ -8682,12 +8692,17 @@
       "id": "shelbyville-dutch-bros",
       "name": "Dutch Bros",
       "property": "Shelbyville",
-      "status": "September 21: Dutch Bros-only topo/utility diligence is open. Seek a reduced Kimley-Horn scope and competing local proposals using the existing ALTA/CAD. No survey fee, utility-cost allocation or landlord-work scope is approved.",
+      "status": "September 28: survey availability and utility diligence remain unresolved. Additional leasing-team surveyor leads/referrals are being pursued; no fee, completion date or cost allocation agreed.",
       "stage": "Trading Terms",
-      "nextStep": "Adam to obtain proposal and completion timing, locate/provide CAD, ask the local contact which surveyors commonly work there and arrange 811 markings. Proposed release this week and results in a couple of weeks are not firm deadlines. Inspector review is conditional. Continue rent/LOI points in parallel; confirm Jacob versus Adam broker-response responsibility and retain utility/landlord-work caveats.",
+      "nextStep": "Adam to send his additional surveyor list; Micah to ask Josh for help or a referral. This is the explicit leasing-owned referral follow-up, distinct from Clay's existing surveyor callback work. The first contact reportedly cannot work until December; verify the outcome of the alternate callback expected September 28 through PM. Survey/utility diligence and availability remain unresolved, with no accepted fee, completion deadline or cost allocation. Existing prior layout/economics task remains completed.",
       "priority": "medium",
       "contacts": [],
       "timeline": [
+        {
+          "date": "2026-09-28",
+          "type": "meeting",
+          "event": "September 28: survey availability and utility diligence remain unresolved. Additional leasing-team surveyor leads/referrals are being pursued; no fee, completion date or cost allocation agreed."
+        },
         {
           "date": "2026-09-24",
           "event": "Email from Jacob Delk: Re: Shelbyville, IN Dutch Bros",
@@ -8731,12 +8746,17 @@
       "id": "harrison-wing-drone-delivery",
       "name": "Wing drone delivery",
       "property": "Harrison Square",
-      "status": "OPEN: Obtain actual dimensions, installation/fence layout and parking/truck-circulation fit rather than rough Google overlay; review/advance the received agreement through legal/landlord review. Internal meeting go-ahead and September 15 reported landlord approval do not establish execution or operation. Verify reported five-year term, three-month termination both ways, as-is/no landlord cash and unclear setup/free-rent passage against agreement. Jacob inferred; no due date or new approval by executor.",
+      "status": "September 28: WAITING on license-agreement clarifications before execution; no execution reported.",
       "stage": "Trading Terms",
-      "nextStep": "OPEN: Obtain actual dimensions, installation/fence layout and parking/truck-circulation fit rather than rough Google overlay; review/advance the received agreement through legal/landlord review. Internal meeting go-ahead and September 15 reported landlord approval do not establish execution or operation. Verify reported five-year term, three-month termination both ways, as-is/no landlord cash and unclear setup/free-rent passage against agreement. Jacob inferred; no due date or new approval by executor. September 17 agenda context: Harrison site approval is reported at $42,000/year for 3,500 SF. Confirm dimensions, installation/fence layout, parking/truck circulation, agreement and setup/free-rent terms; reported approval is not execution, permit clearance or operations.",
+      "nextStep": "WAITING on clarification of marked-up license points through the broker. Expected readiness follows resolution, not proof of execution. Preserve the completed historical footprint/license-review task; this is the outstanding response stage reported September 28. No new economics or operational approval.",
       "priority": "medium",
       "contacts": [],
       "timeline": [
+        {
+          "date": "2026-09-28",
+          "type": "meeting",
+          "event": "September 28: WAITING on license-agreement clarifications before execution; no execution reported."
+        },
         {
           "date": "2026-09-17",
           "type": "meeting",
