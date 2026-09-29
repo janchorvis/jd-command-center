@@ -10042,7 +10042,7 @@
     }
   ],
   "todaySweep": {
-    "generatedAt": "2026-09-29T07:33:43",
+    "generatedAt": "2026-09-29T07:34:02",
     "source": "morning-briefing",
     "yourPlate": [
       {
@@ -10123,7 +10123,70 @@
     "deferred": [
       {
         "id": "sweep-defer-1",
-        "text": "Harrison Wing, MacPherson, Sevierville chicken, McMinnville office, Hope Smiles 1573 Mallory, Vendors Village: awaiting counterparties or technical inputs. Gmail Pub/Sub awaits authentication; Plaud remains explicitly deferred. Completed/history-only records stay closed.",
+        "text": "Harrison Wing - awaiting broker license clarifications.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-2",
+        "text": "MacPherson - awaiting an actual contractor assessment/budget.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-3",
+        "text": "Sevierville chicken outparcel - awaiting Ashby’s review response.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-4",
+        "text": "McMinnville office prospect - awaiting test-fit and parking response.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-5",
+        "text": "Hope Smiles 1573 Mallory - awaiting Quorum.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-6",
+        "text": "Vendors Village - awaiting counterparty outcome.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-7",
+        "text": "Gmail Pub/Sub - awaiting Jacob authentication.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-8",
+        "text": "Plaud local transcription - explicitly deferred.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-9",
+        "text": "Completed/history-only records - retained, not reopened.",
+        "detail": "",
+        "completed": false,
+        "source": "morning-briefing"
+      },
+      {
+        "id": "sweep-defer-10",
+        "text": "Legacy backlog - no new evidence or current deadline.",
         "detail": "",
         "completed": false,
         "source": "morning-briefing"
@@ -10494,7 +10557,7 @@
     ]
   },
   "focus3": {
-    "generatedAt": "2026-09-29T07:33:43",
+    "generatedAt": "2026-09-29T07:34:02",
     "source": "morning-briefing",
     "items": [
       {
