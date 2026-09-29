@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T16:30:46.609202",
+  "lastUpdated": "2026-09-29T17:30:48.476874",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/28/26",
   "today": {
     "date": "2026-09-29",
@@ -1441,6 +1441,11 @@
       "nextStep": "September 17 tracking update: the linked Wingstop renewal-option notice follow-up is marked completed in Asana. Do not recreate/reopen it. The meeting's six-month proposal and possible three-month fallback remain historical; verify actual executed notice language rather than infer an amendment or accepted term from task completion. Keep separate opening/commission obligations distinct.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-09-29",
+          "event": "Email from Kevin Trujillo: Cosmo + Wingstop",
+          "type": "email"
+        },
         {
           "date": "2026-09-24",
           "event": "Email from Kevin Trujillo: Cosmo + Wingstop",
@@ -8731,6 +8736,11 @@
       "priority": "medium",
       "contacts": [],
       "timeline": [
+        {
+          "date": "2026-09-29",
+          "event": "Email from Jacob Delk: Re: Shelbyville, IN Dutch Bros",
+          "type": "email"
+        },
         {
           "date": "2026-09-29",
           "event": "Email from Hank Davis: MAJOR PRICE REDUCTION | 15-Yr Absolute NNN | Dutch Bros | Cincinnati, OH",
