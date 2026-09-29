@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T11:30:48.858348",
+  "lastUpdated": "2026-09-29T12:30:46.241312",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/28/26",
   "today": {
     "date": "2026-09-29",
@@ -996,6 +996,11 @@
       "nextStep": "Jacob should incorporate Trace's repair update into the Fat Bottom/new-tenant walkthrough posture and decide roof/door-handle responsibility before the next walkthrough conversation.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-09-29",
+          "event": "Email from Micah Lacher: Fwd: New Invoice (INV-14362-1) from Charles Hawkins Co.",
+          "type": "email"
+        },
         {
           "date": "2026-06-19",
           "event": "Briefing: overnight Slack update from Trace Morris on Fat Bottom repairs/walkthrough items.",
@@ -9544,13 +9549,6 @@
       "deal": "Anytime Fitness (Derek Tucker) — Shelbyville",
       "daysSinceContact": 202,
       "lastAction": "Derek Tucker - Big Lots / Shelbyville CoStar listing [11-msg thread]",
-      "urgency": "high"
-    },
-    {
-      "name": "Stephen Prather",
-      "deal": "Charles Hawkins Co. — Emerson Hall - Hotel Space",
-      "daysSinceContact": 201,
-      "lastAction": "Stephen Prather - 'Lexy and Austin' update [12-msg thread]",
       "urgency": "high"
     },
     {
