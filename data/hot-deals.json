@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T10:31:00.865023",
+  "lastUpdated": "2026-09-30T11:31:01.470555",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/28/26",
   "today": {
     "date": "2026-09-30",
@@ -8315,6 +8315,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-09-30",
+          "event": "Email from Geoff Waddell: Hendersonville, TN - Maple Row Shopping Center - physical therapy",
+          "type": "email"
+        },
+        {
           "date": "2026-09-14",
           "event": "Email from Jacob Delk: Welcome to Maple Row!",
           "type": "email"
@@ -9959,13 +9964,6 @@
       "daysSinceContact": 9,
       "lastAction": "Email from Lauer, Tracy: FW: MALONE PLAZA",
       "urgency": "high"
-    },
-    {
-      "name": "Jordan Dilmanian",
-      "deal": "Jordan Dilmanian - Maple Row sale inquiry — Maple Row Shopping Center",
-      "daysSinceContact": 16,
-      "lastAction": "Email from Jacob Delk: Welcome to Maple Row!",
-      "urgency": "medium"
     }
   ],
   "weeklyDiff": {
