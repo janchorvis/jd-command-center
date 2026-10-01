@@ -1,6 +1,6 @@
 # active-tasks.md — What's Live
 
-Last updated: 2026-09-29
+Last updated: 2026-09-30
 
 <!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T492 -->
 
@@ -14,7 +14,7 @@ Last updated: 2026-09-29
 
 - T491: Department bots / AssetEdge explanation chart - OPEN, Jacob Delk; due 2026-10-30. Existing AI rock remains open; prepare chart explaining department bots and AssetEdge. Accounting human exception review remains; Yardi not implemented, PM next. Existing rock due date preserved, not a new chart-specific deadline. [asana: 1218515772277646] [source: Commercial L10 2026-09-29; Plaud of_34f4c0468df271bf9ef9896b9c229b1d; reviewed ledger and verified Asana receipts: artifacts/commercial-l10-2026-09-29/]
 
-- T487: Fleet backup reliability repair - September 28 fleet backup `20260928T140422Z-45ffeaf4` failed during Leasing application transfer after 300 seconds and 500,170,752 of 515,672,133 bytes. The September 18 backup also failed before publishing a complete set, so this is a recurring recovery-control gap. Review transfer sizing/throughput and implement a bounded resumable or otherwise failure-safe transfer path, preserving activity gates and without replaying production business work. Verify a complete offhost set and restore manifest before closing. Last verified complete set: `20260926T071531Z-e9a8706a` (September 26, 02:25:45 CDT). [source: fleet backup receipt 2026-09-28; canonical: memory/projects/anchor-agent-fleet.md] [system: Anchor fleet backups]
+- T487: Fleet backup reliability repair - The September 30 fleet backup `20260930T071645Z-b4b16ef1` failed safely at the Leasing application active-work guard, following the September 28 transfer timeout (300 seconds; 500,170,752 of 515,672,133 bytes) and the September 18 pre-publication failure. This is now three consecutive scheduled runs without a complete set. Review transfer/activity preflight and implement a bounded resumable or otherwise failure-safe transfer path, preserving activity gates and without replaying production business work. Verify a complete offhost set and restore manifest before closing. Last verified complete set: `20260926T071531Z-e9a8706a` (September 26, 02:25:45 CDT). [source: fleet backup receipts 2026-09-18, 2026-09-28, 2026-09-30; canonical: memory/projects/anchor-agent-fleet.md] [system: Anchor fleet backups]
 
 - T482: September 28 Leasing - Maple Row former Henderson Nutrition: contact the prospect list and record fit. Contact the remaining prospect list and capture responses for the small former smoothie-shop suite. Prior callers have already been contacted; use Facebook or website/email contact channels for relevant small operators when needed. Check size/use fit. This is leasing prospect outreach, separate from PM's existing Flavors expansion work; no contact performed by this executor. [asana: 1218957292745605] [source: Leasing 2026-09-28, of_5c4ed18a580f1bc2ccaf7e149a2ae9a1, 06:47-07:46]
 
@@ -897,3 +897,5 @@ Note: WATCHING items should be removed once real movement comes in. Gastonia lau
 
 
 
+
+- T476 update (2026-09-30 5:03 PM CDT): Google sent another authenticated `Security alert` for a new Mac OS sign-in to `jdelk@anchorinv.com` at 4:45 PM CDT. The alert identifies neither device owner, location nor IP. Confirm this was an authorized session; if not, review Google Account security activity and sign out the device. [gmail thread/message: 1a0f4479b825277e] [source: Communication Triage 2026-09-30 5 PM] [security]
