@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T12:31:00.841738",
+  "lastUpdated": "2026-10-01T13:31:00.627163",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/28/26",
   "today": {
     "date": "2026-10-01",
@@ -55,6 +55,11 @@
       "nextStep": "Verify the co-tenancy provision and current rent ledger before treating the reported sales-rent posture as confirmed.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-10-01",
+          "event": "Email from Manuel Veliz: Five Below - Malone, NY - TI Set for LL review",
+          "type": "email"
+        },
         {
           "date": "2026-09-24",
           "event": "Briefing: overnight Leasing Operations report says Shoe Department Encore opened September 23; reported co-tenancy/sales-rent context awaits verification.",
