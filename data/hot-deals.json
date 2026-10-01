@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T07:16:28.112089",
+  "lastUpdated": "2026-10-01T07:16:52.836342",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/28/26",
   "today": {
     "date": "2026-10-01",
@@ -10050,34 +10050,34 @@
       "details": {
         "lastEmailDate": "2026-09-28",
         "lastPipedriveDate": "2026-02-19",
-        "emailDaysAgo": 2,
-        "pipedriveDaysAgo": 223
+        "emailDaysAgo": 3,
+        "pipedriveDaysAgo": 224
       }
     },
     {
       "deal": "Wingstop",
       "property": "McMinnville Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 9/29, Pipedrive not updated since 4/27",
+      "message": "Last email 9/30, Pipedrive not updated since 4/27",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-09-29",
+        "lastEmailDate": "2026-09-30",
         "lastPipedriveDate": "2026-04-27",
         "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 156
+        "pipedriveDaysAgo": 157
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "pipedrive-active-no-email",
-      "message": "Pipedrive updated 9/29, last email was 3/11 (203d ago)",
+      "message": "Pipedrive updated 9/29, last email was 3/11 (204d ago)",
       "severity": "medium",
       "details": {
         "lastEmailDate": "2026-03-11",
         "lastPipedriveDate": "2026-09-29",
-        "emailDaysAgo": 203,
-        "pipedriveDaysAgo": 1
+        "emailDaysAgo": 204,
+        "pipedriveDaysAgo": 2
       }
     }
   ],
