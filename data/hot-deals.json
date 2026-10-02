@@ -1,58 +1,63 @@
 {
-  "lastUpdated": "2026-10-02T12:31:02.235561",
+  "lastUpdated": "2026-10-02T13:30:20.333705",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/28/26",
   "today": {
     "date": "2026-10-02",
-    "greeting": "Good morning, Jacob. You have 26 overdue items.",
+    "greeting": "Good afternoon, Jacob. Happy Friday.",
     "meetings": [
       {
-        "time": "12:00 AM",
-        "title": "Ryan Birthday",
-        "dealContext": "Stage: Trading Terms | Fresh TJX sizing/economics signal from Seth Biggerstaff: TJX is touring soon, li… | Next: Keep TJX economics in the redevelopment/package math alongside Dutch Bros, car wash/QSR options, and Vendors Village."
-      },
-      {
-        "time": "12:00 AM",
-        "title": "Weekly Report Due: See Notes",
+        "time": "",
+        "title": "ID\tSTART\tEND\tSUMMARY",
         "dealContext": null
       },
       {
-        "time": "12:00 AM",
-        "title": "Weekly Report Due: See Notes",
+        "time": "1mov6e4vs8eme332tci3",
+        "title": "mg7164_20261002\t2026-10-02\t2026-10-03\tRyan Birthday",
         "dealContext": null
       },
       {
-        "time": "8:45 AM",
-        "title": "Leasing Morning Standup",
-        "dealContext": "Stage: Contact Made | Nathan M. requested pricing for each currently available lease space. No busines… | Next: Ask Nathan for his business type and square-footage requirement, then provide the matching availability and approved pricing posture."
-      },
-      {
-        "time": "9:00 AM",
-        "title": "Shout - Outs",
+        "time": "71hjce1gcpgmabb368qj",
+        "title": "eb9k74o68bb2ckojcbb46lgjed1lcgo30eb2cg_20261002\t2026-10-02\t2026-10-03\tWeekly Report Due: See Notes",
         "dealContext": null
       },
       {
-        "time": "9:30 AM",
-        "title": "930 Prayer for Anchor ",
+        "time": "7g71fji603nuulpddd0i",
+        "title": "frboe3_20261002\t2026-10-02\t2026-10-03\tWeekly Report Due: See Notes",
         "dealContext": null
       },
       {
-        "time": "12:00 PM",
-        "title": "Weekly Report - Fill out by 12 on Fridays",
+        "time": "08cg3deer5hana3ch63q",
+        "title": "c8b7to_20261002T134500Z\t2026-10-02T08:45:00-05:00\t2026-10-02T09:00:00-05:00\tLeasing Morning Standup",
         "dealContext": null
       },
       {
-        "time": "1:30 PM",
-        "title": "Fw: Sloan - LOI Drafts for Review",
+        "time": "p0r3f23ieqjknaci627f",
+        "title": "7th4sp_20261002T140000Z\t2026-10-02T09:00:00-05:00\t2026-10-02T09:30:00-05:00\tShout - Outs",
         "dealContext": null
       },
       {
-        "time": "3:00 PM",
-        "title": "PCON Venture Philanthropy Monthly Committee Meeting",
+        "time": "4hl3r5q1k1mkurjsqqdc",
+        "title": "diu5qs_20261002T143000Z\t2026-10-02T09:30:00-05:00\t2026-10-02T10:00:00-05:00\t930 Prayer for Anchor",
         "dealContext": null
       },
       {
-        "time": "3:45 PM",
-        "title": "Commissions (Anchor + Delk)",
+        "time": "38t110fnrv533p1g2m1e",
+        "title": "b45hlc_20261002T170000Z\t2026-10-02T12:00:00-05:00\t2026-10-02T12:15:00-05:00\tWeekly Report - Fill out by 12 on Fridays",
+        "dealContext": null
+      },
+      {
+        "time": "_60q30c1g60o30e1i60o",
+        "title": "4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g84o3eha67534ah9k6kok8h1g64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g84p3ee1j6cpjichg8cr34cpk6l13acq56d336e256sp3egpi6csg\t2026-10-02T13:30:00-05:00\t2026-10-02T14:00:00-05:00\tFw: Sloan - LOI Drafts for Review",
+        "dealContext": null
+      },
+      {
+        "time": "0risbd2lv9afu3tdjm70",
+        "title": "4e9v2h\t2026-10-02T14:30:00-05:00\t2026-10-02T15:00:00-05:00\tAnchor x Freedom Group: AI Discussion",
+        "dealContext": null
+      },
+      {
+        "time": "_60q30c1g60o30e1i60o",
+        "title": "4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g64okagq570q3gd1n651k8h1g64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g8kp3icpj6l0jadi3610jcg9k6p132da170s4cdhh6sr32ga284og_20260925T130000Z\t2026-10-02T15:00:00-05:00\t2026-10-02T15:30:00-05:00\tPCON Venture Philanthropy Monthly Committee Meeting",
         "dealContext": null
       }
     ],
@@ -4948,6 +4953,11 @@
         "Michael R. (Crexi - contact details unavailable)"
       ],
       "timeline": [
+        {
+          "date": "2026-10-02",
+          "event": "Email from Michael Finucane: Mallory Proposal",
+          "type": "email"
+        },
         {
           "date": "2026-09-28",
           "event": "Email from Michael Simmons: 2026 Grow Season starts this Thursday 10/1/26",
@@ -10095,14 +10105,13 @@
     ]
   },
   "funnel": {
-    "Contact Made": 2,
-    "Touring": 3,
-    "Obtain Financials": 1,
-    "Trading Terms": 4,
-    "LOI": 3,
-    "Lease Draft & Review": 5,
-    "Stalled": 30,
-    "Lease Signed": 9
+    "Contact Made": 0,
+    "Touring": 0,
+    "Obtain Financials": 0,
+    "Trading Terms": 0,
+    "LOI": 1,
+    "Lease Draft & Review": 2,
+    "Stalled": 12
   },
   "brainDumps": [],
   "actionItems": [
