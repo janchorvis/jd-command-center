@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T16:30:20.203978",
+  "lastUpdated": "2026-10-02T17:30:20.075289",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/28/26",
   "today": {
     "date": "2026-10-02",
@@ -1474,6 +1474,11 @@
       "nextStep": "September 17 tracking update: the linked Wingstop renewal-option notice follow-up is marked completed in Asana. Do not recreate/reopen it. The meeting's six-month proposal and possible three-month fallback remain historical; verify actual executed notice language rather than infer an amendment or accepted term from task completion. Keep separate opening/commission obligations distinct.",
       "priority": "high",
       "timeline": [
+        {
+          "date": "2026-10-02",
+          "event": "Email from Kevin Trujillo: Cosmo + Wingstop",
+          "type": "email"
+        },
         {
           "date": "2026-09-30",
           "event": "Email from Adam Heston: Wingstop Broker Invoice- First half",
