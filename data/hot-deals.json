@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T14:30:20.286513",
+  "lastUpdated": "2026-10-02T15:30:20.024733",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/28/26",
   "today": {
     "date": "2026-10-02",
@@ -612,6 +612,11 @@
       "nextStep": "Jacob/Eli/Clay need to send or confirm the complete vendor setup packet back to Shoe Dept lease administration.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-10-02",
+          "event": "Email from Landlord Repairs: ***URGENCY REQUIRED***Fire Panel / registering trouble - Store 1977 Shoe Dept. E",
+          "type": "email"
+        },
         {
           "date": "2026-09-25",
           "event": "Email from Lauer, Tracy: Shoe Dept Invoice",
