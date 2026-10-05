@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T17:12:41.347363",
+  "lastUpdated": "2026-10-05T17:30:21.429795",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/28/26",
   "today": {
     "date": "2026-10-05",
@@ -1011,6 +1011,11 @@
       "nextStep": "Jacob should incorporate Trace's repair update into the Fat Bottom/new-tenant walkthrough posture and decide roof/door-handle responsibility before the next walkthrough conversation.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-10-05",
+          "event": "Email from Micah Lacher: Fwd: New Invoice (INV-14362-1) from Charles Hawkins Co.",
+          "type": "email"
+        },
         {
           "date": "2026-09-30",
           "event": "Email from Micah Lacher: Fwd: New Invoice (INV-14362-1) from Charles Hawkins Co.",
@@ -4952,6 +4957,11 @@
       "timeline": [
         {
           "date": "2026-10-05",
+          "event": "Email from Michael Finucane: Mallory Proposal",
+          "type": "email"
+        },
+        {
+          "date": "2026-10-05",
           "event": "Email from Michael Zimmerman | Katz & Associates: Heartland Dental in St. Peters, MO Available for Sale",
           "type": "email"
         },
@@ -8866,6 +8876,11 @@
       "priority": "medium",
       "contacts": [],
       "timeline": [
+        {
+          "date": "2026-10-05",
+          "event": "Email from Jacob Delk: Re: Shelbyville, IN Dutch Bros",
+          "type": "email"
+        },
         {
           "date": "2026-10-05",
           "type": "meeting",
