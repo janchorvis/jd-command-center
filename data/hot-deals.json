@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T16:30:22.549858",
+  "lastUpdated": "2026-10-05T17:12:41.347363",
   "sourceDoc": "Leasing Meeting Prep - Week of 9/28/26",
   "today": {
     "date": "2026-10-05",
@@ -43,7 +43,18 @@
       "Hope Smiles: get Dr. Kemp's go/no-go requirements before negotiating.",
       "Sevierville former Big Lots: set unified Bealls/America's Thrift/ECHO posture before any response.",
       "Sevierville chicken outparcel: resolve Ashby edits and return revised lease by October 6.",
-      "PCON: complete leadership-planning form due October 5."
+      "PCON: complete leadership-planning form due October 5.",
+      "PetSmart Hendersonville: await Moats blend-and-extend proposal (T499): WAITING",
+      "MacPherson: confirm HVAC delivery language and issue the drafted lease (T462): OPEN",
+      "Sevierville chicken outparcel: obtain prototype and opening schedule (T274): WAITING / OPEN NEXT CONTACT",
+      "McMinnville playground: address condition concerns and await market research (T500): OPEN / WAITING",
+      "Dutch Bros Shelbyville: introduce surveyor and supply subdivision package (T289): OPEN",
+      "Harrison CR Deals: verify October 2 visit and prospect response (T501): OPEN",
+      "Pell City Kolectic: obtain lease-review timetable and clarify HVAC delivery (T473): WAITING / OPEN FOLLOW-UP",
+      "Wilson Amazon: ask Jay Murphy for reengagement timing against school LOI (T502): OPEN",
+      "Wilson Celebree: verify financial package and develop an exploratory counter (T503): OPEN / WAITING ON VERIFIED FINANCIALS",
+      "Leasing: resolve shared Asset Edge pipeline and reporting approach (T484): OPEN",
+      "Pipedrive: confirm Ryan usage and agree a bounded data-export exit (T504): OPEN"
     ]
   },
   "pipelineDeals": [
@@ -6963,6 +6974,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-10-05",
+          "type": "meeting",
+          "event": "Amazon may pause, not confirmed withdrawn; Jacob to ask Jay for reengagement timing against genuine Celebree LOI. Celebree $40/SF TI rejected; financial-package receipt/available funds, exploratory counter, playground boundaries, dumpster/loading constraints and competing use paths remain unresolved. No counter or physical work approved."
+        },
+        {
           "date": "2026-10-01",
           "event": "Email from Jacob Delk: 312 Wilson Pike Cir",
           "type": "email"
@@ -7980,9 +7996,9 @@
       "id": "forks-of-the-river-qsr-chicken-outparcel-sale",
       "name": "QSR Chicken Concept",
       "property": "Sevierville / Forks of the River Shopping Center",
-      "status": "September 28: Jacob reported emailing Ashby about the Sevierville chicken outparcel draft; WAITING on her response.",
-      "stage": "LOI",
-      "nextStep": "WAITING on Ashby after Jacob reported emailing her that morning at Caleb's request. Preserve the completed historical send-draft task; this follow-up is receipt of the legal-review response, not resending or proof of approved draft/execution. No due date.",
+      "status": "October 5: initial chicken-outparcel lease is with Caleb/the tenant after legal review; WAITING on review timetable. No executed lease.",
+      "stage": "Lease Draft & Review",
+      "nextStep": "The first lease is with Caleb/the tenant following legal review; WAITING on their review timetable. At the next Caleb contact, Jacob to ask how the prototype is progressing, the overall schedule and intended opening. Review of multiple REAs, amendments, exclusives and restrictions was reported, not a new consent-check assignment or executed lease. Preserve the existing review/return history.",
       "priority": "high",
       "contacts": [
         "Caleb Glafenhein (Greenbrier Real Estate Advisors)",
@@ -7992,6 +8008,11 @@
         "Mahogany Properties"
       ],
       "timeline": [
+        {
+          "date": "2026-10-05",
+          "type": "meeting",
+          "event": "Lease with tenant; ask Caleb at next contact for prototype progress, overall schedule and intended opening."
+        },
         {
           "date": "2026-09-28",
           "type": "meeting",
@@ -8080,7 +8101,7 @@
         "suiteCount": 9,
         "vacantCount": 0
       },
-      "stageOverride": "LOI"
+      "stageOverride": "Lease Draft & Review"
     },
     {
       "id": "harrison-square-trent-d-crexi",
@@ -8839,12 +8860,17 @@
       "id": "shelbyville-dutch-bros",
       "name": "Dutch Bros",
       "property": "Shelbyville",
-      "status": "September 28: survey availability and utility diligence remain unresolved. Additional leasing-team surveyor leads/referrals are being pursued; no fee, completion date or cost allocation agreed.",
+      "status": "October 5: proceed with Adam-to-Micah surveyor introduction and existing-document/subdivision scope handoff; no fee, completion date or utility-cost allocation approved.",
       "stage": "Trading Terms",
-      "nextStep": "Adam to send his additional surveyor list; Micah to ask Josh for help or a referral. This is the explicit leasing-owned referral follow-up, distinct from Clay's existing surveyor callback work. The first contact reportedly cannot work until December; verify the outcome of the alternate callback expected September 28 through PM. Survey/utility diligence and availability remain unresolved, with no accepted fee, completion deadline or cost allocation. Existing prior layout/economics task remains completed.",
+      "nextStep": "Adam to introduce Micah to his surveyor. After the introduction, Micah to send the original survey, ALTA survey, original and ALTA title materials, and available CAD. Micah to explain the future subdivision/sale and request a separate Dutch Bros legal description. Proceeding with the introduction is not approval of a survey fee, completion date or utility/cost allocation. Clay's separate PM coordination stays in its original project.",
       "priority": "medium",
       "contacts": [],
       "timeline": [
+        {
+          "date": "2026-10-05",
+          "type": "meeting",
+          "event": "Adam to introduce surveyor; Micah to send original/ALTA survey and title materials plus CAD, and request separate Dutch Bros legal description for future subdivision/sale."
+        },
         {
           "date": "2026-09-30",
           "event": "Email from Jacob Delk: Re: Shelbyville, IN Dutch Bros",
