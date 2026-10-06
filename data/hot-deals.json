@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T15:30:22.258547",
+  "lastUpdated": "2026-10-06T16:30:22.676132",
   "sourceDoc": "Leasing Meeting Prep - Week of 10/05/26",
   "today": {
     "date": "2026-10-06",
@@ -5074,6 +5074,11 @@
       "lastUpdate": "2026-03-11",
       "timeline": [
         {
+          "date": "2026-10-06",
+          "event": "Email from Hope Smiles: This Past Month at Hope Smiles: September 2026",
+          "type": "email"
+        },
+        {
           "date": "2026-09-16",
           "event": "Email from Hope Smiles: There's Still Time to RSVP!",
           "type": "email"
@@ -8731,6 +8736,11 @@
       ],
       "timeline": [
         {
+          "date": "2026-10-06",
+          "event": "Email from Chris Crockett: 235 E Main St Inquiry",
+          "type": "email"
+        },
+        {
           "date": "2026-10-05",
           "event": "Email from Chris Crockett: 235 E Main St Inquiry",
           "type": "email"
@@ -10106,13 +10116,6 @@
       "deal": "America's Thrift Stores — McMinnville / Gastonia / Columbia",
       "daysSinceContact": 22,
       "lastAction": "Email from Justin Schad: Sevierville, TN - 201 Forks of the River Pkwy (Big Lot'",
-      "urgency": "high"
-    },
-    {
-      "name": "Amy Harper",
-      "deal": "HopeSmiles — 1573 Mallory Lane / Multiple Nashville options",
-      "daysSinceContact": 20,
-      "lastAction": "Email from Hope Smiles: There's Still Time to RSVP!",
       "urgency": "high"
     },
     {
