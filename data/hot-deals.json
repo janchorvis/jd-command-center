@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T10:30:22.782128",
+  "lastUpdated": "2026-10-06T11:30:22.283504",
   "sourceDoc": "Leasing Meeting Prep - Week of 10/05/26",
   "today": {
     "date": "2026-10-06",
@@ -8884,6 +8884,11 @@
       "priority": "medium",
       "contacts": [],
       "timeline": [
+        {
+          "date": "2026-10-06",
+          "event": "Email from Jacob Delk: Re: Shelbyville, IN Dutch Bros",
+          "type": "email"
+        },
         {
           "date": "2026-10-05",
           "event": "Email from Jacob Delk: Re: Shelbyville, IN Dutch Bros",
