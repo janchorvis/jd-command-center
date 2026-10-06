@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T07:15:46.046502",
+  "lastUpdated": "2026-10-06T07:16:10.247617",
   "sourceDoc": "Leasing Meeting Prep - Week of 10/05/26",
   "today": {
     "date": "2026-10-06",
@@ -10165,29 +10165,16 @@
   ],
   "crossRefAlerts": [
     {
-      "deal": "CosmoProf",
-      "property": "River Parkway Plaza",
-      "type": "email-active-pipedrive-stale",
-      "message": "Last email 9/28, Pipedrive not updated since 2/19",
-      "severity": "high",
-      "details": {
-        "lastEmailDate": "2026-09-28",
-        "lastPipedriveDate": "2026-02-19",
-        "emailDaysAgo": 7,
-        "pipedriveDaysAgo": 228
-      }
-    },
-    {
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 10/1, Pipedrive not updated since 5/4",
+      "message": "Last email 10/5, Pipedrive not updated since 5/4",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-10-01",
+        "lastEmailDate": "2026-10-05",
         "lastPipedriveDate": "2026-05-04",
-        "emailDaysAgo": 4,
-        "pipedriveDaysAgo": 154
+        "emailDaysAgo": 1,
+        "pipedriveDaysAgo": 155
       }
     },
     {
@@ -10199,21 +10186,21 @@
       "details": {
         "lastEmailDate": "2026-10-02",
         "lastPipedriveDate": "2026-04-27",
-        "emailDaysAgo": 3,
-        "pipedriveDaysAgo": 161
+        "emailDaysAgo": 4,
+        "pipedriveDaysAgo": 162
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "pipedrive-active-no-email",
-      "message": "Pipedrive updated 9/29, last email was 3/11 (208d ago)",
+      "message": "Pipedrive updated 10/6, last email was 3/11 (209d ago)",
       "severity": "medium",
       "details": {
         "lastEmailDate": "2026-03-11",
-        "lastPipedriveDate": "2026-09-29",
-        "emailDaysAgo": 208,
-        "pipedriveDaysAgo": 6
+        "lastPipedriveDate": "2026-10-06",
+        "emailDaysAgo": 209,
+        "pipedriveDaysAgo": 0
       }
     }
   ],
