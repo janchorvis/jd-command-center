@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T15:30:46.481217",
+  "lastUpdated": "2026-10-07T16:30:46.094212",
   "sourceDoc": "Leasing Meeting Prep - Week of 10/05/26",
   "today": {
     "date": "2026-10-07",
@@ -71,6 +71,11 @@
       "nextStep": "Verify the co-tenancy provision and current rent ledger before treating the reported sales-rent posture as confirmed.",
       "priority": "medium",
       "timeline": [
+        {
+          "date": "2026-10-07",
+          "event": "Email from Warren, Desiree: RE: Five Below Kickoff Call - Malone, NY",
+          "type": "email"
+        },
         {
           "date": "2026-10-05",
           "event": "Email from Manuel Veliz: Five Below - Malone, NY - TI Set for LL review",
