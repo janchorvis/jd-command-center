@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T07:16:10.988282",
+  "lastUpdated": "2026-10-08T07:16:35.671210",
   "sourceDoc": "Leasing Meeting Prep - Week of 10/05/26",
   "today": {
     "date": "2026-10-08",
@@ -10287,26 +10287,26 @@
       "deal": "CosmoProf",
       "property": "River Parkway Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 10/6, Pipedrive not updated since 2/19",
+      "message": "Last email 10/7, Pipedrive not updated since 2/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-10-06",
+        "lastEmailDate": "2026-10-07",
         "lastPipedriveDate": "2026-02-19",
         "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 230
+        "pipedriveDaysAgo": 231
       }
     },
     {
       "deal": "Five Below",
       "property": "Malone Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 10/5, Pipedrive not updated since 5/4",
+      "message": "Last email 10/7, Pipedrive not updated since 5/4",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-10-05",
+        "lastEmailDate": "2026-10-07",
         "lastPipedriveDate": "2026-05-04",
-        "emailDaysAgo": 2,
-        "pipedriveDaysAgo": 156
+        "emailDaysAgo": 1,
+        "pipedriveDaysAgo": 157
       }
     },
     {
@@ -10318,21 +10318,21 @@
       "details": {
         "lastEmailDate": "2026-10-02",
         "lastPipedriveDate": "2026-04-27",
-        "emailDaysAgo": 5,
-        "pipedriveDaysAgo": 163
+        "emailDaysAgo": 6,
+        "pipedriveDaysAgo": 164
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "pipedrive-active-no-email",
-      "message": "Pipedrive updated 10/6, last email was 3/11 (210d ago)",
+      "message": "Pipedrive updated 10/6, last email was 3/11 (211d ago)",
       "severity": "medium",
       "details": {
         "lastEmailDate": "2026-03-11",
         "lastPipedriveDate": "2026-10-06",
-        "emailDaysAgo": 210,
-        "pipedriveDaysAgo": 1
+        "emailDaysAgo": 211,
+        "pipedriveDaysAgo": 2
       }
     }
   ],
