@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T07:16:10.590972",
+  "lastUpdated": "2026-10-09T07:16:35.508491",
   "sourceDoc": "Leasing Meeting Prep - Week of 10/05/26",
   "today": {
     "date": "2026-10-09",
@@ -10297,13 +10297,13 @@
       "deal": "CosmoProf",
       "property": "River Parkway Plaza",
       "type": "email-active-pipedrive-stale",
-      "message": "Last email 10/7, Pipedrive not updated since 2/19",
+      "message": "Last email 10/8, Pipedrive not updated since 2/19",
       "severity": "high",
       "details": {
-        "lastEmailDate": "2026-10-07",
+        "lastEmailDate": "2026-10-08",
         "lastPipedriveDate": "2026-02-19",
         "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 231
+        "pipedriveDaysAgo": 232
       }
     },
     {
@@ -10315,8 +10315,8 @@
       "details": {
         "lastEmailDate": "2026-10-07",
         "lastPipedriveDate": "2026-05-04",
-        "emailDaysAgo": 1,
-        "pipedriveDaysAgo": 157
+        "emailDaysAgo": 2,
+        "pipedriveDaysAgo": 158
       }
     },
     {
@@ -10328,21 +10328,21 @@
       "details": {
         "lastEmailDate": "2026-10-02",
         "lastPipedriveDate": "2026-04-27",
-        "emailDaysAgo": 6,
-        "pipedriveDaysAgo": 164
+        "emailDaysAgo": 7,
+        "pipedriveDaysAgo": 165
       }
     },
     {
       "deal": "Anytime Fitness (Derek Tucker)",
       "property": "Shelbyville",
       "type": "pipedrive-active-no-email",
-      "message": "Pipedrive updated 10/6, last email was 3/11 (211d ago)",
+      "message": "Pipedrive updated 10/6, last email was 3/11 (212d ago)",
       "severity": "medium",
       "details": {
         "lastEmailDate": "2026-03-11",
         "lastPipedriveDate": "2026-10-06",
-        "emailDaysAgo": 211,
-        "pipedriveDaysAgo": 2
+        "emailDaysAgo": 212,
+        "pipedriveDaysAgo": 3
       }
     }
   ],
