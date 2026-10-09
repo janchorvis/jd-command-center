@@ -2,7 +2,7 @@
 
 Last updated: 2026-10-07
 
-<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T515 -->
+<!-- FORMAT: Each task has a stable ID (T###). IDs are never reused. Next ID: T517 -->
 
 ## ACTIVE — Jacob needs to do these
 
@@ -156,6 +156,10 @@ Last updated: 2026-10-07
 - T421: STALE / NO COMPLETION PROOF: PCON Board Meeting prep / September 15 — the original EOD Friday 2026-09-04 deadline passed. Complete Jacob's row in the board-prep sheet, update his section of the Metrics tab, send Chris Keenan any attachments/links for the club, register for dinner through Eventbrite, and include Chris's September 4 final-bylaws review request in the prep pass. The board meeting is Tuesday 2026-09-15 at the Community Foundation of Middle Tennessee, 3421 Belmont Blvd, Nashville. The automatic Big Board task-intake command was attempted in this run but Hermes blocked `jarvis_ops.py` because its reviewed multi-command script contains gateway-control capabilities; no Asana task was created. [gmail thread/message: 1a06252ce1945fa3] [source: Communication Triage 2026-09-02 9 AM; Communication Triage 2026-09-04 3 PM; Self-review 2026-09-07] [project: PCON]
 
 ### This Week (week of 5/11)
+
+- T516: Leasing: qualify missed call from (843) 509-7213 — Anchor Leasing Operations logged a missed Google Voice call from (843) 509-7213 at 2:32 PM CDT on October 8. It was attached to an existing AssetEdge lead (deal 7767d066-769b-470c-8b8a-c25bf2c86d65), but the Slack receipt identifies no property and no voicemail. Leasing needs to identify the caller, property/use, and lead context before any callback or sharing availability, rates, pricing, or terms. No external call or message was made. [asana: 1219340624381227] [source: Communication Triage Slack receipt 2026-10-08 4 PM]
+
+- T515: SECURITY / Google Workspace phishing alert for natalia@lamaisontile.com — Google Workspace Alert Center reports one message from natalia@lamaisontile.com was classified as phishing by jdelk@anchorinv.com, severity HIGH, at 2026-10-08 19:48:05 UTC. Verify the source message and remediation in Google Admin Alert Center; do not open untrusted links. [asana: 1219340547097090] [source: Gmail thread/message 1a11d0f0d1904108; Communication Triage 2026-10-08 4 PM]
 
 
 - T505: SECURITY / Google Workspace phishing alert for rlookadoo@hrchitecture.biz — Google Workspace Alert Center reports one message from rlookadoo@hrchitecture.biz was classified as phishing by jdelk@anchorinv.com, severity HIGH, at 2026-10-06 02:44:58 UTC. Verify the source message and remediation in Google Admin Alert Center; do not open untrusted links. [asana: 1219223458436371] [source: Communication Triage 2026-10-06 9 AM]
